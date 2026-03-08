@@ -22,14 +22,13 @@ references:
   - "Brown P. The interaction between incisor inclination and dental health: I. Incisor inclination and the deciduous dentition. Br Dent J. 1958;104(10):406-414."
   - "Al-Musawi A, Ayoub F. Early application of palatal expansion for correction of asymmetric maxillary development: case report. J Clin Pediatr Dent. 2012;37(1):109-113."
 ---
-
 ## Do We Always Need to Extract Teeth?
 
 One of the biggest questions in braces treatment is whether you need to have some teeth pulled out. This has actually been debated by orthodontists for decades, and the honest answer is: it depends. Some cases need extractions to work out well, and some don't.
 
-There's no one-size-fits-all answer. The orthodontist will figure out what's best for your specific situation. For more details, see our guide on [Accelerated Orthodontia](/article/accelerated-orthodontia-fast-track-braces.html).
+There's no one-size-fits-all answer. The orthodontist will figure out what's best for your specific situation.
 
-When you DON'T extract teeth, your orthodontist creates space by moving your back teeth backward or out a bit, and by tipping your front teeth forward slightly. This changes the shape of your mouth a little. When you DO extract teeth, you remove one or two teeth (usually smaller teeth) to create instant space, so your remaining teeth have room to line up without all that tipping and moving around. Both approaches can work great if done the right way. For more details, see our guide on [Accelerated Orthodontics](/article/accelerated-orthodontics-speeding-up-your-treatment.html).
+When you DON'T extract teeth, your orthodontist creates space by moving your back teeth backward or out a bit, and by tipping your front teeth forward slightly. This changes the shape of your mouth a little. When you DO extract teeth, you remove one or two teeth (usually smaller teeth) to create instant space, so your remaining teeth have room to line up without all that tipping and moving around. Both approaches can work great if done the right way.
 
 ## How Much Crowding Do You Have?
 
@@ -79,27 +78,16 @@ Will my teeth stay straight? What's the long-term plan? Make sure you actually u
 
 Both extraction and non-extraction can give you a great smile. The choice depends on how much space you're missing, your face shape, your age, and what look YOU want. There's no single right answer—there's only what's right for you. Your orthodontist will help you figure it out, but make sure you understand the choice and feel good about the decision before treatment starts.
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+Related reading: [Why Your Braces Appointments Matter](/article/orthodontic-appointment-frequency-complete-guide.html) and [Cost of Aligner Wear Schedule](/article/cost-of-aligner-wear-schedule.html).
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Extraction versus non-extraction represents a legitimate clinical choice dependent on precise diagnosis, patient esthetics and functional objectives, skeletal and vertical characteristics, and growth potential. Both approaches yield successful outcomes in appropriately selected patients. If you have questions, your dentist can help you understand your options. Talk to your dentist about what options work best for your situation.
 
-> **Key Takeaway:** One of the biggest questions in braces treatment is whether you need to have some teeth pulled out. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** One of the biggest questions in braces treatment is whether you need to have some teeth pulled out.
 
 ## Related Articles
 

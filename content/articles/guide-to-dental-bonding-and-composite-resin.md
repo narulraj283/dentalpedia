@@ -32,7 +32,6 @@ references:
   - title: "Ferracane JL. Resin composite—state of the art. Dent Mater. 2011;27(1):29-38."
     url: "https://www.ncbi.nlm.nih.gov/pubmed"
 ---
-
 ## How Modern Tooth-Colored Fillings Work
 
 When you get a cavity filled today, your dentist likely uses a tooth-colored material called composite resin instead of silver amalgam. These white or tooth-shaded fillings bond chemically to your tooth, rather than just sitting in a hole like the old fillings did. This is called adhesive dentistry, and it's one of the biggest advances in dentistry over the past 70 years.
@@ -166,9 +165,6 @@ Postoperative tooth sensitivity frequently accompanies composite restorations (u
 
 Prevention through thermal protection (water spray during instrumentation), limiting cavity preparation depth to 1.5 mm from pulpal tissue, and calcium hydroxide base application in deep cavities reduces sensitivity incidence. Adequate bonding protocol adherence and complete resin coverage of dentin reduces exposed dentinal tubule patency, minimizing fluid movement triggering hydrodynamic sensitivity.
 
-## Conclusion
-
-Composite resin fillings bonded to your tooth represent a major advance in restorative dentistry. The combination of tooth-colored esthetics, minimal tooth removal, and reliable adhesion makes them ideal for most cavities. When placed properly and maintained with good oral hygiene, these fillings last 7-10 years or longer. Understanding how bonding works helps you make informed decisions about your oral health and care for your restorations properly.
 
 ## Conclusion
 

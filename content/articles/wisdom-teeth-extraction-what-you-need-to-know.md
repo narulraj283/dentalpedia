@@ -32,7 +32,6 @@ references:
   - title: "Psychological factors influencing recovery after oral surgery"
     url: https://pubmed.ncbi.nlm.nih.gov/21357945/
 ---
-
 ## Why Do Wisdom Teeth Need to Come Out?
 
 About 10 million wisdom tooth extractions happen every year in the United States—they're one of the most common dental procedures. But here's an important question: does your mouth actually need the surgery, or is it just preventative? The answer matters because not all wisdom teeth should be removed.

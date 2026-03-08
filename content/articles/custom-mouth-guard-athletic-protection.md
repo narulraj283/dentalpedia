@@ -22,7 +22,6 @@ references:
   - "Perunski S, Soporowski N, Bahler C. Effectiveness of mouthguards in football: a prospective study. Dental Traumatology. 2004;20(1):39-46."
   - "Garon MW, Merkle A, Wright JM. Mouth protectors: do they protect? Journal of the American Dental Association. 1986;112(6):663-667."
 ---
-
 If you participate in sports, you've probably heard about mouth guards. But did you know that 10 to 39 percent of all dental injuries happen during sports? Many of these injuries are preventable with proper mouth protection. Let's explore why mouth guards matter and which type provides the best protection.
 
 ## How Often Do Sports Injuries Happen to Teeth?
@@ -117,7 +116,7 @@ Growing children need more frequent inspection. As their teeth erupt and their j
 
 Custom mouth guards provide outstanding protection against sports-related tooth injuries—reducing tooth loss, fractures, and mouth cuts by 60 to 95 percent. They're comfortable, allow normal speech and breathing when properly made, and last two to three years with good care. For anyone participating in organized sports or high-impact activities, a custom mouth guard is one of the best investments you can make for your dental health and safety. Talk to your dentist about getting a properly fitted custom mouth guard before your next season starts.
 
-> **Key Takeaway:** Custom-fabricated athletic mouth guards reduce orofacial injury risk and protect dental health.
+> **Key Takeaway:** If you participate in sports, you've probably heard about mouth guards.
 
 ## Related Articles
 

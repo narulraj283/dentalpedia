@@ -1,38 +1,53 @@
 ---
-title: "Teeth Whitening Safety: Side Effects, Risk Mitigation,"
-slug: teeth-whitening-safety-side-effects-and-best-practices
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: "Comprehensive safety profile of tooth whitening including sensitivity prevalence, pulp effects, enamel changes, contraindications, and risk reduction..."
 date: 2026-03-05
+excerpt: Comprehensive safety profile of tooth whitening including sensitivity prevalence,
+  pulp effects, enamel changes, contraindications, and risk reduction...
 read_time: 11 min
+references:
+- title: 'Markowitz K. Pretty painful: why does tooth bleaching hurt? Medical Hypotheses.
+    2010;74(5):835-840.'
+  url: https://pubmed.ncbi.nlm.nih.gov/20005040
+- title: Haywood VB, Leonard RH, Nelson CF, et al. Effectiveness, longevity, and side
+    effects of adhesive composite resin in treating dentinal hypersensitivity. General
+    Dentistry. 1992;40(4):336-341.
+  url: https://pubmed.ncbi.nlm.nih.gov/1398189
+- title: Gerlach RW, Barker ML, Jacobs JW, et al. Safety and efficacy evaluation of
+    different bleaching concentrations with extended wear times. Compendium of Continuing
+    Education in Dentistry. 2002;23(11):1041-1050.
+  url: https://pubmed.ncbi.nlm.nih.gov/12557806
+- title: 'Tredwin CJ, Scully C, Batchelor PA, et al. Hydrogen peroxide exposure during
+    professional bleaching: Safety issues and recommendations. Journal of Esthetic
+    and Restorative Dentistry. 2006;18(5):304-313.'
+  url: https://pubmed.ncbi.nlm.nih.gov/17020496
+- title: Cintra LT, Benetti F, Azuma MM, et al. Evaluation of the cytotoxic effects
+    of bleaching agents on fibroblast and macrophage cell cultures. Journal of Endodontics.
+    2012;38(3):282-286.
+  url: https://pubmed.ncbi.nlm.nih.gov/22341062
+- title: Torres CR, Kose C, Tsuchiya S, et al. Hydrogen peroxide penetration into
+    the pulp chamber. International Endodontic Journal. 2009;42(9):806-813.
+  url: https://pubmed.ncbi.nlm.nih.gov/19549159
+- title: Zantner C, Beheim-Schwarzbach N, Neumann K, et al. Surface microhardness
+    of bleached enamel. Operative Dentistry. 2007;32(4):430-436.
+  url: https://pubmed.ncbi.nlm.nih.gov/17848872
+- title: Pluim LJ, Slot DE, Dörfer CE, et al. Efficacy of mechanical plaque removal
+    with elastomer tooth-brushing on bleeding, gingivitis and plaque levels. International
+    Journal of Dental Hygiene. 2014;12(1):38-46.
+  url: https://pubmed.ncbi.nlm.nih.gov/23802869
+- title: Bowman SJ. The chemistry and clinical behavior of tooth whitening procedures.
+    Journal of the American Dental Association. 1997;128(Suppl):60S-67S.
+  url: https://pubmed.ncbi.nlm.nih.gov/9150647
+- title: 'Joiner A. Whitening toothpastes: a review of the literature. Journal of
+    Dentistry. 2006;34(6):412-419.'
+  url: https://pubmed.ncbi.nlm.nih.gov/16569467
+reviewed: true
 reviewer_specialty: Cosmetic Dentistry
+slug: teeth-whitening-safety-side-effects-and-best-practices
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
-reviewed: true
-references:
-  - title: "Markowitz K. Pretty painful: why does tooth bleaching hurt? Medical Hypotheses. 2010;74(5):835-840."
-    url: https://pubmed.ncbi.nlm.nih.gov/20005040
-  - title: "Haywood VB, Leonard RH, Nelson CF, et al. Effectiveness, longevity, and side effects of adhesive composite resin in treating dentinal hypersensitivity. General Dentistry. 1992;40(4):336-341."
-    url: https://pubmed.ncbi.nlm.nih.gov/1398189
-  - title: "Gerlach RW, Barker ML, Jacobs JW, et al. Safety and efficacy evaluation of different bleaching concentrations with extended wear times. Compendium of Continuing Education in Dentistry. 2002;23(11):1041-1050."
-    url: https://pubmed.ncbi.nlm.nih.gov/12557806
-  - title: "Tredwin CJ, Scully C, Batchelor PA, et al. Hydrogen peroxide exposure during professional bleaching: Safety issues and recommendations. Journal of Esthetic and Restorative Dentistry. 2006;18(5):304-313."
-    url: https://pubmed.ncbi.nlm.nih.gov/17020496
-  - title: "Cintra LT, Benetti F, Azuma MM, et al. Evaluation of the cytotoxic effects of bleaching agents on fibroblast and macrophage cell cultures. Journal of Endodontics. 2012;38(3):282-286."
-    url: https://pubmed.ncbi.nlm.nih.gov/22341062
-  - title: "Torres CR, Kose C, Tsuchiya S, et al. Hydrogen peroxide penetration into the pulp chamber. International Endodontic Journal. 2009;42(9):806-813."
-    url: https://pubmed.ncbi.nlm.nih.gov/19549159
-  - title: "Zantner C, Beheim-Schwarzbach N, Neumann K, et al. Surface microhardness of bleached enamel. Operative Dentistry. 2007;32(4):430-436."
-    url: https://pubmed.ncbi.nlm.nih.gov/17848872
-  - title: "Pluim LJ, Slot DE, Dörfer CE, et al. Efficacy of mechanical plaque removal with elastomer tooth-brushing on bleeding, gingivitis and plaque levels. International Journal of Dental Hygiene. 2014;12(1):38-46."
-    url: https://pubmed.ncbi.nlm.nih.gov/23802869
-  - title: "Bowman SJ. The chemistry and clinical behavior of tooth whitening procedures. Journal of the American Dental Association. 1997;128(Suppl):60S-67S."
-    url: https://pubmed.ncbi.nlm.nih.gov/9150647
-  - title: "Joiner A. Whitening toothpastes: a review of the literature. Journal of Dentistry. 2006;34(6):412-419."
-    url: https://pubmed.ncbi.nlm.nih.gov/16569467
+title: 'Teeth Whitening Safety: Side Effects, Risk Mitigation'
 ---
-
 ## Introduction
 
 Professional teeth whitening is very safe when done properly. While some side effects are possible, they're almost always temporary and manageable. Understanding what might happen and how to prevent it helps you approach whitening confidently, knowing your teeth and health will be fine.

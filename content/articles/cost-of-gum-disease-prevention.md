@@ -20,7 +20,6 @@ references:
   - "American Academy of Periodontology. Position paper: prevention of periodontal diseases. J Periodontol. 2000;71(Suppl 5):873-875."
   - "DeClerck D, Leroy R, Martens L, et al. Oral health status and treatment needs in 6-year-old children in Flanders, Belgium. Community Dent Health. 2014;31(4):239-243."
 ---
-
 ## Why Gum Disease Prevention Matters More Than You Think
 
 Nearly half of American adults have some form of gum disease, and it gets worse as we age. By the time people reach 65, more than 70% have gum problems. The scariest part?
@@ -93,7 +92,7 @@ Recent research has found connections between gum disease and heart disease, dia
 
 Preventing gum disease costs $500-2,000 yearly and keeps your teeth for life. Ignoring gum disease costs $5,000-20,000 or more and results in tooth loss. The choice is clear: invest in prevention now or pay way more later. The good news is that gum disease is highly preventable and treatable if caught early. Talk to your dentist about which prevention and maintenance approaches are right for your specific risk level.
 
-> **Key Takeaway:** Nearly half of American adults have some form of gum disease, and it gets worse as we age.
+> **Key Takeaway:** By the time people reach 65, more than 70% have gum problems. The scariest part?
 
 ## Related Articles
 

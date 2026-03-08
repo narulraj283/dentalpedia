@@ -43,7 +43,6 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Risk and Concerns with Bite Correction Methods
 ---
-
 ## Why Your Bite Problems Need Different Solutions
 
 A bad bite (malocclusion) can range from slightly crooked teeth that don't affect function to severe bite problems that cause jaw pain, difficulty eating, or significant appearance concerns. The treatment you need depends on whether your problem is just tooth positioning or involves underlying jaw bone structure.

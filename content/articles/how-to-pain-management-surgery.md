@@ -28,7 +28,6 @@ references:
   - title: "Prevention and Management of Alveolar Osteitis and Dry Socket"
     url: "https://www.ncbi.nlm.nih.gov/pubmed/28470226"
 ---
-
 Your surgical dentist doesn't want you to be in pain after your procedure. Modern pain management combines several strategies: making sure you're completely numb during surgery, giving you the right medications afterward, and teaching you techniques that reduce pain naturally. The goal is to keep you comfortable without relying heavily on opioids, which carry risks. Learning more about [Your Tooth Extraction Recovery Timeline](/article/how-to-oral-surgery-recovery-timeline.html) can help you understand this better.
 
 ## During Surgery: Complete Numbness
@@ -60,12 +59,6 @@ Some dentists inject long-acting anesthesia at the end of surgery to keep your m
 **Rest** matters too. Avoid heavy exercise, sports, and strenuous activity for the first week. Let your body heal rather than pumping blood to your surgical site.
 
 **Medications**: Your dentist might prescribe steroids like dexamethasone to reduce swelling, which helps with pain control. These are anti-inflammatory, not painkillers.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about how to pain management surgery and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

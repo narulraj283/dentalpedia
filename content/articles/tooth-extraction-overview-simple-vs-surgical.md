@@ -43,7 +43,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Tooth Extraction Overview - Simple vs Surgical
 ---
-
 ## What Is Tooth Extraction?
 
 Tooth extraction is the removal of a tooth from its socket. Some extractions are simple and straightforward—others are complex surgical procedures. Understanding the difference helps you know what to expect.
@@ -157,12 +156,6 @@ Before tooth extraction, consider alternatives: endodontic treatment (root canal
 
 For specific guidance on extraction options for your situation, see [Common-misconceptions-about-complex-extractions](/article/common-misconceptions-about-complex-extractions.html), [Guided-bone-regeneration-in-dental-surgery](/article/guided-bone-regeneration-in-dental-surgery.html), and [Frenulum-removal-frenotomy-and-tongue-tie-release](/article/frenulum-removal-frenotomy-and-tongue-tie-release.html).
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss tooth extraction overview simple vs surgical, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
-
 ## What to Expect During Your Visit
 
 Your dentist will begin by examining your mouth and reviewing your dental history to understand your current situation. This evaluation may include taking X-rays or digital images to get a complete picture of what is happening beneath the surface. Based on these findings, your dentist will explain the recommended treatment approach and walk you through each step of the process.
@@ -190,6 +183,3 @@ Remember that every person's situation is unique. What works well for one patien
 - [Why Recovery Timeline Matters](/article/why-recovery-timeline-matters.html)
 - [Modern Oral Surgical Techniques](/article/how-to-surgical-technique-overview.html)
 
-- [Common Misconceptions About Complex Extractions](/article/common-misconceptions-about-complex-extractions.html)
-- [Guided Bone Regeneration in Dental Surgery: Principles](/article/guided-bone-regeneration-in-dental-surgery.html)
-- [Tongue Tie Release: What Parents Need to Know](/article/frenulum-removal-frenotomy-and-tongue-tie-release.html)

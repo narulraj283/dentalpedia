@@ -1,11 +1,11 @@
 ---
+category: General Dentistry
 category_slug: general-dentistry
 excerpt: When you feel afraid in the dental chair, your body automatically activates
   a "fight-or-flight" response—an ancient survival system designed to help you
 slug: physiologic-anxiety-response-fight-or-flight
 title: Physiologic Anxiety Response Fight or Flight
 ---
-
 ## Your Body's Automatic Fear Response
 
 When you feel afraid in the dental chair, your body automatically activates a "fight-or-flight" response—an ancient survival system designed to help you respond to physical danger. Your sympathetic nervous system floods your body with stress hormones like epinephrine (adrenaline) and cortisol. Your heart rate increases, your blood pressure rises, your muscles tense, and your breathing quickens.

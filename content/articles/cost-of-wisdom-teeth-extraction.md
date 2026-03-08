@@ -20,7 +20,6 @@ references:
   - "Moinch PU, Klocke BJ, Fry DR, Dempsey PJ. Prevention and management of operative and postoperative complications of third molar extractions. Gen Dent. 2002;50(2):120-126."
   - "Pedersen GW. Oral surgery. In: Peterson LJ, ed. Contemporary Oral and Maxillofacial Surgery. 3rd ed. Mosby; 2003:217-240."
 ---
-
 Wisdom teeth removal is one of the most common oral surgical procedures, with millions of people getting their wisdom teeth extracted every year. If your dentist has recommended wisdom teeth extraction, you probably have questions about what the procedure involves, whether it's really necessary, and what recovery will look like. Let's explore everything you need to know about wisdom teeth extraction.
 
 ## When Do Wisdom Teeth Need to Come Out?
@@ -83,7 +82,7 @@ Keep the area clean by gently rinsing and brushing, but be very gentle around th
 
 Wisdom teeth extraction is a common procedure with excellent outcomes when performed by an experienced dentist or oral surgeon. Most people recover within a few weeks and experience no long-term complications. If you understand what to expect before, during, and after extraction, you can approach the procedure with confidence. Your dentist is your best resource for understanding your specific situation and creating a treatment plan that works for you.
 
-> **Key Takeaway:** Wisdom teeth removal is one of the most common oral surgical procedures, with millions of people getting their wisdom teeth extracted every year.
+> **Key Takeaway:** If your dentist has recommended wisdom teeth extraction, you probably have questions about what the procedure involves, whether it's really necessary, and what recovery will look like. Let's explore everything you need to know about wisdom teeth extraction.
 
 ## Related Articles
 

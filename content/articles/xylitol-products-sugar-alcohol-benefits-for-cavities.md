@@ -30,7 +30,6 @@ references:
   - title: "Xylitol and Salivary Flow: Effects on Buffer Capacity and Antimicrobial Proteins"
     url: "https://pubmed.ncbi.nlm.nih.gov/26357851/"
 ---
-
 Xylitol might sound like a strange chemical, but it's actually a natural sugar alcohol that's remarkable for your teeth. If you've struggled with cavities despite good brushing habits, or if you're looking for an extra edge in preventing decay, xylitol deserves your attention. Over 400 scientific studies confirm that xylitol works—it fights cavity-causing bacteria in ways that ordinary sugar doesn't, and it does it without tasting medicinal. Best of all, using xylitol products fits naturally into your daily routine, whether you prefer gum, lozenges, or special toothpaste.
 
 ## Why Xylitol Stops Cavity-Causing Bacteria
@@ -70,12 +69,6 @@ When your dentist cheerleads your efforts, compliance jumps from about 30% to 65
 Buy xylitol gum, lozenges, or toothpaste from your local pharmacy or online—many brands are available. Look for products listing xylitol as the first sweetener ingredient. Keep a pack in your pocket, car, and work desk.
 
 After breakfast, lunch, dinner, and any snacks, chew your xylitol gum or lozenge for 5-10 minutes. Switch to xylitol toothpaste for your twice-daily brushing. Tell your dentist you're using xylitol so they can monitor your progress. Most importantly, start slowly with xylitol products if your digestive system is sensitive, and be patient—real results take months.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss xylitol products sugar alcohol benefits for cavities, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

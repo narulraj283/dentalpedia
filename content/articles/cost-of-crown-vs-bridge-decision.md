@@ -22,7 +22,6 @@ references:
   - "Kelly JR. Dental ceramics: what is this stuff anyway? J Am Dent Assoc. 2008;139(Suppl):4S-7S."
   - "Sailer I, Pjetursson BE, Zwahlen M, Hämmerle CHF. A systematic review of the survival and complication rates of all-ceramic and metal-ceramic reconstructions in the vertical dimension of 5+ mm. Clin Oral Implants Res. 2009;20(Suppl 4):169-184."
 ---
-
 If you're missing a tooth or have a tooth so damaged it needs a crown, you probably have questions about your options. Should you get a crown on a single tooth? Should you do a bridge? Should you consider an implant? Understanding the differences helps you make the best choice for your situation.
 
 ## Single Crown
@@ -129,7 +128,7 @@ Sometimes an implant is better because:
 
 A single crown costs $800 to $1,500 for a damaged tooth and lasts 10 to 15 years. A bridge costs $2,400 to $6,000 to replace a missing tooth but requires altering two neighboring teeth. An implant costs $2,500 to $6,000 but avoids altering other teeth and often lasts 20+ years. Your choice depends on your specific situation, your tooth condition, your bone structure, insurance coverage, timeline needs, and personal preferences. Talk to your dentist about which option makes the most sense for your situation.
 
-> **Key Takeaway:** Understand crown and bridge options when you have missing or damaged teeth. Compare costs, pros and cons, and learn which option works best for you.
+> **Key Takeaway:** If you're missing a tooth or have a tooth so damaged it needs a crown, you probably have questions about your options.
 
 ## Related Articles
 

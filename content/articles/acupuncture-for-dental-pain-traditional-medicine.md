@@ -20,12 +20,11 @@ references:
   - "Wang SM, Kain ZN, White PF. Acupuncture analgesia: I. The scientific basis. Anesthesia & Analgesia. 2008;106(2):602-610."
   - "Zhao ZQ. Neural mechanism underlying acupuncture analgesia. Progress in Neurobiology. 2008;85(4):355-375."
 ---
-
 ## What Is Acupuncture?
 
-Acupuncture comes from traditional Chinese medicine and has been used for over 2,500 years. The practice involves inserting very thin needles at specific points on your body. Modern research has shown that acupuncture actually does affect how your body processes pain, though not in the way traditional explanations suggested. For more details, see our guide on [Detoxification and Oral Health](/article/detoxification-and-oral-health.html).
+Acupuncture comes from traditional Chinese medicine and has been used for over 2,500 years. The practice involves inserting very thin needles at specific points on your body. Modern research has shown that acupuncture actually does affect how your body processes pain, though not in the way traditional explanations suggested.
 
-If you're interested in non-prescription pain relief—especially for dental anxiety or jaw pain—acupuncture might be worth exploring. However, it's important to understand what research actually shows it can and cannot do. For more details, see our guide on [Energetic Tooth Connection](/article/energetic-tooth-connection-meridian-theory.html).
+If you're interested in non-prescription pain relief—especially for dental anxiety or jaw pain—acupuncture might be worth exploring. However, it's important to understand what research actually shows it can and cannot do.
 
 ## How Acupuncture Works
 
@@ -125,16 +124,17 @@ Acupuncture can reduce dental pain by 30 to 40 percent and jaw pain (TMD) by abo
 
 It's very safe when performed by trained practitioners with sterile needles. Acupuncture functions best as an adjunctive treatment combined with conventional dentistry, physical therapy, and behavioral techniques rather than as a replacement for these approaches. If interested in acupuncture, find a licensed, certified acupuncturist trained in dental pain management. Understand that benefits are modest but real, and cost is out-of-pocket for most patients.
 
+
+Related reading: [Detoxification and Your Oral Health](/article/detoxification-and-oral-health.html) and [Oil Pulling—Ancient Practice and Current](/article/oil-pulling-ancient-practice-and-scientific-evidence.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
-
-> **Key Takeaway:** Acupuncture comes from traditional Chinese medicine and has been used for over 2,500 years. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** Acupuncture can reduce dental pain by 30 to 40 percent and jaw pain (TMD) by about 50 percent, with sustained benefits in 60 to 70 percent of TMD patients.
 
 ## Related Articles
 
 - [Herbal Oral Rinses in Traditional Medicine](/article/herbal-rinses-traditional-medicine.html)
-- [Peppermint in Dentistry—Clinical Evidence,](/article/peppermint-soothing-herb.html)
+- [Peppermint Soothing Herb](/article/peppermint-soothing-herb.html)
 - [Root Canal Alternatives Holistic Perspective](/article/root-canal-alternatives-holistic-perspective.html)
 - [Natural Oral Care Products Plant Based](/article/natural-oral-care-products-plant-based.html)
 - [Salt and Baking Soda Toothpaste](/article/salt-based-toothpaste-effectiveness-and-safety.html)

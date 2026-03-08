@@ -22,14 +22,13 @@ references:
   - Cohen-Levy J. Demineralization versus fluorosis. J Clin Orthod. 1999;33(7):390-391.
   - Shetty S, Prabhu S, Chandra P. Diet and nutrition in orthodontics. Ind J Dent Res. 2010;21(2):236-240.
 ---
-
 Food restrictions during braces treatment matter more than you might think. When you eat the wrong foods, you risk breaking your brackets, damaging your wires, and even prolonging your treatment by months. The good news is that plenty of delicious foods are generally well-tolerated to eat, and the temporary dietary changes will feel like a small price to pay once you see your final smile. This guide explains exactly which foods to avoid and which ones you can enjoy worry-free.
 
 ## Why Food Choices Matter for Your Brackets
 
 Your brackets are bonded (glued) to your teeth with a special adhesive, and they're only so strong. When you bite down on hard foods, you're putting tremendous force on that tiny bonded area. Hard foods create concentrated pressure in one spot, kind of like pressing the tip of a pin versus the flat side into something.
 
-If you regularly eat hard foods, your brackets have a 12 to 18% chance of breaking within four weeks, compared to just 1 to 3% if you stick to soft foods. Every time a bracket breaks off, your orthodontist has to rebond it, which adds time and cost to your treatment. Plus, that area is now at higher risk for those white spots (demineralization, or early decay marks) that can show up on your teeth after braces come off.
+If you regularly eat hard foods, your brackets have a 12 to 18% chance of breaking within four weeks, compared to just 1 to 3% if you stick to soft foods. Every time a bracket breaks off, your orthodontist has to rebond it, which adds time and cost to your treatment. Plus, that area is now at higher risk for those white spots (demineralization, or enamel damage from bacterial acids) that can show up on your teeth after braces come off.
 
 ## The Three Food Categories to Avoid
 
@@ -105,24 +104,19 @@ Calcium is critical—1,200 to 1,300 mg daily supports healthy bone. Vitamin D h
 
 If you struggle with a soft diet due to medical conditions (swallowing difficulties, sensory issues), talk to your orthodontist about alternative approaches. Sometimes shorter treatment duration with slightly larger forces is better than prolonged treatment with severe dietary restrictions. Your orthodontist can work with you on a personalized plan.
 
-## Questions to Ask Your Orthodontist
 
-Before starting treatment, ask: What foods are absolutely forbidden versus just recommended to avoid? How strictly do I need to follow restrictions? If I accidentally eat a hard food, what should I do?
-
-Are certain bracket types more durable if I'm worried about breaking them? How soon after starting braces can I eat normal foods again? What are the real consequences of breaking a bracket?
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
-
-t-relief-what-you-need-to-know.html) | [Braces vs Invisalign: Comprehensive Comparison Guide](/article/braces-vs-invisalign-comprehensive-comparison-guide.html)
+Related reading: [Why Aligner Wear Schedule Compliance Matters in](/article/why-aligner-wear-schedule-matters.html) and [Cost of Braces Discomfort Relief](/article/cost-of-braces-discomfort-relief.html).
 
 
-For more information, see [Orthodontic Relapse Why Teeth Shift Back](/article/orthodontic-relapse-why-teeth-shift-back.html).
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 
-**Key Takeaway:**
+Food restrictions during braces exist for solid reasons. Hard foods break brackets 12-18% of the time—every broken bracket means rebonding appointments and treatment delays. Sticky foods pull on brackets and trap bacteria, increasing white spot lesions to 45-60% if you're also eating acidic foods. Acidic drinks damage enamel around bracket edges where you can't clean well.
 
-> **Key Takeaway:** Following food restrictions during braces prevents bracket breakage, white spot lesions, and treatment delays—allowing you to finish on time with a healthy, beautiful smile.
+The good news? You have plenty of delicious soft options. Soft proteins, cooked vegetables, pasta, yogurt, and soft fruits give you good nutrition while protecting your investment. Spacing meals 2-3 hours apart and rinsing after eating reduces acid exposure. Most people find that following restrictions for 2-3 years is a small price for a lifetime of beautiful teeth and the correct bite.
+
+> **Key Takeaway:** Avoiding hard, sticky, and acidic foods during braces prevents bracket breakage and white spot lesions, allowing you to finish treatment on schedule with a healthy, beautiful smile free of decay damage.
 
 ## Related Articles
 

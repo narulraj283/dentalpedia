@@ -32,7 +32,6 @@ references:
   - title: "Brodie AG. Anatomy and physiology of head and neck musculature. Am J Orthod. 1950;36(11):831-844."
     url: https://pubmed.ncbi.nlm.nih.gov/14783293
 ---
-
 ## Your Braces Are Off—But Treatment Isn't Over
 
 Your braces are finally removed, and you have a beautiful smile. But your orthodontist still has important work—now begins the equally crucial retention phase. This might feel frustrating when you want to abandon all appliances, but here's the essential truth: without proper retention, your teeth will gradually shift back toward their original positions. This relapse is essentially inevitable without retention.

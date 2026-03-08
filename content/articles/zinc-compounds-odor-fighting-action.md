@@ -30,7 +30,6 @@ references:
   - title: "Patient-Centered Outcomes in Halitosis Management: Zinc-Based Interventions"
     url: "https://pubmed.ncbi.nlm.nih.gov/26357848/"
 ---
-
 Bad breath is embarrassing, and you might think you're stuck with it—but you're not. About one in three people experience halitosis (the medical term for bad breath), and it's especially common if you have gum disease. The good news is that bad breath usually comes from bacteria in your mouth producing smelly sulfur compounds. These aren't just unpleasant odors—they're chemical signals from specific bacteria. Zinc compounds offer a direct, evidence-based way to neutralize these odor chemicals and quiet the bacteria that produce them, often with results visible within just days.
 
 ## What Actually Causes Bad Breath

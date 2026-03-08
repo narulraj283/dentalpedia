@@ -20,7 +20,6 @@ references:
   - "Sundfeld RH, et al. Direct resin composite veneers on anterior teeth. Clin Esthet Dent. 2014;7(3):18-24."
   - "Al-Dhafeeri AM, et al. Esthetic dentistry and restorative principles: coronal tooth preparation. Eur J Esthet Dent. 2010;5(3):338-359."
 ---
-
 ## Bigger Teeth Aren't Always More Beautiful
 
 One major misconception about smile improvement is that bigger teeth are always better. People sometimes want their new veneers or crowns made as large as possible, thinking bigger will look better. In reality, teeth proportioned appropriately to your face look the best. Oversized teeth actually look unnatural and artificial—they don't harmonize with your facial features.
@@ -71,17 +70,14 @@ Sometimes the most beautiful smile improvements are conservative—making subtle
 
 Discuss conservative versus dramatic approaches with your dentist. They can advise what would work best for your specific situation and goals. Sometimes less intervention creates more beautiful results than trying to change everything dramatically.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about before and after smile and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 
 Beautiful smile design involves proportioning teeth appropriately to your face, selecting natural-looking shades, considering gum esthetics, and making changes that harmonize with your features. Professional smile design principles ensure results look beautiful and natural rather than obviously artificial.
 
-> **Key Takeaway:** What makes a beautiful smile, why bigger teeth aren't always better, and how to plan smile improvements realistically.
+> **Key Takeaway:** One major misconception about smile improvement is that bigger teeth are always better.
 
 ## Related Articles
 

@@ -32,7 +32,6 @@ references:
   - title: "Sarrell M, Eidelman E, Kasis A. Fever associated with teething. Arch Pediatr Adolesc Med. 2001;155(10):1120-1122."
     url: https://pubmed.ncbi.nlm.nih.gov/11529804
 ---
-
 ## Introduction
 
 Teething causes recognizable symptoms localized to your baby's mouth and gums. The challenge is distinguishing normal teething discomfort from systemic illness that coincidentally occurs while your baby is teething. This guide helps you recognize true teething symptoms, identify warning signs requiring medical attention, and use proven safe relief strategies.
@@ -96,12 +95,6 @@ Understand normal teething duration and sequence. Eruption itself is quick once 
 Eruption delays beyond 18 months warrant dental evaluation. Severe asymmetry (one side erupting much faster than the other) or ectopic positions might suggest underlying factors needing assessment.
 
 Retained primary teeth interfering with permanent tooth eruption require orthodontic evaluation.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss teething symptoms and safe relief strategies, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

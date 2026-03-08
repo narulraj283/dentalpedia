@@ -28,10 +28,9 @@ references:
   - title: "Medications Affecting Hemostasis"
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/jcpe.12877
 ---
+Dental surgery requires seeing what they're working on, and blood obscures the surgical field. Controlling bleeding during surgery—hemostasis—is about more than keeping things dry; it's essential for proper healing and ensuring your surgeon can do precise work.
 
 ## Hemostasis: Controlling Bleeding During Dental Surgery
-
-During dental surgery, controlling bleeding is essential for safe, successful procedures. Hemostasis—the process of stopping bleeding—involves multiple techniques your surgeon uses to ensure safety and proper healing.
 
 ## Why Bleeding Control Matters
 
@@ -133,6 +132,9 @@ The clot that forms after surgery should remain stable for 7-10 days while new b
 ## Infection Risk Related to Hemostasis
 
 When hemostasis is successful and clots form properly, infection risk decreases because good blood flow (enabled by clot stability) delivers infection-fighting cells to the area. A well-controlled surgical site heals faster and cleaner than one with ongoing bleeding or poor hemostasis. This is another reason your surgeon prioritizes hemostasis—it's not just about stopping bleeding; it's about creating optimal healing conditions.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

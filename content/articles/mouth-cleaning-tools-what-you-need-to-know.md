@@ -32,7 +32,6 @@ references:
   - title: "Tongue biofilm microbiota composition and implications for oral health assessment"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25603383
 ---
-
 Most people understand that brushing and flossing are important, but many lack knowledge about which specific tools work best for their situation and how to use them correctly. When you walk into a store and see dozens of toothbrush options, water flossers, and interdental cleaners, decision paralysis sets in. Understanding how different tools function, their relative effectiveness, and appropriate selection based on your individual anatomy and situation empowers you to establish effective daily practices that actually prevent cavities and gum disease.
 
 The good news: choosing the right tool combined with proper technique and consistent daily use represents your single best investment in long-term oral health. This prevention approach is far more effective and cost-effective than treating dental problems after they develop.

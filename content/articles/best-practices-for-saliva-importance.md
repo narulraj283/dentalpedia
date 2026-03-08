@@ -28,7 +28,6 @@ subcategory: Preventive Overview
 subcategory_slug: overview-preventive
 title: Salivary Function in Oral Health and Clinical Management
 ---
-
 ## Your Mouth's Unsung Hero
 
 Saliva does way more than keep your mouth wet. It's a complex fluid packed with protective proteins, minerals, and antibodies that fight bacteria, neutralize acid, repair tooth damage, and keep your mouth comfortable. You produce about 1-1.5 liters daily from salivary glands spread throughout your mouth. When saliva flow drops, your entire mouth suffers.
@@ -149,21 +148,6 @@ If you travel frequently:
 - Bring your saliva stimulant or substitute (they're allowed through security).
 - Pack your special mouthwash if you use it.
 - Research dental care at your destination if you need emergency help.
-
-## Questions to Ask Your Dentist
-
-If you suspect dry mouth:
-
-- Can you measure my actual saliva flow?
-- Is my dryness medication-related, or from a condition?
-- Can I work with my physician to address the underlying cause?
-- What preventive measures should I prioritize?
-- What's my ideal fluoride regimen?
-- How often should I come in for checkups and cleaning?
-- Should I use prescription medications to stimulate saliva?
-- What mouth care products do you recommend?
-- What early warning signs of decay should I watch for?
-- Are there foods or habits I should definitely avoid?
 
 ## The Takeaway
 

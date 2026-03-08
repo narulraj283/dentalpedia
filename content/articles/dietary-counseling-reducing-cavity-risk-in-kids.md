@@ -17,7 +17,6 @@ references:
   - "Wigen TI, Wang NJ. Risk factors for early childhood caries in a Norwegian population-based sample. Acta Odontol Scand. 2010;68(5):297-303."
   - "Chankanka O, Levy SM, Warren JJ, Chalmers JM. A literature review of epidemiological studies of early childhood caries in the United States. J Public Health Dent. 2010;70(4):313-27."
 ---
-
 ## Introduction
 
 Early childhood cavities affect 15-30% of children in developed countries and even more in developing nations. The frustrating part? Most of these cavities are preventable through smart dietary choices. If your child is at high cavity risk or already has cavities, changing what they eat can dramatically reduce future problems. The good news is these changes don't require perfect nutrition sacrifice—just smart choices about beverages and snacking.
@@ -127,17 +126,11 @@ Schedule appointments if:
 
 Your dentist can help identify specific problem foods and support dietary changes.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about dietary counseling reducing cavity risk in kids and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 Reducing childhood cavities centers on two main changes: replacing sugary drinks with water and eating at set meal and snack times rather than grazing throughout the day. These changes alone prevent 35-50% of preventable childhood cavities. Combined with good oral hygiene, fluoride use, and regular professional care, most children can maintain cavity-free smiles. The investment in dietary improvement pays dividends in better oral health and overall wellness that persists into adulthood.
 
-> **Key Takeaway:** Practical dietary strategies to reduce cavity risk in children while maintaining good nutrition.
+> **Key Takeaway:** Early childhood cavities affect 15-30% of children in developed countries and even more in developing nations.
 
 ## Related Articles
 

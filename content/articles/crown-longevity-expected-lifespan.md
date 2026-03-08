@@ -20,7 +20,6 @@ references:
   - "Tinschert J, Natt G, Miedema N, Witchel W, Spiekermann H. Marginal fit of alumina-ceramic crowns fabricated with the Procera AllCeram system. Compend Contin Educ Dent. 1997;18(9):872-880."
   - "Schley JS, Heussen N, Bragger U, Rateitschak KH. Marginal and internal fit of crowns using different fabrication methods. J Prosthodont. 2010;19(1):39-45."
 ---
-
 When you're considering a crown, one of your first questions is probably, "How long will it last?" The good news is that modern crowns are very durable restorations. Most crowns last 10, 15, even 20 years or longer. But the lifespan depends on several factors. Let's explore what research tells us about crown longevity and what you can do to maximize how long your crown lasts.
 
 ## How Long Do Crowns Actually Last?
@@ -97,7 +96,7 @@ Sometimes crowns are replaced not because they failed but because the tooth unde
 
 Modern dental crowns are highly successful restorations that typically last 10-20 years or longer. Longevity depends on excellent material selection by your dentist, precise placement technique, but most importantly on your daily care and regular professional maintenance. By maintaining excellent plaque control, attending regular dental appointments, and protecting your crown from excessive forces, you can maximize the lifespan of your restoration.
 
-> **Key Takeaway:** Evidence-based survival data for all-ceramic, porcelain-fused-metal, and zirconia crowns across 20-year periods.
+> **Key Takeaway:** When you're considering a crown, one of your first questions is probably, "How long will it last?" The good news is that modern crowns are very durable restorations.
 
 ## Related Articles
 

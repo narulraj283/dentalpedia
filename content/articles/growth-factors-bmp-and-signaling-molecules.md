@@ -32,7 +32,6 @@ references:
   - title: "Anusavice KJ, Shen C, Rawls HR. Phillips' Science of Dental Materials. 12th ed. Saunders; 2013:298-327."
     url: "https://www.ncbi.nlm.nih.gov/pubmed"
 ---
-
 ## How Your Body Heals Gum Disease
 
 When gum disease damages the tissues holding your teeth in place—the gums, bone, and ligaments—your body has natural ways to try to repair itself. But sometimes it needs a little help. Scientists have discovered that certain proteins called growth factors can supercharge your body's healing process. These are the same proteins that naturally appear in your body when it heals from an injury, but we can now use them to improve your results when you have advanced gum disease.

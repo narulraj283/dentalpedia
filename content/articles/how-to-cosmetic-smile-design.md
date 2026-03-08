@@ -32,7 +32,6 @@ references:
   - title: "Interdisciplinary approach integrating orthodontics and restorative dentistry"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26433435
 ---
-
 Professional smile design combines multiple factors—tooth proportions, gum display, tooth-to-lip relationships, and smile shape—into a plan creating your perfect smile. Modern digital design shows you exactly what your new smile will look like before treatment begins.
 
 ## Tooth Proportions and Harmony
@@ -106,11 +105,8 @@ Whitening
 
 Professional before-and-after photos document your amazing transformation!
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about cosmetic smile design and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

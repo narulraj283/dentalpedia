@@ -22,7 +22,6 @@ references:
   - "Peterson LJ, Ellis E, Hupp JR, Tucker MR. Contemporary Oral and Maxillofacial Surgery. 4th ed. St. Louis: Mosby; 2003."
   - "Schwartz-Arad D, Inbar M, Chaushu G. Alveolar ridge augmentation at the site of a failed implant: a case report. Int J Periodont Rest Dent. 1993;13(5):397-404."
 ---
-
 ## Why Following Post-Surgery Instructions Really Matters
 
 You've had your dental surgery, and your dentist sends you home with pages of post-operative instructions. Many patients think these are just suggestions or worst-case-scenario precautions. Actually, following these instructions meaningfully impacts your healing speed, pain level, and risk of complications. Let's look at why these guidelines matter and which ones are most critical.
@@ -87,11 +86,14 @@ Instructions might seem overly cautious—restrictions that seem unnecessary. Bu
 
 Following instructions 100 percent isn't required for good recovery—75 to 80 percent compliance usually provides good outcomes. But trying to minimize restrictions or skip parts you think are unnecessary increases problems. If you don't understand why an instruction matters, ask your dentist. They can explain the reasoning, and you can make informed decisions about which guidelines are most critical for your specific situation.
 
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
 Post-operative instructions are designed to optimize your healing and reduce complication risk. Key guidelines include: soft diet for 1 week, activity restrictions for days 1 to 7, ice for 24 hours then heat, head elevation for several days, gentle oral hygiene away from the surgical site, and smoking avoidance. Following these instructions significantly reduces pain, swelling, and complication rates.
 
-> **Key Takeaway:** Understand why following your dentist's post-surgery instructions matters and which ones are most important for your recovery.
+> **Key Takeaway:** You've had your dental surgery, and your dentist sends you home with pages of post-operative instructions.
 
 ## Related Articles
 

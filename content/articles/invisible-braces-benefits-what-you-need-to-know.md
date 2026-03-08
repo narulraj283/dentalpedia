@@ -18,7 +18,6 @@ references:
   - title: "Clinical outcomes and patient preferences for clear aligners"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26439738
 ---
-
 If you're considering clear aligners for straightening your teeth, you've probably heard they're invisible and convenient. But what are the real benefits? Are they worth the investment? Understanding the genuine advantages helps you make an informed decision about whether invisible braces suit your needs.
 
 ## Genuine Invisibility
@@ -84,12 +83,6 @@ Aligners require discipline. You must wear them consistently and remember to swi
 ## Cost Considerations
 
 Clear aligners typically cost similar to traditional braces, though costs vary. Check your insurance coverage—some plans cover both equally, some cover braces better, some exclude clear aligners. The price difference might not be significant when insurance is factored in.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about invisible braces benefits what you need to know and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

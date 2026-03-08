@@ -32,7 +32,6 @@ references:
   - title: "Long-term cost analysis including retention and follow-up care expenses"
     url: "https://pubmed.ncbi.nlm.nih.gov/23658518/"
 ---
-
 Orthodontic treatment costs thousands of dollars—typically $3,000–$8,000 for comprehensive braces treatment in the United States. That's a significant financial commitment for most families. Understanding what factors drive these costs, comparing different options fairly, and evaluating whether the cost matches the value helps you make an informed decision that fits your budget and priorities.
 
 ## Breaking Down Orthodontic Treatment Costs
@@ -122,6 +121,9 @@ Before committing, clarify the financial details:
 7. "Are there cancellation or refund policies?"
 
 Clear financial discussions prevent surprises.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

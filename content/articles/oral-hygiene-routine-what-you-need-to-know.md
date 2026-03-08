@@ -16,7 +16,6 @@ references:
   - "O'Neill CA, Brock C, Blom TF, et al. Plaque Formation and Clearance from Natural Teeth. J Dent Res. 1975;54(5):898-905."
   - "Katz S, Parker WA. Gingival Recession. J Periodontol. 1979;50(3):142-149."
 ---
-
 ## Why Your Daily Routine Matters
 
 Your mouth is constantly exposed to bacteria that stick to your teeth and form a sticky layer called plaque. These bacteria produce acids that attack your tooth enamel and make your gums bleed and swell. The good news: a simple daily routine prevents this damage and keeps your teeth and gums healthy for life.

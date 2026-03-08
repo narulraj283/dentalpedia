@@ -20,16 +20,15 @@ references:
   - "Nagel, G. W., Moussavi, Z. (2012). Estimation of force reduction of various types of mouthguards. Dent Traumatol. 28(6):507-514."
   - "Takeda, T., Ishigami, K., Shimada, A., et al. (2011). Effectiveness of mouthguard in preventing orofacial sports injuries. Dent Traumatol. 27(6):450-455."
 ---
-
 If you play contact sports, a mouthguard is essential protection for your teeth. But not all mouthguards are equal. You can buy cheap stock guards for $2-10 at any sporting goods store, or get a custom mouthguard from your dentist for $150-500.
 
-The difference is huge—custom guards absorb 50-60% of impact force, while stock guards only absorb 20-30%. That could mean the difference between a minor injury and losing a tooth. For more details, see our guide on [Athletic Drink Acidity](/article/athletic-drink-acidity-effects.html).
+The difference is huge—custom guards absorb 50-60% of impact force, while stock guards only absorb 20-30%. That could mean the difference between a minor injury and losing a tooth.
 
 ## Three Types Of Mouthguards
 
 Stock mouthguards are ready-made in small, medium, or large sizes. They're cheap but they barely stay in place. They shift around when you get hit and don't fit your teeth well at all.
 
-They don't reduce impact very much. Dentists almost never recommend stock guards because they don't work well. For more details, see our guide on [Sports Dentistry](/article/dental-care-schedule-around-competition.html).
+They don't reduce impact very much. Dentists almost never recommend stock guards because they don't work well.
 
 Boil-and-bite mouthguards are made from plastic that softens in hot water. You boil them, stick them in your mouth, bite hard, and they shape themselves around your teeth. They cost $15-50 and work better than stock because the fit is personalized. The protection is better too, but still not great.
 
@@ -93,11 +92,12 @@ Custom-fabricated mouthguards reduce impact forces by 50-60% compared to 20-30% 
 
 Custom mouthguards ($150-500) provide far superior fit, retention, and protection compared to boil-and-bite ($15-50) or stock ($2-10) options. Annual replacement or when visible wear appears ensures continued protection. Professional custom fabrication with dual-layer EVA plastic remains the evidence-based gold standard for serious contact sport athletes.
 
+
+Related reading: [Dental Trauma Statistics in Sports: Epidemiology](/article/teeth-trauma-statistics-in-sports.html) and [Gum Health in Contact Sports](/article/gum-health-in-contact-sports.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
-
-> **Key Takeaway:** If you play contact sports, a mouthguard is essential protection for your teeth. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** The American Dental Association and pediatric organizations recommend mouthguards for contact sports including football, ice hockey, lacrosse, and rugby.
 
 ## Related Articles
 

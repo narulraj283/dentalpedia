@@ -30,7 +30,6 @@ references:
   - title: "Conti AC, Freitas RS, Conti PCR, Custodio W. Clinical effect of buccal fat pad removal on third molar extraction socket healing. J Oral Maxillofac Surg. 2010;68(3):528-534."
     url: https://pubmed.ncbi.nlm.nih.gov/20116705
 ---
-
 ## What to Expect After Your Tooth Extraction
 
 Having a tooth removed is one of the most common dental procedures, but your recovery after extraction is just as important as the extraction itself. Most people recover without major complications, but some do experience problems that can last for weeks or even months. Understanding what's normal after an extraction and what signals a real problem helps you take care of yourself properly.

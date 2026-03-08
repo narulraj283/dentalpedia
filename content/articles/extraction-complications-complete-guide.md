@@ -20,7 +20,6 @@ references:
   - "Chiapasco M, Crescentini M. Impact of extraction technique on spontaneous bone resorption and implant primary stability. J Oral Maxillofac Surg. 2009;67(6):1218-1226."
   - "Chaushu S, Vered M, Nissan J. Medicament regimen for alveolar osteitis: a preliminary double-blind study. J Am Dent Assoc. 2002;133(12):1651-1656."
 ---
-
 ## Understanding Problems That Can Happen During Extraction
 
 Having a tooth extracted can sometimes lead to complications, though most people do just fine. About 2 to 5 percent of routine extractions have some kind of problem. When dentists remove impacted teeth—like wisdom teeth—complications happen more often. These range from minor issues that resolve quickly to serious problems that need specialist care.
@@ -91,12 +90,12 @@ If you want an implant or denture where your tooth was extracted, the bone in th
 
 While complications from tooth extraction do happen, most are minor and manageable. Your dentist can often prevent problems through careful technique and skilled execution. If you have concerns about extraction or want to understand your specific risks, talk with your dentist before the procedure.
 
-> **Key Takeaway:** Having a tooth extracted can sometimes lead to complications, though most people do just fine.
+> **Key Takeaway:** About 2 to 5 percent of routine extractions have some kind of problem. When dentists remove impacted teeth—like wisdom teeth—complications happen more often.
 
 ## Related Articles
 
 - [Swelling Reduction: What You Need to Know](/article/swelling-reduction-what-you-need-to-know.html)
-- [Wound Healing After Oral Surgery - Phases,](/article/surgical-site-healing-complete-guide.html)
+- [Wound Healing After Oral Surgery - Phases, Timeline](/article/surgical-site-healing-complete-guide.html)
 - [Hemostasis in Dentistry: Clinical Management of](/article/bleeding-control-what-you-need-to-know.html)
 - [Cost of Complex Extractions](/article/cost-of-complex-extractions.html)
 - [Tongue Numbness After Dental Surgery: What It Means](/article/lingual-nerve-tongue-numbness-from-injury.html)

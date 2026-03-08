@@ -46,7 +46,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Risk and Concerns with Extraction Complications
 ---
-
 ## Understanding Tooth Extraction Risks
 
 Most tooth extractions go smoothly without major problems. However, like any surgical procedure, extractions can have complications. Knowing what these complications are, how to prevent them, and what to do if they happen helps you prepare mentally and take the right steps for proper healing. This guide explains the main complications that can occur after a tooth extraction and what you can do about them.

@@ -1,38 +1,50 @@
 ---
-title: "Teeth Whitening for Medication-Induced Staining:"
-slug: teeth-whitening-for-stained-teeth-from-medications
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: "Comprehensive strategies for managing tetracycline, minocycline, and other medication-induced discoloration through walking bleach, microabrasion,."
 date: 2026-03-05
+excerpt: Comprehensive strategies for managing tetracycline, minocycline, and other
+  medication-induced discoloration through walking bleach, microabrasion,.
 read_time: 11 min
+references:
+- title: Mondelli RF, Azevedo LE, de Souza KB, et al. Simultaneous ultrasound application
+    and bleaching gel on color change of intrinically stained teeth. Journal of Oral
+    Science. 2006;48(2):99-104.
+  url: https://pubmed.ncbi.nlm.nih.gov/16845213
+- title: Stewart DJ, Rivera ER. Internal bleaching of intrinically stained vital teeth.
+    Operative Dentistry. 1981;6(1):3-10.
+  url: https://pubmed.ncbi.nlm.nih.gov/7024813
+- title: 'Attin T, Hellwig E, Wiegand A. Dentin bleaching: biological aspects. Operative
+    Dentistry. 2004;29(3):312-320.'
+  url: https://pubmed.ncbi.nlm.nih.gov/15216049
+- title: 'Klasser GD, Epstein JB. Tetracycline and its derivatives: uses in medicine
+    and dentistry. Journal of the American Dental Association. 2005;136(3):338-346.'
+  url: https://pubmed.ncbi.nlm.nih.gov/15844677
+- title: Ciancio SG, Culianu RH. Staining of teeth caused by antimicrobial agents.
+    Compendium of Continuing Education in Dentistry. 1992;13(5):314-320.
+  url: https://pubmed.ncbi.nlm.nih.gov/1423131
+- title: Hegedus C, Bistey T, Flora-Nagy E, et al. An atomic force microscopy study
+    on the effect of bleaching agents on enamel surface. Journal of Dentistry. 1999;27(3):235-242.
+  url: https://pubmed.ncbi.nlm.nih.gov/10090561
+- title: Yazici AR, Baseren M, Gorucu J, et al. Clinical evaluation of different whitening
+    techniques. Operative Dentistry. 2007;32(4):322-329.
+  url: https://pubmed.ncbi.nlm.nih.gov/17859061
+- title: de Almeida LC, Riehl H, Santos PH, et al. Clinical and laboratory evaluation
+    of the effectiveness of a new whitening system on extrinsic and intrinsic discolorations.
+    Quintessence International. 2012;43(3):205-213.
+  url: https://pubmed.ncbi.nlm.nih.gov/22299018
+- title: Unlu N, Onan U, Ari I. The evaluation of tetracycline staining on teeth and
+    the clinical success of bleaching. Journal of Endodontics. 1999;25(10):631-634.
+  url: https://pubmed.ncbi.nlm.nih.gov/10587563
+- title: 'Ko SH, Choi Y. Microabrasion of enamel for esthetic improvement: a systematic
+    review. Operative Dentistry. 2014;39(1):E10-E20.'
+  url: https://pubmed.ncbi.nlm.nih.gov/23782078
+reviewed: true
 reviewer_specialty: Cosmetic Dentistry
+slug: teeth-whitening-for-stained-teeth-from-medications
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
-reviewed: true
-references:
-  - title: "Mondelli RF, Azevedo LE, de Souza KB, et al. Simultaneous ultrasound application and bleaching gel on color change of intrinically stained teeth. Journal of Oral Science. 2006;48(2):99-104."
-    url: https://pubmed.ncbi.nlm.nih.gov/16845213
-  - title: "Stewart DJ, Rivera ER. Internal bleaching of intrinically stained vital teeth. Operative Dentistry. 1981;6(1):3-10."
-    url: https://pubmed.ncbi.nlm.nih.gov/7024813
-  - title: "Attin T, Hellwig E, Wiegand A. Dentin bleaching: biological aspects. Operative Dentistry. 2004;29(3):312-320."
-    url: https://pubmed.ncbi.nlm.nih.gov/15216049
-  - title: "Klasser GD, Epstein JB. Tetracycline and its derivatives: uses in medicine and dentistry. Journal of the American Dental Association. 2005;136(3):338-346."
-    url: https://pubmed.ncbi.nlm.nih.gov/15844677
-  - title: "Ciancio SG, Culianu RH. Staining of teeth caused by antimicrobial agents. Compendium of Continuing Education in Dentistry. 1992;13(5):314-320."
-    url: https://pubmed.ncbi.nlm.nih.gov/1423131
-  - title: "Hegedus C, Bistey T, Flora-Nagy E, et al. An atomic force microscopy study on the effect of bleaching agents on enamel surface. Journal of Dentistry. 1999;27(3):235-242."
-    url: https://pubmed.ncbi.nlm.nih.gov/10090561
-  - title: "Yazici AR, Baseren M, Gorucu J, et al. Clinical evaluation of different whitening techniques. Operative Dentistry. 2007;32(4):322-329."
-    url: https://pubmed.ncbi.nlm.nih.gov/17859061
-  - title: "de Almeida LC, Riehl H, Santos PH, et al. Clinical and laboratory evaluation of the effectiveness of a new whitening system on extrinsic and intrinsic discolorations. Quintessence International. 2012;43(3):205-213."
-    url: https://pubmed.ncbi.nlm.nih.gov/22299018
-  - title: "Unlu N, Onan U, Ari I. The evaluation of tetracycline staining on teeth and the clinical success of bleaching. Journal of Endodontics. 1999;25(10):631-634."
-    url: https://pubmed.ncbi.nlm.nih.gov/10587563
-  - title: "Ko SH, Choi Y. Microabrasion of enamel for esthetic improvement: a systematic review. Operative Dentistry. 2014;39(1):E10-E20."
-    url: https://pubmed.ncbi.nlm.nih.gov/23782078
+title: Teeth Whitening for Medication-Induced Staining
 ---
-
 ## Introduction
 
 Some medications taken during childhood can leave permanent stains on your teeth. Tetracycline antibiotics (like doxycycline), minocycline, and certain other drugs bond chemically to your tooth structure as it develops. The staining is deep and stubborn—not like coffee stains that are just on the surface. But don't lose hope: several treatment options exist, and your dentist can help you find the best approach for your situation.

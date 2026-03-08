@@ -20,7 +20,6 @@ references:
   - "Slavkin HC. Dental Education Emerging Challenges and Opportunities. Am J Dent. 2023;36(2):89-98."
   - "Strauss R, et al. Leadership Development in Dental Education. J Dent Educ. 2022;86(10):1205-1218."
 ---
-
 ## Becoming a General Dentist
 
 Want to know what your dentist had to go through to practice? It's substantial. First, they completed undergraduate college including specific prerequisite courses (chemistry, organic chemistry, biology, physics, biochemistry). These are challenging courses—dental schools admit primarily students with strong academic records (average GPA around 3.7-3.8).
@@ -82,12 +81,6 @@ If cost is a barrier to care, dental schools provide discounted treatment. Stude
 
 Some dentists starting practices offer reduced fees. Community health centers and schools' dental programs provide preventive care at reduced cost. Your options expand if you're willing to tolerate longer appointment times in exchange for affordability. Research programs in your area and compare offerings to find the best match for your needs and financial situation. Many patients find dental school clinics provide comparable quality care to private practice at a fraction of the cost.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about dental schools and training and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed dental schools and training, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -98,7 +91,7 @@ Your dentist completed 4 years of rigorous dental school involving both didactic
 
 All dentists must complete continuing education to maintain current knowledge. Evaluating your dentist's credentials, experience, and continuing engagement with professional development helps you assess competency. Understanding dental education pathways informs your confidence in your provider's qualifications.
 
-> **Key Takeaway:** Overview of dental education pathways, accreditation standards, specialization training, and continuing education requirements in modern dental practice.
+> **Key Takeaway:** Want to know what your dentist had to go through to practice?
 
 ## Related Articles
 

@@ -30,7 +30,6 @@ references:
   - title: "Mollov ND. An Analysis of Enamel Bonded Lingual Retainers. Journal of Clinical Orthodontics. 2010;44(2):80-84."
     url: https://pubmed.ncbi.nlm.nih.gov/20519339
 ---
-
 ## Introduction
 
 You've finally gotten your braces off and your teeth look amazing. But your orthodontist immediately places a retainer and talks about wearing it every night for the rest of your life. It might sound extreme, but it's absolutely necessary because your teeth naturally want to move back toward their original positions.

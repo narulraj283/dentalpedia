@@ -46,7 +46,6 @@ subcategory: Pediatric Overview
 subcategory_slug: overview-peds
 title: Primary Tooth Mobility When to Extract
 ---
-
 ## Why Baby Teeth Fall Out: The Natural Process
 
 Baby teeth aren't meant to last forever. Nature designed them to loosen and fall out on their own, making room for permanent adult teeth beneath them. This process starts when your child's adult tooth begins to push upward from below, gradually dissolving the roots of the baby tooth above it. You've probably seen this yourself—your child notices their tooth wiggling more and more until one day it's loose enough to come out.

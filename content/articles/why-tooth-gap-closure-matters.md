@@ -28,7 +28,6 @@ references:
   - title: "Long-term stability of orthodontic and esthetic diastema closure treatments"
     url: "https://pubmed.ncbi.nlm.nih.gov/25230487/"
 ---
-
 A gap between your front teeth (called a diastema) affects about 1.6–25% of people depending on ethnicity. For some, it's just a unique characteristic they've learned to live with. For others, it's a cosmetic concern that bothers them enough to seek treatment. If you're considering gap closure, understanding your options—braces, bonding, or veneers—and their long-term stability helps you choose the approach that matches your priorities.
 
 ## Why Gaps Exist
@@ -131,12 +130,6 @@ If you close your gap orthodontically, relapse without retention is dramatic. Th
 **Choose bonding if**: You want immediate results, want to try closure before committing to something permanent, accept that replacement will eventually be needed.
 
 **Choose veneers if**: You want permanent closure combined with smile enhancement (shade, shape improvements), you're willing to accept irreversible treatment.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss why tooth gap closure matters, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

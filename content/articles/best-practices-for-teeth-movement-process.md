@@ -20,7 +20,6 @@ references:
   - "Chen J, Markowitz K, Finegold D. Root resorption: A review of etiology, pathogenesis, prevention and treatment. Gen Dent. 2009;57(1):52-58."
   - "Weltman B, Vig KW, Fields HW, Shanker S, Kaizar EE. Root resorption associated with orthodontic tooth movement: A systematic review. Am J Orthod Dentofacial Orthop. 2010;137(4):462-476."
 ---
-
 ## How Teeth Actually Move During Braces Treatment
 
 When you get braces, your teeth don't just slide into place like magic. Your orthodontist is actually triggering your body's natural ability to reshape the bone around your teeth. Understanding how this works can help you appreciate why treatment takes time and why your orthodontist gives you specific instructions about care.
@@ -115,18 +114,6 @@ Root resorption (root shortening) is rare but serious if it happens. Some patien
 
 White spot lesions (early demineralization/cavities) indicate inadequate home care. These are preventable with meticulous brushing/flossing. If you develop them despite good efforts, fluoride treatment can sometimes reverse early lesions.
 
-## Questions to Ask Your Orthodontist
-
-- "How long should treatment take for my specific problem?"
-- "How frequently will you adjust my braces?"
-- "What can I expect to feel after each adjustment?"
-- "What dietary restrictions do I have?"
-- "What should I do if I have sharp pain or a bracket breaks?"
-- "How will you monitor for root resorption?"
-- "How often will you take X-rays, and what are you monitoring?"
-- "What's your protocol if treatment progresses slower than expected?"
-- "What will retention look like for my case?"
-
 ## Embracing the Journey
 
 Orthodontics is a partnership between you and your orthodontist. Your orthodontist provides the appliance and expertise; you provide compliance and home care. Both matter equally.
@@ -134,6 +121,9 @@ Orthodontics is a partnership between you and your orthodontist. Your orthodonti
 Seeing visible progress (teeth straighter each month, bite improving) provides motivation. Take progress photos monthly—looking back at month 1 versus month 6 shows dramatic change. In the moment, progress feels slow, but documenting visually demonstrates real improvement.
 
 The temporary discomfort, dietary restrictions, and oral care demands are worthwhile for the permanent esthetic and functional benefits. Most people, looking back after treatment, describe their orthodontic journey as tremendously positive.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

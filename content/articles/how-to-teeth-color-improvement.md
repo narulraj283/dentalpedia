@@ -33,7 +33,6 @@ subcategory: Teeth Whitening & Bleaching
 subcategory_slug: teeth-whitening
 title: Ways to Improve Your Tooth
 ---
-
 ## Understanding What Caused the Discoloration
 
 Not all tooth discoloration is created equal, and the cause matters a lot for choosing the right treatment. **Extrinsic stains** sit on the surface and come from external sources like coffee, red wine, tea, or tobacco. These respond beautifully to professional whitening and cleaning. **Intrinsic stains** are embedded deep within the tooth structure and come from internal causes. These are trickier.
@@ -81,12 +80,6 @@ Another approach: combine treatments. Many dentists recommend bleaching your tee
 No matter which treatment you choose, maintenance is crucial. Avoid or minimize coffee, red wine, tea, and tobacco—these cause staining. When you do consume staining beverages, use a straw and rinse your mouth afterward. For bonded teeth, be gentle while eating and avoid hard foods that could chip the composite. Professional cleanings every 3-6 months keep your teeth polished and remove surface stains before they build up.
 
 Annual or biannual touch-up whitening maintains your whitened shade. Many people wear their at-home trays once a week as maintenance to keep their brightness. The investment in maintenance is far less than re-doing a full treatment.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about how to teeth color improvement and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

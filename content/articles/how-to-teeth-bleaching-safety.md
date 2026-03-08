@@ -32,7 +32,6 @@ references:
   - title: "Clinical evaluation of gum irritation associated with bleaching trays"
     url: https://www.ncbi.nlm.nih.gov/pubmed/23356288
 ---
-
 ## What Happens During Professional Teeth Whitening?
 
 Professional tooth whitening is one of the most popular cosmetic dental treatments available today. Your dentist uses special whitening gels that are much stronger than anything you can buy at home—about 4 times stronger, in fact. When your dentist applies this gel to your teeth, something interesting happens: the gel breaks down stains by releasing oxygen that penetrates deep into your tooth. Unlike coffee, wine, or tobacco stains that sit on the surface, your dentist can target both surface and deeper discoloration.

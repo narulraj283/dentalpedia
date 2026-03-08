@@ -32,7 +32,6 @@ references:
   - title: "Esthetic Smile Design and Correction of Vertical Maxillary Excess"
     url: https://pubmed.ncbi.nlm.nih.gov/26427719
 ---
-
 ## When Too Much Gum Shows in Your Smile
 
 About 1 in 10 people has what's called a "gummy smile"—seeing more than a small amount of gum tissue when they smile. For some people, it's just a minor feature they don't care about. But for others, excessive gum display affects confidence, makes them self-conscious about smiling, and impacts their quality of life. Here's what you should know about why it happens and what can be done about it.

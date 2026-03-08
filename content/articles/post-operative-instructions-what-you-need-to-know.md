@@ -15,48 +15,43 @@ references:
   - "Dua A, Bhat V. Smoking and its effects on the healing of extraction sockets: a clinical study. Journal of Maxillofacial and Oral Surgery. 2012;11(2):147-151."
   - "Gerlach RF, Montes DV. Physical activity after third molar extraction. Oral Surgery, Oral Medicine, Oral Pathology. 2002;93(5):539-543."
 ---
-
 ## Why Post-Operative Instructions Matter
 
-Following oral surgical procedures including tooth extraction, implant placement, or bone grafting, adhering to post-operative instructions represents the critical determinant of wound healing success and complication prevention. Post-operative instructions govern activity level, dietary intake, oral hygiene modifications, medication use, and behavioral modifications including smoking cessation. Non-compliance creates substantial risks for delayed healing, infection, excessive bleeding, alveolar osteitis (dry socket), and compromised surgical outcomes.
+Following surgery (extraction, implant placement, or bone grafting), following post-operative instructions is critical for healing success and preventing problems. Instructions cover activity level, diet, oral hygiene, medications, and smoking. Not following instructions causes delayed healing, infection, excess bleeding, dry socket (a painful condition), and poor outcomes.
 
 ## Activity Restrictions
 
-Post-operative restriction of physical activity serves critical functions in healing, including minimization of blood pressure elevation that can dislodge blood clots, reduction of edema and inflammation through reduced circulation, and prevention of reopening of surgical sites through mechanical disruption.
+Rest after surgery helps healing. Exercise raises blood pressure, which can dislodge blood clots. Activity also increases swelling and inflammation. Rest prevents reopening of surgical sites.
 
-The metabolic demands and cardiovascular effects of physical exertion increase blood pressure and accelerate fibrinolytic activity that disrupts forming clots. Surgical sites require blood clot stabilization and undisturbed organization for initial healing; physical activity creating blood pressure elevation or mechanical disruption compromises clot stability.
+Blood clots need to form and stabilize for healing. Exertion disrupts this. Exercise increases pressure that breaks clots and accelerates breakdown of clots.
 
-You should avoid strenuous exercise, contact sports, heavy lifting, and activities generating heat (sauna use, hot baths) for 3-5 days following uncomplicated extractions and longer for more complex procedures. Activity restrictions are not merely comfort measures but represent critical components of healing protocols.
+Avoid strenuous exercise, contact sports, heavy lifting, and heat (saunas, hot baths) for 3-5 days after simple extractions. Complex procedures need longer rest. Activity restrictions are not just for comfort—they're essential for healing.
 
 ## Dietary Modifications
 
-Diet during the immediate post-operative period requires careful modification to avoid mechanical disruption of healing surgical sites through direct contact, temperature extremes that increase bleeding or discomfort, or introduction of food particles that create infection risk.
+After surgery, diet must be modified to protect healing. Avoid hard foods that require chewing in the first 24 hours. Gradually move to soft foods while maintaining nutrition. Hot foods and drinks increase bleeding for 24 hours. Cool or room temperature foods are better.
 
-You should avoid foods requiring mechanical effort for chewing during the first 24 hours following extraction, then gradually progress to soft foods maintaining adequate nutritional intake. Hot foods and beverages should be avoided for 24 hours to minimize bleeding risk and discomfort; cool or room temperature foods are better tolerated.
-
-Foods and beverages with sharp edges or particles should be avoided for several days to minimize direct wound contact and foreign body introduction. Adequate nutritional intake, particularly protein and vitamin C, supports healing; prolonged soft diet adherence should not create severe nutritional compromise.
+Avoid sharp, crunchy foods and particles for several days. They damage healing wounds and introduce bacteria. Good nutrition, especially protein and vitamin C, supports healing. Soft diet doesn't need to be nutritionally poor—choose healthy soft foods.
 
 ## Medication Protocols
 
-Post-operative medication protocols typically include antibiotics prescribed to prevent surgical site infection, analgesics for pain management, and sometimes adjunctive medications supporting healing. Non-compliance with antibiotic therapy creates substantial infection risk.
+After surgery, you may get antibiotics to prevent infection and pain relievers for pain. Taking antibiotics exactly as prescribed is critical to prevent infection.
 
-You must receive explicit instruction regarding antibiotic dosing, complete the full prescribed course even if symptoms resolve, and take antibiotics at specified intervals to maintain therapeutic blood levels. Antibiotic timing relative to meals should be specified, as some antibiotics require empty stomach absorption while others should be taken with food.
+Take antibiotics at the right times with proper dosing. Complete the full course even if you feel better. Take them with or without food as directed. Some need empty stomach. Others need food.
 
-You should be warned not to share medications with others and not to use leftover antibiotics for different infections without consulting your healthcare provider. Some patients experience allergic reactions to prescribed antibiotics and fail to report these reactions; contact your surgeon immediately if you experience allergic reaction symptoms.
+Don't share antibiotics with others. Don't use old antibiotics for new infections without asking your dentist. Tell your dentist immediately if you have allergic reactions (rash, difficulty breathing, swelling).
 
 ## Smoking Effects
 
-Smoking represents one of the most significant modifiable risk factors for surgical healing complications. Cigarette smoke delivers toxic compounds including carbon monoxide, hydrogen cyanide, and tar that interfere with healing through multiple mechanisms. Smoking causes vasoconstriction, reducing blood flow and nutritional delivery to healing tissues.
+Smoking is one of the biggest threats to healing after surgery. Cigarette smoke has toxic chemicals that harm healing. Smoking reduces blood flow to healing areas. The heat from smoking dislodges blood clots and increases bleeding. Smoking also damages new tissue growth.
 
-Thermal effects of smoking also disrupt healing; the heat from cigarette smoke can dislodge blood clots, increase bleeding, and create thermal burns to healing tissues. Smoking creates carcinogenic effects that impair cell proliferation and differentiation, reducing the rate and quality of new tissue formation. The negative pressure created during smoking can mechanically dislodge blood clots from extraction sockets, directly creating alveolar osteitis.
-
-You should abstain from smoking for at least 72 hours following surgery, ideally for 7-10 days.
+The pressure and heat of smoking can cause dry socket (a painful empty-looking socket). Avoid smoking for at least 72 hours after surgery, ideally 7-10 days. This dramatically improves healing.
 
 ## Wound Care
 
-Post-operative wound care includes gentle oral hygiene modifications to avoid mechanical disruption of healing sites while maintaining hygiene to prevent infection. The ideal post-operative oral hygiene protocol typically includes gentle salt water rinses (beginning 24 hours post-operatively), avoiding direct brushing of surgical sites for the first week, and using soft-bristled toothbrushes on adjacent teeth with careful technique.
+After surgery, clean gently to prevent infection without disrupting healing. Start gentle salt water rinses 24 hours after surgery. Don't brush the surgical site for a week. Use a soft toothbrush on nearby teeth with gentle technique.
 
-You should perform prescribed salt water rinses gently, not vigorously. You should avoid touching surgical sites with fingers or tongue, as mechanical disruption and bacterial contamination increase infection risk.
+Rinse gently—don't swish vigorously. Don't touch surgical sites with fingers or tongue. This disrupts healing and introduces bacteria, increasing infection risk.
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 

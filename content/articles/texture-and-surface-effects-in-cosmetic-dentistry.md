@@ -32,7 +32,6 @@ references:
   - title: "Dietschi D, Moor S, Krejci I. Tooth surface treatment strategies for adhesive dentistry. Dent Clin North Am. 2002;46(1):25-37."
     url: https://pubmed.ncbi.nlm.nih.gov/12408985
 ---
-
 ## Making Restorations Look Natural: It's More Than Just Color
 
 A perfect color match isn't enough to make a filling or crown look natural. The texture and shininess of the surface matter just as much. Real teeth aren't perfectly smooth and glossy everywhere—they have texture and varied light reflection. Understanding this helps dentists create restorations that blend in beautifully.
@@ -162,6 +161,3 @@ Remember that every person's situation is unique. What works well for one patien
 - [Teeth Whitening Safety: Evidence-Based Analysis of](/article/common-misconceptions-about-teeth-bleaching-safety.html)
 - [Smile Improvement Options - What You Need to Know as a](/article/smile-improvement-options-what-you-need-to-know.html)
 
-- [Crown and Bridge Shade Matching](/article/crown-and-bridge-shade-matching-invisible-restorations.html)
-- [Creating Your Best Smile: Lips, Teeth, and Proportions](/article/lip-lines-and-smile-arc-aesthetic-proportions-explained.html)
-- [Risk and Concerns with Teeth Shade Matching](/article/risk-and-concerns-with-teeth-shade-matching.html)

@@ -30,7 +30,6 @@ references:
   - title: "Oral Hygiene Compliance and Disease Prevention: Patient Education Outcomes"
     url: https://pubmed.ncbi.nlm.nih.gov/28567890
 ---
-
 ## Why Daily Teeth Cleaning Matters in Preventive Oral Health
 
 You know you should brush and floss every day, but do you understand why it really matters? Daily teeth cleaning does much more than just make your mouth feel fresh. It prevents the buildup of harmful bacteria that cause cavities, gum disease, and eventually tooth loss.

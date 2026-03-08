@@ -32,7 +32,6 @@ references:
   - title: "Preoperative beta-blockade and perioperative stress response modulation"
     url: "https://pubmed.ncbi.nlm.nih.gov/18705664/"
 ---
-
 Swelling after oral surgery is annoying, uncomfortable, and can affect how you look for days or weeks. But here's the good news: the amount of swelling you experience is highly controllable through proven strategies. Some swelling is normal—it's actually part of how your body heals—but excessive swelling is preventable and manageable. Understanding what causes swelling, what makes it worse, and what actually reduces it helps you recover faster and more comfortably.
 
 ## Why Your Body Swells After Surgery
@@ -100,6 +99,9 @@ If you develop these symptoms, contact your surgeon immediately. You might need 
 Start all prevention strategies immediately—don't wait until swelling develops. Take anti-inflammatory medication before pain develops. Start ice immediately after surgery and maintain consistent on-off cycling. Keep your head elevated continuously for the first few days. Continue NSAIDs regularly through day 5-7.
 
 This comprehensive approach—combining preoperative steroid therapy, intraoperative technique optimization by your surgeon, ice in the first 48 hours, anti-inflammatory medications, elevation, and activity restrictions—reduces peak swelling 30-50% compared to no intervention and cuts resolution time dramatically.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

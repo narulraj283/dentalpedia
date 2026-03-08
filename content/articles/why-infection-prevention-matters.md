@@ -32,7 +32,6 @@ references:
   - title: "Microbiological Assessment of Dental Unit Waterlines and Cross-Infection Prevention"
     url: https://pubmed.ncbi.nlm.nih.gov/28765543
 ---
-
 ## Why Your Dentist's Infection Control Matters More Than You Think
 
 Every time you walk into a dental office, you're trusting the team with your safety. You're trusting them to use clean instruments. You're trusting them to follow procedures that protect you from picking up infections from previous patients.

@@ -30,7 +30,6 @@ references:
   - title: "Tooth Discoloration. American Academy of Pediatric Dentistry. Pediatr Dent. 2009;31(7):156-160."
     url: https://pubmed.ncbi.nlm.nih.gov/20140174
 ---
-
 ## Introduction: Understanding Why Your Teeth Change Color
 
 When you notice your teeth are looking darker or more stained than before, you might worry that something is seriously wrong. But here's what's important to know: tooth discoloration can happen for many different reasons. Some are harmless and easy to fix, while others signal health issues you need to address. The challenge is figuring out which type of discoloration you're dealing with.

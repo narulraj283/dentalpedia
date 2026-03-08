@@ -30,7 +30,6 @@ references:
 - 'Young DA, Featherstone JD, Roth JR. Curing the silent epidemic: caries management
   in the 21st century and beyond. J Dent Educ. 2007;71(10):1339-1350.'
 ---
-
 Not everyone gets cavities at the same rate. Learning more about [Cost of Cavity Prevention Methods](/article/cost-of-cavity-prevention-methods.html) can help you understand this better. Some people brush twice a day and never see a cavity, while others seem to get them constantly.
 
 The difference comes down to risk factors. Your dentist uses these factors to figure out your personal cavity risk level, which determines what prevention you need and what it will cost. Understanding your own risk helps you know whether you're getting enough care.
@@ -87,7 +86,7 @@ Here's something many people don't realize: stress and financial stress actually
 
 Your personal cavity risk depends on bacteria levels, diet, saliva, age, health conditions, and habits. Understanding your risk factors helps you and your dentist figure out the right amount of prevention. If you're high-risk, spending more on prevention now prevents way more expensive fillings, root canals, and implants later. The good news is that many risk factors—like diet and brushing habits—are completely in your control and cost little or nothing to improve. Talk to your dentist about which factors affect you most and what you can do to lower your cavity risk.
 
-> **Key Takeaway:** Not everyone gets cavities at the same rate. Learning more about \1 can help you understand this better.
+> **Key Takeaway:** Not everyone gets cavities at the same rate.
 
 ## Related Articles
 

@@ -20,14 +20,13 @@ references:
   - "Jones M, Chan C. The pain experience during orthodontic treatment. Aust Orthod J. 1992;12(4):267-271."
   - "Thiruvenkatachari B, Pavithranand A, Rajasigamani K, Kyung HM. Combination of vitamin C and herbal medicaments to reduce orthodontic pain. Aust Orthod J. 2010;26(1):49-53."
 ---
-
 Your braces are moving your teeth, and that's going to cause some soreness. It's totally normal—about 70-90% of people in braces feel discomfort in the first day or two. The good news?
 
-It goes away quickly and there are plenty of ways to manage it effectively. Understanding what to expect helps you prepare mentally and physically for the discomfort, which can actually make it feel less intense than if you were caught off guard. For more details, see our guide on [Accelerated Orthodontia](/article/accelerated-orthodontia-fast-track-braces.html).
+It goes away quickly and there are plenty of ways to manage it effectively. Understanding what to expect helps you prepare mentally and physically for the discomfort, which can actually make it feel less intense than if you were caught off guard.
 
 ## Why Braces Feel Uncomfortable
 
-When your orthodontist puts pressure on your teeth, it changes what's happening in the tiny space between your tooth root and the jawbone. Blood flow changes, your body releases chemicals that cause inflammation, and your nerves pick up on all that activity. It's actually a sign your teeth are moving in the right direction. This is beneficial pain—it means the treatment is working. For more details, see our guide on [Accelerated Orthodontics](/article/accelerated-orthodontics-speeding-up-your-treatment.html).
+When your orthodontist puts pressure on your teeth, it changes what's happening in the tiny space between your tooth root and the jawbone. Blood flow changes, your body releases chemicals that cause inflammation, and your nerves pick up on all that activity. It's actually a sign your teeth are moving in the right direction. This is beneficial pain—it means the treatment is working.
 
 The discomfort you feel comes from your body's natural inflammatory response. When force is applied, tiny blood vessels expand, fluid builds up in the area, and pressure increases in the bone surrounding your tooth. All of this triggers pain receptors that send signals to your brain. It's not damage; it's just your body responding to the stimulus of tooth movement.
 
@@ -87,11 +86,18 @@ Pain is temporary. You've got this—the discomfort will be gone soon, and you'l
 
 ---
 
+
+Related reading: [Lingual Braces: Invisible Alignment Behind Your Teeth](/article/lingual-braces-hidden-behind-the-teeth-alignment.html) and [Evidence-Based Decision-Making for Orthodontic](/article/best-practices-for-orthodontic-extraction-decision.html).
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about understanding braces discomfort relief — a patient guide or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Your braces are moving your teeth, and that's going to cause some soreness. Your dentist can help you understand what steps are right for your specific needs.
+
+> **Key Takeaway:** Your braces are moving your teeth, and that's going to cause some soreness.
 
 ## Related Articles
 

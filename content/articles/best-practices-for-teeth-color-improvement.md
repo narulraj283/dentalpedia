@@ -20,12 +20,11 @@ references:
   - "Ritter AV, et al. Tooth whitening: a systematic review of efficacy and safety. J Esthet Restor Dent. 2010;22(4):255-272."
   - "Ardu S, et al. A long-term field study on the efficacy of at-home tooth bleaching. J Prosthet Dent. 2018;119(4):514-520."
 ---
-
 ## Understanding Tooth Color: What You're Working With
 
-Tooth color has three components: hue (pigment type—yellow, orange, gray, brown), value (lightness-darkness on a 1-10 scale), and chroma (color saturation intensity). Natural teeth typically range 8-10 value (darker than most patients want) with yellow-orange hue and moderate chroma. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
+Tooth color has three components: hue (pigment type—yellow, orange, gray, brown), value (lightness-darkness on a 1-10 scale), and chroma (color saturation intensity). Natural teeth typically range 8-10 value (darker than most patients want) with yellow-orange hue and moderate chroma.
 
-Outer enamel (250-300 micrometers thick) is translucent, so underlying dentin color shows through. Young patients have thick enamel appearing slightly blue-gray; older patients have thinner enamel with more yellow showing (from dentin). Tetracycline antibiotic used during tooth development creates permanent gray-yellow staining deeply embedded—difficult to whiten. Age-related dentin sclerosis (hardening from mineralization) decreases light transmission, appearing yellower. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
+Outer enamel (250-300 micrometers thick) is translucent, so underlying dentin color shows through. Young patients have thick enamel appearing slightly blue-gray; older patients have thinner enamel with more yellow showing (from dentin). Tetracycline antibiotic used during tooth development creates permanent gray-yellow staining deeply embedded—difficult to whiten. Age-related dentin sclerosis (hardening from mineralization) decreases light transmission, appearing yellower.
 
 Yellow shades bleach most predictably and dramatically. Gray and brown shades respond less. Understanding your baseline predicts realistic outcomes and helps set expectations.
 
@@ -161,16 +160,6 @@ Have this conversation with your dentist before treatment:
 
 "What maintenance does my chosen treatment require?" Understand cost and effort of maintaining results.
 
-## Questions to Ask Your Dentist
-
-- "What's my baseline shade, and what's realistically achievable?"
-- "How long can I expect results to last with my lifestyle?"
-- "Which treatment option do you recommend for my specific situation?"
-- "If I choose whitening and then want bonding, will bonding color match my whitened teeth?"
-- "What's the timeline for my treatment plan?"
-- "What's involved in maintaining results, and what's the cost?"
-- "Are there any reasons professional whitening isn't appropriate for me?"
-
 ## Documentation and Motivation
 
 Take baseline photos and document your starting point. Weekly progress photos during whitening show improvement your eyes miss daily. At end of treatment, before-and-after comparisons are powerful motivation for maintenance compliance.
@@ -178,6 +167,9 @@ Take baseline photos and document your starting point. Weekly progress photos du
 The investment in whitening or restoration deserves maintenance investment. Professional reinforcement ("your teeth look so bright, make sure you maintain them!") provides motivation to follow through on lifestyle modifications.
 
 **Related articles:** Teeth whitening myths and facts | When bonding vs veneers | Stain prevention through lifestyle choices
+
+
+Related reading: [Keep Your Whitened Teeth Bright](/article/maintaining-your-whitened-teeth-tips-and-touch-ups.html) and [Common Misconceptions About Smile Improvement Options](/article/common-misconceptions-about-smile-improvement-options.html).
 
 ## Conclusion
 

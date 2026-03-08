@@ -22,14 +22,13 @@ references:
   - "McCullough MJ, et al. Oral ulceration in patients with HIV infection: classification, clinical and pathological characteristics. Oral Dis. 2002;8 Suppl 2:98-109."
   - "Chan WK, et al. Anticandidin monoclonal antibody does not reduce oral ulcerations in HIV patients. J Dent Res. 2012;91(6):580-587."
 ---
-
 ## Types of Mouth Ulcers and How Often They Happen
 
-About 1 in 5-6 people get painful mouth ulcers. They can show up once a year or multiple times a month, depending on the person. Women get them more often than men, usually starting in the teen years. If you're one of these people, you're definitely not alone. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+About 1 in 5-6 people get painful mouth ulcers. They can show up once a year or multiple times a month, depending on the person. Women get them more often than men, usually starting in the teen years. If you're one of these people, you're definitely not alone.
 
 There are three main types:
 
-**Minor ulcers** (80-90% of cases) are the most common—small (2-5mm), moderately painful (3-5/10), and heal in 7-14 days without scars. You can usually still eat and drink, though it's uncomfortable. These are annoying but manageable. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+**Minor ulcers** (80-90% of cases) are the most common—small (2-5mm), moderately painful (3-5/10), and heal in 7-14 days without scars. You can usually still eat and drink, though it's uncomfortable. These are annoying but manageable.
 
 **Major ulcers** (10-15% of cases) are bigger (over 5mm), really painful (6-9/10), last 3-4 weeks, and often leave scars. These can interfere with eating, talking, and sleeping. They're serious enough to warrant professional attention.
 
@@ -127,11 +126,16 @@ While waiting for treatment or for ulcers to heal, try these comfort measures. E
 
 Minor mouth ulcers are common, painful for 1-2 weeks, but harmless. Topical steroids reduce pain by 60-80% and speed healing slightly. Avoiding injury, switching to SLS-free toothpaste, identifying food triggers, and managing stress prevent 30-70% of ulcers. If you get frequent, large, or severe ulcers, ask your doctor for blood tests to check for nutritional deficiencies or celiac disease. Most people can manage ulcers at home, but professional help ensures you're not missing a bigger health issue.
 
+
+Related reading: [Cavity Formation Process: What You Need to Know](/article/cavity-formation-process-what-you-need-to-know.html) and [Cognitive Decline and Oral Care: Clinical Challenges](/article/cognitive-decline-oral-care-challenges.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Recurrent aphthous ulcers affect 15-25% of the population with variable severity. Minor ulcers (80-90% of cases) heal spontaneously in 7-14 days and benefit from topical corticosteroid therapy reducing pain by 60-80%. If you have questions, your dentist can help you understand your options. They can show up once a year or multiple times a month, depending on the person.
 
-> **Key Takeaway:** About 1 in 5-6 people get painful mouth ulcers. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** About 1 in 5-6 people get painful mouth ulcers. They can show up once a year or multiple times a month, depending on the person.
 
 ## Related Articles
 

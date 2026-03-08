@@ -32,7 +32,6 @@ references:
   - title: "Bleaching agents and enamel surface morphology changes"
     url: "https://pubmed.ncbi.nlm.nih.gov/18362478/"
 ---
-
 Your tooth color affects how bright and youthful your smile appears, and it changes over time for reasons you can't always control. Understanding what determines your tooth color, what can change it, and how professional whitening works helps you make decisions about improving your smile's appearance.
 
 ## What Determines Your Tooth Color
@@ -78,12 +77,6 @@ Patients with healthy enamel, no significant preexisting sensitivity, and realis
 Long-term satisfaction depends on patient compliance with maintenance and habit modification. Minimize consumption of chromogenic beverages, maintain excellent oral hygiene with twice-daily brushing and daily flossing, and use whitening toothpastes providing modest benefit through mild abrasives.
 
 Periodic touch-up treatments every 6-12 months using lower-concentration custom tray applications maintain results effectively. Studies show that touch-up frequency of 2-4 treatments annually sustains shade improvement at 70-80% of initial whitening response.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss why teeth color improvement matters, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

@@ -45,7 +45,6 @@ subcategory: Restorative Overview
 subcategory_slug: overview-restorative
 title: 'Choosing Between a Crown and Bridge: What Matters'
 ---
-
 ## When You Need a Crown: Single Tooth Restoration
 
 You need a crown when a single tooth is damaged, decayed, or has had a root canal and needs protection. A crown covers your entire tooth after it's prepared (shaped down). For damaged teeth, crowns provide good long-term protection and restoration. However, as discussed in [Crown Selection](/article/risk-and-concerns-with-cosmetic-crown-selection.html), crowns involve permanent tooth reduction and come with specific complications.
@@ -97,16 +96,6 @@ Additionally, bridge abutment teeth often need endodontic treatment eventually, 
 ## Your Specific Situation
 
 Your decision between crown, bridge, and implant depends on many factors: which tooth is involved, the condition of adjacent teeth, the status of your jaw bone, your budget, your medical health, and your willingness to undergo surgery. Discuss all options with your dentist, including less obvious choices like orthodontic tooth movement or extraction and implant. Don't assume a bridge is automatically your best choice just because it's cheaper initially.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about choosing between a crown and bridge: what matters and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 

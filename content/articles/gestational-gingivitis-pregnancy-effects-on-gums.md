@@ -20,7 +20,6 @@ references:
   - "Miyazaki H, Yamashita Y, Shimazaki Y, et al. Periodontal condition of pregnant women assessed by CPITN. J Clin Periodontol. 1991;18(10):751-754."
   - "Bobetsis YA, Graziani F, Güntsch A, et al. Dental plaque and systemic inflammation associated with pregnancy. Basic Res Cardiol. 2011;106(2):273-282."
 ---
-
 Pregnancy brings many changes to your body, and your mouth is no exception. If you're pregnant and suddenly notice that your gums are redder, puffier, or bleed more easily when you brush, you might have gestational gingivitis—inflammation of your gums that's triggered by pregnancy hormones. It's common, usually temporary, and very manageable. Understanding what's happening and how to take care of your teeth and gums during pregnancy helps protect both your health and your developing baby.
 
 ## Why Pregnancy Affects Your Gums
@@ -83,9 +82,10 @@ Once your baby arrives and your hormone levels return to normal, your gum inflam
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about gestational gingivitis: pregnancy effects on gums or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Gestational gingivitis—inflammation and bleeding of gums during pregnancy—affects most pregnant women and is caused by pregnancy hormones amplifying your gums' inflammatory response to plaque. While uncomfortable, it's typically temporary and manageable through excellent oral hygiene, professional dental care, and good nutrition. Because untreated gum disease can potentially affect pregnancy outcomes, taking your mouth seriously during pregnancy protects both your health and your baby's wellbeing. The inflammation usually resolves after delivery, but maintaining good oral habits after pregnancy is important for long-term gum health.
+
+> **Key Takeaway:** Pregnancy brings many changes to your body, and your mouth is no exception.
 
 ## Related Articles
 

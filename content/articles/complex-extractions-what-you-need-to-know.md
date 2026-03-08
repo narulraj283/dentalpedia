@@ -22,7 +22,6 @@ references:
   - "Dierks et al. Prophylactic Antibiotics in Surgical Extractions. Oral Surgery, Oral Medicine, Oral Pathology, 2024;137(2):145-159."
   - "Chrcanovic et al. Long-Term Outcomes Following Complex Tooth Extraction. International Journal of Oral & Maxillofacial Surgery, 2023;52(8):895-912."
 ---
-
 If your dentist says you need a complex extraction, you're probably wondering what that means for your recovery and what complications might occur. Let's talk about realistic expectations and how to prepare.
 
 ## What Makes Your Case Complex?
@@ -111,7 +110,7 @@ Normal postoperative progression: swelling peaks day 2-3, bruising peaks day 4-5
 
 Complex extractions have longer operative times and recovery compared to simple extractions, but complication rates are low (2-3%) with proper technique. Realistic expectations about pain, swelling, and bruising help you prepare mentally. Most people recover well and can return to normal function within 7-14 days.
 
-> **Key Takeaway:** Prepare for a complex tooth extraction with realistic expectations about recovery and complications.
+> **Key Takeaway:** If your dentist says you need a complex extraction, you're probably wondering what that means for your recovery and what complications might occur.
 
 ## Related Articles
 

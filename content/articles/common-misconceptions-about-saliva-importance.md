@@ -22,7 +22,6 @@ references:
   - "Walsh LJ. The current status of laser applications in dentistry. Aust Dent J. 2003;48(3):146-155."
   - "Navazesh M, Kumar SK. Measuring salivary flow: challenges and opportunities. J Am Dent Assoc. 2008;139(Suppl):35S-40S."
 ---
-
 ## Why Your Saliva Matters More Than You Think
 
 You probably don't think much about your saliva, but it's one of your best defenses against cavities and gum disease. Yet many patients don't understand how important it is, and some have saliva problems that significantly increase their cavity risk. Let's explore what saliva does and why it matters so much for oral health.
@@ -87,22 +86,16 @@ You can't increase saliva production if it's reduced by medication or medical co
 
 For people with medication-induced dry mouth, discussing with your doctor whether alternative medications exist might help. If your saliva quality is naturally lower, even more meticulous oral care and frequent professional cleanings provide added protection.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about saliva importance and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 Saliva is critical to cavity and gum disease prevention through antimicrobial, remineralizing, and buffering functions. Inadequate saliva significantly increases decay risk despite good oral hygiene. If you have dry mouth symptoms or unexplained cavity problems, discuss saliva assessment with your dentist. Supporting saliva through hydration and oral habits helps maximize your natural protection.
 
-> **Key Takeaway:** Learn how your saliva protects your teeth and why it might be the most important factor in your cavity risk.
+> **Key Takeaway:** You probably don't think much about your saliva, but it's one of your best defenses against cavities and gum disease.
 
 ## Related Articles
 
 - [Dental Products Comparison: What Actually Works](/article/dental-products-comparison-what-actually-works.html)
-- [Caries Risk Assessment and Key Vulnerability Factors:](/article/timeline-for-cavity-risk-factors.html)
+- [Caries Risk Assessment and Key Vulnerability Factors](/article/timeline-for-cavity-risk-factors.html)
 - [How to Prevent Tartar Buildup on Your Teeth](/article/how-to-tartar-prevention.html)
 - [Water Flossers vs. String Floss](/article/oral-irrigators-do-water-flossers-really-work.html)
 - [The Benefits of Fluoride: What to Know](/article/benefits-of-fluoride-benefits.html)

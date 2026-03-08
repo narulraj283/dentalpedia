@@ -12,7 +12,6 @@ subcategory: Pediatric Overview
 subcategory_slug: overview-peds
 title: 'Tongue-Tie in Babies and Toddlers: Early Detection'
 ---
-
 ## Recognizing Tongue-Tie Early
 
 The first weeks of life are the critical window for spotting tongue-tie. Hospital staff should check for it before discharge, but sometimes it's missed. Watch for these signs in the first 2-4 weeks:

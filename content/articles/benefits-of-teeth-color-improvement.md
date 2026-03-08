@@ -22,14 +22,13 @@ references:
   - "Dancy JA, Suge T. Shade Selection in Prosthodontics. Journal of Prosthetic Dentistry. 1999;81(4):447-451."
   - "Yap AUJ, Wattanapayathorn N. Influence of the Munsell Color Specification on Shade Selection. Operative Dentistry. 2002;27(4):384-389."
 ---
-
 ## Understanding Tooth Color
 
 Tooth color comes from how your enamel and dentin absorb and reflect light, plus any surface stains on your teeth. Understanding why teeth are the color they are helps your dentist predict what treatments will work. Surface stains respond to cleaning and whitening.
 
-Light internal staining responds to whitening. Darker staining needs microabrasion or other options. Severe staining needs veneers. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
+Light internal staining responds to whitening. Darker staining needs microabrasion or other options. Severe staining needs veneers.
 
-The Munsell color system (hue = color family, value = lightness, chroma = saturation) gives dentists a precise language for color. It's more accurate than just saying "light" or "dark." For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
+The Munsell color system (hue = color family, value = lightness, chroma = saturation) gives dentists a precise language for color. It's more accurate than just saying "light" or "dark."
 
 ## Color Basics: Hue, Value, Chroma
 
@@ -151,27 +150,16 @@ Tooth color comes from enamel and dentin characteristics plus surface stains. Th
 
 Moderate staining needs microabrasion or resin infiltration. Severe staining needs veneers or crowns. Specific problems (tetracycline, fluorosis, dead teeth) each have their own best solution. Digital tools and smile design help you get great results and stay satisfied.
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+Related reading: [Smile Enhancement Options: What You Need to Know](/article/smile-enhancement-options-what-you-need-to-know.html) and [Smile Makeover Planning - The Complete Clinical Guide](/article/smile-makeover-planning-complete-guide.html).
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Moderate staining needs microabrasion or resin infiltration. Severe staining needs veneers or crowns. Talk to your dentist about how this applies to your situation. Talk to your dentist about what options work best for your situation.
 
-> **Key Takeaway:** Tooth color comes from how your enamel and dentin absorb and reflect light, plus any surface stains on your teeth. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** Tooth color comes from how your enamel and dentin absorb and reflect light, plus any surface stains on your teeth.
 
 ## Related Articles
 

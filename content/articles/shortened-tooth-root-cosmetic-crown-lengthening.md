@@ -38,7 +38,6 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Shortened Tooth Root Cosmetic Crown Lengthening
 ---
-
 ## What is a Gummy Smile and Why It Matters
 
 If you feel like you show too much gum when you smile, you're not alone. This condition—showing more than a quarter-inch of gum tissue when smiling—affects about one in ten people and can make you feel self-conscious about your smile. Your dentist calls this excessive gingival display.
@@ -76,14 +75,6 @@ Your lip position and how much support your teeth provide to your upper lip are 
 ## Managing Complications and Long-term Success
 
 Most crown lengthening procedures go smoothly, but like all surgery, complications can occur. Root sensitivity often develops where your root becomes exposed, but this usually resolves over time with proper care. Occasionally, your gums may rebound more than expected, or healing may proceed differently than anticipated. To prevent problems, excellent oral hygiene and fluoride use are essential, particularly on exposed root surfaces where cavities can develop more easily. Your periodontist provides specific aftercare instructions to optimize healing and ensure your new gum line remains stable.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about crown lengthening for short clinical crowns: aesthetic... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

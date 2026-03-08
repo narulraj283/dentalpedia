@@ -20,7 +20,6 @@ references:
   - "Kloehn SJ. Orthodontics: Force or persuasion. Angle Orthod. 1953;23(1):56-70."
   - "Keim RG, Gottlieb EL, Nelson AH, Vogels DS. 2008 JCO study of orthodontic diagnosis and treatment procedures. J Clin Orthod. 2008;42(12):625-635."
 ---
-
 ## Metal Braces Costs and Factors
 
 Traditional metal braces typically cost $3,500 to $7,000 for complete treatment lasting 24 to 30 months. Simple cases with mild crowding or spacing cost toward the lower end ($3,500 to $4,500). Moderate bite problems cost $4,500 to $5,500. Severe cases with multiple problems or tooth extractions cost $5,500 to $7,000, plus additional surgery costs if orthognathic procedures are needed.
@@ -92,7 +91,7 @@ Braces cost $3,500 to $7,000 for 24 to 30 months of treatment. Clear aligners co
 
 Payment plans spread costs into monthly payments. Choose based on your specific bite complexity, budget, and priorities. The investment in straight teeth pays lifelong dividends in oral health and confidence.
 
-> **Key Takeaway:** Complete breakdown of braces and aligner costs, what factors affect price, and how to finance your treatment.
+> **Key Takeaway:** Traditional metal braces typically cost $3,500 to $7,000 for complete treatment lasting 24 to 30 months.
 
 ## Related Articles
 

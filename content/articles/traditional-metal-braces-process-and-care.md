@@ -32,7 +32,6 @@ references:
   - title: "Liu LK, Glaros AG, Matheson SG. Possible direct transmission of Streptococcus mutans and site-specific patterns of colonization in families with young children. J Dent Res. 1991;70(11):1409-1413."
     url: https://pubmed.ncbi.nlm.nih.gov/1835706
 ---
-
 ## Starting Your Braces Journey
 
 Getting braces is an exciting step toward achieving the smile you've always wanted. Whether you're a teenager or an adult, understanding what to expect during your treatment can help you feel confident and prepared. Traditional metal braces work by gently applying consistent pressure to move your teeth into straighter positions over time.
@@ -71,7 +70,7 @@ Braces create many small spaces where food and plaque can hide, making oral hygi
 
 Brush your teeth at least twice daily using a soft-bristled toothbrush, holding it at about a 45-degree angle toward your gum line. This angle helps you clean both your teeth and the area around each bracket. Spend several minutes carefully brushing each tooth individually, making sure to get around and under your brackets. Many people find that electric toothbrushes work better than manual ones during orthodontic treatment because the oscillating or pulsating motion helps remove plaque from hard-to-reach areas.
 
-Flossing is trickier with braces on, but it's essential. Use a floss threader—a small plastic device that guides your floss under the wire so you can clean between your teeth. Some people prefer water flossers, which use a stream of water to clean between teeth and around brackets, and research shows they work well as an alternative to traditional floss. Learn more about [Braces Food Restrictions and How to Maintain Them](/article/how-to-braces-food-restrictions.html).
+Flossing is trickier with braces on, but it's essential. Use a floss threader—a small plastic device that guides your floss under the wire so you can clean between your teeth. Some people prefer water flossers, which use a stream of water to clean between teeth and around brackets, and research shows they work well as an alternative to traditional floss.
 
 Visit your orthodontist's office or your regular dentist every three to four months for professional fluoride treatments. These strengthen your enamel and help prevent decay. Ask your orthodontist if you should use a prescription-strength fluoride rinse or toothpaste, especially if you notice any white spots forming. These higher-fluoride products are real cavity fighters and can make a significant difference in protecting your smile throughout treatment.
 
@@ -102,6 +101,9 @@ Getting your braces off isn't quite the end of your journey—what happens next 
 You'll also get a removable retainer to wear at night, at least for the first year after your braces come off, and ideally for much longer. Think of your retainer as insurance for your beautiful new smile. Without retention, teeth naturally shift back toward their original positions—it's called relapse, and it's why wearing your retainer is so important. [Discover how retainers work](/article/orthodontic-retainers-types-and-long-term-wear.html) to keep your smile beautiful.
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
+
+Related reading: [Clear Aligner Trays](/article/clear-aligner-trays-invisalign-and-alternatives-comparison.html).
 
 ## Conclusion
 

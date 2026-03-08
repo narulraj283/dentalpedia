@@ -20,7 +20,6 @@ references:
   - "Ren Y, Maltha JC, Kuijpers-Jagtman AM. (2023). Optimum force magnitude for orthodontic tooth movement: a systematic literature review. Angle Orthodontist. 73(1):86-92."
   - "Giannopoulou C, Dudley J, Tsoumis N, Wasson E, Girard B, Mombelli A. (2023). Cytokine levels in gingival crevicular fluid during orthodontic tooth movement and elastomer use. Journal of Clinical Periodontology. 34(12):1033-1041."
 ---
-
 ## Discomfort Is Real but Also Pretty Manageable
 
 When you get braces, yes, you'll experience some discomfort. But here's the important part: it's usually not as bad as people fear, and it goes away quickly. About 20-25% of people barely feel anything, 45-55% have moderate discomfort they can easily manage, and only 20-30% experience significant discomfort. The average person rates it around 5.8-7.2 out of 10 on a pain scale, which is uncomfortable but definitely survivable.
@@ -85,7 +84,7 @@ This pattern of improvement helps a lot of people psychologically. You know that
 
 Braces cause temporary discomfort that's manageable and goes away quickly. Pain medication works without interfering with treatment, and simple strategies like soft foods, oral anesthetics, and pain relief medication make everything more comfortable. With each adjustment, the discomfort becomes less intense as your mouth adapts.
 
-> **Key Takeaway:** When you get braces, yes, you'll experience some discomfort.
+> **Key Takeaway:** But here's the important part: it's usually not as bad as people fear, and it goes away quickly. About 20-25% of people barely feel anything, 45-55% have moderate discomfort they can easily manage, and only 20-30% experience significant discomfort.
 
 ## Related Articles
 

@@ -22,12 +22,11 @@ references:
   - "Brodie AG. Anatomy and embryology of cleft palate. In: Grabb WC, Rosenstein SW, Bzoch KR, editors. Cleft Lip and Palate. Boston: Little, Brown; 1971."
   - "Angle EH. Classification of malocclusion. Dent Cosmet. 1899;41(11):248-264."
 ---
-
-Bite problems range from minor spacing to severe misalignment requiring surgery. Here's how different problems are fixed and what each costs.
+Worried about bite problems and unsure whether treatment will be simple or require major surgery? Your specific problem might be fixable with aligners for under $4,000, or it might require braces and surgery for $20,000+. Understanding which category yours falls into helps you plan accordingly.
 
 ## Common Bite Problems
 
-**Overbite**: Upper front teeth overlap lower front teeth too much (more than 3-4mm)
+**Overbite**: Upper front teeth overlap lower front teeth too much
 
 **Underbite**: Lower front teeth extend beyond upper front teeth (opposite of normal)
 
@@ -217,17 +216,8 @@ After correction, retainers keep teeth straight:
 - Severe bite problem: 24-36 months + $5,000-$7,500 (orthodontics alone, but may not fully correct)
 - Severe skeletal problem requiring surgery: 18-36 months + $20,000-$40,000
 
-## Questions to Ask Your Orthodontist
 
-- Is my problem dental (can braces fix it) or skeletal (might need surgery)?
-- How much can be corrected with orthodontics alone?
-- Do I need extractions?
-- What's your estimated timeline?
-- How often are appointments?
-- What's the total cost and what does it include?
-- What's your success rate for my type of problem?
-- Will retainers be needed forever?
-- Does insurance cover this?
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

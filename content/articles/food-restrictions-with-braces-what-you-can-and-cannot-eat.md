@@ -17,7 +17,6 @@ references:
   - "Cozzani M, Cambini V, Kamdem DB, et al. Bracket slot dimensions: an analysis of different bracket types and their washability. Prog Orthod. 2014;15(1):8."
   - "Benson PE, Shah AA, Willmot DR. Food intake during fixed appliance therapy. J Dent. 2015;43(5):565-569."
 ---
-
 If you've recently gotten braces, you're probably wondering: "Wait, what can I even eat?" Good news—you won't be limited to soup and soft foods for the entire time. But yes, certain foods can damage your brackets and wires, which means more emergency visits and a longer treatment time. Understanding what's safe to eat helps you protect your investment in a straighter smile and actually speeds up your treatment.
 
 ## Why Food Matters When You Have Braces
@@ -84,7 +83,7 @@ Tell your friends about the food restrictions. They'll probably be more understa
 
 Eating with braces requires planning, but it's temporary and worth it. Following food restrictions protects your brackets, prevents emergency repairs, and actually helps your teeth move into place faster. By making smart choices now, you'll get your straight smile sooner and spend less time in the orthodontist's chair. Talk to your orthodontist about which specific foods are right for your situation.
 
-> **Key Takeaway:** Learn which foods are safe to eat with braces and which ones can damage your brackets.
+> **Key Takeaway:** If you've recently gotten braces, you're probably wondering: "Wait, what can I even eat?" Good news—you won't be limited to soup and soft foods for the entire time.
 
 ## Related Articles
 

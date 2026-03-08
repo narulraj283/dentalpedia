@@ -30,7 +30,6 @@ references:
   - title: "Lip line and smile arc influence on implant treatment planning"
     url: https://www.ncbi.nlm.nih.gov/pubmed/15611246
 ---
-
 A beautiful implant is actually a collaboration between your surgeon, restorative dentist, and lab technician. Each choice—from the material underneath your crown to the shape of the crown—affects how natural your restoration looks. Let's break down what makes an implant look like your real tooth. Learning more about [Implant Bridges for Multiple Missing Teeth](/article/all-on-four-full-arch-on-four-implants.html) can help you understand this better.
 
 ## The Hidden Foundation: What Goes Under Your Crown
@@ -91,9 +90,11 @@ Your crown will eventually need maintenance. Crowns can stain, need polishing, o
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Your crown will eventually need maintenance. Crowns can stain, need polishing, or occasionally need replacement. Talk to your dentist about how this applies to your situation.** Discussing these choices beforehand sets realistic expectations for a natural-looking restoration you'll love.
 
-> **Key Takeaway:** **A beautiful implant is a team effort combining the right abutment material, excellent crown design, accurate shade matching, and your team's technical skill.** Discussing these choices beforehand sets realistic expectations for a natural-looking restoration you'll love.
+
+
+> **Key Takeaway:** Understand how dentists create beautiful implants that blend with your natural teeth through material and design choices.
 
 ## Related Articles
 

@@ -30,7 +30,6 @@ references:
   - title: "Lim CX, Ong JL, Gao W, Yap AUJ. The Efficacy of Spectrophotometric Shade Matching in Anterior Tooth Restorations. Journal of Prosthetic Dentistry. 2019;121(3):378-385."
     url: https://pubmed.ncbi.nlm.nih.gov/30419979
 ---
-
 ## How Dentists Match Your Tooth Color Perfectly
 
 When your dentist creates a crown, veneer, or bridge, getting the color exactly right is crucial. A restoration that doesn't match your natural teeth will stand out, no matter how perfect the shape. That's why dentists spend time finding your exact shade during the planning stage. This guide explains how shade matching works, why it matters, and how modern technology makes it more accurate than ever.
@@ -90,16 +89,6 @@ Mismatched shade is one of the most common reasons for unhappy restoration resul
 Here's something important to understand: natural teeth are beautiful precisely because they have color variation and character. Expecting a restoration to look absolutely uniform and perfectly identical to every other tooth in your mouth is unrealistic. The best restorations look natural by having the same subtle variations your original tooth had.
 
 Your dentist will discuss what's realistic for your specific situation. If you're replacing one tooth, they want it to match perfectly. If you're replacing several teeth, slightly different shades across the teeth might actually look more natural.
-
-## Questions to Ask Your Dentist
-
-Before your restoration is made, ask your dentist:
-
-- "How are you determining my exact shade?"
-- "Can I see the shade sample before you send it to the lab?"
-- "Will I see samples or a try-in before the final restoration?"
-- "What happens if the final color doesn't match when you deliver it?"
-- "How will this restoration look under different lighting?"
 
 ## What to Expect During Your Visit
 

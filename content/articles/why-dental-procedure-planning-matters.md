@@ -30,7 +30,6 @@ references:
   - title: "Patient Compliance in Phased Treatment Implementation"
     url: https://pubmed.ncbi.nlm.nih.gov/28901234
 ---
-
 ## Why Dental Procedure Planning Matters for Successful Treatment
 
 When you have multiple dental problems, the way your dentist approaches treatment—the sequence, the coordination between different procedures, and the overall strategy—profoundly affects your results. Rather than addressing problems randomly as they're discovered, systematic treatment planning organizes all identified problems, prioritizes them logically, sequences procedures optimally, and communicates a coherent strategy. This planned approach prevents treatment conflicts, achieves better biological outcomes, reduces total treatment costs, and helps you understand why your dentist recommends a particular sequence.

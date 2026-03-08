@@ -32,7 +32,6 @@ references:
   - title: "Mechanical failures and iatrogenic damage in fixed orthodontic treatment"
     url: https://pubmed.ncbi.nlm.nih.gov/27550098
 ---
-
 ## Why Proper Braces Care Instructions Matter for Treatment Success
 
 Many patients think getting braces is passive—put them on and wait for your teeth to move. Actually, your success with braces depends heavily on what you do every day. Following care instructions isn't about being a "good patient" or following rules. It's about preventing permanent damage to your teeth, avoiding treatment delays, and finishing your braces faster. Understanding why each instruction matters helps you stay motivated to follow them.

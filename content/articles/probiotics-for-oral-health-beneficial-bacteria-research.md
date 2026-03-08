@@ -47,7 +47,6 @@ subcategory: Holistic Overview
 subcategory_slug: overview-holistic
 title: Probiotics for Oral Health Beneficial Bacteria Research
 ---
-
 ## Understanding Your Mouth's Bacteria
 
 Your mouth is home to hundreds of different bacteria species. Most of these bacteria are actually helpful and protect your teeth and gums by fighting off harmful bacteria. When harmful bacteria outweigh the good ones, cavities and gum disease develop. Probiotics are living beneficial bacteria that you can take as supplements to help tip the scales back in your favor. Scientists have been studying whether specific probiotic strains can reduce cavities and gum disease, and the research is promising but not yet conclusive.

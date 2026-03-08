@@ -30,7 +30,6 @@ references:
   - title: "Platform switching effect on peri-implant health: clinical and radiographic assessment"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26068961
 ---
-
 One of the biggest concerns about dental implants is how much bone might be lost around them over time. When you lose bone around an implant, your gums can recede, the implant might become more visible, and long-term success can be affected. Fortunately, modern implant design uses a clever technique called platform switching that significantly slows or stops this bone loss. Understanding this design concept helps you appreciate why your dentist chooses specific implants. Learning more about [Implant and Natural Tooth Periodontal Care Comparison](/article/implant-and-natural-tooth-periodontal-care-comparison.html) can help you understand this better.
 
 ## Why Bone Loss Happens Around Regular Implants

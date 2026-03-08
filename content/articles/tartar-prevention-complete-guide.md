@@ -22,7 +22,6 @@ references:
   - title: "Hugoson A, Laurell L. A prospective longitudinal study on periodontal bone height changes in a Swedish population. Journal of Clinical Periodontology. 2000;27(9):665-674."
     url: https://pubmed.ncbi.nlm.nih.gov/11034119
 ---
-
 ## Understanding What Tartar Is and Why Prevention Matters
 
 Tartar is hardened plaque. Your mouth naturally develops plaque—a sticky bacterial film—every single day. Plaque itself isn't permanent; you can remove it with brushing and flossing. But when plaque isn't removed regularly, minerals from your saliva harden it into tartar, which you cannot remove yourself. Only your dentist can remove tartar with special tools.
@@ -124,6 +123,3 @@ Understanding your personal risk factors—whether you're a heavy tartar former,
 - [Daily Teeth Cleaning: What Patients Need to Know](/article/benefits-of-daily-teeth-cleaning.html)
 - [Understanding Dental Visit Frequency for Better](/article/benefits-of-dental-visit-frequency.html)
 
-- [Custom Mouth Guards: Athletic Protection and Injury](/article/custom-mouth-guard-athletic-protection.html)
-- [Fruit and Your Teeth: Why Timing and Preparation Matter](/article/fruit-consumption-and-tooth-erosion-timing-matters.html)
-- [Cost of Oral Hygiene Routine](/article/cost-of-oral-hygiene-routine.html)

@@ -15,7 +15,6 @@ references:
   - "Freitas KM, Janson G, de Freitas MR, Pinzan A, Henriques JF. Posttreatment stability of anterior open bite and overbite. Am J Orthod Dentofacial Orthop. 2004;125(6):715-722."
   - "Joondeph DR. Long-term stability of dental relationships after orthodontic treatment. Angle Orthod. 2003;73(2):104-120."
 ---
-
 ## What Causes the Gaps Between Your Front Teeth?
 
 Gaps between your front teeth—especially the space between your two upper central incisors—are one of the most common cosmetic concerns your dentist sees. About 8-30% of people have noticeable gaps, and they develop for different reasons. Your gap might exist because of an oversized frenum (a tissue fold connecting your upper lip to your gum), small lateral incisors, or simply how your jaw grew. The root cause matters significantly because it determines whether your gap will stay closed after treatment or reopen again.

@@ -22,12 +22,11 @@ references:
   - "Lauridsen VB, et al. Traumatic dental injuries in the primary dentition—a systematic review. Dental Traumatology. 2012;28(5):358-368."
   - "Abbey LM, et al. Intraoral findings and correlations with systemic disease. Journal of the American Dental Association. 1997;128(2):147-153."
 ---
-
-A knocked-out tooth, a crack from a fall, a cut to your lip—dental and mouth injuries happen suddenly, and the first few minutes matter enormously. Knowing what to do immediately after an injury can mean the difference between saving and losing a tooth. This guide walks you through different types of mouth injuries and exactly what to do. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+A knocked-out tooth, a crack from a fall, a cut to your lip—dental and mouth injuries happen suddenly, and the first few minutes matter enormously. Knowing what to do immediately after an injury can mean the difference between saving and losing a tooth. This guide walks you through different types of mouth injuries and exactly what to do.
 
 ## When You Break a Tooth: Know Your Options
 
-Broken teeth fall into three categories based on depth. A small chip that only affects the hard enamel outer layer is the simplest to fix. Your dentist smooths it down, and you're done. No treatment needed beyond maybe applying a protective coating. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+Broken teeth fall into three categories based on depth. A small chip that only affects the hard enamel outer layer is the simplest to fix. Your dentist smooths it down, and you're done. No treatment needed beyond maybe applying a protective coating.
 
 If the break goes deeper and exposes the softer yellow dentin underneath, it needs coverage. The dentin is sensitive and can get infected if left exposed, so your dentist will cover it with a tooth-colored filling material. This is straightforward and usually feels fine pretty quickly once it's sealed.
 
@@ -91,11 +90,15 @@ For displaced teeth, your dentist will reposition and splint them. Most injuries
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
+
+Related reading: [Enamel Erosion Repair: What Patients Need to Know](/article/benefits-of-enamel-erosion-repair.html) and [Cavity Diagnosis Process: What You Need to Know](/article/cavity-diagnosis-process-what-you-need-to-know.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about understanding mouth injuries treatment for better dental or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** A knocked-out tooth, a crack from a fall, a cut to your lip—dental and mouth injuries happen suddenly, and the first few minutes matter enormously. Your dentist can help you understand what steps are right for your specific needs.
+
+> **Key Takeaway:** A knocked-out tooth, a crack from a fall, a cut to your lip—dental and mouth injuries happen suddenly, and the first few minutes matter enormously.
 
 ## Related Articles
 

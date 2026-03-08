@@ -30,7 +30,6 @@ references:
   - title: "Healing of porous synthetic graft materials after 6-month implantation in human maxillae and mandibles"
     url: https://www.ncbi.nlm.nih.gov/pubmed/29394343
 ---
-
 When you lose a tooth, your jawbone starts shrinking almost immediately. This happens because the root of your tooth once stimulated the bone, keeping it strong and full. Without that tooth, the bone in that area begins to dissolve and resorb back into your body.
 
 Within the first year, you can lose 3-4 millimeters of bone width, with most of that loss happening in the first 3-6 months. This bone loss creates a major challenge if you want a dental implant later because implants need healthy, thick bone to anchor into securely. Fortunately, bone grafting gives surgeons the ability to rebuild that lost bone and restore your jaw to its former strength. Understanding what materials are available and how they work will help you make informed decisions about your treatment.

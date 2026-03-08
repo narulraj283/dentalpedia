@@ -32,7 +32,6 @@ references:
   - title: "Sustained antimicrobial activity following ultrasonic biofilm disruption"
     url: https://pubmed.ncbi.nlm.nih.gov/26234567
 ---
-
 ## Introduction
 
 Your hygienist's ultrasonic scaler is more ingenious than you might think. Beyond simply vibrating back and forth to shake off tartar, ultrasonic scaling works through multiple sophisticated mechanisms simultaneously. Tiny bubbles form and collapse with tremendous force, fluid flows wash away debris and bacteria, and the vibrating tip itself breaks apart mineral deposits. Understanding how ultrasonic scaling actually works—these hidden mechanisms operating in your mouth—helps you appreciate why it's so effective and what to expect during and after your appointment.

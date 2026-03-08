@@ -26,10 +26,9 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Comprehensive Smile Makeover Planning and Sequencing
 ---
-
 ## The Consultation: Understanding What You Want
 
-A good consultation lasts 60-90 minutes. Your dentist should ask more questions than they answer initially—understanding your specific concerns, expectations, and motivations matters more than showing off their skills.
+Planning a smile makeover but uncertain where to start? Your first consultation is where the magic happens—this 60-90 minute conversation determines whether you'll love your results or regret them. A good dentist asks more questions than they answer, making sure they understand what actually bothers you before proposing solutions.
 
 **What specifically bothers you about your smile?** Don't let your dentist's opinions override your answer. You might worry about spacing, but your dentist notices shade. Your concern comes first—that's what drives satisfaction.
 

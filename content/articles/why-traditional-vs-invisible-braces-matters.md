@@ -32,7 +32,6 @@ references:
   - title: "Quality of life and comfort during fixed versus removable appliance therapy"
     url: "https://pubmed.ncbi.nlm.nih.gov/22668673"
 ---
-
 ## Braces vs. Aligners: Both Work—But Differently
 
 If you're considering straightening your teeth, you're facing a real choice: traditional braces or clear aligners like Invisalign. Both work. Neither is universally better—they work differently for different problems and different people.

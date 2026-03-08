@@ -32,7 +32,6 @@ references:
   - title: "Clinical Evaluation of Periodontal Parameters after Subgingival Delivery of Doxycycline and Minocycline"
     url: https://www.ncbi.nlm.nih.gov/pubmed/19206330
 ---
-
 ## What Are Arestin and Atridox?
 
 If your dentist has recommended Arestin or Atridox for your gum disease, you're getting a targeted antibiotic treatment that goes right where your gum problems are. These medications are specially designed to be placed deep in your gum pockets during a dental cleaning appointment. Instead of taking antibiotics by mouth (which affect your whole body), these treatments put medicine exactly where you need it—right in the infected areas under your gums.
@@ -101,9 +100,11 @@ Many dental offices offer payment plans for periodontal treatments if cost is a 
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Arestin and Atridox represent evidence-based adjunctive options for managing moderate to severe chronic periodontitis when combined with optimal mechanical therapy and patient-maintained plaque control. If you have questions, your dentist can help you understand your options. Combined with regular professional cleaning and good home care, these treatments can help your gums heal better than cleaning alone. Success depends on continuing excellent home care, regular maintenance visits, and addressing risk factors like smoking.
 
-> **Key Takeaway:** Arestin and Atridox are antibiotic medicines placed directly into your gum pockets to fight bacterial gum disease. Combined with regular professional cleaning and good home care, these treatments can help your gums heal better than cleaning alone. Success depends on continuing excellent home care, regular maintenance visits, and addressing risk factors like smoking.
+
+
+> **Key Takeaway:** Local antibiotic medications placed directly in your pockets help fight gum disease better than regular cleaning alone. Learn how these work for you.
 
 ## Related Articles
 

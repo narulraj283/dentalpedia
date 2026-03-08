@@ -28,7 +28,6 @@ references:
   - title: "Access to dental care: insurance barriers and patient outcomes"
     url: https://www.ncbi.nlm.nih.gov/pubmed/35789012
 ---
-
 Dental insurance is a huge help for paying for routine care, but it's important to understand what your plan doesn't cover. Many popular dental treatments aren't included in standard insurance plans, and learning about these gaps before you need treatment saves you from unpleasant surprises. This guide explains common exclusions so you can plan and budget wisely.
 
 ## Cosmetic Treatments Usually Aren't Covered
@@ -77,15 +76,12 @@ Call your insurance company before starting any significant treatment and ask sp
 
 If you can't afford a recommended treatment, discuss alternatives with your dentist. Sometimes delaying a cosmetic treatment or choosing a less expensive option (like a bridge instead of an implant) is reasonable. But for essential treatments, get creative. Ask about payment plans, dental schools that offer reduced-cost treatment, or dental discount plans that might help. Visit your dentist for routine care to catch small problems before they become expensive ones.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about insurance coverage limitations whats excluded and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed insurance coverage limitations whats excluded, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

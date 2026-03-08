@@ -32,7 +32,6 @@ references:
   - title: "Vitamin D Deficiency and Implant Failure: A Clinical Case-Control Study"
     url: https://pubmed.ncbi.nlm.nih.gov/27098701
 ---
-
 ## The Dynamic Duo: Vitamin D and Calcium for Your Teeth
 
 You've probably heard that calcium is important for strong bones and teeth. But here's what many people don't realize: calcium alone isn't enough. Your body can't properly absorb and use the calcium you eat without adequate vitamin D. These two nutrients work together synergistically—calcium provides the building blocks for tooth and bone structure, while vitamin D acts as the foreman, directing how your body absorbs that calcium and uses it to build and maintain bone. This partnership is especially critical for keeping your teeth strong and in their sockets for life.

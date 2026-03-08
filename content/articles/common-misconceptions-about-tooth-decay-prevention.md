@@ -22,7 +22,6 @@ references:
   - "Newbrun E. Preventing dental caries: breaking the chain of transmission. J Dent Res. 1992;71(7):1380-1385."
   - "Vos T, Flaxman AD, Naghavi M, et al. Years lived with disability for 1,160 sequelae of 289 diseases and injuries, 1990-2010: a systematic analysis. Lancet. 2012;380(9859):2163-2196."
 ---
-
 Tooth decay is one of the most common health problems worldwide, but the good news is that it's preventable. However, most people have wrong ideas about what causes cavities and how to stop them. Some of your friends might tell you to just avoid sugar, and you'll be fine. Others might say expensive toothpaste is the only way. Let's clear up the confusion and give you real information about protecting your teeth.
 
 ## It's Not Just About How Much Sugar You Eat
@@ -109,7 +108,7 @@ Cavities are preventable, but you need to understand what actually works. Focus 
 
 Work with your dentist to understand your specific cavity risk, and ask for a prevention plan that matches your needs. Remember that saliva quality matters, and if you have dry mouth, you need special treatment. Sealants help but need monitoring. Follow these evidence-based steps instead of believing marketing hype, and you'll have much better results.
 
-> **Key Takeaway:** Tooth decay is one of the most common health problems worldwide, but the good news is that it's preventable.
+> **Key Takeaway:** However, most people have wrong ideas about what causes cavities and how to stop them. Some of your friends might tell you to just avoid sugar, and you'll be fine.
 
 ## Related Articles
 

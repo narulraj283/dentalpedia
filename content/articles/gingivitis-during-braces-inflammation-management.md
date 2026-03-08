@@ -20,7 +20,6 @@ references:
   - "Felicita AS. Orthodontic extrusion of impacted canine—a sequential step by step treatment approach. J Clin Diagn Res. 2016;10(7):ZD13-ZD17."
   - "Saxe SR, Greene JC. Oral hygiene and periodontal disease. J Clin Periodontol. 1992;19(9 Pt 2):713-717."
 ---
-
 If you're wearing braces, you've probably noticed that your gums look redder and might bleed more than they did before. This is extremely common during orthodontic treatment—somewhere between 50-100% of people wearing braces develop some degree of gum inflammation. The good news? It's manageable with proper care, and it usually resolves once your braces come off. Understanding why this happens and how to prevent it helps you maintain healthy gums throughout your orthodontic journey.
 
 ## Why Braces Trigger Gum Inflammation
@@ -105,9 +104,10 @@ If you notice any permanent gum changes after braces (recession, pockets), discu
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about gingivitis during braces: inflammation management or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Gingivitis during braces is extremely common because brackets and wires create plaque traps that are difficult to clean effectively. While some inflammation is nearly inevitable, you can minimize it through meticulous oral hygiene using special tools like floss threaders and water flossers, more frequent professional cleanings, and antimicrobial rinses as recommended. Once braces come off, gum inflammation typically resolves quickly. The key is not getting discouraged—the temporary gum challenges during braces are worth it for the straight smile you'll have afterward.
+
+> **Key Takeaway:** If you're wearing braces, you've probably noticed that your gums look redder and might bleed more than they did before.
 
 ## Related Articles
 

@@ -43,7 +43,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Periodontal Disease Staging and Grading Framework
 ---
-
 ## Understanding Gum Disease Stages
 
 Your dentist might use terms like "Stage 1" or "Stage 2" when talking about gum disease. These stages help describe how serious your gum problems are and what treatment you need. Think of gum disease like a fire—catching it early makes a huge difference in how easy it is to treat. Modern dentistry now has a clear system for identifying where you are on the gum disease timeline so your dentist can create the best plan for your situation. As noted in research about [Gum Disease Stages, from Gingivitis to Periodontitis](/article/gum-disease-stages-gingivitis-to-periodontitis.html), understanding these stages helps you take control of your oral health.

@@ -20,8 +20,7 @@ references:
   - title: "Fluoride rinse effectiveness for caries prevention"
     url: https://www.ncbi.nlm.nih.gov/pubmed/17194307
 ---
-
-Mouthwash commercials promise fresh breath, cavity prevention, and gum disease prevention. But do you actually need mouthwash? The honest answer: it depends on your individual situation.
+You see hundreds of mouthwash options at the pharmacy, all promising to fix your mouth in 30 seconds. But most mouthwashes are just flavor and marketing—while some actually prevent disease. Here's what different rinses actually do, and whether you need one at all.
 
 ## Types of Mouthwash
 

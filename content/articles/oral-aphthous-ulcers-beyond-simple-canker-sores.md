@@ -28,7 +28,6 @@ references:
   - title: "Prevention Strategies for Recurrent Oral Ulceration"
     url: https://www.ncbi.nlm.nih.gov/pubmed/35678901
 ---
-
 ## Are Canker Sores Ever Serious?
 
 Almost everyone gets a canker sore sometime. That small painful ulcer appears inside your mouth without any obvious reason—at least, that's how it seems. Most of the time, canker sores are minor and heal on their own within two weeks. But if your canker sores are frequent, unusually large, or not healing normally, they could signal something worth investigating with your dentist.

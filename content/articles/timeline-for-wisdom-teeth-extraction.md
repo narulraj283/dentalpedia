@@ -1,24 +1,29 @@
 ---
-title: "Wisdom Teeth Removal: Why It's Done, When to Extract,"
-slug: timeline-for-wisdom-teeth-extraction
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "Understand why wisdom teeth are removed, the ideal age for extraction, what the surgery involves, and how long recovery takes."
 date: 2026-03-05
+excerpt: Understand why wisdom teeth are removed, the ideal age for extraction, what
+  the surgery involves, and how long recovery takes.
 read_time: 12 min
+references:
+- title: 'Blondeau F, Daniel NG. Extraction of impacted mandibular third molars: anatomical
+    and surgical considerations. Oral Surg Oral Med Oral Pathol Oral Radiol Endod.
+    2007;104(6):839-845.'
+  url: https://pubmed.ncbi.nlm.nih.gov/17949041
+- title: 'Contar CM, de Oliveira P, Kanegusuku L, et al. Complications in third molar
+    extraction: a retrospective study of 588 surgical procedures. J Oral Maxillofac
+    Surg. 2010;68(11):2735-2741.'
+  url: https://pubmed.ncbi.nlm.nih.gov/20638192
+- title: Bui CH, Seldin EB, Dodson TB. Types, frequencies, and risk factors for complications
+    after third molar extraction. J Oral Maxillofac Surg. 2003;61(12):1379-1389.
+  url: https://pubmed.ncbi.nlm.nih.gov/14663801
+reviewed: true
 reviewer_specialty: Oral and Maxillofacial Surgeon
+slug: timeline-for-wisdom-teeth-extraction
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
-reviewed: true
-references:
-  - title: "Blondeau F, Daniel NG. Extraction of impacted mandibular third molars: anatomical and surgical considerations. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2007;104(6):839-845."
-    url: https://pubmed.ncbi.nlm.nih.gov/17949041
-  - title: "Contar CM, de Oliveira P, Kanegusuku L, et al. Complications in third molar extraction: a retrospective study of 588 surgical procedures. J Oral Maxillofac Surg. 2010;68(11):2735-2741."
-    url: https://pubmed.ncbi.nlm.nih.gov/20638192
-  - title: "Bui CH, Seldin EB, Dodson TB. Types, frequencies, and risk factors for complications after third molar extraction. J Oral Maxillofac Surg. 2003;61(12):1379-1389."
-    url: https://pubmed.ncbi.nlm.nih.gov/14663801
+title: 'Wisdom Teeth Removal: Why It''s Done, When to Extract'
 ---
-
 ## Introduction
 
 Wisdom teeth removal is one of the most common oral surgeries. About 65% of people have wisdom teeth extracted by age 25. Understanding why this happens, when it's necessary, and what to expect helps you prepare if extraction is in your future. This guide covers the complete wisdom teeth removal journey.

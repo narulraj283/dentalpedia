@@ -46,7 +46,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Risk and Concerns with Surgical Teeth Removal
 ---
-
 ## Why Some Tooth Extractions Are Simple and Others Are Complex
 
 Your dentist says you need a tooth extraction. But if you ask three dentists about your specific tooth, you might get different descriptions of how complicated it will be. That's because tooth complexity varies enormously.

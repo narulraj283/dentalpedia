@@ -18,7 +18,6 @@ references:
   - title: "Dionne RA, et al. Guidelines for the use of conscious sedation. J Oral Maxillofac Surg. 2016;74(12):2343-2354."
     url: https://pubmed.ncbi.nlm.nih.gov/27515597
 ---
-
 ## Understanding Dental Anesthesia: From Local to General
 
 Your dentist has mentioned that your upcoming procedure might require sedation or general anesthesia, and you're not sure what that means or what to expect. Different dental procedures and different patient situations call for different levels of anesthesia. A simple filling might only require local numbing, but complex oral surgery might require deeper sedation or general anesthesia. This guide explains the different levels of anesthesia available, what each involves, how your dentist decides which is appropriate, and what your recovery will be like.
@@ -70,14 +69,6 @@ You cannot drive, operate machinery, or make important decisions for at least 24
 Serious complications are rare when sedation is properly administered with appropriate monitoring. The main risks involve airway obstruction (rare) or low oxygen levels (very rare). Your dentist monitors continuously to detect and manage any problems.
 
 Nausea is possible but uncommon. Bruising or soreness at the IV site is normal. Most sedation-related side effects resolve within 24 hours.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about understanding dental anesthesia: from local to general and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

@@ -20,7 +20,6 @@ references:
   - "Furness S, et al. Interventions for the management of dry mouth: Non-pharmacological interventions. Cochrane Database of Systematic Reviews. 2013;(8):CD009603."
   - "Visvanathan R, et al. Managing xerostomia: A review of therapeutic interventions. Journal of the American Dental Association. 2015;146(8):567-576."
 ---
-
 ## Why Your Mouth Feels Dry: Common Causes
 
 Dry mouth affects about one in four adults, and it's not just uncomfortable—it actually increases your cavity risk and can make eating and speaking difficult. Your saliva does important jobs: it neutralizes acids, fights bacteria, lubricates food for swallowing, and helps digestion. When saliva production drops, these protective functions suffer. Dry mouth can happen for many reasons, from medications you're taking to health conditions to cancer treatment.
@@ -89,7 +88,7 @@ Dry mouth is a serious health issue that affects your teeth, nutrition, and qual
 
 Work with your dental and medical teams to create a personalized dry mouth management plan. Many strategies can significantly improve both your comfort and your tooth health. Talk to your dentist about which approaches make the most sense for your specific situation.
 
-> **Key Takeaway:** Dry mouth affects about one in four adults, and it's not just uncomfortable—it actually increases your cavity risk and can make eating and speaking.
+> **Key Takeaway:** Dry mouth affects about one in four adults, and it's not just uncomfortable—it actually increases your cavity risk and can make eating and speaking difficult.
 
 ## Related Articles
 

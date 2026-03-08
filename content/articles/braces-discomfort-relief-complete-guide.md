@@ -22,7 +22,6 @@ references:
   - "Cobourne MT, et al. Pain and discomfort in contemporary orthodontics. Br Dent J. 2015;219(6):273-278."
   - "Lim HM, et al. Perception of pain and discomfort from initial aligner therapy. Angle Orthod. 2008;78(2):228-233."
 ---
-
 Most people who get braces experience some discomfort, particularly in the first few days after bracket placement and after each adjustment appointment. The good news? This discomfort is predictable, temporary, and highly manageable with the right strategies. Understanding what causes it and how to manage it helps you stay comfortable throughout your treatment.
 
 ## Why Braces Cause Discomfort
@@ -149,9 +148,11 @@ Think of it like building a safety net with multiple layers. You might not need 
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Orthodontic discomfort, while nearly universal, responds well to multimodal management combining pre-emptive analgesia, topical anesthetics, soft diet, cold therapy, and behavioral strategies. If you have questions, your dentist can help you understand your options.
 
-> **Key Takeaway:** Orthodontic discomfort is temporary and highly manageable through proactive pain relief, topical anesthetics, soft diet, cold therapy, and behavioral strategies that keep you comfortable throughout treatment.
+
+
+> **Key Takeaway:** Most people who get braces experience some discomfort, particularly in the first few days after bracket placement and after each adjustment.
 
 ## Related Articles
 

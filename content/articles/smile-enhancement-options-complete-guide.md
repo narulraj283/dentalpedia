@@ -32,7 +32,6 @@ references:
   - title: "Inglehart MR, Bagramian RA. Oral Health-Related Quality of Life. Chicago: Quintessence Publishing; 2002."
     url: https://pubmed.ncbi.nlm.nih.gov/12199641
 ---
-
 ## Your Smile Enhancement Options
 
 There are many ways to improve your smile, ranging from simple to more involved. You can start with something conservative and see how you feel, or go for a comprehensive approach if that fits your goals better. This guide walks you through the main options so you understand what's available.

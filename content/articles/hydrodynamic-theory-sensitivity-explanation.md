@@ -32,7 +32,6 @@ references:
   - title: "Sensitivity improvement timelines with various treatment modalities"
     url: https://www.ncbi.nlm.nih.gov/pubmed/33456789
 ---
-
 ## Why Your Teeth Are Sensitive: The Real Cause
 
 Tooth sensitivity happens when the hard outer layer of your tooth (enamel) wears away or your gums recede, exposing the softer inner layer (dentin). Dentin contains tiny tubules that connect directly to your tooth's nerve. When these tubules are exposed, stimuli like cold, heat, touch, or pressure travels through them to your nerve, causing that sharp sensitivity pain. Learning more about [Understanding Your Tooth Structure and Layers](/article/how-to-tooth-structure-layers.html) can help you understand this better.
@@ -90,12 +89,6 @@ Aggressive brushing damages enamel and gums. Use a soft-bristled toothbrush with
 If you have severe gum recession exposing substantial root surface, a gum graft surgery might be beneficial. Your dentist removes healthy gum tissue (usually from the roof of your mouth) and grafts it to cover the exposed root. This provides protection from sensitivity and decay.
 
 Gum grafting is most appropriate when recession is severe and causing significant sensitivity or decay risk. For mild recession, desensitizing treatments alone usually suffice.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about hydrodynamic theory sensitivity explanation and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

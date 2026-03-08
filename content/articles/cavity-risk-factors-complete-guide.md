@@ -22,7 +22,6 @@ references:
   - "Schwendicke F, Bottenberg P, Dorfer CE, et al. Horizontal transmission of caries-associated microorganisms in families. J Dent Res. 2014;93(9):871-878."
   - "Tellez M, Gomez J, Pretty IA, et al. Evidence on existing oral health promotion activities. J Dent Res. 2014;93(10):927-934."
 ---
-
 About 91% of adults have had at least one cavity in their lifetime. Cavities are incredibly common, but the good news is they're also preventable. Understanding what causes cavities gives you the knowledge you need to protect your teeth. This guide walks you through the main risk factors—some you can control and others you can't—and practical steps you can take to reduce your cavity risk.
 
 ## How Cavities Form
@@ -85,7 +84,7 @@ Start by being honest with yourself and your dentist about your habits. If you e
 
 Cavities result from a combination of factors—some in your control and some not. The encouraging news is that understanding these factors means you can take action. Regular brushing and flossing, limiting sugary snacks, drinking water instead of soda, and using fluoride are your best defenses. Your dentist can assess your individual risk and recommend additional steps if needed to keep your teeth cavity-free.
 
-> **Key Takeaway:** Cavities affect most of us at some point—learn what causes them and what you can actually do to prevent them.
+> **Key Takeaway:** About 91% of adults have had at least one cavity in their lifetime.
 
 ## Related Articles
 

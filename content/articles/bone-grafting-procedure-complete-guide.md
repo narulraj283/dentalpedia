@@ -20,12 +20,11 @@ references:
   - "Donos N, et al. Bone level alterations at implant-supported crowns compared with implant-supported fixed partial dentures. Clin Oral Implants Res. 2008;19(3):298-307."
   - "Marx RE, et al. Bone grafting, bone graft substitutes and platelet therapies in implant dentistry. Int J Oral Maxillofac Implants. 2011;26(Suppl):104-128."
 ---
-
 ## Types of Bone Grafting Procedures
 
-Different bone deficiencies require different approaches. Localized horizontal ridge augmentation (ridge too narrow, but tall enough) typically uses block bone grafts or membrane-protected particulate grafts. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
+Different bone deficiencies require different approaches. Localized horizontal ridge augmentation (ridge too narrow, but tall enough) typically uses block bone grafts or membrane-protected particulate grafts.
 
-Localized vertical ridge augmentation (ridge too short but wide enough) uses block bone grafts with membrane support, sometimes with distraction osteogenesis for extensive height loss. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
+Localized vertical ridge augmentation (ridge too short but wide enough) uses block bone grafts with membrane support, sometimes with distraction osteogenesis for extensive height loss.
 
 Sinus floor elevation addresses a uniquely posterior maxillary problem where the sinus cavity has expanded into the bone where implants would go. Special technique elevates the sinus membrane and allows bone grafting beneath it.
 
@@ -145,9 +144,10 @@ Material selection (autogenous, allograft, xenograft) balances osteogenic potent
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
-## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Related reading: [Cost of Post-Surgery Care in Oral Surgery](/article/cost-of-post-surgery-care.html) and [Distraction Osteogenesis: Growing New Bone](/article/distraction-osteogenesis-growing-new-bone.html).
+
+## Conclusion
 
 > **Key Takeaway:** Bone grafting success depends on adequate material placement, careful surgical technique, protected healing, and patient compliance with post-operative instructions—resulting in 92-95% implant success rates.
 

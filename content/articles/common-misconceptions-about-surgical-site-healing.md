@@ -33,7 +33,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: 'Surgical Site Healing in Oral Surgery: Physiology'
 ---
-
 When you have dental surgery, you might wonder exactly what's happening as your body heals. Understanding the healing process helps you know what's normal and when to call your dentist. Let's walk through the stages and what to expect.
 
 ## How Does Healing Really Work?
@@ -102,7 +101,7 @@ If you can't quit completely before surgery, even cutting back helps. After surg
 
 Healing after oral surgery is a natural process that your body manages really well when you follow post-operative instructions. Understanding that healing has distinct stages helps you know what's normal versus what needs attention. Most importantly, if something seems off, reach out to your dental team—they'd rather answer a question than have problems develop unnoticed.
 
-> **Key Takeaway:** Learn what happens as your mouth heals after dental surgery and how to recognize normal healing from problems that need attention.
+> **Key Takeaway:** When you have dental surgery, you might wonder exactly what's happening as your body heals.
 
 ## Related Articles
 

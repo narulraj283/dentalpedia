@@ -41,7 +41,6 @@ subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
 title: Dental Phobia Origins and Contributing Factors
 ---
-
 ## Understanding Dental Phobia as Real Anxiety
 
 Dental phobia is a genuine psychiatric condition, not just nervousness or being a "baby" about dental visits. If you have dental phobia, you experience disproportionate fear of dental treatment that causes you to avoid appointments for months or years, even when you know your teeth need care. This avoidance pattern and the distress caused by anticipating dental visits distinguish phobia from normal dental anxiety.

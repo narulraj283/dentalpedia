@@ -28,7 +28,6 @@ references:
   - title: "Color relapse of teeth after bleaching and various maintenance regimens"
     url: https://pubmed.ncbi.nlm.nih.gov/19696723
 ---
-
 ## The Critical 48-72 Hour Window: Understanding Enamel Permeability
 
 After teeth whitening, your enamel becomes temporarily more porous for 24-72 hours. During this critical window, your teeth absorb staining pigments far more easily than normal. This heightened susceptibility requires strict dietary vigilance—what dentists call the "white diet."
@@ -94,12 +93,6 @@ Custom take-home whitening trays with maintenance gel provide cost-effective col
 Research shows that detailed patient education about the 48-72 hour acute window significantly improves compliance and outcome satisfaction. Understanding the physiological basis—that enamel is temporarily porous and permeable—motivates behavior change better than simple instruction "avoid dark foods."
 
 Patients benefit from written dietary guidelines immediately post-treatment. A simple reference card in your wallet provides guidance during the critical acute phase.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss whitening maintenance diet stain prevention, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

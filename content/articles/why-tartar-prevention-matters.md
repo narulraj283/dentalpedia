@@ -32,7 +32,6 @@ references:
   - title: "Peridontal health maintenance and inflammation control following calculus removal"
     url: "https://pubmed.ncbi.nlm.nih.gov/23265203/"
 ---
-
 That hard, crusty buildup on your teeth that your dentist scrapes away is called tartar or calculus. You might think it's just cosmetic, but it's actually a major driver of gum disease and tooth loss. Understanding why tartar forms, why some people get it more than others, and how to prevent it helps you keep your teeth healthy for life.
 
 ## What Is Tartar and Why Does It Form?
@@ -106,6 +105,4 @@ Tartar prevention requires understanding that tartar formation depends both on y
 
 - [Flossing Benefits: Complete Guide](/article/flossing-benefits-complete-guide.html)
 
-- [Denture Hygiene: Proper Cleaning Techniques to Prevent](/article/denture-hygiene-cleaning-techniques.html)
-- [Evidence-Based Teeth Brushing Techniques](/article/benefits-of-teeth-brushing-technique.html)
 - [Understanding Dental Visit Frequency for Better](/article/benefits-of-dental-visit-frequency.html)

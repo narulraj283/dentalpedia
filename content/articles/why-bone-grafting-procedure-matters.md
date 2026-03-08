@@ -28,7 +28,6 @@ references:
   - title: "Maxillary sinus augmentation with bone graft: Predictability and long-term outcomes"
     url: https://pubmed.ncbi.nlm.nih.gov/21718345
 ---
-
 ## Why Bone Grafting Matters in Implant Success and Ridge Preservation
 
 When you lose a tooth, your bone doesn't stay the same. It starts resorbing (shrinking) because there's no longer a tooth root to stimulate it. After a year, you can lose 25% of the bone volume in that area.

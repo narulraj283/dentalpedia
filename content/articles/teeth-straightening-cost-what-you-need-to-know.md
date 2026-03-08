@@ -45,10 +45,9 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: 'Orthodontic Treatment Costs Explained: Patient Guide'
 ---
+Braces or aligners cost thousands of dollars, but exactly how much depends on where you live, which type you choose, and how complex your case is. Understanding pricing helps you budget and find ways to make orthodontics affordable.
 
 ## What Braces and Aligners Actually Cost
-
-Braces prices change a lot depending on where you live, who your orthodontist is, and how complicated your case is. Here's what you can realistically expect to pay.
 
 **Metal Braces:** $3,000-7,000
 This is the cheapest option for full treatment. The price goes up if your case is more complex or takes longer to finish.
@@ -180,7 +179,7 @@ Broken brackets are usually fixed at your regular appointment with no extra char
 
 **After-Treatment Visits**
 
-Most offices include 12-24 months of free checkups after treatment. After that, follow-up visits might cost $50-200 if you're not in active treatment. Learn more about [Why Teeth Relapse and Prevention Strategies](/article/why-teeth-relapse-prevention-matters.html).
+Most offices include 12-24 months of free checkups after treatment. After that, follow-up visits might cost $50-200 if you're not in active treatment.
 
 ## Questions to Ask Before You Start
 
@@ -219,6 +218,9 @@ Orthodontic treatment is a big investment in your smile. Paying for quality usua
 Braces and aligners are an investment, but there are ways to make them affordable. Understand your insurance, use payment plans, and don't automatically pick the cheapest option. A beautiful, straight smile that stays straight is worth the investment.
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
+
+Related reading: [Cleaning Braces](/article/cleaning-braces-special-techniques-and-tools.html).
 
 ## Conclusion
 

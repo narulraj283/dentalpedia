@@ -49,7 +49,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Periodontal Maintenance Ongoing Therapy
 ---
-
 ## What Is Supportive Periodontal Therapy?
 
 Supportive periodontal therapy—sometimes called SPT or maintenance therapy—is the ongoing care you receive after active gum disease treatment ends. It's not the same as regular check-ups for patients without gum disease. Think of it as a continuing partnership between you and your dental team to keep your gums healthy and prevent disease from returning.

@@ -32,7 +32,6 @@ references:
   - title: "Physical Activity Restrictions Following Oral Surgical Procedures"
     url: https://www.ncbi.nlm.nih.gov/pubmed/28956464
 ---
-
 Your post-operative instructions are your roadmap to smooth healing. Following them carefully prevents complications and gets you back to normal faster. The first 24 hours matter most, so focus especially on those instructions. Learning more about [Your Tooth Extraction Recovery Timeline](/article/how-to-oral-surgery-recovery-timeline.html) can help you understand this better.
 
 ## The First 24 Hours

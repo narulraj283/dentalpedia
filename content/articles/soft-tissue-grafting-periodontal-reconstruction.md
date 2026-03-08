@@ -32,7 +32,6 @@ references:
   - title: "Clauser C, Nieri M, Franceschi D, Pini-Prato G. Evidence-based periodontal plastic surgery. Periodontol 2000. 2018;77(1):73-101."
     url: https://pubmed.ncbi.nlm.nih.gov/29926512
 ---
-
 ## Rebuilding Your Gum and Bone
 
 Severe gum disease destroys both your gum tissue and the bone supporting your teeth. Sometimes brushing and regular cleaning aren't enough—you need reconstruction surgery that includes tissue grafting and bone regeneration. This complex procedure requires an experienced periodontist but can save your teeth.
@@ -78,12 +77,6 @@ Your periodontist schedules follow-up visits to monitor healing.
 ## Success and Long-term Management
 
 Reconstruction succeeds when you commit to excellent home care, regular professional cleanings, and addressing contributing factors (smoking, diabetes, stress). The reconstructed tissues are strong but require lifelong maintenance.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss soft tissue grafting periodontal reconstruction, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## Tips for Long-Term Success
 

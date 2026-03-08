@@ -1,28 +1,40 @@
 ---
-title: "Cognitive Decline and Oral Care: Clinical Challenges,"
-slug: cognitive-decline-oral-care-challenges
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: "When someone experiences cognitive decline—from mild memory problems all the way to advanced dementia—their oral health often suffers significantly."
 date: 2026-03-05
+excerpt: When someone experiences cognitive decline—from mild memory problems all
+  the way to advanced dementia—their oral health often suffers significantly.
 read_time: 10 min
+references:
+- 'Kaye, E., et al. (2020). The oral health of older adults: An epidemiological review.
+  Journal of Dental Research, 99(10), 1131-1139.'
+- SinGroen, W., de Baat, C., & Vermeulen, M. (2015). Oral care in patients with Alzheimer's
+  disease. Gerodontology, 32(3), 143-151.
+- 'Delwel, S., et al. (2018). Oral health and orofacial pain in older people with
+  dementia: A systematic review with focus on practical implications for nursing care.
+  Clinical Oral Investigations, 22(7), 2637-2648.'
+- 'Griffith, W., et al. (2012). Alheimer''s disease and periodontitis: A possible
+  bidirectional relationship. Journal of Alzheimer''s Disease, 23(3), 461-469.'
+- Miegel, K., et al. (2014). Dental care needs in patients with Alzheimer's disease
+  and other dementias. Journal of the American Dental Association, 145(8), 814-821.
+- Frenkel, H., et al. (2001). The effect of a cognitive behavioural training programme
+  on the oral hygiene of carers of elderly people with dementia. Journal of Advanced
+  Nursing, 36(2), 246-251.
+- Moriguchi, Y., et al. (2020). Systemic health effects of cognitive decline on periodontal
+  disease progression. American Journal of Geriatric Psychiatry, 28(4), 428-438.
+- Ellefsen, B., et al. (2018). Oral health and cognitive status in community-dwelling
+  older adults. Gerodontology, 35(2), 86-93.
+- 'Volk, M., et al. (2012). Oral health of geriatric patients with dementia: a cross-sectional
+  descriptive study. Geriatric Nursing, 33(4), 258-264.'
+- Oh, B., et al. (2014). Beneficial effects of group reminiscence therapy for dementia
+  and depression in older adults. Psychiatry Investigation, 11(1), 37-44.
+reviewed: true
 reviewer_specialty: Geriatric Dentistry
+slug: cognitive-decline-oral-care-challenges
 subcategory: General Overview
 subcategory_slug: overview-general
-reviewed: true
-references:
-  - "Kaye, E., et al. (2020). The oral health of older adults: An epidemiological review. Journal of Dental Research, 99(10), 1131-1139."
-  - "SinGroen, W., de Baat, C., & Vermeulen, M. (2015). Oral care in patients with Alzheimer's disease. Gerodontology, 32(3), 143-151."
-  - "Delwel, S., et al. (2018). Oral health and orofacial pain in older people with dementia: A systematic review with focus on practical implications for nursing care. Clinical Oral Investigations, 22(7), 2637-2648."
-  - "Griffith, W., et al. (2012). Alheimer's disease and periodontitis: A possible bidirectional relationship. Journal of Alzheimer's Disease, 23(3), 461-469."
-  - "Miegel, K., et al. (2014). Dental care needs in patients with Alzheimer's disease and other dementias. Journal of the American Dental Association, 145(8), 814-821."
-  - "Frenkel, H., et al. (2001). The effect of a cognitive behavioural training programme on the oral hygiene of carers of elderly people with dementia. Journal of Advanced Nursing, 36(2), 246-251."
-  - "Moriguchi, Y., et al. (2020). Systemic health effects of cognitive decline on periodontal disease progression. American Journal of Geriatric Psychiatry, 28(4), 428-438."
-  - "Ellefsen, B., et al. (2018). Oral health and cognitive status in community-dwelling older adults. Gerodontology, 35(2), 86-93."
-  - "Volk, M., et al. (2012). Oral health of geriatric patients with dementia: a cross-sectional descriptive study. Geriatric Nursing, 33(4), 258-264."
-  - "Oh, B., et al. (2014). Beneficial effects of group reminiscence therapy for dementia and depression in older adults. Psychiatry Investigation, 11(1), 37-44."
+title: 'Cognitive Decline and Oral Care: Clinical Challenges'
 ---
-
 ## How Cognitive Decline Affects Dental Health
 
 When someone experiences cognitive decline—from mild memory problems all the way to advanced dementia—their oral health often suffers significantly. People with cognitive decline are far more likely to have untreated cavities, gum disease, and tooth loss compared to people whose thinking is sharp. The numbers are striking: people with moderate dementia have about five times more untreated dental disease than people without cognitive problems.
@@ -89,7 +101,7 @@ If someone is in hospice or approaching end-of-life care, talk to both their med
 
 Cognitive decline significantly challenges oral health and requires proactive, adapted approaches from both caregivers and dental professionals. With proper training, realistic treatment planning, and attention to medication side effects, it's possible to help people with cognitive decline maintain better oral health and comfort throughout their disease progression.
 
-> **Key Takeaway:** When someone experiences cognitive decline—from mild memory problems all the way to advanced dementia—their oral health often suffers significantly.
+> **Key Takeaway:** People with cognitive decline are far more likely to have untreated cavities, gum disease, and tooth loss compared to people whose thinking is sharp. The numbers are striking: people with moderate dementia have about five times more untreated dental disease than people without cognitive problems.
 
 ## Related Articles
 

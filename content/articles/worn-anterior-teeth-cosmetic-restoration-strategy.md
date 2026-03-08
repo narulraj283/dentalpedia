@@ -32,7 +32,6 @@ references:
   - title: "Long-term outcomes of direct versus indirect restorations in worn anterior teeth"
     url: https://pubmed.ncbi.nlm.nih.gov/26177986/
 ---
-
 ## Why Front Teeth Wear Down
 
 Your front teeth take the most visible damage from years of grinding habits, acid exposure, or just normal aging. The good news: there are several ways to restore worn front teeth, and your choice depends on how much wear you have, what caused it, and your budget.

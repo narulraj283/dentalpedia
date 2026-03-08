@@ -14,7 +14,6 @@ references:
   - "Needleman I, Ashley P, Fine P, Harding M, Kandiah T, Loosemore M. Sports dentistry: guideline and recommendations for practice. Br Dent J. 2015;219(11):521-531."
   - "Castaldi CR, Hoyt WA. The role of the team dentist in athletic programs. Dent Clin North Am. 1976;20(1):175-181."
 ---
-
 ## The Athlete's Dilemma
 
 You've got a cavity, your braces need adjustment, or your gums are inflamed. But you've also got a championship tournament next week. Do you get the dental work done and risk discomfort during competition, or defer treatment and risk complications? Smart scheduling solves this: timing treatment relative to competition calendars minimizes disruption while protecting your oral health.
@@ -73,13 +72,8 @@ Work backwards from your major competitions to schedule everything strategically
 
 Be upfront with your dentist about your athletic schedule and competition timeline. Dentists accustomed to treating athletes understand these timing issues and can work with you. Similarly, inform your athletic program's medical staff about dental procedures so they understand any temporary sensitivity or performance adjustments. This team approach ensures everyone supports your dental health while maximizing athletic performance.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about dental care schedule around competition and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 
@@ -89,7 +83,7 @@ Periodontal treatment: 3-4 weeks before major competition. Emergency trauma: imm
 
 Work with your dentist to create a dental calendar aligned with your competition schedule, scheduling elective work during off-season and emergency management during competitions.
 
-> **Key Takeaway:** How to schedule preventive and restorative dental care to maximize athletic performance.
+> **Key Takeaway:** You've got a cavity, your braces need adjustment, or your gums are inflamed.
 
 ## Related Articles
 

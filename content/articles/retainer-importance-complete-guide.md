@@ -18,7 +18,6 @@ references:
   - title: "Reitan K. Tissue behavior during orthodontic tooth movement. Am J Orthod. 1960;46(12):881-913."
     url: https://pubmed.ncbi.nlm.nih.gov/13710531
 ---
-
 ## Why Your Retainers Are Just as Important as Your Braces
 
 You've finally had your braces removed, and your teeth look amazing. But your orthodontic journey isn't finished—you're just moving into the retention phase, which is actually more critical than many people realize. Your retainers are just as important as your braces were in achieving your beautiful smile. Without proper retention, your teeth will gradually shift back toward their original positions, potentially undoing all the work and expense of your treatment. This guide explains why retainers matter so much, what types are available, how long you need to wear them, and how to care for them properly.

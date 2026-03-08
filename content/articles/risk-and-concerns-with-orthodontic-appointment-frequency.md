@@ -44,7 +44,6 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Risk and Concerns with Orthodontic Appointment Frequency
 ---
-
 ## Scheduling Orthodontic Appointments: Finding the Right Frequency
 
 Your braces treatment will last 18-36 months or longer, and you'll need regular appointments to progress through treatment. But how often should you visit your orthodontist? Too frequently and the burden becomes unrealistic. Too infrequently and your treatment slows down dramatically. This guide helps you understand appointment frequency and why it matters.
@@ -89,6 +88,9 @@ The cumulative effect of appointment irregularities is profound extension of ove
 Thakar and colleagues examined treatment abandonment in orthodontics and found that extended treatment duration represents a primary driver of abandonment, with patients discontinuing treatment due to fatigue and perception that treatment is progressing inadequately. When patients miss appointments and experience resulting delays, they often become discouraged and abandon treatment entirely, leaving teeth in partially corrected positions with substantial esthetic and functional compromise. Some patients attempt to continue treatment elsewhere, incurring additional cost and requiring re-initiating treatment mechanics from intermediate status rather than from treatment initiation. The psychological burden of extended treatment includes increased discomfort perception, declining confidence in treatment success, and reduced quality of life during extended treatment periods.
 
 Clinicians should implement systematic attendance monitoring, with escalating interventions for attendance problems: early discussion of barriers to attendance, potential appointment schedule modifications to address conflicts, and explicit discussion with patients regarding treatment timeline extension from attendance irregularities. Some research suggests that patient education regarding the relationship between appointment frequency and total treatment time produces improved compliance, as patients better understand that maintaining appointments accelerates rather than delays treatment completion.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

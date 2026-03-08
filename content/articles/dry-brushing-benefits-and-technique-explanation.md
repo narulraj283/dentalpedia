@@ -20,7 +20,6 @@ references:
   - "Daly CG, et al. Plaque control for maintenance of dental health. Dental Education Journal. 2013;33(4):267-279."
   - "Mancl L, et al. Does oral biofilm removal efficacy depend on toothbrush design characteristics? Journal of Periodontology. 2014;85(8):1036-1044."
 ---
-
 ## What Is Dry Brushing and Why It Works Better
 
 If you want to remove plaque more effectively, try something your grandparents might have known: dry brushing. Learning more about [Oral Health Habits Complete Guide](/article/oral-health-habits-complete-guide.html) can help you understand this better. Instead of wetting your toothbrush before applying toothpaste, you brush your teeth first with a dry brush. Research shows this simple change removes up to 30% more plaque than regular wet brushing. The reason is surprisingly simple—when your toothbrush is dry, the bristles stay stiff and firm, which helps them scrub your teeth harder and more effectively.
@@ -83,7 +82,7 @@ Dry brushing removes significantly more plaque than regular wet brushing because
 
 If you want to try dry brushing, start gradually with a few days per week, use medium-stiffness bristles with round tips, and follow with regular wet brushing. Ask your dentist if dry brushing makes sense for your specific situation.
 
-> **Key Takeaway:** Dry brushing technique removes plaque more efficiently than water-based brushing and reduces biofilm reaccumulation.
+> **Key Takeaway:** If you want to remove plaque more effectively, try something your grandparents might have known: dry brushing.
 
 ## Related Articles
 

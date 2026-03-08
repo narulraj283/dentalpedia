@@ -1,28 +1,41 @@
 ---
-title: "Bracket Irritation and Oral Ulceration: Prevention,"
-slug: bracket-irritation-mouth-sores-during-orthodontia
 category: Orthodontics
 category_slug: orthodontics
-excerpt: "One of the most common complaints from people with braces is that they cause sore spots inside their mouth."
 date: 2026-03-05
+excerpt: One of the most common complaints from people with braces is that they cause
+  sore spots inside their mouth.
 read_time: 9 min
+references:
+- Lindauer SJ, Shoff RC. Patient discomfort from visible intraoral appliances. Am
+  J Orthod Dentofacial Orthop. 1998;114(3):342-349.
+- Boyd RL, Leggott PJ, Quinn RS, Eakle WS, Chambers D. Periodontal implications of
+  orthodontic treatment in adults with reduced or normal periodontal tissues versus
+  children. Am J Orthod Dentofacial Orthop. 1989;96(3):191-198.
+- Glans R, Larsson E, Ödenrick L. Longitudinal changes in gingival conditions during
+  puberty. J Clin Periodontol. 1993;20(1):50-53.
+- Eliades T. Orthodontic materials research and applications: part 1. Adhesive materials
+    and their properties. Am J Orthod Dentofacial Orthop. 2006;129(5):623-629.
+- Brown DF, Moerenhout RG. The pain experience and psychological adjustment to orthodontic
+  treatment of preadolescents, adolescents, and adults. Am J Orthod Dentofacial Orthop.
+  1991;100(4):349-356.
+- Zachrisson BU. Cause and prevention of injuries to teeth and supporting structures
+  during orthodontic treatment. Br J Orthod. 1997;24(4):296-303.
+- Bourauel C, Ferner K, Gedrange T. Adhesive forces during fixed appliance attachment.
+  Semin Orthod. 2006;12(3):235-245.
+- Pluim SM, Stijns RB, Blijdorp PA. Bonded versus banded maxillary first molars: comparison
+    of bracket failure rates. Eur J Orthod. 2001;23(3):259-265.
+- Campbell PM. The dilemma of diagnosing demineralization clinically. J Clin Orthod.
+  1995;29(6):364-372.
+- Sukontapatipark W, El-Agroudi MA, Selliseth NJ, Saxegaard E, Selnes H. Bacterial
+  colonization associated with fixed orthodontic appliances. A scanning electron microscopy
+  study. Eur J Orthod. 2001;23(5):475-484.
+reviewed: true
 reviewer_specialty: Orthodontics
+slug: bracket-irritation-mouth-sores-during-orthodontia
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
-reviewed: true
-references:
-  - Lindauer SJ, Shoff RC. Patient discomfort from visible intraoral appliances. Am J Orthod Dentofacial Orthop. 1998;114(3):342-349.
-  - Boyd RL, Leggott PJ, Quinn RS, Eakle WS, Chambers D. Periodontal implications of orthodontic treatment in adults with reduced or normal periodontal tissues versus children. Am J Orthod Dentofacial Orthop. 1989;96(3):191-198.
-  - Glans R, Larsson E, Ödenrick L. Longitudinal changes in gingival conditions during puberty. J Clin Periodontol. 1993;20(1):50-53.
-  - Eliades T. Orthodontic materials research and applications: part 1. Adhesive materials and their properties. Am J Orthod Dentofacial Orthop. 2006;129(5):623-629.
-  - Brown DF, Moerenhout RG. The pain experience and psychological adjustment to orthodontic treatment of preadolescents, adolescents, and adults. Am J Orthod Dentofacial Orthop. 1991;100(4):349-356.
-  - Zachrisson BU. Cause and prevention of injuries to teeth and supporting structures during orthodontic treatment. Br J Orthod. 1997;24(4):296-303.
-  - Bourauel C, Ferner K, Gedrange T. Adhesive forces during fixed appliance attachment. Semin Orthod. 2006;12(3):235-245.
-  - Pluim SM, Stijns RB, Blijdorp PA. Bonded versus banded maxillary first molars: comparison of bracket failure rates. Eur J Orthod. 2001;23(3):259-265.
-  - Campbell PM. The dilemma of diagnosing demineralization clinically. J Clin Orthod. 1995;29(6):364-372.
-  - Sukontapatipark W, El-Agroudi MA, Selliseth NJ, Saxegaard E, Selnes H. Bacterial colonization associated with fixed orthodontic appliances. A scanning electron microscopy study. Eur J Orthod. 2001;23(5):475-484.
+title: 'Bracket Irritation and Oral Ulceration: Prevention'
 ---
-
 One of the most common complaints from people with braces is that they cause sore spots inside their mouth. About 15 to 30% of people experience some mouth ulceration (sores) from braces, especially in the first week or two. These sores usually come from sharp bracket edges or protruding wires rubbing against your lips, cheeks, or tongue. The good news is that these sores are almost always preventable and treatable. This guide explains what causes them, how to prevent them, and how to manage them if they develop.
 
 ## Who Gets Sore Spots and When
@@ -106,12 +119,6 @@ In rare instances (less than 2 to 3% of cases), a patient develops severe, wides
 
 These situations are rare, but if you're experiencing this level of discomfort, discuss it immediately with your orthodontist. You don't need to suffer through treatment.
 
-## Questions to Ask Your Orthodontist
-
-When your braces are placed, ask: What's your bracket smoothing protocol? Are there any sharp areas I should be concerned about? If I develop sores, what's the fastest way to get relief?
-
-Can you apply protective barriers to high-risk areas from the start? What products do you recommend for protection and pain relief? If I get recurrent sores, what adjustments can you make?
-
 ## If Sores Keep Coming Back
 
 If you keep getting sores in the same spot, your orthodontist might need to reposition a bracket, use a smaller wire temporarily to reduce rigidity, trim the archwire shorter, or apply a smooth protective coating over the sharp area. These changes usually fix the problem completely. In rare cases where someone gets severe, widespread sores that affect eating or sleeping, a brief treatment break (1 to 2 weeks) might be recommended while the mouth heals, then treatment resumes with structural modifications.
@@ -119,6 +126,9 @@ es-pain-and-discomfort-first-week-experience.html)
 
 
 For more information, see [Orthodontic Elastics: Force Delivery, Properties](/article/elastics-colored-ties-and-power.html) and [Orthodontic Treatment Cost Analysis and Financial](/article/best-practices-for-teeth-straightening-cost.html).
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

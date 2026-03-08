@@ -18,7 +18,6 @@ references:
   - title: "Becker DE, et al. Local anesthetics: review of pharmacological considerations. Anesth Prog. 2012;59(2):90-102."
     url: https://pubmed.ncbi.nlm.nih.gov/22822998
 ---
-
 ## Local Anesthesia: Safety, Side Effects, and What to Expect
 
 Your dentist says you need a local anesthetic for a filling or other procedure, and you're nervous about the injection and wondering about safety. Dental anesthesia has been used safely for over a century, and local numbing is actually one of the safest medical interventions available. However, it's completely normal to have concerns about any medication or injection. This guide explains how dental numbing works, what you'll experience, common side effects that are normal, rare complications to be aware of, and when to mention specific concerns to your dentist.
@@ -66,14 +65,6 @@ However, if you have severe hypertension or certain cardiac arrhythmias, epineph
 ## Anesthetic Options and Alternatives
 
 If you've had a reaction to standard anesthetic, options include using preservative-free solutions (reactions are often to preservatives, not the anesthetic), using plain anesthetic without epinephrine, or using alternative anesthetic agents.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about local anesthesia: safety, side effects, and what to expect and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

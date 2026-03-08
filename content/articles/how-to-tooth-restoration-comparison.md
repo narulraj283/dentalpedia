@@ -32,7 +32,6 @@ references:
   - title: "Esthetic considerations in anterior restorations"
     url: https://www.ncbi.nlm.nih.gov/pubmed/37345678
 ---
-
 ## Fillings: For Small to Moderate Damage
 
 When you have a small-to-moderate cavity or minor tooth damage, a filling is usually the right solution. Fillings are the fastest, most affordable option, typically placed in one appointment. Modern tooth-colored composite fillings blend naturally with your teeth and look great. Learning more about [When Your Tooth Needs Professional Care](/article/how-to-infection-prevention.html) can help you understand this better.
@@ -78,12 +77,6 @@ Your dentist will examine your tooth and explain what's needed. Sometimes teeth 
 Fillings typically last 5-10 years. Crowns typically last 10-15+ years. Implants can last 20+ years or a lifetime with proper care.
 
 However, these timelines depend entirely on your oral hygiene, your diet, and your habits. Someone who flosses daily, avoids hard foods, and doesn't grind their teeth might have restorations last much longer. Someone who neglects cleaning might need replacements sooner.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about how to tooth restoration comparison and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

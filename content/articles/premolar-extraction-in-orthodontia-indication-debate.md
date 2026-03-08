@@ -38,7 +38,6 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Premolar Extraction in Orthodontia Indication Debate
 ---
-
 ## Should Your Teeth Be Extracted for Braces? Understanding Extraction Decisions
 
 One of the first questions you'll face when starting orthodontic treatment is whether you need to have teeth extracted to make room for straightening. This question often comes as a shock—the idea of extracting healthy teeth feels counterintuitive. This guide explains when extraction actually makes sense, how orthodontists decide between extraction and non-extraction approaches, and how these decisions affect your final smile. Understanding the reasoning behind your orthodontist's recommendation helps you make informed decisions about your treatment.
@@ -123,7 +122,7 @@ Whether you're exploring treatment for the first time or looking into follow-up 
 
 - [Tongue Thrust and Orthodontia: Habit Correction](/article/tongue-thrust-and-orthodontia-habit-correction.html)
 - [Timeline for Braces Food Restrictions and Dietary](/article/timeline-for-braces-food-restrictions.html)
-- [Timeline for Orthodontic Appointment Frequency:](/article/timeline-for-orthodontic-appointment-frequency.html)
-- [Traditional Metal Braces Components—Brackets,](/article/traditional-metal-braces-brackets-and-wires-explained.html)
+- [Timeline for Orthodontic Appointment Frequency](/article/timeline-for-orthodontic-appointment-frequency.html)
+- [Traditional Metal Braces Components—Brackets, Wires](/article/traditional-metal-braces-brackets-and-wires-explained.html)
 - [Risk and Concerns with Traditional Versus](/article/risk-and-concerns-with-traditional-vs-invisible-braces.html)
 

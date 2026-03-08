@@ -32,7 +32,6 @@ references:
   - title: "Schätzle M, Katsaros C, Brunner E, Reuling M, Krastl G. Root resorption: Evaluation of a combined treatment of orthodontic and endodontic parameters. J Dent. 2010;38(5):428-435."
     url: https://pubmed.ncbi.nlm.nih.gov/20153813
 ---
-
 ## Introduction
 
 Imagine your teeth deciding to erupt in the wrong order—where one tooth appears in another tooth's designated spot. That's dental transposition, and while it might sound like a rare quirk, it happens more often than you'd think. Understanding what transposition is, why it occurs, and how it affects your oral health helps you work effectively with your dentist on the best approach for your unique situation. Whether you're a parent noticing something unusual in your child's mouth or you've just been told you have transposed teeth, this guide will explain everything you need to know about this developmental condition.

@@ -32,7 +32,6 @@ references:
   - title: "Injury prevention through mouthguard use in contact sports participants"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27029819
 ---
-
 Traumatic mouth injuries occur suddenly and unexpectedly, creating panic and urgency about whether your teeth can be saved. The immediate actions you take in the first minutes following trauma substantially influence whether teeth survive or require extraction with lifelong replacement needs. Knowing appropriate first-aid response, understanding what happens during emergency dental evaluation, and being aware of potential long-term treatment needs enables you to make informed decisions during crisis moments. The immediate actions literally determine whether your tooth survives.
 
 ## Recognizing Mouth Injuries and Assessing Severity
@@ -90,6 +89,9 @@ Behavioral prevention includes awareness of injury risks in specific activities 
 Long-term tooth preservation following trauma includes compliance with recommended follow-up care, maintenance of oral hygiene around injured teeth (gentle but thorough cleaning preventing secondary complications), and regular dental examinations identifying complications early. Some traumatized teeth achieve complete healing and function normally for life; others develop complications requiring root canal treatment or eventual extraction.
 
 Financial considerations include recognition that traumatic dental injuries often require significant treatment investment including emergency care, stabilization, potentially endodontic treatment, and eventual restorative treatment if tooth anatomy is compromised. Prevention through mouthguard use and behavioral awareness costs substantially less than trauma management and replacement of lost teeth.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

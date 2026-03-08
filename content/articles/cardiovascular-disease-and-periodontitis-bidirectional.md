@@ -20,7 +20,6 @@ references:
   - "Schenkein HA, Loos BG. Inflammatory mechanisms linking periodontal diseases to cardiovascular diseases. J Periodontol. 2013;84(4 Suppl):S51-69."
   - "Paraskevas S, Huizinga JD, Loos BG. A systematic review and meta-analyses on C-reactive protein in relation to periodontitis. J Clin Periodontol. 2008;35(4):277-290."
 ---
-
 ## The Unexpected Connection
 
 Recent research reveals a surprising connection between gum disease and heart disease. People with moderate-to-severe gum disease have 24-35% higher risk of heart disease compared to people with healthy gums. This relationship isn't coincidental—bacteria from gum disease can enter your bloodstream, triggering systemic inflammation that affects cardiovascular health.
@@ -91,10 +90,6 @@ Optimal health requires coordination between your dentist and physician. Sharing
 
 Discussing gum disease with your physician and your cardiovascular status with your dentist ensures comprehensive health management.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about how your gum health might be affecting your heart health. If you have a history of heart disease or high blood pressure, let your dental team know so they can monitor your gum health more closely. Ask whether more frequent cleanings would benefit you, especially if you have risk factors for both conditions. Your dentist can coordinate with your physician to ensure your treatment plan accounts for both your oral and cardiovascular health. Ask about specific signs you should watch for at home, such as bleeding gums or persistent bad breath, that might indicate worsening periodontal disease.
-
 ## Protecting Your Heart and Gums Together
 
 Managing both conditions requires a team approach. Keep your cardiologist informed about any dental procedures, and make sure your dentist knows about all heart medications you take—especially blood thinners, which can affect dental treatment planning. Maintain excellent oral hygiene habits at home, including brushing twice daily and flossing every day.
@@ -105,7 +100,7 @@ Consider using an antimicrobial rinse if your dentist recommends one. Schedule d
 
 Gum disease and cardiovascular disease share a bidirectional relationship where each condition worsens the other. Bacteria from diseased gums trigger systemic inflammation accelerating atherosclerosis. Treating gum disease reduces systemic inflammation and partially reduces cardiovascular risk. Maintaining treated gum disease through regular professional care and excellent home care contributes meaningfully to cardiovascular health maintenance.
 
-> **Key Takeaway:** Gum disease and heart disease share a bidirectional relationship affecting overall health.
+> **Key Takeaway:** Recent research reveals a surprising connection between gum disease and heart disease.
 
 ## Related Articles
 

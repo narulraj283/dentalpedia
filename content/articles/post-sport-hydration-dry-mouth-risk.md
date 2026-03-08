@@ -37,7 +37,6 @@ subcategory: Sports Dentistry Overview
 subcategory_slug: overview-sports
 title: Post Sport Hydration Dry Mouth Risk
 ---
-
 ## What Happens to Your Mouth During Sports
 
 When you exercise, especially during long endurance activities, your body goes through significant changes that affect your teeth and mouth. One major issue is dry mouth (called xerostomia). Research shows that when you run, swim, or cycle hard, your mouth produces 30-60% less saliva than normal—and these effects can continue for hours after you stop exercising.

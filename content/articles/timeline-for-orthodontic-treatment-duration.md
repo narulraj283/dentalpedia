@@ -1,11 +1,11 @@
 ---
+category: General Dentistry
 category_slug: general-dentistry
 excerpt: You've probably heard that braces take about two years, but that "about two
   years" can mean anywhere from 18 months to three years or more. The truth is
 slug: timeline-for-orthodontic-treatment-duration
 title: Timeline for Orthodontic Treatment Duration
 ---
-
 ## Introduction
 
 You've probably heard that braces take about two years, but that "about two years" can mean anywhere from 18 months to three years or more. The truth is that every smile is different, and several factors determine how long your specific braces journey will take. Understanding what influences treatment duration helps you set realistic expectations and stay motivated throughout the process.
@@ -55,12 +55,6 @@ When your orthodontist removes your braces, you're not quite finished—retentio
 **Severe crowding with extraction**: 28-36 months
 **Open bite or skeletal issues**: 30-36+ months
 **Clear aligners for comparable difficulty**: Add 20-30% to above estimates
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for orthodontic treatment duration, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

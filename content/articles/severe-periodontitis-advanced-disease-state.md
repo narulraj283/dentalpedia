@@ -45,7 +45,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Severe Periodontitis Advanced Disease State
 ---
-
 ## Introduction
 
 If your dentist tells you that you have severe gum disease, also called severe periodontitis or Stage III or IV periodontitis, you're facing a serious problem that requires comprehensive treatment. Your gums have receded significantly, your teeth are loose, and your bone is severely damaged. The good news is that modern treatment can often save teeth that seem hopeless, though the process is complex and requires your full participation. Severe periodontitis develops over years of inadequately treated or untreated gum disease, so addressing it now prevents further damage and gives your teeth the best chance of lasting.
@@ -135,9 +134,6 @@ Factors associated with improved prognosis include early recognition and aggress
 
 Teeth with advanced bone loss that are retained through successful treatment often provide many additional years of functional service despite compromised periodontal support. However, clinicians should establish realistic expectations with patients regarding potential need for tooth extraction if disease control proves inadequate or if progressive mobility compromises function.
 
-## Conclusion
-
-Severe periodontitis is a serious disease requiring aggressive, comprehensive treatment including deep cleaning, possible antibiotics and surgery, and your excellent daily home care. Early intervention can save many teeth, though sometimes extraction of hopeless teeth is necessary. Working closely with your dentist and maintaining meticulous oral hygiene during and after treatment gives your remaining teeth the best chance of long-term survival.
 
 ## Conclusion
 

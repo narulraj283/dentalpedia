@@ -32,7 +32,6 @@ references:
   - title: "Torabinejad M, Fouad AF. Endodontic treatment of teeth with open apices. Endod Top. 2005;12(1):4-15."
     url: https://pubmed.ncbi.nlm.nih.gov/16487182
 ---
-
 ## Introduction
 
 Sudden tooth pain is one of the most uncomfortable things you can experience. It might happen on a Saturday night when your regular dentist is closed, or it might wake you up at 3 a.m. The good news is that there are things you can do immediately to manage the pain, and there are emergency dental care options available. Understanding what's causing your tooth pain and what treatments work best can help you feel more in control and less panicked when dental pain strikes.

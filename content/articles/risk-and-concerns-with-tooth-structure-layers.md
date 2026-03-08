@@ -30,7 +30,6 @@ references:
   - title: "Mjor IA. Pulp-dentin biology: relationship and biological significance. Int Endod J. 2009;42(2):95-109."
     url: https://pubmed.ncbi.nlm.nih.gov/19134033
 ---
-
 ## Your Tooth Has Four Layers
 
 Your tooth isn't just one solid piece. It's made of four different layers, each with its own job and its own weaknesses. When you understand what each layer does, you'll understand why your dentist makes certain treatment recommendations and why some damage is more serious than others.
@@ -82,6 +81,9 @@ This doesn't mean your dentist did anything wrong—it's just the reality of too
 When you understand tooth structure, you understand why your dentist might recommend waiting or watching a problem rather than immediately drilling and filling. They're trying to preserve as much healthy tooth structure as possible, knowing that you only get one set of permanent teeth.
 
 This is also why they might recommend not replacing a filling that's not causing problems. That old filling is protecting your tooth. Replacing it means removing healthy tooth structure that's holding it in place, which might actually cause more damage than leaving it alone.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

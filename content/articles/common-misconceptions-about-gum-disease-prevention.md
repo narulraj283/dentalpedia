@@ -20,7 +20,6 @@ references:
   - Kinane DF, et al. Periodontal diseases and health. Journal of Periodontology. 2017;88(1):3-6.
   - Borrell LN, et al. Socioeconomic factors and periodontitis in US adults and adolescents. Journal of Periodontology. 2005;76(3):289-298.
 ---
-
 About 4 out of 10 American adults have some form of gum disease. But there's a lot of confusion about how it starts and how to prevent it. Here's what actually causes gum disease and what you can do about it.
 
 ## Myth: If You Brush and Floss Well, You Won't Get Gum Disease
@@ -87,12 +86,6 @@ Smoking cessation produces measurable improvement in gum health within 2-4 weeks
 
 If you smoke and have gum disease, quitting is probably the single most important thing you can do.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about gum disease prevention and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed gum disease prevention, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -101,7 +94,7 @@ Once you've addressed gum disease prevention, maintaining your results requires 
 
 Gum disease prevention depends on combining good home care with understanding your personal risk factors. Genetics matter, and lifestyle factors like smoking, diabetes control, and stress management matter as much as brushing. Professional care supports but doesn't replace excellent home care. Early intervention stops disease before permanent damage occurs. Your gum health is connected to your overall health, making prevention important for more than just your smile.
 
-> **Key Takeaway:** Gum disease isn't just about brushing harder—it's about genetics, overall health, and a personalized approach.
+> **Key Takeaway:** About 4 out of 10 American adults have some form of gum disease.
 
 ## Related Articles
 

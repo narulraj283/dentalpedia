@@ -45,7 +45,6 @@ subcategory: Preventive Overview
 subcategory_slug: overview-prevent
 title: 'Tartar Control Toothpaste: Ingredients, Mechanisms'
 ---
-
 ## How Tartar Forms and Why Control Matters
 
 If you've ever noticed a hard, crusty buildup on your teeth that regular brushing won't remove, that's tartar (also called calculus). Tartar starts with plaque—a sticky film of bacteria that forms naturally on your teeth. When that plaque sits too long without being removed, minerals from your saliva stick to it and harden into tartar.
@@ -110,12 +109,6 @@ Including fluoride for cavity protection
 6. Maintaining excellent daily oral hygiene with flossing
 
 The product works best when combined with good brushing technique and daily flossing. Your toothpaste is the supplement; your mechanical cleaning is the main event.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss tartar control toothpaste ingredients and effectiveness, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

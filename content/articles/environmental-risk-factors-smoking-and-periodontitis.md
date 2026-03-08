@@ -20,7 +20,6 @@ references:
   - "Zambon JJ, Grossi SG, Masebach MJ, et al. Cigarette smoking increases the risk for subgingival infection with periodontal pathogens. J Periodontol. 1996;67(12):1050-1054."
   - "Petti S. Lifestyle risk factors for oral cancer. Oral Oncol. 2009;45(4-5):340-350."
 ---
-
 Smoking dramatically increases your risk of gum disease and makes treatment far less effective. If you smoke and develop gum problems, understanding how smoking affects your teeth and gums helps you make informed decisions about quitting and treating dental disease. The good news is that quitting smoking improves gum health remarkably quickly.
 
 ## How Smoking Damages Your Gums
@@ -141,7 +140,7 @@ Smoking dramatically increases gum disease risk, severity, and treatment failure
 
 Former smokers show treatment success rates approaching non-smokers' within several years. If you have gum disease and smoke, quitting is the single most important step you can take to save your teeth and improve your overall health. Your dentist can help with smoking cessation. Talk to your dentist about which options are right for your specific situation.
 
-> **Key Takeaway:** Impact of smoking and environmental exposures on gum disease progression and treatment outcomes.
+> **Key Takeaway:** Smoking dramatically increases your risk of gum disease and makes treatment far less effective.
 
 ## Related Articles
 

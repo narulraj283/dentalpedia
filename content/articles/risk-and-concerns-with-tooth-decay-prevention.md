@@ -30,7 +30,6 @@ references:
   - title: "Pitts NB, Ekstrand KR. International Caries Detection and Assessment System (ICDAS) and its International Caries Classification and Management System (ICCMS)--methods for staging of the caries process and enabling dentists to manage caries. Community Dent Oral Epidemiol. 2013;41(1):e41-e52."
     url: https://pubmed.ncbi.nlm.nih.gov/23167683
 ---
-
 ## Why Cavity Prevention Is More Complicated Than You Think
 
 You've heard it a thousand times: brush your teeth, floss, avoid sugar, and you won't get cavities. If only it were that simple! The truth is that cavity prevention is much more complex than dental professionals once thought.

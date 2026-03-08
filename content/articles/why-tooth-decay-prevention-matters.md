@@ -32,7 +32,6 @@ references:
   - title: "Community water fluoridation effects on dental caries epidemiology"
     url: "https://pubmed.ncbi.nlm.nih.gov/19531119/"
 ---
-
 Cavities are one of the most common chronic diseases, affecting about 90% of adults globally. But here's the good news: cavities are almost entirely preventable through evidence-based approaches. Understanding how decay happens, which prevention strategies actually work, and how to implement them effectively in your daily life prevents almost all decay.
 
 ## How Cavities Actually Form
@@ -108,12 +107,6 @@ Your dentist should assess your risk and recommend prevention intensity matching
 **Eating disorders**: Acid exposure from vomiting combined with poor nutrition creates extremely high decay risk.
 
 **Systemic illness or medications**: Many conditions and medications increase decay risk by reducing saliva flow or affecting immune function.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss why tooth decay prevention matters, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

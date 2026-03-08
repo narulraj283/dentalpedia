@@ -32,7 +32,6 @@ references:
   - title: "Macpherson L, Smith BG, Gillespie SN. Quantified enamel loss and progression of erosion. Br Dent J. 1990;168(7):287-291."
     url: https://pubmed.ncbi.nlm.nih.gov/2190997
 ---
-
 ## Getting Your Tooth Color Just Right
 
 When you need a crown, filling, or veneer, your dentist wants to pick a shade that blends beautifully with your natural teeth. This process, called shade matching, is part science and part art. Let's walk through how it works and what you need to know.
@@ -145,21 +144,6 @@ That's not an error. That's just how color and light work. Understanding this he
 
 Lab technicians vary in how skilled they are at matching colors. A very experienced technician might get an invisible match, but a newer technician might not. This is why many dentists work with the same lab for years—they learn how to communicate and what that lab does really well.
 
-## Questions to Ask Your Dentist
-
-Before you get your new tooth, ask your dentist:
-
-1. "What shade are you picking and why?"
-2. "Do you have a color number for my tooth?" (If they used the measuring machine)
-3. "Should my restoration be see-through or more solid?"
-4. "Will I probably notice a difference between my new tooth and my other teeth?"
-5. "How does your office light compare to my home light?"
-6. "What can we do if I don't like how it looks?"
-7. "Can you change it, and how would that work?"
-8. "What can I do to help get the best match?"
-
-Asking these questions helps you know what to expect and feel confident about your new tooth.
-
 ## What to Do If You're Not Happy
 
 If your restoration looks noticeably different after it's placed, call your dentist right away. They can usually help by polishing or adjusting the surface, giving you time to get used to it, checking it under different lights, or if it's really not right, having the lab make a new one. The sooner you mention it (within the first week is best), the easier it is to fix. Learn more about [Common Misconceptions About Gummy Smile Fixes](/article/common-misconceptions-about-gummy-smile-fix.html) if you have other smile concerns.
@@ -181,6 +165,3 @@ Remember that every person's situation is unique. What works well for one patien
 - [Keep Your Whitened Teeth Bright](/article/maintaining-your-whitened-teeth-tips-and-touch-ups.html)
 - [Anterior Restoration Material Selection: Cosmetic](/article/anterior-restoration-material-selection-cosmetic-considerations.html)
 
-- [Why Smile Enhancement Options Matters](/article/why-smile-enhancement-options-matters.html)
-- [Gum Contouring for Cosmetics](/article/gum-contouring-for-cosmetics-reshaping-tissue.html)
-- [Common Misconceptions About Gummy Smile Fix](/article/common-misconceptions-about-gummy-smile-fix.html)

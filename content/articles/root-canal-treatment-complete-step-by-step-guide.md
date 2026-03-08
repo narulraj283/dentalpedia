@@ -37,7 +37,6 @@ subcategory: Endodontic Overview
 subcategory_slug: overview-endo
 title: Root Canal Treatment - Complete Step-by-Step Guide
 ---
-
 ## Before Your Appointment: Planning and Assessment
 
 Before your dentist begins your root canal treatment, they take time to plan your specific procedure. Your dentist will look at X-rays of your tooth to understand the exact shape of your roots and where your canals are located. They'll look for teeth with curved roots, calcified (hardened) canals, or other unusual anatomy that might make treatment more challenging. If your tooth has complex anatomy, they might order a special 3D X-ray called CBCT to see everything clearly.

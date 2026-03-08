@@ -33,7 +33,6 @@ subcategory: Smile Design
 subcategory_slug: smile-design
 title: 'Veneer Installation: What to Expect Step by'
 ---
-
 ## Planning Your Smile: Before Treatment Starts
 
 Before getting veneers, your dentist will discuss your smile goals and evaluate whether veneers are your best option. Digital smile design tools allow you to preview what your smile will look like with veneers, helping you and your dentist agree on the final appearance before any tooth preparation happens. Learning more about [How Long Veneers Last and Durability Facts](/article/how-to-veneer-durability-facts.html) can help you understand this better.
@@ -89,12 +88,6 @@ Keep your teeth as healthy as possible—the tooth underneath your veneer is sti
 ## If Something Goes Wrong
 
 If a veneer chips, fractures, or becomes loose, contact your dentist immediately. Early intervention might allow repair rather than full replacement. If a veneer debonds completely, your dentist can clean the tooth and rebond it, or if necessary, fabricate a new veneer.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about how to veneer installation steps and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

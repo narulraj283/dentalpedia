@@ -32,7 +32,6 @@ references:
   - title: "Slots J, Weiss E. Progression of periodontitis. J Periodontol. 1992;63(Suppl 4):322-326."
     url: https://pubmed.ncbi.nlm.nih.gov/1315763
 ---
-
 ## Introduction
 
 Your mouth heals incredibly fast after tooth extraction or oral surgery. Understanding what happens during healing helps you care for yourself properly and know when something might be wrong. Your body goes through four predictable healing phases over the next several weeks and months.
@@ -96,12 +95,6 @@ Check out [Cost-of-anesthesia-options](/article/cost-of-anesthesia-options.html)
 **Normal healing**: Bleeding stops within hours, swelling peaks at 48-72 hours then decreases daily, mild to moderate pain improving daily, small amount of redness that fades, complete epithelialization by 3-4 weeks, gradual darkening of scar tissue.
 
 **Warning signs**: Excessive or uncontrolled bleeding, swelling worsening after day 3, severe or increasing pain, fever, pus or purulent drainage, spreading redness, difficulty swallowing or breathing. Call your dentist if you notice any of these.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for surgical site healing, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

@@ -32,7 +32,6 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: 'Community Health Centers: Affordable Dentistry Access'
 ---
-
 Community Health Centers (CHCs) serve about 28 million patients annually through about 1,400 federally qualified health centers across the United States. These centers provide dental care to low-income, uninsured, and underserved populations at affordable costs. The clinical care is evidence-based and outcomes are comparable to private practice—you're getting quality care at a fraction of the cost.
 
 ## How Community Health Centers Work
@@ -93,15 +92,11 @@ Rural CHCs have expanded rural dental access from 15% of rural counties (1980s) 
 
 Find an FQHC through HRSA's search tool at findahealthcenter.hrsa.gov, or call your local health department for referrals. You'll need to establish eligibility (usually just confirming income), and most clinics can process this quickly. No insurance required—sliding-scale fees accommodate any budget.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about community health centers affordable dentistry and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
 ## Conclusion
 
 Community Health Centers provide clinically effective, affordable dental care through evidence-based protocols and integrated care models. Outcomes are comparable to private practice while costs are 40-60% lower. FQHCs represent essential infrastructure for oral health access among vulnerable populations and those without insurance.
 
-> **Key Takeaway:** Federally Qualified Health Centers provide quality dental care to vulnerable populations at 40-60% below private practice costs.
+> **Key Takeaway:** Community Health Centers (CHCs) serve about 28 million patients annually through about 1,400 federally qualified health centers across the United States.
 
 ## Related Articles
 

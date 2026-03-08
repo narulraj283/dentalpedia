@@ -32,7 +32,6 @@ references:
   - title: "Levin EI. Dental esthetics and the golden proportion. J Prosthet Dent. 1978;40(3):244-252."
     url: https://pubmed.ncbi.nlm.nih.gov/279537
 ---
-
 ## What Makes a Beautiful Smile?
 
 When you look in the mirror or at your photos, you probably notice your smile right away. But have you ever wondered what actually makes a smile beautiful? Your dentist uses special measurements and tools to understand exactly what makes your particular smile unique.

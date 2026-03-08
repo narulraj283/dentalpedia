@@ -1,11 +1,11 @@
 ---
+category: General Dentistry
 category_slug: general-dentistry
 excerpt: Phase One treatment, also called interceptive treatment, happens when your
   child still has a mix of baby teeth and permanent teeth—usually around ages
 slug: phase-one-interceptive-treatment-expansion-benefits
 title: Phase One Interceptive Treatment Expansion Benefits
 ---
-
 ## What Is Phase One Orthodontic Treatment?
 
 Phase One treatment, also called interceptive treatment, happens when your child still has a mix of baby teeth and permanent teeth—usually around ages 6-10. During this important window, your orthodontist can guide your child's growth and correct developing bite problems before they become severe. Instead of waiting until all permanent teeth are in to fix everything at once, early treatment can prevent many problems from developing.

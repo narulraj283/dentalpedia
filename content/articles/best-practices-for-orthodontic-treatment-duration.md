@@ -22,12 +22,11 @@ references:
   - "Deguchi T, Honjo T, Fukunaga T, Takano-Yamamoto T, Roberts WE. Strategic extraction of lower premolars in orthodontic treatment. Semin Orthod. 2001;7(2):97-106."
   - "Geron S, Shpack N, Kandeu T, Davidovitch M, Vardimon AD. Profiles of adults with moderate to severe dental crowding. Eur J Orthod. 2010;32(4):443-452."
 ---
-
 ## How Long Will Braces Actually Take?
 
-The truth is, some people finish braces in 18 months and some people take 36 months or even longer. It's not one-size-fits-all. The amount of time depends on how crowded your teeth are, your age, how well you follow instructions, and what type of braces you have. Understanding what affects the timeline helps you know what to expect. For more details, see our guide on [Accelerated Orthodontia](/article/accelerated-orthodontia-fast-track-braces.html).
+The truth is, some people finish braces in 18 months and some people take 36 months or even longer. It's not one-size-fits-all. The amount of time depends on how crowded your teeth are, your age, how well you follow instructions, and what type of braces you have. Understanding what affects the timeline helps you know what to expect.
 
-Your teeth can only move so fast. Even with perfect braces and perfect cooperation, teeth move about half a millimeter to one full millimeter per month when things are going great. When teeth need fine adjustments at the end, they move even slower. That's just biology—you can't speed it up dramatically without risking damage to the teeth. For more details, see our guide on [Accelerated Orthodontics](/article/accelerated-orthodontics-speeding-up-your-treatment.html).
+Your teeth can only move so fast. Even with perfect braces and perfect cooperation, teeth move about half a millimeter to one full millimeter per month when things are going great. When teeth need fine adjustments at the end, they move even slower. That's just biology—you can't speed it up dramatically without risking damage to the teeth.
 
 ## How Crowded Are Your Teeth?
 
@@ -85,11 +84,16 @@ Here's the thing: if you follow the plan, make your appointments, wear your elas
 
 Your braces timeline is mostly about how much work needs to happen (crowding, bite problems) and how well you stick to the plan. Age and tooth health help determine the baseline, but YOUR behavior—showing up to appointments, wearing elastics, taking care of your teeth—probably makes the biggest difference. Start with realistic expectations, ask your orthodontist specifically how long YOUR case should take, and then do everything you can to stay on track.
 
+
+Related reading: [Clear Aligners vs. Traditional Braces - What You](/article/risk-and-concerns-with-clear-aligner-comparison.html) and [Braces Care Instructions and Oral Hygiene Protocols](/article/how-to-braces-care-instructions.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Orthodontic treatment duration fundamentally reflects the amount of tooth movement required and the biological rate at which periodontal ligament remodeling can occur under sustained force. Evidence supports treatment timelines of 24-30 months as realistic for most comprehensive orthodontic cases. If you have questions, your dentist can help you understand your options. Talk to your dentist about what options work best for your situation.
 
-> **Key Takeaway:** The truth is, some people finish braces in 18 months and some people take 36 months or even longer. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** The truth is, some people finish braces in 18 months and some people take 36 months or even longer. It's not one-size-fits-all.
 
 ## Related Articles
 
@@ -97,5 +101,5 @@ Your dental care is personal, and the best decisions come from understanding you
 - [Bite Correction Methods](/article/risk-and-concerns-with-bite-correction-methods.html)
 - [Eating with Braces: Foods to Avoid and Smart Choices](/article/dietary-restrictions-with-braces-foods-to-avoid.html)
 - [Braces versus Clear Aligners: Comprehensive Clinical](/article/braces-vs-invisalign-comprehensive-comparison-guide.html)
-- [Alveolar Bone Density and Orthodontic Tooth Movement:](/article/bone-density-and-orthodontic-movement-age-effects.html)
+- [Alveolar Bone Density and Orthodontic Tooth Movement](/article/bone-density-and-orthodontic-movement-age-effects.html)
 

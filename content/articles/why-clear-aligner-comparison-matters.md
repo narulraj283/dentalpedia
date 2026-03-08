@@ -32,7 +32,6 @@ references:
   - title: "Comparative treatment outcomes: Complex cases and aligner system selection criteria"
     url: https://pubmed.ncbi.nlm.nih.gov/27550098
 ---
-
 Clear aligners have revolutionized orthodontics, offering an esthetic alternative to traditional braces that appeals to teens and adults. But if you start researching clear aligner options, you'll quickly discover dozens of systems with wildly different price tags, marketing claims, and promises. The explosion of clear aligner companies has created consumer confusion—are all aligners essentially the same, just with different branding?
 
 The answer is no. Real, meaningful differences exist between systems in material composition, how they move teeth, accuracy, clinical outcomes, and cost. Understanding these differences enables you to make an informed choice rather than defaulting to whatever's most popular or cheapest.

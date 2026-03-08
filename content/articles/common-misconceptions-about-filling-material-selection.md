@@ -20,7 +20,6 @@ references:
   - Sakaguchi RL. Review of the current status and research of high-viscosity bulk-fill resin composites. Dental Materials Journal. 2014;33(2):109-120.
   - Heintze SD, et al. Resin composite materials for direct placement restorations. Journal of the Academy of General Dentistry. 2015;63(1):16-30.
 ---
-
 You need a filling. Your dentist mentions composite or amalgam, and suddenly you're wondering: Which one is better? Are amalgam fillings actually toxic? Will the white filling last as long as the silver one? Let's sort through the confusion.
 
 ## Myth: Amalgam Fillings Are Dangerous
@@ -79,19 +78,11 @@ If an old filling needs replacement because it's cracked, leaking, or causing co
 
 For very large cavities, sometimes a simple filling isn't ideal. Your dentist might suggest an inlay or onlay—lab-made restorations made of porcelain or gold that fit more precisely and last longer. Or a crown might be needed if the tooth structure is severely compromised. These options are more expensive but might last longer and preserve more tooth structure than a filling.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about filling material selection and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
-
 ## Conclusion
 
 Both composite and amalgam fillings are effective choices. Neither is universally "better"—it depends on your specific cavity, the location, your dentist's technique, and your preferences. If you care about appearance, composite looks more natural. If durability and simplicity matter more, amalgam works well. The most important factor is finding a skilled dentist and maintaining good oral hygiene to prevent future cavities.
 
-> **Key Takeaway:** Composite and amalgam fillings are both effective choices—your best option depends on your specific cavity and what matters to you.
+> **Key Takeaway:** You need a filling. Your dentist mentions composite or amalgam, and suddenly you're wondering: Which one is better?
 
 ## Related Articles
 

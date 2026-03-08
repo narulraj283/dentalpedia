@@ -22,7 +22,6 @@ references:
   - "Lemos, J., et al. (2019). Protein structural integrity and periodontal health. International Journal of Molecular Sciences, 20(10), 2551."
   - "Hirsch, J., & Oppenheim, F. (2000). The glycoprotein network of the mucous layer of the tooth. Archives of Oral Biology, 45(7), 521-532."
 ---
-
 ## What Is Collagen and Why Your Gums Need It
 
 Collagen is a protein that makes up about 70-80% of your gum tissue. Think of it as the structural "scaffolding" that holds your gums strong and prevents them from breaking down. Your gums also have a periodontal ligament—tiny fibers that attach your teeth to the bone beneath. This ligament is about 70-80% collagen. Without adequate collagen, these tissues lose their strength and become vulnerable to disease.
@@ -65,7 +64,7 @@ When gum disease develops, collagen loss accelerates dramatically. Your gums mig
 
 This is why early treatment is so important. Professional cleaning removes bacteria before they've done extensive damage. If you catch gum disease when it's mild (just some bleeding), collagen loss is minimal and your gums can heal completely.
 
-If you wait until teeth are loose and bone is significantly damaged, there's often no way to restore what was lost. The takeaway: don't ignore bleeding gums. See your dentist promptly. Learn more about [Preventing Gum Disease](/article/periodontal-disease-and-tooth-loss-prevention.html).
+If you wait until teeth are loose and bone is significantly damaged, there's often no way to restore what was lost. The takeaway: don't ignore bleeding gums. See your dentist promptly.
 
 ## Supporting Healing After Gum Surgery
 
@@ -79,11 +78,14 @@ To support your gum health through nutrition, focus on these practical strategie
 
 You don't need expensive supplements if you're eating a balanced diet. Basic, whole foods work just fine. A simple approach: fill half your plate with vegetables (providing vitamins and minerals), a quarter with protein, and a quarter with whole grains. This pattern naturally provides the nutrients your gums need. If you're struggling with nutrition for any reason (limited budget, difficulty chewing, dietary restrictions), talk to your dentist or doctor—they can suggest practical solutions.
 
+
+Related reading: [Triclosan in Dentistry - Antimicrobial Properties](/article/triclosan-broad-spectrum-antibacterial.html).
+
 ## Conclusion
 
 Collagen is the protein foundation that keeps your gums strong and supports your teeth. Through adequate protein intake, vitamin C from fruits and vegetables, and other key nutrients, you can support your body's collagen synthesis. Combined with good oral hygiene and professional dental care, nutritional support helps maintain healthy gums throughout your life.
 
-> **Key Takeaway:** Why collagen matters for healthy gums, what nutrients your gums need to stay strong, and how diet supports your gum health.
+> **Key Takeaway:** Collagen is a protein that makes up about 70-80% of your gum tissue.
 
 ## Related Articles
 

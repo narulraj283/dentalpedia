@@ -20,7 +20,6 @@ references:
   - "Becker IM, et al. In vitro cuspal deformation and fracture resistance of teeth restored with bonded veneer and crown restorations. Quintessence Int. 2009;40(4):271-279."
   - "Sato H, et al. A method to measure occlusal contact force distribution. J Dent Res. 1997;76(10):1625-1631."
 ---
-
 ## How Much Bite Force Is Normal?
 
 Many people don't realize that bite force varies significantly among different people. The average person can bite with a force of about 150-200 pounds. However, some people bite much harder. Back teeth (molars) generate higher forces than front teeth—often 200-250 pounds. Professional athletes or people with very strong jaw muscles might generate 300-400 pounds of bite force, while elderly people with weak jaw muscles might generate only 100-150 pounds.
@@ -63,12 +62,6 @@ Some people believe that constantly clenching your jaw strengthens teeth, or tha
 
 If you notice yourself clenching during the day, consciously relax your jaw. This protects your teeth and jaw joints from stress-related damage.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about bite force and teeth and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed bite force and teeth, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -77,7 +70,7 @@ Once you've addressed bite force and teeth, maintaining your results requires on
 
 Bite force varies among people, and excessive force damages teeth through wear, fractures, and stress. Understanding your personal bite force and protecting your teeth from excessive stress through appropriate measures helps preserve your teeth and restorations longer.
 
-> **Key Takeaway:** Many people don't realize that bite force varies significantly among different people.
+> **Key Takeaway:** The average person can bite with a force of about 150-200 pounds. However, some people bite much harder.
 
 ## Related Articles
 

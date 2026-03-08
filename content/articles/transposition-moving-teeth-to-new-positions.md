@@ -32,7 +32,6 @@ references:
   - title: "Ritter R, Pommrich L. Zur Frage der Zahnverlagerung (Transposition). Dtsch Zahnärztl Z. 1960;15:150-158."
     url: https://pubmed.ncbi.nlm.nih.gov/13825920
 ---
-
 ## Introduction
 
 Sometimes teeth erupt in surprising positions—where one tooth appears where another should be, and vice versa. This condition is called dental transposition, and it's one of the more complex challenges an orthodontist can encounter. Unlike a tooth that's simply out of place, transposition means two teeth have essentially swapped their normal positions. While it sounds unusual, it's not extremely rare, and modern orthodontics offers real solutions. Whether your orthodontist recommends moving these teeth back to their correct positions or working with them in their current location, understanding what's happening and why will help you make informed decisions about your treatment.

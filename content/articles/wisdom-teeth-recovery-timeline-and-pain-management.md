@@ -32,7 +32,6 @@ references:
   - title: "Cryotherapy timing and duration: optimal protocols for swelling management"
     url: https://pubmed.ncbi.nlm.nih.gov/20579205/
 ---
-
 ## What Happens in the First 24 Hours
 
 The first day after wisdom tooth surgery is critical. You'll bite down on gauze when you leave the dental office—keep it in place for about 45 minutes to help stop the bleeding. Don't clench too hard. Moderate, comfortable pressure is all you need. Your body's natural clotting is plenty; extra pressure won't help and might even damage the bone underneath.

@@ -30,7 +30,6 @@ references:
   - title: "Heffernan MJ, Aquilino SA, Dianne S, et al. Relative translucency of six flowable composite resins. J Esthet Restor Dent. 2002;14(2):93-103."
     url: "https://www.ncbi.nlm.nih.gov/pubmed"
 ---
-
 ## Why Your Filling Needs to Be Polished Smoothly
 
 When your dentist places a composite filling or bonded restoration, the work doesn't end when the material is cured with the special light. The surface needs to be carefully polished to be smooth, shiny, and healthy for your mouth. This might seem like just cosmetic finishing, but smoothness actually matters a lot for how long your restoration lasts and how healthy your gums stay.
@@ -76,12 +75,6 @@ Your filling's smooth surface doesn't stay perfect forever. Chewing wears it dow
 The good news is that polishing brings back that shine without needing to replace the filling. It's one of the reasons going to professional cleanings every six months is important—your hygienist can polish your fillings and keep them looking fresh.
 
 To understand how your fillings work with preventive treatments, learn about [Complete Preventive Approaches](/article/preventive-treatments-complete-guide.html). If you want to explore other conservative restoration options, discover [Maryland bridges as an alternative approach](/article/maryland-bridge-conservative-approach.html). And to understand how filling health connects to overall gum health, explore [Gum Disease Stages and What They Mean](/article/gum-disease-stages-what-you-need-to-know.html).
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about glazing composite surface polish and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Conclusion
 

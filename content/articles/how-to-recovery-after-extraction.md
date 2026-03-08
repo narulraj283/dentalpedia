@@ -32,7 +32,6 @@ references:
   - title: "Management of Extraction Site Complications and Second Surgical Procedures"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25611083
 ---
-
 Tooth extraction might feel like the hardest part is over when you leave your dentist's office, but the real work begins at home. Your recovery determines how quickly and smoothly you heal. Understanding what to expect in the first few days and weeks—from managing bleeding and swelling to avoiding dry socket—can make a huge difference in your comfort and healing speed. This guide walks you through everything you need to do after extraction. Learning more about [Swelling Reduction After Surgery](/article/how-to-swelling-reduction.html) can help you understand this better.
 
 ## Managing Bleeding Right After Extraction

@@ -20,7 +20,6 @@ references:
   - "Kapoor U, et al. Halitosis: current concepts on etiology, diagnosis and management. Eur J Dent. 2016;10(2):292-300."
   - "Sanz M, et al. Guideline on the management of patients with oral halitosis. J Clin Periodontol. 2018;45(12):1546-1563."
 ---
-
 ## What Actually Causes Bad Breath
 
 Bad breath (called halitosis) affects about 1 in 4 people regularly. To eliminate it, you need to understand what causes it. Bad breath comes from bacteria in your mouth that produce sulfur compounds—essentially, the bacteria are creating a foul-smelling gas. About 85-90% of bad breath originates from oral sources (your mouth), while the remainder comes from systemic sources (your body as a whole, like stomach or metabolic issues).
@@ -69,21 +68,17 @@ See your dentist if you have chronic bad breath that doesn't improve with good h
 
 Your dentist can assess whether your bad breath is from oral sources (treatable) or if they suspect systemic causes (requiring physician referral). They can recommend specific treatments and products appropriate for your situation.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about bad breath elimination and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
 ## Conclusion
 
 Chronic bad breath usually comes from bacterial plaque and tartar buildup or gum disease. Mouthwash provides temporary freshness but doesn't address the underlying problem. Effective treatment addresses the root cause: removing buildup through professional cleaning, improving oral hygiene, and treating gum disease if present. See your dentist if bad breath persists despite good home care.
 
-> **Key Takeaway:** What really causes bad breath, why mouthwash alone doesn't fix it, and how to actually eliminate chronic halitosis.
+> **Key Takeaway:** Bad breath (called halitosis) affects about 1 in 4 people regularly.
 
 ## Related Articles
 
 - [Choosing a Dentist and Finding the Right Provider](/article/choosing-a-dentist-finding-right-provider.html)
-- [Cognitive Decline and Oral Care: Clinical Challenges,](/article/cognitive-decline-oral-care-challenges.html)
-- [Dental Treatment During Pregnancy - Safety,](/article/pregnancy-and-dental-care-safety-and-timing.html)
+- [Cognitive Decline and Oral Care: Clinical Challenges](/article/cognitive-decline-oral-care-challenges.html)
+- [Pregnancy and Dental Care Safety and Timing](/article/pregnancy-and-dental-care-safety-and-timing.html)
 - [Cost of Emergency Tooth Pain and Urgent Dental](/article/cost-of-emergency-tooth-pain.html)
 - [Why Tooth Structure Layers Matters](/article/why-tooth-structure-layers-matters.html)
 

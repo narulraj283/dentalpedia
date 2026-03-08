@@ -20,7 +20,6 @@ references:
   - "Remmelink HJ, van Alphen FA, Petocz P. Cervical vertebral maturation stage and dental maturity. Aust Orthod J. 2004;20(1):29-38."
   - "Davis LM, Pavoni C, Friction JR. Current knowledge regarding craniomandibular disorders: A review of the literature. Cranio. 2008;26(4):323-333."
 ---
-
 ## When Should Your Child See an Orthodontist?
 
 The American Association of Orthodontists recommends that all children have an orthodontic screening by age 7. This doesn't mean all children need braces at that age—it means getting a professional evaluation to determine if early treatment would be beneficial. Some children need early intervention, while others should wait until more adult teeth have erupted.
@@ -89,7 +88,7 @@ Early orthodontic screening by age 7 helps identify whether your child has bite 
 
 Getting evaluated early gives you and your orthodontist options. You can make informed decisions about whether early treatment makes sense for your child's specific situation. Talk to your dentist about whether an orthodontic evaluation at age 7 is appropriate for your child.
 
-> **Key Takeaway:** The American Association of Orthodontists recommends that all children have an orthodontic screening by age 7.
+> **Key Takeaway:** This doesn't mean all children need braces at that age—it means getting a professional evaluation to determine if early treatment would be beneficial. Some children need early intervention, while others should wait until more adult teeth have erupted.
 
 ## Related Articles
 

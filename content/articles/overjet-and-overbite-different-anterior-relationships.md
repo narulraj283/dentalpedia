@@ -45,7 +45,6 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Overjet and Overbite Different Anterior Relationships
 ---
-
 ## What's the Difference Between Overjet and Overbite?
 
 Many people use the words "overjet" and "overbite" interchangeably, but they actually describe two different tooth relationships. Understanding the difference can help you better understand your orthodontist's treatment plan and goals. Your front teeth have both a horizontal (side-to-side) relationship and a vertical (top-to-bottom) relationship, and problems with either one might require treatment.
@@ -99,6 +98,9 @@ Treatment goals change based on your classification. Class II treatment focuses 
 Once your orthodontist removes your braces, your teeth naturally want to return to their original positions. This is why retainers are absolutely essential. Most patients wear retainers full-time initially, then transition to night-time wear. Some people need retainers permanently to maintain their corrected bite.
 
 [For more on orthodontic alternatives](/article/aligner-wear-time-why-22-hours-daily-is-critical.html).
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

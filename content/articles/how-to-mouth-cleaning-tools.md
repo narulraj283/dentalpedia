@@ -20,7 +20,6 @@ references:
   - title: "Powered toothbrush technologies and plaque removal efficacy"
     url: https://www.ncbi.nlm.nih.gov/pubmed/28658980
 ---
-
 Walk into a pharmacy and you'll find seemingly endless options: electric toothbrushes, water flossers, interdental brushes, sonic toothbrushes, and more. How do you know what's actually useful versus marketing hype?
 
 ## Toothbrushes
@@ -123,7 +122,7 @@ Choose tools you'll actually use consistently. A basic manual toothbrush and flo
 
 - [Risk and Concerns with Preventive Treatments](/article/risk-and-concerns-with-preventive-treatments.html)
 - [Snacking Habits and Cavity Formation - Frequency Effect](/article/snacking-habits-and-cavity-formation-frequency-effect.html)
-- [Evidence-Based Caries Prevention Strategies:](/article/timeline-for-cavity-prevention-methods.html)
+- [Evidence-Based Caries Prevention Strategies](/article/timeline-for-cavity-prevention-methods.html)
 - [Cavity Prevention Methods: What You Need to Know](/article/cavity-prevention-methods-what-you-need-to-know.html)
 - [Sugar Impact on Teeth - Cavity Formation and Metabolic](/article/sugar-impact-on-teeth-cavity-formation.html)
 

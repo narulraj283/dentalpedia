@@ -22,7 +22,6 @@ references:
   - "Chiapasco M, Crescentini M. Vertical alveolar ridge augmentation by means of a biodegradable membrane and autogenous particulate bone: clinical results. Implant Dent. 2000;9(4):333-341."
   - "Rana M, Gellrich NC, Rana M. Advances in oral implantology: piezosurgery and 3D implant planning. Br Dent J. 2015;219(9):429-434."
 ---
-
 ## Essential After-Surgery Care for Extractions and Implants
 
 After your oral surgery, the next week or two is critical for proper healing. Many patients inadvertently make common mistakes that complicate recovery or extend healing time. Let's look at what actually helps your extraction or implant site heal properly.
@@ -93,7 +92,7 @@ Prolonged soft diet restriction isn't necessary once soft tissue has healed and 
 
 Effective post-surgery care emphasizes gentle activity, appropriate pain management, maintaining gauze over extraction sites to protect blood clots, head elevation, and careful diet progression. Most patients benefit from light oral hygiene (away from the surgical site), over-the-counter pain medication, ice for 24 hours then heat, and gradual activity advancement over 1 to 2 weeks.
 
-> **Key Takeaway:** Learn what really helps your healing after tooth extraction or implant surgery and which care practices matter most.
+> **Key Takeaway:** After your oral surgery, the next week or two is critical for proper healing.
 
 ## Related Articles
 

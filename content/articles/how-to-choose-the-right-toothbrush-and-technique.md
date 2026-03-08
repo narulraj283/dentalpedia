@@ -30,7 +30,6 @@ references:
   - title: "Acoustic vibration frequency and oscillation amplitude effects on biofilm removal by powered toothbrushes"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27540298
 ---
-
 Brushing your teeth correctly is one of the best things you can do to prevent cavities and gum disease. How well you remove plaque depends on your toothbrush design, your brushing technique, and how coordinated you are with the brush. Learning the right technique and choosing the right brush can help you remove 70-85% of plaque, compared to just 40-50% with improper technique.
 
 ## Choosing the Right Manual Toothbrush

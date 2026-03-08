@@ -22,7 +22,6 @@ references:
   - "Cutter CS. Single-unit implant restorations: a literature review. J Prosthet Dent. 2003;90(2):121-136."
   - "Radfar N, Chee WW. Veneer and no-prep restorations for the anterior dentition: a clinical overview. J Contemp Dent Pract. 2002;3(3):49-58."
 ---
-
 When your dentist creates a treatment plan, they're not just listing all the work you need. They're strategically sequencing procedures in an order that makes biological sense and helps you get the best results. Understanding how treatment planning works helps you make informed decisions and budget for the total cost rather than being surprised by unexpected expenses.
 
 ## Treatment Planning Consultation
@@ -77,13 +76,13 @@ Treatment planning consultation costs $100 to $300 and establishes a smart, sequ
 
 Insurance timing can increase your covered treatment by $1,500 to $1,500 annually. Cosmetic improvements early in treatment increase your motivation and treatment completion. Temporary restorations during long treatment cost money but keep your quality of life good. Your individual situation and financial capacity shape your specific plan. Talk to your dentist about treatment sequencing and why they recommend the order they do.
 
-> **Key Takeaway:** Learn how dentists plan your treatment and why they sequence procedures in a specific order. Understand costs and how to budget for phased treatment.
+> **Key Takeaway:** When your dentist creates a treatment plan, they're not just listing all the work you need.
 
 ## Related Articles
 
 - [Cost of Crown vs. Bridge Decision](/article/cost-of-crown-vs-bridge-decision.html)
 - [How Bite Force Affects Your Teeth](/article/how-to-bite-force-and-teeth.html)
 - [Professional Fluoride Treatments for Dentin](/article/fluoride-treatments-for-sensitivity.html)
-- [The Critical Role of Saliva in Oral Health: Functions,](/article/timeline-for-saliva-importance.html)
+- [The Critical Role of Saliva in Oral Health: Functions](/article/timeline-for-saliva-importance.html)
 - [Dental Bridges vs Implants](/article/dental-bridge-vs-implant-cost-and-longevity-comparison.html)
 

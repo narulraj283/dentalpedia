@@ -30,7 +30,6 @@ references:
   - title: "Oxidative Stress and Antioxidant Defense in Periodontal Disease"
     url: https://pubmed.ncbi.nlm.nih.gov/27294788
 ---
-
 ## The Hidden Problem Your Mouth Reveals First
 
 If someone asked you about a disease that causes swollen, bleeding gums, weak teeth, and delayed wound healing, you might think it's something from history class. But the truth is, vitamin C deficiency—which can lead to a condition called scurvy—is still relevant today, even in modern times. While it's rare in developed countries where fresh fruits and vegetables are readily available, it does still show up in certain populations. More importantly, even mild vitamin C deficiency can impair your oral health and wound healing without causing the dramatic symptoms of full-blown scurvy.

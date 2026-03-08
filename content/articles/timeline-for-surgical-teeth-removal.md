@@ -1,38 +1,49 @@
 ---
-title: "Surgical Tooth Extraction: Indications, Classification,"
-slug: timeline-for-surgical-teeth-removal
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "Surgical extraction encompasses a spectrum of complexity from simple elevated erupted teeth to severely impacted molars—systematic preoperative..."
 date: 2026-03-05
+excerpt: Surgical extraction encompasses a spectrum of complexity from simple elevated
+  erupted teeth to severely impacted molars—systematic preoperative...
 read_time: 12 min
+references:
+- title: 'Peterson LJ. Principles of management of impacted teeth. In: Peterson LJ,
+    ed. Oral and Maxillofacial Surgery. Philadelphia: Lippincott; 2003.'
+  url: https://pubmed.ncbi.nlm.nih.gov/14586393
+- title: 'Laskin DM. Textbook and color atlas of tooth impactions: diagnosis, clinical,
+    and management perspectives. 2nd ed. Chicago: Quintessence; 2007.'
+  url: https://pubmed.ncbi.nlm.nih.gov/17710024
+- title: Bouloux GF, Steed MB, Perciaccante VJ. Complications of third molar surgery.
+    Oral Maxillofac Surg Clin North Am. 2007;19(1):117-128.
+  url: https://pubmed.ncbi.nlm.nih.gov/18088753
+- title: Chiapasco M, Crescentini M, Romanoni G. Extraction versus spontaneous exfoliation
+    of impacted third molars. Oral Surg Oral Med Oral Pathol. 1995;80(2):143-148.
+  url: https://pubmed.ncbi.nlm.nih.gov/7675272
+- title: 'Alling CC, Helfrick JF, Alling RD. Impacted teeth. Philadelphia: WB Saunders;
+    1993.'
+  url: https://pubmed.ncbi.nlm.nih.gov/8404189
+- title: Bodner L, Brennan PA. Implant positioning in patients with Class II Division
+    1 malocclusion and a hyperdivergent facial type. Int J Oral Maxillofac Implants.
+    2008;23(1):37-42.
+  url: https://pubmed.ncbi.nlm.nih.gov/18416410
+- title: 'Pogrel MA, Lee JS, Muff DF. Coronectomy: a technique to prevent inferior
+    alveolar nerve injury during removal of impacted mandibular third molars. J Am
+    Dent Assoc. 1992;123(10):67-72.'
+  url: https://pubmed.ncbi.nlm.nih.gov/1402269
+- title: 'Marciani RD. Third molar surgery: current concepts. Oral Maxillofac Surg
+    Clin North Am. 2007;19(1):103-113.'
+  url: https://pubmed.ncbi.nlm.nih.gov/18088752
+- title: Herland AP. Surgical extraction of unerupted teeth. Dent Clin North Am. 1971;15(2):305-327.
+  url: https://pubmed.ncbi.nlm.nih.gov/5285355
+- title: Tay ABG. Intra-operative and post-operative complications of third molar
+    extraction. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2007;104(6):e57-e64.
+  url: https://pubmed.ncbi.nlm.nih.gov/17875410
+reviewed: true
 reviewer_specialty: Oral and Maxillofacial Surgery
+slug: timeline-for-surgical-teeth-removal
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
-reviewed: true
-references:
-  - title: "Peterson LJ. Principles of management of impacted teeth. In: Peterson LJ, ed. Oral and Maxillofacial Surgery. Philadelphia: Lippincott; 2003."
-    url: https://pubmed.ncbi.nlm.nih.gov/14586393
-  - title: "Laskin DM. Textbook and color atlas of tooth impactions: diagnosis, clinical, and management perspectives. 2nd ed. Chicago: Quintessence; 2007."
-    url: https://pubmed.ncbi.nlm.nih.gov/17710024
-  - title: "Bouloux GF, Steed MB, Perciaccante VJ. Complications of third molar surgery. Oral Maxillofac Surg Clin North Am. 2007;19(1):117-128."
-    url: https://pubmed.ncbi.nlm.nih.gov/18088753
-  - title: "Chiapasco M, Crescentini M, Romanoni G. Extraction versus spontaneous exfoliation of impacted third molars. Oral Surg Oral Med Oral Pathol. 1995;80(2):143-148."
-    url: https://pubmed.ncbi.nlm.nih.gov/7675272
-  - title: "Alling CC, Helfrick JF, Alling RD. Impacted teeth. Philadelphia: WB Saunders; 1993."
-    url: https://pubmed.ncbi.nlm.nih.gov/8404189
-  - title: "Bodner L, Brennan PA. Implant positioning in patients with Class II Division 1 malocclusion and a hyperdivergent facial type. Int J Oral Maxillofac Implants. 2008;23(1):37-42."
-    url: https://pubmed.ncbi.nlm.nih.gov/18416410
-  - title: "Pogrel MA, Lee JS, Muff DF. Coronectomy: a technique to prevent inferior alveolar nerve injury during removal of impacted mandibular third molars. J Am Dent Assoc. 1992;123(10):67-72."
-    url: https://pubmed.ncbi.nlm.nih.gov/1402269
-  - title: "Marciani RD. Third molar surgery: current concepts. Oral Maxillofac Surg Clin North Am. 2007;19(1):103-113."
-    url: https://pubmed.ncbi.nlm.nih.gov/18088752
-  - title: "Herland AP. Surgical extraction of unerupted teeth. Dent Clin North Am. 1971;15(2):305-327."
-    url: https://pubmed.ncbi.nlm.nih.gov/5285355
-  - title: "Tay ABG. Intra-operative and post-operative complications of third molar extraction. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2007;104(6):e57-e64."
-    url: https://pubmed.ncbi.nlm.nih.gov/17875410
+title: 'Surgical Tooth Extraction: Indications, Classification'
 ---
-
 ## Introduction
 
 Surgical tooth extraction removes teeth that can't come out with normal forceps pulling. This ranges from slightly difficult erupted teeth to severely impacted wisdom teeth stuck in bone. Understanding your specific situation helps you prepare and know what to expect during healing.
@@ -116,12 +127,6 @@ Stitches come out (or dissolve) around 7-10 days. Return to normal diet by week 
 **Multiple extractions**: More operative time, more swelling, longer recovery. Phased extraction may benefit some patients. **Previously failed extraction**: Higher difficulty, more swelling risk. Specialist referral often recommended. **Teeth with infection**: Antibiotics before and after surgery. Complete pathology removal important.
 
 See [Best-practices-for-surgical-technique-overview](/article/best-practices-for-surgical-technique-overview.html) and [Extraction-complications-what-you-need-to-know](/article/extraction-complications-what-you-need-to-know.html).
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for surgical teeth removal, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

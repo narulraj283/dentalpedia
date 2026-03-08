@@ -30,7 +30,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: 'Extraction Socket Preservation: Alveolar Ridge Anatomy'
 ---
-
 ## What Happens to Your Jaw Bone When You Lose a Tooth
 
 When you have a tooth pulled, something happens in your jaw that you might not realize—the bone starts to shrink. This isn't a problem for one day or one week, but over months and years, you can lose a significant amount of bone. About half of your bone width can disappear within a year, especially in front teeth where the bone is thin to begin with.
@@ -85,19 +84,11 @@ Socket preservation costs extra money upfront, but it saves you from needing maj
 
 After socket preservation grafting, your implant has a much better chance of succeeding. The bone around it will be more stable, your soft tissue will look more natural, and you'll have a more secure implant.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about extraction socket preservation immediate grafting and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
-
 ## Conclusion
 
 If you're losing a tooth and planning to replace it with an implant, discussing socket preservation at extraction time is a smart decision. It prevents bone loss and makes your future implant better. The procedure adds a little time and cost upfront but saves significant time, cost, and difficulty later.
 
-> **Key Takeaway:** Immediate socket preservation grafting maintains 50-75% of ridge width, preventing resorption that compromises implant esthetics and function.
+> **Key Takeaway:** When you have a tooth pulled, something happens in your jaw that you might not realize—the bone starts to shrink.
 
 ## Related Articles
 

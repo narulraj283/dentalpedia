@@ -18,7 +18,6 @@ references:
   - title: "Healing response after intentional replantation"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26439738
 ---
-
 Imagine being able to save a tooth even when your dentist recommends extraction. In some cases, intentional replantation makes this possible. This advanced technique involves extracting a tooth, treating the problem inside the root, and placing the tooth back in its socket. It's not something every dental office can do, but for the right patient and tooth, it can be a fantastic option.
 
 ## When Do Dentists Recommend Replantation?
@@ -68,12 +67,6 @@ Take prescribed pain medication as directed. Some discomfort is normal and expec
 Some teeth or situations aren't suitable for replantation. Severely damaged teeth with cracks or multiple fractures can't be replanted. Teeth with advanced bone loss around the root can't be saved.
 
 Back teeth with curved roots or multiple roots are difficult to replant successfully. Very small teeth or teeth with tiny roots are challenging. Your dentist will be honest about whether replantation is realistic for your situation.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about intentional replantation re implanting extracted tooth and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

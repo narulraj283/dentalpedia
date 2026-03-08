@@ -20,7 +20,6 @@ references:
   - "Nilsson M, et al. Comparison of interdental plaque removal between the Oral-B water flosser and traditional string floss. Journal of Clinical Dentistry. 2013;24(Spec Iss A):A5-A10."
   - "Greenstein G, et al. Efficacy of subgingival chlorhexidine irrigation on probing depth and attachment level. Journal of Periodontology. 1992;63(9):722-726."
 ---
-
 Walk down the oral care aisle at any drugstore and you'll see dozens of cleaning tools: electric toothbrushes, water flossers, interdental brushes, tongue scrapers. Learning more about [Oral Health Habits Complete Guide](/article/oral-health-habits-complete-guide.html) can help you understand this better. Which ones actually work? Which are worth the money?
 
 ## Electric vs. Manual Toothbrushes: What Does Research Show?
@@ -89,19 +88,13 @@ However, some tools justify cost for certain people. If dexterity limitations ma
 
 Calculate genuine benefit for your specific situation rather than assuming expensive equals better.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about mouth cleaning tools and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 The "best" cleaning tool is the one you'll use consistently with proper technique. Electric toothbrushes provide modest benefit over manual brushing. Soft bristles work as well as hard bristles while being gentler.
 
 Water flossers and interdental brushes are equally valid alternatives to traditional floss depending on your spacing. Replace your toothbrush every 8-12 weeks. Mouthwash supplements but doesn't replace mechanical cleaning. Proper technique and consistency matter more than gadgets.
 
-> **Key Takeaway:** Walk down the oral care aisle at any drugstore and you'll see dozens of cleaning tools: electric toothbrushes, water flossers, interdental brushes,.
+> **Key Takeaway:** Walk down the oral care aisle at any drugstore and you'll see dozens of cleaning tools: electric toothbrushes, water flossers, interdental brushes, tongue scrapers.
 
 ## Related Articles
 

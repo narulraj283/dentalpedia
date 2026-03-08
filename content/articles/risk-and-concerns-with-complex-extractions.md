@@ -32,7 +32,6 @@ references:
   - title: "Dodson TB. The role of risk assessment in clinical decision making for impacted third molars. J Oral Maxillofac Surg. 2012;70(9 Suppl 1):S8-S14."
     url: https://pubmed.ncbi.nlm.nih.gov/22916701
 ---
-
 ## Introduction
 
 If you need to have a tooth pulled—especially one that's impacted or buried deep in your jaw—you probably have questions about what could go wrong. While most tooth extractions go smoothly, more complex procedures do carry real risks. Understanding these possible complications helps you make informed decisions and know what to expect during recovery. This guide walks you through the main concerns with complex tooth extraction, what the odds really are, and how your dental surgeon can help keep you safe.

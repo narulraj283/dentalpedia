@@ -32,7 +32,6 @@ references:
   - title: "Panza N, Lombardi A, Gasparini G, et al. Bonded versus conventional rapid palatal expansion. A randomized clinical trial. American Journal of Orthodontics and Dentofacial Orthopedics. 2016;149(3):403-411."
     url: https://pubmed.ncbi.nlm.nih.gov/26926021
 ---
-
 ## Straightening Teeth Without Visible Braces
 
 If you want straighter teeth but don't like the idea of traditional metal braces, you have options. Modern dentistry offers several ways to align teeth without brackets and wires. Let's look at what's available and what works best for different situations.
@@ -181,21 +180,6 @@ Sometimes your orthodontist uses multiple approaches:
 - Start with an expander to widen the jaw, then use aligners
 - Do bonding to fix spacing from aligners that didn't close a gap perfectly
 - Use aligners for initial movement, then fixed braces for finishing touches
-
-## Questions to Ask Your Orthodontist
-
-Before choosing a non-brace option, ask:
-
-1. "Am I a good candidate for this treatment?"
-2. "How long will it take?"
-3. "What are the risks or limitations?"
-4. "What if it doesn't work as planned?"
-5. "What's the retention plan?"
-6. "How much does it cost?"
-7. "What happens if I don't follow instructions?"
-8. "Can you show me before-and-after photos from your patients?"
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 

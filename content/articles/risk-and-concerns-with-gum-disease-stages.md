@@ -44,7 +44,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Risk and Concerns with Gum Disease Stages
 ---
-
 ## Introduction
 
 Your dentist probably tells you your "Stage 2 gum disease" or says you have "moderate periodontitis." But what do these stages actually mean? And how accurate are they? The truth is that gum disease staging is less precise than it sounds. The measurements your dentist uses have built-in variability, and your disease progression is much harder to predict than the staging system suggests. Understanding these limitations helps you interpret what your dentist is telling you and set realistic expectations.
@@ -82,14 +81,6 @@ This fundamental admission—that our classification system has built-in measure
 ## Your Disease Means Something Different Than Your Neighbor's
 
 Two patients might both have "Stage 2 periodontitis" but have completely different disease presentations. One might have disease affecting all their molars while another has localized disease on upper front teeth. These represent fundamentally different situations with different treatment implications, yet they receive identical stage labels. The staging system oversimplifies the complexity of real disease presentations.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about risk and concerns with gum disease stages and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

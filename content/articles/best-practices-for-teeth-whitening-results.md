@@ -20,7 +20,6 @@ references:
   - "Greenwall-Cohen LH. Tooth Whitening: A Clinical Guide and Techniques. London: Quintessence Publishing; 2016."
   - "Al-Shalan K, Amin WM, Al-Khatieb AR, Taha ST, Salim NA, Mousa AA. The effects of 6% hydrogen peroxide gel on human enamel and dentin ultrastructure. Oper Dent. 2011;36(1):72-78."
 ---
-
 ## What Professional Teeth Whitening Can Really Do For You
 
 Teeth whitening is one of the most popular cosmetic dental treatments, and it's easy to see why—a brighter smile feels great. But you need realistic expectations. Understanding what professional whitening actually achieves, how long results last, and what your teeth can honestly become helps you make the right decision.

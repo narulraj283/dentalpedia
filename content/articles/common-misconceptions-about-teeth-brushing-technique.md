@@ -22,7 +22,6 @@ references:
   - "Tenovuo J. Antimicrobial function of saliva. J Dent Res. 1998;77(3):695-703."
   - "Carvalho JC, Cury JA. Fluoride release from some dental materials. Oper Dent. 1992;17(6):227-232."
 ---
-
 You probably think you know how to brush your teeth correctly. But research shows that most people brush wrong—not necessarily in a dramatic way, just in ways that reduce effectiveness and potentially harm your gums. Let's look at what actually works.
 
 ## Does Harder Bristles Clean Better?
@@ -89,17 +88,11 @@ If you've been brushing incorrectly for years, changing feels strange. Your gums
 
 If you've been using hard bristles, switching to soft bristles requires an adjustment period—they feel less aggressive initially. By week 2-3, you'll likely notice less gum tenderness and less sensitivity.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about teeth brushing technique and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 Effective brushing means: soft bristles, gentle 150-200 gram pressure, Bass technique with 45-degree gingival angle, two to three minutes daily, twice daily with 1000-1500 ppm fluoride toothpaste, combined with daily flossing. This approach achieves 85-92% total plaque removal when done consistently. But here's the real key: your motivation and understanding of why it matters influences outcomes more than any particular gadget or toothpaste formula. Consistent, gentle technique beats sporadic aggressive brushing every time.
 
-> **Key Takeaway:** Discover the right brushing technique, which bristles actually work best, and what dental research says about keeping your teeth clean and healthy.
+> **Key Takeaway:** You probably think you know how to brush your teeth correctly.
 
 ## Related Articles
 

@@ -28,7 +28,6 @@ references:
   - title: "Long-Term Patient Satisfaction and Outcomes After Oral Surgical Procedures"
     url: "https://pubmed.ncbi.nlm.nih.gov/25980631/"
 ---
-
 What happens after your dental surgery is just as important as the surgery itself. Post-operative care determines whether your mouth heals quickly and completely or develops complications that require additional treatment. Understanding your healing timeline and following your dentist's instructions reduces infection risk, controls swelling and pain, and gets you back to normal function faster.
 
 Your body goes through predictable healing phases after surgery. Learn more about [Why Extraction Complications Matters](/article/why-extraction-complications-matters.html) for additional guidance. Each phase has specific requirements and goals.

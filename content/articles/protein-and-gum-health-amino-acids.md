@@ -30,7 +30,6 @@ references:
   - title: "Orbak R, Sisman N, Tarimci N, Naycı A. Periodontal status of patients with thalassemia. J Clin Periodontol. 2002;29(8):745-750."
     url: https://pubmed.ncbi.nlm.nih.gov/12390570
 ---
-
 ## How Protein Builds Healthy Gums
 
 Your gums are made mostly of a protein called collagen, which makes up about 70-80% of your gum tissue. Think of collagen as the structural scaffolding that keeps your gums firm and strong. Collagen also anchors your teeth to your jaw and supports all the tissues around your teeth.

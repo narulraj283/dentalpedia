@@ -42,7 +42,6 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Restoration Shade Guide Color Selection
 ---
-
 ## How Dentists Match Your Tooth Color: A Complete Patient Guide
 
 When you need a filling, crown, or other restoration, one of the most important decisions is getting the color just right. You want your new restoration to blend perfectly with your natural teeth so no one can tell it's there. But tooth color matching is trickier than it might seem. Your dentist faces real challenges in selecting the perfect shade, including the fact that different people see colors differently, lighting changes the way teeth look, and teeth have multiple shades within the same tooth. This guide explains how your dentist works to match your tooth color perfectly and what happens if something doesn't quite match.

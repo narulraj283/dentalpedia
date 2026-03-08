@@ -28,7 +28,6 @@ references:
   - title: "Grinding Force Intensity and Night Guard Design: Optimization for Severe Bruxism"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27689835
 ---
-
 ## Understanding Tooth Grinding and Its Consequences
 
 Many people grind or clench their teeth during sleep without realizing it—a condition called bruxism that affects about 8-15% of adults. During grinding episodes, your teeth experience forces two to ten times greater than normal chewing forces. Over time, this excessive stress wears down tooth surfaces, damages restorations, and can cause problems extending to your jaw joint.

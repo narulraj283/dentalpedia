@@ -32,7 +32,6 @@ references:
   - title: "Klingberg G, Berggren U, Norén JG. Dental fear in an urban Swedish child population: prevalence and child-related factors. Community Dent Health. 1994;11(4):208-214."
     url: https://pubmed.ncbi.nlm.nih.gov/7850627
 ---
-
 ## Mastering the Three Steps
 
 Tell-Show-Do sounds simple—and it is—but using it really effectively takes skill. Your pediatric dentist learns exactly how to explain procedures, show tools, and build your child's confidence. This article explains how pediatric dentists master this technique to help anxious children feel brave and cooperative.
@@ -108,6 +107,9 @@ Your dentist remembers everything that works for your child and documents it. Th
 ## Special Situations
 
 Tell-Show-Do works beautifully for most children, but not all situations allow for full implementation. Children with autism spectrum disorder or severe sensory sensitivities might need modified approaches. Children with previous traumatic dental experiences might need extra time and multiple show-phase visits before any treatment. In dental emergencies where pain is severe, pain relief comes first, then Tell-Show-Do happens at follow-up appointments. If your child has special needs, discuss this with your pediatric dentist so they can plan accordingly.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

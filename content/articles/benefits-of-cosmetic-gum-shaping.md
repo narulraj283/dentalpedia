@@ -20,14 +20,13 @@ references:
   - "Polo M. Comment on application of botulinum toxin to the masticatory muscles for management of bruxism and associated jaw pain. J Oral Maxillofac Surg. 2008;66(8):1644-1645."
   - "Ericsson I, Lindhe J. Recession in sites with inadequate oral hygiene. A 5-year follow-up study. J Clin Periodontol. 1984;11(9):619-627."
 ---
-
 ## What Is a "Gummy Smile" Anyway?
 
-Imagine looking in the mirror and seeing way too much gum showing when you smile—that's what people call a "gummy smile." For some people, showing a lot of gum when they smile bothers them so much that they feel self-conscious. They might even avoid smiling in photos. The good news? Cosmetic gum shaping can help fix this, and it's easier than you might think. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
+Imagine looking in the mirror and seeing way too much gum showing when you smile—that's what people call a "gummy smile." For some people, showing a lot of gum when they smile bothers them so much that they feel self-conscious. They might even avoid smiling in photos. The good news? Cosmetic gum shaping can help fix this, and it's easier than you might think.
 
 ## Is It Really a Problem?
 
-Actually, showing a little gum is totally normal. When you smile, most people show about 2-3 millimeters of gum tissue, and that's perfectly fine. But if you're showing significantly more than that—sometimes up to half an inch or more—that might be what's bothering you. The key is understanding what's causing the extra gum display so your dentist can recommend the right fix. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
+Actually, showing a little gum is totally normal. When you smile, most people show about 2-3 millimeters of gum tissue, and that's perfectly fine. But if you're showing significantly more than that—sometimes up to half an inch or more—that might be what's bothering you. The key is understanding what's causing the extra gum display so your dentist can recommend the right fix.
 
 ## Finding Out What's Going On
 
@@ -81,30 +80,19 @@ Gum surgery is generally very safe, and serious problems are rare. Your dentist 
 
 Sometimes fixing a gummy smile involves more than just gum work. Your dentist might suggest combining gum contouring with teeth whitening or other cosmetic treatments. Each treatment builds on the others to create your ideal smile. Working together with your dentist to plan the complete treatment makes everything work better.
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+Related reading: [Risks and Concerns with Direct Cosmetic Bonding](/article/risk-and-concerns-with-cosmetic-bonding-process.html) and [Smile Design Tool: Digital Preview and Treatment](/article/smile-design-tool-digital-preview.html).
 
 ## Conclusion
 
 A gummy smile is fixable, and the results can be life-changing. Whether through surgical gum contouring, botox for your smile muscles, or bone reshaping, you have options that modern dentistry makes accessible. Your dentist will help you figure out what's causing your gummy smile and recommend the best approach for you. The procedure itself is quick, recovery is manageable, and the results last. Most importantly, you'll be able to smile with confidence, knowing that your smile looks just the way you want it to.
 
-> **Key Takeaway:** Imagine looking in the mirror and seeing way too much gum showing when you smile—that's what people call a "gummy smile." For some people, showing a lot of gum when they smile bothers them so much that they feel self-conscious. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** Imagine looking in the mirror and seeing way too much gum showing when you smile—that's what people call a "gummy smile." For some people, showing a lot of gum when they smile bothers them so much that they feel self-conscious.
 
 ## Related Articles
 
 - [Anterior Guidance](/article/anterior-guidance-incisor-controlling-bite.html)
-- [Gummy Smile Correction: Etiology, Treatment Modalities,](/article/timeline-for-gummy-smile-fix.html)
+- [Gummy Smile Correction: Etiology, Treatment Modalities](/article/timeline-for-gummy-smile-fix.html)
 - [Smile Improvement Options - Cosmetic Dental Treatments](/article/how-to-smile-improvement-options.html)
 - [Closing the Gap Between Your Front Teeth: Your Options](/article/diastema-closure-closing-gaps-between-front-teeth.html)
 - [Understanding Cosmetic Smile Design — A Patient Guide](/article/best-practices-for-cosmetic-smile-design.html)

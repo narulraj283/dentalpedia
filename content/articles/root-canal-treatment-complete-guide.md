@@ -33,7 +33,6 @@ subcategory: Endodontic Overview
 subcategory_slug: overview-endo
 title: Root Canal Treatment Complete Guide
 ---
-
 ## What Is Root Canal Treatment - What You Need to Know to Save Your Tooth?
 
 If your dentist has mentioned root canal treatment - what you need to know to save your tooth, you probably have questions about what it means for your oral health. This is a common topic in dental care, and understanding the basics can help you feel more prepared for conversations with your dental team.
@@ -69,12 +68,6 @@ After treatment, your dentist will give you specific care instructions. Followin
 The best dental care includes preventing problems before they start. Good daily habits like brushing twice with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a real difference. Your dentist can recommend specific products or routines based on your individual needs. For more on this topic, see our guide on [Pulp Vitality Testing - Assessing Nerve Health](/article/pulp-vitality-testing-assessing-nerve-health.html).
 
 Regular dental visits allow your dentist to catch changes early and adjust your care plan as needed. Think of these appointments as an investment in your long-term comfort and health.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about root canal treatment - what you need to know to save your tooth and how it applies to your specific situation. Good questions include asking about the expected timeline for treatment, what your insurance covers, and what happens if you delay care.
-
-Your dentist can also explain what signs to watch for between appointments and when you should come in sooner than planned. Being proactive about your dental health puts you in control.
 
 ## Protecting Your Results Long-Term
 

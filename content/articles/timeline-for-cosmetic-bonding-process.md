@@ -28,7 +28,6 @@ references:
   - title: "Swift EJ, Perdigão J, Heymann HO. Bonding to enamel and dentin: a brief history and state of the science. Quintessence Int. 1995;26(2):95-110."
     url: https://pubmed.ncbi.nlm.nih.gov/7568916
 ---
-
 ## What Is Composite Bonding?
 
 Composite bonding is a way to fix or improve your teeth without removing much of the tooth structure itself. Your dentist uses a tooth-colored plastic material (composite) to fill in cracks, close gaps, change the shape of a tooth, or cover up discoloration. The whole process usually happens in one visit and takes about an hour. It's one of the quickest cosmetic improvements available, and it's reversible if you ever want to try something different.

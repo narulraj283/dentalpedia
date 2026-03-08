@@ -43,7 +43,6 @@ subcategory: Practice & Insurance Overview
 subcategory_slug: overview-practice
 title: Submitting Insurance Claims - Process Overview
 ---
-
 ## Understanding Your Dental Insurance Claim
 
 When you receive dental treatment, your dentist's office sends an insurance claim to your insurance company to request payment. This process affects how much your insurance will pay and how long you'll wait to hear back about coverage. Your dentist's team works with your insurance company to make sure your claim gets reviewed properly so you understand exactly what you owe. When everything is done correctly, most claims process smoothly without any problems.
@@ -105,6 +104,9 @@ Your dentist's office should explain your EOB to you so you understand all the c
 If your insurance company denies your claim and you think they made a mistake, you can appeal the decision. You have about 30-60 days to file an appeal from when you get the denial letter. To appeal, gather the documents that support your claim—X-rays, treatment notes, and any pre-authorization letters you have. Write a letter to your insurance company explaining why you think the denial is wrong, and include copies of your supporting documents.
 
 Many appeals are successful, especially when you can show that your dentist used the correct code or that the treatment was medically necessary. If your first appeal is denied, you can file a second appeal. If that doesn't work either, you can file a complaint with your state's insurance commissioner. These agencies help protect patients from unfair insurance decisions.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

@@ -22,7 +22,6 @@ references:
   - "Tarnow DP, Magner AW, Fletcher P. The effect of the distance from the contact point to the crest of bone on the presence or absence of the interproximal dental papilla. J Periodontol. 1992;63(12):995-996."
   - "Muñoz F, Alarcón MA, Muñoz CA, Uribarri PA. Esthetics in dental implant treatment. Implant Dent. 2002;11(4):305-313."
 ---
-
 ## What Happens During Recovery: A Timeline You Should Know
 
 Recovery from dental surgery can feel uncertain if you don't know what's normal. Swelling, bruising, pain, and bleeding might worry you at first, but most are completely expected responses. Understanding what to expect helps you tell the difference between normal healing and something that actually needs a dentist's attention. Let's walk through the typical recovery process so you feel more confident as you heal.
@@ -95,7 +94,7 @@ The critical healing period for soft tissue is days 0 to 7, which is when you ne
 
 Recovery from dental surgery follows predictable patterns when you know what to expect. Swelling, bruising, and mild discomfort are normal and expected, peaking around days 2 to 3 and gradually improving. Bone healing takes much longer than soft tissue healing—8 to 12 weeks minimum. Gentle oral care, dietary caution, and activity restrictions during the first week are key to smooth healing.
 
-> **Key Takeaway:** Understand what to expect during recovery from dental surgery—how long healing really takes and when to worry about complications.
+> **Key Takeaway:** Recovery from dental surgery can feel uncertain if you don't know what's normal.
 
 ## Related Articles
 

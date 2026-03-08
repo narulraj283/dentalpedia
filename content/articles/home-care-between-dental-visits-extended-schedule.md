@@ -32,7 +32,6 @@ references:
   - title: "Patient education effectiveness in long-term home care outcomes"
     url: https://www.ncbi.nlm.nih.gov/pubmed/22548672
 ---
-
 If you can't get to your dentist every 6 months, don't worry—you can still keep your mouth very healthy. You just need to do more at home to make up for longer time between professional cleanings. This guide shows you exactly what to do to maintain excellent oral health even with extended time between dental visits.
 
 ## How to Brush Your Teeth Properly

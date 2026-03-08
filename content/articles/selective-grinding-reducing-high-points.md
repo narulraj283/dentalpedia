@@ -37,7 +37,6 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: Selective Grinding Reducing High Points
 ---
-
 ## Introduction
 
 Do your teeth feel like they're not sitting quite right when you bite down? You might have high points on your teeth—spots where your upper and lower teeth meet with too much force. This happens more often than you'd think, especially after getting new fillings, crowns, or when your teeth shift over time. Your dentist can fix this problem with selective grinding, a simple but important procedure that adjusts these high points to help your bite feel comfortable again. Think of it like fine-tuning your car's alignment—small adjustments now prevent bigger problems later.
@@ -75,14 +74,6 @@ After your grinding procedure, you might notice some sensitivity to temperature 
 ## Why This Small Adjustment Matters
 
 You might think that tiny adjustments to your bite wouldn't make much difference, but they actually do. [When your bite is properly aligned](/article/complete-guide-to-dental-exams-and-cleanings.html). Your jaw joint experiences less stress, which means less chance of developing painful jaw problems. Your chewing becomes more efficient, and you'll feel more comfortable while eating. Many patients are surprised by how much better their mouth feels after this simple procedure. The small time and discomfort of the adjustment pays off with improved comfort and better long-term dental health.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about occlusal adjustment - selective grinding technique for... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

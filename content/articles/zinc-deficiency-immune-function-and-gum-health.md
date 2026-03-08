@@ -30,7 +30,6 @@ references:
   - title: "Dietary Zinc Intake and Systemic Periodontal Disease: Cross-Sectional and Intervention Studies"
     url: "https://pubmed.ncbi.nlm.nih.gov/26357856/"
 ---
-
 Your gums need zinc to stay healthy, and if your body is low on this critical nutrient, your gums suffer—sometimes dramatically. Zinc isn't glamorous like vitamin C or calcium, but it's absolutely essential for your immune system and for your body to heal wounds, including damage in your mouth. Research shows that people with low zinc have significantly worse gum disease that progresses faster and responds poorly to treatment. If you have gum problems that don't seem to improve despite good oral care, zinc deficiency could be the missing piece in your treatment plan.
 
 ## What Zinc Does in Your Body
@@ -82,6 +81,9 @@ Population studies show that people with low zinc are nearly twice as likely to 
 Eat zinc-rich foods regularly. Include meat, poultry, or seafood 3-5 times weekly. Eat beef, chicken, or fish with beans and grains to improve zinc absorption. Keep nuts and seeds on hand for snacking. If you don't eat meat or seafood, eat more legumes, nuts, seeds, and whole grains, knowing your absorption will be lower—consider getting your zinc intake measured if you rely on plant sources.
 
 If you have gum disease that doesn't improve despite excellent brushing, flossing, and professional treatment, ask your dentist or doctor to check your zinc status. If it's low, follow your doctor's supplementation recommendation for the suggested duration. Reassess with your dentist every 3 months to monitor improvement.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

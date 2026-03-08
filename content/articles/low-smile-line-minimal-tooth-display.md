@@ -32,7 +32,6 @@ references:
   - title: "Lip Position Changes After Orthognathic Surgery: Three-Dimensional Analysis"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27013135
 ---
-
 ## What Is a Low Smile Line?
 
 A low smile line means your teeth don't show much when you smile naturally. While some people display lots of teeth and even some gum when they smile, people with low smile lines might show just a tiny bit of tooth, or sometimes almost nothing. This variation is completely normal and genetically determined—you inherited your lip length and how your muscles move when you smile from your parents.
@@ -89,9 +88,11 @@ If your low smile line bothers you significantly, pursue treatment. If you're re
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Low smile lines represent multifactorial esthetic concerns with diverse etiologies ranging from genetic lip morphology through skeletal vertical relationships to local dental factors. If you have questions, your dentist can help you understand your options. Cosmetic solutions include teeth whitening, bonding, veneers, and gum contouring to enhance what's visible. More advanced options include orthodontics or jaw surgery for people where jaw position is the primary issue. Work with a cosmetic dentist to determine what's achievable for your specific anatomy.
 
-> **Key Takeaway:** A low smile line limits tooth display due to genetics—shorter upper lip or lower jaw position. Cosmetic solutions include teeth whitening, bonding, veneers, and gum contouring to enhance what's visible. More advanced options include orthodontics or jaw surgery for people where jaw position is the primary issue. Work with a cosmetic dentist to determine what's achievable for your specific anatomy.
+
+
+> **Key Takeaway:** A low smile line means your teeth don't show much when you smile. Learn your options for enhancing your smile and showing more teeth.
 
 ## Related Articles
 

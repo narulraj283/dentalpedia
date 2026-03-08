@@ -32,7 +32,6 @@ references:
   - title: "Rotstein I, Friedman S. Conservative retreatment of an overextended root canal filling using an ultrasonic technique. J Endod. 1997;23(6):385-386."
     url: https://pubmed.ncbi.nlm.nih.gov/9212758
 ---
-
 ## The Healing Timeline Overview
 
 Extraction socket healing is a fascinating biological process progressing through overlapping phases spanning from immediately post-extraction through 12-16 weeks for complete bone remodeling. Understanding this timeline helps you anticipate changes and recognize normal progression versus complications.

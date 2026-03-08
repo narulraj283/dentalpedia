@@ -1,28 +1,33 @@
 ---
-title: "Emergency Tooth Pain: Complete Guide to Causes, Diagnosis,"
-slug: emergency-tooth-pain-complete-guide
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: "Tooth pain can be one of the worst experiences—it interferes with eating, sleeping, and your ability to concentrate at work or school."
 date: 2026-03-05
+excerpt: Tooth pain can be one of the worst experiences—it interferes with eating,
+  sleeping, and your ability to concentrate at work or school.
 read_time: 10 min
+references:
+- Glick M. Burket's Oral Medicine. 13th ed. BC Decker; 2021.
+- Cohen S, Hargreaves KM. Pathways of the Pulp. 11th ed. Mosby; 2016.
+- Hargreaves KM, Cohen S. Berman's Oral Biology. 2nd ed. Mosby; 2012.
+- 'Fricton JR, Okeson JP. Dental Pain: Orofacial Sources and Multidisciplinary Diagnosis.
+  Quintessence; 2011.'
+- Dym H, Sharifi B. Emergency treatment of acute dental pain. Dent Clin North Am.
+  2013;57(1):219-235.
+- Gohel K, Ahmed K, Suhail K. Etiology and diagnosis of persistent postoperative endodontic
+  pain. J Endod. 2015;41(9):1535-1548.
+- 'Reit C. Diagnosis of periapical pathology and treatment planning: a clinical review.
+  J Endod. 2022;48(3):281-289.'
+- Fuss Z, Lustig JP, Tamse A, Kaplowitz GJ. An evaluation of endodontic status of
+  traumatized permanent anterior teeth. J Endod. 2001;27(1):32-35.
+- Broon NJ, Chadha M, Levine DM. Acute periapical abscess. N Y State Dent J. 2019;85(3):34-38.
+- Siqueira JF Jr. Microbial causes of endodontic flare-ups. Int Endod J. 2003;36(7):453-463.
+reviewed: true
 reviewer_specialty: General Dentistry
+slug: emergency-tooth-pain-complete-guide
 subcategory: General Overview
 subcategory_slug: overview-general
-reviewed: true
-references:
-  - "Glick M. Burket's Oral Medicine. 13th ed. BC Decker; 2021."
-  - "Cohen S, Hargreaves KM. Pathways of the Pulp. 11th ed. Mosby; 2016."
-  - "Hargreaves KM, Cohen S. Berman's Oral Biology. 2nd ed. Mosby; 2012."
-  - "Fricton JR, Okeson JP. Dental Pain: Orofacial Sources and Multidisciplinary Diagnosis. Quintessence; 2011."
-  - "Dym H, Sharifi B. Emergency treatment of acute dental pain. Dent Clin North Am. 2013;57(1):219-235."
-  - "Gohel K, Ahmed K, Suhail K. Etiology and diagnosis of persistent postoperative endodontic pain. J Endod. 2015;41(9):1535-1548."
-  - "Reit C. Diagnosis of periapical pathology and treatment planning: a clinical review. J Endod. 2022;48(3):281-289."
-  - "Fuss Z, Lustig JP, Tamse A, Kaplowitz GJ. An evaluation of endodontic status of traumatized permanent anterior teeth. J Endod. 2001;27(1):32-35."
-  - "Broon NJ, Chadha M, Levine DM. Acute periapical abscess. N Y State Dent J. 2019;85(3):34-38."
-  - "Siqueira JF Jr. Microbial causes of endodontic flare-ups. Int Endod J. 2003;36(7):453-463."
+title: 'Emergency Tooth Pain: Complete Guide to Causes, Diagnosis'
 ---
-
 Tooth pain can be one of the worst experiences—it interferes with eating, sleeping, and your ability to concentrate at work or school. Understanding what's causing your pain and how to get relief is the first step toward feeling better. This guide helps you recognize different types of tooth pain and understand what your dentist will do to help you.
 
 ## Understanding Why Teeth Hurt
@@ -113,7 +118,7 @@ After your dentist addresses the problem, you might experience some soreness for
 
 Tooth pain signals that something needs attention, and the sooner you address it, the simpler your treatment usually is. Most tooth pain responds well to modern dental care, and many treatments preserve your natural tooth. If you're experiencing tooth pain, schedule an appointment with your dentist as soon as possible. In the meantime, over-the-counter pain relievers, cold applications, and avoiding trigger foods provide temporary relief. Talk to your dentist about which treatment options are right for your specific situation.
 
-> **Key Takeaway:** Tooth pain can be one of the worst experiences—it interferes with eating, sleeping, and your ability to concentrate at work or school.
+> **Key Takeaway:** Understanding what's causing your pain and how to get relief is the first step toward feeling better. This guide helps you recognize different types of tooth pain and understand what your dentist will do to help you.
 
 ## Related Articles
 

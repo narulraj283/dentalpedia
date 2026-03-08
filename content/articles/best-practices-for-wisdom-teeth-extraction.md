@@ -1,28 +1,38 @@
 ---
-title: "Wisdom Teeth Extraction: Indications, Surgical Protocols,"
-slug: best-practices-for-wisdom-teeth-extraction
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "Wisdom teeth extraction is very common in the U.S.—about 65% of adults have at least one extracted, and 35% have all four removed."
 date: 2026-03-05
+excerpt: Wisdom teeth extraction is very common in the U.S.—about 65% of adults have
+  at least one extracted, and 35% have all four removed.
 read_time: 10 min
+references:
+- Bui CH, Seldin EB, Dodson TB. Types, frequencies, and risk factors for complications
+  after third molar extraction. J Oral Maxillofac Surg. 2003;61(12):1379-1389.
+- Renton T, Smeeton N, McGurk M. Factors predictive of difficulty of surgically removing
+  impacted third molars. Br Dent J. 2001;190(11):607-610.
+- Knutsson K, Thor A, Thibblin E, et al. Pathogenic bacteria and bacterial/host responses
+  in pericoronitis. J Dent Res. 2016;95(5):496-504.
+- Dodson TB, Susarla SM. An evidence-based evaluation of the necessity for removal
+  of impacted third molars. Dent Clin North Am. 2012;56(1):149-177.
+- Lipski M. A clinical evaluation of the removal of impacted lower third molars. J
+  Oral Maxillofac Surg. 2002;31(1):37-41.
+- 'Woldenberg Y, Gatot A, Bodner L. Extraction of impacted teeth: surgical technique
+  and mechanism of failure. Dent Clin North Am. 2006;50(4):549-561.'
+- Ong AH, Wilson YL, Malamed SF. Complications and medicolegal considerations of intravenous
+  moderate (conscious) sedation. Oral Surg Oral Med Oral Pathol Oral Radiol Endod.
+  2009;108(4):461-471.
+- Herrera-Briones FJ, Puertas-Borrego A, Martínez-Sahuquillo-Márquez A, et al. Assessment
+  of morbidity following third molar surgery. Med Oral Patol Oral Cir Bucal. 2006;11(3):E252-E259.
+- 'Pell GJ, Gregory BT. Impacted teeth. Philadelphia: J.B. Lippincott; 1933.'
+- 'Friedman JW. The prophylactic extraction of third molars: a public health hazard.
+  Am J Public Health. 1992;82(4):658-659.'
+reviewed: true
 reviewer_specialty: Oral and Maxillofacial Surgery
+slug: best-practices-for-wisdom-teeth-extraction
 subcategory: Oral Surgery Overview
 subcategory_slug: overview-surgery
-reviewed: true
-references:
-  - "Bui CH, Seldin EB, Dodson TB. Types, frequencies, and risk factors for complications after third molar extraction. J Oral Maxillofac Surg. 2003;61(12):1379-1389."
-  - "Renton T, Smeeton N, McGurk M. Factors predictive of difficulty of surgically removing impacted third molars. Br Dent J. 2001;190(11):607-610."
-  - "Knutsson K, Thor A, Thibblin E, et al. Pathogenic bacteria and bacterial/host responses in pericoronitis. J Dent Res. 2016;95(5):496-504."
-  - "Dodson TB, Susarla SM. An evidence-based evaluation of the necessity for removal of impacted third molars. Dent Clin North Am. 2012;56(1):149-177."
-  - "Lipski M. A clinical evaluation of the removal of impacted lower third molars. J Oral Maxillofac Surg. 2002;31(1):37-41."
-  - "Woldenberg Y, Gatot A, Bodner L. Extraction of impacted teeth: surgical technique and mechanism of failure. Dent Clin North Am. 2006;50(4):549-561."
-  - "Ong AH, Wilson YL, Malamed SF. Complications and medicolegal considerations of intravenous moderate (conscious) sedation. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2009;108(4):461-471."
-  - "Herrera-Briones FJ, Puertas-Borrego A, Martínez-Sahuquillo-Márquez A, et al. Assessment of morbidity following third molar surgery. Med Oral Patol Oral Cir Bucal. 2006;11(3):E252-E259."
-  - "Pell GJ, Gregory BT. Impacted teeth. Philadelphia: J.B. Lippincott; 1933."
-  - "Friedman JW. The prophylactic extraction of third molars: a public health hazard. Am J Public Health. 1992;82(4):658-659."
+title: 'Wisdom Teeth Extraction: Indications, Surgical Protocols'
 ---
-
 ## Do You Really Need Your Wisdom Teeth Removed?
 
 Wisdom teeth extraction is very common in the U.S.—about 65% of adults have at least one extracted, and 35% have all four removed. But here's something important: most of these extractions are done "just in case," not because the tooth is causing a current problem. New research shows this approach isn't justified. Wisdom teeth that aren't causing problems now have only a tiny risk (0.1-1% per year) of developing problems in the future.

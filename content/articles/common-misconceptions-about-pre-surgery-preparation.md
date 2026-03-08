@@ -22,7 +22,6 @@ references:
   - "Chen X, Hashimoto F, Toyoshima S, Okajima H. Preoperative optimization for elective surgery. J Phys Ther Sci. 2020;32(3):160-165."
   - "Chow JT, Pang G. Psychological aspects of pain: implications for anesthesia. Curr Opin Anaesthesiol. 2007;20(5):451-456."
 ---
-
 ## Getting Ready for Your Dental Surgery
 
 Surgery anxiety is completely normal, but good preparation helps you feel more confident and can actually improve your outcomes. Let's look at what really matters before your procedure and what might just be unnecessary worry.
@@ -87,19 +86,11 @@ Actually, wear clothes you don't mind getting stained with blood. During and aft
 
 Similarly, avoid wearing jewelry, watches, or contacts if possible. These can be lost or damaged, and your dentist needs clear access to your surgical area. Wear minimal jewelry and bring glasses or contacts separately if needed.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about pre surgery preparation and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
-
 ## Conclusion
 
 Pre-surgery preparation involves: following fasting instructions, informing your dentist of all medications and supplements (stopping only those they recommend), arranging transportation, and mentally preparing by understanding what to expect. Manage anxiety appropriately—some nervousness is normal. Avoid unnecessary additional dental work before surgery and don't modify your regular medications without guidance.
 
-> **Key Takeaway:** Learn how to prepare for your dental surgery so you have the smoothest experience and best healing possible.
+> **Key Takeaway:** Surgery anxiety is completely normal, but good preparation helps you feel more confident and can actually improve your outcomes.
 
 ## Related Articles
 

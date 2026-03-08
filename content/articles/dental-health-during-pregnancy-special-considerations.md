@@ -14,7 +14,6 @@ references:
   - "Offenbacher S, Beck JD, Lieff S, Slade G. Role of periodontitis in systemic disease. Dent Clin North Am. 2005;49(3):505-525."
   - "Offenbacher S, Katz V, Fertik G, et al. Periodontal infection as a possible risk factor for preterm low birth weight. J Periodontol. 1996;67(10 Suppl):1103-1113."
 ---
-
 ## Pregnancy Changes Your Mouth
 
 Your body undergoes dramatic hormonal changes during pregnancy, and your mouth is affected. Progesterone levels surge 10-20 times higher than normal, causing gum tissue to become more inflamed and swollen. About 60-75% of pregnant women develop pregnancy-related gingivitis (gum inflammation) even though their plaque hasn't changed. It's a physiologic response to hormones, not because you're doing anything wrong.
@@ -93,7 +92,7 @@ X-rays with shielding pose negligible risk; delaying diagnosis poses greater ris
 
 Talk to your OB/GYN and dentist about your pregnancy-specific dental care needs and create a plan supporting both your oral health and your baby's health.
 
-> **Key Takeaway:** Safe dental care during pregnancy and how to protect your oral health while pregnant.
+> **Key Takeaway:** Your body undergoes dramatic hormonal changes during pregnancy, and your mouth is affected.
 
 ## Related Articles
 

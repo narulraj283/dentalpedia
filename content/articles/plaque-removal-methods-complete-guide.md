@@ -30,7 +30,6 @@ references:
   - title: "Ciancio SG, Ashley P. Form and Function of Periodontal Tissues. Periodontal Literature Reviews. 1999;10(3):45-58."
     url: https://pubmed.ncbi.nlm.nih.gov/
 ---
-
 ## What Is Plaque and Why It Matters
 
 Plaque is an invisible, sticky film of bacteria that constantly forms on your teeth throughout the day and night. These bacteria produce acids that eat through your tooth enamel, causing cavities and decay. Plaque also irritates your gums, leading to inflammation, bleeding, and potentially serious gum disease that can eventually cause tooth loss. When you remove plaque regularly through good brushing and flossing habits, you significantly reduce your risk of cavities and gum disease. In fact, people with excellent plaque control develop far fewer cavities and keep their natural teeth their entire lives.
@@ -101,6 +100,6 @@ Fluoride toothpaste and antimicrobial rinses provide additional benefits when us
 
 - [Teeth Brushing Technique Complete Guide](/article/teeth-brushing-technique-complete-guide.html)
 - [Timeline for Oral Health Habits: Building Sustainable](/article/timeline-for-oral-health-habits.html)
-- [Evidence-Based Caries Prevention Strategies:](/article/timeline-for-cavity-prevention-methods.html)
+- [Evidence-Based Caries Prevention Strategies](/article/timeline-for-cavity-prevention-methods.html)
 - [LED Whitening Kits: Light-Accelerated Bleaching](/article/led-whitening-kits-light-accelerated-bleaching.html)
 

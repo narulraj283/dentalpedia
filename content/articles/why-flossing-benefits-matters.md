@@ -28,7 +28,6 @@ references:
   - title: "Periodontal health and systemic inflammation markers"
     url: https://pubmed.ncbi.nlm.nih.gov/26318657
 ---
-
 ## Why Your Dentist Won't Stop Asking About Flossing
 
 "Do you floss?" Your dentist asks this question so often it's practically a dental cliché. But they're asking because flossing is genuinely one of the most powerful things you can do for your teeth—and honestly, for your overall health. Here's why this simple habit matters so much and why your dentist keeps bringing it up.

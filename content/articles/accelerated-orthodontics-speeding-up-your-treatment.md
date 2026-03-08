@@ -20,12 +20,11 @@ references:
   - "Nyman SR, Hart AM, Schreiber J, et al. Orthodontic tooth movement and periodontal health. Critical reviews. American Journal of Orthodontics. 2012;142(3):321-330."
   - "Canut Brusola B. Orthopedic and orthodontic treatment in the mixed dentition. Quintessence Publishing. 2006;2:45-68."
 ---
-
 ## Why Braces Take So Long
 
-A typical braces treatment takes 18 to 28 months. This timeline isn't arbitrary—it's based on how fast your body can safely move teeth. Understanding why braces take this long helps explain why faster alternatives require special techniques. For more details, see our guide on [Accelerated Orthodontia](/article/accelerated-orthodontia-fast-track-braces.html).
+A typical braces treatment takes 18 to 28 months. This timeline isn't arbitrary—it's based on how fast your body can safely move teeth. Understanding why braces take this long helps explain why faster alternatives require special techniques.
 
-When your orthodontist puts pressure on a tooth, that pressure transfers through the ligament holding your tooth in place (called the periodontal ligament) to the bone around the tooth. Your body responds by dissolving bone on the pressure side (letting the tooth move forward) and building new bone on the tension side (filling in behind the tooth). These bone changes take time because your body is careful not to move teeth too fast. For more details, see our guide on [Adult Braces Options](/article/adult-braces-options-complete-guide.html).
+When your orthodontist puts pressure on a tooth, that pressure transfers through the ligament holding your tooth in place (called the periodontal ligament) to the bone around the tooth. Your body responds by dissolving bone on the pressure side (letting the tooth move forward) and building new bone on the tension side (filling in behind the tooth). These bone changes take time because your body is careful not to move teeth too fast.
 
 ## How Teeth Actually Move
 
@@ -101,27 +100,15 @@ Braces take 18 to 28 months because your body carefully remodels bone as teeth m
 
 However, even accelerated treatment can't skip necessary steps—it just completes them faster. For most patients, regular braces remain the best option. If rapid treatment is important for your circumstances, discuss acceleration methods with your orthodontist to determine if one might be right for you.
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
+Related reading: [Premolar Extraction in Orthodontia Indication Debate](/article/premolar-extraction-in-orthodontia-indication-debate.html) and [Common Misconceptions About Braces Food Restrictions](/article/common-misconceptions-about-braces-food-restrictions.html).
 
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
 
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
-
-> **Key Takeaway:** A typical braces treatment takes 18 to 28 months. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** Accelerated orthodontics works by jumpstarting this natural bone remodeling through surgical, light, or vibrational techniques, potentially saving 6 to 12 months of treatment.
 
 ## Related Articles
 

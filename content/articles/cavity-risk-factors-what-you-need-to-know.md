@@ -22,7 +22,6 @@ references:
   - "Ismail AI, Tellez M, Pitts NB. White spot lesions: emergence and apparent resolution with evidence-based interventions. J Dent Res. 2015;94(2):282-290."
   - "Wigen TI, Wang NJ. Maternal education is associated with early childhood caries. Community Dent Oral Epidemiol. 2010;38(4):285-292."
 ---
-
 Cavities don't just happen—they develop when specific conditions come together in your mouth. The good news? You understand these conditions, you can control several of them. This guide breaks down the main cavity culprits and what you can realistically do about each one.
 
 ## The Basic Cavity Recipe
@@ -87,7 +86,7 @@ Your dentist has tools you can't use at home. Dental sealants—thin protective 
 
 Cavities develop when cavity-causing bacteria have sugar to eat, time to produce acid, and teeth that can't fight back. Understanding these factors means understanding what you can control. Diet choices, how often you eat, brushing, flossing, and fluoride all matter. Work with your dentist to assess your individual risk and create a prevention plan that fits your life.
 
-> **Key Takeaway:** Four key factors determine whether you develop cavities—and most of them are things you can control.
+> **Key Takeaway:** Cavities don't just happen—they develop when specific conditions come together in your mouth.
 
 ## Related Articles
 

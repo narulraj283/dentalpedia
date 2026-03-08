@@ -32,7 +32,6 @@ references:
   - title: "Bishara SE, Nowak AJ. Sagittal and vertical dental development. Semin Orthod. 1999;5(4):263-271."
     url: https://pubmed.ncbi.nlm.nih.gov/10647343
 ---
-
 ## Introduction
 
 When your child is between 6 and 12 years old, their mouth is undergoing major changes. Both baby teeth and permanent teeth are present at the same time—a phase called the mixed dentition. Your pediatric dentist watches closely during these years to make sure everything is developing correctly. Sometimes your dentist will talk about "space maintenance" or predict whether your child will have crowding problems later. Understanding what your dentist is looking for helps you support your child's healthy tooth development and potentially prevent expensive orthodontic treatment down the road.
@@ -166,9 +165,6 @@ Non-extraction intervention with guidance appliances achieves successful outcome
 
 Long-term stability of space management outcomes depends on establishing proper interarch relationships, adequate overjet and overbite, and proper intercanine relationships. Space management that results in edge-to-edge or anterior crossbite relationships often shows instability requiring eventual orthodontic correction.
 
-## Conclusion
-
-The mixed dentition years are a critical time when small interventions can prevent significant dental problems later. Your pediatric dentist's space analysis during regular checkups helps predict your child's future tooth position and crowding risk. Early action—whether through simple space maintenance, gentle expansion, or strategic extractions—often makes the difference between a lifetime of healthy alignment and years of orthodontic treatment. Trust your dentist's recommendations about what your child's developing mouth needs to stay healthy and properly aligned.
 
 ## Conclusion
 

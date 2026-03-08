@@ -45,7 +45,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Wound Healing After Oral Surgery - Phases, Timeline
 ---
-
 ## Introduction
 
 Your body has an amazing built-in healing system that activates immediately after surgery. Healing happens in predictable phases over weeks and months, with specific biological events occurring at each stage. Understanding what's happening in your mouth helps you recognize normal healing, follow postoperative instructions that actually matter, and know when to contact your surgeon. This guide explains the science of how wounds heal, what you can do to optimize the process, and what timeline to expect for complete recovery.

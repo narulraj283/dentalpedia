@@ -45,7 +45,6 @@ subcategory: Endodontic Overview
 subcategory_slug: overview-endo
 title: Root Canal Therapy Success Rate and Long-Term Outcomes
 ---
-
 ## What Does Success Really Mean for Your Root Canal?
 
 When your dentist recommends root canal treatment, one big question you probably have is: "What are my chances that this will actually work?" The good news is that root canal treatment has excellent success rates—85-95% depending on what researchers mean by "success." But success isn't just about whether your tooth feels fine. It's about complete healing of the infection pocket around your root and your tooth staying healthy long-term.
@@ -111,6 +110,6 @@ Root canal treatment succeeds 85-95% of the time overall, with your specific suc
 - [Root Canal Therapy Complete Pulp Removal](/article/root-canal-therapy-complete-pulp-removal.html)
 - [Root Canal Treatment Complete Step-by-Step Guide](/article/root-canal-treatment-complete-step-by-step-guide.html)
 
-- [Stainless Steel Endodontic Files: Metallurgy,](/article/stainless-steel-files-traditional-material.html)
+- [Stainless Steel Endodontic Files: Metallurgy](/article/stainless-steel-files-traditional-material.html)
 - [When Do You Need a Root Canal? Common Signs and](/article/when-do-you-need-a-root-canal-common-signs.html)
 

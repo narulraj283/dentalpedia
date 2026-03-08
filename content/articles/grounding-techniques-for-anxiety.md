@@ -32,7 +32,6 @@ references:
   - title: "Porritt AM, Buchanan H, Hall M, et al. Introdution to Dental Public Health and Research. Elsevier Health Sciences; 2012:144-178."
     url: "https://www.ncbi.nlm.nih.gov/pubmed"
 ---
-
 ## Why Dental Anxiety Happens
 
 Feeling nervous about the dentist is incredibly common. In fact, about 5-8% of adults experience serious dental anxiety that affects their health. If this is you, you're not alone. Dental anxiety usually starts with a bad experience—maybe something hurt more than expected, or you felt like you weren't in control. Once that happens, your brain can start to expect the worst every time you schedule an appointment.

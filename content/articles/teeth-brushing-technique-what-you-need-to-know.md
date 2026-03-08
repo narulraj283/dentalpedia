@@ -32,7 +32,6 @@ references:
   - title: "Jackson RD, et al. Electric toothbrush efficacy for plaque removal and gingival bleeding reduction. J Dent Hyg. 2001;75(4):283-289."
     url: https://pubmed.ncbi.nlm.nih.gov/11846486
 ---
-
 ## Master the 45-Degree Angle
 
 The most important thing you can do to prevent cavities is to position your toothbrush at a 45-degree angle pointing toward your gum line. This is where the magic happens. About half your bristles should touch the crown of your tooth, and half should touch your gum tissue. This angle allows your bristles to penetrate the tiny space between tooth and gum where plaque bacteria congregate and hide from cleaning.
@@ -132,6 +131,9 @@ Whitening toothpastes use either abrasive particles to remove stains mechanicall
 ## Protect Your Enamel After Acidic Foods
 
 Acidic foods and beverages (citrus, soda, wine, sports drinks) temporarily soften your enamel. Brushing immediately after acid exposure can accelerate enamel wear and cause long-term damage. Instead, rinse with water and wait 20-30 minutes for your saliva to neutralize the acid, then brush. For people with frequent acid exposure (athletes consuming sports drinks, people with reflux disease), wait 30+ minutes or use a fluoride rinse instead of brushing immediately.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

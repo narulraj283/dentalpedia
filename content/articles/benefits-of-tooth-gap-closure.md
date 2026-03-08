@@ -1,33 +1,41 @@
 ---
-title: Diastema and Gap Management - Etiology, Treatment Options,
-slug: benefits-of-tooth-gap-closure
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: "Gaps between teeth (called diastemas) can be closed, but the best approach depends on how big the gap is and what caused it."
 date: 2026-03-06
+excerpt: Gaps between teeth (called diastemas) can be closed, but the best approach
+  depends on how big the gap is and what caused it.
 read_time: 8 min
+references:
+- Barceló H. [Prevalence of midline diastema in the permanent dentition of patients
+  ages 15 to 35 years]. Acta Odontol Venezol. 1982;20(2):231-246.
+- Matuo R, Sanchez-Marin C, Matuo H, Nakamura K. Prevalence of diastema between central
+  upper incisors in young adults. Community Dent Health. 1990;7(1):39-43.
+- Porters R, Van Dyke GC, Shawd EJ. The 'frenum' problem and its management in orthodontics.
+  J Clin Orthod. 1974;8(4):184-194.
+- Giger W, Chong CC, Chang TL, et al. Stability of diastema closure. J Prosthet Dent.
+  1990;63(4):438-443.
+- Sanderink GC, van der Linden FP, Aartman IH, Kreulen CM. Radiographic criteria for
+  diastema closure. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 1998;85(2):213-217.
+- Shumaker DJ. A new procedure for aesthetic correction of diastema using a light-activated
+  composite resin. J Esthet Dent. 1996;8(1):14-18.
+- 'Geiger AM, Gorelick L. Orthodontic treatment planning for diastema closure: a review.
+  Quintessence Int. 1998;29(12):763-768.'
+- 'Sheridan JC, Hastings JC. Air-rotor stripping and proximal contours: part 1. J
+  Clin Orthod. 1992;26(6):345-355.'
+reviewed: true
 reviewer_specialty: Cosmetic Dentistry
+slug: benefits-of-tooth-gap-closure
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
-reviewed: true
-references:
-  - "Barceló H. [Prevalence of midline diastema in the permanent dentition of patients ages 15 to 35 years]. Acta Odontol Venezol. 1982;20(2):231-246."
-  - "Matuo R, Sanchez-Marin C, Matuo H, Nakamura K. Prevalence of diastema between central upper incisors in young adults. Community Dent Health. 1990;7(1):39-43."
-  - "Porters R, Van Dyke GC, Shawd EJ. The 'frenum' problem and its management in orthodontics. J Clin Orthod. 1974;8(4):184-194."
-  - "Giger W, Chong CC, Chang TL, et al. Stability of diastema closure. J Prosthet Dent. 1990;63(4):438-443."
-  - "Sanderink GC, van der Linden FP, Aartman IH, Kreulen CM. Radiographic criteria for diastema closure. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 1998;85(2):213-217."
-  - "Shumaker DJ. A new procedure for aesthetic correction of diastema using a light-activated composite resin. J Esthet Dent. 1996;8(1):14-18."
-  - "Geiger AM, Gorelick L. Orthodontic treatment planning for diastema closure: a review. Quintessence Int. 1998;29(12):763-768."
-  - "Sheridan JC, Hastings JC. Air-rotor stripping and proximal contours: part 1. J Clin Orthod. 1992;26(6):345-355."
+title: Diastema and Gap Management - Etiology, Treatment Options
 ---
-
 ## Closing Gaps Between Your Teeth: Options for Every Gap Size
 
-Gaps between teeth (called diastemas) can be closed, but the best approach depends on how big the gap is and what caused it. Some gaps are normal during childhood and close naturally. Others persist and need treatment. Let's talk about what options exist and how to keep gaps from reopening after closure. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
+Gaps between teeth (called diastemas) can be closed, but the best approach depends on how big the gap is and what caused it. Some gaps are normal during childhood and close naturally. Others persist and need treatment. Let's talk about what options exist and how to keep gaps from reopening after closure.
 
 ## Why Gaps Happen
 
-Most kids have small gaps between their front teeth while permanent teeth are erupting. This is completely normal. When the canines come in around age 12-13, they usually fill in the space naturally. So gaps are super common in kids and usually not a problem. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
+Most kids have small gaps between their front teeth while permanent teeth are erupting. This is completely normal. When the canines come in around age 12-13, they usually fill in the space naturally. So gaps are super common in kids and usually not a problem.
 
 If a gap persists into the teen years or adulthood, something is creating it. The most common cause is tooth size mismatch—your lateral incisors (the teeth next to your front teeth) might be genuinely smaller than normal, leaving a space that won't close on its own.
 
@@ -136,11 +144,6 @@ Primary dentition diastemata and early mixed dentition spacing are frequently no
 
 Most permanent diastemata that persist after full eruption (ages 13+) require treatment; however, early mixed dentition spacing should usually be observed.
 
-## Conclusion: Etiology-Driven Treatment Selection
-
-Diastema closure requires systematic evaluation of underlying etiology, selection of treatment approach appropriate for gap size and cause, and mandatory relapse prevention. Whether achieved through simple same-day composite bonding, esthetic veneers, or comprehensive orthodontics, successful diastema management delivers the esthetic improvement patients seek while preventing the relapse that commonly occurs without retention.
-
----
 
 ## References
 
@@ -164,11 +167,14 @@ Diastema closure requires systematic evaluation of underlying etiology, selectio
 
 10. Esposito M, Ekestubbe A, Gröndahl K. Radiographic assessment of apical periodontitis and endodontic treatment in a Swedish population. Int Endod J. 2002;35(2):154-164.
 
+
+Related reading: [Buccal Corridors: Impact on Smile Esthetics and Facial](/article/buccal-corridors-impact-on-smile-aesthetics.html) and [How Long Do Dental Veneers Last? A Patient's Guide](/article/veneer-durability-facts-what-you-need-to-know.html).
+
 ## Conclusion
 
 : Gaps Are Closable, But Require Commitment
 
-> **Key Takeaway:** Gaps between teeth (called diastemas) can be closed, but the best approach depends on how big the gap is and what caused it.
+> **Key Takeaway:** Some gaps are normal during childhood and close naturally. Others persist and need treatment.
 
 ## Related Articles
 

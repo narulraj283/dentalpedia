@@ -42,7 +42,6 @@ subcategory: Nutrition Overview
 subcategory_slug: overview-nutrition
 title: Sipping Drinks Throughout Day Cavity Risk Behavior
 ---
-
 ## Why Sipping Drinks All Day Harms Your Teeth
 
 Constant sipping of acidic or sugary beverages is one of the worst habits for your teeth. Whether it's soda, energy drinks, juice, or even sports drinks, sipping throughout the day bathes your teeth in acids and sugars that cause cavity formation and erosion. Unlike drinking a beverage in one sitting, which exposes your teeth to acid for a limited time, sipping over hours creates a nearly constant acidic environment in your mouth.
@@ -82,14 +81,6 @@ You're at extreme risk from sipping if you take medications that cause dry mouth
 ## Fluoride and Sealants for Frequent Sippers
 
 If you're a frequent sipper, regular fluoride treatments strengthen your enamel and help remineralization during your mouth's limited recovery periods. Dental sealants protect the chewing surfaces of your molars from both cavities and erosion. These preventive treatments are particularly important if your sipping habit is difficult to change. Explore more about [Balanced Diet and Dental Health](/article/balanced-diet-and-dental-health.html) and [Tooth Decay Prevention](/article/tooth-decay-prevention-complete-guide.html).
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about sipping beverages throughout the day: stephan curve,... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## What to Expect During Your Visit
 

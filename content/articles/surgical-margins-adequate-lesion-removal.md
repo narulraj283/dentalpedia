@@ -18,7 +18,6 @@ references:
   - title: "Epstein JB, Feldman R, Dolor RJ, Sciubba J. The utility of toluidine blue application as a diagnostic aid in patients with oral epithelial dysplasia and carcinoma. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2003;96(3):325-329."
     url: https://pubmed.ncbi.nlm.nih.gov/12973489
 ---
-
 ## Introduction
 
 If your surgeon removes an oral lesion (abnormal tissue growth, precancerous area, or tumor), they're thinking about something important: surgical margins. This means removing enough healthy tissue around the lesion to make sure all the abnormal cells are gone. Think of it like this: when gardeners pull a weed, they pull the whole root, not just the visible part. Your surgeon does the same. Understanding margins helps you understand why your surgeon removes the tissue they do and what happens if margins aren't clear.
@@ -107,12 +106,6 @@ Will you check margins during surgery?
 4. What do clear vs. close vs. involved margins mean for me specifically?
 5. If margins aren't clear, what happens next?
 6. How often do I need follow-up visits?
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss surgical margins adequate lesion removal, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

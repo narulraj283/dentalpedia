@@ -32,7 +32,6 @@ references:
   - title: "Demarco FF, Collares K, Coulthard LR, et al. Longevity of aesthetic restorations and factors that influence retention rates of direct restorations. J Esthetic Restor Dent. 2013;25(1):72-85."
     url: https://pubmed.ncbi.nlm.nih.gov/23351080
 ---
-
 ## Planning Your Smile Transformation: A Step-by-Step Process
 
 If you're getting a smile makeover, your dentist will follow a carefully organized plan to make sure every step leads toward your beautiful new smile. Unlike getting one filling or one crown, a smile makeover involves multiple steps that build on each other. Your dentist will coordinate different types of treatment—maybe braces, whitening, gum work, and restorations—all working together toward your goal. Understanding this process helps you see why it takes time and why certain treatments happen in a certain order.

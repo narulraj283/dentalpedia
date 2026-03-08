@@ -1,11 +1,11 @@
 ---
+category: General Dentistry
 category_slug: general-dentistry
 excerpt: If your dentist needs to do a root canal, you might hear them talk about
   "files" and "taper." A file is a tool used to clean and shape the canal inside
 slug: taper-file-cone-shape
 title: Taper File Cone Shape
 ---
-
 ## Understanding File Taper and Why It Matters
 
 If your dentist needs to do a root canal, you might hear them talk about "files" and "taper." A file is a tool used to clean and shape the canal inside your tooth's root. The "taper" is how quickly the file gets thicker from its tip to its wider part—kind of like the difference between a pencil point and a larger pencil shaft.

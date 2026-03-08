@@ -49,7 +49,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Periodontal Disease Diagnosis Tests and Measurements
 ---
-
 ## How Your Dentist Diagnoses Gum Disease
 
 Your dentist uses several different tools and measurements to diagnose gum disease. No single test tells the whole story—instead, your dentist combines information from examining your gums, probing specific measurements, looking at X-rays, and sometimes testing for bacteria. Together, these tools give your dentist a clear picture of whether you have gum disease and how advanced it is.

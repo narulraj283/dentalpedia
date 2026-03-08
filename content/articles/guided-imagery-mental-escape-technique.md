@@ -28,7 +28,6 @@ references:
   - title: "Anxiety Assessment and Pain Perception in Dental Treatment"
     url: "https://pubmed.ncbi.nlm.nih.gov/20178489/"
 ---
-
 ## Your Brain Can Help You Relax
 
 Many people skip dental appointments because they're anxious. If that's you, you're not alone—about 15 percent of adults struggle with dental anxiety. The good news? Your brain has a built-in relaxation system that you can activate on purpose.

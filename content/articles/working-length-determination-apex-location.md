@@ -30,7 +30,6 @@ references:
   - title: "Apex visualization and treatment outcomes in endodontic success"
     url: https://pubmed.ncbi.nlm.nih.gov/24717831/
 ---
-
 ## Why Measuring Your Tooth's Root Canal Matters
 
 If you're getting a root canal, your endodontist (root canal specialist) or dentist spends time precisely measuring how long your tooth's root canal is. This might seem like a minor detail, but it's actually one of the most important steps in making sure your root canal succeeds. Here's why: if they don't clean deep enough, bacteria remain deep inside your tooth and the treatment fails. If they go too deep, they can damage healthy tissue beyond the tooth root and cause pain afterward. Getting the measurement right is the key to success.
@@ -91,12 +90,6 @@ A 3D scan gives a three-dimensional picture of your entire root system, eliminat
 Once your endodontist confirms the working length, they mark the file at the exact length (marking it with a color or rubber stop). Then they use that marked length for all the tools they use throughout the treatment. Every file goes to the same measured depth. After cleaning, the sealing material is placed to that same depth. This consistency throughout treatment is what makes root canals successful.
 
 Your endodontist also re-checks the length as they work, especially if they encounter calcified canals or if the canal pathway changes.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss working length determination apex location, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

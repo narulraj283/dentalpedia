@@ -46,7 +46,6 @@ subcategory: Pediatric Overview
 subcategory_slug: overview-peds
 title: Pacifier and Thumb Sucking Impact on Teeth Development
 ---
-
 ## How Common Are Sucking Habits?
 
 Thumb sucking and pacifier use are completely normal parts of childhood development. Nearly all children between 3 and 4 years old engage in some form of sucking behavior, which helps them feel calm and secure. These habits naturally decline over time—by age 6 or 7, most children have stopped on their own. However, when these habits continue beyond age 3 or 4 years, they can start affecting how your child's teeth grow and develop.

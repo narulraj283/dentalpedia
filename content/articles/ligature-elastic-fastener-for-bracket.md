@@ -32,7 +32,6 @@ references:
   - title: "Clinical outcomes comparison of ligature systems and treatment efficiency"
     url: https://www.ncbi.nlm.nih.gov/pubmed/24992413
 ---
-
 ## What Are Ligatures?
 
 Ligatures are the small elastic bands (or wires) that wrap around your brackets to hold the archwire in place. They're essential components of traditional braces—without them, the wire would fall out. You probably notice them right away—they come in various colors, and you can choose your favorite shade at each appointment.
@@ -82,12 +81,6 @@ Whether you have traditional brackets with ligatures or self-ligating brackets w
 ## Choosing Your Colors
 
 One of the fun aspects of braces is choosing ligature colors. You can select all one color, create patterns, or pick different colors for the holidays. Your orthodontist will ask at each appointment what colors you'd like. This small choice makes the braces experience more personalized.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about ligature elastic fastener for bracket and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

@@ -28,10 +28,9 @@ references:
   - title: "Integration of Cancer Screening into Comprehensive Dental Practice"
     url: https://www.ncbi.nlm.nih.gov/pubmed/45678901
 ---
+Most oral cancers are found late, when treatment becomes complex and survival rates drop dramatically. But your dentist can catch these cancers early when treatment options are better and survival rates exceed 75%. Here's what screening involves and why it matters.
 
 ## Why Screening Matters
-
-Oral cancer screening saves lives. That's not exaggeration—it's fact. Oral cancers caught early have 70-80 percent five-year survival rates.
 
 The same cancers caught late have 40-50 percent survival. Early detection dramatically improves outcomes. Most dentists screen all patients at regular visits; higher-risk patients need more frequent screening.
 

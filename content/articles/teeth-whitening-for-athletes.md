@@ -47,7 +47,6 @@ subcategory: Sports Dentistry Overview
 subcategory_slug: overview-sports
 title: 'Athletic Whitening Considerations: Enamel Integrity'
 ---
-
 ## Introduction
 
 If you're an athlete thinking about teeth whitening, you've got some unique considerations to keep in mind. Athletes often deal with sports drinks that can wear down tooth enamel, plus the stress of training schedules that need to work with whitening treatments. The good news is that with the right preparation and timing, you can definitely achieve a brighter smile while keeping your teeth strong and healthy. This guide walks you through what you need to know before and after whitening.

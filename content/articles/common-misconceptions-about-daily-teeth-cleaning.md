@@ -22,7 +22,6 @@ references:
   - "Petker A, Needleman I, Newlands R. The effect of powered toothbrushing on bleeding and plaque. J Periodontol. 2001;72(7):857-864."
   - "Addy M, Moran J. Mechanisms of stain formation on teeth. Int Dent J. 2002;52(S5):368-376."
 ---
-
 ## There's a Right Way and a Wrong Way to Brush
 
 You probably brush your teeth every day, but are you doing it right? This might seem silly, but proper brushing technique is way more important than most people realize. Wrong technique removes only 35-45% of plaque. Right technique removes 75-85% of plaque.
@@ -93,12 +92,6 @@ Make nighttime brushing a priority even if you're tired.
 
 After brushing with fluoride toothpaste, rinse minimally with water or don't rinse at all. The fluoride works better if you leave some on your teeth rather than rinsing it all away. You only need a quick rinse to remove excess paste.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about daily teeth cleaning and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed daily teeth cleaning, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -107,7 +100,7 @@ Once you've addressed daily teeth cleaning, maintaining your results requires on
 
 Effective daily cleaning requires proper brushing technique (the Bass technique works best), brushing for 2-3 minutes with light pressure, fluoride toothpaste, and daily interdental cleaning. Just going through the motions doesn't prevent cavities and gum disease. But doing it right significantly reduces your disease risk.
 
-> **Key Takeaway:** Effective daily cleaning requires proper brushing technique, fluoride, and flossing—just going through the motions doesn't prevent cavities or gum disease.
+> **Key Takeaway:** You probably brush your teeth every day, but are you doing it right?
 
 ## Related Articles
 

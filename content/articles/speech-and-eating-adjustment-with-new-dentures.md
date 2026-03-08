@@ -32,7 +32,6 @@ references:
   - title: "Sarita PT, Kreulen CM, Witter DJ, Creugers NH. Prosthodontic and psychosocial aspects of removable dentures. J Oral Rehabil. 2003;30(3):271-287."
     url: https://pubmed.ncbi.nlm.nih.gov/12588498
 ---
-
 ## Getting Used to Your New Dentures Takes Time
 
 When you transition from your natural teeth to dentures, you're asking your brain and your mouth to relearn skills you've been doing automatically for decades. Speaking clearly and eating comfortably are habits you've mastered, but your dentures work differently than your natural teeth—so your mouth needs a new learning period. This might sound intimidating, but understanding what to expect and knowing there's a clear timeline for improvement makes the adjustment much easier. Most people successfully adapt within 4-6 weeks with proper guidance and practice.

@@ -23,7 +23,6 @@ subcategory: TMJ & Sleep Overview
 subcategory_slug: overview-tmj-sleep
 title: Jaw and Muscle
 ---
-
 ## What Is Myofascial Pain?
 
 Orofacial myofascial pain is chronic pain originating from muscles of mastication (the muscles you use to chew) and surrounding facial and neck muscles. It's one of the most common chronic pain conditions, affecting five to twelve percent of the population, particularly women and people under stress. The pain feels like a dull ache or soreness in your jaw muscles, often worse when chewing and exacerbated by stress.

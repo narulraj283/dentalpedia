@@ -20,7 +20,6 @@ references:
   - "American Dental Association. Infection prevention and control in the dental office: recommendations of the CDC. MMWR Recomm Rep. 2003;52(RR-17):1-61."
   - "Pallasch TJ. Global antibiotic resistance and its impact on oral health and our ability to treat oral infections. J Calif Dent Assoc. 2003;31(2):135-144."
 ---
-
 ## Understanding Infection Risk in Dental Treatment
 
 Dental procedures—especially tooth extraction or gum disease treatment—can occasionally cause infections. For most healthy people, this isn't a huge concern because your immune system handles it. But for people with certain heart conditions, prosthetic joints, or weakened immune systems, even a tiny infection could create big health problems. That's where infection prevention comes in, and it's surprisingly affordable.
@@ -99,12 +98,6 @@ Most insurance plans cover antibiotic prophylaxis as medically necessary when yo
 
 If you're uninsured, the $10-75 antibiotic cost is still incredibly cheap compared to treating an infection.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about infection prevention and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed infection prevention, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -113,7 +106,7 @@ Once you've addressed infection prevention, maintaining your results requires on
 
 Infection prevention through antibiotic prophylaxis and good home care costs $50-150 for at-risk patients and prevents $3,000-200,000+ in infection treatment costs. If you have cardiac conditions, a prosthetic joint, or a weak immune system, discuss infection prevention with your dentist before any procedure. The investment is minimal, but the protection is enormous.
 
-> **Key Takeaway:** Dental procedures—especially tooth extraction or gum disease treatment—can occasionally cause infections.
+> **Key Takeaway:** For most healthy people, this isn't a huge concern because your immune system handles it. But for people with certain heart conditions, prosthetic joints, or weakened immune systems, even a tiny infection could create big health problems.
 
 ## Related Articles
 

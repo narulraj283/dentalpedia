@@ -28,7 +28,6 @@ references:
   - title: "Salvadora persica root bark extract: pharmacological investigation of traditional oral care preparation"
     url: https://www.ncbi.nlm.nih.gov/pubmed/21447145
 ---
-
 Miswak is a tooth-cleaning stick made from the roots and twigs of the Salvadora persica tree. Used for over 7,000 years across Middle Eastern and African cultures, miswak represents one of humanity's oldest oral hygiene tools. Modern research confirms what traditional cultures always knew: miswak works. Not better than modern toothbrushes—just as well—and with interesting antimicrobial properties that laboratory studies demonstrate are genuinely effective.
 
 ## What Miswak Actually Is

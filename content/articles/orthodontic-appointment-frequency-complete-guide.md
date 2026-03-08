@@ -28,7 +28,6 @@ references:
   - title: "Shia JJ, Seo YJ, Chang CH, et al. Quantitative analysis of biological response patterns to orthodontic forces. Semin Orthod. 2005;11(3):140-147."
     url: https://pubmed.ncbi.nlm.nih.gov/16174372
 ---
-
 ## Why Your Appointment Schedule Matters
 
 When you start orthodontic treatment, your orthodontist schedules appointments every four weeks—and this timing isn't random. It's actually based on how your body naturally moves teeth. After your orthodontist applies force to your teeth, your body's natural healing response kicks in, and this biological process works on a specific schedule. The inflammatory process that allows your teeth to move peaks around three to four weeks after the force is applied, which is exactly why four-week appointments work best. Skipping or delaying your appointments disrupts this natural process and means your treatment takes longer than necessary.

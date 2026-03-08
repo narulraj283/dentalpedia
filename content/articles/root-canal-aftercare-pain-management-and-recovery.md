@@ -32,7 +32,6 @@ references:
   - title: "Fouad AF. Endodontic microbiology. John Wiley & Sons. 2018."
     url: https://pubmed.ncbi.nlm.nih.gov/29457313
 ---
-
 ## What Happens After Your Root Canal Treatment
 
 Root canal treatment (RCT) removes the infected nerve tissue from inside your tooth. Many people expect the procedure itself to be painful (it's not—your tooth is numbed), but then expect perfect healing afterward. The reality is more nuanced. Most people experience some discomfort during recovery, but it's manageable and temporary.
@@ -110,14 +109,6 @@ Root canal treatment has success rates exceeding 90% in most studies. Most treat
 - Maintaining that crown in good condition
 - Regular professional cleanings and monitoring
 - Promptly addressing any problems with the restoration
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about root canal aftercare, pain management and recovery and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

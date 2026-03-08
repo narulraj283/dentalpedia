@@ -32,7 +32,6 @@ references:
   - title: "Esthetic changes in veneers over time"
     url: https://www.ncbi.nlm.nih.gov/pubmed/34678901
 ---
-
 ## Porcelain Veneers: The Durable Option
 
 Quality porcelain veneers typically last 10-15 years, and many last even longer with excellent care. Porcelain is an extremely durable material that resists staining and doesn't wear like composite resin. If you have well-made porcelain veneers and take good care of them, you might get 15-20+ years of use before replacement becomes necessary. Learning more about [Porcelain Veneers: Installation and Design Process](/article/how-to-veneer-installation-steps.html) can help you understand this better.
@@ -86,12 +85,6 @@ Take care of your underlying teeth too. If decay develops under a veneer or gum 
 Replacing a veneer typically costs less than placing the original veneer because tooth preparation is minimal—your dentist just removes the old veneer and bonds a new one. However, if the underlying tooth has problems, additional treatment and cost might be necessary.
 
 This is why quality initial veneer work is so important—it means fewer problems and less need for expensive future work.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about how to veneer durability facts and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Signs Your Veneers Need Attention
 

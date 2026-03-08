@@ -32,7 +32,6 @@ references:
   - title: "Walsh MM, Darby ML, Bowen DM. A comparison of conventional manual and powered toothbrushes using four different evaluation methods. J Clin Dent. 1999;10(2):36-40."
     url: https://pubmed.ncbi.nlm.nih.gov/10476660
 ---
-
 ## Introduction
 
 When you're shopping for a toothbrush, you might notice that some have soft, medium, or hard bristles. Does it really matter which one you choose? Many people assume that harder bristles clean better, but actual research shows something surprising—soft bristles work just as well while being gentler on your gums. Understanding what bristle hardness really means can help you pick the right toothbrush for your teeth and gums.

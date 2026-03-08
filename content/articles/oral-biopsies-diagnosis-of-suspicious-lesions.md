@@ -28,7 +28,6 @@ references:
   - title: "Follow-up Management After Oral Biopsy Results and Clinical Implications"
     url: https://www.ncbi.nlm.nih.gov/pubmed/39012345
 ---
-
 ## Why Your Dentist Might Recommend a Biopsy
 
 When your dentist sees something unusual in your mouth—a stubborn ulcer, an odd-colored patch, a bump that's been there too long—they might recommend a biopsy. A biopsy simply means taking a tiny sample of that tissue to examine under a microscope. It's the only way to know for sure what's going on. Your dentist might suspect it's nothing serious, but they can't be certain without looking at the cells themselves.

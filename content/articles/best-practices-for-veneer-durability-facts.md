@@ -33,7 +33,6 @@ subcategory: Veneers & Laminates
 subcategory_slug: veneers
 title: 'Veneer Durability and Longevity: Clinical Outcomes'
 ---
-
 ## Direct Composite Veneer Longevity and Failure Mechanisms
 
 ## Tooth-Colored Composite Veneers: What to Expect

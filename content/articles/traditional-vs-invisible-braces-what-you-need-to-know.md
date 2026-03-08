@@ -32,7 +32,6 @@ references:
   - title: "Campbell PM. The dilemma of Class II treatment. Angle Orthod. 2005;75(2):147-154."
     url: https://pubmed.ncbi.nlm.nih.gov/15898489
 ---
-
 ## Choosing Your Orthodontic Treatment
 
 If you've been told you need braces, you might be wondering whether traditional metal braces or clear aligners are the better choice for you. The truth is, both can work well—but they're different in important ways. This guide explains what to expect from each option so you can have an informed conversation with your orthodontist about which treatment is right for your situation, your lifestyle, and your priorities.
@@ -138,21 +137,6 @@ Adults often choose aligners because appearance matters at work. If your maloccl
 ### If Oral Hygiene Is a Challenge
 
 If you've always struggled to keep your teeth clean, aligners take away the biggest oral hygiene challenge of braces. But don't skip your orthodontist's recommendation if they say your case needs braces.
-
-## Questions to Ask Your Orthodontist
-
-Before you decide, ask:
-
-1. Is my tooth situation something aligners can handle, or do I need braces?
-2. How long will my treatment take with each option?
-3.
-
-What's the actual cost for my situation, and what will insurance cover?
-4. How likely am I to get white spot lesions with braces?
-5. If I choose aligners, what happens if I skip wearing them?
-6. What's your backup plan if my first choice isn't working?
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 

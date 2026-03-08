@@ -20,7 +20,6 @@ references:
   - "Johnson DL. Diastema closure and relapse. J Prosthet Dent. 1975;33(2):175-186."
   - "Cloarec M, Cloarec F, Rouleau P, Lemaire JJ, Blondeau F. Treatment of anterior diastema by esthetic restoration: clinical observations and finite element analysis. J Prosthet Dent. 1999;82(1):24-30."
 ---
-
 ## Closing the Gap: Your Options for Tooth Spacing
 
 A gap between your front teeth is one of the most common esthetic concerns, and fortunately, you have multiple effective options to fix it. What works best depends on the gap size, what's causing it, and what you're willing to commit to long-term.

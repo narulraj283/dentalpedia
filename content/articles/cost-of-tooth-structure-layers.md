@@ -22,7 +22,6 @@ references:
   - "Marshall SJ, Bayne SC, Baier R, Tomsia AP, Marshall GW. A review of adhesion to tooth structure. J Dent Res. 2010;89(4):352-365."
   - "Roberson TM, Heymann HO, Swift EJ. Sturdevant's Art and Science of Operative Dentistry. 5th ed. Mosby; 2006."
 ---
-
 ## The Three Layers of Your Tooth
 
 Your tooth has three layers, and understanding them explains why treatment costs change dramatically as cavities get deeper. Learning more about [Cost of Tooth Decay Prevention](/article/cost-of-tooth-decay-prevention.html) can help you understand this better. The outer layer is enamel, the middle layer is dentin, and the inner layer is pulp containing the nerve. Decay starting at the surface and progressing deeper becomes more complex and expensive as it advances.
@@ -79,12 +78,6 @@ The type of filling your dentist uses depends on depth and location. Enamel-only
 
 Newly restored cavities sometimes cause sensitivity—to temperature, pressure, or touching. Sensitivity usually resolves within days to weeks as the tooth stabilizes. If sensitivity persists beyond a few weeks, contact your dentist. Prolonged sensitivity might indicate inadequate seal or remaining decay requiring retreatment.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about tooth structure layers and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed tooth structure layers, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -93,7 +86,7 @@ Once you've addressed tooth structure layers, maintaining your results requires 
 
 Shallow enamel cavities cost $150 to $300 to fill. Dentin cavities cost $300 to $600. Pulp involvement requires root canal ($800-$1,200) plus crown ($800-$2,000) totaling $1,600 to $3,200. Prevent expensive deep cavities by visiting your dentist every 6 months for early detection.
 
-> **Key Takeaway:** Understand tooth anatomy—enamel, dentin, and pulp—to understand why shallow cavities cost $200-$600 while deep cavities cost $1,600-$3,200.
+> **Key Takeaway:** Your tooth has three layers, and understanding them explains why treatment costs change dramatically as cavities get deeper.
 
 ## Related Articles
 

@@ -20,16 +20,15 @@ references:
   - "Young DA, Featherstone JD, Roth JR, et al. Caries Management by Risk Assessment: consensus-based clinical practice guideline. J Am Dent Assoc. 2016;147(10):797-809."
   - "Weyant RJ, Vestergaard TH, McGaghie WC, et al. Pit and fissure sealants as a model for evidence-based clinical practice. J Dent Educ. 2002;66(10):1151-1159."
 ---
-
 ## Preventing Cavities: The Practical Guide to Keeping Teeth Healthy
 
-Cavities are completely preventable. That might sound wild because so many people get them, but it's true. The cost difference is huge: prevention costs about $50-150 per year while treating cavities costs $150-500 per cavity. If you need a root canal because a cavity got infected, that's $500-2,000.
+Cavities are completely preventable. That might sound wild because so many people get them, but it's true. The cost difference is huge: prevention costs about $50-150 per year while treating cavities costs $150-500 per cavity. If you need a root canal (endodontic therapy) because a cavity got infected, that's $500-2,000.
 
-Getting an implant to replace a tooth lost to decay costs $3,000-6,000. Prevention is way cheaper and way easier than treatment. Here's what actually works. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+Getting an implant to replace a tooth lost to decay costs $3,000-6,000. Prevention is way cheaper and way easier than treatment. Here's what actually works.
 
 ## Stop Cavities Before They Start
 
-The best cavity prevention is fluoride. It works so well that decades of research consistently shows 20-40% fewer cavities in people who use fluoride regularly. The best part? It's inexpensive and simple. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+The best cavity prevention is fluoride. It works so well that decades of research consistently shows 20-40% fewer cavities in people who use fluoride regularly. The best part? It's inexpensive and simple.
 
 Fluoride in your toothpaste is your first line of defense. Brush twice daily with regular fluoride toothpaste (1,450 parts per million). Kids under 3 should use non-fluoride or low-fluoride toothpaste, kids 3-6 should use pea-sized amounts of regular fluoride toothpaste, and kids 6+ can use standard fluoride. If your family has high cavity risk, your dentist can prescribe high-fluoride toothpaste (5,000 ppm) for 15-20% additional cavity prevention.
 
@@ -163,41 +162,16 @@ Patients with high caries incidence require intensified prevention beyond standa
 
 This intensified multifactorial approach addresses caries through simultaneous protection (fluoride), early detection (frequent assessment), dietary modification, and bacterial control (antimicrobials).
 
-## Conclusion: Prevention as Standard of Care
 
-Caries prevention through systematic fluoride application, sealant placement, and dietary modification prevents the majority of caries disease. Cost is minimal ($50-150 annually) compared to treatment ($150-500 per restoration; $500-2,000 per root canal; $3,000-6,000+ per implant). Despite prevention's effectiveness and economic advantage, many patients lack access to preventive care, creating disparities in caries burden.
+Related reading: [Why Tooth Decay Prevention Matters](/article/why-tooth-decay-prevention-matters.html) and [Foods and Beverages That Stain Teeth: Dietary Impact on](/article/staining-foods-dietary-impact-on-color.html).
 
-Clinical adoption of comprehensive prevention—tailored by individual risk assessment, implemented through primary/secondary/tertiary strategies, and supported by population-level initiatives—represents the most effective approach to dental caries management.
+## Conclusion: Prevention Wins
 
----
+Cavity prevention through fluoride, sealants, and reducing sugar frequency prevents 75-85% of cavities in most people. Prevention costs $50-150 per year while cavity treatment costs $150-500 per cavity, root canal therapy $500-2,000, and tooth replacement $3,000-6,000. The mathematics are clear: prevention is infinitely cheaper and easier than treatment.
 
-## References
+Your best strategy is simple: brush twice daily with fluoride toothpaste, limit sugar to meals only, get sealants if you have molars, and visit your dentist regularly for X-rays. Most people can prevent cavities completely by following these steps.
 
-1. Marinho VC, Worthington HV, Walsh T, Clarkson JE. Fluoride toothpastes for preventing dental caries in children and adolescents. Cochrane Database Syst Rev. 2019;11:CD002278.
-
-2. Iheozor-Ejiofor Z, Worthington HV, Walsh T, et al. Water fluoridation for the prevention of dental caries. Cochrane Database Syst Rev. 2015;6:CD010856.
-
-3. Ahovuo-Saloranta A, Forss H, Walsh T, et al. Pit and fissure sealants for preventing dental decay in permanent teeth. Cochrane Database Syst Rev. 2020;12:CD001830.
-
-4. Kassebaum NJ, Smith AGC, Bernabé E, et al. Global, regional, and national prevalence, incidence, and disability-adjusted life years for oral conditions for 195 countries, 1990-2015. J Dent Res. 2017;96(4):380-387.
-
-5. Horst SJ, Heima M, Chaffee BW. Prevalence of dental caries and associated factors in low-income African American and Hispanic children: A systematic review. J Public Health Dent. 2018;78(4):316-326.
-
-6. Craig SL, Chu EH. Silver diamine fluoride and arrest of caries in primary teeth: A systematic review. JDR Clin Trans Res. 2018;3(1):76-85.
-
-7. DenBesten P, Li W. Chronic fluoride toxicity: dental fluorosis. Monogr Oral Sci. 2011;22:81-96.
-
-8. Young DA, Featherstone JD, Roth JR, et al. Caries Management by Risk Assessment: consensus-based clinical practice guideline. J Am Dent Assoc. 2016;147(10):797-809.
-
-9. Brickhouse TH, Unkel JH, Kancherla V, et al. Baseline results from the Partnership to Improve Oral Health Outcomes (PIOH). J Public Health Dent. 2008;68(1):26-33.
-
-10. Weyant RJ, Vestergaard TH, McGaghie WC, et al. Pit and fissure sealants as a model for evidence-based clinical practice. J Dent Educ. 2002;66(10):1151-1159.
-
-## Conclusion
-
-: Prevention Wins
-
-> **Key Takeaway:** Systematic fluoride application, sealant placement, and dietary management prevent the majority of dental caries at minimal cost compared to treatment.
+> **Key Takeaway:** Cavities are preventable—fluoride toothpaste, dental sealants, and limiting sugar frequency to mealtimes prevent 75-85% of cavities. Focus on prevention because it costs far less than treating cavities and lets you keep your natural teeth healthy for life.
 
 ## Related Articles
 

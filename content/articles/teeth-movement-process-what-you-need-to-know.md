@@ -32,7 +32,6 @@ references:
   - title: "Lund H, Gréve G, Semb G. Treatment efficiency of Class II correction in one phase of orthodontic treatment. Am J Orthod Dentofacial Orthop. 2012;142(5):636-645."
     url: https://pubmed.ncbi.nlm.nih.gov/23116509
 ---
-
 ## How Orthodontic Treatment Actually Works
 
 Your teeth aren't simply pushed or pulled to new positions. Instead, your body activates a biological remodeling process that gradually reorganizes the bone surrounding your tooth roots. This allows them to move safely and permanently.

@@ -32,7 +32,6 @@ references:
   - title: "Local anesthesia techniques and nerve block protocols for surgical oral procedures"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25566589
 ---
-
 Some teeth require surgery to remove. Simple extractions—pulling out teeth that are fully visible—are straightforward. Complex extractions involve teeth that are partially or completely buried under bone, have curved roots, or are positioned at difficult angles. When a tooth is complex, your dentist may refer you to an oral surgeon who specializes in these cases.
 
 ## Understanding How Complex Your Extraction Is
@@ -115,7 +114,7 @@ Your surgeon typically uses 4-5 stitches to carefully bring the gum edges togeth
 
 Most dentists use absorbable stitches that dissolve naturally within 3-5 weeks—you don't need them removed. Some surgeons prefer non-absorbable stitches that you'd return to have removed at 7-10 days. Both work well.
 
-In the extraction socket (the hole where your tooth was), your surgeon may place a special material that promotes clotting and healing. This material dissolves within 2-4 weeks and reduces the risk of a painful complication called "dry socket" by about 20%. If you're having an implant placed later, your surgeon may add bone-building material at the same time. Learn more about [Surgical-drainage-abscess-treatment](/article/surgical-drainage-abscess-treatment.html).
+In the extraction socket (the hole where your tooth was), your surgeon may place a special material that promotes clotting and healing. This material dissolves within 2-4 weeks and reduces the risk of a painful complication called "dry socket" by about 20%. If you're having an implant placed later, your surgeon may add bone-building material at the same time.
 
 ## Protecting Your Nerves and Blood Vessels
 
@@ -140,6 +139,9 @@ Eat soft foods and avoid anything hot, hard, or crunchy for at least a week. Avo
 **Dry socket** is a painful complication where the blood clot comes out of the socket, affecting 5% of routine extractions and up to 20% of complex surgical extractions. Risk factors include smoking, poor hygiene, and rough handling. Your surgeon helps prevent this with careful closure and healing-promoting materials. If you develop severe pain after a few days, contact your surgeon—dry socket is treatable with special rinses and medicated dressings. Learn about [Timeline-for-recovery-after-extraction](/article/timeline-for-recovery-after-extraction.html) for detailed healing information.
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
+
+Related reading: [Oral Surgical Complications](/article/common-misconceptions-about-surgical-complications.html).
 
 ## Conclusion
 

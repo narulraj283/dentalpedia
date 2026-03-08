@@ -20,7 +20,6 @@ references:
   - "Weurmann K, et al. Topical corticosteroids for oral ulcers: A systematic review. Oral Diseases. 2015;21(1):28-35."
   - "Baccaglini L, et al. Topical corticosteroids for aphthous ulcers: Systematic review and meta-analysis. Oral Medicine, Oral Pathology, and Oral Radiology. 2011;112(4):453-460."
 ---
-
 You notice a painful sore inside your mouth—a canker sore, also called an aphthous ulcer. Learning more about [Hydrodynamic Theory Sensitivity Explanation](/article/hydrodynamic-theory-sensitivity-explanation.html) can help you understand this better. You want it gone immediately. Here's the reality: most canker sores heal on their own in 7-10 days. But understanding what causes them helps prevent recurrence.
 
 ## Myth: Canker Sores Are Always From Herpes
@@ -112,15 +111,11 @@ If you know what caused your last ulcer, prevent it recurring. If you bit your c
 
 For people prone to ulcers, avoiding trauma prevention strategies helps significantly. Some people benefit from a protective topical wax or protective ointment after minor mouth injuries to prevent ulceration.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about mouth ulcer care and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
 ## Conclusion
 
 Most canker sores are benign, caused by mechanical trauma, and heal spontaneously in 7-10 days. Topical medications don't accelerate healing but reduce pain. Frequent recurrence warrants investigation for nutritional deficiency, celiac disease, or other systemic causes. Nutritional supplementation dramatically helps deficient patients. Ulcers persisting beyond 3 weeks warrant professional evaluation to exclude malignancy.
 
-> **Key Takeaway:** Mouth ulcers (canker sores) usually heal on their own—but persistent ulcers warrant investigation for underlying causes.
+> **Key Takeaway:** You notice a painful sore inside your mouth—a canker sore, also called an aphthous ulcer.
 
 ## Related Articles
 

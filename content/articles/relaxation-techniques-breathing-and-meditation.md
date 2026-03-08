@@ -46,7 +46,6 @@ subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
 title: Relaxation Techniques Breathing and Meditation
 ---
-
 ## Understanding Dental Anxiety and Why It Happens
 
 If you feel nervous before visiting the dentist, you're definitely not alone. About one in five people experience serious dental anxiety, and even more feel some level of worry about dental visits. When you're anxious, your body goes into "fight or flight" mode.
@@ -117,5 +116,5 @@ Your dental health journey is unique, and the right approach to relaxation techn
 
 - [Why Understanding Anesthesia Types Matters for Dental](/article/why-anesthesia-types-matters.html)
 - [Conquering Dental Fear With Laughing Gas](/article/nitrous-oxide-sedation-for-anxious-patients.html)
-- [Dental Anesthesia Types and Delivery Methods:](/article/timeline-for-anesthesia-types.html)
+- [Dental Anesthesia Types and Delivery Methods](/article/timeline-for-anesthesia-types.html)
 

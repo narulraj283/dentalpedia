@@ -32,7 +32,6 @@ references:
   - title: "Color maintenance strategies and whitening longevity"
     url: "https://pubmed.ncbi.nlm.nih.gov/24053592/"
 ---
-
 ## Your Teeth Don't Have to Stay Stained
 
 If you drink coffee, red wine, or tea every day, you've probably noticed your teeth getting darker over time. That's normal, and the good news is that teeth whitening actually works. But with so many options out there—some expensive, some promising impossible results—it's easy to get confused about what will actually make a difference and what's just marketing.
@@ -163,24 +162,6 @@ With good maintenance, professional whitening lasts 6 to 12 months. Some people 
 - **Maintenance:** Touch-up treatments every 6-12 months keep your teeth bright. It doesn't take long—just a few applications of your custom tray gel at home.
 
 The silver lining: whitening isn't damaging to your teeth. It just wears off. You can safely re-whiten as often as you want, as long as you're not dealing with chronic sensitivity.
-
-## Questions to Ask Your Dentist Before Whitening
-
-1. **"What shade improvement should I realistically expect?"** They should look at your teeth and give you honest expectations based on how stained they are and which method you choose—not vague promises.
-
-2. **"How long will results last given my lifestyle?"** If you drink coffee every morning, they should tell you honestly that results might fade in 6-9 months instead of a year.
-
-3. **"Do I have crowns or restorations that will look mismatched after I whiten?"** Don't find out after whitening that your crown is suddenly yellow next to your bright white teeth.
-
-4. **"What method do you recommend for my sensitivity level?"** If your teeth are already sensitive, ask them to recommend a specific concentration or method.
-
-5. **"Do you recommend in-office, custom trays, or both?"** They should explain why their recommendation fits your situation, not just push the most expensive option.
-
-6. **"Will I need to replace any restorations after whitening?"** Understanding the full cost upfront helps with planning.
-
-7. **"What's your maintenance plan if I want to keep my teeth bright?"** Ask about refill costs for custom trays or how often you'd need office visits for touch-ups.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 

@@ -32,7 +32,6 @@ references:
   - title: "Interdental plaque accumulation patterns and interdental cleaning methods"
     url: https://www.ncbi.nlm.nih.gov/pubmed/19261821
 ---
-
 ## Why Plaque Keeps Coming Back
 
 Plaque is made of hundreds of different bacteria that stick to your teeth in a sticky layer. As soon as you finish brushing, those bacteria start multiplying again. Within just 4-8 hours, plaque is reforming, and within 24-48 hours, it has matured into a more developed biofilm.

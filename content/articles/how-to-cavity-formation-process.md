@@ -30,7 +30,6 @@ references:
   - title: "Carbohydrate metabolism, acid production, and pH regulation in dental plaque biofilms"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25432809
 ---
-
 Cavities don't just happen suddenly—they develop step by step through a process you can actually stop if you understand it. Here's how the cavity formation process works, from bacteria to acid to holes in your teeth.
 
 ## The Cast of Characters: Bacteria
@@ -102,5 +101,5 @@ You're not helpless against cavities. They're not random or mysterious—they re
 - [Bad Breath Elimination: What You Need to Know](/article/bad-breath-elimination-what-you-need-to-know.html)
 - [Bite Force and Teeth: What You Need to Know](/article/bite-force-and-teeth-what-you-need-to-know.html)
 - [Emergency Tooth Pain](/article/emergency-tooth-pain-complete-guide.html)
-- [The Critical Role of Saliva in Oral Health: Functions,](/article/timeline-for-saliva-importance.html)
+- [The Critical Role of Saliva in Oral Health: Functions](/article/timeline-for-saliva-importance.html)
 

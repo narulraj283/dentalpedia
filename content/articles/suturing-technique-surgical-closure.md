@@ -46,10 +46,9 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Oral Surgery Suturing Techniques - Proper Closure
 ---
+After your dental surgery, those stitches holding your gum closed aren't just important—they determine how fast you heal, how much pain you have, and whether you develop complications. Understanding how your surgeon chooses which stitch pattern to use helps you appreciate the meticulous technique required for good healing.
 
 ## How Your Surgeon Closes Your Wound: Why Technique Matters
-
-After your surgeon removes your tooth, your gum needs careful closure. The way your surgeon places stitches directly affects healing quality, infection risk, pain levels, and scar appearance.
 
 ## The Standard Stitch Pattern: Interrupted Sutures
 
@@ -82,12 +81,6 @@ Keeping stitches in longer than day 10-14 risks suture marks—stitches pressed 
 Your surgeon carefully considers wound tension when placing stitches. High-tension wounds need stitches closer together. Low-tension wounds can have stitches farther apart. Proper tension distribution prevents wound separation and promotes smooth, flat scars.
 
 Your surgeon also avoids excessive tension—pulling stitches too tight damages tissue and slows healing.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss suturing technique surgical closure, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

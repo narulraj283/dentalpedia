@@ -22,14 +22,13 @@ references:
   - "Bouchard P, et al. Consensus report: Periodontal regeneration. J Periodontol. 2012;83(4):S156-S166."
   - "Darby I, et al. Periodontal Medicine. New York: Wiley-Blackwell; 2015."
 ---
-
 ## Your Twice-Daily Routine: Non-Negotiable
 
-Brush twice daily, every single day. This takes just 6-8 minutes total. Brushing once a day leaves bacteria alone for 18-24 hours—long enough for them to organize into a tough, protective layer. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+Brush twice daily, every single day. This takes just 6-8 minutes total. Brushing once a day leaves bacteria alone for 18-24 hours—long enough for them to organize into a tough, protective layer.
 
 **Morning routine (3-4 minutes):**
 
-After sleeping 12 hours, bacteria have created an acidic environment in your mouth. That's why your breath smells bad in the morning. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+After sleeping 12 hours, bacteria have created an acidic environment in your mouth. That's why your breath smells bad in the morning.
 
 1. Brush your tongue gently (5-10 strokes front to back with soft bristles). This removes dead skin, bacteria, and food debris, cutting bad breath-causing sulfur compounds by 40-50%.
 
@@ -134,11 +133,16 @@ Twice-daily brushing for 2 minutes with fluoride toothpaste, daily between-tooth
 
 Different people need different tools—tight spaces need waxed floss, larger spaces need interdental brushes. If you have gum disease, implants, or exposed roots, you need modified protocols. The whole routine takes 6-8 minutes daily and prevents most oral disease.
 
+
+Related reading: [Tartar Prevention: Complete Clinical Guide to Calculus](/article/tartar-prevention-complete-guide.html) and [Preventive Sealant Placement When and Why](/article/preventive-sealant-placement-when-and-why.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Evidence-based oral hygiene consists of twice-daily brushing with 1,450 ppm F toothpaste, daily interdental cleaning (floss or interdental brush), and conditional adjunctive rinses (chlorhexidine for active gingivitis, fluoride for high-caries-risk). If you have questions, your dentist can help you understand your options. This takes just 6-8 minutes total.
 
-> **Key Takeaway:** Brush twice daily, every single day. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** Brush twice daily, every single day. This takes just 6-8 minutes total.
 
 ## Related Articles
 

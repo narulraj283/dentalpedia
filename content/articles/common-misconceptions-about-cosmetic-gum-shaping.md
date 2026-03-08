@@ -22,7 +22,6 @@ references:
   - "Cohen RE. Position paper: Periodontal maintenance therapy. Using the evidence base to clarify the terminology, define the procedures, and identify the evidence gaps. J Periodontol. 2003;74(1):120-143."
   - "Tenenbaum H, Schalek R. Fine structure of 30-kilo-Joule-pulsed CO2 laser incisions in gingival tissue. J Periodontol. 1992;63(11):900-905."
 ---
-
 ## What Is a "Gummy Smile"?
 
 A gummy smile is when you show more gum than tooth when you smile. Most people show a little bit of gum when they smile—that's normal. But if you show more than 3-4 millimeters of gum, or if your gums dominate your smile, you might be self-conscious about it.
@@ -91,17 +90,11 @@ Gum shaping works best for people with adequate gum thickness and a gummy smile 
 
 Your dentist can evaluate whether gum shaping will work for you or if you need a different approach.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about cosmetic gum shaping and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 Gum shaping is an effective, quick procedure that can dramatically improve a gummy smile. Results are usually permanent, recovery is fast, and complications are rare when performed by a skilled dentist. If you're self-conscious about your gummy smile, gum shaping might be exactly what you need.
 
-> **Key Takeaway:** A gummy smile is when you show more gum than tooth when you smile. Most people show a little bit of gum when they smile—that's normal.
+> **Key Takeaway:** A gummy smile is when you show more gum than tooth when you smile.
 
 ## Related Articles
 
@@ -109,5 +102,5 @@ Gum shaping is an effective, quick procedure that can dramatically improve a gum
 - [Risk and Concerns with Smile Enhancement Options](/article/risk-and-concerns-with-smile-enhancement-options.html)
 - [Enamel Microabrasion: Surface Defect Removal Techniques](/article/enamel-microabrasion-surface-defect-removal.html)
 - [How Long Do Veneers Really Last? Everything You Need to](/article/timeline-for-veneer-durability-facts.html)
-- [Smile Makeover Planning: Comprehensive Assessment,](/article/timeline-for-smile-makeover-planning.html)
+- [Smile Makeover Planning: Comprehensive Assessment](/article/timeline-for-smile-makeover-planning.html)
 

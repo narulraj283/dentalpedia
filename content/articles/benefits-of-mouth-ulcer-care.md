@@ -22,12 +22,11 @@ references:
   - "Scully C, et al. Management of recurrent oral ulceration. American Journal of Dentistry. 2003;16(3):194-200."
   - "Ship JA, et al. Recurrent aphthous ulcers. Oral Surgery Oral Medicine Oral Pathology Oral Radiology and Endodontology. 2007;103(6):e61-e72."
 ---
-
-Those painful sores that pop up inside your mouth and make eating miserable—canker sores, or "aphthous ulcers" if you want the medical term—happen to about 20% of people at some point. They're incredibly annoying but usually not serious. Here's how to recognize what you have, treat it effectively, and prevent them from coming back. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+Those painful sores that pop up inside your mouth and make eating miserable—canker sores, or "aphthous ulcers" if you want the medical term—happen to about 20% of people at some point. They're incredibly annoying but usually not serious. Here's how to recognize what you have, treat it effectively, and prevent them from coming back.
 
 ## Understanding Canker Sores: The Most Common Mouth Ulcer
 
-Canker sores are small, painful ulcers that appear on the soft tissues inside your mouth—your cheek, lips, or under your tongue. They usually have a white or yellowish bottom with a red, inflamed border. The weird part is that we're still not entirely sure what causes them, though minor injuries (from aggressive brushing or accidentally biting your cheek), stress, certain foods, and nutritional deficiencies all seem to trigger them. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+Canker sores are small, painful ulcers that appear on the soft tissues inside your mouth—your cheek, lips, or under your tongue. They usually have a white or yellowish bottom with a red, inflamed border. The weird part is that we're still not entirely sure what causes them, though minor injuries (from aggressive brushing or accidentally biting your cheek), stress, certain foods, and nutritional deficiencies all seem to trigger them.
 
 Most canker sores are small (less than 1 centimeter across), and they're just an annoyance. They hurt for a few days, then gradually heal over 1-2 weeks without scarring. Some people get them occasionally, others get them repeatedly. If you're someone who gets them frequently, there's usually a preventable cause you can address.
 
@@ -85,25 +84,15 @@ Some people notice stress triggers ulcers. If that's your pattern, stress manage
 
 Most canker sores are just annoying minor problems that heal on their own. If they're painful, apply a corticosteroid cream or anesthetic to manage symptoms. If you get them repeatedly, switch to SLS-free toothpaste, look for nutritional deficiencies, and identify food or stress triggers. If you get large ulcers or anything that doesn't heal in 2-3 weeks, have your dentist check it. With the right approach, you can reduce how often they happen and manage them better when they do.
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+Related reading: [Recovery After Tooth Extraction](/article/how-to-recovery-after-extraction.html) and [Protective Mouth Guards: Preventing Dental](/article/protective-mouth-guards-preventing-dental-trauma.html).
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about mouth ulcer care: what patients need to know or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Those painful sores that pop up inside your mouth and make eating miserable—canker sores, or "aphthous ulcers" if you want the medical term—happen to about 20% of people at some point. Your dentist can help you understand what steps are right for your specific needs.
+
+> **Key Takeaway:** Those painful sores that pop up inside your mouth and make eating miserable—canker sores, or 'aphthous ulcers' if you want the medical term—happen to.
 
 ## Related Articles
 

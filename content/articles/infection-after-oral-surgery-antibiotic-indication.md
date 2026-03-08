@@ -32,7 +32,6 @@ references:
   - title: "Post-operative complications in implant and extraction surgery: prevention and management"
     url: https://www.ncbi.nlm.nih.gov/pubmed/29360262
 ---
-
 Dental surgery is common and usually safe, but like any surgery, infections can happen. Understanding how antibiotics help prevent infections—and when you actually need them—is important for your recovery. This guide explains when dentists prescribe antibiotics before surgery, how they work, and what signs of infection to watch for afterward.
 
 ## Who Needs Preventive Antibiotics Before Surgery
@@ -87,12 +86,6 @@ If infection persists despite antibiotics, your dentist may order imaging (X-ray
 
 Your dentist may send culture samples to the laboratory for detailed identification. This identifies the specific bacteria causing infection, guiding selection of the most effective antibiotic. This targeted approach is especially important when standard antibiotics haven't worked.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about infection after oral surgery antibiotic indication and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed infection after oral surgery antibiotic indication, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -101,9 +94,10 @@ Once you've addressed infection after oral surgery antibiotic indication, mainta
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about preventing infections after oral surgery or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Preventive antibiotics before surgery reduce infection risk by 40-60% in high-risk patients, while proper post-operative care and early recognition of infection symptoms are equally important for successful healing.
+
+> **Key Takeaway:** Learn how antibiotics help prevent infections after dental surgery and when you actually need them.
 
 ## Related Articles
 

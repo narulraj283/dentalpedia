@@ -20,7 +20,6 @@ references:
   - "Shetty SM, et al. Distraction techniques for anxiety and pain in pediatric dentistry. International Journal of Pediatric Dentistry. 2013;23(3):141-151."
   - "Klassen JA, et al. Audiovisual distraction for pain management in children undergoing dental procedures: a randomized controlled clinical trial. Journal of Dental Research. 2008;87(10):1031-1035."
 ---
-
 ## Why Movies and Music Help Calm Anxious Kids at the Dentist
 
 If your child gets nervous about dental visits, you're not alone. Many kids feel anxious about going to the dentist, and that fear can make appointments stressful for everyone. Good news: watching a favorite movie or listening to music during treatment actually helps calm kids down! This isn't just a distraction trick—it's real science that shows your child's brain works differently when they're focused on something they enjoy instead of being worried about dental work.
@@ -83,7 +82,7 @@ Movies and music at the dentist really do help calm anxious children, and the sc
 
 If your child has dental anxiety, ask your dentist about their distraction options. Many kids go from being nervous about dental visits to looking forward to seeing their favorite movie at the dentist. Talk to your dentist about which movies and music options are available and what might work best for your child's specific situation.
 
-> **Key Takeaway:** Audio-visual distraction significantly reduces pediatric anxiety and improves cooperation during dental procedures.
+> **Key Takeaway:** If your child gets nervous about dental visits, you're not alone.
 
 ## Related Articles
 

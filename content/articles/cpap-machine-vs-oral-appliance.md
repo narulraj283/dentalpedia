@@ -20,7 +20,6 @@ references:
   - "Schwartz JC, Bennett ML, Cauley RT, Blaisdell LL. Efficacy of continuous positive airway pressure with supplemental pressure relief (C-Flex) in improving CPAP compliance in patients with obstructive sleep apnea. Respir Med. 2006;100(7):1154-1163."
   - "Eckert DJ, White DP, Jordan AS, Malhotra A, Wellman A. Defining phenotypic causes of obstructive sleep apnea: identification of novel therapeutic targets. Am J Respir Crit Care Med. 2013;188(8):996-1004."
 ---
-
 If you've been diagnosed with sleep apnea, you've probably heard about CPAP machines and oral appliances as treatment options. Both can help you breathe better at night and feel more rested during the day, but they work in very different ways. This guide will help you understand how each option works, their strengths and weaknesses, and how to choose what's right for you.
 
 ## Understanding Sleep Apnea Basics
@@ -91,7 +90,7 @@ Oral appliance users need to visit their dentist every 6 to 12 months so they ca
 
 Both CPAP and oral appliances can effectively treat sleep apnea and help you sleep better, feel more alert, and protect your long-term health. The "best" treatment is the one you'll use consistently. Many people find oral appliances easier to tolerate, while others do wonderfully with CPAP. Your healthcare team can help you weigh the options based on your apnea severity, personal preferences, and specific circumstances.
 
-> **Key Takeaway:** If you've been diagnosed with sleep apnea, you've probably heard about CPAP machines and oral appliances as treatment options.
+> **Key Takeaway:** Both can help you breathe better at night and feel more rested during the day, but they work in very different ways. This guide will help you understand how each option works, their strengths and weaknesses, and how to choose what's right for you.
 
 ## Related Articles
 

@@ -39,7 +39,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Plaque Removal Tools Scalers and Curettes
 ---
-
 ## Understanding Professional Plaque Removal
 
 When you have gum disease or significant plaque buildup, your dentist or hygienist uses specialized instruments to clean beneath your gum line—areas your toothbrush and floss cannot reach. These professional tools remove calculus (hardened plaque), disrupt the bacterial biofilm that causes gum disease, and smooth your tooth root surfaces. Your home care tools cannot access these subgingival areas effectively, which is why professional scaling becomes essential when gum disease develops. This article explains the different instruments used and how they work.

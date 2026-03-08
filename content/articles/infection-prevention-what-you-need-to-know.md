@@ -32,7 +32,6 @@ references:
   - title: "Stress, immunity, and oral health: psychoneuroimmunological aspects"
     url: https://www.ncbi.nlm.nih.gov/pubmed/29360262
 ---
-
 Your personal risk for dental infections varies based on your age, health, genetics, and lifestyle choices. The good news? Understanding your specific risk factors helps you take targeted steps to prevent problems before they start. This guide walks you through practical ways to assess your risk and build a personalized prevention plan.
 
 ## Know Your Risk Factors
@@ -97,17 +96,13 @@ Sleep deprivation impairs immune function and increases gum disease risk. Aim fo
 
 Regular aerobic exercise strengthens immunity. Physical activity enhances immune cell function and reduces inflammation. Combine exercise with stress management for maximum benefit.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about infection prevention what you need to know and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Regular aerobic exercise strengthens immunity. Physical activity enhances immune cell function and reduces inflammation. Talk to your dentist about how this applies to your situation. Understanding your specific risk factors lets you create a targeted prevention plan that actually works for your situation.
 
-> **Key Takeaway:** Your personal infection risk results from genetics, medical conditions, medications, age, and habits. Understanding your specific risk factors lets you create a targeted prevention plan that actually works for your situation.
+
+
+> **Key Takeaway:** Simple steps you can take every day to keep your teeth and gums healthy and infection-free.
 
 ## Related Articles
 

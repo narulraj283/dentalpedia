@@ -22,7 +22,6 @@ references:
   - "Dahiya MC, Gutierrez A, Dahiya V, et al. Clinical evaluation of a new toothbrush design in controlling plaque and gingival inflammation. Compend Contin Educ Dent. 2009;30(4):219-226."
   - "Pimlott JF, Komiyama K, Karakashian KM. Comparative effectiveness of conventional manual and electric toothbrushes in controlling plaque and gingival inflammation. J Clin Dent. 2004;15(2):45-52."
 ---
-
 ## The Hidden Spaces That Brushing Misses
 
 Your toothbrush can clean the front, back, and chewing surfaces of your teeth just fine. Learning more about [Oral Health Habits Complete Guide](/article/oral-health-habits-complete-guide.html) can help you understand this better. But it can't reach the tight spaces between your teeth—those areas account for about 30 to 40 percent of your tooth surfaces. That's nearly half your teeth getting no cleaning from your brush. The bacteria in these spaces love the protection they get, and they multiply undisturbed if you don't floss.
@@ -87,7 +86,7 @@ Flossing removes plaque from the spaces between your teeth that your toothbrush 
 
 Talk to your dentist about the best flossing technique for your mouth and which flossing tools might work best for you.
 
-> **Key Takeaway:** Daily mechanical interdental plaque removal through flossing reduces gingival inflammation and prevents interproximal caries development.
+> **Key Takeaway:** Your toothbrush can clean the front, back, and chewing surfaces of your teeth just fine.
 
 ## Related Articles
 

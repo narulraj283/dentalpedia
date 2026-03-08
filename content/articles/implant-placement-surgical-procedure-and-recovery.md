@@ -30,7 +30,6 @@ references:
   - title: "Healing response after dental implant placement: clinical and histologic assessment"
     url: https://www.ncbi.nlm.nih.gov/pubmed/19679231
 ---
-
 Getting a dental implant involves a carefully orchestrated surgical process. Your dentist uses detailed planning, precise techniques, and specific recovery protocols to help your implant integrate successfully with your jaw bone. Understanding what happens during and after surgery helps you prepare for the experience and know what to expect during healing.
 
 ## Planning Your Implant Surgery

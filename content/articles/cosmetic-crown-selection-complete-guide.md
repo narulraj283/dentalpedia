@@ -20,7 +20,6 @@ references:
   - "Fradeani M, Barducci G, Dallari A. Esthetic Rehabilitation of Single Anterior Maxillary Teeth with All-Ceramic Crowns. Quintessence International. 2023;31(9):640-653."
   - "Probster L, Biebl J. Long-term Observation of Patients with All-Ceramic Crowns. Quintessence International. 2023;27(7):484-491."
 ---
-
 ## Crown Materials Explained
 
 When your tooth needs a crown, you have several material options. Each has different strengths, appearance, cost, and longevity. Understanding these differences helps you and your dentist choose what's best for your situation.
@@ -111,7 +110,7 @@ Replacement is straightforward—your dentist removes the old crown, prepares th
 
 Crown selection should balance appearance goals, strength needs, and cost considerations. All-ceramic offers best appearance for front teeth; metal-ceramic or zirconia offer best durability for back teeth. With proper material selection, placement technique, and good home care, modern crowns last 10-20 years reliably. Discuss material options with your dentist based on your specific situation and priorities.
 
-> **Key Takeaway:** Modern crowns offer diverse material options—each with different strength, appearance, and longevity characteristics to match your needs.
+> **Key Takeaway:** When your tooth needs a crown, you have several material options.
 
 ## Related Articles
 

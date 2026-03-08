@@ -34,7 +34,6 @@ references:
   - title: "Cugini MA, Haffajee AD, Tanner AC, Socransky SS. Subset of viable Actinobacillus actinomycetemcomitans serotypes b, c, and f (sensu stricto) detected in subgingival plaque. J Clin Microbiol. 2000;38(3):1whilst47-1150."
     url: https://pubmed.ncbi.nlm.nih.gov/10699010
 ---
-
 ## Why Your Gums Bleed and What It Means
 
 Bleeding gums are your mouth's way of telling you something needs attention. If your gums bleed when you brush, floss, or even when you bite down on hard food, it's a sign of inflammation caused by bacteria and plaque buildup. The good news? With the right treatment and habits, bleeding gums can heal quickly. Understanding what's happening in your mouth and how long healing takes helps you know what to expect and stay motivated through the recovery process.
@@ -76,12 +75,6 @@ Understanding your personal risk factors lets you take extra steps to protect yo
 Chemical rinses like chlorhexidine can help speed up healing when used short-term (2 to 4 weeks). This antimicrobial rinse kills bacteria and reduces inflammation. However, extended use isn't recommended because it can stain teeth and cause other side effects. Electric toothbrushes with oscillating bristles sometimes clean better than manual brushing, especially if you have difficulty with technique.
 
 For people with very stubborn bleeding, your dentist might recommend special treatments like antimicrobial gel applied under the gums or laser treatment. These advanced options work best when combined with excellent home care and regular professional visits. Ask your dentist which approaches make sense for your situation.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for bleeding gums solutions, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

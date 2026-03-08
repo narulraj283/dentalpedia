@@ -14,7 +14,6 @@ references:
   - "Topazian RG, Goldberg MH, Hupp JR. Oral and Maxillofacial Infections. 4th ed. New York: Oxford University Press; 2002."
   - "Siqueira JF, Rôças IN. Polymicrobial interactions in apical periodontitis. Endod Topics. 2006;13(1):33-46."
 ---
-
 ## What Is a Dental Abscess?
 
 A dental abscess is an infection inside or around your tooth, and it's uncomfortable for good reason: your body is fighting a bacterial infection, and pus (dead bacteria and white blood cells) is accumulating. There are two types: periapical abscess (infection at the tip of the tooth root, usually from a dead nerve) and periodontal abscess (infection in your gum around an existing tooth). Either way, an abscess means bacteria have invaded tissue where they shouldn't be, and your immune system is fighting back.
@@ -71,7 +70,7 @@ Delaying treatment risks spreading infection into deeper spaces, potential sepsi
 
 If you're experiencing tooth pain with swelling, contact your dentist immediately or go to an emergency dental clinic for evaluation and treatment.
 
-> **Key Takeaway:** Understanding dental abscesses, recognizing warning signs, and when immediate treatment is essential.
+> **Key Takeaway:** A dental abscess is an infection inside or around your tooth, and it's uncomfortable for good reason: your body is fighting a bacterial infection, and pus (dead bacteria and white blood cells) is accumulating.
 
 ## Related Articles
 

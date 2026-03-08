@@ -28,7 +28,6 @@ references:
   - title: "Age and Treatment Complexity as Predictors of Treatment Duration"
     url: "https://pubmed.ncbi.nlm.nih.gov/26505920/"
 ---
-
 One of the most common questions people ask when considering braces is "How long will treatment take?" The answer matters because it affects your life, your schedule, and your commitment to the process. Understanding what determines how long your specific treatment will take helps you set realistic expectations and stay motivated throughout your orthodontic journey.
 
 Treatment duration isn't arbitrary. Learn more about [Why Braces Food Restrictions](/article/why-braces-food-restrictions-matters.html) for additional guidance. It's determined by biological limits on how fast your teeth can safely move, the complexity of your bite problem, the type of braces you choose, and how well you follow your orthodontist's instructions. Whether you're looking at 18 months or three years, knowing why it takes that long helps you understand that your orthodontist isn't artificially extending treatment—they're working within the biological reality of how teeth move through bone.

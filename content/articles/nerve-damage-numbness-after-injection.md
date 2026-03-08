@@ -30,7 +30,6 @@ references:
   - title: "Patient Outcomes and Quality of Life Following Persistent Post-Injection Paresthesia"
     url: https://www.ncbi.nlm.nih.gov/pubmed/32196549
 ---
-
 ## Understanding Normal Numbness Versus Prolonged Numbness
 
 When your dentist gives you an injection to numb your tooth, your lip and part of your mouth will feel tingly and numb for 2-4 hours after treatment. This is completely normal and expected—the anesthetic is doing its job. The numbness should gradually wear off as your body metabolizes the medication and sensation returns to normal.

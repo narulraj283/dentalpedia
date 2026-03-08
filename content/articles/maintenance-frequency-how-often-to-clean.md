@@ -28,7 +28,6 @@ references:
   - title: "Cost-effectiveness analysis of periodontal maintenance recall intervals: balance between prevention and intervention"
     url: https://www.ncbi.nlm.nih.gov/pubmed/24572293
 ---
-
 Once your dentist has treated gum disease or you're committed to maintaining optimal oral health, one important question becomes: how often should you actually get professional cleanings? The standard answer of "every six months" works for many people, but it's not one-size-fits-all. Some patients truly need cleanings more frequently, while others with excellent oral health might thrive with less frequent visits. Your ideal cleaning schedule depends on your individual gum health, disease history, and lifestyle factors. Let's explore how to figure out what's right for your situation.
 
 ## Understanding Risk and Disease Severity

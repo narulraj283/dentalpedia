@@ -30,7 +30,6 @@ references:
   - title: "Tongue Scraping vs Brushing: Efficacy in Reducing Oral Malodor"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27654321
 ---
-
 If you struggle with bad breath, you're not alone. About 1 in 4 people deal with this problem, and the good news is that it's usually treatable. Most bad breath comes from bacteria in your mouth that produce unpleasant-smelling gases. The key is understanding where the smell comes from and what you can do about it.
 
 ## What Causes Bad Breath?

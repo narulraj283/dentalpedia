@@ -32,7 +32,6 @@ references:
   - title: "Schiel HA, Garcia AA, Ito D. Teledentistry in Rural Access Programs of South Carolina. J Dent Res. 2015;94(3_suppl):112B."
     url: https://pubmed.ncbi.nlm.nih.gov/26503564
 ---
-
 ## Introduction
 
 Teledentistry—remote dental consultation through video calls or submitted photos—has become a realistic option for many dental concerns. Understanding what teledentistry can and cannot do helps you decide whether it's appropriate for your situation. This guide covers the different types of teledentistry, what they're useful for, limitations, and when you definitely need in-person evaluation.
@@ -110,12 +109,6 @@ Use secure, HIPAA-compliant platforms. Regular Zoom isn't secure for medical inf
 Clear communication about limitations is essential. Your dentist should explicitly state what they can and cannot assess via teledentistry and what would require in-person evaluation.
 
 Documentation should clearly specify that teledentistry was used, what was observed, technical limitations affecting assessment, and recommendations.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss teledentistry remote dental consultation and follow up, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

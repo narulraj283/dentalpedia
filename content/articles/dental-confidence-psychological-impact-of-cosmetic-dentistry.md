@@ -14,7 +14,6 @@ references:
   - "Jerjes W, Upile T, Kaftan H, et al. Long-term evaluation of esthetic outcomes and patient satisfaction following cosmetic dentistry. J Cosmet Dent. 2007;23(2):38-46."
   - "Johnson M, Paulsen A. Self-esteem changes following aesthetic dental treatment: clinical trial. Eur J Dent Esthet. 2008;18(3):162-171."
 ---
-
 ## Your Smile Affects Your Whole Life
 
 About 72% of adults report that their smile directly affects their confidence and willingness to engage in social situations. If you don't like your teeth, you probably hide your smile, speak less freely, and participate less in social and romantic situations. This isn't vanity.
@@ -89,7 +88,7 @@ Romantic relationship formation increases 65% within 12 months post-treatment. L
 
 Talk to your dentist about whether cosmetic dental treatment might benefit your confidence and lifestyle, and discuss realistic expectations and maintenance requirements for long-term satisfaction.
 
-> **Key Takeaway:** The science behind how cosmetic dental treatment impacts confidence, relationships, and quality of life.
+> **Key Takeaway:** About 72% of adults report that their smile directly affects their confidence and willingness to engage in social situations.
 
 ## Related Articles
 

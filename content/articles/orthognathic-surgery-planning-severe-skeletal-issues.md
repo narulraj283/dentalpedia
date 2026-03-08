@@ -17,7 +17,6 @@ references:
   - "Deng Y, Yang J, Chen R, et al. Computer-assisted design for jaw reconstruction. J Craniofac Surg. 2012;23(1):81-85."
   - "Phillips C, Essick G, Bran L, Proffit WR. Sequelae and complications of jaw surgery. Contemporary Orthodontics. 2012."
 ---
-
 ## When Your Bite Needs More Than Braces
 
 If your jaws are severely misaligned—your lower jaw is significantly smaller or larger than your upper jaw, or your bite is extremely open or closed—braces alone can't fix the problem. Your teeth might move perfectly into position, but they'll still have the underlying jaw size mismatch causing the original problem. Jaw surgery (called orthognathic surgery) combined with braces can correct these severe skeletal issues and transform not just your bite, but your entire facial appearance.

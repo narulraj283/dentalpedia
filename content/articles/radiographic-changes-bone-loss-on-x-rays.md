@@ -30,7 +30,6 @@ references:
   - title: "Mengel R, Flores-de-Jacoby L. Periodontal status of teeth with overhanging restorations compared with teeth with clinically perfect margins. J Clin Periodontol. 2001;28(5):438-443."
     url: https://pubmed.ncbi.nlm.nih.gov/11350508
 ---
-
 ## How Your Dentist Sees Bone Loss on X-Rays
 
 When your dentist takes X-rays of your mouth, one of the most important things they're looking for is whether you're losing bone around your teeth. Bone loss is one of the key signs of gum disease, but unlike gum inflammation (which you can see in the mirror), bone loss is only visible on X-rays. Your dentist can't see it during a regular exam—that's why X-rays are such a critical tool for detecting gum disease early.

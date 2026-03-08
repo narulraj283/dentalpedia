@@ -38,7 +38,6 @@ subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
 title: Post Traumatic Stress and Dentistry
 ---
-
 ## When Dental Trauma Affects Your Mental Health
 
 About 25-40% of people experience some dental anxiety. But if you've had a traumatic dental experience, you might develop post-traumatic stress disorder (PTSD) specifically connected to dental care. This means visiting the dentist—or even thinking about dental appointments—can trigger panic, anxiety, flashbacks, or avoidance behaviors. You're not overreacting; your brain is protecting you from what it perceives as dangerous based on past experience.
@@ -113,6 +112,6 @@ Whether you're exploring treatment for the first time or looking into follow-up 
 
 - [Sedation Recovery Period](/article/sedation-recovery-period.html)
 
-- [Dental Anesthesia Types and Delivery Methods:](/article/timeline-for-anesthesia-types.html)
+- [Dental Anesthesia Types and Delivery Methods](/article/timeline-for-anesthesia-types.html)
 - [Anxiety Management in Elderly Patients](/article/anxiety-management-in-elderly-patients.html)
 

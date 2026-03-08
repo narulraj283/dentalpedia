@@ -28,7 +28,6 @@ references:
   - title: "Patient-Centered Outcomes in Oral and Maxillofacial Surgery"
     url: "https://pubmed.ncbi.nlm.nih.gov/30644220/"
 ---
-
 ## What to Expect After a Tooth Extraction: The Healing Timeline
 
 Having a tooth extracted is common—millions of people have teeth removed each year. Understanding what's supposed to happen during recovery makes it easier to manage expectations, follow post-op instructions correctly, and recognize when something is going wrong. Your mouth heals in predictable phases over weeks and months. Knowing this timeline helps you plan your recovery, understand your pain levels, know when you can return to normal activities, and recognize complications if they occur.

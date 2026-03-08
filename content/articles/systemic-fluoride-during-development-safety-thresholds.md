@@ -32,7 +32,6 @@ references:
   - title: "Szpaderska AM, Zuckerman JD, DiPietro LA. Fluoride and skeletal health. Current Orthopaedic Practice. 2009;20(2):164-169."
     url: https://pubmed.ncbi.nlm.nih.gov/19893720
 ---
-
 ## What Is Fluoride and Why Does It Matter for Kids?
 
 Fluoride is a mineral that strengthens your teeth and prevents cavities. If you've heard about it in the news and weren't sure what the fuss was about, you're not alone. The good news is that when used correctly, fluoride is one of the best ways to protect your child's teeth during the years they're developing. This article explains how fluoride works, how much is safe, and how to use it the right way for your child's age.

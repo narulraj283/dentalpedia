@@ -20,7 +20,6 @@ references:
   - "Reeves WG. Restorative Dental Materials. 13th ed. St. Louis: Mosby Elsevier; 2013."
   - "Wassell RW, Watson RM, Dent M. Crowns and other extra-coronal restorations: preparations, procedures and materials. Br Dent J. 2002;192(11):599-604."
 ---
-
 ## What Is a Cantilever Bridge?
 
 A cantilever bridge replaces a missing tooth using support from just one tooth—the tooth adjacent to the gap. Unlike conventional bridges supported by teeth on both sides of the missing tooth, cantilever bridges extend beyond their support point. This unique design creates special challenges but works well in specific situations.
@@ -93,19 +92,11 @@ If your cantilever bridge fails—either from support tooth mobility, progressiv
 
 Many patients who initially choose cantilever bridges due to cost constraints eventually upgrade to implants when cantilever failures occur. Some dentists recommend discussing implants as a future upgrade possibility at the time of cantilever placement.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about cantilever bridge unusual support and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
-
 ## Conclusion
 
 Cantilever bridges replace single missing teeth using support from an adjacent tooth. Success requires exceptionally strong support teeth, adequate bone support, and careful case selection. Ten-year success rates of 75-85% in appropriate cases make cantilever bridges viable alternatives to implants in specific situations. However, inferior long-term outcomes compared to implants establish cantilever bridges as temporary solutions or second-choice options for patients where implants are not feasible.
 
-> **Key Takeaway:** Cantilever bridges replace missing teeth using support from a single tooth, with careful patient selection required.
+> **Key Takeaway:** A cantilever bridge replaces a missing tooth using support from just one tooth—the tooth adjacent to the gap.
 
 ## Related Articles
 

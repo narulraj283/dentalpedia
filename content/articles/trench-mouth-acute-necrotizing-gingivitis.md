@@ -32,7 +32,6 @@ references:
   - title: "Systemic antibiotics versus antimicrobial rinses alone in ANUG management"
     url: https://pubmed.ncbi.nlm.nih.gov/23206236
 ---
-
 ## Understanding Trench Mouth: A Severe but Treatable Gum Infection
 
 Trench mouth, medically known as acute necrotizing ulcerative gingivitis (ANUG), is a serious but uncommon gum infection that starts suddenly and causes severe pain, bleeding, and visible tissue damage. The condition earned its nickname from its high incidence among soldiers in World War I trenches, where stress, poor hygiene, and cramped conditions created perfect circumstances for the infection to develop. Though less common today, trench mouth still occurs and requires prompt treatment to prevent permanent damage to your gums and teeth. The good news is that with appropriate antibiotics and mouth care, it responds rapidly and completely.

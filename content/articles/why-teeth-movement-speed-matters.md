@@ -32,7 +32,6 @@ references:
   - title: "Long-term stability of teeth moved at different rates in orthodontics"
     url: "https://pubmed.ncbi.nlm.nih.gov/25198278/"
 ---
-
 Waiting 24 months for orthodontic treatment feels like forever, especially when you see online advertisements claiming to straighten teeth in 6 months. Understanding what actually controls teeth movement speed, what can genuinely accelerate it, and what the tradeoffs are helps you make realistic decisions about treatment timeline.
 
 ## How Fast Can Teeth Actually Move?
@@ -90,12 +89,6 @@ Patients with limited treatment duration flexibility (professional requirements,
 ## The Bottom Line on Treatment Timeline
 
 While 24 months feels long, it reflects biological reality: bone remodeling that allows teeth to move takes time. Attempting to accelerate beyond physiologic optimal rates risks complications. For most patients, conventional 24-month treatment focusing on comprehensive alignment quality and long-term stability provides superior outcomes compared to maximal treatment velocity.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss why teeth movement speed matters, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

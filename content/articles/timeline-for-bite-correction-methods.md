@@ -1,38 +1,48 @@
 ---
-title: "Bite Correction Timelines: Overbite, Underbite,"
-slug: timeline-for-bite-correction-methods
 category: Orthodontics
 category_slug: orthodontics
-excerpt: "Comprehensive timeline analysis for correcting anterior/posterior bite discrepancies comparing non-surgical vs."
 date: 2026-03-05
+excerpt: Comprehensive timeline analysis for correcting anterior/posterior bite discrepancies
+  comparing non-surgical vs.
 read_time: 13 min
+references:
+- title: Beckwith FR, et al. An evaluation of factors affecting the length of orthodontic
+    treatment. Am J Orthod Dentofacial Orthop. 1999;115(4):439-447.
+  url: https://pubmed.ncbi.nlm.nih.gov/10202297
+- title: 'Baccetti T, et al. Early dentition treatment of skeletal open-bite malocclusion:
+    a systematic review. Angle Orthod. 2009;79(3):418-426.'
+  url: https://pubmed.ncbi.nlm.nih.gov/19330814
+- title: 'Thiruvenkatachari B, et al. Functional appliances for treatment of Class
+    II malocclusion in children: a systematic review. World J Orthod. 2006;7(4):346-353.'
+  url: https://pubmed.ncbi.nlm.nih.gov/17219389
+- title: Mahalley MW, et al. Long-term skeletal and dentoalveolar changes from the
+    high-pull headgear. Am J Orthod Dentofacial Orthop. 2003;124(2):150-159.
+  url: https://pubmed.ncbi.nlm.nih.gov/12923508
+- title: Kapust AJ, et al. Prediction of vertical changes during fixed appliance therapy.
+    Angle Orthod. 1998;68(1):27-40.
+  url: https://pubmed.ncbi.nlm.nih.gov/9549671
+- title: Proffit WR, et al. Surgical-orthodontic treatment of severe Class II malocclusion.
+    Int J Adult Orthodon Orthognath Surg. 1992;7(4):225-236.
+  url: https://pubmed.ncbi.nlm.nih.gov/1308610
+- title: 'Bousquet E, et al. Class III malocclusion surgery: what should be treated
+    surgically, and when? Semin Orthod. 2013;19(1):22-33.'
+  url: https://pubmed.ncbi.nlm.nih.gov/23664230
+- title: Papadopoulos MA, et al. Thirty-two years of Class II subdivision treatment.
+    Am J Orthod Dentofacial Orthop. 2006;129(5):599-609.
+  url: https://pubmed.ncbi.nlm.nih.gov/16679198
+- title: McNamara JA. Treatment of Class II malocclusion with functional appliances.
+    Dent Clin North Am. 1999;43(3):375-394.
+  url: https://pubmed.ncbi.nlm.nih.gov/10863509
+- title: 'Sander FG. Retention criteria and retention protocols: a review of the literature.
+    Am J Orthod Dentofacial Orthop. 2007;132(1):13-25.'
+  url: https://pubmed.ncbi.nlm.nih.gov/17628243
+reviewed: true
 reviewer_specialty: Orthodontics and Oral Surgery
+slug: timeline-for-bite-correction-methods
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
-reviewed: true
-references:
-  - title: "Beckwith FR, et al. An evaluation of factors affecting the length of orthodontic treatment. Am J Orthod Dentofacial Orthop. 1999;115(4):439-447."
-    url: https://pubmed.ncbi.nlm.nih.gov/10202297
-  - title: "Baccetti T, et al. Early dentition treatment of skeletal open-bite malocclusion: a systematic review. Angle Orthod. 2009;79(3):418-426."
-    url: https://pubmed.ncbi.nlm.nih.gov/19330814
-  - title: "Thiruvenkatachari B, et al. Functional appliances for treatment of Class II malocclusion in children: a systematic review. World J Orthod. 2006;7(4):346-353."
-    url: https://pubmed.ncbi.nlm.nih.gov/17219389
-  - title: "Mahalley MW, et al. Long-term skeletal and dentoalveolar changes from the high-pull headgear. Am J Orthod Dentofacial Orthop. 2003;124(2):150-159."
-    url: https://pubmed.ncbi.nlm.nih.gov/12923508
-  - title: "Kapust AJ, et al. Prediction of vertical changes during fixed appliance therapy. Angle Orthod. 1998;68(1):27-40."
-    url: https://pubmed.ncbi.nlm.nih.gov/9549671
-  - title: "Proffit WR, et al. Surgical-orthodontic treatment of severe Class II malocclusion. Int J Adult Orthodon Orthognath Surg. 1992;7(4):225-236."
-    url: https://pubmed.ncbi.nlm.nih.gov/1308610
-  - title: "Bousquet E, et al. Class III malocclusion surgery: what should be treated surgically, and when? Semin Orthod. 2013;19(1):22-33."
-    url: https://pubmed.ncbi.nlm.nih.gov/23664230
-  - title: "Papadopoulos MA, et al. Thirty-two years of Class II subdivision treatment. Am J Orthod Dentofacial Orthop. 2006;129(5):599-609."
-    url: https://pubmed.ncbi.nlm.nih.gov/16679198
-  - title: "McNamara JA. Treatment of Class II malocclusion with functional appliances. Dent Clin North Am. 1999;43(3):375-394."
-    url: https://pubmed.ncbi.nlm.nih.gov/10863509
-  - title: "Sander FG. Retention criteria and retention protocols: a review of the literature. Am J Orthod Dentofacial Orthop. 2007;132(1):13-25."
-    url: https://pubmed.ncbi.nlm.nih.gov/17628243
+title: 'Bite Correction Timelines: Overbite, Underbite'
 ---
-
 ## Introduction
 
 When you have a bite problem—whether your top teeth stick out too far, your bottom jaw is too far forward, or your teeth don't meet properly when you close your mouth—your orthodontist has several different treatment options. How long it takes to fix your bite depends on which type of problem you have and how severe it is. Some cases can be corrected in under two years, while more serious issues might take longer or even require surgery. Understanding the different bite problems and how long each typically takes to fix can help you plan ahead and set realistic expectations for your treatment.

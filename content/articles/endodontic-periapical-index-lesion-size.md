@@ -20,7 +20,6 @@ references:
   - "Strbac GD, Schneckenberg B, Folwaczny M, et al. Comparison of digital volume tomography and analog radiography in assessing periapical changes after endodontic surgery. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2012;113(4):e24-e27."
   - "Caliskan MK. Apical extrusion of intracanal medicaments: a review. Endod Dent Traumatol. 2002;18(3):128-139."
 ---
-
 When you have a tooth infection at its root tip, your dentist uses X-rays to see the problem and measure how much bone has been destroyed. Tracking these measurements over time helps your dentist determine whether your root canal treatment is working. Understanding how your dentist assesses and monitors these infections helps you understand your treatment progress.
 
 ## How Bone Loss From Infection Appears
@@ -128,7 +127,7 @@ Most patients experience no symptoms once the acute infection resolves and root 
 
 Understanding how your dentist assesses and monitors periapical lesions helps you understand your treatment progress. Lesion size influences healing timeline and prognosis but doesn't necessarily indicate treatment urgency. Most lesions heal completely within 1-4 years after successful root canal treatment. Regular follow-up X-rays document healing progress and provide reassurance that treatment is working. Talk to your dentist about which options are right for your specific situation.
 
-> **Key Takeaway:** Evidence-based periapical lesion assessment and classification systems for endodontic treatment planning and outcome evaluation.
+> **Key Takeaway:** When you have a tooth infection at its root tip, your dentist uses X-rays to see the problem and measure how much bone has been destroyed.
 
 ## Related Articles
 

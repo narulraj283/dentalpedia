@@ -18,7 +18,6 @@ references:
   - "Dawood A, Marti Marti B, Setchell D, et al. Digital scan accuracy and its clinical significance. J Dent. 2014;42(4):399-405."
   - "Wasserman A. Digital scanning and milling in dentistry. CDA Journal. 2018;46(7):389-397."
 ---
-
 ## Introduction
 
 Remember the gooey impression material your dentist used to take impressions? That uncomfortable tray sitting in your mouth while material set? Digital scanning has replaced that outdated process in many modern practices. Intraoral scanners—small hand-held devices that capture 3D images of your teeth—are faster, more comfortable, and more accurate. If your dentist offers digital scanning, you're getting the benefit of advanced technology that improves your experience and usually produces better results.
@@ -133,7 +132,7 @@ Artificial intelligence and machine learning are beginning to improve scan proce
 
 Digital intraoral scanning represents a significant advancement in dental technology. The process is faster, more comfortable, and more accurate than traditional impression materials. Most patients strongly prefer scanning, and the resulting digital data often produces restorations with superior accuracy and esthetics. If your dentist offers scanning, you're experiencing modern dentistry that benefits both your comfort and your smile.
 
-> **Key Takeaway:** Learn how modern digital scanning technology replaces traditional impression materials with quick, comfortable 3D imaging.
+> **Key Takeaway:** Remember the gooey impression material your dentist used to take impressions?
 
 ## Related Articles
 

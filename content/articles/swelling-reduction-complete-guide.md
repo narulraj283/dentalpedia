@@ -32,7 +32,6 @@ references:
   - title: "Escudier MP, Dolan RT, Sinha U, et al. Efficacy of corticosteroid and NSAID therapy in the management of trismus and edema after third molar extraction. International Journal of Oral and Maxillofacial Surgery. 2012;41(6):681-688."
     url: https://pubmed.ncbi.nlm.nih.gov/22381231
 ---
-
 ## Your Complete Guide to Minimizing Post-Operative Swelling
 
 Swelling after oral surgery is inevitable, but you can significantly reduce how much you swell. Studies show that following multiple reduction strategies reduces swelling by 60-75% compared to doing nothing.
@@ -77,12 +76,6 @@ Certain foods reduce inflammation while others increase it.
 ## Activity Restrictions: Rest Is Medicine
 
 Strenuous activity increases blood pressure and blood flow to your head, increasing swelling dramatically. Avoid vigorous exercise, heavy lifting, bending, and sweating activities for the first week.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss swelling reduction complete guide, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

@@ -28,7 +28,6 @@ references:
   - title: "Sleep Medicine and Dental Professional Collaboration in OSA Treatment"
     url: https://www.ncbi.nlm.nih.gov/pubmed/37890123
 ---
-
 ## A Dental Solution for Sleep Apnea
 
 If you've been told you have obstructive sleep apnea but you can't tolerate a CPAP machine, there's good news: a custom dental appliance might be the answer. These oral appliances gently reposition your lower jaw forward during sleep, opening your airway and stopping those breathing pauses that wake you and rob you of quality rest. Unlike bulky masks and machines, you simply slip the appliance in at bedtime, and it works quietly while you sleep.

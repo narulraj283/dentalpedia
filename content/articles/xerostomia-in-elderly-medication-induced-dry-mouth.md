@@ -30,7 +30,6 @@ references:
   - title: "Drug-Induced Salivary Dysfunction: Comprehensive Clinical Review and Management Algorithm"
     url: "https://pubmed.ncbi.nlm.nih.gov/24393821/"
 ---
-
 If you're over 65 and taking multiple medications, dry mouth might be a silent side effect you've learned to live with. But here's the truth: medication-induced dry mouth isn't something you have to accept. Almost eight out of ten older adults take at least one prescription, and roughly one-third of older people with dry mouth got it from their medications rather than from disease. The good news is that this type of dry mouth is often preventable or reversible. By working with your doctor and dentist to understand which medications might be causing problems, you can find solutions that protect both your overall health and your teeth.
 
 ## How Medications Dry Out Your Mouth
@@ -72,12 +71,6 @@ This is where teamwork between you, your dentist, and your doctor matters. Tell 
 ## Staying Comfortable Long-Term
 
 With medication-related dry mouth, consistency is key. Your teeth can be protected, your mouth can stay comfortable, and you can keep your dentures functional if you stick with preventive strategies. Regular dental visits, strong fluoride protection, saliva stimulation with xylitol products, and working with your doctor to optimize your medications create a three-pronged defense against medication side effects.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss xerostomia in elderly medication induced dry mouth, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

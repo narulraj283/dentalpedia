@@ -20,14 +20,13 @@ references:
   - "Tredwin CJ, Naik S, Lewis N, Scully C. Hydrogen peroxide tooth-whitening (bleaching) products: review of adverse effects and safety issues. Br Dent J. 2006;200(7):371-376."
   - "Tuloglu N, Bayrak S, Tunc ES, Oray B. Effect of different bleaching products on enamel microhardness and gingival irritation in children. Pediatr Dent. 2015;37(3):233-237."
 ---
-
 ## The Trade-Off: Whiter Teeth vs. Sensitivity
 
-Tooth whitening works beautifully, but it has a catch: side effects happen in 15-65% of people, depending on how aggressive the whitening is. The main issue is sensitivity (sharp tooth pain), followed by gum irritation. Understanding what causes these problems and how to prevent them means you can get a whiter smile without significant discomfort. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
+Tooth whitening works beautifully, but it has a catch: side effects happen in 15-65% of people, depending on how aggressive the whitening is. The main issue is sensitivity (sharp tooth pain), followed by gum irritation. Understanding what causes these problems and how to prevent them means you can get a whiter smile without significant discomfort.
 
 ## Why Whitening Causes Sensitivity
 
-Sensitivity is your most common problem, affecting 20-65% of people undergoing professional whitening. It usually hits you within 24-48 hours after treatment and peaks around day 2-3. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
+Sensitivity is your most common problem, affecting 20-65% of people undergoing professional whitening. It usually hits you within 24-48 hours after treatment and peaks around day 2-3.
 
 Here's what's happening inside your tooth: Hydrogen peroxide seeps through your enamel's microscopic pores (0.1-0.3 micrometer diameter), traveling through your dentin toward your tooth's nerve (the pulp). The peroxide concentration reaching your nerve—just 50 micromolar—is enough to trigger an inflammatory response. Your body releases inflammatory chemicals (cytokines) from cells near your nerve, triggering a neurogenic inflammation that results in neuropeptide release hitting your nerve terminals and causing sharp, localized pain that develops within seconds of hot, cold, or sweet stimulation.
 
@@ -133,11 +132,16 @@ Ask your dentist about:
 - Whether custom trays make sense for you
 - Post-whitening care recommendations
 
+
+Related reading: [Macroabrasion: Remove Deep Tooth Stains](/article/macroabrasion-deeper-stain-and-defect-removal.html) and [Tooth Reshaping: A Quick Fix for Minor Cosmetic Issues](/article/tooth-contouring-and-reshaping-procedures.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Bleaching-induced dental sensitivity and gingival irritation remain manageable through comprehensive prevention protocols including desensitization pre-treatment, concentration optimization, proper tray design, and fluoride application. If you have questions, your dentist can help you understand your options.
 
-> **Key Takeaway:** Whitening side effects—mainly tooth sensitivity and gum irritation—affect 15-65% of people but are manageable through pre-treatment with potassium nitrate and fluoride, using appropriate concentrations, and adopting protective techniques like properly fitted custom trays and cycling (treatment breaks).
+
+
+> **Key Takeaway:** Tooth whitening works beautifully, but it has a catch: side effects happen in 15-65% of people, depending on how aggressive the whitening is.
 
 ## Related Articles
 

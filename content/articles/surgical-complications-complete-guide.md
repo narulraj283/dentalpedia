@@ -32,7 +32,6 @@ references:
   - title: "Alling CC, Catone GA, Hillerup S. Trigeminal nerve injuries associated with implants and endosseous implant techniques. J Oral Maxillofac Surg. 1992;50(11):1212-1216."
     url: https://pubmed.ncbi.nlm.nih.gov/1430957
 ---
-
 ## When Tooth Extraction Complications Happen
 
 While most tooth extractions go smoothly, complications can occur. The good news is that serious complications are relatively uncommon—about 1 to 2% for routine extractions and slightly higher for complex cases. Complications range from minor bleeding to nerve injury or infection. Understanding what can go wrong and how it's managed helps you prepare for surgery and recognize warning signs that need immediate attention. Your surgeon is trained to prevent these problems and to manage them quickly if they do occur.
@@ -95,6 +94,3 @@ While tooth extraction complications are uncommon, understanding what they look 
 
 - [Impacted Tooth Extraction: Surgical Removal Procedures](/article/impacted-tooth-extraction-surgical-removal-procedures.html)
 
-- [Oral Surgery Techniques - What You Need to Know Before](/article/surgical-technique-overview-what-you-need-to-know.html)
-- [Bruising After Extraction](/article/bruising-after-extraction-ecchymosis-timeline.html)
-- [What to Expect: Pain Management After Oral Surgery](/article/pain-management-surgery-what-you-need-to-know.html)

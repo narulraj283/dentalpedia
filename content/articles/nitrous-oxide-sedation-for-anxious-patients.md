@@ -18,7 +18,6 @@ references:
   - title: "Long-Term Outcomes of Anxious Patients Treated with Nitrous Oxide Sedation"
     url: https://www.ncbi.nlm.nih.gov/pubmed/32190123
 ---
-
 ## Conquering Dental Fear With Laughing Gas
 
 Does the thought of a dental appointment fill you with dread? Do you avoid the dentist even when you know you need work? You're not alone—dental anxiety affects 5-10% of people severely enough to avoid necessary care.

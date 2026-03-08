@@ -46,7 +46,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Probing Depth Measuring Pocket Severity
 ---
-
 ## What Happens When Gum Disease Develops
 
 Your gums normally cling tightly to your teeth, forming a shallow space less than 3 millimeters deep around the tooth. This tight seal protects the bone and ligaments underneath. When plaque bacteria accumulate and inflammation develops, your body's immune system fights back against the infection. However, this inflammatory response also damages the tissues holding your teeth. Your gums start to separate from the teeth, creating deeper pockets where bacteria can hide and continue to damage bone and supporting structures.
@@ -166,11 +165,6 @@ Serial comparisons of probing depth at same sites over time provides more clinic
 
 For more information, see [Hand Instrumentation: Scaler and Curette Techniques](/article/hand-instrumentation-scaler-and-curette-techniques.html).
 
-## Conclusion: Probing Depth in Contemporary Practice
-
-Periodontal probing depth measurement, while imperfect due to measurement variability and probe penetration exceeding histologic attachment levels, remains essential assessment methodology for evaluating periodontal health status and disease progression. Proper technique emphasizing appropriate force application (approximately 25 grams), systematic site evaluation, and careful measurements minimizes variability and optimizes clinical utility. Integration of probing depth findings with clinical attachment level assessments, bleeding response documentation, and radiographic evaluation provides comprehensive periodontal status understanding.
-
-Recognition that probing depth measurements typically exceed histologic attachment loss by 0.5-3 mm (depending on inflammation severity) informs appropriate clinical interpretation and avoids over-interpretation of absolute depth values. Serial assessments at consistent sites tracking changes over time prove more clinically useful than absolute depth measurements for detecting disease progression or assessing treatment success. Contemporary evidence increasingly emphasizes other biomarkers (saliva markers, genomic risk assessment) complementing traditional probing in risk assessment, though probing remains the clinical gold standard for quantifying attachment loss severity.
 
 ## Conclusion
 

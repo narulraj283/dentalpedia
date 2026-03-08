@@ -32,7 +32,6 @@ references:
   - title: "Neoh KG, Hu X, Zheng L, Lee SC. Balancing osteointergration with antibacterial performance of surfacemodified bioactive implants. Biomaterials. 2012;33(32):8223-8232."
     url: https://pubmed.ncbi.nlm.nih.gov/22917548
 ---
-
 ## Introduction
 
 Having a tooth extracted or oral surgery can be stressful, especially if you don't know what to expect afterward. Your mouth follows a predictable healing timeline. Knowing what's normal—and what's not—helps you recover smoothly and know when to call your doctor if something seems wrong.
@@ -117,12 +116,6 @@ Call immediately if you experience:
 - **Pus or foul smell** (signs of infection)
 - **Difficulty swallowing or breathing**
 - **Jaw stiffness that doesn't improve after a week**
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for oral surgery recovery timeline, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## Tips for Long-Term Success
 

@@ -32,7 +32,6 @@ references:
   - title: "Esenlik E, Coker A. Eruption of a late supernumerary tooth: clinical case report. J Clin Pediatr Dent. 2014;39(2):121-123."
     url: https://pubmed.ncbi.nlm.nih.gov/25369319
 ---
-
 ## What Are Supernumerary Teeth?
 
 Some children are born with extra teeth beyond the normal 20 baby teeth or 32 permanent teeth. These extra teeth are called supernumerary teeth, and they develop when the tooth-forming structures in the jaws go into overdrive. This happens in about 1 to 4% of children in developed countries, though it's more common in Asian populations. Boys are two to three times more likely to have extra teeth than girls, suggesting there may be a genetic component that runs in families.

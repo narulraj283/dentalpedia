@@ -30,7 +30,6 @@ references:
   - title: "Riley RW et al. Surgical treatment of obstructive sleep apnea. A anatomically based approach. Arch Otolaryngol Head Neck Surg. 1990;116(3):289-293."
     url: https://pubmed.ncbi.nlm.nih.gov/2407988
 ---
-
 ## When Surgery Becomes an Option
 
 If you have sleep apnea and can't tolerate CPAP or oral appliances, or if you have a specific anatomical blockage (like enlarged tonsils or a deviated septum), your surgeon might recommend surgery to permanently enlarge your airway. Modern sleep apnea surgery isn't the blunt instrument it once was. Surgeons now identify exactly where your airway is narrowing and target those specific areas. Some surgeries expand your throat tissues, others reposition your jaw, and newer techniques use electrical stimulation to keep muscles from collapsing during sleep. Success rates vary, but for the right patient with the right anatomy, surgery can eliminate sleep apnea permanently.
@@ -65,14 +64,6 @@ Not everyone with sleep apnea needs or can have surgery. You're a good candidate
 
 Sleep apnea surgery doesn't ensure a complete cure, though jaw advancement comes closest. You might improve dramatically but still need occasional CPAP or an oral appliance during travel. Your surgeon identifies what can be surgically fixed and explains realistic outcomes. Some people need combination treatments eventually. Go into surgery understanding it's one option in managing sleep apnea, not necessarily a permanent cure.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about sleep apnea surgery: surgical airway expansion approaches and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed sleep apnea surgery: surgical airway expansion approaches, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference in how long your results last.
@@ -102,6 +93,6 @@ For the right patient with the right anatomy, sleep apnea surgery can be life-ch
 - [Sleep Apnea Symptoms](/article/sleep-apnea-symptoms.html)
 - [Sleep Quality Improvement](/article/sleep-quality-improvement.html)
 - [How Nighttime Grinding Damages Your Teeth](/article/nighttime-grinding-effects-on-teeth.html)
-- [Temporomandibular Joint Anatomy: Structure, Ligaments,](/article/tmj-anatomy-joint-structure-and-function.html)
+- [Temporomandibular Joint Anatomy: Structure, Ligaments](/article/tmj-anatomy-joint-structure-and-function.html)
 - [Sleep Apnea and Oral Appliances](/article/sleep-apnea-and-oral-appliances-treatment-alternative.html)
 

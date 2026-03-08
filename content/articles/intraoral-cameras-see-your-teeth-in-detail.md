@@ -18,7 +18,6 @@ references:
   - title: "Digital impression technology in modern dentistry"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26439738
 ---
-
 Your dentist has a small camera—smaller than a pen—that reveals what your teeth really look like up close. When your dentist uses an intraoral camera, images appear on a screen, showing your teeth 30-40 times magnified. This technology helps your dentist explain what they see and helps you understand your dental health better than any verbal description ever could.
 
 ## How Intraoral Cameras Work
@@ -74,12 +73,6 @@ Cameras work best when teeth are visible and clean. If teeth are heavily stained
 ## Patient Privacy
 
 Your images are protected as part of your medical records. Your dentist shouldn't use your images for anything beyond your personal care without your written permission. If your dentist wants to use before and after images for educational purposes or to show other patients examples, they should ask permission first.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about intraoral cameras see your teeth in detail and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

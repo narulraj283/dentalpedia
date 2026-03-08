@@ -20,10 +20,7 @@ references:
   - "Hargreaves KM, Cohen S. Cohen's Pathways of the Pulp. 11th ed. St. Louis: Elsevier; 2016."
   - "Tong DC, et al. Prophylactic antibiotics in dentistry: A review and practice recommendations. Journal of the California Dental Association. 2003;31(3):205-213."
 ---
-
-You're scheduled for a dental procedure and your dentist asks about your health history. You wonder: Do I need antibiotics before this? Are antibiotics routine before dental work?
-
-The answer: probably not, unless you have specific risk factors.
+Nervous about getting an infection after dental work and wondering if you should take antibiotics beforehand? You might not need them—and that's actually good news because unnecessary antibiotics contribute to antibiotic resistance. Here's what the evidence actually shows about when prophylactic antibiotics help.
 
 ## Myth: Everyone Needs Preventive Antibiotics Before Dental Work
 
@@ -95,12 +92,6 @@ Before any dental procedure, ask your dentist: Do I need prophylactic antibiotic
 
 What symptoms mean I should call if infection develops? When should I come back for follow-up? Getting clear answers helps you know what to expect and when to seek additional help.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about infection prevention and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed infection prevention, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -109,7 +100,7 @@ Once you've addressed infection prevention, maintaining your results requires on
 
 Preventive antibiotics before dental procedures are appropriate for specific high-risk situations but aren't routine for healthy patients. Postoperative antibiotics don't improve healing without actual infection. Modern guidelines balance infection prevention with responsible antibiotic stewardship. Your dentist assesses your individual risk and recommends antibiotics only when evidence supports benefit.
 
-> **Key Takeaway:** You probably don't need preventive antibiotics before routine dental work, but certain situations do warrant them.
+> **Key Takeaway:** Nervous about getting an infection after dental work and wondering if you should take antibiotics beforehand?
 
 ## Related Articles
 

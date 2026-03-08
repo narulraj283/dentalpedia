@@ -32,7 +32,6 @@ references:
   - title: "Nevins M, Camelo M, Tarnow DP, Janal MN, Kim DM, Nevins ML, et al. Human histologic evidence of a connective tissue attachment to dental implants. J Periodontol. 2011;82(7):1047-1053."
     url: https://pubmed.ncbi.nlm.nih.gov/21323704
 ---
-
 ## Understanding Bone Graft Healing
 
 When your jawbone doesn't have enough volume to support an implant, bone grafting can build up the missing bone. This might sound complicated, but bone has an amazing ability to heal and grow. Your body gradually replaces graft material with your own healthy bone. This process takes several months, but following the expected timeline helps you prepare and understand what's happening.

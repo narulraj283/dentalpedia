@@ -30,7 +30,6 @@ references:
   - title: "S. mutans acidogenicity and acid tolerance as virulence factors in cavity development"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27540298
 ---
-
 Your cavity risk depends on several factors—some you can control and some you can't. You might develop cavities even with good brushing, while others stay cavity-free despite less careful habits. This depends on your diet, how much saliva you produce, and your genetics. Your dentist can assess your personal risk level and recommend the right prevention plan for you.
 
 ## How Sugar and Diet Affect Your Cavity Risk
@@ -125,7 +124,7 @@ Your cavity risk comes from a mix of factors you can control and factors you can
 
 - [Evidenced-Based Tooth Brushing Technique and Oral](/article/best-practices-for-teeth-brushing-technique.html)
 - [Flossing Benefits: What You Need to Know](/article/flossing-benefits-what-you-need-to-know.html)
-- [Caries Risk Assessment and Key Vulnerability Factors:](/article/timeline-for-cavity-risk-factors.html)
+- [Caries Risk Assessment and Key Vulnerability Factors](/article/timeline-for-cavity-risk-factors.html)
 - [Gum Disease Prevention: A Complete Patient Guide](/article/benefits-of-gum-disease-prevention.html)
 - [Home Care Between Dental Visits: Extended Schedule](/article/home-care-between-dental-visits-extended-schedule.html)
 

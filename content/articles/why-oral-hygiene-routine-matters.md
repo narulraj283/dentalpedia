@@ -32,7 +32,6 @@ references:
   - title: "Interdental Biofilm Persistence and Daily Routine Requirements"
     url: https://pubmed.ncbi.nlm.nih.gov/27634537
 ---
-
 ## Your Daily Brushing and Flossing Routine Actually Works—If You Do It Right
 
 Random tooth cleaning doesn't prevent disease. A systematic routine does. The difference between people who keep their teeth for life and those who progressively lose them comes down to a consistent daily routine that's designed properly and actually gets done. Understanding how your mouth responds to daily efforts, the right sequence of steps, and realistic time requirements makes it easier to commit to a routine and stick with it. Once you make it automatic, it's just part of your day—no willpower required.

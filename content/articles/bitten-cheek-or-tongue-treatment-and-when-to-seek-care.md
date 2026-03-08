@@ -20,12 +20,11 @@ references:
   - "Kalogeropoulou E, Kalogeropoulou K. Management of traumatic injuries in the orofacial region. Dent Traumatol. 2003;19(6):298-303."
   - "Nase JB, Susarla SM, Dodson TB. Risk factors for infection following wisdom tooth extraction. J Oral Maxillofac Surg. 2014;65(11):2276-2284."
 ---
-
 ## Why Biting Your Cheek or Tongue Happens
 
-It's embarrassing and painful, but it's also incredibly common. You accidentally bite your cheek while chewing, your mouth feels numb after a dental injection, or you're eating fast and just catch the inside of your mouth. Usually it's a minor injury, but knowing what to do—and when you need professional help—makes a big difference in how quickly it heals. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+It's embarrassing and painful, but it's also incredibly common. You accidentally bite your cheek while chewing, your mouth feels numb after a dental injection, or you're eating fast and just catch the inside of your mouth. Usually it's a minor injury, but knowing what to do—and when you need professional help—makes a big difference in how quickly it heals.
 
-About 15-20% of people accidentally bite their cheek or tongue right after getting a dental numbing injection, when their mouth feels thick and they can't feel where their teeth are. The good news? Your mouth heals unusually fast because of its rich blood supply and special properties of saliva. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+About 15-20% of people accidentally bite their cheek or tongue right after getting a dental numbing injection, when their mouth feels thick and they can't feel where their teeth are. The good news? Your mouth heals unusually fast because of its rich blood supply and special properties of saliva.
 
 ## Understanding Your Injury: Healing Happens Quickly
 
@@ -158,11 +157,16 @@ The one exception: lip lacerations that cross the visible red border need carefu
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
+
+Related reading: [Gingival Retraction: Creating Crown Space](/article/gingival-retraction-creating-crown-space.html) and [Risk and Concerns with Gummy Smile Fix](/article/risk-and-concerns-with-gummy-smile-fix.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Accidental oral soft tissue injuries from biting commonly resolve through conservative home management including hemostasis, topical antimicrobial care, pain management, and supportive nutrition. If you have questions, your dentist can help you understand your options.
 
-> **Key Takeaway:** Most accidental cheek and tongue bites heal beautifully on their own with simple pressure, gentle rinsing, and protective eating habits—but you should see a dentist if bleeding lasts over 30 minutes, the wound is very long or jagged, or you notice signs of infection.
+
+
+> **Key Takeaway:** It's embarrassing and painful, but it's also incredibly common.
 
 ## Related Articles
 

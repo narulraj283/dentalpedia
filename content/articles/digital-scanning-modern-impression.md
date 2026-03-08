@@ -20,7 +20,6 @@ references:
   - "Al-Omari WM, El-Anwar MI, Abdelhameed FA. Accuracy of digital impressions: A comparative study. J Prosthodont. 2021;30(2):145-152."
   - "Gimenez B, Ozcan M, Cerqueira S, et al. Intraoral digital scanners: A review. J Contemp Dent Pract. 2021;22(6):623-632."
 ---
-
 ## What Is Digital Scanning and Why It Matters
 
 Digital scanning is a big deal in modern dentistry. Instead of traditional impression materials, your dentist uses a small handheld camera device to take a 3D digital picture of your teeth and gums. The pictures are incredibly accurate—within 25 to 150 micrometers (about the width of a human hair). That's accurate enough to send directly to the dental laboratory to make your crown, without needing to create a physical stone model. Two-thirds of dentistry practices now use digital scanning, and within the next few years, almost 9 out of 10 dental offices will be using it as their standard method.
@@ -105,7 +104,7 @@ Digital scanning is transforming dentistry. It's fast, accurate, and comfortable
 
 The technology keeps improving, and more dentists are adopting it every year. If your dentist offers digital scanning, I strongly recommend it. You'll have a better experience and a better crown.
 
-> **Key Takeaway:** Digital scanning is a big deal in modern dentistry.
+> **Key Takeaway:** Instead of traditional impression materials, your dentist uses a small handheld camera device to take a 3D digital picture of your teeth and gums. The pictures are incredibly accurate—within 25 to 150 micrometers (about the width of a human hair).
 
 ## Related Articles
 

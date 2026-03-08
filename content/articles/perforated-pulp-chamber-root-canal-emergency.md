@@ -42,7 +42,6 @@ subcategory: Endodontic Overview
 subcategory_slug: overview-endo
 title: Perforated Pulp Chamber Root Canal Emergency
 ---
-
 ## What Is a Perforated Pulp Chamber?
 
 A perforated pulp chamber is an accidental hole created in the tooth during endodontic (root canal) treatment. Think of your tooth as a structure with walls—the pulp chamber is the hollow center where the nerve and blood vessels live. During treatment, your dentist needs to carefully access this chamber to clean out infected tissue.
@@ -118,6 +117,6 @@ Whether you're exploring treatment for the first time or looking into follow-up 
 - [Apical Foramen: Root Tip Opening](/article/apical-foramen-root-tip-opening.html)
 - [Necrotic Pulp: Dead Nerve Tissue](/article/necrotic-pulp-dead-nerve-tissue.html)
 
-- [Stainless Steel Endodontic Files: Metallurgy,](/article/stainless-steel-files-traditional-material.html)
+- [Stainless Steel Endodontic Files: Metallurgy](/article/stainless-steel-files-traditional-material.html)
 - [Can My Tooth Save Itself Without a Root Canal?](/article/reversible-pulpitis-can-tooth-recover.html)
 

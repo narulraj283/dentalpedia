@@ -32,7 +32,6 @@ references:
   - title: "Heintze SD, Cavalleri A, Forchelet C, Rousson V. Wear of nine modern glass ionomer and resin composite/glass ionomer hybrid materials--a 4-year follow-up in 5 volunteer students. Dent Mater. 2006;22(3):263-268."
     url: https://pubmed.ncbi.nlm.nih.gov/16099531
 ---
-
 ## Introduction
 
 You just got a beautiful cosmetic restoration—a crown, veneer, or composite bonding—and your smile looks perfect. But what if it gets darker or more yellow in a few months? That's more common than you might think.

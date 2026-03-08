@@ -47,7 +47,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Pocket Elimination Creating Shallow Pockets
 ---
-
 ## Understanding Periodontal Pockets and Surgery
 
 When gum disease occurs, it creates pockets—spaces below your gum line where bacteria hide and bone is lost. Deeper pockets trap more bacteria and make your home care less effective. Traditional gum surgery removes infected tissue and cleans root surfaces but doesn't change the pocket architecture. Osseous resective surgery takes a different approach: your surgeon actually reshapes the bone to eliminate the pocket's concave shape that traps bacteria, creating a flatter or more convex bone contour that you can clean and maintain.
@@ -110,6 +109,9 @@ The permanent gingival recession resulting from osseous surgery must be discusse
 
 
 For more information, see [Why Your Front Teeth Are Drifting Apart and How](/article/tooth-migration-drifting-apart-or-forward.html).
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

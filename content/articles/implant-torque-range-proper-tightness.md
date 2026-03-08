@@ -28,7 +28,6 @@ references:
   - title: "Clinical protocols for implant torque measurement and validation"
     url: https://www.ncbi.nlm.nih.gov/pubmed/22264903
 ---
-
 If you're getting a dental implant, you might hear your dentist mention "torque." This technical term describes how tightly your dentist tightens your implant during surgery and how firmly your crown is attached afterward. Getting the tightness just right is crucial—too loose and your implant might move, too tight and you can damage bone. Understanding this concept helps you appreciate why your dentist uses calibrated tools rather than just guessing. Learning more about [Osseointegration Timeline: How Long Until Stable](/article/osseointegration-timeline-how-long-until-stable.html) can help you understand this better.
 
 ## What is Torque and Why Does It Matter?

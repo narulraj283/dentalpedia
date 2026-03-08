@@ -20,7 +20,6 @@ references:
   - "Kwon M, Aizman M, Dunn W. Recognition of life-threatening complications: intraoperative and postoperative considerations. Oral Maxillofac Surg Clin North Am. 2023;35(4):533-545."
   - "Chiapasco M, Rossoni G, Corbella S. Incidence and management of implant failures and complications. Periodontol 2000. 2023;37:203-226."
 ---
-
 ## Prevention Is Better Than Treatment
 
 Most surgical complications are preventable. Your dentist's job before surgery is to: assess your health history, optimize your medical status, use gentle technique, and follow protocols proven to reduce complications. Your job is to be honest about medical conditions, take prescribed medications, and follow post-operative instructions exactly.
@@ -182,21 +181,6 @@ This preparation lets you focus on healing rather than scrambling after surgery.
 ## The Bottom Line
 
 Oral surgery is routine and usually uncomplicated. Most patients experience normal healing with mild discomfort easily managed by medication and time. Serious complications are rare when you and your dentist prepare well, use proper technique, and address developing problems early. Follow your dentist's instructions, maintain good hygiene, avoid smoking, and contact your dentist if anything seems wrong.
-
-## Questions to Ask Your Dentist
-
-Before your procedure:
-
-- What specific complications are possible for my case?
-- What warning signs should I watch for?
-- When can I resume normal activities?
-- What's your success rate with this procedure?
-- How experienced are you with my specific surgery?
-- Can you show me photos of typical recovery progression?
-- How will you manage if complications develop during surgery?
-- What's your follow-up protocol?
-- Am I high-risk for any specific complication?
-- What should I do if something feels wrong post-op?
 
 ## Conclusion
 

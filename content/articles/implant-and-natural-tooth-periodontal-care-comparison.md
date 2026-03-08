@@ -30,7 +30,6 @@ references:
   - title: "Long-term periodontal prognosis with implant support"
     url: https://www.ncbi.nlm.nih.gov/pubmed/15611242
 ---
-
 Should you save your natural tooth or replace it with an implant? Both need regular care, but they respond to problems differently. Your natural teeth can often be saved even with disease, but implants need prevention more than cure. Understanding how they differ helps you make smart choices about your teeth. Learning more about [Keeping Your Gums and Implants Healthy](/article/implant-maintenance-long-term-care-and-cleaning.html) can help you understand this better.
 
 ## How Natural Teeth and Implants Are Built Differently
@@ -72,12 +71,6 @@ That said, well-cared-for implants perform beautifully. Success rates are 90-95%
 Knowing these differences helps you decide what's best. If your natural tooth has gum disease but reasonable prognosis, aggressive treatment might save it because treatment can reverse damage. If a tooth is hopeless, implant replacement offers superior long-term results—better than any other way to replace a missing tooth.
 
 The key insight is that natural teeth are more forgiving and recoverable, while implants need prevention more than treatment. Either way, excellent home care and regular professional visits keep your mouth healthy long-term.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about implant and natural tooth periodontal care comparison and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

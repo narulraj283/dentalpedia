@@ -41,7 +41,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Pregnancy Complications Periodontitis and Preterm Birth
 ---
-
 ## How Gum Disease Affects Your Pregnancy
 
 If you've been told you have gum disease, especially during pregnancy, you might wonder how a problem in your mouth could affect your baby. The answer is that untreated gum disease creates inflammation and bacteria that can travel throughout your body, triggering responses that potentially lead to premature labor and low birth weight. This article explains the connection between gum disease and pregnancy complications, and what you can do to protect yourself and your baby.

@@ -11,7 +11,6 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 reviewed: true
 ---
-
 ## Why Teeth Aren't Solid Colors
 
 When you look closely at a natural tooth, you might notice it's not the same color throughout. The tip is different from the middle, which is different from the base. This isn't a problem—it's normal and actually beautiful.
@@ -24,53 +23,49 @@ Every tooth naturally has three distinct color zones:
 
 ### The Cervical Third (Bottom/Base)
 
-**Characteristics:**
-- Darkest area of the tooth
-- Highest color saturation (richest yellow-to-orange color)
-- Thicker dentin (inner structure) showing through thin enamel
-- The cervical third appears 1-2 shades darker than the tip
+**What It Looks Like:**
+- Darkest part of tooth
+- Rich yellow-to-orange color
+- Shows through thin enamel
+- 1-2 shades darker than the tip
 
 **Why:**
-- Enamel is thinnest here (only 0.3-0.5 mm)
-- Cementum (tan-colored root covering) is exposed
-- More dentin visible through thin enamel
+- Enamel is very thin here (0.3-0.5 mm)
+- Dentin (inner yellow layer) shows through
 - Dentin is naturally yellow-orange
 
-**What it means:**
-When you look at a shade guide in your dentist's office, you might notice the cervical part of the shade tab doesn't match your cervical tooth color. This is a known problem—shade guides don't represent this area well.
+**Important Note:**
+Shade guides in the dentist's office often don't match the cervical color of your tooth. This is a known problem.
 
 ### The Middle Third
 
-**Characteristics:**
-- Intermediate darkness (lighter than cervical, darker than incisal)
-- Moderate color saturation
-- This zone dominates what people see when they look at your smile
-- Most visible part of the tooth
+**What It Looks Like:**
+- Medium darkness (lighter than base, darker than tip)
+- Medium color
+- Most visible when you smile
 
 **Why:**
 - Enamel thickness is optimal here (1-1.5 mm)
-- Good balance of dentin influence
-- Maximum coverage of natural tooth structure
+- Good balance of dentin
 
-**What it means:**
-When choosing a tooth shade, dentists often focus here because this is what's most visible in your smile.
+**Important:**
+Dentists focus on this area when choosing shade because it's what people see most.
 
 ### The Incisal Third (Top/Tip)
 
-**Characteristics:**
-- Lightest area of the tooth
-- Appears slightly grayish or blue-tinted
-- Translucent (you can almost see through it)
-- 1-2 shades lighter than the cervical
+**What It Looks Like:**
+- Lightest area
+- Slightly gray or blue tint
+- Somewhat see-through
+- 1-2 shades lighter than base
 
 **Why:**
-- Enamel is very thin here (only 0.5-1 mm)
-- Mostly enamel with minimal dentin showing through
-- Thin enamel allows light transmission differently
-- The incisal tip appears more opaque than translucent
+- Enamel is very thin here (0.5-1 mm)
+- Mostly enamel, little dentin shows
+- Thin enamel lets light through differently
 
-**What it means:**
-This translucent quality is important for natural appearance. Restorations that replicate incisal translucency look much more natural than solid color restorations.
+**Important:**
+This see-through quality is key for natural looks. Restorations that copy this look more natural.
 
 ## Advanced Color Characteristics
 

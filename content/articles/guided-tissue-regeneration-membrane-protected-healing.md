@@ -28,7 +28,6 @@ references:
   - title: "Evidence-Based Periodontal Regenerative Procedures"
     url: "https://pubmed.ncbi.nlm.nih.gov/21976429/"
 ---
-
 ## Saving Teeth With Gum Disease By Regenerating Bone
 
 When gum disease gets serious, it destroys the bone and ligament supporting your teeth. Once that supporting system is gone, your teeth loosen and can eventually fall out. But there's a remarkable procedure called guided tissue regeneration (GTR) that can actually regrow some of that lost bone and ligament.
@@ -152,6 +151,9 @@ Your role in recovery is important.
 Before GTR existed, severe gum disease meant tooth loss. Now you have an option that can actually regrow the structures supporting your tooth.
 
 GTR gives you a chance to keep a tooth that would otherwise be lost. The regenerated bone is living, functional bone that will support your tooth long-term. Combined with good home care and regular professional cleanings, GTR can save teeth that would have otherwise required extraction.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

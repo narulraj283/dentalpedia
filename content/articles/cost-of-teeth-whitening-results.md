@@ -22,7 +22,6 @@ references:
   - "Haywood VB, Leonard RH, Dixon DL, Rupp SA. Rapidly walking patients out of one whitening technique to another. J Esthet Dent. 1995;7(3):140-144."
   - "Hegedüs Z, Goda E, Varga G. Microbiological effects of bleaching systems on plaque biofilm. Quintessence Int. 2010;41(9):749-755."
 ---
-
 ## What Professional Whitening Actually Achieves
 
 Professional teeth whitening lightens your teeth by 2 to 8 shades on the standard shade guide. Most people achieve 2 to 4 shades of lightening with a single in-office treatment. Three sessions spaced a week apart can achieve 6 to 10 shades of lightening—that's genuinely dramatic. About 70 percent of people achieve satisfying results with just one session costing $600 to $1,000.
@@ -89,7 +88,7 @@ The key to satisfaction: realistic expectations before treatment, honest communi
 
 Professional teeth whitening achieves 2 to 8 shades of lightening with excellent success rates. In-office treatment provides fastest results (2 to 4 shades per session). At-home trays provide slower but effective results (4 to 7 shades over 4 to 6 weeks) at lower cost. Results last 6 to 12 months depending on habits and require touch-up maintenance to sustain.
 
-> **Key Takeaway:** See what real teeth whitening results look like and what shade improvement you can actually expect.
+> **Key Takeaway:** Professional teeth whitening lightens your teeth by 2 to 8 shades on the standard shade guide.
 
 ## Related Articles
 

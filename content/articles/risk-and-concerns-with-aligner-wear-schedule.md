@@ -18,7 +18,6 @@ references:
   - title: "Park H, et al. Proper pressure for the effectiveness of clear aligners. Prog Orthod. 2017;18(1):27."
     url: https://pubmed.ncbi.nlm.nih.gov/29164356
 ---
-
 ## Why Your Clear Aligners Must Be Worn 22 Hours Daily
 
 You chose clear aligners because they seemed so much easier than braces—you can remove them, they're invisible, and treatment sounds convenient. But your orthodontist keeps emphasizing that you need to wear them 22 hours every single day, and you're wondering if that's really necessary. Can't you get away with 20 hours when you're busy? Or 18 hours on travel days? The short answer is no—consistent 22-hour wear is critical for your aligners to work.
@@ -57,14 +56,6 @@ Find motivating ways to maintain compliance. Progress photos showing tooth movem
 
 Consider your lifestyle. If your job or activities make consistent wear difficult, discuss this with your orthodontist. They might recommend fixed braces instead, which require no compliance—they work 24/7 regardless of your choices.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about why your clear aligners must be worn 22 hours daily and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed why your clear aligners must be worn 22 hours daily, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference in how long your results last.
@@ -72,6 +63,9 @@ Once you've addressed why your clear aligners must be worn 22 hours daily, maint
 Pay attention to any changes in your mouth and report them to your dentist early. Catching small issues before they become bigger problems saves you time, money, and discomfort. Your dentist may recommend specific products or routines based on your treatment.
 
 Diet also plays a role in protecting your dental health. Limiting sugary snacks and acidic drinks helps preserve your teeth and any dental work you've had done. Drinking water throughout the day helps wash away food particles and keeps your mouth hydrated.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

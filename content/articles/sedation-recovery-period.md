@@ -29,7 +29,6 @@ subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
 title: Sedation Recovery Period
 ---
-
 ## Introduction
 
 When you choose sedation for your dental procedure, one important question comes up: "How long until I'm back to normal?" The answer isn't just about feeling awake—your dentist needs to make sure your body has fully recovered before you leave the office. Recovery happens in stages, and each stage serves an important purpose in keeping you safe.

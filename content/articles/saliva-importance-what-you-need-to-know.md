@@ -43,7 +43,6 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: Dry Mouth? Here's What You Need to Know About
 ---
-
 ## Do You Have Dry Mouth? Here's What You Should Know
 
 If you experience a persistent dry feeling in your mouth despite drinking water, or if you've noticed difficulty chewing or swallowing, or if your mouth feels sticky, you might have dry mouth (xerostomia). This condition affects millions of people and can seriously impact your oral health. The good news is that once you understand what's causing your dry mouth, you can take specific steps to manage it and protect your teeth.

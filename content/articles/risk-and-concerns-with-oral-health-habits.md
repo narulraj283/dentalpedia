@@ -45,7 +45,6 @@ subcategory: Preventive Overview
 subcategory_slug: overview-prevent
 title: Risk and Concerns with Oral Health Habits
 ---
-
 ## Building Better Oral Health Habits
 
 Your daily habits are what really protect your teeth. Brushing twice daily and flossing, while they seem simple, require good technique to actually work. The problem is that most people develop their oral health habits from their parents' example or from commercials, not from dentists. This often means they're doing things that don't work well—or even cause damage. This guide explains what you're actually supposed to be doing.

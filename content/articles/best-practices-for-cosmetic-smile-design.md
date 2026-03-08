@@ -22,14 +22,13 @@ references:
   - "Sherwood KH, Barsanti SJ, Travers KH. Mesiodistal crown dimension index of maxillary anterior permanent teeth in a clinical population. J Prosthet Dent. 2002;87(2):149-155."
   - "McLaren EA, Burch J. Smile design for the esthetic patient. Inside Dentistry. 2005;1(5):36-43."
 ---
-
 ## Why Smile Design Is Your Secret Weapon
 
-Great smiles don't happen by accident. There's actual science behind what makes a smile look naturally beautiful, symmetrical, and balanced. Whether you're fixing a single chipped tooth or completely transforming your look, smile design helps you and your dentist get on the same page before any work starts. Let's break down the key elements that make smiles work. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
+Great smiles don't happen by accident. There's actual science behind what makes a smile look naturally beautiful, symmetrical, and balanced. Whether you're fixing a single chipped tooth or completely transforming your look, smile design helps you and your dentist get on the same page before any work starts. Let's break down the key elements that make smiles work.
 
 ## How Much Gum Should Show?
 
-This is question number one. When you smile big, how much of that pink gum shows above your top front teeth? Research shows that 0-2 millimeters of gum display looks attractive to almost everyone. Anything more than that starts looking like a "gummy smile" to most people, though some folks are okay with a little more. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
+This is question number one. When you smile big, how much of that pink gum shows above your top front teeth? Research shows that 0-2 millimeters of gum display looks attractive to almost everyone. Anything more than that starts looking like a "gummy smile" to most people, though some folks are okay with a little more.
 
 The cool thing is that people are way more forgiving about other stuff if your gum line is in the right ballpark. A person might have slightly crooked teeth or unusual proportions, but if their gum display is balanced, they still look great.
 
@@ -95,6 +94,9 @@ This is where a really good dentist shines—knowing when to collaborate with ot
 
 Before any cosmetic work starts, good dentists take photos showing your current smile and facial features. These become your reference—your before picture. At the end, they'll take after photos so you can see exactly what changed. It's a great investment in clarity and satisfaction.
 
+
+Related reading: [Common Misconceptions About Cosmetic Crown Selection](/article/common-misconceptions-about-cosmetic-crown-selection.html) and [Your Guide to Cosmetic Bonding Process](/article/benefits-of-cosmetic-bonding-process.html).
+
 ## Conclusion
 
 : Invest Time in Planning
@@ -103,7 +105,7 @@ The best cosmetic outcomes come from dentists who spend real time planning befor
 
 When you're considering cosmetic dentistry, ask your dentist if they use digital smile design. Ask to see before-and-after examples. Make sure they're really thinking about YOUR smile and YOUR face, not just following a template. That conversation upfront pays off enormously in how happy you'll be with your result.
 
-> **Key Takeaway:** Evidence-based smile design parameters including dental-to-facial analysis, tooth proportions, and esthetic guidelines for multidisciplinary planning.
+> **Key Takeaway:** Great smiles don't happen by accident. There's actual science behind what makes a smile look naturally beautiful, symmetrical, and balanced.
 
 ## Related Articles
 

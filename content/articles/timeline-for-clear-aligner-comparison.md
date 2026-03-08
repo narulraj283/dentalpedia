@@ -30,7 +30,6 @@ references:
   - title: "Campbell PM. The dilemma of Class II correction: extraction vs non-extraction. Angle Orthod. 2007;77(6):890-891."
     url: https://pubmed.ncbi.nlm.nih.gov/18004925
 ---
-
 ## Getting Started with Clear Aligners
 
 Clear aligners like Invisalign are a popular choice for straightening teeth—they're nearly invisible and easier to care for than traditional braces. You'll wear a series of custom-made plastic trays that gradually move your teeth into the right position. The main brands you might encounter are Invisalign, ClearCorrect, and SureSmile. While they work similarly, they have some differences in how effective they are and how long treatment takes. Your dentist will help you pick the system that works best for your specific situation.
@@ -68,12 +67,6 @@ Invisalign has been around the longest and has the most research showing it work
 ## What Happens After Treatment Ends
 
 Once your teeth are straight, you'll need to wear a retainer (usually a clear plastic one, similar to your aligners) to keep them that way. You might wear it full-time for a few months after treatment, then switch to wearing it just at night long-term. Your teeth have a natural tendency to shift back, and a retainer prevents that. Many people wear their retainer every single night for the rest of their lives—it becomes part of their routine, like brushing their teeth. Understanding [The Benefits of Braces Food Restrictions](/article/benefits-of-braces-food-restrictions.html) and good habits during treatment will set you up for success.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for clear aligner comparison, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

@@ -49,7 +49,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Recovery Timeline What You Need to Know
 ---
-
 ## Understanding Your Personal Recovery Timeline
 
 Your recovery won't follow a single template—multiple factors unique to your situation will influence how quickly you heal. The type of procedure (simple extraction, surgical extraction, implant, etc.) is primary, but your age, overall health, medications, and lifestyle also matter significantly.
@@ -129,6 +128,9 @@ The most common cause of delayed recovery is not following postoperative instruc
 Proper nutrition, adequate sleep, and stress management support faster healing. When you're tired, stressed, and not eating well, your immune system is compromised and healing is impaired. Prioritizing these fundamentals during recovery optimizes your body's healing response.
 
 Your dentist won't restrict you unnecessarily—all the restrictions are based on science showing they improve healing. Temporarily adhering to them is worthwhile investment in faster, better healing and fewer complications. Most people find that carefully following instructions for one week results in such improved healing that they're grateful they made the effort.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

@@ -20,12 +20,11 @@ references:
   - "Slade GD, et al. Halitosis correlations with inflammatory markers. Oral Dis. 2003;9(3):135-141."
   - "Kleinberg I, et al. Oral malodor. In: Textbook of Clinical Oral Biology. 3rd ed. Quintessence; 2014."
 ---
-
 ## Three Different Bad Breath Problems: Critical Distinction for Treatment
 
-Not everyone with perceived bad breath actually has it, and understanding which category you fall into completely changes the treatment approach. Roughly 75% of people with perceived breath concerns have genuine halitosis, while 25% have perception without objective findings. This distinction is crucial. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+Not everyone with perceived bad breath actually has it, and understanding which category you fall into completely changes the treatment approach. Roughly 75% of people with perceived breath concerns have genuine halitosis, while 25% have perception without objective findings. This distinction is crucial.
 
-**Real bad breath (genuine halitosis)** (75-85% of people seeking treatment): You actually produce odor detectable by others—this is an objective reality. You have an underlying oral or medical problem that needs fixing. This condition is genuine and very fixable with targeted treatment. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+**Real bad breath (genuine halitosis)** (75-85% of people seeking treatment): You actually produce odor detectable by others—this is an objective reality. You have an underlying oral or medical problem that needs fixing. This condition is genuine and very fixable with targeted treatment.
 
 **Imagined bad breath (pseudo-halitosis)** (10-15%): You think you have bad breath, but when measured objectively with calibrated instruments, breath measurements are completely normal. Others don't notice anything when you ask them. You need reassurance supported by objective testing results, not antimicrobial therapy. This group often benefits most from dental assessment that rules out problems and provides measurable proof of normalcy.
 
@@ -131,11 +130,12 @@ Dry mouth severely worsens bad breath and makes treatment refractory—address x
 
 Expect acute cases (food-related, no periodontal disease) to improve within 24 hours and resolve within 1 week. Chronic halitosis (periodontal disease) shows gradual improvement over 4-6 weeks with plateau at 70-80% improvement by week 8. Systemic cases often don't improve with dental treatment alone and require underlying disease management. Set realistic expectations and commit to long-term maintenance—halitosis control requires sustained effort, not just acute treatment.
 
+
+Related reading: [Bad Breath Elimination: What Every Patient Should Know](/article/best-practices-for-bad-breath-elimination.html) and [Gum Recession and Tissue Loss: What You Need to Know](/article/mucogingival-deformities-tissue-deficiency-problems.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
-
-> **Key Takeaway:** Not everyone with perceived bad breath actually has it, and understanding which category you fall into completely changes the treatment approach. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** Testing includes dentist olfactory evaluation, Halimeter measurement of hydrogen sulfide concentration, and optional gas chromatography for precise compound identification. 85-90% of bad breath comes from the mouth: deep gum pockets from periodontal disease (most common cause), tongue coating from biofilm, tonsil stones from debris accumulation, or yeast overgrowth.
 
 ## Related Articles
 

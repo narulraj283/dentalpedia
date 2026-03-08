@@ -32,7 +32,6 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: How Fluid Movement in Your Teeth Causes Sensitivity
 ---
-
 Have you ever wondered why a blast of cold air from your air conditioner hitting your exposed tooth roots causes sharp pain, or why acidic foods make your sensitive teeth hurt? The answer lies in how fluid moves inside your teeth. Understanding this science helps explain why certain sensitivity treatments work and why others don't.
 
 ## What's Inside Your Tooth Structure?
@@ -95,7 +94,7 @@ Tooth sensitivity happens when fluid inside your tooth's tubules moves in respon
 
 Home-use products take a few weeks of regular use to build up enough sealing material, while professional treatments provide faster relief by depositing more sealing material or creating complete barriers to fluid movement. Understanding how fluid movement causes sensitivity helps explain why preventing tubule exposure is better than treating sensitivity after it develops. Talk to your dentist about which options are right for your specific situation.
 
-> **Key Takeaway:** Learn the science behind why exposed teeth hurt and how tooth sensitivity treatments work at the fluid level.
+> **Key Takeaway:** Have you ever wondered why a blast of cold air from your air conditioner hitting your exposed tooth roots causes sharp pain, or why acidic foods make your sensitive teeth hurt?
 
 ## Related Articles
 

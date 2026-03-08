@@ -28,7 +28,6 @@ references:
   - title: "Long-term stability and durability of custom versus stock trays"
     url: https://pubmed.ncbi.nlm.nih.gov/21950424
 ---
-
 ## Custom Trays Are Made Just for Your Teeth
 
 Custom whitening trays are made by your dentist specifically for your teeth. The process starts with your dentist taking an impression or digital scan of your teeth. Using this model, a professional lab vacuum-forms a thin plastic tray (about 1mm thick) that matches your exact tooth contours. This custom-made tray is designed with several important features for safe, effective whitening.
@@ -68,12 +67,6 @@ Think about real-world costs. Professional whitening costs $500-800. Custom tray
 Over 5 years: $500-800 + $400 + (5 years × 2 touch-ups × $40) = roughly $1,200-1,400 total for years of bright teeth. Compare that to stock trays: $40 initial cost, but if you need them to be 70% as effective, you might need 21 nights with stock trays versus 7 nights with custom. That's 3X the gel cost. Stock trays also deteriorate quickly, requiring replacement every 1-2 years. After 5 years, you've bought 3-4 new trays ($30-60 each) plus gel costs that exceeded custom tray costs.
 
 The best approach for serious whitening? Get professional in-office treatment for initial dramatic whitening, then use custom trays for maintenance. This combines rapid results with long-term affordability.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss whitening trays custom vs stock fit, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

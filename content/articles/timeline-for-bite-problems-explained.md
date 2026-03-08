@@ -32,7 +32,6 @@ references:
   - title: "Gravina MA, Brunharo VP, Canavarro C, Artese F. Maxillary skeletal and dental changes with the Herbst appliance: A comparison with other appliances. Am J Orthod Dentofacial Orthop. 2015;147(5):568-577."
     url: https://pubmed.ncbi.nlm.nih.gov/25920205
 ---
-
 ## Introduction
 
 About half of all people have bite problems at some point—teeth that don't line up the way they should. Sometimes bite problems are really small and don't bother anyone. Sometimes they're more serious and need treatment. Bite problems develop in a pretty predictable way as your teeth grow and your jaw grows, and there are specific times when treatment works best. Understanding when bite problems usually show up and what the best time to fix them is can help you and your family make smart decisions about dental care.
@@ -67,12 +66,6 @@ If you haven't had treatment yet and your bite still needs work, don't worry—y
 
 Even if you don't have a specific age range, certain bite problems are signs that you should talk to an orthodontist. These include: teeth that are crowded or overlapping, a bite where your upper front teeth stick out too much, a bite where your lower teeth stick out (underbite), a gap between your front teeth, and a crossbite (where some upper teeth bite inside your lower teeth). [Accelerating Orthodontic Treatment -](/article/benefits-of-teeth-movement-speed.html) to understand what to expect during orthodontic therapy.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for bite problems explained, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
-
 ## What to Expect During Your Visit
 
 Your dentist will begin by examining your mouth and reviewing your dental history to understand your current situation. This evaluation may include taking X-rays or digital images to get a complete picture of what is happening beneath the surface. Based on these findings, your dentist will explain the recommended treatment approach and walk you through each step of the process.
@@ -100,6 +93,3 @@ Bite problems develop in a fairly predictable pattern as you grow, and there are
 - [Orthodontic Treatment Cost Analysis -](/article/benefits-of-teeth-straightening-cost.html)
 - [Understanding Braces Discomfort Relief — A](/article/best-practices-for-braces-discomfort-relief.html)
 
-- [How Mouth Breathing Creates Bite Problems](/article/mouth-breathing-and-malocclusion-causal-relationship.html)
-- [Phase Two Comprehensive Fixed Appliance Treatment](/article/phase-two-comprehensive-fixed-appliance-treatment.html)
-- [Accelerating Orthodontic Treatment -](/article/benefits-of-teeth-movement-speed.html)

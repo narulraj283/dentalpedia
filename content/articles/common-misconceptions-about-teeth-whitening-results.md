@@ -22,7 +22,6 @@ references:
   - "Kielbassa AM, Muller J, Gernhardt CR. Effect of acid diffusion on the pH inside the root after intra-coronally bleaching with hydrogen peroxide. J Endod. 1997;23(3):144-146."
   - "Canay S, Cehreli MC. The effect of current bleaching agents on the color of light-activated composite resins. J Prosthet Dent. 2003;89(5):474-479."
 ---
-
 You probably have questions about teeth whitening. Maybe you've seen ads promising the perfect white smile, or you're wondering if the results will last. Let's talk about what really happens when you whiten your teeth and separate the hype from the facts. Understanding what to expect helps you make smart decisions about your smile.
 
 ## What Whitening Can Really Do for You
@@ -99,7 +98,7 @@ Teeth whitening can give you a noticeably brighter smile, typically 5 to 7 shade
 
 Your results will fade over time, so plan for touch-ups every 12 to 18 months. If you have existing dental work like fillings or crowns, you might need to replace them after whitening to match. Professional whitening is safe when done properly, and custom trays work better than generic options.
 
-> **Key Takeaway:** You probably have questions about teeth whitening.
+> **Key Takeaway:** Maybe you've seen ads promising the perfect white smile, or you're wondering if the results will last. Let's talk about what really happens when you whiten your teeth and separate the hype from the facts.
 
 ## Related Articles
 

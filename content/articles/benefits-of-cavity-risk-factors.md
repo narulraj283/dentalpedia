@@ -20,14 +20,13 @@ references:
 subcategory: Preventive Overview
 subcategory_slug: overview-prevent
 ---
-
 ## How Your Personal Risk Gets Assessed
 
 Your dentist doesn't give everyone the same prevention plan. Instead, they assess your individual risk using a system called CAMBRA (Caries Management by Risk Assessment). This system asks about disease indicators (do you have existing cavities? White spot lesions? Did you get a cavity in the past 3 years?), risk factors (does your mouth have high cavity bacteria?
 
-Do you visit the dentist regularly? Do you have visible plaque on your teeth?), and protective factors (do you use fluoride? Is your saliva healthy? Do you eat less frequently?). Based on your answers, you get classified as low-risk, moderate-risk, high-risk, or extreme-risk. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+Do you visit the dentist regularly? Do you have visible plaque on your teeth?), and protective factors (do you use fluoride? Is your saliva healthy? Do you eat less frequently?). Based on your answers, you get classified as low-risk, moderate-risk, high-risk, or extreme-risk.
 
-This matters because prevention recommendations change based on your risk level. A low-risk person who brushes well and doesn't snack much might need just standard care and annual visits. A high-risk person might need aggressive fluoride treatments, every-3-month visits, and close dietary coaching. Customizing your care to your actual risk is much smarter than giving everyone the same treatment. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+This matters because prevention recommendations change based on your risk level. A low-risk person who brushes well and doesn't snack much might need just standard care and annual visits. A high-risk person might need aggressive fluoride treatments, every-3-month visits, and close dietary coaching. Customizing your care to your actual risk is much smarter than giving everyone the same treatment.
 
 ## Bacteria in Your Mouth Tell Your Story
 
@@ -77,11 +76,15 @@ Risk isn't fixed forever either—it changes as life circumstances change. A per
 
 Many risk factors are beyond your control (genetics, medications prescribed by your doctor, medical conditions). But several are completely within your control: how often you snack, whether you use fluoride, your brushing and flossing habits, whether you visit the dentist regularly. Focusing on the factors you can control—especially diet and home care—makes a real difference. Work with your dentist to identify which risk factors affect you and which prevention strategies will have the biggest impact for your situation.
 
+
+Related reading: [Milk and Your Teeth: Does It Help or Hurt?](/article/milk-consumption-lactose-calcium-and-cavity-prevention.html) and [Tongue Cleaning Evidence: Effectiveness Against Oral](/article/tongue-cleaning-effectiveness-against-oral-bacteria.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about understanding cavity risk factors for better dental health or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Your dentist doesn't give everyone the same prevention plan. Your dentist can help you understand what steps are right for your specific needs.
+
+> **Key Takeaway:** Your dentist doesn't give everyone the same prevention plan.
 
 ## Related Articles
 

@@ -42,7 +42,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Periodontal Disease Genetics Family Risk Factors
 ---
-
 ## Family History and Your Gum Disease Risk
 
 If your parents or siblings have gum disease, you should know that you're at higher risk than someone without family history. Gum disease runs in families—about 30 to 50 percent of the tendency to develop periodontitis is genetic. That doesn't mean you'll definitely get gum disease, but it does mean that understanding your family risk and taking preventive steps is important.
@@ -97,7 +96,7 @@ Understanding your family history empowers you to take preventive steps that mat
 
 Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
 
-> **Key Takeaway:** If your parents or siblings have gum disease, you should know that you're at higher risk than someone without family history. Talk with your dentist to find out how this applies to your specific situation and what steps make sense for you.
+> **Key Takeaway:** Gum disease runs in families—about 30 to 50 percent of the tendency to develop periodontitis is genetic. That doesn't mean you'll definitely get gum disease, but it does mean that understanding your family risk and taking preventive steps is important.
 
 ## Related Articles
 

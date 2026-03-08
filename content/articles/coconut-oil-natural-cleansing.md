@@ -22,7 +22,6 @@ references:
   - "Teles, R., Teles, F., & Frias-Lopez, J. (2013). Lessons learned and unlearned in periodontal microbiology. Periodontology 2000, 62(1), 95-105."
   - "Vanka, A., et al. (2001). Detection of actinomycetes in human dental plaque. Indian Journal of Dental Research, 12(2), 109-115."
 ---
-
 ## What Exactly Is Oil Pulling, and Where Does It Come From?
 
 Oil pulling is an ancient practice that originated in traditional Indian medicine and has become popular again in recent years. The basic idea is simple: you swish oil around in your mouth for 10-20 minutes, and it supposedly removes harmful bacteria and toxins. The most common oil used is coconut oil, though some people use sesame or sunflower oil.
@@ -79,13 +78,13 @@ If you have cavities, gum disease, or other dental issues, don't expect oil pull
 
 Oil pulling with coconut oil provides modest, real benefits for plaque reduction and bad breath when done consistently, but it's not a magic cure-all for dental problems. Research supports its use as a complementary practice alongside traditional dental care, not as a replacement for it. If you enjoy the ritual of oil pulling and your mouth tolerates it well, it can be a nice addition to your oral health routine.
 
-> **Key Takeaway:** Whether oil pulling with coconut oil helps clean your teeth, what research actually shows, and how to do it safely if you want to try it.
+> **Key Takeaway:** Oil pulling is an ancient practice that originated in traditional Indian medicine and has become popular again in recent years.
 
 ## Related Articles
 
 - [Daily Teeth Cleaning Best Practices](/article/common-misconceptions-about-daily-teeth-cleaning.html)
 - [Cheese and Dairy Foods](/article/cheese-and-dairy-foods-that-protect-teeth.html)
-- [Toothbrush Selection Complete Guide: Manual, Powered,](/article/toothbrush-selection-complete-guide.html)
+- [Toothbrush Selection Complete Guide: Manual, Powered](/article/toothbrush-selection-complete-guide.html)
 - [Custom Mouth Guards: Athletic Protection and Injury](/article/custom-mouth-guard-athletic-protection.html)
 - [Understanding Tooth Sensitivity Relief](/article/desensitizing-ingredients-potassium-nitrate-and-strontium.html)
 

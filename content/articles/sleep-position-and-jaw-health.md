@@ -96,12 +96,6 @@ If you have jaw pain, clicking, limited opening, or grinding sounds at night, te
 
 Pain that includes headaches or neck pain might indicate that your sleep position is affecting multiple areas. Your dentist or doctor can help determine the cause.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss sleep position and jaw health, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
-
 ## What to Expect During Your Visit
 
 Your dentist will begin by examining your mouth and reviewing your dental history to understand your current situation. This evaluation may include taking X-rays or digital images to get a complete picture of what is happening beneath the surface. Based on these findings, your dentist will explain the recommended treatment approach and walk you through each step of the process.
@@ -124,6 +118,6 @@ Your sleep position directly impacts your jaw health. If you're experiencing jaw
 
 - [Daytime Sleepiness: Causes](/article/daytime-sleepiness-causes.html)
 
-- [Temporomandibular Disorders Overview: Classification,](/article/tmd-temporomandibular-disorder-overview.html)
+- [Temporomandibular Disorders Overview: Classification](/article/tmd-temporomandibular-disorder-overview.html)
 - [TMJ Splint Therapy: Appliance Types, Fabrication, and](/article/tmj-splint-therapy.html)
 

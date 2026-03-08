@@ -20,7 +20,6 @@ references:
   - "Löe H, Theilade E, Jensen SB. Experimental gingivitis in man. J Periodontol. 1965;36(3):177-187."
   - "Westfelt E, Rylander H, Blohm G, et al. The effect of supragingival plaque control on the progression of advanced periodontal disease. J Clin Periodontol. 1998;25(7):536-541."
 ---
-
 ## Why Maintenance Is the Key to Keeping Your Teeth
 
 Here's something that might surprise you: if you've had gum disease, your teeth don't naturally go back to normal. You need ongoing maintenance to keep the disease from coming back and your teeth from being lost. The good news? This maintenance is affordable, and it prevents catastrophically expensive problems.
@@ -95,7 +94,7 @@ Recent research shows links between gum disease and heart disease and diabetes. 
 
 Gum health maintenance through regular professional visits and home care costs $500-1,500 yearly and keeps your teeth and protects your overall health. Skipping maintenance leads to disease recurrence costing $5,000-20,000 in treatment and eventual tooth loss costing $12,000-48,000 for replacements. The math is simple: maintain your gums affordably or lose your teeth expensively. Stay consistent with your maintenance visits and talk to your dentist about what schedule is right for your specific situation.
 
-> **Key Takeaway:** Ongoing gum health maintenance costs $500-1,500 yearly but prevents $5,000-20,000 in disease progression treatment—the best investment you can make.
+> **Key Takeaway:** Here's something that might surprise you: if you've had gum disease, your teeth don't naturally go back to normal.
 
 ## Related Articles
 

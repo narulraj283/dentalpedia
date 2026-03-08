@@ -32,7 +32,6 @@ references:
   - title: "Patient compliance and motivation in oral hygiene: behavioral approaches"
     url: "https://pubmed.ncbi.nlm.nih.gov/23265203/"
 ---
-
 If you're brushing your teeth the way you learned as a kid—with horizontal back-and-forth scrubbing motions—you're actually damaging your gums and enamel. Research shows most people brush incorrectly, spending too little time and using techniques that cause gum recession and tooth sensitivity. The good news? You can fix this tonight and notice improvement within days.
 
 ## The Problem With Horizontal Brushing

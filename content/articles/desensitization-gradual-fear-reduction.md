@@ -21,7 +21,6 @@ references:
   - "De Jongh A, Muris P, Schoenmakers N, ter Horst G. Negative cognitions of dentally anxious children. Community Dent Oral Epidemiol. 1995;23(6):380-86."
   - "Cuthbert MI, Melamed BG. A school-based intervention program to modify dental anxiety. J Am Dent Assoc. 1992;123(10):40-46."
 ---
-
 ## Introduction
 
 About one in three children experience dental fear or anxiety. If your child is anxious about dental visits, you're not alone. The good news?
@@ -126,15 +125,11 @@ Your dentist can refer you to pediatric specialists trained in advanced anxiety 
 
 Children who overcome dental anxiety early develop positive attitudes that persist into adulthood. Research shows that properly treated anxious children have fewer avoidance behaviors and better oral health as adults. Early intervention is an investment in your child's lifetime dental health.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about desensitization gradual fear reduction and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
 ## Conclusion
 
 Dental anxiety in children is treatable through gradual desensitization—exposing them to feared situations in small, manageable steps across multiple visits. Combined with positive reinforcement, simple language, and sometimes brief medication support, most anxious children become comfortable with dental care within 4-6 weeks. This early positive experience creates lifelong benefits for their dental health and confidence.
 
-> **Key Takeaway:** Dental anxiety is common in children. Learn how gradual desensitization techniques help overcome fear and build positive dental experiences.
+> **Key Takeaway:** About one in three children experience dental fear or anxiety.
 
 ## Related Articles
 

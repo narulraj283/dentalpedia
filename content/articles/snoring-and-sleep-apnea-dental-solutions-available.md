@@ -32,7 +32,6 @@ references:
   - title: "Ramirez AS, Loube DI, Tomic G, Pastor V. Efficacy of a bimaxillary tongue-retaining appliance versus a mandibular advancement appliance for obstructive sleep apnea syndrome. American Journal of Orthodontics and Dentofacial Orthopedics. 2013;144(6):844-851."
     url: https://pubmed.ncbi.nlm.nih.gov/24286904
 ---
-
 ## Snoring Isn't Just Noise
 
 Snoring is your body's signal that something's blocking your airway during sleep. If you snore, your breathing might actually stop for 10 seconds or longer multiple times per night—that's sleep apnea. Your brain has to wake you up to restart breathing. This happens repeatedly all night, preventing real sleep and depriving your brain and heart of oxygen.
@@ -66,12 +65,6 @@ Your doctor diagnoses sleep apnea, but your dentist helps treat it. Work with bo
 Treating sleep apnea reduces stress hormones, which reduces tooth grinding. Your jaw relaxes. Dry mouth improves because you're actually breathing.
 
 Your gum disease slows down. Your teeth stop loosening. Your overall mouth health dramatically improves when sleep improves.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss snoring and sleep apnea dental solutions available, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

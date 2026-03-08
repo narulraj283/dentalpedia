@@ -32,7 +32,6 @@ references:
   - title: "Janssen PT, van Diermen DE, de Lange GL, et al. Periodontal wound healing and tooth migration after flap surgery with and without simultaneous orthodontic treatment. J Clin Periodontol. 1998;25(6):445-451."
     url: https://pubmed.ncbi.nlm.nih.gov/9646525
 ---
-
 ## What's Causing That Gap?
 
 Have you noticed new gaps appearing between your front teeth? Are they drifting apart from where they used to be? This isn't just a cosmetic issue—tooth migration often signals a serious problem underneath. Unlike normal tooth movement (which happens throughout life), abnormal tooth migration is a warning sign that bone loss, usually from gum disease, is occurring. Understanding what's happening and why can help you take action before the situation gets worse.
@@ -66,12 +65,6 @@ Once gum disease is controlled and teeth are stable, orthodontic treatment can c
 After teeth are straightened, you'll need long-term retention because the relapse risk is high in people with this history. A bonded wire behind the teeth provides permanent retention. You'll also wear removable retainers nightly, possibly for life.
 
 This sounds like a lot, but it prevents the problem from happening all over again. If tongue thrust was part of your problem, your dentist might recommend working with a speech therapist to break the habit. Without addressing this, teeth can drift right back into their old position even with retention in place.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss tooth migration drifting apart or forward, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

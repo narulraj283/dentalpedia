@@ -28,7 +28,6 @@ references:
   - title: "User Compliance and Satisfaction with Mouthwash Products"
     url: https://www.ncbi.nlm.nih.gov/pubmed/23045839
 ---
-
 Walk into any pharmacy and you'll see dozens of mouthwash options, each making big promises. Some claim to whiten your teeth, others promise to eliminate bad breath or fight cavities. The challenge is figuring out which products actually work and which ones are just expensive marketing. The good news is that once you understand the difference between a rinse that's just for show and one that actually helps your teeth and gums, making the right choice becomes much easier.
 
 ## What's Really in That Bottle?

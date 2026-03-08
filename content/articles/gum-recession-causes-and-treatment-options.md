@@ -28,7 +28,6 @@ references:
   - title: "Non-Surgical Management of Gingival Recession: Plaque Control and Mechanical Trauma Reduction"
     url: https://pubmed.ncbi.nlm.nih.gov/26711152/
 ---
-
 ## Understanding and Treating Gum Recession
 
 Gum recession—when gum tissue pulls back and tooth roots become exposed—affects many people. Exposed roots cause sensitivity, look esthetically problematic, and indicate gum health concerns. Understanding what causes recession and treatment options helps you prevent further loss and restore coverage.

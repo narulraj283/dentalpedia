@@ -18,7 +18,6 @@ references:
   - title: "Malkinson S, Cohen H. The treatment of diastema by frenectomy: A review of the literature. Journal of Clinical Periodontology. 1973;46(10):617-621."
     url: https://pubmed.ncbi.nlm.nih.gov/4522151
 ---
-
 ## Introduction
 
 A gap between your front teeth (called a diastema) can affect your smile confidence. The good news? You have multiple options to close it, from simple treatments you can get in one appointment to approaches that actually move your teeth. Each option has different costs, timelines, and longevity. This guide explains your choices so you can decide what's best for your situation and budget.
@@ -87,12 +86,6 @@ Small gaps (1-2 mm) work well with bonding or orthodontics. Medium gaps (2-4 mm)
 
 If you want the fastest, cheapest solution and don't mind occasional touch-ups, bonding is perfect. If you want something that lasts many years and looks premium, veneers are worth the investment. If you want permanent results that involve no restorative material, orthodontics is ideal—even though it takes longer. Discuss what matters most to you with your dentist.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for tooth gap closure, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
-
 ## Tips for Long-Term Success
 
 Maintaining good results after dental treatment requires consistent care at home and regular professional check-ups. Brushing twice daily with a fluoride toothpaste and flossing at least once a day forms the foundation of good oral hygiene. These simple habits go a long way toward protecting your investment in your dental health and preventing future problems.
@@ -116,6 +109,3 @@ Orthodontics (braces or aligners) physically move teeth and offer permanent resu
 - [Common Misconceptions About Gummy Smile Fix](/article/common-misconceptions-about-gummy-smile-fix.html)
 - [Buccal Corridors: Impact on Smile Esthetics and Facial](/article/buccal-corridors-impact-on-smile-aesthetics.html)
 
-- [Porcelain Etching and Veneer Bonding—Creating](/article/porcelain-etching-veneer-bonding.html)
-- [Gummy Smile Fix: Cosmetic Solutions](/article/how-to-gummy-smile-fix.html)
-- [Gummy Smile Fix: Complete Guide](/article/gummy-smile-fix-complete-guide.html)

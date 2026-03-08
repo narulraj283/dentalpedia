@@ -21,7 +21,6 @@ subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
 title: 'Denture Rest Seats: Preparing Your Teeth to Support'
 ---
-
 ## What Rest Seats Are and Why They Matter
 
 When your dentist is planning your partial denture, they don't just place clasps randomly on your teeth. They create small, precisely shaped depressions called rest seats on your teeth. These rest seats provide a foundation for your denture's framework, ensuring that forces are distributed properly and your denture sits exactly where it should.

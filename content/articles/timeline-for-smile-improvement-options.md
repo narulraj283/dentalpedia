@@ -32,7 +32,6 @@ references:
   - title: "Blatz MB, Sadan A, Blatz U. The clinical longevity of crowns. J Am Dent Assoc. 2002;133(7):897-905."
     url: https://pubmed.ncbi.nlm.nih.gov/12148694
 ---
-
 ## Introduction
 
 When you want to improve your smile, you have many options to choose from. Some treatments are simple and preserve your natural teeth, while others create more dramatic changes. Finding the best option for you means looking at what you want to achieve and what's best for your teeth. This guide walks you through your choices, from gentle touch-ups to complete smile transformations.

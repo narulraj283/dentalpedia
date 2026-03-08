@@ -32,7 +32,6 @@ references:
   - title: "Cotrim-Ferreira FA, Garone-Netto N, Lima-Arsati YB. Cosmetic rehabilitation: diastema closure techniques. Dent Today. 2004;23(6):84-87."
     url: https://pubmed.ncbi.nlm.nih.gov/15285284
 ---
-
 ## Understanding Tooth Gaps (Diastema)
 
 A diastema is a gap or space between two adjacent teeth. While most visible between upper front teeth, gaps can occur between any teeth. Approximately 1.6% to 26% of the population experiences diastema, making it one of the most common esthetic concerns. The psychological impact varies significantly—some people embrace gaps as distinctive, while others find them emotionally distressing.
@@ -157,6 +156,3 @@ Tooth gaps are highly treatable through multiple modalities, each with distinct 
 - [Risk and Concerns with Teeth Color Improvement](/article/risk-and-concerns-with-teeth-color-improvement.html)
 - [Direct Composite Bonding Technique: Step-by-Step](/article/timeline-for-cosmetic-bonding-process.html)
 
-- [Glazing Composite](/article/glazing-composite-surface-polish.html)
-- [Teeth Whitening Risks](/article/overbleaching-excessive-whitening-damage.html)
-- [Post-Whitening Diet and Stain Prevention Strategies](/article/whitening-maintenance-diet-stain-prevention.html)

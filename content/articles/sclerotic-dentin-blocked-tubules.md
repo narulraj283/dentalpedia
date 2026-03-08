@@ -19,7 +19,6 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: Sclerotic Dentin - Understanding Hardened Tooth Structure
 ---
-
 ## Your Teeth Change As You Age
 
 Your teeth change naturally over decades, and one important change is the development of sclerotic dentin. This is a normal process where your tooth structure gradually hardens. Understanding this helps you appreciate why your dentist handles older teeth differently, especially for root canal treatment.
@@ -59,14 +58,6 @@ Sealing materials might also need adjustment because of reduced permeability. Yo
 When you develop a cavity in sclerotic dentin, your dentist carefully removes soft, infected portions while preserving the hardened surface layer when possible. This arrested (inactive) decay actually protects what's underneath.
 
 Regular checkups allow early detection before cavities become large and require extensive treatment.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about sclerotic dentin - understanding hardened tooth structure and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

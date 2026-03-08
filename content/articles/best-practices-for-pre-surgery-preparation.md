@@ -22,12 +22,11 @@ references:
   - "Rood JP, Murgatroyd H. Metronidazole in relief of pain after third molar surgery. Lancet. 1979;1(8110):148-151."
   - "Claes L, Recum AF. Fracture healing under the influence of mechanical stability. Clin Orthop Relat Res. 1998;355:S204-S214."
 ---
-
 ## Getting Your Health Ready
 
-Starting 2-4 weeks before surgery, your surgical team will ask about your medical history. They want to know about: any previous problems with bleeding or healing, allergies or reactions to anesthesia, heart problems, high blood pressure, asthma or lung issues, diabetes, thyroid problems, and any medications or supplements you take. Be honest and detailed—don't skip anything you think is unrelated because it might matter. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
+Starting 2-4 weeks before surgery, your surgical team will ask about your medical history. They want to know about: any previous problems with bleeding or healing, allergies or reactions to anesthesia, heart problems, high blood pressure, asthma or lung issues, diabetes, thyroid problems, and any medications or supplements you take. Be honest and detailed—don't skip anything you think is unrelated because it might matter.
 
-Tell them about ALL your medications, even ones you think are minor. This includes blood thinners (like warfarin or aspirin), blood pressure medications, diabetic medications, corticosteroids, and supplements. Certain medications interact with surgery and anesthesia, so your surgical team needs to know everything. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
+Tell them about ALL your medications, even ones you think are minor. This includes blood thinners (like warfarin or aspirin), blood pressure medications, diabetic medications, corticosteroids, and supplements. Certain medications interact with surgery and anesthesia, so your surgical team needs to know everything.
 
 ## Your Heart and Lungs
 
@@ -107,25 +106,16 @@ If you're pregnant, elective surgery should wait until after delivery. Emergent 
 
 Prep work before surgery sets you up for success. Fill out all forms completely and honestly, manage your medical conditions, take medications as directed, stop smoking, and arrange your ride home. The time and effort spent preparing dramatically improves your recovery and reduces complications. You've got this!
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+Related reading: [General Oral Surgery Recovery Timeline and Functional](/article/timeline-for-recovery-timeline.html) and [Orthognathic Surgery - Understanding Jaw Correction](/article/surgical-orthodontics-bimaxillary-procedures.html).
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Comprehensive preoperative assessment and optimization 2-4 weeks before scheduled surgery substantially reduces perioperative complications and optimizes outcomes. If you have questions, your dentist can help you understand your options.
 
-> **Key Takeaway:** Starting 2-4 weeks before surgery, your surgical team will ask about your medical history. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** Starting 2-4 weeks before surgery, your surgical team will ask about your medical history.
 
 ## Related Articles
 

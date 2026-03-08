@@ -50,8 +50,6 @@ This article is meant to be read *after* an injury happens, by someone who's pro
 6. **Get to a dentist within 30 minutes**
 If you've done those five things, you've maximized the tooth's chance of survival. Everything else below explains why and what happens next. But those five steps are what matter in the first critical minutes.
 
-Learn more about [What Risk and Concerns with Emergency Tooth Pain Means](/article/risk-and-concerns-with-emergency-tooth-pain.html).
-
 ## Step-by-Step: What to Do
 
 ### STEP 1: Find the Tooth (Immediately)
@@ -117,8 +115,6 @@ Check the bite and adjust if needed
 7. Schedule a follow-up appointment
 8. Possibly start endodontic (root canal) treatment if the nerve tissue was damaged
 
-For information about [Related Treatments Like Finding Emergency Dental Care](/article/finding-emergency-dental-care-options-beyond-hours.html), consult your dentist.
-
 ## What Happens After
 
 **The first week**: Keep the area clean but gentle. Avoid eating hard food on that side. The tooth may feel looseâ€”that's normal.
@@ -141,9 +137,16 @@ Even "failed" replanted teeth (where the tooth is eventually lost) buy you timeâ
 
 ## Periodontal Ligament Viability and Healing
 
-The periodontal ligament (PDL) consists of specialized cells attaching tooth cementum to alveolar bone. PDL cell viability is critical to replantation success. Viable PDL cells enable normal periodontal healing with restoration of attachment apparatus. Non-viable or damaged PDL cells result in inflammatory root resorption (progressive root shortening and tooth loss) or ankylosis (fusion of cementum/dentin to bone, preventing normal movement). PDL cell viability decreases with extra-alveolar time (time outside socket). In dry conditions at room temperature: 15-20 minutes dry time produces significant cell death; 30-60 minutes results in majority cell death; >60 minutes results in almost complete cell death.
+The periodontal ligament (PDL) consists of specialized cells attaching tooth cementum to alveolar bone. PDL cell viability is critical to replantation success. Viable PDL cells enable normal periodontal healing with restoration of attachment apparatus.
 
-With appropriate storage in physiologic medium: 30-60 minutes produces minimal cell death; cells remain viable for 24+ hours in Hank's Balanced Salt Solution. Storage medium selection dramatically affects outcomes. Milk maintains PDL cell viability comparable to Hank's solution (HBSS) for up to 6 hours. Saline solution (0.9% NaCl) maintains viability for 2-4 hours. Physiologic solutions with nutrient supplementation (HBSS, Eagle's medium) maintain viability for 24+ hours. Tap water supports viability for only 30-60 minutes due to osmotic imbalance and chlorine. Saliva (when patient keeps tooth in vestibule) maintains viability for variable time depending on flow rate; generally adequate for 2-4 hours.
+Non-viable or damaged PDL cells result in inflammatory root resorption (progressive root shortening and tooth loss) or ankylosis (fusion of cementum/dentin to bone, preventing normal movement). PDL cell viability decreases with extra-alveolar time (time outside socket). In dry conditions at room temperature: 15-20 minutes dry time produces significant cell death; 30-60 minutes results in majority cell death; >60 minutes results in almost complete cell death.
+
+With appropriate storage in physiologic medium: 30-60 minutes produces minimal cell death; cells remain viable for 24+ hours in Hank's Balanced Salt Solution. Storage medium selection dramatically affects outcomes. Milk maintains PDL cell viability comparable to Hank's solution (HBSS) for up to 6 hours.
+
+Saline solution (0.9% NaCl) maintains viability for 2-4 hours. Physiologic solutions with nutrient supplementation (HBSS, Eagle's medium) maintain viability for 24+ hours. Tap water supports viability for only 30-60 minutes due to osmotic imbalance and chlorine. Saliva (when patient keeps tooth in vestibule) maintains viability for variable time depending on flow rate; generally adequate for 2-4 hours.
+
+
+Related reading: [Reimplanted Teeth: Salvaging Avulsed Permanent](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html) and [Jaw Fracture Trauma and Stabilization](/article/jaw-fracture-trauma-and-stabilization.html).
 
 ## Conclusion
 

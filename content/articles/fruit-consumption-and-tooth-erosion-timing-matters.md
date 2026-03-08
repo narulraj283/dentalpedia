@@ -14,7 +14,6 @@ references:
   - "Lussi A, Jaeggi T, Zero D. The role of diet in the aetiology of dental erosion. Clin Oral Investig. 2006;10(3):182-191."
   - "West NX, Maxwell A, Hughes JA, et al. A method to measure clinical erosion: the effect of orange juice consumption on erosion of enamel. J Dent Res. 1998;77(12):1835-1841."
 ---
-
 Fruit is healthy—full of vitamins, minerals, and fiber. But here's what dentists know that many people don't: certain fruits are quite acidic, and that acidity can slowly dissolve your tooth enamel. The good news is you don't have to give up fruit. You just need to understand which fruits are higher risk, how to consume them safely, and simple protective measures. With smart strategies, you can enjoy all the health benefits of fruit while protecting your teeth.
 
 ## How Acid Damages Teeth
@@ -67,15 +66,11 @@ Early erosion appears as slight surface smoothness and loss of texture on teeth.
 
 If you notice these changes, talk to your dentist immediately. Early intervention with fluoride treatments and dietary modification can arrest erosion before serious damage occurs. Your dentist can also apply protective sealants to vulnerable surfaces.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about fruit consumption and tooth erosion timing matters and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
 ## Conclusion
 
 Fruit is an important part of a healthy diet, and you don't need to avoid it. But acidic fruits require some precautions. Consume them quickly during meals, use straws, dilute juices, wait before brushing, and rinse with water afterward. These simple strategies let you enjoy all the health benefits of fruit while protecting your enamel. Talk to your dentist about which strategies are right for your specific situation.
 
-> **Key Takeaway:** Fruit is healthy, but acidic fruits can erode your teeth. Learn how to eat fruit safely and protect your enamel while enjoying the health benefits.
+> **Key Takeaway:** Fruit is healthy—full of vitamins, minerals, and fiber.
 
 ## Related Articles
 
@@ -83,5 +78,5 @@ Fruit is an important part of a healthy diet, and you don't need to avoid it. Bu
 - [Common Misconceptions About Saliva Importance](/article/common-misconceptions-about-saliva-importance.html)
 - [Do Mineral Toothpastes Actually Work Better?](/article/minerals-in-toothpaste-effectiveness.html)
 - [Building a Preventive Program and Establishing](/article/preventive-program-building-lifetime-oral-habits.html)
-- [Toothbrush Selection Complete Guide: Manual, Powered,](/article/toothbrush-selection-complete-guide.html)
+- [Toothbrush Selection Complete Guide: Manual, Powered](/article/toothbrush-selection-complete-guide.html)
 

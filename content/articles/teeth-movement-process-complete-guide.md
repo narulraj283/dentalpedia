@@ -32,7 +32,6 @@ references:
   - title: "Andreasen GF, Zwanziger D. A clinical evaluation of the differential force technique in canine retraction. Am J Orthod. 1980;78(4):438-445."
     url: https://pubmed.ncbi.nlm.nih.gov/6931811
 ---
-
 ## The Amazing Biology Behind Tooth Movement
 
 When you start orthodontic treatment, your teeth don't simply slide through bone to new positions. Instead, your body activates a biological remodeling process that reorganizes the bone surrounding your tooth roots, allowing them to move safely. Unlike most dental procedures that remove or repair structure, orthodontics harnesses your body's fundamental biological processes to achieve permanent positional changes.

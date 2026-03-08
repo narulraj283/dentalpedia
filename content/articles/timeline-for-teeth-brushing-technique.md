@@ -28,7 +28,6 @@ references:
   - title: "Heasman PA, Macgregor ID, Walsh TF, Bagg J. A Clinical Study of the Efficacy of the Braun D7 Oscillating Toothbrush Compared With a Manual Toothbrush. Journal of Clinical Periodontology. 1999;26(8):563-566."
     url: https://pubmed.ncbi.nlm.nih.gov/10466133
 ---
-
 ## The Right Way to Brush Your Teeth: Techniques That Actually Work
 
 Most of us learned to brush our teeth as children, but there's a good chance you're not doing it in the way that removes the most plaque and keeps your gums healthy. The difference between effective and ineffective brushing isn't complicated, but it does require the right technique, the right amount of pressure, and the right amount of time. Understanding how plaque builds up and what actually removes it can help you make sure every brush stroke counts.

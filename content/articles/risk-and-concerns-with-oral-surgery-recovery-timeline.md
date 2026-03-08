@@ -48,7 +48,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Risk and Concerns with Oral Surgery Recovery Timeline
 ---
-
 ## Recovery After Oral Surgery: Understanding Your Healing Timeline
 
 After you have a tooth extracted or other oral surgery, your mouth goes through predictable healing stages, but the timeline varies for each person. Understanding what to expect helps you care for your mouth properly and recognize when something's wrong. This guide explains what happens during recovery and what you need to do.

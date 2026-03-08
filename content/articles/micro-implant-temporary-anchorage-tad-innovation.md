@@ -30,7 +30,6 @@ references:
   - title: "Post-Removal Healing and Bone Regeneration After TAD Extraction"
     url: https://www.ncbi.nlm.nih.gov/pubmed/17395787
 ---
-
 Temporary anchorage devices (TADs), also called miniscrew implants or temporary skeletal anchorage, represent one of orthodontics' most significant innovations in recent years. These tiny titanium screws—typically 6-12mm long and smaller in diameter than a toothpick—provide a fixed anchor point for braces, enabling tooth movements previously considered impossible without jaw surgery. If your orthodontist has mentioned TADs for your treatment, understanding how they work and what they offer helps you appreciate this technology.
 
 ## How Traditional Braces Work and Their Limitations

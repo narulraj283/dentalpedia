@@ -42,7 +42,6 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: 'Understanding Your Tooth Color Options: Solutions'
 ---
-
 ## Understanding Your Tooth Color Options: Solutions for Discoloration
 
 If you're unhappy with your tooth color, you have many options. Whether your teeth have yellowed with age, are stained from lifestyle habits, or have had discoloration since they developed, cosmetic dentistry offers solutions ranging from conservative and reversible to more involved restorative treatments. Understanding what causes discoloration, which treatments work best for different situations, and what each option costs helps you make the right choice for your smile.
@@ -116,5 +115,5 @@ Remember that every person's situation is unique. What works well for one patien
 - [Smile Design: How to Create Your Ideal Smile](/article/how-to-cosmetic-smile-design.html)
 
 - [Smile Makeover Planning - The Complete Clinical Guide](/article/smile-makeover-planning-complete-guide.html)
-- [Gingival Recontouring Techniques: Crown Lengthening,](/article/timeline-for-cosmetic-gum-shaping.html)
+- [Gingival Recontouring Techniques: Crown Lengthening](/article/timeline-for-cosmetic-gum-shaping.html)
 

@@ -30,7 +30,6 @@ references:
   - title: "Zitzmann NU, Berglundh T. Definition and prevalence of peri-implant diseases. J Clin Periodontol. 2008;35(S8):286-291."
     url: https://pubmed.ncbi.nlm.nih.gov/18724857
 ---
-
 ## After Treatment: Why Ongoing Care Matters
 
 Once you finish your gum disease treatment, you might think you're done. But here's the truth: if you stop seeing your dentist regularly, your gum disease comes back. About 50 to 80 percent of people who skip follow-up appointments get sick gums again within 2 to 4 years.

@@ -49,7 +49,6 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: What You Need to Know About Taking Care of Your Braces
 ---
-
 ## Why Your Braces Need Extra Cleaning Attention
 
 When you have braces, your teeth are much harder to clean. Brackets, wires, and rubber bands create lots of places where food and bacteria can hide. Even when you brush carefully, standard toothbrushing can't reach all the tight spaces around your brackets. Most of your plaque accumulation happens right at the base of your brackets, where they meet your gums—exactly where you don't want bacteria to grow.
@@ -89,14 +88,6 @@ Brackets break or debond (separate from your tooth) most often from hard or stic
 Your archwire sometimes pokes into your cheek or gums, especially when speaking or eating. This creates sharp, sudden pain. If a wire edge is causing trouble, you can apply a small piece of orthodontic wax to the sharp area for temporary relief.
 
 The wax acts as a barrier preventing the wire from cutting into soft tissue. However, wax is just a temporary fix. Contact your orthodontist so they can round the wire edge or reposition it properly.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about what you need to know about taking care of your braces and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

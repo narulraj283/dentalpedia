@@ -32,7 +32,6 @@ references:
   - title: "Millward A, Shaw L, Smith A, Rippin J, Harrington E. The distribution and severity of tooth wear and the relationship between erosion and dietary constituents in drinking water supplies. J Dent. 1994;22(6):338-342."
     url: https://pubmed.ncbi.nlm.nih.gov/7852586
 ---
-
 ## The Hidden Threat to Athletes' Teeth
 
 If you're an athlete, you know sports drinks are everywhere—on sidelines, in locker rooms, and in your gym bag. They're promoted as essential for peak performance and recovery. But many athletes don't realize these drinks are silently damaging their teeth. Sports drinks create a unique dental threat that combines two different attacks on your teeth at once: they're acidic (causing erosion) and full of sugar (causing cavities). This dual damage means athletes who drink these beverages regularly can develop visible tooth damage within months—damage that would normally take years of casual sipping to occur.

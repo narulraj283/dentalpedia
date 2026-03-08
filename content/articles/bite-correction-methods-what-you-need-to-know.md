@@ -20,12 +20,11 @@ references:
   - "Ricketts RM. Cephalometric synthesis: An exercise in stating objectives and planning treatment with tracing of the head roentgenogram. American Journal of Orthodontics. 1960;46(9):647-673."
   - "Bishara SE. Textbook of Orthodontics. Philadelphia: WB Saunders Company. 2001."
 ---
-
 ## Types of Bite Problems
 
-Dentists classify bite problems using a system that's been around for over a century. Class I is normal — your back teeth bite together correctly, even if your front teeth are crowded. Class II (about 20% of people) means your upper jaw is too far forward or your lower jaw is too far back, creating an overjet (your upper front teeth stick way out). Class III (about 10% of people) is the opposite — your lower jaw is too far forward, creating an underbite where lower teeth stick past upper teeth. For more details, see our guide on [Accelerated Orthodontia](/article/accelerated-orthodontia-fast-track-braces.html).
+Dentists classify bite problems using a system that's been around for over a century. Class I is normal — your back teeth bite together correctly, even if your front teeth are crowded. Class II (about 20% of people) means your upper jaw is too far forward or your lower jaw is too far back, creating an overjet (your upper front teeth stick way out). Class III (about 10% of people) is the opposite — your lower jaw is too far forward, creating an underbite where lower teeth stick past upper teeth.
 
-Most Class I problems involve crowded front teeth (missing 5-12 millimeters of space). Treatment focuses on creating space through expansion, extractions, or moving teeth slightly forward — usually takes 18-24 months. Class II problems come in two flavors: anterior protrusive (upper teeth flare forward) or anterior retracted (upper teeth are straight but deeply overlapped). Treatment varies from non-surgical braces (24-30 months) to special growth-modifying appliances for young patients to surgical correction for severe cases. For more details, see our guide on [Accelerated Orthodontics](/article/accelerated-orthodontics-speeding-up-your-treatment.html).
+Most Class I problems involve crowded front teeth (missing 5-12 millimeters of space). Treatment focuses on creating space through expansion, extractions, or moving teeth slightly forward — usually takes 18-24 months. Class II problems come in two flavors: anterior protrusive (upper teeth flare forward) or anterior retracted (upper teeth are straight but deeply overlapped). Treatment varies from non-surgical braces (24-30 months) to special growth-modifying appliances for young patients to surgical correction for severe cases.
 
 Class III problems (underbites) range from mild (teeth just barely crossed) to severe (requiring surgery). Young patients with mild underbites might benefit from growth-modifying appliances that encourage forward upper jaw growth and backward lower jaw growth. Adults with underbites either accept dental compensation (carefully positioning teeth to look better while underlying skeletal problem remains) or choose surgery to actually fix the underlying jaw relationship.
 
@@ -80,6 +79,9 @@ About 1.5-2.5 millimeters of permanent root shortening occurs in 80-100% of peop
 Excessive force (over 150 grams on front teeth) significantly increases root resorption risk. Modern orthodontists use optimal forces (50-100 grams for incisors, 100-150 for canines, 150-200 for molars) to minimize this.
 
 Teeth move through bone, which remodels permanently. Very rarely (less than 1%), teeth can become ankylosed (fused to bone) preventing movement. This is unpredictable and unpreventable with current knowledge.
+
+
+Related reading: [Why Does Orthodontic Treatment Take Years?](/article/treatment-duration-why-braces-take-years.html) and [Common Misconceptions About Orthodontic Treatment](/article/common-misconceptions-about-orthodontic-treatment-duration.html).
 
 ## Conclusion
 

@@ -1,28 +1,35 @@
 ---
-title: "Bracket Placement and Exact Positioning: Slot Height,"
-slug: bracket-placement-exact-positioning
 category: Orthodontics
 category_slug: orthodontics
-excerpt: "The exact position of each bracket on your teeth matters tremendously."
 date: 2026-03-05
+excerpt: The exact position of each bracket on your teeth matters tremendously.
 read_time: 10 min
+references:
+- Andrews LF. The six keys to normal mouth. Am J Orthod. 1972;62(3):296-309.
+- Vigorito JW. The three-dimensional control of tooth movement. Angle Orthod. 1994;64(5):319-328.
+- Bhad WA, Bhad SL, Kaushal S. Relationship between vertical control position and
+  premolar intrusion in Class II Division 1 subjects. Am J Orthod Dentofacial Orthop.
+  2007;131(3):347-350.
+- Zachrisson BU. Important aspects of long-term stability. J Clin Orthod. 1997;31(8):562-566.
+- Renner RP, Murray SK, McNamara JA. Three-dimensional tooth and root movement with
+  indirect bracket placement. Am J Orthod Dentofacial Orthop. 2019;155(2):260-270.
+- Eliades T. Orthodontic materials research and applications: part 1. Adhesive materials
+    and their properties. Am J Orthod Dentofacial Orthop. 2006;129(5):623-629.
+- Pluim SM, Stijns RB, Blijdorp PA. Bonded versus banded maxillary first molars: comparison
+    of bracket failure rates. Eur J Orthod. 2001;23(3):259-265.
+- Mackie IC, Worthington HV. Archwire changes during fixed appliance therapy. Eur
+  J Orthod. 2000;22(4):410-418.
+- Bourauel C, Ferner K, Gedrange T. Adhesive forces during fixed appliance attachment.
+  Semin Orthod. 2006;12(3):235-245.
+- Eickholz P, Jansen C. Clinical significance of the progression of periodontal disease: comparison
+    of vertical and angular defects. J Clin Periodontol. 2004;31(3):179-186.
+reviewed: true
 reviewer_specialty: Orthodontics
+slug: bracket-placement-exact-positioning
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
-reviewed: true
-references:
-  - Andrews LF. The six keys to normal mouth. Am J Orthod. 1972;62(3):296-309.
-  - Vigorito JW. The three-dimensional control of tooth movement. Angle Orthod. 1994;64(5):319-328.
-  - Bhad WA, Bhad SL, Kaushal S. Relationship between vertical control position and premolar intrusion in Class II Division 1 subjects. Am J Orthod Dentofacial Orthop. 2007;131(3):347-350.
-  - Zachrisson BU. Important aspects of long-term stability. J Clin Orthod. 1997;31(8):562-566.
-  - Renner RP, Murray SK, McNamara JA. Three-dimensional tooth and root movement with indirect bracket placement. Am J Orthod Dentofacial Orthop. 2019;155(2):260-270.
-  - Eliades T. Orthodontic materials research and applications: part 1. Adhesive materials and their properties. Am J Orthod Dentofacial Orthop. 2006;129(5):623-629.
-  - Pluim SM, Stijns RB, Blijdorp PA. Bonded versus banded maxillary first molars: comparison of bracket failure rates. Eur J Orthod. 2001;23(3):259-265.
-  - Mackie IC, Worthington HV. Archwire changes during fixed appliance therapy. Eur J Orthod. 2000;22(4):410-418.
-  - Bourauel C, Ferner K, Gedrange T. Adhesive forces during fixed appliance attachment. Semin Orthod. 2006;12(3):235-245.
-  - Eickholz P, Jansen C. Clinical significance of the progression of periodontal disease: comparison of vertical and angular defects. J Clin Periodontol. 2004;31(3):179-186.
+title: 'Bracket Placement and Exact Positioning: Slot Height'
 ---
-
 The exact position of each bracket on your teeth matters tremendously. Being off by even a millimeter or two adds up over your entire treatment and can extend your time in braces by months, or even affect your final result. Modern technology is making bracket placement more precise than ever, which is good news for you. This article explains why placement matters and how your orthodontist gets it right.
 
 ## Why Bracket Position Matters
@@ -108,6 +115,9 @@ hat You Need to Know](/article/braces-food-restrictions-what-you-need-to-know.ht
 
 
 For more information, see [Maximizing Patient Compliance in Orthodontic Treatment](/article/best-practices-for-orthodontic-compliance.html) and [Adult Orthodontics: Success and Special Considerations](/article/adult-orthodontics-success-and-special-considerations.html).
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

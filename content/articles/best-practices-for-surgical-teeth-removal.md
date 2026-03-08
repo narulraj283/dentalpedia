@@ -20,12 +20,11 @@ references:
   - "Laskin DM. Decision-making in wisdom tooth extraction. J Dent Educ. 2007;71(3):329-336."
   - "Haggard WD, et al. Comparison of extraction techniques for impacted teeth. Oral Surg Oral Med Oral Pathol. 1995;80(4):395-401."
 ---
-
 ## Before Surgery: What Your Dentist Needs to Know
 
-Before extracting any tooth, your dentist reviews your complete health history. Certain medications matter—if you take blood thinners like warfarin, they need to know, though you usually don't stop them since local measures control bleeding. Bone-strengthening medications (bisphosphonates) increase a rare complication risk, so special extraction protocols apply—antibiotic coverage, gentle bone handling, and careful closure. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
+Before extracting any tooth, your dentist reviews your complete health history. Certain medications matter—if you take blood thinners like warfarin, they need to know, though you usually don't stop them since local measures control bleeding. Bone-strengthening medications (bisphosphonates) increase a rare complication risk, so special extraction protocols apply—antibiotic coverage, gentle bone handling, and careful closure.
 
-Your dentist takes X-rays to see tooth structure and root shape. Panoramic X-rays show the overall picture and where important nerves run. For complex cases, they might order 3D imaging (CBCT) to pinpoint exactly where nerves and blood vessels are located. This planning prevents complications. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
+Your dentist takes X-rays to see tooth structure and root shape. Panoramic X-rays show the overall picture and where important nerves run. For complex cases, they might order 3D imaging (CBCT) to pinpoint exactly where nerves and blood vessels are located. This planning prevents complications.
 
 Your dentist also assesses how difficult your extraction will be. Simple extractions of healthy but damaged teeth take 2-5 minutes. Moderately complex cases (impacted teeth, curved roots, dense bone) take 10-20 minutes. Deeply impacted teeth with nearby nerves or previous failed removal attempts might require 30-60+ minutes or specialist referral.
 
@@ -93,20 +92,6 @@ Your appointment typically lasts 30 minutes to two hours depending on complexity
 
 Many patients report the anticipation is worse than the actual procedure. Extraction itself is surprisingly quick for simple cases—often finished in less time than a routine filling. Larger cases take longer, but you're not aware of time passing due to focus on numbing and careful technique.
 
-## Questions to Ask Your Dentist
-
-Before your extraction, ask these important questions:
-- "How difficult do you anticipate this extraction will be?" (This helps set expectations for timing and complexity)
-- "Will I need sutures, and if so, how long until they dissolve or need removal?"
-- "What's the exact timeline for when I can resume exercise, sports, or heavy lifting?"
-- "Are there any signs I should watch for that would indicate a complication?"
-- "Should I take prophylactic antibiotics, or are they only if infection develops?"
-- "How much swelling and discomfort should I realistically expect?"
-- "What's your success rate for nerve preservation on this type of extraction?"
-- "If something goes wrong intraoperatively, what are my options?"
-- "Do you recommend any regenerative materials to preserve bone for future implant consideration?"
-- "What specific post-operative care will give me the best healing outcomes?"
-
 ## Managing Expectations
 
 Keep realistic expectations. Extraction is common but still carries inherent risks. Most procedures go smoothly, but understand that some swelling, discomfort, and activity restriction are completely normal—not signs of complications. Your dentist chooses careful technique specifically to minimize problems. Trust their experience.
@@ -123,6 +108,9 @@ Your pain should be manageable with ibuprofen and acetaminophen. If pain worsens
 
 **Related articles:** What to expect on extraction day | Recovery timeline after tooth removal | Wisdom tooth extraction: special considerations
 
+
+Related reading: [Surgical Complications: What Patients Need to Know](/article/benefits-of-surgical-complications.html) and [Recovery After Extraction Complete Guide](/article/recovery-after-extraction-complete-guide.html).
+
 ## Conclusion
 
 ---
@@ -132,7 +120,7 @@ Your pain should be manageable with ibuprofen and acetaminophen. If pain worsens
 ## Related Articles
 
 - [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
-- [Complex Tooth Extraction Timeline: Surgical Planning,](/article/timeline-for-complex-extractions.html)
+- [Complex Tooth Extraction Timeline: Surgical Planning](/article/timeline-for-complex-extractions.html)
 - [Wisdom Teeth: Do They Always Need to Be Removed?](/article/wisdom-teeth-do-they-always-need-to-be-removed.html)
 - [Why Surgical Teeth Removal Matters](/article/why-surgical-teeth-removal-matters.html)
 - [Surgical Success Rates in Oral Surgery: Evidence-Based](/article/benefits-of-surgical-success-rates.html)

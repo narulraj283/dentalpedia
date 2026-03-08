@@ -19,7 +19,6 @@ subcategory: Trauma & Emergency Care
 subcategory_slug: trauma-emergency
 title: 'Intrusive Luxation: Emergency Care for Teeth Pushed'
 ---
-
 Intrusive luxation is a dental injury where trauma forcefully drives your tooth into its bone socket. The tooth looks shorter, your bite feels off, and you might have severe swelling and pain. This injury is a dental emergency because it damages the tooth's blood supply, nerve, and supporting bone. Immediate professional care is essential to save the tooth.
 
 ## What Exactly Is Intrusive Luxation?
@@ -91,12 +90,6 @@ Avoiding high-risk activities or being cautious during them (avoiding falls, wea
 ## Emotional Impact
 
 Significant dental trauma can be psychologically difficult. The sudden injury, changed appearance, multiple treatment appointments, uncertainty about outcomes, and potential for tooth loss create stress and anxiety. Seeking mental health support is appropriate if you're struggling with trauma aftermath.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about intrusive luxation teeth pushed into bone and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

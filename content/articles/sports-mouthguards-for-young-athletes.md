@@ -44,7 +44,6 @@ subcategory: General Dentistry
 subcategory_slug: overview-sports
 title: 'Mouthguards for Young Athletes: Selection, Fitting'
 ---
-
 ## Why Mouthguards Matter for Young Athletes
 
 Every year, thousands of young athletes suffer dental and mouth injuries that could have been prevented with a mouthguard. These injuries—broken teeth, knocked-out teeth, cut lips, jaw fractures—happen in seconds during sports contact and can have lifelong consequences. Mouthguards don't just protect your teeth; they protect your lips, cheeks, tongue, jaw, and even reduce the risk of concussions. If your child plays contact sports (football, hockey, rugby, lacrosse, basketball, soccer), a proper mouthguard is essential protection.

@@ -15,7 +15,6 @@ references:
   - "Ramfjord SP. Status of the modified Widman flap procedure. J Periodontol. 1977;48(9):558-567."
   - "Waerhaug J. Effect of bone defects on healing following subgingival planing. J Clin Periodontol. 1978;5(3):170-179."
 ---
-
 ## When Deep Cleaning Isn't Enough
 
 If you have advanced gum disease, your dentist might recommend osseous surgery—surgical bone contouring to reshape the bone supporting your teeth. Deep cleaning (scaling and root planing) works well for moderate gum disease, but some cases need surgical help to truly arrest the disease and save your teeth.
@@ -77,14 +76,6 @@ Post-operative care is critical: excellent home hygiene (brushing and flossing),
 ## Long-Term Success
 
 Studies show that patients receiving osseous surgery combined with aggressive home care maintain their teeth significantly better than those refusing surgery. While recession is real, tooth loss is far worse. The bone reshaping creates conditions letting your immune system and home care work effectively to maintain the teeth you're trying to save.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about gum surgery to reshape bone: treating advanced gum disease and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

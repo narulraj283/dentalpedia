@@ -30,7 +30,6 @@ references:
   - title: "Turesky S, Glickman I, Crevasse L, Brunelle JA. In vivo investigation of some factors related to gingival abrasion. J Dent Res. 1961;40(4):693-701."
     url: https://pubmed.ncbi.nlm.nih.gov/13702373
 ---
-
 ## Picking the Right Toothbrush Actually Matters
 
 You might think a toothbrush is just a toothbrush—that all you need to do is brush your teeth twice a day and you're good. But toothbrush selection actually affects your oral health. The wrong brush can damage your gums, wear away enamel, or fail to clean effectively. The right brush, combined with good technique, sets you up for success.
@@ -84,14 +83,6 @@ Here's the truth: your toothbrush alone can't prevent all cavities. Cavities oft
 Interdental brushes (small brushes that fit between teeth), water flossers, and traditional floss all work for removing food and plaque between teeth. Whichever tool you'll actually use consistently is the best one. If you hate traditional floss, try a water flosser. If interdental brushes work better for you, use those.
 
 The combination of a good toothbrush plus daily interdental cleaning is what actually prevents cavities.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about risk and concerns with toothbrush selection and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

@@ -22,12 +22,11 @@ references:
   - "King KB, et al. Antimicrobial therapy: oral and maxillofacial surgery perspective. Journal of Oral and Maxillofacial Surgery. 2007;65(12):2321-2333."
   - "Morita M, et al. Prevalence of oral malodor and risk indicators among Japanese population. Journal of Dental Research. 2001;80(8):1666-1671."
 ---
-
-Not all mouthwash is created equal. Some products actually do something meaningful for your teeth and gums, while others basically just make your breath smell fresh for 20 minutes. Understanding the difference helps you choose a rinse that actually delivers benefits instead of wasting money on products that do nothing. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+Not all mouthwash is created equal. Some products actually do something meaningful for your teeth and gums, while others basically just make your breath smell fresh for 20 minutes. Understanding the difference helps you choose a rinse that actually delivers benefits instead of wasting money on products that do nothing.
 
 ## Real Therapeutic Rinses Versus Just Breath Fresheners
 
-There are two categories of mouthwash. Therapeutic rinses contain active pharmaceutical ingredients that have been proven in research studies to prevent problems or treat existing ones. Cosmetic rinses just mask bad breath with mint flavor or essential oils. They feel fresh for a bit, but they don't actually prevent cavities, reduce gum inflammation, or fix anything. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+There are two categories of mouthwash. Therapeutic rinses contain active pharmaceutical ingredients that have been proven in research studies to prevent problems or treat existing ones. Cosmetic rinses just mask bad breath with mint flavor or essential oils. They feel fresh for a bit, but they don't actually prevent cavities, reduce gum inflammation, or fix anything.
 
 If it doesn't say something specific like "reduces gingivitis" or "prevents cavities" and back that up with actual studies, it's cosmetic rinse. Those products aren't harmful, but they're also not doing you any favors beyond taste. Think of cosmetic rinse as like perfume for your mouth.
 
@@ -113,11 +112,16 @@ Therapeutic mouthwashes actually work, but they work best when matched to your s
 
 Fluoride helps prevent cavities. Potassium nitrate reduces sensitivity. The key is choosing a product that addresses your particular problem and understanding that it's support for brushing and flossing, not a replacement for them. Look for the ADA Seal to know you're getting something evidence-based, and ask your dentist for a recommendation tailored to your specific oral health needs.
 
+
+Related reading: [Why Sticky Foods Cause Cavities: What Sticks to Your](/article/sticky-foods-retention-and-decay.html) and [Cost of Saliva Importance in Preventive Dentistry](/article/cost-of-saliva-importance.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Fluoride helps prevent cavities. Potassium nitrate reduces sensitivity. Talk to your dentist about how this applies to your situation. Some products actually do something meaningful for your teeth and gums, while others basically just make your.
 
-> **Key Takeaway:** Not all mouthwash is created equal. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** Not all mouthwash is created equal. Some products actually do something meaningful for your teeth and gums, while others basically just make your.
 
 ## Related Articles
 

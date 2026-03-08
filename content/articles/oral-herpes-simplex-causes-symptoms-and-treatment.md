@@ -32,7 +32,6 @@ references:
   - title: "Treatment of herpes simplex infection evidence-based review"
     url: https://pubmed.ncbi.nlm.nih.gov/18541823
 ---
-
 ## What is Oral Herpes?
 
 Oral herpes simplex (cold sores) is caused by infection with herpes simplex virus (HSV), usually type 1. About 65-85 percent of people worldwide carry this virus, though many never develop noticeable sores. Once infected, the virus remains in your nerve cells permanently. You might never have another outbreak, or they might recur throughout your life.

@@ -20,7 +20,6 @@ subcategory: Implant Overview
 subcategory_slug: overview-implants
 title: Osseointegration Bone Fusion Process
 ---
-
 ## The Discovery That Changed Dentistry
 
 In 1952, a Swedish surgeon named Per-Ingvar Brånemark made an accidental discovery that revolutionized dentistry. He was studying bone healing in rabbit leg bones when he placed a titanium cylinder into bone. When he tried to remove it later, he found it had fused permanently to the bone—it couldn't be removed without breaking the bone. He'd discovered osseointegration: direct fusion between titanium and living bone without any scar tissue between them.
@@ -80,16 +79,6 @@ You control some of these factors. Don't smoke if possible—smoking compromises
 Once osseointegration is complete, your implant should remain stable throughout your life. Properly maintained implants with good bone support can function for 20+ years. Some implants have been in place for 40+ years, functioning perfectly.
 
 Bone around implants does continue subtle changes throughout your life. Small amounts of bone resorption are normal, typically 0.1-0.2mm annually after the first year. This is expected and not cause for concern unless it becomes excessive (suggesting implant failure or disease).
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about how dental implants fuse to your bone: the remarkable... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 

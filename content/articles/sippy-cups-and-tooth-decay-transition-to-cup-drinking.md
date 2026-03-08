@@ -41,7 +41,6 @@ subcategory: Pediatric Overview
 subcategory_slug: overview-peds
 title: Sippy Cups and Tooth Decay Transition to Cup Drinking
 ---
-
 ## Sippy Cups and Baby Bottle Tooth Decay
 
 Your baby develops teeth to last a lifetime—including those "temporary" baby teeth that are essential for chewing, speaking, and making room for permanent teeth. Yet many toddlers suffer from early childhood caries (ECC), a severe form of tooth decay that damages baby teeth, causes pain, and sometimes requires extraction. Sippy cups are a common culprit. While they seem convenient and safe, they can trap sugary or acidic liquids around your child's teeth for hours, creating a cavity disaster. Understanding how sippy cups cause decay—and when to transition your child to regular cups—helps protect your child's developing smile and prevents painful dental problems down the road.
@@ -101,9 +100,6 @@ Population-level prevention strategies address the broader context in which indi
 
 Public health messaging regarding appropriate sippy cup use, dietary recommendations, and the importance of early dental visits enables broad education of caregivers. Integration of oral health into pediatric primary care, with dentists and pediatricians collaborating to provide consistent caries prevention messages, strengthens overall prevention.
 
-## Conclusion
-
-Sippy cups seem convenient, but their design inadvertently causes early childhood cavities. Transitioning to open cups by age 2-3, limiting contents to water and milk, and brushing daily protects your child's developing smile. Those baby teeth matter more than you realize—they guide permanent tooth eruption and allow proper chewing and speech development.
 
 ## Conclusion
 

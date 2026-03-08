@@ -30,7 +30,6 @@ references:
   - title: "Documentation and Monitoring of Oral Lesions in Clinical Practice"
     url: https://pubmed.ncbi.nlm.nih.gov/28901234
 ---
-
 ## Why Different Dental Examination Types Matter in Patient Care
 
 Dental examinations are far more than just looking at your teeth. Different types of exams serve different purposes and provide different information that helps your dentist identify disease early, assess how problems are progressing, detect oral cancer, and plan appropriate treatment. Understanding what happens during different exam types helps you appreciate why your dentist recommends specific exams and what information guides your treatment decisions.

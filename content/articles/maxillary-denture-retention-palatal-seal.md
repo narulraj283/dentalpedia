@@ -28,7 +28,6 @@ references:
   - title: "Soft tissue response to posterior palatal seal pressure and adaptation protocols"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25234567
 ---
-
 Your upper denture's retention depends on one critical feature: the palatal seal. This might sound like jargon, but understanding how it works helps you appreciate why your denture either stays in place comfortably or slides around frustratingly. The palatal seal creates the pressure equalization that generates denture retention—it's not about glue or adhesion, but about physics and how you maintain the seal.
 
 ## How the Palatal Seal Creates Retention

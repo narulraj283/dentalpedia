@@ -20,7 +20,6 @@ references:
   - "Greenwell H. Position paper: the role of supra- and subgingival irrigation in the treatment of periodontal diseases. J Periodontol. 2001;72(7):888-895."
   - "Sharma NC, Galustians HJ, Qaqish J, et al. Efficacy of a herbal-derived miswak chewing stick on the microbial flora of the oral cavity: A randomized, blinded, placebo-controlled trial. Prev Med. 2004;38(6):764-768."
 ---
-
 ## Understanding Gingivitis: The Good News About Reversibility
 
 If you've been told you have gingivitis (early gum disease), there's one important thing to know: it's reversible. That means you can actually reverse it and get your gums back to healthy. This is different from more advanced gum disease, which can cause permanent damage.

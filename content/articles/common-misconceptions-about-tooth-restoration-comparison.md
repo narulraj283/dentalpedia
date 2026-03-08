@@ -22,7 +22,6 @@ references:
   - "Direct vs indirect restoration economics and outcomes. Journal of Dental Education. 2021;85(2):145-154."
   - "Gingival recession and restoration overhang correlation study. Journal of Periodontology. 2020;91(8):1021-1029."
 ---
-
 When you need a filling, your dentist probably mentions several options. You might be confused about what the difference really is between silver amalgam, tooth-colored composite, and other materials. Let's break down how these restorations actually compare so you can understand what's best for your situation.
 
 ## Amalgam: The Old Reliable Choice
@@ -71,17 +70,14 @@ For people concerned about anything containing mercury: composite is your option
 
 One thing to understand: no filling is truly "permanent." Even the best amalgam eventually needs replacing. Plan for amalgam to last 15-20 years, composite 7-12 years, and glass ionomer about 8-10 years. When your dentist recommends replacing an old filling, it's usually because the seal is breaking down, not because the material has simply worn out.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about tooth restoration comparison and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 
 Amalgam is more durable and lasts longer, while composite is more esthetically pleasing but typically needs replacement sooner. Both are safe—the choice depends on location, budget, and your personal preferences. The most important factor isn't the material; it's how well your dentist places it and how well you care for your teeth afterward.
 
-> **Key Takeaway:** Understand how different filling materials compare so you can make the best choice for your teeth.
+> **Key Takeaway:** When you need a filling, your dentist probably mentions several options.
 
 ## Related Articles
 

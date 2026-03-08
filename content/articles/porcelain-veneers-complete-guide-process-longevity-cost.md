@@ -22,7 +22,6 @@ subcategory: Smile Design
 subcategory_slug: smile-design
 title: Porcelain Veneers Complete Guide Process Longevity Cost
 ---
-
 ## What Are Veneers, Really?
 
 A veneer is a thin shell of ceramic that your dentist bonds permanently to the front of your tooth. Think of it like a custom-fitted contact lens for your smile—it covers just the visible surface while leaving most of your tooth intact. Veneers can hide stains, close small gaps, reshape teeth, or brighten your smile without the commitment of a full crown.

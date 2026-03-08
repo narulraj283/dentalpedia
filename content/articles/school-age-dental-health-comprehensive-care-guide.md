@@ -25,7 +25,6 @@ subcategory: Pediatric Overview
 subcategory_slug: overview-peds
 title: Your Dental Health During School Years
 ---
-
 ## Introduction
 
 Your school years (ages 6-12) are a critical time for establishing healthy dental habits that will last your entire life. During this period, your baby teeth gradually fall out and are replaced by permanent adult teeth. This transition brings important changes to your dental health and the prevention strategies that work best for your smile. Understanding how your teeth develop, what preventive care you need, and how to protect your smile during these years sets you up for excellent oral health throughout your life.
@@ -67,14 +66,6 @@ Taking care of your teeth might seem boring now, but habits you build in school 
 ## Preparing for the Teen Years
 
 As you approach age 13, you'll have most of your permanent adult teeth. This is a good time to take ownership of your oral health—brush because you want to protect your teeth, not because your parents remind you. Your confidence in taking care of your own teeth will grow, setting the stage for lifelong good habits.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about your dental health during school years and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## What to Expect During Your Visit
 

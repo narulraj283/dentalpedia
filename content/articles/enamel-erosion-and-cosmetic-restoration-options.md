@@ -20,7 +20,6 @@ references:
   - "Turgut M, Bagis B, Baltacioglu IH, Korkmaz Y. Prevalence of self-reported bruxism and its relationship with anxiety level, depression, and personality traits in young adults. J Contemp Dent Pract. 2013;14(5):826-833."
   - "Magne P, Belser UC. Bonded Porcelain Restorations in the Anterior Dentition. Quintessence; 2002."
 ---
-
 Enamel erosion happens when acidic foods and beverages, or stomach acid, wear away your tooth's outer layer. Once enamel is gone, it doesn't grow back, but modern dentistry offers excellent options to repair damaged teeth and restore your smile. 
 
 ## How Enamel Erosion Happens
@@ -108,7 +107,7 @@ Enamel erosion is preventable through limiting acid exposure, managing reflux, u
 
 Composite bonding provides economical restoration for moderate erosion. Porcelain and ceramic restorations offer superior esthetics and durability for extensive erosion. Work with your dentist to determine which option best fits your situation, budget, and goals. Talk to your dentist about which options are right for your specific situation.
 
-> **Key Takeaway:** Enamel erosion happens when acidic foods and beverages, or stomach acid, wear away your tooth's outer layer.
+> **Key Takeaway:** Once enamel is gone, it doesn't grow back, but modern dentistry offers excellent options to repair damaged teeth and restore your smile.
 
 ## Related Articles
 

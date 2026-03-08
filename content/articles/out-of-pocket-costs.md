@@ -19,6 +19,7 @@ subcategory: Practice & Insurance Overview
 subcategory_slug: overview-practice
 title: Out of Pocket Costs
 ---
+Dental costs can feel shocking compared to what insurance covers. You might have insurance, but it doesn't cover as much as medical insurance. Here's how to navigate insurance, maximize your benefits, and find strategies to afford dental care without financial stress.
 
 ## How Dental Insurance Actually Works
 
@@ -88,13 +89,8 @@ Financial constraints shouldn't prevent necessary care. If full treatment costs 
 
 Your dentist understands these constraints and can help sequence treatment optimally within your financial reality. Discuss your budget openly. They'll work with you to prioritize care ensuring health needs are met within financial limitations.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about managing dental costs: smart strategies for affording... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

@@ -20,18 +20,17 @@ references:
   - "Yoshida N, Koga Y, Kobayashi Y. Short-term response of the pulpal blood flow to continuous orthodontic force. Am J Orthod Dentofacial Orthop. 2001;119(2):113-118."
   - "Reznikov N, Steuwer A, Franceschi S, et al. Phase evolution during bone remodeling at the ultrastructural level. J Bone Miner Res. 2021;36(12):2334-2349."
 ---
-
 ## What Makes Teeth Actually Move
 
 Clear aligners don't magically slide teeth into position—instead, they trigger a complex biological process. When your aligner applies constant pressure on a tooth, special cells in the periodontal ligament (the tissue holding your tooth to bone) sense the force. These cells release chemical signals that recruit other cells called osteoclasts, which dissolve bone on the pressure side. Simultaneously, cells called osteoblasts deposit new bone on the tension side, pulling the tooth along.
 
-This entire process requires sustained pressure over time. Removing your aligners frequently interrupts these chemical signals and cellular activity, essentially hitting the pause button on tooth movement. For optimal movement, you need approximately 20-24 hours of continuous daily pressure to keep these biological processes running smoothly. Less than that, and the cells lose the signals and slow down or stop working. For more details, see our guide on [Accelerated Orthodontia](/article/accelerated-orthodontia-fast-track-braces.html).
+This entire process requires sustained pressure over time. Removing your aligners frequently interrupts these chemical signals and cellular activity, essentially hitting the pause button on tooth movement. For optimal movement, you need approximately 20-24 hours of continuous daily pressure to keep these biological processes running smoothly. Less than that, and the cells lose the signals and slow down or stop working.
 
 ## The 22-Hour Requirement Explained
 
 Twenty-two hours isn't magic—it's biology-based. When you wear aligners 22 hours daily, you're providing sustained force while allowing 2 hours for eating, brushing, and brief aligner-free time. This maintains consistent signals to your bone-remodeling cells without overworking your mouth. If you drop to 18 hours daily, approximately 27% of optimal force signal is lost each day. Over a 7-day aligner period, this compounds to missing about 38% of total cumulative signal.
 
-Your teeth achieve only about 70% of intended movement for that stage. This undercorrection carries forward; the next aligner starts with your teeth already behind schedule, compounding the problem stage by stage. By stage 10 of a 40-stage treatment, you could be 3-5mm behind plan—enough to require refinement aligners or extended treatment. The good news: consistent 22-hour wear prevents these cascading problems. For more details, see our guide on [Accelerated Orthodontics](/article/accelerated-orthodontics-speeding-up-your-treatment.html).
+Your teeth achieve only about 70% of intended movement for that stage. This undercorrection carries forward; the next aligner starts with your teeth already behind schedule, compounding the problem stage by stage. By stage 10 of a 40-stage treatment, you could be 3-5mm behind plan—enough to require refinement aligners or extended treatment. The good news: consistent 22-hour wear prevents these cascading problems.
 
 ## Research Showing the Difference
 
@@ -85,11 +84,14 @@ The discipline of maintaining 22-hour daily wear for 18-24 months of treatment c
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
+
+Related reading: [Why Your Retainers Are Just as Important as Your Braces](/article/retainer-importance-complete-guide.html) and [Risk and Concerns with Invisible Braces Benefits](/article/risk-and-concerns-with-invisible-braces-benefits.html).
+
 ## Conclusion
 
 Twenty-two hours of daily wear matters because your teeth need consistent pressure to move predictably. Every hour you wear your aligners contributes to your final result—missing hours adds up to compromised movement and extended treatment time. The effort you invest now in maintaining consistent wear time directly determines whether you achieve your best possible outcome.
 
-> **Key Takeaway:** Discover why 22 hours of daily aligner wear is essential for optimal tooth movement, bone remodeling, and treatment success in clear aligner therapy.
+> **Key Takeaway:** Clear aligners don't magically slide teeth into position—instead, they trigger a complex biological process.
 
 ## Related Articles
 

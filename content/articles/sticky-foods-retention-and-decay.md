@@ -32,7 +32,6 @@ references:
   - title: "Takarada K, Yoneyama S, Nakamura S, et al. Effect of surface energy on initial bacterial colonization using an in vitro model system. J Prosthet Dent. 2010;103(6):359-365."
     url: https://pubmed.ncbi.nlm.nih.gov/20569695
 ---
-
 ## Introduction
 
 Not all sugary foods are equally bad for your teeth. Have you ever wondered why some foods like gummy candies seem to stick to your teeth forever, while others like juice wash away quickly? The difference is more than just how they taste—it's actually about how long they stay stuck on your tooth surfaces and how much damage bacteria in your mouth can do while they're there. Understanding why certain foods cause more cavities will help you make smarter snacking choices and protect your teeth.

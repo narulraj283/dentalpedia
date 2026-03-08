@@ -11,7 +11,6 @@ subcategory: Brushing, Flossing & Hygiene
 subcategory_slug: brushing-flossing
 reviewed: true
 ---
-
 ## Introduction
 
 Your tongue is a bacterial powerhouse—it harbors more bacteria than your teeth. The rough surface of your tongue creates the perfect environment for bacterial growth, and these bacteria produce the compounds that cause bad breath. Cleaning your tongue daily is one of the simplest, cheapest, and most effective ways to reduce bad breath, improve your oral microbiome, and support overall gum health. This guide explains why tongue cleaning works and how to do it properly.
@@ -163,6 +162,3 @@ Remember that every person's situation is unique. What works well for one patien
 - [Evidence-Based Toothbrush Selection](/article/benefits-of-toothbrush-selection.html)
 - [Tartar Control and Calculus Prevention: Mechanisms](/article/common-misconceptions-about-tartar-prevention.html)
 
-- [LED Whitening Kits: Light-Accelerated Bleaching](/article/led-whitening-kits-light-accelerated-bleaching.html)
-- [Home Fluoride Trays: Custom Carrier Effectiveness](/article/home-fluoride-trays-custom-carrier-effectiveness.html)
-- [Why Fluoride Benefits Matter - Remineralization,](/article/why-fluoride-benefits-matters.html)

@@ -33,7 +33,6 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: 'Dry Mouth and Athletic Performance: What Athletes Need'
 ---
-
 ## The Dry Mouth Challenge During Exercise
 
 When you exercise, especially during intense aerobic activity, your body prioritizes cooling and performing over saliva production. Your mouth becomes dry as salivary glands slow down. This is especially problematic during endurance sports where you're exercising continuously without drinking for extended periods. Learning more about [Understanding Saliva's Role in Oral Protection](/article/how-to-saliva-importance.html) can help you understand this better.
@@ -83,12 +82,6 @@ Be cautious about over-the-counter whitening or sensitivity products—some cont
 ## Nutritional Support for Oral Health
 
 Your overall nutrition affects your teeth's ability to resist decay. Athletes especially should ensure adequate calcium (for tooth mineral strength), vitamin D (which helps calcium absorption), and vitamin C (for gum health). Good nutrition supports your training and your dental health.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about hydration and dry mouth in sports and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Building Better Hydration Habits for Athletes
 

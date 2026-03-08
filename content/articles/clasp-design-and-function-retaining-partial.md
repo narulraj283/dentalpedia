@@ -20,7 +20,6 @@ references:
   - "Ohm E, Silness J. Size of healthy gingiva associated with different types of anterior teeth. J Clin Periodontol. 1977;4(3):201-212."
   - "Granger K, Rudy RJ. The use of clasps. In: Prosthodontics: General, Complete, and Implant. ADEA Press; 1997."
 ---
-
 ## What Are Clasps and Why Do You Need Them?
 
 If you're getting a partial denture, you may have heard about "clasps." A clasp is basically a small metal arm that holds your partial denture in place by gripping a tooth next to the missing teeth. Think of it like a hook that keeps your denture from falling out when you eat, talk, or smile. Your dentist carefully designs these clasps so they hold snugly without damaging your natural teeth. When a clasp works properly, you shouldn't notice it—you'll just have a stable denture that stays where it's supposed to be.
@@ -75,7 +74,7 @@ Your abutment teeth can be more likely to get cavities because the area under yo
 
 Your clasps are the unsung heroes of your partial denture, working quietly to keep everything in place while protecting your natural teeth. A properly designed clasp applies just the right amount of pressure—not too little that your denture slips, and not so much that your tooth gets damaged. Regular dental visits and careful home care are your best tools for keeping everything working well.
 
-> **Key Takeaway:** Learn how clasps work to keep your partial denture in place and why proper design is important for your tooth health.
+> **Key Takeaway:** If you're getting a partial denture, you may have heard about "clasps." A clasp is basically a small metal arm that holds your partial denture in place by gripping a tooth next to the missing teeth.
 
 ## Related Articles
 

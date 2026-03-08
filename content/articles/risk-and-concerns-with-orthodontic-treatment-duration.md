@@ -46,7 +46,6 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Risk and Concerns with Orthodontic Treatment Duration
 ---
-
 ## Introduction
 
 Getting braces is a big commitment that usually takes 18 to 36 months—much longer than most dental treatments. Many patients find that their actual treatment takes even longer than expected. When your braces stay on for extended periods, several risks develop over time.

@@ -28,7 +28,6 @@ references:
   - title: "Bittencourt MEP, Evans PH. An investigation of a method for mapping the buccal corridor in smile photographs. J Clin Orthod. 2009;43(4):229-233."
     url: https://pubmed.ncbi.nlm.nih.gov/19676208
 ---
-
 ## What Is Digital Smile Design?
 
 Digital smile design (or DSD) is basically using computer analysis of your face and smile to plan exactly what cosmetic changes would look best for you. Your dentist takes professional photographs of your face and smile, loads them into specialized software, and analyzes proportions, symmetry, and how much gum shows. Then they show you on a computer what your smile would look like with the proposed improvements. It sounds fancy, but the real value is that you both see the exact same vision before any treatment starts, which prevents surprises.
@@ -71,12 +70,6 @@ You can see mockups and approve them before anything permanent is done. If you'r
 
 Your DSD analysis and approved mock-up design get documented and shared with the laboratory making your veneers or crowns. This means the laboratory understands your specific goals and can match the mock-up design precisely. Written specifications plus photos of your approved design give the lab exactly what to create. This level of communication prevents the common problem where your teeth turn out beautiful but not what you actually wanted.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for cosmetic smile design, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
-
 ## What to Expect During Your Visit
 
 Your dentist will begin by examining your mouth and reviewing your dental history to understand your current situation. This evaluation may include taking X-rays or digital images to get a complete picture of what is happening beneath the surface. Based on these findings, your dentist will explain the recommended treatment approach and walk you through each step of the process.
@@ -100,5 +93,5 @@ Digital smile design uses specialized photography and software to analyze your s
 - [Timeline for Teeth Bleaching Safety](/article/timeline-for-teeth-bleaching-safety.html)
 
 - [Sensitivity After Whitening Management](/article/sensitivity-after-whitening-management.html)
-- [Teeth Whitening Safety: Side Effects, Risk Mitigation,](/article/teeth-whitening-safety-side-effects-and-best-practices.html)
+- [Teeth Whitening Safety: Side Effects, Risk Mitigation](/article/teeth-whitening-safety-side-effects-and-best-practices.html)
 

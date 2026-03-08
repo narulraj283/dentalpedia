@@ -30,7 +30,6 @@ references:
   - title: "Hannig C, Attin T. Enamel Bleaching-Mechanisms and Resultant Properties. Clinics in Cosmetic and Investigational Dentistry. 2009;1:47-57."
     url: https://pubmed.ncbi.nlm.nih.gov/23674892
 ---
-
 ## Teeth Whitening Safety: What You Need to Know Before Bleaching
 
 Teeth whitening is one of the most popular cosmetic dental treatments available today. Whether you're looking to brighten your smile for a special occasion or simply want to look your best, understanding how whitening works and what happens to your teeth during the process can help you make the best decision for your dental health. This guide explains how teeth bleaching is done safely, what changes happen in your teeth, and how to prevent problems like sensitivity and gum irritation.

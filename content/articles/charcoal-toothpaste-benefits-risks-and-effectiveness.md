@@ -20,7 +20,6 @@ references:
   - "Joanna Briggs Institute. Evidence Summary: Charcoal-based oral care products. JBI Database of Systematic Reviews and Implementation Reports. 2023."
   - "Van der Weijden GA, et al. Mechanical plaque removal with a toothbrush. In: Newman MG, et al., eds. Clinical Practice of the Dental Hygienist. 13th ed. 2022:322-344."
 ---
-
 Charcoal toothpaste has exploded in popularity online and in stores, with claims about whitening teeth, detoxifying your mouth, and fighting bacteria. But despite the hype and impressive marketing, the scientific evidence tells a different story. Before you switch to charcoal toothpaste, here's what you need to know about what actually works—and what might harm your teeth.
 
 ## The Marketing vs. The Reality
@@ -85,11 +84,14 @@ If you want whiter teeth, choose professional whitening or an evidence-based ove
 
 Look for the American Dental Association seal on your toothpaste, which verifies that the product has been tested for safety and efficacy. Check the RDA value (should be below 80). Verify that it contains fluoride (unless you have a specific reason to avoid it, which is rare). Avoid marketing claims that seem too good to be true—they probably are.
 
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
 Charcoal toothpaste represents a case of marketing hype outpacing scientific evidence. While it may look cool and feels natural, it doesn't whiten better than proven alternatives and may damage your teeth through excessive abrasiveness. Dental organizations caution against it, especially for children. If you want a whiter smile, choose evidence-based whitening methods. For daily dental health, regular fluoride toothpaste with low abrasivity is your best bet.
 
-> **Key Takeaway:** Charcoal toothpaste has exploded in popularity online and in stores, with claims about whitening teeth, detoxifying your mouth, and fighting.
+> **Key Takeaway:** Charcoal toothpaste has exploded in popularity online and in stores, with claims about whitening teeth, detoxifying your mouth, and fighting bacteria.
 
 ## Related Articles
 

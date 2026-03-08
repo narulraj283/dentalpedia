@@ -32,7 +32,6 @@ references:
   - title: "Systemic approaches to chronic orofacial pain management"
     url: "https://pubmed.ncbi.nlm.nih.gov/15652893/"
 ---
-
 ## Jaw Pain That Won't Go Away? It's Likely TMJ — And There Are Solutions
 
 If your jaw clicks, pops, or aches—especially in the morning—you're not imagining it, and you're not alone. Jaw pain is incredibly common. Many people suffer for years without getting help, thinking they have to live with it. They don't.

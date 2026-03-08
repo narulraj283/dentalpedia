@@ -27,14 +27,13 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Teeth Whitening Results - Evidence-Based Outcomes
 ---
-
 ## Teeth Whitening: What You Can Realistically Expect
 
-Teeth whitening is the most popular cosmetic dental treatment because it works quickly and makes a huge difference. But a lot of people's expectations are based on Instagram pictures and celebrity teeth, which are often heavily edited. Let's talk about what actually happens when you whiten your teeth and how long results last. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
+Teeth whitening is the most popular cosmetic dental treatment because it works quickly and makes a huge difference. But a lot of people's expectations are based on Instagram pictures and celebrity teeth, which are often heavily edited. Let's talk about what actually happens when you whiten your teeth and how long results last.
 
 ## Professional In-Office Whitening: The Dramatic Results
 
-When you go to your dentist for professional whitening, you'll sit for about an hour while they apply a strong bleaching gel (much stronger than anything you can buy) to your teeth. Most people see a massive improvement—your teeth typically get about 6-8 shades lighter in a single appointment. That's noticeable to everyone around you. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
+When you go to your dentist for professional whitening, you'll sit for about an hour while they apply a strong bleaching gel (much stronger than anything you can buy) to your teeth. Most people see a massive improvement—your teeth typically get about 6-8 shades lighter in a single appointment. That's noticeable to everyone around you.
 
 The reason professional whitening is so much more dramatic than home products is the concentration of bleaching agent. Dentists use 35-40% hydrogen peroxide, which is way stronger than anything available over-the-counter. Combined with light or heat to speed up the process, most of the bleaching happens in the first 15-30 minutes of the appointment.
 
@@ -120,6 +119,9 @@ If you see a picture online of teeth that are so white they look bluish, that's 
 
 10. Joiner A. The bleaching of teeth: a review of the literature. J Dent. 2006;34(7):412-419.
 
+
+Related reading: [Common Misconceptions About Cosmetic Crown Selection](/article/common-misconceptions-about-cosmetic-crown-selection.html) and [Gummy Smile Correction: Procedures and Results](/article/gummy-smile-correction-procedures-and-results.html).
+
 ## Conclusion
 
 : It Really Does Work
@@ -128,7 +130,7 @@ Teeth whitening actually delivers on its promise in a way that's different from 
 
 ---
 
-> **Key Takeaway:** Teeth whitening is the most popular cosmetic dental treatment because it works quickly and makes a huge difference.
+> **Key Takeaway:** But a lot of people's expectations are based on Instagram pictures and celebrity teeth, which are often heavily edited. Let's talk about what actually happens when you whiten your teeth and how long results last.
 
 ## Related Articles
 

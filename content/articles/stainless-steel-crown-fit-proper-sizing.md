@@ -32,7 +32,6 @@ references:
   - title: "Fuks AB, Kosinski R. Microleakage of stainless steel crowns affixed with two different cements. ASDC J Dent Child. 1992;59(3):184-186."
     url: https://pubmed.ncbi.nlm.nih.gov/1527891
 ---
-
 ## Introduction
 
 If your child has a baby tooth with extensive decay, your dentist might recommend a stainless steel crown. These crowns are incredibly durable and work better than most other options for severely decayed baby teeth. The key to success is fitting the crown properly—it needs to be exactly the right size and perfectly adapted to your child's tooth. This guide explains what makes a good crown fit and why it matters.
@@ -84,12 +83,6 @@ Your dentist checks that:
 - The crown height is right—not sticking up, not sitting down too far
 - The crown contours look like a natural tooth (no bulges)
 - The bite is balanced
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss stainless steel crown fit proper sizing, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

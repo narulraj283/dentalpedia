@@ -20,18 +20,17 @@ references:
   - "Coachman C, Salama M. Considerations for esthetic implant therapy in the anterior region. J Prosthet Dent. 1996;75(5):568-582."
   - "Beuer F, Steff B, Sorensen JA. Longevity of fixed prostheses with intra-radicular posts. J Prosthet Dent. 2009;101(3):183-190."
 ---
-
 ## What Are Ultra-Thin Veneers?
 
 Veneers are thin shells of ceramic bonded to the front of your teeth to change their appearance. Modern ultra-thin veneers are incredibly conservative—you often remove less tooth structure than for a traditional filling. They're about the thickness of a contact lens, ranging from 0.2-0.5mm of ceramic. Compare this to crowns, which remove about 25-30% of your tooth.
 
-Veneers remove maybe 5-10% of tooth volume. This is genuinely conservative dentistry. The philosophy is: preserve as much natural tooth as possible while creating a beautiful smile. Ultra-thin veneers make this possible because modern adhesive cements and ceramics are strong enough to function at these minimal thicknesses. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
+Veneers remove maybe 5-10% of tooth volume. This is genuinely conservative dentistry. The philosophy is: preserve as much natural tooth as possible while creating a beautiful smile. Ultra-thin veneers make this possible because modern adhesive cements and ceramics are strong enough to function at these minimal thicknesses.
 
 ## No-Prep Versus Minimal-Prep Veneers
 
 No-prep veneers require absolutely no tooth removal. The veneer is simply bonded directly onto your existing tooth surface. This sounds perfect, but it has real limitations.
 
-No-prep works only for teeth that are undersized or slightly undershaded (not too dark). If you want a dramatic color change from dark to light, or if your tooth has a sloped shape, no-prep creates an overcontoured restoration that looks bulky and unnatural. The marginal fit is also more challenging—without a prepared margin for the veneer to land on, the edges don't seal as precisely. For more details, see our guide on [Anterior Guidance](/article/anterior-guidance-incisor-controlling-bite.html).
+No-prep works only for teeth that are undersized or slightly undershaded (not too dark). If you want a dramatic color change from dark to light, or if your tooth has a sloped shape, no-prep creates an overcontoured restoration that looks bulky and unnatural. The marginal fit is also more challenging—without a prepared margin for the veneer to land on, the edges don't seal as precisely.
 
 Minimal-prep veneers involve removing just 0.3-0.5mm of tooth structure, primarily on the facial surface, creating a slight shoulder for the veneer to seat against. This small preparation allows much better control over final shape, color, and emergence profile. You can achieve dramatic shade changes from dark to light because the preparation is visible and gives the technician a reference.
 
@@ -87,11 +86,15 @@ Skipping the mock-up phase—seeing the design approved in your mouth before per
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
+
+Related reading: [Risk and Concerns with Teeth Color Improvement](/article/risk-and-concerns-with-teeth-color-improvement.html) and [Smile Design Tool: Digital Preview and Treatment](/article/smile-design-tool-digital-preview.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about all-ceramic veneers: ultra-thin cosmetic shells or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Veneers are thin shells of ceramic bonded to the front of your teeth to change their appearance. Your dentist can help you understand what steps are right for your specific needs.
+
+> **Key Takeaway:** Veneers are thin shells of ceramic bonded to the front of your teeth to change their appearance.
 
 ## Related Articles
 

@@ -22,7 +22,6 @@ references:
   - "Hellwig E, Lussi A. Oral hygiene products and practice. Periodontol 2000. 2014;68(1):92-119."
   - "Lippert F, Parker DM, Jandt KD. Gold standard comparison of the efficacy of a novel silica-based and a conventional fluoride toothpaste to prevent erosion and abrasion. Clin Oral Investig. 2004;8(2):52-58."
 ---
-
 ## Why Some People Choose Fluoride-Free Toothpaste
 
 Some people prefer fluoride-free toothpaste due to concerns about fluoride safety, a preference for "natural" products, or philosophical beliefs about synthetic chemicals. The fluoride-free toothpaste market has grown significantly as these products have become more widely available. If you're considering switching to fluoride-free toothpaste, it's important to understand what you're gaining and what you're giving up.
@@ -75,12 +74,6 @@ If safety concerns are driving your fluoride-free preference, it's worth discuss
 
 Fluoride-free toothpastes vary significantly in their alternative ingredients and claimed benefits. Some are more abrasive than others, which could be a concern if you have sensitive teeth or restorations. Some ingredients are better researched than others. If you do choose a fluoride-free paste, selecting one with evidence-based alternative ingredients (rather than gimmicky marketing) provides better results.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about fluoride free toothpaste alternatives and concerns and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed fluoride free toothpaste alternatives and concerns, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -91,7 +84,7 @@ Fluoride is the most proven cavity-prevention ingredient in toothpaste. Fluoride
 
 If you prefer fluoride-free products, discuss your specific risk factors and preferences with your dentist so you can make an informed decision and potentially add other protective measures to compensate.
 
-> **Key Takeaway:** Some people prefer fluoride-free toothpaste due to concerns about fluoride safety, a preference for 'natural' products, or philosophical beliefs.
+> **Key Takeaway:** Some people prefer fluoride-free toothpaste due to concerns about fluoride safety, a preference for "natural" products, or philosophical beliefs about synthetic chemicals.
 
 ## Related Articles
 

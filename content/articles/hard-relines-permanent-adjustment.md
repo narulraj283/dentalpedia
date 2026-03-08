@@ -28,7 +28,6 @@ references:
   - title: "Long-Term Stability of Relined Dentures"
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/jcpe.12877
 ---
-
 ## Hard Relines: Restoring Your Denture Fit
 
 Over time, dentures become loose as jawbone resorbs (shrinks). A hard reline—adding new material to the inner surface—restores proper fit and retention. Understanding when relines are needed and how they work helps you maintain your dentures.

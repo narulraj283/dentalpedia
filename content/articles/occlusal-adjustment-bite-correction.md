@@ -29,7 +29,6 @@ subcategory: General Dentistry
 subcategory_slug: overview-general
 title: Occlusal Adjustment Bite Correction
 ---
-
 When you bite down, your teeth should make contact smoothly and evenly. But sometimes, certain teeth hit first or harder than others, creating a bite that feels off-balance. This is called a bite problem, and even a tiny mismatch can create big problems over time. Your jaw joints start to work harder, your muscles tighten, individual teeth bear too much force, and you might notice soreness, clicking, or sensitivity. The good news is that a simple procedure called occlusal adjustment—basically, carefully smoothing down the high spots on your teeth—can fix this problem and protect your long-term oral health.
 
 ## Understanding How Your Bite Should Work

@@ -32,7 +32,6 @@ references:
   - title: "Differential diagnosis of intrinsic versus extrinsic discoloration"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25234567
 ---
-
 ## Yellowing Teeth: A Normal Part of Getting Older
 
 If you've noticed your teeth getting yellower over the years, you're experiencing something completely natural. As you age, the inner part of your tooth (called dentin) becomes denser and absorbs less light, making it appear more yellow. At the same time, the hard outer layer (enamel) gradually wears down from chewing and daily use, which makes the yellower dentin show through more obviously.

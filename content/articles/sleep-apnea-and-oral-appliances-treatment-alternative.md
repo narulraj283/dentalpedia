@@ -30,7 +30,6 @@ references:
   - title: "Doff MH et al. Long-term stability of the treatment effect of a mandibular advancement device in obstructive sleep apnea. Eur Respir J. 2013;42(6):1517-1525."
     url: https://pubmed.ncbi.nlm.nih.gov/23657405
 ---
-
 ## Oral Appliances: An Effective Alternative You'll Actually Use
 
 Sleep apnea is incredibly common but most people who have it don't know they do. CPAP machines work well for treating sleep apnea, but here's the catch: half the people who get CPAP machines stop using them within a year. They hate the mask, despise the noise, and feel like they're being smothered.
@@ -64,14 +63,6 @@ Some people notice their bite changes gradually after years of nightly appliance
 ## Long-term Success and Monitoring
 
 Your appliance effectiveness remains stable year after year. Your dentist checks your appliance condition annually, monitors your sleep apnea symptoms, and reassesses whether your current advancement level still works. Weight changes, aging, and disease progression can affect your apnea over time, but regular monitoring catches these changes and your dentist adjusts accordingly. Most patients continue enjoying the same quality of sleep apnea control for decades. For more on this topic, see our guide on [Sleep Apnea and Dental Treatment](/article/sleep-apnea-and-dental-treatment-oral-appliance-therapy.html).
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about sleep apnea and oral appliances: a treatment alternative and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

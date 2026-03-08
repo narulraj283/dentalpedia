@@ -48,14 +48,13 @@ references:
     title: Textbook of Orthodontics
     journal: Textbook
 ---
-
 ## Do I Need to Have Teeth Extracted for Braces?
 
-One of the biggest questions patients have before starting orthodontic treatment is "Does my orthodontist want to pull teeth?" This used to be a really common part of braces treatment, but it's much less common now. Your orthodontist has many options for creating the space your teeth need to straighten, and extraction is just one of them. Let's talk about what determines whether extraction is actually necessary and what alternatives exist. For more details, see our guide on [Accelerated Orthodontia](/article/accelerated-orthodontia-fast-track-braces.html).
+One of the biggest questions patients have before starting orthodontic treatment is "Does my orthodontist want to pull teeth?" This used to be a really common part of braces treatment, but it's much less common now. Your orthodontist has many options for creating the space your teeth need to straighten, and extraction is just one of them. Let's talk about what determines whether extraction is actually necessary and what alternatives exist.
 
 ## Why Extraction Is Less Common Now Than Before
 
-Back in the 1970s and 1980s, orthodontists extracted teeth for about half of all braces patients. It was just considered the standard approach. Over time, though, orthodontists realized that keeping your natural teeth when possible is usually better. Modern technology has given them lots of other ways to create space, so extraction isn't necessary nearly as often. For more details, see our guide on [Accelerated Orthodontics](/article/accelerated-orthodontics-speeding-up-your-treatment.html).
+Back in the 1970s and 1980s, orthodontists extracted teeth for about half of all braces patients. It was just considered the standard approach. Over time, though, orthodontists realized that keeping your natural teeth when possible is usually better. Modern technology has given them lots of other ways to create space, so extraction isn't necessary nearly as often.
 
 Today, only about 25-30% of braces patients need extractions. That's a huge drop. Why? Because orthodontists now have better ways to diagnose who really needs extraction versus who just needs creative space management. Plus, technology like special anchors and digital planning has opened up new options.
 
@@ -121,11 +120,14 @@ About 25-30% of modern braces patients need extractions. Your orthodontist will 
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
+
+Related reading: [Arch Form Selection: Individual vs. Standard Archwire](/article/arch-form-selection-individual-vs-standard.html) and [Cost of Teeth Relapse Prevention and Retention](/article/cost-of-teeth-relapse-prevention.html).
+
 ## Conclusion
 
 Most people who need braces don't need tooth extraction. Modern orthodontists have many tools to create space: expansion, interdental reduction, back tooth movement, and skeletal anchoring. Extraction is only recommended when these alternatives won't achieve your treatment goals. Ask your orthodontist to explain why extraction is recommended for your specific situation and explore alternative approaches before committing to extraction.
 
-> **Key Takeaway:** Tooth extraction for braces is less common now. Learn when it's necessary and what modern alternatives exist to create space without pulling teeth.
+> **Key Takeaway:** One of the biggest questions patients have before starting orthodontic treatment is "Does my orthodontist want to pull teeth?" This used to be a really common part of braces treatment, but it's much less common now.
 
 ## Related Articles
 

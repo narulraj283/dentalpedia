@@ -28,7 +28,6 @@ references:
   - title: "Professional Preventive Care Intervals and Outcomes"
     url: "https://pubmed.ncbi.nlm.nih.gov/21284580/"
 ---
-
 ## Why Your Gums Matter
 
 Your gums do more than just frame your teeth—they're your mouth's foundation. Gum disease is the leading cause of tooth loss in adults, but the good news? It's largely preventable.

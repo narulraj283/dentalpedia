@@ -32,7 +32,6 @@ references:
   - title: "Material Extrusion and Apical Pressure During Thermoplastic Obturation Techniques"
     url: https://pubmed.ncbi.nlm.nih.gov/19779478
 ---
-
 ## Understanding Root Canal Filling Methods
 
 When you need a root canal treatment, your dentist removes the infected nerve tissue from inside your tooth and then fills the empty space. This filling is critical because it prevents bacteria from re-entering and causing another infection. The way your dentist fills your root canal can make a significant difference in whether your tooth stays healthy for years to come. Modern dentistry uses several filling techniques, and warm gutta-percha methods have become increasingly popular because they provide superior results, especially in complicated tooth shapes.
@@ -122,6 +121,6 @@ Warm gutta-percha obturation using System B continuous wave technique or automat
 - [Irreversible Pulpitis: Tooth Requires Root Canal](/article/irreversible-pulpitis-tooth-requires-root-canal.html)
 - [Calcified Canals: Root Canal Obstruction and Pulpal](/article/calcified-canals-root-canal-obstruction.html)
 - [Modern Root Canal Files - Why Your Dentist Uses](/article/nickel-titanium-files-modern-material.html)
-- [Stainless Steel Endodontic Files: Metallurgy,](/article/stainless-steel-files-traditional-material.html)
+- [Stainless Steel Endodontic Files: Metallurgy](/article/stainless-steel-files-traditional-material.html)
 - [Can My Tooth Save Itself Without a Root Canal?](/article/reversible-pulpitis-can-tooth-recover.html)
 

@@ -30,7 +30,6 @@ references:
   - title: "Handling Complications in Veneer Therapy: Prevention and Management Strategies"
     url: https://pubmed.ncbi.nlm.nih.gov/25984815
 ---
-
 ## Your Complete Veneer Treatment Journey
 
 Considering cosmetic veneers? Understanding the complete treatment process helps you know what to expect at each appointment and prepares you for what's involved in transforming your smile. This step-by-step guide walks you through the entire veneer journey from your first consultation through final bonding and beyond.

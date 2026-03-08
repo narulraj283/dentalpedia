@@ -32,7 +32,6 @@ references:
   - title: "Yildirim G, Atakan C, Suer BT, Ozcan M. Instrument breakage during oral surgery: causes, consequences, and management. Int J Oral Maxillofac Surg. 2009;38(12):1254-1260."
     url: https://pubmed.ncbi.nlm.nih.gov/19664917
 ---
-
 ## Introduction
 
 Occasionally during oral surgery, unexpected complications can happen—even with careful planning and the best surgical technique. The good news? Your surgeon is extensively trained to recognize and manage these situations safely and professionally.
@@ -82,6 +81,9 @@ You'll receive antibiotics to prevent sinus infection. Most perforations heal be
 During surgery, your surgeon is trained to recognize these complications instantly and implement solutions. They have years of training, experience handling these situations, and access to special equipment like microscopes, ultrasonic instruments, and advanced imaging if needed. Most of these situations resolve without affecting your overall outcome or healing.
 
 The key to managing intraoperative complications is recognizing them early and making thoughtful decisions about whether immediate intervention or conservative management is best. Your surgeon always considers your safety and long-term health, choosing the approach least likely to cause additional damage. If your surgeon encounters any complication, they'll discuss it with you during your postoperative visit and explain exactly what happened and how it was managed.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

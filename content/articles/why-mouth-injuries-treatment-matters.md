@@ -32,7 +32,6 @@ references:
   - title: "Psychological Impact and Rehabilitation Outcomes Following Dental Trauma"
     url: https://pubmed.ncbi.nlm.nih.gov/27634537
 ---
-
 ## When You Chip or Knock Out a Tooth: Time Is Everything
 
 Picture this: your child takes a tumble during soccer practice, or you get hit in the mouth during a moment of bad luck, and suddenly you're holding a broken or knocked-out tooth. In that panicked moment, what you do in the next few minutes could mean the difference between saving your tooth or losing it forever. Dental injuries happen to about 1 in 13 people during their lifetime, and they're far more common in kids and teens involved in sports. The key to saving your tooth is understanding what to do immediately and getting professional help as fast as possible.

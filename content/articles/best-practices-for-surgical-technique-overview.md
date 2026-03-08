@@ -20,12 +20,11 @@ references:
   - "Donos N, Mardas N, Chadha V. Clinical outcomes of implants following complex bone augmentation procedures and soft tissue reconstruction. J Clin Periodontol. 2008;35(S8):283-306."
   - "Sanz M, Vignoletti F. Key advances in periodontal therapy: consensus of the Sixth European Workshop on Periodontology. J Clin Periodontol. 2016;43(5):405-407."
 ---
-
 ## Four Core Principles That Guide Surgery
 
-Every dental surgery follows four golden rules that help you heal faster and with fewer problems. First is minimal trauma—your dentist uses gentle technique, proper tools, and careful handling to avoid unnecessary tissue damage. Rough technique extends healing by 20-30% and increases infection risk. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
+Every dental surgery follows four golden rules that help you heal faster and with fewer problems. First is minimal trauma—your dentist uses gentle technique, proper tools, and careful handling to avoid unnecessary tissue damage. Rough technique extends healing by 20-30% and increases infection risk.
 
-Second is sterility. Your dentist uses sterile instruments, gloved hands, and sterile barriers to keep the surgical area clean. A quick antiseptic rinse before surgery reduces bacteria dramatically. Clean surgical technique drops infection rates from 8-10% down to just 1-2%. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
+Second is sterility. Your dentist uses sterile instruments, gloved hands, and sterile barriers to keep the surgical area clean. A quick antiseptic rinse before surgery reduces bacteria dramatically. Clean surgical technique drops infection rates from 8-10% down to just 1-2%.
 
 Third is hemostasis—that's fancy talk for stopping the bleeding. Your dentist controls bleeding within 5-10 minutes so you can heal properly and they can see what they're doing. Good bleeding control prevents problems after surgery in 99.5% of cases.
 
@@ -202,28 +201,16 @@ If you're planning bone-level implants later, socket preservation during extract
 
 Your dentist will recommend socket preservation if you're planning implants.
 
-## Questions to Ask Your Surgeon
 
-Before your extraction:
-
-- How many extractions like mine do you perform monthly?
-- What's your complication rate for this type of extraction?
-- What technique will you use?
-- Will I need bone removal?
-- Can you perform flapless extraction?
-- What happens if my root breaks during extraction?
-- How will you stop bleeding if standard measures don't work?
-- Will you place a bone graft if I'm planning an implant?
-- What's your post-op protocol?
-- How experienced are you with my tooth type specifically?
-
-**Related articles:** How teeth are extracted step-by-step | Bone removal and contouring explained | Preparing for implant surgery
+Related reading: [Cost of Anesthesia Types](/article/cost-of-anesthesia-types.html) and [Oral Cancer: What Happens After Diagnosis](/article/oral-cancer-diagnosis-and-surgical-treatment.html).
 
 ## Conclusion
 
----
+Careful surgical technique directly affects your recovery and success. Gentle tissue handling reduces healing time by 15-20% and cuts complications by 50%. Careful planning—knowing where your nerves, blood vessels, and sinuses are before cutting—prevents most serious complications. Precise bleeding control prevents post-operative problems in 99.5% of cases.
 
-> **Key Takeaway:** Careful surgical technique—gentle tissue handling, precise instrument use, and respect for your anatomy—leads to faster healing and fewer complications.
+The instruments matter too. High-speed drills with water cooling are gentler on bone than slow speeds. Progressive drilling with continuous rinsing prevents bone death. Proper implant site dimensions and angles determine implant success. Good closure technique—layered, tension-free, with proper spacing—heals 2-3 weeks faster than open healing.
+
+> **Key Takeaway:** Skilled surgical technique determines your comfort and healing speed. Surgeons who prioritize gentle tissue handling, meticulous hemostasis, and respect for your anatomy deliver faster recovery, fewer complications, and better long-term outcomes—investing in experienced surgeons pays dividends in your healing process.
 
 ## Related Articles
 

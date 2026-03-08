@@ -22,7 +22,6 @@ references:
   - "Cattaneo PM, Dalstra M, Melsen B. Moment distribution in the initial phase of bodily movement in bodily translation of teeth: a mathematical model and its validation. Am J Orthod Dentofacial Orthop. 2009;136(5):662-670."
   - "Franzen TJ, Brudvik P, Rygh P. Effect of electrical current on orthodontic tooth movement in dogs. Eur J Orthod. 2003;25(3):271-279."
 ---
-
 ## How Often Do You Really Need Orthodontist Visits?
 
 If you're considering braces or aligners, you're probably wondering how much of your time orthodontic treatment will demand. Appointment frequency is one of the most common questions patients ask—and one with several persistent myths. Let's talk about what appointment spacing really means for your treatment progress and how often you actually need to be in the chair.
@@ -95,7 +94,7 @@ You might not notice problems developing under your braces because the braces ar
 
 Most patients need appointments every 4 to 8 weeks during active orthodontic treatment. Appointment frequency depends on your treatment plan, not on myths about how fast teeth move or how often you "need" to be checked. Consistent appointments—not extra-frequent ones—produce the best results within the estimated timeline.
 
-> **Key Takeaway:** Learn how often you actually need to see your orthodontist during treatment and why appointment spacing matters for results.
+> **Key Takeaway:** If you're considering braces or aligners, you're probably wondering how much of your time orthodontic treatment will demand.
 
 ## Related Articles
 

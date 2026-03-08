@@ -24,7 +24,6 @@ references:
   - title: "Krall EA, Dawson-Hughes B, Garvey AJ, Garcia RI. Smoking, smoking cessation, and tooth loss. Journal of Dental Research. 1997;76(10):1587-1592."
     url: https://pubmed.ncbi.nlm.nih.gov/9294493
 ---
-
 ## Why Quitting Smoking Matters for Your Gums
 
 If you're a smoker with gum disease, you might feel hopeless about your situation. But there's good news: quitting smoking can dramatically improve your gum health and prevent tooth loss. Understanding how quitting helps motivates you to make this important change.
@@ -70,12 +69,6 @@ Quitting smoking improves not just your gum health, but your overall oral health
 ## Making the Decision
 
 Quitting smoking is hard. If you've tried before and struggled, don't give up. Many smokers need several attempts before successfully quitting. Talk to your doctor about smoking cessation programs, medications, and support resources. Your dentist can also support your quitting efforts and monitor how your gums improve as you become smoke-free.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss smoking and gum disease why quitting matters, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

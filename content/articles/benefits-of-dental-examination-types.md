@@ -20,16 +20,13 @@ references:
   - "Landis JR, Koch GG. The measurement of observer agreement for categorical data. Biometrics. 1977;33(1):159-174."
   - "American Dental Association Council on Clinical Affairs. Guidelines on diagnosis and management of oral lesions. J Am Dent Assoc. 2012;143(10):1118-1126."
 ---
-
 ## Three Types of Dental Exams—And When You Need Each One
 
-Not every dental visit is the same. Sometimes you need a super thorough baseline exam. Sometimes you just need a quick checkup.
-
-Sometimes you've got a specific problem that needs attention. Understanding which exam type you need helps you understand what to expect when you visit your dentist. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+Are you wondering why your dentist sometimes spends 60 minutes examining you and other times just 15? It's not random—different visits require different types of exams for different reasons. Understanding which one you need helps you know what to expect and whether you're getting thorough care.
 
 ## The Comprehensive Exam: Your Baseline Assessment
 
-When you're a new patient or haven't been to the dentist in years, you'll get a comprehensive exam. This is the thorough, detailed evaluation that captures everything about your teeth and gum health. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+When you're a new patient or haven't been to the dentist in years, you'll get a comprehensive exam. This is the thorough, detailed evaluation that captures everything about your teeth and gum health.
 
 Your dentist will check your face and jaw for symmetry and any unusual findings. They'll look at your skin for sun damage or growths. They'll feel your jaw joints to make sure they're working properly. They'll palpate your neck and under your jaw to feel for any swollen lymph nodes.
 
@@ -101,19 +98,8 @@ Regular exams, appropriate for your specific situation, catch problems early whe
 
 You're not passive during an exam. Tell your dentist about any pain, sensitivity, or concerns. If you're worried about something, speak up. Your dentist can't help with problems they don't know about.
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+Related reading: [Risk and Concerns with Saliva Importance](/article/risk-and-concerns-with-saliva-importance.html) and [Common Misconceptions About Mouth Injuries Treatment](/article/common-misconceptions-about-mouth-injuries-treatment.html).
 
 ## Conclusion
 
@@ -121,7 +107,7 @@ Dental exams serve an important purpose beyond just checking for cavities. The c
 
 The limited exam addresses specific concerns. All exams include screening for oral cancer. By understanding what each exam type involves and when you need it, you can appreciate why your dentist recommends the care they do. Regular exams, tailored to your specific risk factors, catch problems early and keep your teeth healthy for life.
 
-> **Key Takeaway:** Not every dental visit is the same. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** Are you wondering why your dentist sometimes spends 60 minutes examining you and other times just 15?
 
 ## Related Articles
 

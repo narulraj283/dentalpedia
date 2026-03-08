@@ -30,7 +30,6 @@ references:
   - title: "White spot lesion formation during fixed appliance therapy: a longitudinal study and risk assessment"
     url: https://www.ncbi.nlm.nih.gov/pubmed/29163812
 ---
-
 Keeping your teeth clean with braces is harder than without them, but it's absolutely crucial. The brackets and wires create places where food and plaque hide, and if plaque sits there too long, it can cause permanent white spots on your teeth (demineralization) that don't go away even after the braces come off. The good news is that with the right technique and tools, you can keep your teeth sparkling clean throughout treatment. This guide covers everything you need to know to maintain excellent oral hygiene and protect your teeth while wearing braces.
 
 ## The Right Way to Brush Your Teeth

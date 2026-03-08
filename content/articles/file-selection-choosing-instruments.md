@@ -32,7 +32,6 @@ subcategory: Endodontic Overview
 subcategory_slug: overview-endo
 title: 'Endodontic File Selection: Instrument Characteristics'
 ---
-
 ## Understanding Root Canal Treatment Tools
 
 When your dentist needs to do a root canal, they use special instruments (called files) to clean and shape the inside of your tooth. Think of it like cleaning out a very tiny, delicate space. Different files do different jobs, and your dentist chooses them based on the shape and size of your tooth's roots.
@@ -108,12 +107,6 @@ Files can break inside your tooth if they're stressed too much. Your dentist pre
 
 Some dentists use ultrasonic instruments (vibrating instruments) to help remove calcified deposits. Some use special glue or medications to help navigate tight canals. Your endodontist (root canal specialist) might use techniques you've never heard of—all designed to make treatment safer and more effective.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about file selection choosing instruments and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed file selection choosing instruments, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -122,7 +115,7 @@ Once you've addressed file selection choosing instruments, maintaining your resu
 
 Root canal files are precision tools designed specifically for the delicate job of cleaning inside your tooth. Your dentist chooses different files based on your tooth's unique shape and needs. Modern files are more flexible and safe than ever before, making root canal treatment more predictable and comfortable.
 
-> **Key Takeaway:** When your dentist needs to do a root canal, they use special instruments (called files) to clean and shape the inside of your tooth.
+> **Key Takeaway:** Think of it like cleaning out a very tiny, delicate space. Different files do different jobs, and your dentist chooses them based on the shape and size of your tooth's roots.
 
 ## Related Articles
 

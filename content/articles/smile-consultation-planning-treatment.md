@@ -34,7 +34,6 @@ references:
   - title: "Desai S, Upadhyay M, Nanda R. Dynamic smile analysis: changes with age. Am J Orthod Dentofacial Orthop. 2009;136(3):310.e1-310.e10."
     url: https://pubmed.ncbi.nlm.nih.gov/19732661
 ---
-
 ## Planning Your Smile Makeover
 
 Before your dentist starts any cosmetic work, they should spend time understanding exactly what you want to change about your smile. The best cosmetic outcomes happen when you and your dentist are completely on the same page about treatment goals. This article walks you through what a thorough consultation looks like, the tools your dentist uses to show you what's possible, and how to make sure your treatment plan is right for you.

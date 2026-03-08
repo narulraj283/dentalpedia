@@ -28,7 +28,6 @@ references:
   - title: "Host Immune Response in Periodontal Disease: Molecular Mechanisms and Clinical Implications"
     url: https://pubmed.ncbi.nlm.nih.gov/25476933/
 ---
-
 ## Understanding Gum Disease Stages
 
 Gum disease progresses through predictable stages, starting with mild inflammation and potentially advancing to serious bone loss. Understanding where you are in this progression helps you and your dentist make the right decisions about treatment. Some stages are easily reversible; others cause permanent damage. Early detection makes all the difference. About 1 in 10 adults has severe gum disease, and many more have early-stage disease without realizing it.
@@ -102,10 +101,6 @@ Certain medications can worsen gum disease. Hormonal changes during pregnancy in
 Treatment isn't the end—it's the beginning of long-term maintenance. After treatment, patients need supportive periodontal therapy (professional cleanings) every 3-6 months at minimum. Patients attending 80% of their maintenance appointments keep 80-90% of their treatment gains over 5 years. Those who skip appointments experience significant relapse.
 
 Electric toothbrushes remove about 11% more plaque than manual brushing, making them useful for ongoing home care. [Athletic mouthguards protect your gums in sports](/article/athletic-mouthguard-custom-vs-stock.html) if you're active.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about gum disease stages complete guide and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
 
 ## Conclusion
 

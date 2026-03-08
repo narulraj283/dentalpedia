@@ -32,7 +32,6 @@ references:
   - title: "Correlation between operator experience and surgical success rates"
     url: "https://pubmed.ncbi.nlm.nih.gov/15035168/"
 ---
-
 When your surgeon recommends dental surgery—whether extraction, implant placement, or bone grafting—you naturally want to know: what are the success rates? Will this work? What are my chances? Understanding success rates and what they really mean helps you evaluate treatment options and make informed decisions.
 
 However, success rates aren't as simple as they first appear. Learn more about [Risk and Concerns with](/article/risk-and-concerns-with-oral-surgery-recovery-timeline.html) for additional guidance. An implant can remain in your jaw bone (survival) while still being considered a failure clinically if it develops problems. Conversely, a procedure might have complications but still be considered successful if it achieves its primary goal. Understanding these distinctions helps you interpret the statistics you read.

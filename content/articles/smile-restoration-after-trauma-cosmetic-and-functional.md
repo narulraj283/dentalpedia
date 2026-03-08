@@ -32,7 +32,6 @@ references:
   - title: "Demarco FF, Collares K, Coulthard LR, et al. Longevity of aesthetic restorations and factors that influence retention rates of direct restorations. J Esthetic Restor Dent. 2013;25(1):72-85."
     url: https://pubmed.ncbi.nlm.nih.gov/23351080
 ---
-
 ## Recovering Your Smile After a Tooth Injury
 
 If you've had a traumatic injury to your front teeth—maybe from a sports injury, accident, or fall—you might be feeling stressed about how to fix it. The good news is that modern dentistry has great ways to restore damaged teeth and make your smile look beautiful again. Whether your tooth was chipped, broken, or knocked completely out, your dentist has treatment options that can help you recover not just the function of your tooth, but also your confidence in your smile.
@@ -118,8 +117,6 @@ Some patients benefit from psychological support or counseling as they process t
 ## Conclusion
 
 Post-trauma smile restoration addresses both the structural damage created by traumatic injury and the esthetic concerns affecting patient confidence and appearance. Understanding the classification of traumatic injuries, appropriate timing of treatment, options for restoring fractured teeth and managing discoloration, and the opportunity for integrated orthodontic-restorative treatment enables clinicians to develop comprehensive treatment plans that restore both function and esthetics. By approaching post-trauma rehabilitation as an opportunity for comprehensive smile improvement rather than simply repairing the injured tooth, clinicians can help patients move beyond the trauma and achieve smiles that look and function better than before the injury.
-
-If you've had a traumatic injury to your front teeth—maybe from a sports injury, accident, or fall—you might be feeling stressed about how to fix it. Talk to your dentist about which options work best for your unique situation, and don't hesitate to ask questions during your appointment.
 
 > **Key Takeaway:** Recovering Your Smile After a Tooth Injury
 

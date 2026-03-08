@@ -20,7 +20,6 @@ references:
   - "Cano J, Campo J, Liñares A, et al. Distraction osteogenesis in oral implantology. Med Oral Patol Oral Cir Bucal. 2012;17(1):e379-e387."
   - "Aronson J. Limb-lengthening, skeletal reconstruction, and bone transport distraction with internal devices. Clin Orthop Relat Res. 1994;301:111-122."
 ---
-
 ## What Is Bone Distraction and How Does It Work?
 
 Bone distraction is an innovative surgical technique that helps your mouth and jaw grow new bone when you don't have enough bone for dental implants or jaw reconstruction. Instead of taking bone from another part of your body, your surgeon creates a controlled separation in your jaw bone and lets your body naturally grow new bone to fill the gap. This process works because your body responds to gradual stretching by making new bone tissue at about 1 millimeter per day.
@@ -91,7 +90,7 @@ Distraction osteogenesis is a remarkable way to create new bone when you need it
 
 Talk to your dentist or surgeon about whether bone distraction might be right for you. Every situation is unique, and your specialist can explain whether this procedure, bone grafting, or another option makes the most sense for your specific needs.
 
-> **Key Takeaway:** Bone distraction is an innovative surgical technique that helps your mouth and jaw grow new bone when you don't have enough bone for dental implants.
+> **Key Takeaway:** Bone distraction is an innovative surgical technique that helps your mouth and jaw grow new bone when you don't have enough bone for dental implants or jaw reconstruction.
 
 ## Related Articles
 

@@ -30,7 +30,6 @@ references:
   - title: "Automated Toothbrush vs Manual Toothbrush Efficacy in Plaque Removal and Bleeding Reduction"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27654321
 ---
-
 Bleeding gums when you brush or floss can be alarming, but you're definitely not alone. About half of all people experience gum bleeding at some point, making it the most common reason people visit their dentist. The good news: bleeding gums are usually reversible and within your control.
 
 Most cases happen because plaque—a sticky film of bacteria—builds up on your teeth and irritates your gums. While the vast majority of bleeding gums cases come from poor plaque control, occasionally bleeding signals something more serious that requires medical attention. Understanding what causes bleeding gums and how to fix them is your first step toward a healthier smile.
@@ -103,7 +102,7 @@ Bleeding gums result from plaque buildup triggering gum inflammation, and the so
 
 - [Risk and Concerns with Bite Force and Teeth](/article/risk-and-concerns-with-bite-force-and-teeth.html)
 - [Understanding Filling Material Selection for](/article/benefits-of-filling-material-selection.html)
-- [Biocompatible Material Selection in Dentistry: Safety,](/article/biocompatible-material-selection.html)
+- [Biocompatible Material Selection in Dentistry](/article/biocompatible-material-selection.html)
 - [Root Caries - Decay on Exposed Root Surfaces](/article/root-caries-decay-on-exposed-roots.html)
 - [Recovery After Extraction: A Complete Patient Guide](/article/benefits-of-recovery-after-extraction.html)
 

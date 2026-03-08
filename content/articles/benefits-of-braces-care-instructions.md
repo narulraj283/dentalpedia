@@ -20,18 +20,17 @@ references:
   - "Swierkot K, Lempska A, Boron B, Swierkot M, Malara P. Effect of thorough oral hygiene and mechanical debridement on clinical outcomes in orthodontic patients. Oral Health Prev Dent. 2014;12(3):267-275."
   - "Tufekci E, Lindauer SJ, Vig KWL. Remaining challenges with clear aligner therapy. Semin Orthod. 2016;22(3):169-179."
 ---
-
 ## Why Braces Make Cleaning Your Teeth Tougher
 
 If you're wearing braces, you've probably noticed that brushing and flossing just got way more complicated. Brackets, bands, wires, and other parts all create extra spaces where plaque can hide. Think of each tooth with a bracket as having multiple new nooks and crannies—maybe 8 to 10 tiny spots where bacteria love to hang out.
 
-These protected areas become little plaque factories if you're not careful. The spots that are hardest to reach are right underneath the wire and around the edges of each bracket. This is exactly where white spot lesions (those chalky marks that sometimes don't go away) start to form. For more details, see our guide on [Accelerated Orthodontia](/article/accelerated-orthodontia-fast-track-braces.html).
+These protected areas become little plaque factories if you're not careful. The spots that are hardest to reach are right underneath the wire and around the edges of each bracket. This is exactly where white spot lesions (those chalky marks that sometimes don't go away) start to form.
 
 ## How to Brush Correctly Around Braces
 
 Forget your regular brushing routine—braces demand a special technique. Here's what works: position your toothbrush at a 45-degree angle against your tooth, then brush in small circles. You need to do this for every section of every tooth. Think of each tooth as having different zones.
 
-For the area above the bracket, brush straight across. For the area below the bracket, tilt the brush down and brush upward to get under the wire. For the tooth surface itself, brush as usual. Powered toothbrushes (the electric kind) do a better job than regular brushes because they vibrate hundreds of times per second, helping dislodge plaque from those hard-to-reach spots. For more details, see our guide on [Accelerated Orthodontics](/article/accelerated-orthodontics-speeding-up-your-treatment.html).
+For the area above the bracket, brush straight across. For the area below the bracket, tilt the brush down and brush upward to get under the wire. For the tooth surface itself, brush as usual. Powered toothbrushes (the electric kind) do a better job than regular brushes because they vibrate hundreds of times per second, helping dislodge plaque from those hard-to-reach spots.
 
 Make sure you're spending enough time—most people need about three minutes total to do a thorough job. Yes, it takes longer than regular brushing. The payoff? Way fewer bracket breakages (those happen when plaque buildup weakens the adhesive) and no white spots.
 
@@ -77,11 +76,18 @@ Getting beautiful straight teeth takes time and work. Your daily routine of brus
 
 The difference between careful patients and careless ones is huge. Patients who stick to this routine keep their teeth healthy throughout treatment, brackets stay put so treatment stays on schedule, and they end up with the beautiful smile they paid for. Plus, the habits you build now stay with you forever—this is how you take care of your teeth for life.
 
+
+Related reading: [Orthodontic Elastics: Force Delivery, Properties](/article/elastics-colored-ties-and-power.html) and [Why Braces Food Restrictions Matter for Treatment](/article/why-braces-food-restrictions-matters.html).
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about braces care instructions: what patients need to know or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** If you're wearing braces, you've probably noticed that brushing and flossing just got way more complicated. Your dentist can help you understand what steps are right for your specific needs.
+
+> **Key Takeaway:** If you're wearing braces, you've probably noticed that brushing and flossing just got way more complicated.
 
 ## Related Articles
 

@@ -20,7 +20,6 @@ references:
   - "Renton-Harper P, et al. The antimicrobial effects of a zinc citrate and triclosan containing mouthrinse. Journal of Periodontology. 1996;67(6):618-623."
   - "Walsh LJ. Safety and efficacy of mouthrinses. Australian Dental Journal. 2003;48(3):148-160."
 ---
-
 Walking down the mouthwash aisle, you'll see hundreds of products with marketing claims about "fresh breath," "advanced plaque control," and "natural ingredients." How do you choose? Learning more about [Oral Health Habits Complete Guide](/article/oral-health-habits-complete-guide.html) can help you understand this better. Understanding what active ingredients actually do helps.
 
 ## Myth: All Mouthwashes Provide Equivalent Plaque Control
@@ -106,12 +105,6 @@ Expensive mouthwashes aren't superior to cheap ones with identical active ingred
 
 Look at: active ingredient identity, concentration, and your specific need. Skip the marketing language. Compare apples to apples—identical active ingredients at identical concentrations.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about mouthwash selection and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed mouthwash selection, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -122,7 +115,7 @@ Mouthwash effectiveness depends entirely on the active ingredient. Chlorhexidine
 
 Specialty rinses address specific needs (halitosis, fluoride protection). Focus on active ingredient and concentration rather than price, marketing language, or "natural" claims. Match the rinse to your actual need rather than using a generic product.
 
-> **Key Takeaway:** Not all mouthwashes are created equal—knowing the active ingredient helps you choose one that actually works for your needs.
+> **Key Takeaway:** Walking down the mouthwash aisle, you'll see hundreds of products with marketing claims about "fresh breath," "advanced plaque control," and "natural ingredients." How do you choose?
 
 ## Related Articles
 

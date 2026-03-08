@@ -21,7 +21,6 @@ references:
   - "Vaillant M, Bressieux JM. Dental erosion in a patient with gastro-oesophageal reflux disease treated with omeprazole. Eur J Gastroenterol Hepatol. 2003;15(11):1287-1289."
   - "Schiff T, Salinas TJ, Baker RA. Desensitizing effect of a new dentifrice containing 5% potassium nitrate and 0.76% sodium monofluorophosphate. Gen Dent. 2000;48(2):154-157."
 ---
-
 Energy drinks damage your teeth through two main mechanisms: they're highly acidic and contain high amounts of sugar. Regular consumption erodes enamel (the hard outer layer of your tooth) and promotes cavities through a combination of chemical and bacterial attacks. Understanding this damage helps you make informed choices about consuming these popular beverages.
 
 ## What's Inside Energy Drinks?
@@ -110,17 +109,13 @@ Young people consuming energy drinks face decades of potential tooth damage ahea
 
 Athletes should understand that short-term performance benefits don't justify long-term dental consequences. Strategic consumption (only immediately before critical performance efforts, not throughout training) reduces cumulative exposure while maintaining ergogenic benefits.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about energy drink damage acidity and caffeine effects and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
 ## Conclusion
 
 Energy drinks cause significant preventable dental damage through combined mechanisms of high acidity, high sugar, and caffeine-induced salivary reduction. Regular consumption demonstrates dose-dependent erosion progression—heavy consumers show rapid enamel loss and premature dentin exposure. Prevention through elimination or strict limitation is the only effective intervention.
 
 Once erosion becomes established, it's permanent and requires expensive, extensive treatment. Particularly for young people and athletes, the long-term dental consequences of regular energy drink consumption far outweigh short-term performance benefits. Talk to your dentist about which options are right for your specific situation.
 
-> **Key Takeaway:** Chemical erosion patterns from high-acid, high-sugar beverages threatening enamel integrity.
+> **Key Takeaway:** Energy drinks damage your teeth through two main mechanisms: they're highly acidic and contain high amounts of sugar.
 
 ## Related Articles
 

@@ -45,7 +45,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Post-Operative Instructions and Recovery Timelines
 ---
-
 ## What to Expect After Your Tooth Extraction Surgery
 
 After your tooth removal surgery, taking care of your mouth properly is the key to healing quickly and avoiding problems. The first few days are especially important—that's when your mouth does the most healing work. Follow these instructions carefully and don't hesitate to call your dentist if something doesn't feel right. Understanding what's normal versus when you need help makes recovery much less stressful.

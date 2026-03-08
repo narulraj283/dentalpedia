@@ -46,7 +46,6 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: 'Teeth Whitening for Sensitive Teeth: Safe Approaches'
 ---
-
 ## Introduction
 
 If your teeth are sensitive, you might think whitening is off the table. But here's the good news: people with sensitive teeth can absolutely get professional whitening. The trick is using the right approach and doing smart preparation. About 6 in 10 people experience sensitivity during traditional whitening, so you're not alone. Modern desensitizing techniques and gentler whitening methods make it possible to brighten your smile safely, even if your teeth already hurt.

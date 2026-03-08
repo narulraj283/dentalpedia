@@ -20,7 +20,6 @@ references:
   - "Tyas MJ, Anusavice KJ, Frencken JE, et al. Minimal intervention dentistry - a review. Advances in Dental Research. 2012;24(1):19-23."
   - "Wang TM, Hsu JT, Wang JC, et al. Effects of prosthetic materials and surgical techniques on the biomechanical response of abutment teeth and implants. Journal of Prosthodontic Research. 2009;53(3):104-110."
 ---
-
 When you're missing one or more teeth, your dentist will discuss treatment options. Three main choices exist: a single crown, a fixed bridge, or an implant-supported restoration. Each has advantages and disadvantages. Understanding how they differ will help you make the best choice for your situation.
 
 ## Single Crowns: For Individual Teeth
@@ -109,7 +108,7 @@ This is why most modern dentistry favors implants when possible. They protect yo
 
 Crowns, bridges, and implants all have roles in modern dentistry. Single crowns work well for isolated tooth problems. Bridges remain useful for multiple tooth loss when implants aren't possible. Implant crowns offer the best preservation of remaining teeth and bone. Your dentist will recommend the best option for your specific situation based on your teeth, bone, health, esthetics, and goals.
 
-> **Key Takeaway:** When you're missing one or more teeth, your dentist will discuss treatment options.
+> **Key Takeaway:** Three main choices exist: a single crown, a fixed bridge, or an implant-supported restoration. Each has advantages and disadvantages.
 
 ## Related Articles
 

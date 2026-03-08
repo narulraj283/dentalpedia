@@ -40,7 +40,6 @@ subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
 title: Reline and Adjustment of Dentures Over Time
 ---
-
 ## Why Your Dentures Need Adjustments Over Time
 
 When you first get dentures, they fit like a glove. But something important happens over time that most people don't realize: your jawbone actually shrinks. After your natural teeth are removed, your body stops using that part of the bone, so it gradually resorbs (gets smaller). Research shows that your lower jaw bone can shrink about 3-4 millimeters in the first five years after tooth loss, then continues to shrink more slowly throughout your life. This happens to almost everyone who wears dentures, and it's why dentures that fit perfectly at first can eventually become loose.

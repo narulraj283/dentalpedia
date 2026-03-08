@@ -22,7 +22,6 @@ references:
   - "Hersh EV, Salazar-Labadia AJ. Nonsteroidal anti-inflammatory drugs in preclinical and clinical dental research. Anesth Prog. 2007;54(1):13-30."
   - "Meechan JG, Day PF. The use of nitrous oxide in dentistry. Prim Dent Care. 2002;9(3):71-74."
 ---
-
 ## What Options Are Available for Dental Pain Relief?
 
 When you're having dental work done, your dentist has several ways to manage pain. Each option costs differently and works in different ways. Understanding your choices helps you make decisions that fit your budget and comfort level. Some methods cost as little as $15, while others might run $200 or more per visit.
@@ -86,7 +85,7 @@ For more information, see [Timeline for Orthodontic Extraction Decision](/articl
 
 Dental pain relief costs usually range from $15-$50 for basic injections up to $250-$400 if you need conscious sedation. Your dentist will recommend the best option for your specific situation. Most insurance covers basic numbing completely, though sedation options might require extra out-of-pocket spending. Talk with your dentist about which pain relief option makes sense for you, both for comfort and cost. Don't let fear of pain prevent you from getting necessary dental care—modern anesthesia makes most dental procedures very comfortable, and most people handle them well with just basic numbing.
 
-> **Key Takeaway:** Learn about different ways dentists manage pain during procedures, what they cost, and how insurance helps pay for them.
+> **Key Takeaway:** When you're having dental work done, your dentist has several ways to manage pain.
 
 ## Related Articles
 

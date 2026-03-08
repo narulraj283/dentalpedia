@@ -32,7 +32,6 @@ references:
   - title: "Sorensen SE, Sorensen FB. Decoloration of opacifying agents by reflected light. Quintessence Int. 1992;23(2):105-112."
     url: https://pubmed.ncbi.nlm.nih.gov/1614230
 ---
-
 ## What is Deep Tooth Discoloration?
 
 Have you tried whitening your teeth, but the staining just won't go away? You might be dealing with deep discoloration that whitening can't reach. There are two types of tooth stains: surface stains (which sit on top of your teeth and usually respond well to whitening) and deep stains (which are actually inside your enamel and dentin). Deep discoloration is embedded so far in your tooth that whitening strips, trays, and even professional bleaching treatments don't work well or don't work at all.

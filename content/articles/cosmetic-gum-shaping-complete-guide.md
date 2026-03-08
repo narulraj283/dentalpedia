@@ -20,10 +20,9 @@ references:
   - "Martins SA, Martins MD. Esthetic gingival surgical procedures. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2018;106(2):163-173."
   - "Tözüm B, Demirer S. Surgery for esthetic correction of gummy smile. J Esthet Dent. 2011;23(3):140-156."
 ---
-
 ## What Is Cosmetic Gum Shaping?
 
-Cosmetic gum shaping surgically reshapes your gums to correct excessive display ("gummy smile"), uneven contours, or recession. About 25-35% of people seeking cosmetic dental treatment mention gum appearance concerns.
+Self-conscious about showing too much gum when you smile, or bothered by uneven gum lines? Gum shaping surgery can fix that in a single appointment. About 25-35% of people pursuing smile improvements mention gum appearance concerns—and most are surprised how transformative simple gum reshaping can be.
 
 Your dentist uses surgical techniques to remove excess gum tissue, creating balanced proportions where more tooth is visible and gums frame your teeth naturally. Results are dramatic and lasting.
 
@@ -111,17 +110,14 @@ Understanding what happens during and after your procedure reduces anxiety and h
 
 For the first week, expect to manage tenderness with over-the-counter pain relievers and ice. You might have minimal bleeding or oozing the first night—this is normal. By day 3-4, you should feel almost normal and be ready to return to work if you took time off. Healing progresses rapidly: by week 2-3, gums look much better and feel nearly normal. However, complete healing takes 4-6 weeks, and you shouldn't judge final results until at least 4 weeks post-op because gum tissues continue remodeling during this time. Some temporary sensitivity to cold is common if roots were exposed—this usually resolves by week 4.
 
-## Questions to Ask Your Periodontist About Gum Surgery
 
-Before your procedure, discuss several important questions with your periodontist. Ask them to explain exactly what they'll do: will they remove tissue only, or also reshape bone? Ask about the specific technique—laser or scalpel—and what advantages apply to your situation. Ask whether they recommend any bone contouring to create the most natural healing and aesthetics. Ask about your specific healing: how long you'll be tender, when you can resume exercise, what diet restrictions you need.
-
-Ask about sensitivity management—what can you do to minimize sensitivity if roots are exposed? Ask about care of the surgical site: when can you use regular toothbrush, when can you floss, what rinses should you use? Ask about scarring: gums have excellent blood supply and heal with minimal visible scarring, but ask specifically about scar appearance. Ask about long-term stability of results: what percentage of people maintain results long-term, and what minor changes might occur over decades? Ask about cost: is there a guarantee, what happens if you're unhappy with results? Ask about alternatives: if you're hesitant about surgery, ask whether Botox might help in your specific case.
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 
 Cosmetic gum shaping successfully corrects excessive gingival display, uneven contours, and recession. Recovery is straightforward with minimal discomfort. Results last 5+ years in 90-95% of cases. Most people report dramatically improved smile confidence.
 
-> **Key Takeaway:** Gum shaping surgery reshapes your gums to correct excessive display, recession, or uneven contours for a more attractive smile.
+> **Key Takeaway:** Self-conscious about showing too much gum when you smile, or bothered by uneven gum lines?
 
 ## Related Articles
 

@@ -28,7 +28,6 @@ references:
   - title: "Post-insertion adjustments and occlusal optimization in veneer dentistry"
     url: "https://pubmed.ncbi.nlm.nih.gov/21170381/"
 ---
-
 ## Installing Your Veneers: What Happens During Cementation
 
 Installing veneers is where dental science becomes art. Your dentist has spent weeks planning, preparing your teeth, and communicating with the lab. Now comes the critical moment: bonding those veneers to your teeth permanently. Everything done on installation day determines whether veneers last 10 years or fail in 5. This process requires meticulous attention to every detail.

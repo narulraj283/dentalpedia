@@ -28,7 +28,6 @@ references:
   - title: "Behavioral Change Strategies for Long-term Oral Health Habit Development"
     url: https://www.ncbi.nlm.nih.gov/pubmed/47890123
 ---
-
 ## Why Your Daily Habits Matter Most
 
 Healthy teeth and gums result more from what you do daily than from anything your dentist does. Your dentist catches problems and treats them, but you prevent them through daily care. The evidence is clear: people who brush properly twice daily, floss daily, eat wisely, and visit their dentist regularly keep healthy teeth throughout life. Those who neglect daily care develop cavities and gum disease regardless of dental visits.

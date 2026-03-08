@@ -45,7 +45,6 @@ subcategory: Emergency Overview
 subcategory_slug: overview-emergency
 title: Post Extraction Dry Socket Emergency
 ---
-
 ## Dry Socket After Tooth Extraction: What It Is and How to Treat It
 
 After a tooth extraction, you expect some soreness and swelling. But 3 to 5 days after your extraction, if you suddenly develop severe pain that doesn't respond well to pain medicine, you might have a condition called dry socket (alveolar osteitis). This guide explains what causes it, how to prevent it, and what to do if it happens.

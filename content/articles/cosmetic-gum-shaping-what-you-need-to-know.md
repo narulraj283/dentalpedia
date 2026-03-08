@@ -20,7 +20,6 @@ references:
   - "Tözüm B, Demirer S. Surgery for esthetic correction of gummy smile. J Esthet Dent. 2011;23(3):140-156."
   - "Yilmaz B, Kc S. Complications, management and prevention of implant therapy. Dent Clin North Am. 2019;63(1):135-150."
 ---
-
 ## Introduction to Cosmetic Gum Surgery
 
 About 25-35% of people seeking cosmetic dental treatment mention gum appearance concerns. If you show too much gum when you smile, have uneven gum contours, or have gum recession, cosmetic gum shaping can help. This straightforward surgical procedure reshapes your gums, creating better balance and proportion.
@@ -125,21 +124,30 @@ Orthodontic treatment addresses some causes but takes 12-24 months.
 
 ## What You Should Do During Recovery After Gum Shaping
 
-Your recovery experience significantly impacts both your comfort and your final results, so follow post-operative care carefully. For the first 24 hours, apply ice to your face for 15-minute intervals every 2 hours—ice is most effective immediately after surgery and significantly reduces swelling. Sleep with your head elevated 3-4 pillows high to minimize swelling. Take pain relievers proactively rather than waiting until pain builds—starting ibuprofen before numbness wears off makes management much better. Use the prescribed antimicrobial rinse (usually chlorhexidine) exactly as directed—typically twice daily for the first week—to keep the area clean and prevent infection. For diet, stick to cool or room-temperature soft foods for the first week: yogurt, applesauce, smoothies, soup, mashed vegetables, scrambled eggs.
+Your recovery experience significantly impacts both your comfort and your final results, so follow post-operative care carefully. For the first 24 hours, apply ice to your face for 15-minute intervals every 2 hours—ice is most effective immediately after surgery and significantly reduces swelling. Sleep with your head elevated 3-4 pillows high to minimize swelling.
 
-Avoid anything hot (which can increase bleeding), hard, sticky, or crunchy. After 3-4 days, you can gently brush other teeth normally, but avoid the surgical area with a regular toothbrush. Use the prescribed soft toothbrush or gauze for gentle cleaning around the surgical area. Don't floss near the surgical site for the first week. Avoid smoking and alcohol—both significantly slow healing. Don't do strenuous exercise or heavy lifting for 3-4 weeks; light walking is fine. Watch the area for signs of infection (increasing pain after day 3, excessive swelling, or any discharge) and contact your dentist immediately if concerned.
+Take pain relievers proactively rather than waiting until pain builds—starting ibuprofen before numbness wears off makes management much better. Use the prescribed antimicrobial rinse (usually chlorhexidine) exactly as directed—typically twice daily for the first week—to keep the area clean and prevent infection. For diet, stick to cool or room-temperature soft foods for the first week: yogurt, applesauce, smoothies, soup, mashed vegetables, scrambled eggs.
+
+Avoid anything hot (which can increase bleeding), hard, sticky, or crunchy. After 3-4 days, you can gently brush other teeth normally, but avoid the surgical area with a regular toothbrush. Use the prescribed soft toothbrush or gauze for gentle cleaning around the surgical area.
+
+Don't floss near the surgical site for the first week. Avoid smoking and alcohol—both significantly slow healing. Don't do strenuous exercise or heavy lifting for 3-4 weeks; light walking is fine. Watch the area for signs of infection (increasing pain after day 3, excessive swelling, or any discharge) and contact your dentist immediately if concerned.
 
 ## Key Questions Before Gum Shaping Surgery
 
 Before you commit, have detailed conversations with your periodontist about your specific situation. Ask them to explain exactly what they see that needs correction: do you have excess gum, uneven contours, or gum recession? Ask what specific technique they'll use and why it's best for you. Ask to see before-and-after photos of similar cases to understand realistic results. Ask what complications are possible and how rare they are—infection is extremely rare with proper care.
 
-Ask about your specific recovery: pain levels you might experience, how much swelling to expect, activity restrictions, and timeline to looking normal. Ask about sensitivity: if roots will be exposed, what happens to sensitivity and how long it lasts? Ask about scar formation: while gums heal with minimal scarring due to excellent blood supply, ask specifically about appearance. Ask what percentage of people maintain results long-term and what changes might occur. Ask your cost total and whether touch-ups or adjustments might be needed. Ask about alternatives: if you're not ready for surgery, ask whether Botox might help your specific gummy smile.
+Ask about your specific recovery: pain levels you might experience, how much swelling to expect, activity restrictions, and timeline to looking normal. Ask about sensitivity: if roots will be exposed, what happens to sensitivity and how long it lasts? Ask about scar formation: while gums heal with minimal scarring due to excellent blood supply, ask specifically about appearance.
+
+Ask what percentage of people maintain results long-term and what changes might occur. Ask your cost total and whether touch-ups or adjustments might be needed. Ask about alternatives: if you're not ready for surgery, ask whether Botox might help your specific gummy smile.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 
 Cosmetic gum shaping successfully corrects excessive display, uneven contours, and recession. Recovery is straightforward with minimal discomfort. Results last long-term in 90-95% of cases. Most people report dramatically improved smile confidence.
 
-> **Key Takeaway:** Gum shaping reduces excessive gum display and fixes uneven contours, creating a more balanced and attractive smile.
+> **Key Takeaway:** About 25-35% of people seeking cosmetic dental treatment mention gum appearance concerns.
 
 ## Related Articles
 

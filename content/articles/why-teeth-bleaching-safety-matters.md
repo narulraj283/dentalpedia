@@ -32,7 +32,6 @@ references:
   - title: "Long-term effects of repeated whitening: surface texture and microhardness changes"
     url: "https://pubmed.ncbi.nlm.nih.gov/16487863/"
 ---
-
 Teeth whitening is one of the most popular cosmetic dental treatments, and for good reason—it transforms your smile. But you might wonder whether whitening is safe, what side effects you might experience, and how to choose between professional and over-the-counter options. Understanding teeth whitening science helps you make informed decisions about brightening your smile safely.
 
 ## Types of Tooth Discoloration and What Whitening Can Do
@@ -95,17 +94,14 @@ Treatment sequencing matters: whiten before placing restorations so new restorat
 
 Realistic expectations are important for satisfaction. Maximum whitening typically yields results one to two shades lighter than your natural genetic potential—usually represented by the whitest portions of your existing teeth. Individual response varies dramatically due to genetic factors affecting enamel translucency and dentin color. Yellow-toned discoloration responds better than gray discoloration. Thin, translucent enamel responds faster than thick, opaque enamel.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss why teeth bleaching safety matters, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
-
 ## Tips for Long-Term Success
 
 Maintaining good results after dental treatment requires consistent care at home and regular professional check-ups. Brushing twice daily with a fluoride toothpaste and flossing at least once a day forms the foundation of good oral hygiene. These simple habits go a long way toward protecting your investment in your dental health and preventing future problems.
 
 Your dentist may recommend additional steps specific to your situation, such as using a special rinse, wearing a nightguard, or adjusting your diet. Following these personalized recommendations can make a significant difference in how well your results hold up over time. Scheduling regular dental visits allows your dentist to catch any developing issues early, when they are easiest and least expensive to address.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

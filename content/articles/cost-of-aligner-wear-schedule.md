@@ -22,7 +22,6 @@ references:
   - "Tepedino M, Chimenti C, Cignoni R, et al. A systematic review of the effect of clear aligners on the periodontal and peri-implant health. J Clin Med. 2021;10(9):1831."
   - "Derakhshan PK, Nouri MR. Efficacy of aligner treatment regarding different dentoskeletal malocclusions. Prog Orthod. 2019;20:18."
 ---
-
 Clear aligners work only when you wear them. Twenty hours a day means straight teeth in 18-24 months. Less than that, and treatment stretches out—and costs more. Here's how wear time affects results and costs.
 
 ## The Gold Standard: 20-22 Hours Daily
@@ -179,14 +178,8 @@ Most people can wear aligners 20+ hours daily if they:
 
 It becomes a habit within 2-4 weeks. After that, it's automatic.
 
-## Questions to Ask Your Orthodontist
 
-- What wear schedule do you recommend for my case?
-- How can you monitor whether I'm wearing them enough?
-- What happens if my teeth aren't moving as expected?
-- Are refinement aligners included in my cost, or extra?
-- What's the penalty or additional cost for extended treatment?
-- Can I switch to braces if aligners aren't working for me?
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

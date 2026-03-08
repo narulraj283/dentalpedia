@@ -21,12 +21,11 @@ references:
   - "Johnson P, et al. Bleeding on probing and gingival recession in patients with treated periodontitis. J Clin Periodontol. 2014;41(9):854-862."
   - "Ramfjord SP. The Periodontal Status Index. J Periodontol. 1974;45(8):602-610."
 ---
-
 ## Why This Simple Test Matters
 
-When your dentist gently probes around your teeth with a thin instrument and your gums bleed, that's called bleeding on probing (BOP). This test is one of the most valuable diagnostic tools in dentistry because it's incredibly accurate at detecting gum inflammation. If your gums bleed during gentle probing, there's a 96% chance that inflammation is present. If they don't bleed, there's a 96% chance your gums are actually healthy. For more details, see our guide on [Aggressive Periodontitis](/article/aggressive-periodontitis-early-onset-gum-disease.html).
+When your dentist gently probes around your teeth with a thin instrument and your gums bleed, that's called bleeding on probing (BOP). This test is one of the most valuable diagnostic tools in dentistry because it's incredibly accurate at detecting gum inflammation. If your gums bleed during gentle probing, there's a 96% chance that inflammation is present. If they don't bleed, there's a 96% chance your gums are actually healthy.
 
-Here's why this happens: when your gums are inflamed, the tissue becomes friable (easily damaged) because of swelling and inflammatory cells infiltrating the tissue. The delicate lining of your gum pocket gets thinner and more fragile. Gentle pressure from the probe creates tiny ruptures in these fragile tissues, causing bleeding. Healthy gum tissue is tough enough to withstand this gentle pressure without bleeding. For more details, see our guide on [Aggressive vs Chronic](/article/aggressive-vs-chronic-disease-progression-rate.html).
+Here's why this happens: when your gums are inflamed, the tissue becomes friable (easily damaged) because of swelling and inflammatory cells infiltrating the tissue. The delicate lining of your gum pocket gets thinner and more fragile. Gentle pressure from the probe creates tiny ruptures in these fragile tissues, causing bleeding. Healthy gum tissue is tough enough to withstand this gentle pressure without bleeding.
 
 ## Individual Responses Vary
 
@@ -124,9 +123,10 @@ Maintenance interval determination based on BOP findings at 3-month post-therapy
 
 Bleeding on probing represents the most clinically valid and reliable indicator of periodontal inflammation, with 96% sensitivity and 82-88% specificity for detecting clinically significant inflammatory lesions. Standardized probing technique (0.25 N force) ensures diagnostic consistency and enables valid longitudinal assessment. BOP response to therapeutic interventions predicts treatment success and long-term stability with high accuracy. Persistent BOP despite mechanical therapy indicates continued disease activity requiring adjunctive intervention (antimicrobial therapy, surgical treatment). Integration of BOP assessment with other clinical parameters (probing depths, attachment levels, radiographic findings) guides diagnostic classification, treatment planning, and outcome assessment throughout the periodontal care continuum.
 
-## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Related reading: [Aggressive Periodontitis: Early-Onset Gum Disease](/article/aggressive-periodontitis-early-onset-gum-disease.html) and [Cost of Bleeding Gums Solutions](/article/cost-of-bleeding-gums-solutions.html).
+
+## Conclusion
 
 > **Key Takeaway:** Bleeding on probing is your dentist's most reliable early warning sign of gum inflammation—when caught and treated early, it's usually completely reversible.
 

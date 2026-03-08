@@ -20,7 +20,6 @@ references:
   - "American Academy of Periodontology. Proceedings of the World Workshop in Clinical Periodontics. Princeton, NJ: American Academy of Periodontology; 1989."
   - "Newman MG, Takei HH, Klokkevold PR, Carranza FA. Carranza's Clinical Periodontology. 12th ed. Elsevier; 2015."
 ---
-
 ## Understanding How Gum Disease Progresses
 
 Gum disease doesn't just happen overnight, and the good news is that it progresses through stages where early treatment is much cheaper and more successful. Understanding these stages helps you see why your dentist is so concerned about catching it early. The earlier you treat gum disease, the simpler and less expensive the treatment becomes. Let's walk through what each stage means for your wallet and your teeth.
@@ -102,7 +101,7 @@ Here's the lifestyle aspect too: early treatment is simpler. You do some deeper 
 
 Gum disease costs escalate dramatically with each stage: $200-400 for early disease, $1,500-3,000 for moderate disease, $5,000-15,000+ for advanced disease, and $12,000-48,000 if you lose teeth. The financial incentive for early detection is enormous—catching it at stage 1 or 2 saves you thousands and keeps your teeth for life. Talk to your dentist about early screening and treatment for gum disease.
 
-> **Key Takeaway:** Gum disease starts at $200-400 annually to treat but can escalate to $5,000-15,000+ yearly if left untreated—early stage treatment saves thousands.
+> **Key Takeaway:** Gum disease doesn't just happen overnight, and the good news is that it progresses through stages where early treatment is much cheaper and more successful.
 
 ## Related Articles
 

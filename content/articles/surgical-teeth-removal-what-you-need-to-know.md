@@ -32,7 +32,6 @@ references:
   - title: "Blondeau F, Daniel N. Extraction of impacted mandibular third molars: anatomical basis and operative technique. Can Dent Assoc J. 2007;73(4):325-330."
     url: https://pubmed.ncbi.nlm.nih.gov/17701932
 ---
-
 ## When Your Tooth Needs Surgical Extraction Instead of a Simple Removal
 
 Not all teeth can be removed the same way. Some teeth are hidden under bone and gum, some are broken below the gum line, and some are so firmly anchored that trying to remove them would break them or damage your nerves. Your dentist will recommend surgical extraction when simple extraction would be unsafe. Understanding why helps you feel confident about your procedure.
@@ -76,12 +75,6 @@ Most patients return to their normal routine within one week, though complete bo
 ## Why Your Surgeon Chose Surgical Extraction
 
 Surgical extraction might seem like more work than simple extraction, but it's actually the safest choice for your specific situation. Your surgeon uses careful, precise techniques to remove your tooth without breaking it, damaging your nerves, or fracturing your surrounding bone. This protects your health and your jaw structure for the long term.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss surgical teeth removal what you need to know, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## Tips for Long-Term Success
 

@@ -32,7 +32,6 @@ references:
   - title: "Flores MT, Andersson L, Andreasen JO, et al. Guidelines for the management of traumatic dental injuries. II. Avulsion of permanent teeth. Dent Traumatol. 2007;23(3):130-136."
     url: https://pubmed.ncbi.nlm.nih.gov/17511831
 ---
-
 ## Understanding Mouth Injuries: What You Need to Know
 
 When you experience a mouth injury, especially one involving your teeth, fast action matters. Whether you knock out a tooth, chip a tooth, or damage the soft tissues in your mouth, understanding what to do in those first critical minutes can make a real difference in your long-term outcome. This guide explains what you need to know about mouth injuries and their treatment.

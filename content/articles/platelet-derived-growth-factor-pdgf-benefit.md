@@ -51,7 +51,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Platelet Derived Growth Factor Pdgf Benefit
 ---
-
 ## Understanding Gum Disease and Bone Loss
 
 Gum disease destroys the supporting structures around your teeth—the bone and periodontal ligament that hold your teeth in place. Once bone is lost due to periodontal disease, simply cleaning your teeth cannot restore it. Traditional gum surgery removes infected tissue and smooths root surfaces, but it doesn't regenerate lost bone. For years, treatment aimed only at stopping disease progression, not restoring what was lost. PDGF therapy represents a breakthrough approach that actually encourages bone and tissue regeneration.
@@ -97,6 +96,9 @@ Smoking status significantly impacts your candidacy. While not an absolute contr
 PDGF therapy (GEM 21S) is expensive—typically $2,000 to $3,000 per application. Most dental insurance covers some or all of this cost if periodontal disease is documented and standard therapy has failed. Coverage varies widely by plan and insurance company. Discuss potential costs and coverage with your periodontist's office before proceeding. Many offices work with insurance companies to verify coverage and help with payment options.
 
 [Link Text](/article/ultrasonic-scaling-vibration-removes-calculus.html) describes less expensive initial treatment approaches. Your periodontist may recommend starting with standard scaling and root planing or other regenerative approaches before investing in PDGF therapy.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

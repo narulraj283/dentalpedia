@@ -32,7 +32,6 @@ references:
   - title: "Long-Term Prognosis and Sequelae of Luxation Injuries in Permanent Dentition"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27001271
 ---
-
 ## What Is Luxation?
 
 A luxated tooth is one that's been partially knocked out of its socket—the tooth is displaced but hasn't completely fallen out. It might be pushed sideways, pushed up, or pushed down into the socket. Unlike avulsion (a completely knocked-out tooth), the luxated tooth still has some connection to its socket, though it's usually loose and painful.
@@ -107,9 +106,11 @@ Long-term monitoring means continuing dental visits even after you think healing
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Luxation injuries demand immediate recognition and appropriate repositioning technique to maximize pulpal revascularization and PDL healing potential. If you have questions, your dentist can help you understand your options. Immediate gentle repositioning and splinting for 2-4 weeks provides the best chance of saving the tooth. Avoid hard and sticky foods while splinted. Long-term success depends on type of luxation and treatment timing, with most teeth healing well when properly managed.
 
-> **Key Takeaway:** A luxated (partially displaced) tooth is an emergency requiring same-day professional care. Immediate gentle repositioning and splinting for 2-4 weeks provides the best chance of saving the tooth. Avoid hard and sticky foods while splinted. Long-term success depends on type of luxation and treatment timing, with most teeth healing well when properly managed.
+
+
+> **Key Takeaway:** A luxated tooth is partially knocked loose from its socket. Learn what to do immediately and how to save your tooth after this traumatic injury.
 
 ## Related Articles
 

@@ -22,12 +22,11 @@ references:
   - "Graziani F, Palazzi K, Baccini M, et al. Six months of automated, home-based oral hygiene with an oscillating-rotating toothbrush delays the progression of periodontitis. J Periodontol. 2007;78(12):2282-2291."
   - "Fones AC. Mouth Hygiene: A Practical Manual of Mouth Hygiene and Prevention of Dental Disease. 4th ed. Philadelphia: Lea & Febiger; 1934."
 ---
-
 ## Why Daily Cleaning Matters: The Science
 
-Bacteria in your mouth form sticky colonies called biofilm (basically plaque). Left alone, this stuff gets organized and dangerous within 24 hours. By that point, the bacteria are producing acids that eat away at enamel and creating inflammation that affects your gums. The only thing stopping this disaster is you brushing and flossing every day. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+Bacteria in your mouth form sticky colonies called biofilm (basically plaque). Left alone, this stuff gets organized and dangerous within 24 hours. By that point, the bacteria are producing acids that eat away at enamel and creating inflammation that affects your gums. The only thing stopping this disaster is you brushing and flossing every day.
 
-Here's the encouraging part: proper daily cleaning prevents about 70-85% of cavities and 50-75% of gum disease. That's huge. Most tooth problems you might face are preventable with basic good technique done consistently. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+Here's the encouraging part: proper daily cleaning prevents about 70-85% of cavities and 50-75% of gum disease. That's huge. Most tooth problems you might face are preventable with basic good technique done consistently.
 
 ## How Long Should You Brush?
 
@@ -105,6 +104,9 @@ Ask your dentist to do a plaque-disclosing test—they'll apply dye that colors 
 
 Bleeding when you floss suggests your gums are inflamed, usually from not cleaning well enough. Bleeding should reduce significantly within 2-3 weeks of proper flossing. If bleeding persists, there might be gum disease requiring professional treatment.
 
+
+Related reading: [Why Cavity Prevention Methods Matter for Lifelong Oral](/article/why-cavity-prevention-methods-matters.html) and [How to Prevent Cavities: Your Complete Prevention Guide](/article/how-to-cavity-prevention-methods.html).
+
 ## Conclusion
 
 : Simple Habits, Life-Changing Results
@@ -115,7 +117,7 @@ Use fluoride toothpaste. That's it. This simple routine prevents the vast majori
 
 The catch is that it requires consistency. Missing a few days, especially not flossing, lets bacteria reestablish their footholds. Make it a habit like brushing your teeth—because it literally is brushing your teeth, just done right. The payoff is a healthy mouth for life.
 
-> **Key Takeaway:** Bacteria in your mouth form sticky colonies called biofilm (basically plaque). Left alone, this stuff gets organized and dangerous within 24 hours.
+> **Key Takeaway:** Bacteria in your mouth form sticky colonies called biofilm (basically plaque).
 
 ## Related Articles
 

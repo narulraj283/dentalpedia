@@ -18,7 +18,6 @@ references:
   - title: "Lin LM, et al. Vital pulp therapy: a systematic review and meta-analysis. J Endod. 2019;45(8):910-916."
     url: https://pubmed.ncbi.nlm.nih.gov/31303341
 ---
-
 ## Can My Tooth Save Itself Without a Root Canal?
 
 Your dentist diagnosed you with reversible pulpitis and said there's a chance your tooth can recover without needing a root canal. This might sound confusing—what's reversible pulpitis, and how can a tooth heal itself? The good news is that some teeth with inflamed nerves can genuinely recover if caught early and treated properly. This guide explains what reversible pulpitis means, when your tooth can actually save itself, and what your dentist will do to preserve it.

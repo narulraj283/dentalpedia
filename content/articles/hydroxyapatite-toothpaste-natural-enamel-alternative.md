@@ -32,7 +32,6 @@ references:
   - title: "Natural ingredient efficacy versus safety considerations in toothpastes"
     url: https://www.ncbi.nlm.nih.gov/pubmed/37890123
 ---
-
 ## What Is Hydroxyapatite and How Does It Work?
 
 Hydroxyapatite is a naturally occurring mineral that makes up about 96% of your tooth enamel. It's a form of calcium phosphate that's similar to the mineral structure of your actual teeth. When you use hydroxyapatite toothpaste, you're essentially applying a mineral that matches your enamel composition. Learning more about [How to Prevent Tooth Decay](/article/how-to-tooth-decay-prevention.html) can help you understand this better.
@@ -88,12 +87,6 @@ Continue using a fluoride mouthrinse if you're using a non-fluoride toothpaste, 
 Hydroxyapatite and xylitol-based natural toothpastes show promise in research for cavity prevention. They're reasonable alternatives to fluoride if you prefer to avoid it. However, fluoride toothpaste remains the most proven cavity-prevention option with the most extensive research backing.
 
 The most important thing is using a toothpaste that actually cleans your teeth and prevents cavities, whether natural or conventional. Don't sacrifice effectiveness for the sake of being natural. Work with your dentist to choose toothpaste that meets your preferences while protecting your teeth.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about hydroxyapatite toothpaste natural enamel alternative and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

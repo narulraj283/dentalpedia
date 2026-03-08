@@ -20,12 +20,11 @@ references:
   - "Hensel, M. J., Seif, N. T., Goldstein, A. S., et al. (2004). Water flossing effectiveness in patients with limited dexterity. J Periodontal Res. 39(4):248-255."
   - "Glendinning, D. M., Darby, I. B., Curtis, B. H. (2012). Custom-fitted oral hygiene aids for special needs populations. Compend Contin Educ Dent. 33(5):310-317."
 ---
-
-Arthritis affects about 54 million American adults and makes it really hard to brush and floss your teeth. When your hands hurt and don't move well, regular oral hygiene becomes nearly impossible. The result is more cavities and gum disease—unless you have the right adaptive tools. The good news is that several practical solutions make dental care manageable even with arthritis. For more details, see our guide on [Age-Related Taste Changes and Eating](/article/age-related-taste-changes-and-eating.html).
+Arthritis affects about 54 million American adults and makes it really hard to brush and floss your teeth. When your hands hurt and don't move well, regular oral hygiene becomes nearly impossible. The result is more cavities and gum disease—unless you have the right adaptive tools. The good news is that several practical solutions make dental care manageable even with arthritis.
 
 ## Why Arthritis Causes Dental Problems
 
-When arthritis limits your hand function, three things happen: your grip gets weaker, your hands don't move as far in all directions, and brushing hurts. Most people with severe hand arthritis brush for less than 30 seconds—way shorter than the two minutes dentists recommend. This means more plaque builds up on your teeth. For more details, see our guide on [Denture Adjustment in Aging](/article/denture-adjustment-in-aging-fit-changes.html).
+When arthritis limits your hand function, three things happen: your grip gets weaker, your hands don't move as far in all directions, and brushing hurts. Most people with severe hand arthritis brush for less than 30 seconds—way shorter than the two minutes dentists recommend. This means more plaque builds up on your teeth.
 
 Studies show that people with arthritis-related hand limitations have 3-4 times more plaque on their teeth than people without arthritis. That plaque leads to cavities and gum disease. By age 80, people with hand arthritis had cavities in 67% of their teeth, compared to 34% in people without arthritis. That's a huge difference.
 
@@ -81,25 +80,12 @@ Arthritis affects the hands and makes brushing and flossing extremely difficult,
 
 Water flossers work as well as regular floss and are much easier to use. Universal cuffs, weighted handles, and custom 3D-printed grips offer additional options depending on your specific limitations. Regular preventive care visits (every 3-4 months) help catch problems early. Early adoption of adaptive devices prevents serious dental disease and maintains quality of life in aging populations.
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+Related reading: [Xerostomia in Elderly: Medication-Induced Dry Mouth](/article/xerostomia-in-elderly-medication-induced-dry-mouth.html) and [Vision Loss and Denture Care: Adaptive Strategies](/article/vision-loss-and-denture-care.html).
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
-
-> **Key Takeaway:** Arthritis affects about 54 million American adults and makes it really hard to brush and floss your teeth. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** Arthritis affects the hands and makes brushing and flossing extremely difficult, leading to 2-3 times more cavities and gum disease.
 
 ## Related Articles
 

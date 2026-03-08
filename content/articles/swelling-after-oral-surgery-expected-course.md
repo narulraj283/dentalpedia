@@ -32,7 +32,6 @@ references:
   - title: "Donos N, Mardas N, Chadha V. Clinical outcomes of patients with diabetes mellitus and periodontitis: a systematic review of long-term studies. Journal of Clinical Periodontology. 2011;38(9):809-816."
     url: https://pubmed.ncbi.nlm.nih.gov/21726289
 ---
-
 ## Understanding Why Your Face Swells After Surgery
 
 After tooth extraction, your face will swell. This swelling isn't a complication—it's your body's normal healing response. Inflammation after surgery is your immune system working hard to heal your wound.
@@ -68,12 +67,6 @@ Ice constricts blood vessels, reducing blood flow and swelling. Apply ice for ex
 Why 20 minutes? Continuous ice beyond 20 minutes causes reflex swelling—your body counteracts the cold by dilating blood vessels, paradoxically worsening swelling.
 
 Wrap ice in a thin towel (never apply directly to skin). Apply bilaterally (both sides) for symmetrical swelling. Continue ice through day 2 (48 hours after surgery).
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss swelling after oral surgery expected course, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

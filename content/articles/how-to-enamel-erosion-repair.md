@@ -26,7 +26,6 @@ references:
   - title: "Preventive strategies for dental erosion: fluoride and protective agents"
     url: https://www.ncbi.nlm.nih.gov/pubmed/18471261
 ---
-
 If your teeth have become noticeably shorter, feel sensitive, or look translucent or glassy, you might have enamel erosion. Erosion is different from decay—it's the gradual wearing away of your enamel from acid exposure rather than bacteria. Once enamel erodes, your body can't replace it naturally. But dentists have several ways to repair eroded teeth and prevent further damage.
 
 ## What Causes Enamel Erosion?
@@ -86,12 +85,6 @@ Composite restorations typically last 7-10 years before they might need replacem
 Be gentle with restored teeth. Avoid biting on hard objects (pens, ice, hard candy). If you grind your teeth at night, a night guard protects your restorations.
 
 Maintain excellent oral hygiene. Brush gently twice daily with a soft toothbrush, floss daily, and visit your dentist every 6 months. Professional fluoride treatments help protect your restored teeth and remaining natural tooth structure.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about enamel erosion repair and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Conclusion
 

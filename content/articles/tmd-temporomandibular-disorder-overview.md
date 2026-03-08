@@ -1,24 +1,27 @@
 ---
-title: "Temporomandibular Disorders Overview: Classification,"
-slug: tmd-temporomandibular-disorder-overview
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: "TMD classification distinguishes myogenic from arthrogenic disorders using DC/TMD diagnostic criteria, with prevalence 5-12% and conservative."
 date: 2026-03-05
+excerpt: TMD classification distinguishes myogenic from arthrogenic disorders using
+  DC/TMD diagnostic criteria, with prevalence 5-12% and conservative.
 read_time: 13 min
+references:
+- title: Schiffman E, Ohrbach R, Truelove E, et al. Diagnostic Criteria for Temporomandibular
+    Disorders (DC/TMD) for Clinical and Research Applications
+  url: https://pubmed.ncbi.nlm.nih.gov/24482784
+- title: Fillingim RB, Ohrbach R, Greenspan JD, et al. Psychological factors associated
+    with development of TMD
+  url: https://pubmed.ncbi.nlm.nih.gov/24275346
+- title: Ballegaard V, Thede-Kristensen T, Axelsson S, et al. Cognitive behavioral
+    therapy, physical therapy, and their combination for TMD
+  url: https://pubmed.ncbi.nlm.nih.gov/20628524
+reviewed: true
 reviewer_specialty: General Dentistry
+slug: tmd-temporomandibular-disorder-overview
 subcategory: TMJ & Sleep Overview
 subcategory_slug: overview-tmj-sleep
-reviewed: true
-references:
-  - title: "Schiffman E, Ohrbach R, Truelove E, et al. Diagnostic Criteria for Temporomandibular Disorders (DC/TMD) for Clinical and Research Applications"
-    url: https://pubmed.ncbi.nlm.nih.gov/24482784
-  - title: "Fillingim RB, Ohrbach R, Greenspan JD, et al. Psychological factors associated with development of TMD"
-    url: https://pubmed.ncbi.nlm.nih.gov/24275346
-  - title: "Ballegaard V, Thede-Kristensen T, Axelsson S, et al. Cognitive behavioral therapy, physical therapy, and their combination for TMD"
-    url: https://pubmed.ncbi.nlm.nih.gov/20628524
+title: 'Temporomandibular Disorders Overview: Classification'
 ---
-
 ## Introduction
 
 About 1 in 10 people experience jaw pain or clicking at some point, and most have no idea how to fix it. TMD (temporomandibular disorders) sounds serious but the good news is that 80-90% of people improve dramatically with conservative treatment—no surgery needed. TMD includes a range of conditions affecting your jaw joint and the muscles that control it. Some are primarily muscle-related (tight, painful muscles), while others involve the joint disc shifting out of place. This guide explains what TMD actually is, what causes it, and how treatment works.

@@ -44,10 +44,9 @@ references:
     title: Pre-operative Glucose Management in Diabetic Surgical Patients
     journal: Endocrinology Reviews
 ---
-
 ## Preparing for Your Oral Surgery
 
-What you do before oral surgery is almost as important as the surgery itself. Proper preparation identifies health risks, optimizes your body for surgery and healing, reduces complications, and ensures your surgery goes smoothly. Let's talk about what your surgical team needs to know about you and what you need to do to prepare. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
+What you do before oral surgery is almost as important as the surgery itself. Proper preparation identifies health risks, optimizes your body for surgery and healing, reduces complications, and ensures your surgery goes smoothly. Let's talk about what your surgical team needs to know about you and what you need to do to prepare.
 
 ## Your Medical History: Everything Your Surgeon Needs to Know
 
@@ -60,7 +59,7 @@ Your surgeon needs complete information about:
 High blood sugar impairs healing and increases infection risk.
 - **Medications:** Everything you take, including over-the-counter drugs, supplements, and herbal products. Some interact with anesthesia or affect bleeding.
 - **Prior anesthesia problems:** Any bad reactions to anesthesia previously. This helps your anesthesiologist choose safer agents.
-- **Recent surgeries:** What was done and when. Helps identify healing issues or ongoing complications. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
+- **Recent surgeries:** What was done and when. Helps identify healing issues or ongoing complications.
 
 Don't minimize or forget things—your surgeon needs complete information to keep you safe. Write down your medications and conditions before your appointment so you don't forget anything.
 
@@ -155,11 +154,15 @@ The surgeon who knows your complete medical history and has seen your imaging ca
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
+
+Related reading: [Understanding Post-Surgery Care for Better Dental](/article/benefits-of-post-surgery-care.html) and [Why Oral Surgery Recovery Timeline Matters](/article/why-oral-surgery-recovery-timeline-matters.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about understanding pre-surgery preparation for better dental or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** What you do before oral surgery is almost as important as the surgery itself. Your dentist can help you understand what steps are right for your specific needs.
+
+> **Key Takeaway:** What you do before oral surgery is almost as important as the surgery itself.
 
 ## Related Articles
 

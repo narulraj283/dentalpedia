@@ -44,7 +44,6 @@ subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
 title: Pediatric Anesthesia Sedation in Young Kids
 ---
-
 ## Helping Your Anxious Child Get Dental Care
 
 Many children fear dental visits. They might be scared of strange instruments, pain, or just new situations. Some children cooperate fine with simple telling and reassurance, but others need more help to stay calm during treatment. If your child has severe anxiety, they might need sedation—medication that helps them relax or sleep through the procedure. Pediatric dentists are specially trained to use safe sedation in children, with careful monitoring to keep your child comfortable and safe throughout treatment.

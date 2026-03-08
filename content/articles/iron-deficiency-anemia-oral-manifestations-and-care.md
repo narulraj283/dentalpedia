@@ -18,7 +18,6 @@ references:
   - title: "Oral manifestations of systemic disease: anemia"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26439738
 ---
-
 Iron deficiency anemia—not having enough iron or iron-carrying red blood cells—affects your whole body, but few people realize it impacts your mouth and teeth. Your mouth is one of the first places anemia shows itself. Understanding these oral signs helps you recognize when something might be wrong and why your dentist takes anemia seriously.
 
 ## What Is Iron Deficiency Anemia?
@@ -83,12 +82,6 @@ Once your anemia is treated and controlled, your mouth returns to normal. Your g
 Adequate iron intake prevents deficiency. Women should get 18 mg daily (8 mg after menopause). Men need 8 mg daily. Vegetarians and vegans need more because plant-based iron is absorbed less efficiently.
 
 If you're at high risk for anemia (heavy menstrual bleeding, digestive problems, vegetarian/vegan diet), discuss it with your doctor and ensure regular blood work monitors your iron levels.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about iron deficiency anemia oral manifestations and care and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

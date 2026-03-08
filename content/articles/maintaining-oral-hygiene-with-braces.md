@@ -32,7 +32,6 @@ references:
   - title: "Professional Plaque Removal Frequency and Periodontal Health Outcomes in Orthodontic Patients"
     url: https://www.ncbi.nlm.nih.gov/pubmed/15383012
 ---
-
 Wearing braces is a big commitment to straightening your teeth and creating your best smile, but there's an important part of that commitment that happens every single day: keeping your teeth and gums clean. Your brackets, wires, and bands create lots of new hiding places where cavity-causing bacteria can hide and multiply. Without proper cleaning techniques, you risk developing permanent white spots or even cavities that will still be there long after your braces come off. The good news? With the right strategies, you can keep your teeth and gums in excellent condition throughout your entire orthodontic journey.
 
 ## Understanding Why Braces Make Cleaning Harder

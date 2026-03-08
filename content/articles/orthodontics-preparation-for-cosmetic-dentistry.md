@@ -44,7 +44,6 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Orthodontics Preparation for Cosmetic Dentistry
 ---
-
 ## Why Your Orthodontist and Cosmetic Dentist Need to Work Together
 
 When you're planning to improve your smile with implants, veneers, or crowns, your orthodontist's role is crucial. Modern cosmetic dentistry isn't just about placing beautiful restorations—it's about positioning your teeth perfectly so those restorations look their absolute best and last as long as possible. Your orthodontist and your cosmetic dentist should communicate before treatment starts, creating a coordinated plan where braces position your teeth exactly where they need to be for the restorations that follow.
@@ -80,14 +79,6 @@ Your orthodontist will communicate with your cosmetic dentist about when you're 
 Patients who do orthodontic preparation before cosmetic work often require less invasive cosmetic treatment. Because teeth are positioned optimally, your dentist doesn't have to alter tooth shapes excessively or cover up alignment problems with oversized restorations. This means your restorations look more natural, feel better, and often last longer because they're less aggressive and more conservative.
 
 The investment in orthodontic preparation pays dividends in the quality of your final result. You'll have a smile that's not just cosmetically improved—it's functionally superior, biologically healthier, and more likely to remain beautiful throughout your life.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about using braces to perfect your smile: preparation for... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

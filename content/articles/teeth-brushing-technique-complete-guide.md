@@ -32,7 +32,6 @@ references:
   - title: "Ramfjord SP, et al. The modified Stillman brushing technique. J Periodontol. 1966;37(2):142-145."
     url: https://pubmed.ncbi.nlm.nih.gov/5221140
 ---
-
 ## How Proper Brushing Prevents Tooth Decay and Gum Disease
 
 Your daily brushing habit is one of the most powerful tools you have to prevent cavities and gum disease. When you brush correctly, you remove bacteria-filled plaque before it hardens into tartar—and that cleanup work prevents up to 60% of cavities and 40% of gum disease. The good news is that the technique matters far less than you might think. Research shows that consistency, thoroughness, and proper timing matter far more than finding the "perfect" method. Whether you prefer the Bass technique or the Modified Stillman method, they both work beautifully as long as you use them correctly every single day.

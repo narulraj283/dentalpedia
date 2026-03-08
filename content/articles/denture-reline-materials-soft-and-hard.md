@@ -22,7 +22,6 @@ references:
   - "Kawai Y, et al. Tissue conditioning and relining of removable dentures. J Oral Rehabil. 2021;48(9):1110-1124."
   - "Jagger DC, et al. Sorption and solubility of denture reline polymers. J Dent. 2021;104:103512."
 ---
-
 When your jaw bone shrinks over time, your dentures become loose and need relines (adding material to the tissue side to restore fit). Two main types of materials are used: soft and hard relines. Understanding the differences helps you decide which is best for your situation.
 
 ## Hard Denture Relines: Long-Lasting and Rigid
@@ -89,21 +88,13 @@ Relined dentures should be cared for exactly like original dentures. Daily brush
 
 Both hard and soft reline materials can develop biofilm on their surfaces. Regular cleaning removes biofilm equally well from both types. Some soft materials might accumulate stains more readily, requiring more frequent cleaning.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about denture reline materials soft and hard and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
-
 ## Conclusion
 
 Hard relines are rigid, durable (3-5 years), and best for most situations. Soft relines are flexible, more comfortable for sensitive gums, but need replacement every 1-2 years. Choose hard relines for standard reline appointments.
 
 Consider soft relines if pressure sensitivity is a problem. Relines can be done chairside (faster but sometimes less accurate) or at a laboratory (slower but often better fitting). Most people need relines every 3-5 years as their jaw bone shrinks. Talk to your dentist about which reline type best fits your situation and budget.
 
-> **Key Takeaway:** Learn the differences between soft and hard denture relines, when each is used, and what to expect from each type.
+> **Key Takeaway:** When your jaw bone shrinks over time, your dentures become loose and need relines (adding material to the tissue side to restore fit).
 
 ## Related Articles
 

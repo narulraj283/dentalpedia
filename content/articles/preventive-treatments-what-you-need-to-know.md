@@ -32,7 +32,6 @@ references:
   - title: "American Academy of Pediatric Dentistry. Guideline on pit and fissure sealant placement. Pediatr Dent. 2021;43(6):193-200."
     url: https://pubmed.ncbi.nlm.nih.gov/34733607
 ---
-
 ## Preventive Dental Care: Essential Treatments That Protect Your Teeth
 
 Preventive dental care might seem like extra appointments and added cost, but it represents one of the smartest investments you can make in your long-term health. This guide explains what preventive treatments actually do, why your dentist recommends them, what you can expect during appointments, and how to make preventive care affordable. Understanding prevention helps you prioritize treatments that benefit your specific situation and avoid unnecessary services that don't match your needs.

@@ -32,7 +32,6 @@ references:
   - title: "Rotstein I, Friedman S. Noncarious cervical root surface resorption: classification, etiology, diagnosis, and treatment. J Am Dent Assoc. 1991;122(2):47-52."
     url: https://pubmed.ncbi.nlm.nih.gov/2005320
 ---
-
 ## Should You Use Mouthwash? What Research Really Shows
 
 You've probably seen commercials promising that mouthwash will freshen your breath and prevent gum disease. Many people use mouthwash daily as part of their oral care routine. But does it really work, and are there reasons to be cautious? Understanding what mouthwash can and can't do will help you make smart choices about your oral care.

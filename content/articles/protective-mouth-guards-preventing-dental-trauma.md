@@ -44,7 +44,6 @@ subcategory: Sports Dentistry Overview
 subcategory_slug: overview-sports
 title: 'Protective Mouth Guards: Preventing Dental'
 ---
-
 ## Why Your Mouth Needs Protection During Sports
 
 When you play contact sports—whether it's football, hockey, basketball, or soccer—your teeth and mouth face real injury risk. Studies show that about 10-40% of young athletes experience some kind of dental injury during sports, from small chips to complete tooth loss. That's where mouth guards come in. If you wear a proper mouth guard while playing, you can cut your injury risk by 60-75%. A good mouth guard works by absorbing the impact when something hits your face, protecting your teeth, jaw, and the bones supporting your teeth.

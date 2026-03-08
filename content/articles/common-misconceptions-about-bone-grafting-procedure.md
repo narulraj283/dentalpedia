@@ -20,7 +20,6 @@ references:
   - "Klinge B, Lundgren S, Arvidsson S, et al. (2023). Regeneration of alveolar bone surrounding implants: a systematic review. Clinical Implant Dentistry and Related Research. 25(1):45-60."
   - "Tatum H Jr. (2024). The omni-implant: a new approach to implant dentistry. Implant Dentistry. 1(1):16-25."
 ---
-
 ## What Is Bone Grafting, Anyway?
 
 If your dentist has mentioned bone grafting, you might be wondering what that even means. Bone grafting is a surgical procedure that rebuilds bone in your jaw where bone has been lost due to tooth loss, gum disease, or other reasons. It's a pretty common procedure in modern dentistry, and today it has a high success rate—around 85-90% when used to place dental implants.
@@ -105,7 +104,7 @@ Even smokers have about a 78-84% success rate with bone grafts and implants. If 
 
 Bone grafting has become a safe and effective way to restore your jaw bone so you can get the implants you want. Most concerns about long healing times, permanent changes, or poor success rates aren't supported by the evidence. With modern techniques and skilled surgeons, your chances of success are really good.
 
-> **Key Takeaway:** Bone grafting is a safe procedure that restores lost jaw bone, helping you become eligible for dental implants with high success rates.
+> **Key Takeaway:** If your dentist has mentioned bone grafting, you might be wondering what that even means.
 
 ## Related Articles
 

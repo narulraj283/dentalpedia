@@ -1,31 +1,40 @@
 ---
-title: "Bone Grafting Protocol for Dental Implant Site Preparation:"
-slug: bone-grafting-for-implant-preparation
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "You need bone grafting if your jaw lacks adequate bone for safe implant placement."
 date: 2026-03-05
+excerpt: You need bone grafting if your jaw lacks adequate bone for safe implant placement.
 read_time: 10 min
+references:
+- Buser D, et al. Bone augmentation for implant site development. Curr Opin Biotechnol.
+  2017;48:163-169.
+- 'Esposito M, et al. Interventions for replacing missing teeth: bone augmentation
+  techniques for implant treatment. Cochrane Database Syst Rev. 2014;(5):CD003607.'
+- 'Jensen SS, Terheyden H. Bone augmentation procedures in localized defects in the
+  alveolar ridge: Clinical results with different bone grafts and bone-substitute
+  materials. Int J Oral Maxillofac Implants. 2009;24(Suppl):218-236.'
+- Aghaloo TL, Moy PK. Which hard tissue augmentation techniques are the most successful
+  in furnishing bony support for implant placement? Int J Oral Maxillofac Implants.
+  2007;22(Suppl):49-70.
+- Zhang Y, et al. Long-term clinical outcomes of various bone augmentation procedures.
+  Int J Oral Maxillofac Implants. 2020;35(Suppl):S61-S70.
+- Hallman M, et al. A 9-year follow-up study of dental implants placed with bone augmentation
+  procedures. Int J Oral Maxillofac Implants. 2011;26(6):1298-1307.
+- 'Clementini M, et al. Esthetic outcome of implant-supported single tooth restorations
+  in the anterior maxilla: a systematic review of the literature. J Periodontol. 2014;85(9):1160-1180.'
+- 'Pjetursson BE, et al. Bone augmentation at implant sites: a systematic review.
+  Clin Oral Implants Res. 2008;19(Suppl 2):137-147.'
+reviewed: true
 reviewer_specialty: Oral and Maxillofacial Surgery
+slug: bone-grafting-for-implant-preparation
 subcategory: Bone Grafting & Reconstruction
 subcategory_slug: bone-grafting
-reviewed: true
-references:
-  - "Buser D, et al. Bone augmentation for implant site development. Curr Opin Biotechnol. 2017;48:163-169."
-  - "Esposito M, et al. Interventions for replacing missing teeth: bone augmentation techniques for implant treatment. Cochrane Database Syst Rev. 2014;(5):CD003607."
-  - "Jensen SS, Terheyden H. Bone augmentation procedures in localized defects in the alveolar ridge: Clinical results with different bone grafts and bone-substitute materials. Int J Oral Maxillofac Implants. 2009;24(Suppl):218-236."
-  - "Aghaloo TL, Moy PK. Which hard tissue augmentation techniques are the most successful in furnishing bony support for implant placement? Int J Oral Maxillofac Implants. 2007;22(Suppl):49-70."
-  - "Zhang Y, et al. Long-term clinical outcomes of various bone augmentation procedures. Int J Oral Maxillofac Implants. 2020;35(Suppl):S61-S70."
-  - "Hallman M, et al. A 9-year follow-up study of dental implants placed with bone augmentation procedures. Int J Oral Maxillofac Implants. 2011;26(6):1298-1307."
-  - "Clementini M, et al. Esthetic outcome of implant-supported single tooth restorations in the anterior maxilla: a systematic review of the literature. J Periodontol. 2014;85(9):1160-1180."
-  - "Pjetursson BE, et al. Bone augmentation at implant sites: a systematic review. Clin Oral Implants Res. 2008;19(Suppl 2):137-147."
+title: Bone Grafting Protocol for Dental Implant Site Preparation
 ---
-
 ## When Bone Grafting Is Necessary
 
-You need bone grafting if your jaw lacks adequate bone for safe implant placement. Safe implant placement requires at least 6 mm of bone width (side-to-side) and 10 mm of bone height (top-to-bottom), plus a safety margin. If imaging shows less bone than this in your desired implant location, grafting becomes necessary. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
+You need bone grafting if your jaw lacks adequate bone for safe implant placement. Safe implant placement requires at least 6 mm of bone width (side-to-side) and 10 mm of bone height (top-to-bottom), plus a safety margin. If imaging shows less bone than this in your desired implant location, grafting becomes necessary.
 
-About 40-60% of single-tooth implant patients need bone grafting. About 70-85% of people needing multiple implants need grafting in at least one location. Bone loss typically results from tooth loss (which triggers natural bone resorption), gum disease, injury, or rarely, medical conditions. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
+About 40-60% of single-tooth implant patients need bone grafting. About 70-85% of people needing multiple implants need grafting in at least one location. Bone loss typically results from tooth loss (which triggers natural bone resorption), gum disease, injury, or rarely, medical conditions.
 
 ## Who Is a Good Candidate for Bone Grafting?
 
@@ -157,6 +166,9 @@ Sensory disturbance (temporary numbness) occurs in 1-3%, usually resolving withi
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
+
+Related reading: [Post-Extraction Healing Protocols and Complication](/article/best-practices-for-tooth-extraction-recovery.html) and [Risk and Concerns with Pain Management Surgery](/article/risk-and-concerns-with-pain-management-surgery.html).
+
 ## Conclusion
 
 > **Key Takeaway:** Bone grafting expands implant candidacy, with 92-95% implant success rates when adequate dimensions are achieved and post-operative instructions are followed.
@@ -167,7 +179,7 @@ Sensory disturbance (temporary numbness) occurs in 1-3%, usually resolving withi
 
 - [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
 - [Oral Surgical Success Rates: Defining, Measuring, and](/article/common-misconceptions-about-surgical-success-rates.html)
-- [Surgical Tooth Extraction: Indications, Classification,](/article/timeline-for-surgical-teeth-removal.html)
+- [Surgical Tooth Extraction: Indications, Classification](/article/timeline-for-surgical-teeth-removal.html)
 - [Risks and Concerns with Complex Tooth Extractions](/article/risk-and-concerns-with-complex-extractions.html)
 - [Cost of Bleeding Control](/article/cost-of-bleeding-control.html)
 

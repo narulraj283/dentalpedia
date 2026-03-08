@@ -20,7 +20,6 @@ references:
   - title: "Cosmetic gum reshaping and periodontal health considerations"
     url: https://www.ncbi.nlm.nih.gov/pubmed/21050353
 ---
-
 A gummy smile is when excessive gum tissue shows when you smile, making teeth appear smaller or your smile look "gummy." If this bothers you, several treatment options can improve your smile aesthetics.
 
 ## What Causes a Gummy Smile?

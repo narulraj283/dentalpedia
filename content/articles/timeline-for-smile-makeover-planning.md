@@ -1,38 +1,47 @@
 ---
-title: "Smile Makeover Planning: Comprehensive Assessment,"
-slug: timeline-for-smile-makeover-planning
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: "Successful smile makeovers require systematic facial and dental analysis, digital smile design workflow, and phased treatment planning—comprehensive..."
 date: 2026-03-05
+excerpt: Successful smile makeovers require systematic facial and dental analysis,
+  digital smile design workflow, and phased treatment planning—comprehensive...
 read_time: 12 min
+references:
+- title: 'Machado AW. 10 years of digital smile design: evolving the esthetic diagnosis
+    and treatment planning. Prog Orthod. 2017;18(1):4.'
+  url: https://pubmed.ncbi.nlm.nih.gov/28105547
+- title: Coachman C, Parada A. The guideline of digital smile design. Cosmet Dent
+    Today. 2012;2012(1):28-37.
+  url: https://pubmed.ncbi.nlm.nih.gov/22247956
+- title: 'Fradeani M. Esthetic rehabilitation in fixed prosthodontics. Vol 1: Esthetic
+    analysis—A systematic approach to prosthetic treatment. Quintessence; 2004.'
+  url: https://pubmed.ncbi.nlm.nih.gov/15142176
+- title: Lemay G, Côté JC, Michaud-Crête L, et al. Smile aesthetics as a determinant
+    of perceived facial attractiveness. Prog Orthod. 2020;21(1):30.
+  url: https://pubmed.ncbi.nlm.nih.gov/32681361
+- title: Peck S, Peck L, Kataja M. Some vertical characteristics of normal occlusion.
+    Angle Orthod. 1992;62(1):17-24.
+  url: https://pubmed.ncbi.nlm.nih.gov/1562343
+- title: 'Sarver DM. Principles of cosmetic dentistry in orthodontics: part 1. Shape
+    and proportionality of dental aesthetics. Am J Orthod Dentofacial Orthop. 2004;126(4):426-432.'
+  url: https://pubmed.ncbi.nlm.nih.gov/15470346
+- title: Reddy M, Kumar VM, Rao PV, et al. Smile arc and buccal corridors as determinants
+    of smile esthetics. J Clin Diagn Res. 2013;7(11):2559-2562.
+  url: https://pubmed.ncbi.nlm.nih.gov/24392388
+- title: 'Ahmad I. Anterior dental aesthetics: facial perspective. Br Dent J. 2005;199(1):15-21.'
+  url: https://pubmed.ncbi.nlm.nih.gov/16034343
+- title: Chu SJ, Tan JH, Stappert CF, et al. Shade matching to maxillary central incisors
+    and resulting acceptability. J Dent. 2007;35(12):910-916.
+  url: https://pubmed.ncbi.nlm.nih.gov/17967505
+- title: Geldermans H, Geldermans J. Functional and esthetic prosthodontics. J Esthet
+    Restor Dent. 2019;31(3):279-285.
+  url: https://pubmed.ncbi.nlm.nih.gov/30978334
+reviewed: true
 reviewer_specialty: Cosmetic Dentistry
+slug: timeline-for-smile-makeover-planning
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
-reviewed: true
-references:
-  - title: "Machado AW. 10 years of digital smile design: evolving the esthetic diagnosis and treatment planning. Prog Orthod. 2017;18(1):4."
-    url: https://pubmed.ncbi.nlm.nih.gov/28105547
-  - title: "Coachman C, Parada A. The guideline of digital smile design. Cosmet Dent Today. 2012;2012(1):28-37."
-    url: https://pubmed.ncbi.nlm.nih.gov/22247956
-  - title: "Fradeani M. Esthetic rehabilitation in fixed prosthodontics. Vol 1: Esthetic analysis—A systematic approach to prosthetic treatment. Quintessence; 2004."
-    url: https://pubmed.ncbi.nlm.nih.gov/15142176
-  - title: "Lemay G, Côté JC, Michaud-Crête L, et al. Smile aesthetics as a determinant of perceived facial attractiveness. Prog Orthod. 2020;21(1):30."
-    url: https://pubmed.ncbi.nlm.nih.gov/32681361
-  - title: "Peck S, Peck L, Kataja M. Some vertical characteristics of normal occlusion. Angle Orthod. 1992;62(1):17-24."
-    url: https://pubmed.ncbi.nlm.nih.gov/1562343
-  - title: "Sarver DM. Principles of cosmetic dentistry in orthodontics: part 1. Shape and proportionality of dental aesthetics. Am J Orthod Dentofacial Orthop. 2004;126(4):426-432."
-    url: https://pubmed.ncbi.nlm.nih.gov/15470346
-  - title: "Reddy M, Kumar VM, Rao PV, et al. Smile arc and buccal corridors as determinants of smile esthetics. J Clin Diagn Res. 2013;7(11):2559-2562."
-    url: https://pubmed.ncbi.nlm.nih.gov/24392388
-  - title: "Ahmad I. Anterior dental aesthetics: facial perspective. Br Dent J. 2005;199(1):15-21."
-    url: https://pubmed.ncbi.nlm.nih.gov/16034343
-  - title: "Chu SJ, Tan JH, Stappert CF, et al. Shade matching to maxillary central incisors and resulting acceptability. J Dent. 2007;35(12):910-916."
-    url: https://pubmed.ncbi.nlm.nih.gov/17967505
-  - title: "Geldermans H, Geldermans J. Functional and esthetic prosthodontics. J Esthet Restor Dent. 2019;31(3):279-285."
-    url: https://pubmed.ncbi.nlm.nih.gov/30978334
+title: 'Smile Makeover Planning: Comprehensive Assessment'
 ---
-
 ## Introduction
 
 A complete smile makeover isn't just about your teeth—it's about your whole face and how everything works together. The best smile makeovers start with careful planning and digital imaging so you can see exactly what you'll get. This process uses modern technology and a step-by-step approach to create beautiful, natural-looking results that make you feel confident.

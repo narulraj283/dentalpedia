@@ -32,7 +32,6 @@ references:
   - title: "Long-term enamel quality after orthodontic treatment"
     url: https://www.ncbi.nlm.nih.gov/pubmed/37901234
 ---
-
 ## What Can Go Wrong With Bracket Application
 
 When brackets are bonded to your teeth, the orthodontist is preparing your tooth surface and using adhesive bonding to attach the bracket. If this process isn't done carefully, it can damage your enamel. This damage might not be visible during treatment but can show up after brackets are removed. Learning more about [traditional braces vs. invisible aligners](/article/how-to-traditional-vs-invisible-braces.html) can help you understand this better.
@@ -80,12 +79,6 @@ After brackets come off, your orthodontist should polish your teeth and check fo
 After brackets are removed, your teeth are actually more vulnerable temporarily because the enamel under the brackets has been without fluoride protection for months or years. Ask your orthodontist about post-treatment fluoride protocols to help enamel remineralize and strengthen.
 
 Continue excellent cleaning habits even after braces come off. Your teeth showed that maintaining excellent cleaning is possible while you had braces—keep that up!
-
-## Questions to Ask Your Orthodontist
-
-Before starting treatment, ask: What's your approach to preventing white spot lesions? Do you recommend fluoride products during treatment? How do you minimize enamel damage during bracket placement and removal? What should I expect regarding my teeth's appearance and integrity after treatment?
-
-A good orthodontist welcomes these questions and explains their protocols for preventing damage.
 
 ## Protecting Your Results Long-Term
 

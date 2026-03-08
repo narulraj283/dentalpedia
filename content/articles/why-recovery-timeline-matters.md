@@ -32,7 +32,6 @@ references:
   - title: "Pain Resolution and Healing Continuation Beyond Clinical Comfort"
     url: "https://pubmed.ncbi.nlm.nih.gov/34567929"
 ---
-
 When you have a tooth extracted, you're probably thinking about how quickly you can get back to your normal life. While many people feel remarkably better within a week or two, the truth is that healing continues long after your pain goes away. Your tooth socket goes through distinct stages of healing over the course of a year, and understanding this timeline helps you know what's normal, when you can resume activities, and whether everything is progressing as it should.
 
 The healing process follows a predictable pattern that dentists and oral surgeons have studied carefully. Even though you might feel "healed" after a couple of weeks, your body continues rebuilding bone and reshaping the area where your tooth was. This is important information because it affects when you can get a dental implant, resume exercise, or eat certain foods.
@@ -96,6 +95,6 @@ Remember that every person's situation is unique. What works well for one patien
 - [Why Surgical Complications Matters](/article/why-surgical-complications-matters.html)
 - [Risk and Concerns with Wisdom Teeth Extraction](/article/risk-and-concerns-with-wisdom-teeth-extraction.html)
 - [Oral Surgical Technique Principles: Evidence-Based](/article/timeline-for-surgical-technique-overview.html)
-- [Wound Healing After Oral Surgery - Phases,](/article/surgical-site-healing-complete-guide.html)
+- [Wound Healing After Oral Surgery - Phases, Timeline](/article/surgical-site-healing-complete-guide.html)
 - [Evidence-Based Strategies for Postoperative Swelling](/article/best-practices-for-swelling-reduction.html)
 

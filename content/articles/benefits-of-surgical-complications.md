@@ -20,18 +20,17 @@ references:
   - Dodson TB, et al. Predictors of nerve injuries associated with third molar surgery. J Oral Maxillofac Surg. 1997;55(3):220-225.
   - Reuther T, et al. Hemorrhage control in oral surgery. Oral Maxillofac Surg Clin North Am. 2011;23(3):369-376.
 ---
-
 ## Understanding Surgical Risk: What's Realistic
 
 Most dental surgery goes smoothly. But complications happen occasionally, and knowing what could happen—and what to do if it does—helps you make informed decisions and respond appropriately. Simple tooth extraction has about 1 to 5% complication rate. Surgical extractions (like impacted wisdom teeth) have 10 to 20% complication rate.
 
-Implant placement has 5 to 10% complication rate. Orthognathic surgery (correcting jaw structure) has 10 to 20% complication rate. Most complications are minor (normal swelling, expected pain, temporary sensitivity). Serious complications are rare but possible. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
+Implant placement has 5 to 10% complication rate. Orthognathic surgery (correcting jaw structure) has 10 to 20% complication rate. Most complications are minor (normal swelling, expected pain, temporary sensitivity). Serious complications are rare but possible.
 
 ## Immediate Complications During Surgery
 
 Bleeding during surgery is normal and expected. Your dentist stops it before surgery ends through pressure, cautery (burning blood vessels closed), or sutures. Excessive bleeding requiring blood transfusion is rare but possible.
 
-Root or tooth fracture occasionally happens—small fragments left behind usually don't cause problems, but larger fragments might need removal. Tooth displacement into the sinuses or other spaces is very rare but requires surgical removal if it happens. Jaw fracture during extraction is extremely rare but serious. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
+Root or tooth fracture occasionally happens—small fragments left behind usually don't cause problems, but larger fragments might need removal. Tooth displacement into the sinuses or other spaces is very rare but requires surgical removal if it happens. Jaw fracture during extraction is extremely rare but serious.
 
 ## Complications in the First 24 Hours
 
@@ -97,13 +96,16 @@ During recovery: follow all post-operative instructions precisely, avoid smoking
 
 Before surgery, your dentist should discuss realistic complication risks specific to your procedure and personal risk factors. This is informed consent—you understand what could happen and have agreed to proceed despite potential risks. This conversation isn't meant to scare you; it's meant to ensure you make informed decisions. Most people tolerate surgery well, but being prepared for potential complications means you won't be blindsided if something does happen.
 
+
+Related reading: [Complex Extractions: Complete Clinical Guide](/article/complex-extractions-complete-guide.html) and [Infection Prevention in Oral Surgery](/article/best-practices-for-infection-prevention.html).
+
 ## Conclusion
 
 Surgical complications in dental procedures range from expected (swelling, pain) to serious (infection, hemorrhage) to very rare (airway compromise, permanent nerve injury). Understanding complication risks, prevention strategies, and warning signs enables you to make informed decisions and respond appropriately if complications occur. Most complications are minor and resolve with standard post-operative care.
 
 Serious complications are rare but require prompt professional attention. Clear communication with your dentist, honest medical history, careful adherence to post-operative instructions, and prompt reporting of concerning symptoms minimize risk and ensure optimal outcomes. When surgery becomes necessary, being informed about potential complications and knowing how to respond ensures you recover safely and successfully.
 
-> **Key Takeaway:** Most dental surgery goes smoothly. But complications happen occasionally, and knowing what could happen—and what to do if it does—helps you make.
+> **Key Takeaway:** Most dental surgery goes smoothly. But complications happen occasionally, and knowing what could happen—and what to do if it does—helps you make informed decisions and respond appropriately.
 
 ## Related Articles
 

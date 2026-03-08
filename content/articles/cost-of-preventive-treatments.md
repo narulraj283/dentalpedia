@@ -22,7 +22,6 @@ references:
   - "Esteves-Oliveira M, Zezell DM, Meister J, et al. CO2 laser (10.6 microm) parameters for caries prevention in dental enamel. Caries Res. 2011;45(2):158-168."
   - "Bowen WH. The Vipeholm Dental Caries Study: Reflections on misinterpretation. J Dent Res. 2016;95(10):1076-1078."
 ---
-
 ## Why Preventive Care Saves Money
 
 Spending $100-$500 yearly on preventive treatments prevents $1,000-$5,000 in restorative treatment over 5-10 years. Preventive care is one of the best investments you can make in your health and your wallet.
@@ -113,22 +112,14 @@ Pregnancy affects cavity risk (hormonal changes increase decay). Chemotherapy in
 
 Investing in prevention customized to your life circumstances is far smarter than generic prevention that doesn't match your risks.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about preventive treatments and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
-
-
-For more information, see [Evidence-Based Mouthwash Selection Criteria and](/article/best-practices-for-mouthwash-selection.html) and [How to Brush Your Teeth Properly](/article/mechanical-plaque-removal-manual-cleaning.html).
+Related reading: [Sugar Impact on Teeth - Cavity Formation and Metabolic](/article/sugar-impact-on-teeth-cavity-formation.html) and [Why Oral Health Habits Matter for Your Whole Body](/article/why-oral-health-habits-matters.html).
 
 ## Conclusion
 
 Preventive treatments cost $100-$900 yearly depending on your risk level, with most people spending $300-$500. Insurance usually covers most or all of this cost. These modest investments prevent $1,000-$5,000 in treatment over 5-10 years. This is probably the single best investment you can make in your oral health. Talk to your dentist about what prevention plan makes sense for your specific situation.
 
-> **Key Takeaway:** Discover how preventive dental treatments protect your teeth and gums while saving money on future expensive care.
+> **Key Takeaway:** Spending $100-$500 yearly on preventive treatments prevents $1,000-$5,000 in restorative treatment over 5-10 years.
 
 ## Related Articles
 

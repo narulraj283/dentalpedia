@@ -32,7 +32,6 @@ references:
   - title: "Mouthguard design optimization: Thickness, material composition, and fit requirements"
     url: https://www.ncbi.nlm.nih.gov/pubmed/23412589
 ---
-
 If you play contact sports, one of your most important pieces of equipment isn't your helmet or pads—it's your mouthguard. Approximately 20% to 30% of children experience traumatic dental injuries during childhood years, with contact sports accounting for many of these injuries. Yet many young athletes participate in high-risk sports without proper mouthguard protection. Custom-fitted mouthguards reduce dental and facial injury risk by 60% or more compared to no protection, making them one of your best investments in protecting your smile during athletic competition.
 
 Why does fit matter so much? A poorly fitting mouthguard provides minimal protection and becomes a nuisance you'd rather not wear. A custom-fitted guard protects your teeth effectively while remaining comfortable enough that you forget you're wearing it. Understanding how mouthguards work and what constitutes proper fit helps you appreciate why the investment in custom fabrication is worthwhile.
@@ -76,12 +75,6 @@ Care instructions extending mouthguard longevity include rinsing with cool water
 ## Special Circumstances and Considerations
 
 Athletes with fixed orthodontic appliances require specially constructed mouthguards incorporating relief over bracket and wire surfaces. Growing athletes undergoing active tooth eruption require annual mouthguard reassessment and replacement accommodating erupting permanent teeth. Mouthguards fabricated for partially erupted dentitions may not provide optimal coverage as eruption completes.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about mouth guard fitting in athletes and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Conclusion
 

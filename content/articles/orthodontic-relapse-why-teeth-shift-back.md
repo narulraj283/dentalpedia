@@ -11,7 +11,6 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 reviewed: true
 ---
-
 You've just gotten your braces off, and your smile looks absolutely perfect. Your teeth are beautifully straight, your bite is corrected, and you're thrilled with the results. But you've probably heard warnings about teeth shifting back.
 
 Is this inevitable? How can you prevent it? This guide explains why teeth move after braces and how to keep your smile straight for life.
@@ -137,9 +136,11 @@ Many orthodontists now recommend lifelong retention, even nightly wear of retain
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Many orthodontists now recommend lifelong retention, even nightly wear of retainers. This might sound onerous, but consider: Talk to your dentist about how this applies to your situation. However, relapse is almost entirely preventable through proper retention compliance. Wearing your retainer as directed, protecting it from damage, and maintaining good oral health allows you to keep your straight smile permanently. Your retention is as important as your braces for achieving lasting results.
 
-> **Key Takeaway:** Teeth naturally want to shift back toward original positions after braces—relapse is a real phenomenon. However, relapse is almost entirely preventable through proper retention compliance. Wearing your retainer as directed, protecting it from damage, and maintaining good oral health allows you to keep your straight smile permanently. Your retention is as important as your braces for achieving lasting results.
+
+
+> **Key Takeaway:** Understand why your teeth shift back after braces and how proper retention prevents relapse for lifelong straight teeth and proper bite.
 
 ## Related Articles
 

@@ -18,7 +18,6 @@ references:
   - title: "Early orthodontic intervention and treatment outcomes"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26439738
 ---
-
 Sometimes your child's baby teeth need to come out before they naturally fall out. This isn't always because of decay or disease—sometimes extracting a baby tooth at the right time prevents serious bite problems that would require braces later. This strategic tooth removal is called interceptive extraction, and it's a smart way to guide your child's permanent teeth into good positions.
 
 ## Why Remove a Baby Tooth Early?
@@ -64,12 +63,6 @@ Success depends partly on your child's growth and development. Some children's b
 After your child's extraction, the socket heals quickly—usually within days. Some oozing of blood and saliva is normal immediately after extraction. Have your child bite gently on a clean gauze for a few minutes if needed. Avoid rinsing, spitting, or using straws for a couple hours to let the socket form a stable clot.
 
 Pain is usually minimal since baby teeth have shorter roots than permanent teeth. If your child experiences pain, use over-the-counter children's pain reliever as directed. Most children return to normal eating within days, though soft foods for the first few days are gentler on the extraction site.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about interceptive extraction preventing future problems and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

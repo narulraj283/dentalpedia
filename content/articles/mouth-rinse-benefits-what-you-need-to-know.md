@@ -32,7 +32,6 @@ references:
   - title: "Xerostomia management: Role of fluoride and antimicrobial rinses"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25348281
 ---
-
 Walk into any drugstore and you'll find hundreds of mouth rinses with bold claims and big price tags. The confusing truth? Not all rinses do what they promise, and expensive doesn't always mean effective.
 
 Many people spend money on products that look impressive but don't actually address their specific needs. This guide helps you cut through the marketing to understand what actually works, save money on unnecessary products, and choose rinses that truly benefit your situation. The best rinse is one matched to your actual oral health goals, not the one with the prettiest label.

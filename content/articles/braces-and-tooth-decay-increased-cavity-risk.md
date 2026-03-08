@@ -22,7 +22,6 @@ references:
   - "Paschos K, et al. Cariogenicity of foods and substances for orthodontic patients. Aust Dent J. 2007;52(3):193-199."
   - "Boersma JG, et al. Bracket and adhesive remnants after fixed appliance removal. Am J Orthod Dentofacial Orthop. 2005;128(4):475-481."
 ---
-
 Braces are excellent for creating a beautiful smile and fixing bite problems, but they come with a significant challenge: cavities become much more likely. In fact, some patients develop white spot lesions (early cavities that look like white marks on teeth) right under their brackets. This doesn't have to happen to you—prevention is highly effective—but you need to understand the risks and take active steps to protect your teeth during orthodontic treatment.
 
 ## Why Braces Create Cavity Risk
@@ -91,21 +90,6 @@ Your dentist (separate from your orthodontist) should also see you every 3 to 6 
 
 Many patients slack on oral hygiene in the days after bracket adjustments because their teeth are sore. Resist this temptation. While you should eat soft foods, you still need to clean your teeth. Gentle brushing and water irrigation are usually tolerable even when teeth are tender. Antimicrobial rinses provide additional protection during these tender periods.
 
-## Questions for Your Orthodontist
-
-Before starting braces, understand your specific cavity risk:
-
-- What's my estimated white spot risk based on my history?
-- Which fluoride protocol do you recommend?
-- How often will you apply professional fluoride?
-- Which toothbrush do you recommend?
-- Should I consider clear aligners instead of fixed braces?
-- What dietary changes are essential versus just recommended?
-- How will you monitor my plaque control?
-- If white spots develop, how will you treat them?
-- Should I see my dentist more frequently?
-- What home fluoride should I use?
-
 ## The Long-Term Perspective
 
 Here's the encouraging part: after your braces come off, your cavity risk actually drops below your pre-braces level because your teeth are now properly spaced and much easier to clean. All that extra effort during braces pays off with lifelong cavity prevention benefits.
@@ -122,9 +106,11 @@ The temporary dietary restrictions and extra oral hygiene effort are worth it to
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Bracket-associated caries represents a common and often preventable complication of fixed appliance therapy. If you have questions, your dentist can help you understand your options. The effort you invest now prevents permanent cosmetic damage and dental disease that would affect you for life after braces come off.
 
-> **Key Takeaway:** Cavities during braces treatment are preventable through daily specialized tooth cleaning, dietary discipline, and professional fluoride protection—making excellent oral hygiene your top priority during treatment. The effort you invest now prevents permanent cosmetic damage and dental disease that would affect you for life after braces come off.
+
+
+> **Key Takeaway:** Braces are excellent for creating a beautiful smile and fixing bite problems, but they come with a significant challenge: cavities become much more.
 
 ## Related Articles
 

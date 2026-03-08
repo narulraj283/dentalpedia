@@ -30,7 +30,6 @@ references:
   - title: "Bate R, Isaacson KG. Rapid maxillary expansion revisited. Dent Update. 1998;25(9):384-390."
     url: https://pubmed.ncbi.nlm.nih.gov/10619872
 ---
-
 ## How a Palatal Expander Widens Your Upper Jaw
 
 If your dentist recommends a rapid palatal expander (RPE), they're suggesting a device that will widen your upper jaw to create more space for your teeth. The expander works by slowly pushing apart the midpalatal suture—the line where the two halves of your upper jaw are fused together. By gently separating these bones, the device creates room for your teeth to move into better positions, often eliminating crowding without needing extractions.

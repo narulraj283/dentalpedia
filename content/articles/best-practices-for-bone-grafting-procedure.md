@@ -22,14 +22,13 @@ references:
   - "Froum SJ, et al. Sinus floor elevation using a bone-blasting technique: the columbo technique. Int J Periodontics Restorative Dent. 2004;24(4):307-315."
   - "Corbella S, et al. Implant rehabilitation in regenerated bone in periodontally compromised patients. Periodontol 2000. 2018;76(1):159-191."
 ---
-
 ## Best Practices for Bone Grafting Procedure
 
-If you're missing teeth and your dentist recommends a dental implant, but you don't have enough jawbone, bone grafting can rebuild the missing bone. This allows your dentist to place an implant where it wasn't previously possible. While it sounds intimidating, bone grafting is a well-established, predictable procedure that opens up treatment options you wouldn't otherwise have. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
+If you're missing teeth and your dentist recommends a dental implant, but you don't have enough jawbone, bone grafting can rebuild the missing bone. This allows your dentist to place an implant where it wasn't previously possible. While it sounds intimidating, bone grafting is a well-established, predictable procedure that opens up treatment options you wouldn't otherwise have.
 
 ## Planning Before Surgery
 
-Before any bone grafting happens, your dentist takes a detailed 3D scan of your jaw. This shows exactly how much bone is missing, where it's missing, and how deep or wide the defect is. The scan helps your dentist measure whether you need 5 cubic millimeters of bone or 30 cubic millimeters—this makes a huge difference in planning. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
+Before any bone grafting happens, your dentist takes a detailed 3D scan of your jaw. This shows exactly how much bone is missing, where it's missing, and how deep or wide the defect is. The scan helps your dentist measure whether you need 5 cubic millimeters of bone or 30 cubic millimeters—this makes a huge difference in planning.
 
 The scan also shows where important structures are located (like the nerve that gives sensation to your lower teeth) so your dentist can avoid them during surgery. Understanding your specific anatomy is crucial for a successful outcome.
 
@@ -122,11 +121,17 @@ Int J Oral Maxillofac Implants. 2017;32(2):407-414.
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
+
+Related reading: [Recovery After Tooth Extraction—What You Need to Know](/article/recovery-after-extraction-what-you-need-to-know.html) and [Surgical Tooth Removal - What You Need to Know Before](/article/surgical-teeth-removal-what-you-need-to-know.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Int J Oral Maxillofac Implants. 2017;32(2):407-414.
+6. Barboza EP, et al. Talk to your dentist about how this applies to your situation. Talk to your dentist about what options work best for your situation.
 
-> **Key Takeaway:** If you're missing teeth and your dentist recommends a dental implant, but you don't have enough jawbone, bone grafting can rebuild the missing bone. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** If you're missing teeth and your dentist recommends a dental implant, but you don't have enough jawbone, bone grafting can rebuild the missing bone.
 
 ## Related Articles
 

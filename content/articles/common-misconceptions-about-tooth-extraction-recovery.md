@@ -22,7 +22,6 @@ references:
   - "Patient compliance with post-extraction instructions and complication rates. Journal of Oral and Maxillofacial Surgery. 2020;78(9):1502-1510."
   - "Recovery timeline and bone density changes: radiographic analysis. International Journal of Oral and Maxillofacial Surgery. 2019;48(11):1398-1407."
 ---
-
 Every year, about 20 million people have a tooth extracted in the United States. That's a lot of extraction stories—and a lot of questions about what happens afterward. You've probably heard scary stories from friends about extraction recovery, but many of the things people believe about healing are actually myths. Let's clear up the confusion so you know what to really expect and how to take care of yourself properly.
 
 ## How Long Does Healing Actually Take?
@@ -75,7 +74,7 @@ If you're planning to replace the extracted tooth with an implant, you'll need t
 
 Extraction recovery follows a pretty predictable path when you follow your dentist's instructions and take good care of yourself. Pain usually isn't as bad as you might fear, and most of the swelling is gone within a week. The key is protecting that blood clot, managing pain with over-the-counter medications, and watching for real signs of infection.
 
-> **Key Takeaway:** Learn what really happens after a tooth extraction and how long healing truly takes with evidence-based recovery timelines.
+> **Key Takeaway:** Every year, about 20 million people have a tooth extracted in the United States.
 
 ## Related Articles
 

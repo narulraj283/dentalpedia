@@ -28,7 +28,6 @@ references:
   - title: "Treatment protocols for halitosis: Evidence-based recommendations"
     url: https://pubmed.ncbi.nlm.nih.gov/28052659
 ---
-
 ## Why Treating Bad Breath Matters More Than Social Embarrassment
 
 Bad breath—halitosis, medically speaking—affects about 30% of adults. And while it's embarrassing to talk about, it's actually one of the biggest warning signs your mouth can give you. The social impact is real, but the medical significance is even more important.
@@ -131,7 +130,7 @@ Remember that every person's situation is unique. What works well for one patien
 
 Nine times out of ten, bad breath comes from periodontal disease, poor hygiene, tongue coating, or trapped food debris—all treatable conditions. The tenth time might be a systemic health issue your doctor should know about. Early treatment prevents serious disease.
 
-> **Key Takeaway:** Bad breath isn't just a cosmetic embarrassment—it's usually a warning sign of oral disease. Don't ignore it or just use mints to cover it up. Talk to your dentist.
+> **Key Takeaway:** Bad breath—halitosis, medically speaking—affects about 30% of adults.
 
 ## Related Articles
 

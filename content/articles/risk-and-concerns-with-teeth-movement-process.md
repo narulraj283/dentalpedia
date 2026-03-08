@@ -15,7 +15,6 @@ references:
   - "Levander E, Malmgren O. Long-term follow-up of maxillary incisors with severe apical root resorption. European Journal of Orthodontics. 2000;22(1):85-93."
   - "Brezniak N, Wasserstein A. Root resorption after orthodontic treatment. American Journal of Orthodontics and Dentofacial Orthopedics. 1993;103(1):62-66."
 ---
-
 ## What Happens to Your Teeth When They Move?
 
 When you get braces or aligners, your teeth don't just slide into new positions like furniture on a smooth floor. Instead, your body goes through a complex biological process that reshapes bone and remodels the tissues supporting your teeth. Understanding what's happening inside your mouth helps you appreciate why your orthodontist gives specific instructions and why the process takes time. This biological remodeling has real risks you should know about, especially the possibility of permanent shortening of your tooth roots.
@@ -75,6 +74,9 @@ Your orthodontist doesn't just hope everything is going well—they actively mon
 **Radiographs (X-rays)** taken at the start of treatment serve as your baseline. X-rays taken during treatment show whether bone is being lost excessively or if roots are shortening too much. The challenge is that small amounts of root resorption might not show up clearly on X-rays, but severe resorption definitely will.
 
 Your orthodontist should take X-rays periodically—typically every 12-24 months during treatment—to catch problems early. If excessive resorption or bone loss appears, they'll adjust your treatment to use lower forces or different movement directions.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

@@ -30,7 +30,6 @@ subcategory: Emergency Overview
 subcategory_slug: overview-emergency
 title: 'Extruded Tooth: Traumatic Extrusion Classification'
 ---
-
 ## What an Extruded Tooth Is
 
 When you get a blow to your mouth during sports, a fall, or an accident, your tooth might get pushed partially out of its socket. We call this extrusion or luxation. The tooth is still there and still connected, but it's sticking up higher than it should. This happens to lots of people, especially kids and teenagers.
@@ -117,17 +116,11 @@ If your tooth eventually can't be saved, you'll need replacement. Your dentist w
 
 Wearing a mouthguard during sports is the best prevention. A properly fitted mouthguard significantly reduces the chance of tooth extrusion and other mouth injuries.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about extruded tooth partially pushed out and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 A partially extruded tooth is an emergency that needs immediate attention. Getting it repositioned and stabilized quickly gives you the best chance of saving it. Even if complications develop later, modern dental treatment can often save the tooth or replace it if necessary.
 
-> **Key Takeaway:** Traumatic extrusion (luxation injury) represents 7-22% of dental trauma; immediate repositioning and stabilization achieve 90%+ tooth survival.
+> **Key Takeaway:** When you get a blow to your mouth during sports, a fall, or an accident, your tooth might get pushed partially out of its socket.
 
 ## Related Articles
 

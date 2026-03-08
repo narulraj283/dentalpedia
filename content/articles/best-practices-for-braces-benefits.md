@@ -22,14 +22,13 @@ references:
   - "Felicita AS. Quantification of incisor root resorption after fixed appliance therapy: radiographic vs cone beam computed tomography evaluation. Korean J Orthod. 2017;47(2):75-83."
   - "Chapman JL, et al. The impact of fixed appliance bracket type on the force delivery capacity of ligation systems. J World Fed Orthod. 2015;4(4):120-128."
 ---
-
 ## Best Practices for Braces Benefits
 
-Braces do more than straighten your teeth—they improve how your teeth bite together, protect your long-term dental health, and often boost your confidence. But success with braces requires commitment from both you and your orthodontist. Understanding what good orthodontic care looks like helps you get the best possible results. For more details, see our guide on [Accelerated Orthodontia](/article/accelerated-orthodontia-fast-track-braces.html).
+Braces do more than straighten your teeth—they improve how your teeth bite together, protect your long-term dental health, and often boost your confidence. But success with braces requires commitment from both you and your orthodontist. Understanding what good orthodontic care looks like helps you get the best possible results.
 
 ## Getting Started Properly
 
-Before your braces go on, your orthodontist takes comprehensive records: X-rays, photos, and molds of your teeth. These baseline records show exactly what your bite looks like before treatment. Good orthodontists use standardized photography (typically 12 photos from different angles) so they can measure improvement objectively later. For more details, see our guide on [Accelerated Orthodontics](/article/accelerated-orthodontics-speeding-up-your-treatment.html).
+Before your braces go on, your orthodontist takes comprehensive records: X-rays, photos, and molds of your teeth. These baseline records show exactly what your bite looks like before treatment. Good orthodontists use standardized photography (typically 12 photos from different angles) so they can measure improvement objectively later.
 
 Your orthodontist checks your overall health too. If you have gum disease, it should be treated first—braces shouldn't be placed on teeth with unhealthy gums. If you have diabetes or other medical conditions, your orthodontist considers how these affect treatment. Your joint (where your jaw opens and closes) should be checked—some patients have jaw problems that braces could make worse if not managed carefully.
 
@@ -128,11 +127,16 @@ Boersma H, et al. Does the outcome of orthodontic treatment benefit from periodi
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
+
+Related reading: [Risk and Concerns with Orthodontic Compliance](/article/risk-and-concerns-with-orthodontic-compliance.html) and [Fixed Braces Versus Clear Aligners](/article/benefits-of-traditional-vs-invisible-braces.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Boersma H, et al. Does the outcome of orthodontic treatment benefit from periodic records? Talk to your dentist about how this applies to your situation. Talk to your dentist about what options work best for your situation.
 
-> **Key Takeaway:** Braces do more than straighten your teeth—they improve how your teeth bite together, protect your long-term dental health, and often boost your confidence. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** Braces do more than straighten your teeth—they improve how your teeth bite together, protect your long-term dental health, and often boost your.
 
 ## Related Articles
 

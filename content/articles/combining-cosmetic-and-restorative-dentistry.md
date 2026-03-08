@@ -36,7 +36,6 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: 'Restorative-Cosmetic Integration: Treatment Planning'
 ---
-
 ## When You Need Both Repair and Cosmetic Work
 
 Some dental situations require more than just one approach. Learning more about [Combined Ortho and Cosmetic Approach Best Results](/article/combined-ortho-and-cosmetic-approach-best-results.html) can help you understand this better. Maybe you have a broken tooth that needs repair, but you also want your smile to look better overall. Or perhaps you've had multiple cavities filled, and now those visible restorations don't match your smile anymore. These situations call for a combined approach that addresses both functional repair and cosmetic enhancement.
@@ -106,7 +105,7 @@ For more information, see [Composite Veneers vs Porcelain Laminates: Clinical](/
 
 Combining restorative and cosmetic dentistry allows you to repair damaged teeth while achieving the beautiful smile you want. When properly planned and executed, integrated treatment addresses both function and appearance, giving you restorations that work well, look natural, and last for many years.
 
-> **Key Takeaway:** How to combine tooth repair with cosmetic improvements, what treatment planning involves, and how to achieve both functionality and beautiful results.
+> **Key Takeaway:** Some dental situations require more than just one approach.
 
 ## Related Articles
 

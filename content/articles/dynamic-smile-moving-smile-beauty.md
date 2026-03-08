@@ -20,7 +20,6 @@ references:
   - "Rubin LR. The anatomy of a smile: Its importance in the treatment of facial deformities. Plastic and Reconstructive Surgery. 1974;53(4):384-387."
   - "Burley C, et al. Smile design for the adult patient: Esthetic principles. Journal of Cosmetic Dentistry. 2018;34(2):48-56."
 ---
-
 ## Understanding How Your Smile Moves Matters More Than You Think
 
 When a dentist plans cosmetic smile improvements, they traditionally look at still photos—how your teeth line up, their color, how much gum shows. But here's something surprising: a beautiful smile in a static photo doesn't always look beautiful when you're actually smiling and talking. Your smile is a dynamic, moving expression, not a frozen moment. Modern cosmetic dentists now understand that the real test of a beautiful smile is how it looks when you're actually smiling, with all the muscles and movement involved.
@@ -85,7 +84,7 @@ A truly beautiful smile isn't just about perfect teeth in a photograph—it's ab
 
 Talk to your dentist about dynamic smile analysis and how it might improve your treatment outcomes.
 
-> **Key Takeaway:** Dynamic smile analysis incorporates facial movement and animation to evaluate smile esthetics beyond static photographs.
+> **Key Takeaway:** When a dentist plans cosmetic smile improvements, they traditionally look at still photos—how your teeth line up, their color, how much gum shows.
 
 ## Related Articles
 

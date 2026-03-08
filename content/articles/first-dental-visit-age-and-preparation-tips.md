@@ -20,7 +20,6 @@ references:
   - "Arrow P. Risk assessment and management of early childhood caries: implications for the future. Aust Dent J. 2012;57(1):14-22."
   - "Tinanoff N, et al. Early childhood caries epidemiology, aetiology, risk assessment, societal burden, management, education and policy. Monogr Oral Sci. 2019;28:13-34."
 ---
-
 ## When Should Your Child's First Dental Visit Be
 
 The American Academy of Pediatric Dentistry recommends your child see a dentist by their first birthday—or within six months of their first tooth coming in, whichever comes first. That might sound early, but there's solid science behind it.
@@ -122,7 +121,7 @@ Regular visits—usually every six months—let your dentist monitor development
 
 Your child's first dental visit is an investment in their lifetime oral health. Start early, keep it positive, and stay calm yourself. A good pediatric dentist knows how to work with young children—your job is just to set your child up for success by managing your own anxiety and preparing them without planting fear.
 
-> **Key Takeaway:** The American Academy of Pediatric Dentistry recommends your child see a dentist by their first birthday—or within six months of their first tooth.
+> **Key Takeaway:** The American Academy of Pediatric Dentistry recommends your child see a dentist by their first birthday—or within six months of their first tooth coming in, whichever comes first.
 
 ## Related Articles
 

@@ -1,28 +1,39 @@
 ---
-title: "Fluoride in Children: Safety Guidelines, Dosage Protocols,"
-slug: fluoride-in-children-safety-and-dosage-guidelines
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Evidence-based fluoride dosing strategies for pediatric patients emphasizing caries prevention while minimizing dental and skeletal fluorosis risk.
 date: 2026-03-05
+excerpt: Evidence-based fluoride dosing strategies for pediatric patients emphasizing
+  caries prevention while minimizing dental and skeletal fluorosis risk.
 read_time: 9 min
+references:
+- 'Ismail AI, Hasson H. Fluoride supplementation for children: a review and analysis
+  of published clinical and epidemiological studies. J Am Dent Assoc. 2008;139(12):1457-1468.'
+- American Dental Association. ADA Guide to Dental Therapeutics. 4th ed. American
+  Dental Association; 2010.
+- Centers for Disease Control and Prevention. Recommendations for using fluoride to
+  prevent and control dental caries in the United States. MMWR Recomm Rep. 2001;50(RR-14):1-42.
+- 'Dean HT. The investigation of physiological effects by the epidemiological method.
+  In: Russell AL, ed. Fluoridation as a Public Health Measure. Washington, DC: American
+  Association for the Advancement of Science; 1942.'
+- Pendrys DG. Risk assessment in dental public health and research. J Public Health
+  Dent. 1990;50(5):291-298.
+- 'British Dental Association. Guidance on the use of fluoride for children: a policy
+  document. Br Dent J. 1992;172(3):93-94.'
+- 'WHO. Fluoride and oral health. WHO Technical Report Series 846. Geneva: World Health
+  Organization; 1994.'
+- Thylstrup A, Fejerskov O. Clinical appearance of dental fluorosis in permanent teeth
+  in relation to histological changes. Community Dent Oral Epidemiol. 1978;6(6):315-328.
+- Horowitz HS. A review of systemic fluoride prophylaxis (water fluoridation, salt
+  fluoridation, and fluoride supplementation). Br Dent J. 1973;134(6):205-212.
+- Heller D, Helbling B, Gusberti FA, et al. Smoking, socioeconomic status, and the
+  risk of dental fluorosis. Community Dent Oral Epidemiol. 1997;25(3):213-220.
+reviewed: true
 reviewer_specialty: Pediatric Dentistry
+slug: fluoride-in-children-safety-and-dosage-guidelines
 subcategory: Pediatric Dental Care
 subcategory_slug: pediatric-care
-reviewed: true
-references:
-  - "Ismail AI, Hasson H. Fluoride supplementation for children: a review and analysis of published clinical and epidemiological studies. J Am Dent Assoc. 2008;139(12):1457-1468."
-  - "American Dental Association. ADA Guide to Dental Therapeutics. 4th ed. American Dental Association; 2010."
-  - "Centers for Disease Control and Prevention. Recommendations for using fluoride to prevent and control dental caries in the United States. MMWR Recomm Rep. 2001;50(RR-14):1-42."
-  - "Dean HT. The investigation of physiological effects by the epidemiological method. In: Russell AL, ed. Fluoridation as a Public Health Measure. Washington, DC: American Association for the Advancement of Science; 1942."
-  - "Pendrys DG. Risk assessment in dental public health and research. J Public Health Dent. 1990;50(5):291-298."
-  - "British Dental Association. Guidance on the use of fluoride for children: a policy document. Br Dent J. 1992;172(3):93-94."
-  - "WHO. Fluoride and oral health. WHO Technical Report Series 846. Geneva: World Health Organization; 1994."
-  - "Thylstrup A, Fejerskov O. Clinical appearance of dental fluorosis in permanent teeth in relation to histological changes. Community Dent Oral Epidemiol. 1978;6(6):315-328."
-  - "Horowitz HS. A review of systemic fluoride prophylaxis (water fluoridation, salt fluoridation, and fluoride supplementation). Br Dent J. 1973;134(6):205-212."
-  - "Heller D, Helbling B, Gusberti FA, et al. Smoking, socioeconomic status, and the risk of dental fluorosis. Community Dent Oral Epidemiol. 1997;25(3):213-220."
+title: 'Fluoride in Children: Safety Guidelines, Dosage Protocols'
 ---
-
 ## The Critical Window for Fluoride in Childhood
 
 Your child's adult teeth are forming right now, even though you can't see them. Permanent tooth development spans from infancy through the early teens, but the critical period when fluoride can both help and potentially cause cosmetic changes occurs between ages 6 months and 8 years. During these years, your child's developing teeth are most responsive to fluoride, which improves cavity resistance and helps ensure strong enamel forms.
@@ -103,7 +114,7 @@ Fluoride is crucial for protecting your child's developing teeth from cavities. 
 
 Regular check-ins with your pediatric dentist ensure your child's fluoride plan remains appropriate as they grow.
 
-> **Key Takeaway:** Evidence-based fluoride dosing strategies for pediatric patients emphasizing caries prevention while minimizing dental and skeletal fluorosis risk.
+> **Key Takeaway:** Your child's adult teeth are forming right now, even though you can't see them.
 
 ## Related Articles
 

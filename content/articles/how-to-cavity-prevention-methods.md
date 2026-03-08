@@ -30,7 +30,6 @@ references:
   - title: "Antimicrobial agents for biofilm control in caries prevention: chlorhexidine, iodine, and natural compounds"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25432809
 ---
-
 You don't have to get cavities. With the right prevention strategies, most people can maintain cavity-free teeth. The key is understanding which methods work and how to apply them to your specific cavity risk level.
 
 ## Brush Right and Floss Daily

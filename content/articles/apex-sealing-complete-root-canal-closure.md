@@ -20,12 +20,11 @@ references:
   - "Paqué F, Marending M, Attin T. Potential of ultrasonic activation to enhance outcomes of periapical surgery. J Endod. 2007;33(4):353-356."
   - "Tronstad L, Asbjornsen K, Doving L, et al. Influence of coronal restorations on the periapical health of endodontically treated teeth. Endod Dent Traumatol. 2000;16(5):218-221."
 ---
-
 ## The Foundation of Successful Root Canals
 
-When you get a root canal, your dentist removes the infected nerve and cleans out the inside of the tooth. But there's a critical final step: sealing the tip of the root tightly so bacteria can't sneak back in. This sealing at the apex (the tip of the root) is one of the most important parts of the entire procedure. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+When you get a root canal, your dentist removes the infected nerve and cleans out the inside of the tooth. But there's a critical final step: sealing the tip of the root tightly so bacteria can't sneak back in. This sealing at the apex (the tip of the root) is one of the most important parts of the entire procedure.
 
-Studies show that teeth with a tight seal at the tip stay healthy 85-97 percent of the time. Teeth with poor seals stay healthy only 60-70 percent of the time. The difference is huge. A good seal prevents bacteria from getting back into the tooth through the root tip. For more details, see our guide on [Bad Breath Elimination](/article/bad-breath-elimination-complete-guide.html).
+Studies show that teeth with a tight seal at the tip stay healthy 85-97 percent of the time. Teeth with poor seals stay healthy only 60-70 percent of the time. The difference is huge. A good seal prevents bacteria from getting back into the tooth through the root tip.
 
 Your dentist uses specific techniques and materials to create this seal. Understanding what they're doing helps you appreciate the care required for success.
 
@@ -113,6 +112,9 @@ Get a crown placed within a few weeks of completing the root canal. Don't leave 
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
+
+Related reading: [Crown Shade Matching: Achieving Natural Tooth](/article/crown-shade-matching-natural-tooth-color.html) and [Cast Gold Restoration: Premium Material and Clinical](/article/cast-gold-restoration-premium-material.html).
+
 ## Conclusion
 
 Sealing the root tip is the final critical step of root canal treatment. Electronic apex locators find the exact location within 0.5mm of accuracy. Working length is verified with X-rays accounting for individual tooth anatomy.
@@ -121,7 +123,7 @@ Gutta-percha (rubber-like material) combined with modern resin or bioceramic sea
 
 Final X-ray verification confirms complete filling without gaps. The sealed root tip creates the foundation for long-term success. A good seal, combined with a tight crown, gives your treated tooth the best chance at a healthy future. Your dentist's attention to these details directly impacts whether your root canal succeeds or needs retreatment.
 
-> **Key Takeaway:** When you get a root canal, your dentist removes the infected nerve and cleans out the inside of the tooth.
+> **Key Takeaway:** But there's a critical final step: sealing the tip of the root tightly so bacteria can't sneak back in. This sealing at the apex (the tip of the root) is one of the most important parts of the entire procedure.
 
 ## Related Articles
 

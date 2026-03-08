@@ -22,12 +22,9 @@ references:
   - "Miloro M, Ghali GE, Larsen PE. Peterson's Principles of Oral and Maxillofacial Surgery (3rd ed.). Peoples Medical Publishing House; 2020."
   - "Hupp JR, Ellis E, Tucker MR. Contemporary Oral and Maxillofacial Surgery (7th ed.). St. Louis: Elsevier Mosby; 2019."
 ---
-
 ## What Complications Can Happen?
 
-Most dental surgery goes smoothly, but complications happen to some people. Understanding what can go wrong helps you prevent problems and recognize warning signs early.
-
-The good news: most complications are preventable or manageable if caught early. Following your dentist's instructions and attending follow-up visits dramatically reduces complication risk.
+Nervous about post-surgery problems like dry socket or infection? Good news: most complications are preventable by following simple instructions. This guide covers what can go wrong, how likely it is, what it costs to fix, and how to prevent it in the first place.
 
 ## Dry Socket (Alveolar Osteitis)
 
@@ -155,12 +152,6 @@ Taking prescribed antibiotics prevents infections that cost 10-20 times more to 
 
 Your dentist wants to see you 1-2 weeks post-op. This visit ($0-$100, usually free) catches problems early. Don't skip it thinking everything feels fine.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about surgical complications and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed surgical complications, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -168,11 +159,14 @@ Once you've addressed surgical complications, maintaining your results requires 
 
 For more information, see [Clinical Protocols for Tooth Extraction and](/article/best-practices-for-surgical-teeth-removal.html) and [Bleeding After Tooth Extraction: Clinical Assessment](/article/bleeding-after-tooth-extraction-when-is-it-excessive.html).
 
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
 Most complications from dental surgery are preventable or manageable when caught early. Following post-op instructions (FREE), taking prescribed medications ($5-$25), and attending follow-up visits ($0-$100) prevent complications costing $300-$5,000. Smoking increases complications by 40-50%, so stopping even temporarily helps. Call immediately if you experience fever, spreading swelling, or warning signs. Prevention and early detection are far cheaper than treating advanced complications.
 
-> **Key Takeaway:** Understand complications that can happen after dental surgery and how to prevent them.
+> **Key Takeaway:** Nervous about post-surgery problems like dry socket or infection?
 
 ## Related Articles
 

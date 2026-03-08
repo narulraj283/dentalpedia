@@ -30,7 +30,6 @@ references:
   - title: "Long-term Stability of Vertical Dimension Changes Achieved with Elastic Mechanics"
     url: https://pubmed.ncbi.nlm.nih.gov/22710191
 ---
-
 ## What Are Vertical Elastics?
 
 If you have an open bite—a gap between your upper and lower front teeth when you bite down—your orthodontist might mention using "vertical elastics." These are small rubber bands that exert gentle, consistent upward and downward forces to help close that gap and improve your bite. Understanding how they work, what to expect, and why your cooperation matters will help you succeed with your orthodontic treatment.

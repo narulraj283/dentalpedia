@@ -45,7 +45,6 @@ subcategory: Preventive Overview
 subcategory_slug: overview-prevent
 title: Preventive Sealant Placement When and Why
 ---
-
 ## Dental Sealants: Protecting Your Back Teeth from Cavities
 
 If your dentist has recommended dental sealants for your child or yourself, you might wonder what they are, how they work, and whether they're truly necessary. Sealants represent one of the most effective and well-researched cavity prevention tools available—preventing about 85-90% of cavities on the chewing surfaces of back teeth. This guide explains how sealants work, when they're recommended, what to expect during application, and how they fit into your overall prevention plan.

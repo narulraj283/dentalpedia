@@ -32,7 +32,6 @@ references:
   - title: "Caton JG, Armitage G, Newbrun E, et al. The AAP Classification of Periodontal Diseases and Conditions. J Periodontol. 2018;89(Suppl 1):S9-S16."
     url: "https://www.ncbi.nlm.nih.gov/pubmed"
 ---
-
 ## From Healthy Gums to Gingivitis: The Timeline
 
 Your gums don't wake up swollen and bleeding one morning. Gingivitis is a gradual process that develops over days and weeks. Understanding how this happens helps you catch it early and reverse it.

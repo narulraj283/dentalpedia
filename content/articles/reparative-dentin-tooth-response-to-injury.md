@@ -20,7 +20,6 @@ subcategory: Endodontic Overview
 subcategory_slug: overview-endo
 title: Reparative Dentin Tooth Response to Injury
 ---
-
 ## Your Tooth's Built-In Healing System
 
 Your tooth has an amazing capacity to repair itself when injured. Deep inside your tooth is the pulp—the nerve and blood vessels that keep your tooth alive and healthy. When your tooth is exposed to injury (like deep decay, trauma, or a large cavity), your pulp responds by creating special protective tissue called reparative dentin. Think of it as your tooth's version of scar tissue, except it's not weak—it's actual dentin that protects the nerve underneath.

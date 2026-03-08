@@ -20,7 +20,6 @@ references:
   - "Zhang Y, Wang XP, Volz JE, et al. Effects of high-speed machining on dimensional precision and surface integrity of dental ceramics. J Prosthet Dent. 2004;92(4):333-338."
   - "Goldstein RE, Tjan AHL. The use of a resin-reinforced composite material in posterior teeth restorations. J Prosthet Dent. 1981;45(2):169-173."
 ---
-
 ## Why Canine Position Matters
 
 Your canine teeth (pointed teeth at the corners of your smile) are crucial for proper jaw function. These teeth naturally guide your bite when you move your jaw side to side, preventing excessive force on your back molars. When canines are correctly positioned, they handle lateral forces that would otherwise damage back teeth.
@@ -81,31 +80,17 @@ After treatment, your orthodontist provides retainers—devices maintaining corr
 
 About 85-90% of canines remain in corrected position with proper retention. Approximately 5-10% show minor relapse (backward movement) over 10 years even with retention. Long-term retention with nightly wear for life provides maximum stability.
 
-## Questions to Ask Your Orthodontist
-
-Understanding your treatment plan helps you stay engaged and recognize progress. Ask your orthodontist these important questions: How far forward or backward do your canines need to move? Will this treatment require extraction or arch expansion?
-
-What's the expected timeline for canine positioning in your specific case? How will your orthodontist monitor vertical position changes during movement? What retention strategy will be used after treatment completes? Can you see digital simulations showing your final smile with corrected canine positioning?
-
-Your orthodontist should explain the plan clearly and answer your questions thoroughly. Understanding the "why" behind treatment recommendations helps you appreciate the care being taken and comply with instructions like wearing rubber bands or other appliances.
-
 ## Maintaining Corrected Position Long-Term
 
 After treatment completes and braces are removed, your retention commitment directly affects long-term success. Most relapse occurs in the first year after treatment—about 50% of any relapse happens within 3-6 months. During this critical first year, nightly retainer wear is essential. After the first year, slightly reduced wear frequency might be acceptable, but best outcomes come from continued nightly wear for life.
 
 Some patients resist long-term retention, feeling that after 2 years wearing braces, they should be finished. However, teeth naturally shift throughout life—even in people who never had braces. Your retainers prevent that natural drift, maintaining the investment made in treatment. Think of retention as permanent—like brushing teeth, retainer wear becomes lifelong habit.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about canine positioning proper cusp tip location and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 Ideal canine positioning creates proper bite guidance that protects back teeth from excessive wear. Your orthodontist carefully positions canines 0.5mm forward, 1-2mm side-to-side, and at optimal vertical height. Achieving this positioning typically requires 6-12 months during comprehensive treatment. Proper retention after treatment maintains corrected positioning for decades.
 
-> **Key Takeaway:** Your canine teeth guide your bite and prevent excessive force on back teeth when moving your jaw.
+> **Key Takeaway:** Your canine teeth (pointed teeth at the corners of your smile) are crucial for proper jaw function.
 
 ## Related Articles
 

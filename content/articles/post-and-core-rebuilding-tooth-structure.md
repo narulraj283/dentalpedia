@@ -44,7 +44,6 @@ subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
 title: Post and Core Rebuilding Tooth Structure
 ---
-
 ## Rebuilding Your Tooth After a Root Canal
 
 If you've just had a root canal, your dentist may have talked to you about a post and core. This is a system that helps rebuild and strengthen a tooth that has had its nerve removed. This guide explains what a post and core are, why your tooth might need one, and what you can expect.

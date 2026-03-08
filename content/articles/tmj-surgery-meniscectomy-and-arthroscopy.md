@@ -12,7 +12,6 @@ subcategory: TMJ & Sleep Overview
 subcategory_slug: overview-tmj-sleep
 title: 'TMJ Surgery Options: Meniscectomy, Arthroscopy'
 ---
-
 ## Introduction
 
 When jaw pain won't go away despite 6-12 months of physical therapy, splints, and anti-inflammatories, surgery might be an option. Before you consider surgery, understand what it involves, success rates, and whether it's right for you. This guide explains surgical options from minimally invasive arthroscopy to disc repair to total joint replacement.

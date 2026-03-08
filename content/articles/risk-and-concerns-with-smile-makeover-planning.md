@@ -32,7 +32,6 @@ references:
   - title: "Faucher AJ, Kiliaridis S. Parameters characterizing sleep bruxism episodes. J Dent Res. 2009;88(4):388-393."
     url: https://pubmed.ncbi.nlm.nih.gov/19407159
 ---
-
 ## What Is a Comprehensive Smile Makeover?
 
 A comprehensive smile makeover means redoing multiple teeth with multiple different treatments—maybe orthodontics, gum surgery, tooth whitening, and several new restorations all coordinated together. This is the most complex type of cosmetic dentistry and has the highest risk for planning problems, cost surprises, and extended treatment timelines. These cases require meticulous planning addressing cosmetic goals, treatment sequencing, costs, material selection, communication with the dental laboratory, and temporary restoration management. When planning breaks down in any of these areas, you experience cost escalation, delayed treatment completion, compromised esthetics, and disappointment. Understanding specific risks in comprehensive planning helps you work with your dentist to prevent problems.
@@ -80,6 +79,9 @@ When multiple new restorations are being placed, all of them need to work togeth
 ## Your Role in Making This Work
 
 Comprehensive makeovers succeed when you actively participate in planning, communicate clearly about your goals and concerns, keep appointments on schedule, maintain excellent oral hygiene throughout treatment, wear temporary restorations carefully, follow post-operative instructions, and provide feedback at each stage. When you skip appointments, gum disease develops, teeth aren't properly maintained, or you don't follow instructions, treatment quality suffers and timelines extend. Your commitment to the treatment process is essential for success.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

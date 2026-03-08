@@ -11,7 +11,6 @@ subcategory: TMJ & Sleep Overview
 subcategory_slug: overview-tmj-sleep
 reviewed: true
 ---
-
 ## Introduction
 
 If your jaw pain hasn't improved after months of physical therapy, splints, and anti-inflammatories, your surgeon might suggest arthroscopy—a minimally invasive procedure where a tiny camera is inserted into your jaw joint to visualize what's happening inside and treat the problem directly. This guide explains what arthroscopy is, how it works, what to expect, and the success rates so you can make an informed decision about whether it's right for you.

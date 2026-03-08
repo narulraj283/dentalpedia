@@ -44,12 +44,11 @@ references:
     year: 2003
     publication: "Journal of Oral and Maxillofacial Surgery"
 ---
-
-Getting a tooth pulled might seem simple, but sometimes complications happen afterward. The good news is that most complications are manageable if caught early. Let's talk about what can go wrong after extraction and what you should do if it does. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
+Getting a tooth pulled might seem simple, but sometimes complications happen afterward. The good news is that most complications are manageable if caught early. Let's talk about what can go wrong after extraction and what you should do if it does.
 
 ## Dry Socket: The Pain After the Extraction
 
-After you get a tooth pulled, a blood clot forms in the hole—that's supposed to happen and it's your body protecting itself while healing. But sometimes that clot falls out or doesn't form right in the first place. When that happens, you have what's called dry socket, and it hurts—sometimes even more than the extraction itself. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
+After you get a tooth pulled, a blood clot forms in the hole—that's supposed to happen and it's your body protecting itself while healing. But sometimes that clot falls out or doesn't form right in the first place. When that happens, you have what's called dry socket (alveolar osteitis), and it hurts—sometimes even more than the extraction itself.
 
 Dry socket usually shows up about 2-5 days after extraction, with a deep, throbbing pain that can even reach your ear. You might notice your breath smells bad, and the hole looks empty when you look in the mirror. If you see this, call your dentist. They'll rinse it out gently and pack it with a special material that helps with pain. You'll probably need to come back every few days to have them change the packing.
 
@@ -73,7 +72,7 @@ If the opening is bigger or doesn't close on its own, your dentist can surgicall
 
 ## Numbness That Doesn't Go Away
 
-Extraction can sometimes affect nerves that give feeling to your lip, chin, or tongue. You might experience numbness or tingling for a while. Most of the time, this is temporary—the nerve is just bruised or irritated and recovers on its own within weeks or months. For about 50-70% of people with nerve problems after extraction, sensation returns completely. For others, there's some permanent change, but this only happens in about 1-2% of people who had a nerve problem initially.
+Extraction can sometimes affect the inferior alveolar nerve (the main nerve supplying your lower jaw and tongue). You might experience numbness or tingling for a while. Most of the time, this is temporary—the nerve is just bruised or irritated and recovers on its own within weeks or months. For about 50-70% of people with nerve problems after extraction, sensation returns completely. For others, there's some permanent change, but this only happens in about 1-2% of people who had a nerve problem initially.
 
 If your dentist injures a nerve during extraction, they'll document it and keep track of your recovery. They might prescribe medications to help with nerve pain if you're experiencing tingling or burning. Most people recover without special treatment—time does the healing.
 
@@ -149,19 +148,16 @@ Clear post-operative instructions substantially reduce complication incidence. P
 
 Instructions emphasizing socket protection (avoid vigorous rinsing, avoid smoking, avoid straw use, avoid spitting) reduce dry socket risk substantially. Food choice recommendations (soft, cool foods; avoiding hot foods that dilate vessels) promote hemostasis and comfort. Analgesic timing (ibuprofen before anesthesia wears off, then alternating with acetaminophen) controls post-operative pain more effectively than reactive dosing after pain develops.
 
-## Conclusion
 
-Extraction complications demand systematic recognition and appropriate evidence-based management. Dry socket (alveolar osteitis) management prioritizes pain control through combination analgesics and socket hygiene with packing changes every 3-5 days. Hemorrhage control utilizes local pressure, hemostatic agents, and suturing when necessary; anticoagulated patients require only local measures without routine medication discontinuation. Root fragments under 3mm in asymptomatic patients may be observed without retrieval; symptomatic or enlarging fragments require surgical removal.
-
-Oroantral communications exceeding 2-3mm require surgical closure using buccal fat pad or flap advancement techniques. Nerve injuries represent temporary neuropraxias in 50-70% of cases with spontaneous recovery; permanent sensory changes affect only 1-2% of initially injured patients. Post-operative infection risk is minimized through meticulous technique, strict asepsis, and appropriate prophylactic measures in immunocompromised patients. Awareness of potential complications, proper patient selection, careful surgical technique, and clear post-operative instructions substantially reduce morbidity and optimize patient outcomes.
+Related reading: [What to Expect: Pain Management After Oral Surgery](/article/pain-management-surgery-what-you-need-to-know.html) and [Oral Tumor Removal and Surgical Management - TNM](/article/tumor-removal-oral-cancer-surgical-excision.html).
 
 ## Conclusion
 
-Extraction complications are usually manageable when caught early. Dry socket causes intense pain but responds well to irrigation and packing plus pain medication. Bleeding almost always stops with proper pressure or special materials, even if you're on blood thinners. Small root pieces often don't need removal, but larger ones should be taken out.
+Extraction complications are usually manageable when caught early. Dry socket (alveolar osteitis) causes intense pain but responds well to irrigation and packing plus pain medication. Bleeding almost always stops with proper pressure or special materials, even if you're on blood thinners. Small root pieces often don't need removal, but larger ones should be taken out. Sinus openings from upper tooth extraction usually close on their own or with minor surgery.
 
-Sinus openings from upper tooth extraction usually close on their own or with minor surgery. Nerve numbness is usually temporary, with full recovery in most cases. Infection is uncommon but should be treated with antibiotics. Follow your dentist's post-extraction instructions carefully, watch for warning signs, and call if something doesn't seem right. Most people heal beautifully after extraction without any complications, but knowing what can happen and what to do helps you stay ahead of any problems.
+Nerve numbness is usually temporary, with full recovery in most cases. Infection is uncommon but should be treated with antibiotics. Following your dentist's post-extraction instructions carefully, watching for warning signs, and calling early if something doesn't seem right helps you catch complications before they become serious problems.
 
-> **Key Takeaway:** Getting a tooth pulled might seem simple, but sometimes complications happen afterward.
+> **Key Takeaway:** The most common extraction complications—dry socket, slow bleeding, and temporary nerve numbness—are manageable with proper care and early recognition. Knowing what to watch for and contacting your dentist immediately if warning signs appear prevents most complications from becoming serious.
 
 ## Related Articles
 

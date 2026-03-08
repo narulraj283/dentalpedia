@@ -22,14 +22,13 @@ references:
   - "Schreier PH. Class IV composite restorations: Technique sensitive decisions. Int J Periodontics Restorative Dent. 1995;15(4):348-363."
   - "Hafez R, Ahmed D, Yousry M. Prevalence and etiology of non-carious cervical lesions. Quintessence Int. 2008;39(4):e15-e22."
 ---
-
 ## Tooth Damage Happens—Here's How to Fix It
 
-Whether you knocked out a chunk of your front tooth in a sports accident, got hit in the face, fell on your face, or just have a tooth that's been discolored since you were a kid, cosmetic tooth repair is possible. The approach depends on exactly how much damage there is and what kind of fix makes sense for your situation. Let's walk through the options. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
+Whether you knocked out a chunk of your front tooth in a sports accident, got hit in the face, fell on your face, or just have a tooth that's been discolored since you were a kid, cosmetic tooth repair is possible. The approach depends on exactly how much damage there is and what kind of fix makes sense for your situation. Let's walk through the options.
 
 ## Minor Chips: Fast and Reversible
 
-If you've got a small chip (less than a quarter of the tooth) where the tooth is still mostly intact, composite bonding is often your answer. This is fast (one appointment), affordable ($75-150), and reversible. Your dentist removes any rough edges, roughens the tooth surface slightly, and bonds tooth-colored composite material to rebuild the chipped area. They then shape and polish it to match your other teeth. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
+If you've got a small chip (less than a quarter of the tooth) where the tooth is still mostly intact, composite bonding is often your answer. This is fast (one appointment), affordable ($75-150), and reversible. Your dentist removes any rough edges, roughens the tooth surface slightly, and bonds tooth-colored composite material to rebuild the chipped area. They then shape and polish it to match your other teeth.
 
 The tricky part is matching the color perfectly. Good dentists use three different shades—a darker base shade that matches the main tooth color, a transitional shade in the middle, and a lighter shade at the edge. This multi-shade approach looks way more natural than a single shade.
 
@@ -87,19 +86,8 @@ Minor composite repair ($75-150) is a bargain. Composite or ceramic veneers ($20
 
 Before starting treatment, ask your dentist if they can show you what the repaired tooth will look like. Many dentists use digital photos or mockups so you know exactly what you're getting. This prevents surprises.
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+Related reading: [Why Cosmetic Restoration Type Selection Matters](/article/why-cosmetic-restoration-types-matters.html) and [Cosmetic Crown Selection: A Complete Patient Guide](/article/benefits-of-cosmetic-crown-selection.html).
 
 ## Conclusion
 
@@ -109,7 +97,7 @@ The good news about chipped, cracked, or discolored teeth is that they're totall
 
 Crowns handle severe damage. Whitening or bleaching tackles discoloration. Your dentist will recommend the best approach based on the extent of damage and your goals. The key is addressing it relatively soon so the tooth stays healthy and you can enjoy a smile you're proud of.
 
-> **Key Takeaway:** Whether you knocked out a chunk of your front tooth in a sports accident, got hit in the face, fell on your face, or just have a tooth that's been discolored since you were a kid, cosmetic tooth repair is possible. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** Whether you knocked out a chunk of your front tooth in a sports accident, got hit in the face, fell on your face, or just have a tooth that's been discolored since you were a kid, cosmetic tooth repair is possible.
 
 ## Related Articles
 

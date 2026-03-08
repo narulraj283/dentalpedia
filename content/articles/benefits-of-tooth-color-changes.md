@@ -28,16 +28,15 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: Tooth Color Changes - Diagnosis, Classification
 ---
-
 ## Why Your Teeth Are Changing Color: What It Means and What to Do
 
-Your tooth color changes for different reasons, and not all of them are just cosmetic. Sometimes discoloration is just surface staining from coffee or aging. Other times, it signals something that needs treatment. Learning to tell the difference means you can address problems early and make smart decisions about cosmetic treatment. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+Your tooth color changes for different reasons, and not all of them are just cosmetic. Sometimes discoloration is just surface staining from coffee or aging. Other times, it signals something that needs treatment. Learning to tell the difference means you can address problems early and make smart decisions about cosmetic treatment.
 
 ## Surface Stains vs. Deep Discoloration
 
 Some color changes are just on the surface, sitting on your enamel. These are called extrinsic stains, and they're usually from food, drinks, or smoking. Coffee, tea, and red wine contain tannins—chemicals that stain your teeth brown over time.
 
-Tobacco also stains teeth brown. The good news is surface stains respond well to professional cleaning, polishing, or whitening. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+Tobacco also stains teeth brown. The good news is surface stains respond well to professional cleaning, polishing, or whitening.
 
 Sometimes specific bacteria create colored deposits that look like green or black lines on your teeth. Black line stain is actually pretty common and completely harmless, even though it looks alarming. These deposits respond to mechanical cleaning. You can't whiten them away because they're on the surface—your dentist has to physically remove them.
 
@@ -114,6 +113,9 @@ Dead teeth (pulpal necrosis) need root canal therapy plus internal bleaching if 
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
+
+Related reading: [Recovery After Extraction: A Complete Patient Guide](/article/benefits-of-recovery-after-extraction.html) and [Types of Fillings and Restorations](/article/tooth-restoration-comparison-what-you-need-to-know.html).
+
 ## Conclusion
 
 : Know What You're Seeing
@@ -122,7 +124,7 @@ Some tooth discoloration is purely cosmetic and easily fixed. Some indicates a r
 
 ---
 
-> **Key Takeaway:** Your tooth color changes for different reasons, and not all of them are just cosmetic.
+> **Key Takeaway:** Sometimes discoloration is just surface staining from coffee or aging. Other times, it signals something that needs treatment.
 
 ## Related Articles
 

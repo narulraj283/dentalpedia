@@ -32,7 +32,6 @@ references:
   - title: "Ceron-Toschi R, Farias M, de Paiva G. Assessment of myofunctional orofacial characteristics in mouth breathers. International Journal of Pediatric Otorhinolaryngology. 2010;74(12):1379-1382."
     url: https://pubmed.ncbi.nlm.nih.gov/20947186
 ---
-
 ## What Is Tongue Thrust?
 
 Tongue thrust is a habit where your tongue pushes forward against your teeth when you swallow. While babies naturally do this when they're born, most kids outgrow it by age 4 or 5. When the habit persists, it's called a myofunctional disorder. About 20-25% of children still have tongue thrust, and it becomes even more common in kids with an open bite (a gap between upper and lower front teeth).

@@ -32,7 +32,6 @@ references:
   - title: "Implant-supported versus conventional complete dentures"
     url: https://www.ncbi.nlm.nih.gov/pubmed/40345678
 ---
-
 ## Understanding Immediate Complete Dentures
 
 When you need all of your upper teeth, all of your lower teeth, or both extracted and replaced, an immediate complete denture lets you have functioning replacement teeth the same day your natural teeth come out. Instead of waiting weeks with no teeth while your denture is fabricated, you walk out with a full denture in place. Learning more about [Recovery After Tooth Extraction](/article/how-to-tooth-extraction-recovery.html) can help you understand this better.
@@ -94,12 +93,6 @@ The first 3-6 months require frequent adjustments and tissue conditioning. At th
 ## Long-Term Alternatives: Implants
 
 While immediate dentures provide functioning teeth on extraction day, implant-supported dentures offer superior long-term stability and comfort. However, implants require months of healing before teeth can be placed. For patients needing immediate results, dentures are the better option. For long-term goals, implants are worth considering.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about immediate dentures teeth on same day as extraction and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

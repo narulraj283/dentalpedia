@@ -32,7 +32,6 @@ references:
   - title: "Eustaquio R, et al. Lingual orthodontics: a systematic review. Am J Orthod Dentofacial Orthop. 2006;129(6):831.e1-831.e10."
     url: https://pubmed.ncbi.nlm.nih.gov/16769513
 ---
-
 ## How Long Does Adult Braces Treatment Really Take?
 
 If you're thinking about straightening your teeth as an adult, one of your biggest questions is probably: "How long will this take?" The answer depends on which type of braces you choose and your personal situation. Different braces options—from traditional metal to clear aligners—work at different speeds. Most adults can expect treatment anywhere from 12 to 36 months, but understanding the factors that speed things up or slow them down will help you plan realistically. Your orthodontist will look at your specific needs and give you a more accurate timeline based on your smile.

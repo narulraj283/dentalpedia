@@ -32,7 +32,6 @@ references:
   - title: "Shen TC, Chang PY, Lin CL, Wei CC, Li CY, Kao CH. Dental prophylaxis and risk of pneumonia: a nationwide population-based observational study. Oral Oncol. 2016;53:9-15."
     url: https://pubmed.ncbi.nlm.nih.gov/26615265
 ---
-
 ## Why Your Dentist Recommends Regular Checkups
 
 You've probably heard that you should see your dentist every six months. This recommendation has been around for decades, but here's an interesting fact: it wasn't originally based on scientific research. It was mostly just convention and convenience.

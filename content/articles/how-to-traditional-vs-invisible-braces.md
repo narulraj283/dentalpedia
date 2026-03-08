@@ -32,7 +32,6 @@ references:
   - title: "Patient-reported quality of life outcomes during orthodontic treatment"
     url: https://www.ncbi.nlm.nih.gov/pubmed/38456789
 ---
-
 ## Traditional Braces: The Gold Standard for Complex Cases
 
 Traditional braces use metal brackets bonded to your teeth and connected by wires that apply steady pressure to gradually move your teeth into correct positions. Braces have been used successfully for decades and work exceptionally well for straightening teeth, even in very complex cases. Learning more about [How Teeth Move During Orthodontic Treatment](/article/how-to-teeth-movement-process.html) can help you understand this better.
@@ -86,12 +85,6 @@ Talk with your orthodontist about whether your specific case is treatable with a
 ## Retainers Are Essential With Both Options
 
 After either braces or aligners finish straightening your teeth, you'll need to wear a retainer to keep them straight. Some people wear fixed wires bonded to the back of their teeth. Others wear removable retainers nightly. The type depends on your situation and your orthodontist's recommendation.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about how to traditional vs invisible braces and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

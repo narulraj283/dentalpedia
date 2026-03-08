@@ -22,7 +22,6 @@ references:
   - "Pye AD, Lockhart DE, Dawson MP, Murray EF, Smith AB. Measurement of extensive 3-D alveolar bone resorption following tooth loss. Br J Oral Maxillofac Surg. 2009;47(1):12-16."
   - "Allareddy V, Rampa S, Lee MK, et al. Hospital-based emergency department visits involving dental issues. J Dent Educ. 2014;78(1):85-95."
 ---
-
 ## What to Expect During Recovery After Tooth Extraction
 
 Understanding extraction recovery helps you know what's normal and when to be concerned. Recovery progresses in predictable phases with different characteristics and needs during each phase. Let's walk through what happens week by week so you feel informed and prepared.
@@ -93,7 +92,7 @@ When your gum appears healed, you can gradually return to normal activity and di
 
 Extraction recovery follows predictable patterns: pain peaks days 1 to 3, swelling peaks day 2 to 3, soft tissue heals within 1 to 2 weeks, and bone heals within 8 to 12 weeks. Soft diet and activity modification for 1 to 2 weeks support healing. Bleeding and mild discomfort for several days are expected responses, not complications.
 
-> **Key Takeaway:** Understand the healing timeline after tooth extraction and what to expect during your recovery week by week.
+> **Key Takeaway:** Understanding extraction recovery helps you know what's normal and when to be concerned.
 
 ## Related Articles
 

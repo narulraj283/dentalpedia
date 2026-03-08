@@ -28,7 +28,6 @@ references:
   - title: "Efficacy of nitrous oxide-oxygen sedation in patient anxiety reduction"
     url: https://pubmed.ncbi.nlm.nih.gov/26176562
 ---
-
 ## Why Understanding Anesthesia Types Matters for Dental Patients
 
 When your dentist talks about anesthesia options, they're usually talking about three very different approaches: simple numbing shots, twilight sedation, or full sleep. These aren't just different levels of the same thing—they're completely different procedures with different risks, different recovery times, and different costs. Understanding these distinctions helps you make informed decisions about your care.

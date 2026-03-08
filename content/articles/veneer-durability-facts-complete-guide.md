@@ -32,7 +32,6 @@ references:
   - title: "Replacement frequency and cost-effectiveness of porcelain versus composite veneers"
     url: https://pubmed.ncbi.nlm.nih.gov/24289564
 ---
-
 ## How Long Do Veneers Really Last?
 
 When you're considering cosmetic veneers to transform your smile, one of your first questions is likely about durability. The good news is that veneers are among the most durable cosmetic restorations available. Understanding how long different types of veneers last, what factors influence their lifespan, and how to extend their service life helps you make an informed decision about your smile investment and set realistic expectations.

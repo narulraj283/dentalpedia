@@ -32,7 +32,6 @@ references:
   - title: "Rossini G, Parrini S, Castroflorio T, Deregibus A, Debernardi CL. Efficacy of clear aligners in controlling interdental rotation. A 3D imaging study. Angle Orthod. 2015;85(2):226-232."
     url: https://pubmed.ncbi.nlm.nih.gov/24903032
 ---
-
 Clear aligners like Invisalign sound perfect—straighten your teeth without anyone noticing you're wearing braces. You can take them out to eat and brush your teeth, and they're barely visible. But are they as effective as traditional braces?
 
 The truth is more complicated than the marketing suggests. While clear aligners work great for some patients with mild tooth crowding or spacing, they have real limitations that can lead to disappointing results, especially if your bite problems are more serious. Understanding these limitations helps you decide if clear aligners are right for you or if traditional braces would work better for your specific situation.
@@ -123,9 +122,6 @@ While clear aligners provide esthetic advantages during treatment compared to fi
 
 Clear aligner therapy represents an excellent option for mild-moderate malocclusions in highly motivated patients with excellent compliance and without vertical dimension control requirements. Indications include anterior crowding (mild-moderate), anterior spacing, overjet correction (mild), simple rotations, and post-fixed appliance retention. However, limitations include severe malocclusions, cases requiring substantial vertical control, cases with significant skeletal discrepancies, cases requiring molar relationship correction, and patients with anticipated poor compliance.
 
-## Conclusion
-
-Clear aligners offer real advantages—they're invisible during treatment and more convenient than traditional braces for eating and brushing. But they work best only for specific, simpler tooth alignment issues in patients who can commit to wearing them faithfully. If your bite problem is mild to moderate and you can absolutely wear them 20+ hours daily without skipping, they might be perfect for you. However, if you have a more complex bite problem, can't maintain excellent compliance, or want the most reliable treatment results, traditional braces might be the better choice despite being more visible.
 
 ## Conclusion
 

@@ -22,7 +22,6 @@ references:
   - Grobbelaar AO. Breast and bottle feeding in cleft lip and palate. Cleft Palate Craniofac J. 2007;44(3):350-356.
   - Ysunza A, Pamplona MC, Mendoza M, et al. Velopharyngeal insufficiency in non-syndromic cleft patients: prevalence and associated factors. Plast Reconstr Surg. 2014;133(5):1147-1155.
 ---
-
 ## Why Your Child Needs a Coordinated Team
 
 Treating cleft palate isn't a one-specialist job. Over 15-20 years, your child will need surgery, orthodontics, speech therapy, hearing management, and psychological support. If these specialties don't communicate, they can accidentally work against each other.
@@ -143,11 +142,15 @@ If you live far from a cleft center, ask your cleft team about telemedicine opti
 
 Some states have regional cleft networks that help coordinate care even when patients must travel. The American Cleft Palate-Craniofacial Association can help you find the nearest certified team.
 
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about cleft team: coordinated specialists for your child's care or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** A coordinated cleft team of multiple specialists working together optimizes outcomes over 15-20 years of care, with treatment coordinated so that each step prepares for the next. Seeking team-based care, not individual specialists, produces the best results for your child's speech, appearance, and confidence.
+
+> **Key Takeaway:** Treating cleft palate isn't a one-specialist job. Over 15-20 years, your child will need surgery, orthodontics, speech therapy, hearing management,.
 
 ## Related Articles
 

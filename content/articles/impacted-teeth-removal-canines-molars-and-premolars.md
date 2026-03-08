@@ -1,36 +1,44 @@
 ---
-title: "Impacted Teeth Removal: Surgical Techniques for Canines,"
-slug: impacted-teeth-removal-canines-molars-and-premolars
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "Some teeth get stuck and can't come in naturally. Learn why teeth become impacted and how your dentist can safely help them erupt or remove them."
 date: 2026-03-05
+excerpt: Some teeth get stuck and can't come in naturally. Learn why teeth become
+  impacted and how your dentist can safely help them erupt or remove them.
 read_time: 9 min
+references:
+- title: 'Impacted canines: Prevalence, etiology, and surgical management strategies
+    in orthodontic cases'
+  url: https://www.ncbi.nlm.nih.gov/pubmed/18558886
+- title: 'Palatal versus buccal canine impaction: Anatomical factors, surgical approaches,
+    and outcomes'
+  url: https://www.ncbi.nlm.nih.gov/pubmed/22270463
+- title: 'Closed versus open eruption techniques for impacted maxillary canines: Esthetic
+    and functional outcomes'
+  url: https://www.ncbi.nlm.nih.gov/pubmed/20667821
+- title: 'Mandibular molar impaction: Surgical removal techniques and complications'
+  url: https://www.ncbi.nlm.nih.gov/pubmed/25169535
+- title: 'Coronectomy versus complete extraction in deeply impacted third molars:
+    Neurosensory preservation and outcomes'
+  url: https://www.ncbi.nlm.nih.gov/pubmed/21280522
+- title: 'Radiographic assessment of tooth impaction: Cone beam CT evaluation of spatial
+    relationships and complications'
+  url: https://www.ncbi.nlm.nih.gov/pubmed/24356412
+- title: 'Inferior alveolar nerve injury during impacted tooth removal: Risk assessment
+    and prevention strategies'
+  url: https://www.ncbi.nlm.nih.gov/pubmed/19645520
+- title: 'Orthodontic traction following surgical exposure of impacted teeth: Timing
+    and loading protocols'
+  url: https://www.ncbi.nlm.nih.gov/pubmed/23632039
+- title: 'Impacted premolars: Management strategies balancing surgical complexity
+    with long-term functional restoration'
+  url: https://www.ncbi.nlm.nih.gov/pubmed/27625402
 reviewed: true
 reviewer_specialty: Oral and Maxillofacial Surgery
+slug: impacted-teeth-removal-canines-molars-and-premolars
 subcategory: Wisdom Teeth & Impaction
 subcategory_slug: wisdom-teeth
-references:
-  - title: "Impacted canines: Prevalence, etiology, and surgical management strategies in orthodontic cases"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/18558886
-  - title: "Palatal versus buccal canine impaction: Anatomical factors, surgical approaches, and outcomes"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/22270463
-  - title: "Closed versus open eruption techniques for impacted maxillary canines: Esthetic and functional outcomes"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/20667821
-  - title: "Mandibular molar impaction: Surgical removal techniques and complications"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/25169535
-  - title: "Coronectomy versus complete extraction in deeply impacted third molars: Neurosensory preservation and outcomes"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/21280522
-  - title: "Radiographic assessment of tooth impaction: Cone beam CT evaluation of spatial relationships and complications"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/24356412
-  - title: "Inferior alveolar nerve injury during impacted tooth removal: Risk assessment and prevention strategies"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/19645520
-  - title: "Orthodontic traction following surgical exposure of impacted teeth: Timing and loading protocols"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/23632039
-  - title: "Impacted premolars: Management strategies balancing surgical complexity with long-term functional restoration"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/27625402
+title: 'Impacted Teeth Removal: Surgical Techniques for Canines'
 ---
-
 Sometimes a tooth just can't erupt on its own—it gets stuck under your gum or bone. These are called impacted teeth, and they affect about 1-3% of people. While wisdom teeth are the most common impacted tooth, canines, molars, and premolars can also get trapped. The good news is that your dentist can help using surgery and orthodontics to either bring the tooth down or remove it safely.
 
 ## Why Teeth Get Stuck

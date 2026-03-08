@@ -32,7 +32,6 @@ references:
   - title: "Lussi A, Hack A, Hug I. Detection of approximal caries with a new laser fluorescence device. Caries Res. 2001;35(2):93-98."
     url: https://pubmed.ncbi.nlm.nih.gov/11275667
 ---
-
 ## How Dentists Find Cavities
 
 Your dentist uses several methods to detect cavities early, when they're easiest and cheapest to treat. Early detection means you might avoid a filling and keep more of your tooth. Understanding how dentists find cavities helps you appreciate why they take time at your checkups and why X-rays are important.
@@ -68,12 +67,6 @@ Once a cavity breaks through the tooth surface (you can see an actual hole), it 
 ## Understanding Your Cavity Report
 
 Your dentist might use special codes to describe cavities (called ICDAS codes). These codes help your dentist and other dental professionals communicate about the exact severity of your cavity, which guides treatment decisions. A small white spot might not need a filling right away, while a brown spot with a hole definitely needs a filling soon.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for cavity diagnosis process, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

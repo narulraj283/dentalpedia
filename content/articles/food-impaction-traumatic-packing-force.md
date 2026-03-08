@@ -17,7 +17,6 @@ references:
   - "Nyvad B, Fejerskov O. Active root surface caries converted into arrested caries as a response to surgical planing and chlorhexidine treatment. Caries Res. 1986;20(3):185-192."
   - "Rudy RJ, Tucker JB, Williams KB. A 36-month retrospective study of food impaction problems. Quintessence Int. 1996;27(11):757-761."
 ---
-
 Have you ever felt like food gets constantly stuck between your teeth? That annoying trapped feeling—when you chew and suddenly something wedges in there really hard—is called food impaction. It sounds minor, but this common problem can actually damage your gums and the bone supporting your teeth. The good news is understanding why it happens and how to fix it can help you keep your teeth healthy for life.
 
 ## What is Food Impaction and Why Does It Happen?
@@ -68,7 +67,7 @@ Managing food impaction is about building better habits and fixing the underlyin
 
 Food impaction seems like a minor inconvenience, but it can cause real damage to your gums and the bone holding your teeth. The good news is that understanding what causes it—and working with your dentist to fix it—can prevent tooth loss. Whether it's changing the foods you eat, improving your cleaning technique, or getting a restoration fixed, these steps work together to keep your teeth healthy.
 
-> **Key Takeaway:** Have you ever felt like food gets constantly stuck between your teeth?
+> **Key Takeaway:** That annoying trapped feeling—when you chew and suddenly something wedges in there really hard—is called food impaction. It sounds minor, but this common problem can actually damage your gums and the bone supporting your teeth.
 
 ## Related Articles
 

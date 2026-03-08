@@ -20,7 +20,6 @@ references:
   - "Misch CE. Contemporary Implant Dentistry. 3rd ed. Mosby; 2008."
   - "Pjetursson BE, Thoma D, Jung R, et al. A systematic review of the survival and complication rates of implant-supported fixed dental prostheses (FDPs) after a mean observation period of at least 5 years. Clin Oral Implants Res. 2012;23(Suppl 6):22-38."
 ---
-
 ## Understanding Your Smile Zone and Why It Matters
 
 When you're thinking about replacing a tooth with an implant—especially one that shows when you smile or talk—there are a lot of things to consider. Learning more about [Timeline for Bone Grafting Procedure](/article/timeline-for-bone-grafting-procedure.html) can help you understand this better. Your front teeth are the most visible part of your smile, and getting an implant there is different from replacing a back tooth. You probably have pretty high expectations for how it should look, and honestly, that's fair. You want it to look like a real tooth, not obvious or artificial.
@@ -70,12 +69,6 @@ Getting your new tooth to match your other teeth is important. One color match i
 Once your implant is in place, you need to take care of it like you would a real tooth. Brush and floss it every day. Visit your dentist regularly—probably more often at first. If your gum gets inflamed or infected, it can damage the bone around your implant, and you might lose it.
 
 The good news is that if you take care of your implant, it can last for many years. Your dentist will check it during regular visits to make sure the bone and gum are healthy.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about esthetic implant zone cosmetic challenges and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 

@@ -20,7 +20,6 @@ references:
   - "Jones CG. Chlorhexidine: Is it still the gold standard? Periodontology 2000. 1997;15:55-62."
   - "Greenstein G, et al. Nonsurgical periodontal therapy in 2000: when has treatment failed? Compendium of Continuing Education in Dentistry. 2000;21(7):532-556."
 ---
-
 Your dentist recommends a mouth rinse and you're not sure which one, whether you need it, or how long you should use it. Mouth rinses are helpful but misunderstood. Here's what actually works and when.
 
 ## Myth: Mouthwash Replaces Brushing and Flossing
@@ -102,19 +101,13 @@ If halitosis is your concern, identify the cause first (poor cleaning, dry mouth
 
 Having a rinse without a clear reason you need it wastes money and adds unnecessary chemicals to your routine. Ask your dentist which specific rinse addresses your specific situation, how long to use it, and when to reassess whether you still need it.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about mouth rinse benefits and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 Mouthrinses supplement but don't replace mechanical cleaning. Chlorhexidine provides powerful short-term antimicrobial benefit but should be limited to 2-week cycles to prevent adverse effects. Alternative rinses (essential oils, cetylpyridinium chloride) work well for maintenance with fewer downsides.
 
 Fluoride rinses benefit high-risk cavity patients exclusively. Whitening and halitosis rinses have specific, limited benefits. Understand which rinse addresses your specific need rather than using generic "mouthwash."
 
-> **Key Takeaway:** Mouth rinse helps but doesn't replace brushing or flossing—and some rinses shouldn't be used continuously.
+> **Key Takeaway:** Your dentist recommends a mouth rinse and you're not sure which one, whether you need it, or how long you should use it.
 
 ## Related Articles
 

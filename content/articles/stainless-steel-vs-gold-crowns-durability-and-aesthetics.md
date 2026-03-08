@@ -32,7 +32,6 @@ references:
   - title: "Walton TR. An up to 15-year longitudinal study of 515 metal-ceramic FPDs: Part 2. Modes of failure and influence of various clinical characteristics. Int J Prosthodont. 2003;16(2):177-182."
     url: https://pubmed.ncbi.nlm.nih.gov/12710735
 ---
-
 ## Introduction
 
 If your dentist recommends a crown for a back tooth, you have choices: stainless steel, gold, or ceramic. Understanding the pros and cons of each helps you make an informed decision. This guide explains stainless steel and gold crowns, their differences, benefits, and drawbacks to help you understand why your dentist might recommend one over the other.
@@ -90,12 +89,6 @@ Gold crowns cost significantly more than stainless steel crowns—usually 2-4 ti
 - **Esthetics matter less than function:** Usually for back teeth where esthetics aren't critical but performance is essential
 - **You want your opposing natural teeth to wear normally:** If your opposing natural teeth are very important to you long-term, gold's wear rate matching enamel is an advantage
 - **Cost per year of service matters:** If you plan to keep your teeth long-term, gold's superior longevity means lower long-term cost
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss stainless steel vs gold crowns durability and aesthetics, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

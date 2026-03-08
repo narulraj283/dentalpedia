@@ -32,7 +32,6 @@ references:
   - title: "Patient-Related Factors Affecting Local Anesthetic Success: Age, Anatomy, and Physiology"
     url: https://www.ncbi.nlm.nih.gov/pubmed/28234567
 ---
-
 ## You're Not Alone If Numbness Hasn't Worked
 
 You're having a cavity filled or a tooth worked on, your dentist injects anesthetic, but then you feel pain during the procedure anyway. This is a frustrating experience that happens to about one in five dental patients—you're definitely not alone. This problem, called anesthesia failure, can happen for several different reasons. Understanding why it happens and what your dentist can do about it helps you feel more confident at your next appointment and less anxious about having adequate pain control.
@@ -99,9 +98,11 @@ Newer technology like ultrasound guidance or computer-assisted navigation might 
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Local anesthesia failure in dentistry results from multiple mechanisms including anatomical variation, inflammation, technical factors, and accessory innervation. If you have questions, your dentist can help you understand your options. If you feel pain during a procedure, tell your dentist immediately—they have effective backup techniques like intraosseous or periodontal ligament injections that work in over 90 percent of cases. Planning ahead and communicating with your dentist helps prevent anesthesia problems.
 
-> **Key Takeaway:** Anesthesia failure affects about 20 percent of dental patients and happens for several reasons: unusual jaw anatomy, inflamed teeth, extra nerve pathways, or injection technique. If you feel pain during a procedure, tell your dentist immediately—they have effective backup techniques like intraosseous or periodontal ligament injections that work in over 90 percent of cases. Planning ahead and communicating with your dentist helps prevent anesthesia problems.
+
+
+> **Key Takeaway:** If you've felt pain despite anesthesia during dental work, you're not alone. Learn why numbness sometimes fails and what your dentist can do about it.
 
 ## Related Articles
 

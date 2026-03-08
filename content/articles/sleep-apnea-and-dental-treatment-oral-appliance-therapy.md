@@ -30,7 +30,6 @@ references:
   - title: "Ghazal A et al. Therapeutic Efficacy of a Novel Digitally Fabricated Mandibular Advancement Device. J Dent Sleep Med. 2018;5(1):e1-e6."
     url: https://pubmed.ncbi.nlm.nih.gov/30800841
 ---
-
 ## What is Sleep Apnea and Why Dentists Can Help
 
 Sleep apnea is a serious condition where your breathing stops repeatedly during sleep—sometimes dozens or hundreds of times per night. Each pause can last from a few seconds to over a minute. Your brain senses the oxygen drop and wakes you up, though often so briefly you don't remember.
@@ -60,14 +59,6 @@ Your dentist monitors your treatment with follow-up appointments at one week, on
 ## Is It Right for You?
 
 Oral appliances work best for mild-to-moderate sleep apnea. If you have severe apnea, you might need CPAP or a combination treatment. Your dentist evaluates your jaw structure, dental health, and tooth position to ensure you're a good candidate. Patients with healthy teeth, good jaw anatomy, and motivation to use the device nightly are ideal candidates. Learn more about [TMJ disorders](/article/tmj-syndrome-jaw-pain-causes-and-treatment.html) and [Sleep Position and Jaw Health](/article/sleep-position-and-jaw-health.html).
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about sleep apnea and dental treatment: oral appliance therapy and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

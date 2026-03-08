@@ -16,7 +16,6 @@ references:
   - "Sonick M, Hwang D, Abrahams JJ, et al. Accurate assessment of alveolar bone dimensions for implant surgery. Int J Periodontics Restorative Dent. 2003;23(4):308-319."
   - "Spin-Neto R, Landini G, Gotfredsen E. Radiation dose and protection in cone beam computed tomography. Braz Dent J. 2013;24(2):151-157."
 ---
-
 ## Introduction
 
 If you're considering dental implants, your implant dentist likely mentioned something called CBCT scanning or 3D imaging. This advanced technology creates detailed 3D pictures of your jaw, allowing your dentist to plan your surgery with remarkable precision. The result? Safer procedures, better positioning, potentially fewer complications, and often better esthetic and functional outcomes. Understanding what these scans show and how they help improves your confidence in your implant treatment.
@@ -141,7 +140,7 @@ In some complex cases, a second scan is done after implant placement to verify p
 
 Digital 3D imaging and surgical planning have revolutionized implant dentistry, making procedures safer, more predictable, and often with better esthetic and functional outcomes. While adding cost and radiation exposure compared to traditional approaches, the benefits typically justify these considerations. Understanding what 3D planning offers helps you appreciate why your dentist recommends it and feel confident in your implant treatment plan.
 
-> **Key Takeaway:** Learn how advanced CT scanning and digital planning make implant surgery safer and more precise.
+> **Key Takeaway:** If you're considering dental implants, your implant dentist likely mentioned something called CBCT scanning or 3D imaging.
 
 ## Related Articles
 

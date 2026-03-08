@@ -42,7 +42,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Root Planing Smoothing Root Surfaces
 ---
-
 ## What Is Root Planing and Why Do You Need It?
 
 If your dentist recommended root planing (also called deep cleaning or scaling and root planing), you have gum disease that's progressed beyond simple gingivitis. Root planing is the treatment that cleans the root surfaces of your teeth below your gum line where your toothbrush can't reach. This isn't the same as a regular cleaning. Root planing is a therapeutic procedure that removes bacteria, infection, and contaminated material from your tooth roots to allow your gums to heal.

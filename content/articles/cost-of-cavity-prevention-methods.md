@@ -22,7 +22,6 @@ references:
   - "Splieth C, Tachou A. Epidemiology of dental caries in children. Monogr Oral Sci. 2012;21:1-11."
   - "European Academy of Paediatric Dentistry. Guidelines on prevention of early childhood caries: update 2020. Eur Arch Paediatr Dent. 2020;21(3):323-330."
 ---
-
 When it comes to protecting your teeth, prevention is your best investment. Learning more about [Cost of Cavity Risk Factors](/article/cost-of-cavity-risk-factors.html) can help you understand this better. A cavity prevention visit costs around $50 to $150, but filling that cavity later will run you $150 to $300.
 
 And if the cavity gets deep enough to need a root canal? That's $1,000 to $2,000. If you lose the tooth and need an implant, you're looking at $3,000 to $6,000. The math is pretty simple: spending a little money now saves you a lot of money later.
@@ -79,7 +78,7 @@ Also, if your community has fluoridated water, you're getting free cavity protec
 
 When you add it all up, spending $500 to $2,500 per year on prevention saves you $2,000 to $15,000 in treatment costs over your lifetime. Prevention is almost always covered by insurance, especially for kids and teens. By combining professional treatments like fluoride and sealants with good home care and smart eating habits, you protect your teeth and your wallet. Talk to your dentist about which prevention plan makes the most sense for your situation—everyone's mouth is different, and your dentist can customize a plan that fits your risk level and budget.
 
-> **Key Takeaway:** When it comes to protecting your teeth, prevention is your best investment.
+> **Key Takeaway:** Learning more about [Cost of Cavity Risk Factors](/article/cost-of-cavity-risk-factors.html) can help you understand this better. A cavity prevention visit costs around $50 to $150, but filling that cavity later will run you $150 to $300.
 
 ## Related Articles
 

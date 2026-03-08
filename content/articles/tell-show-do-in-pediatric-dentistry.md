@@ -32,7 +32,6 @@ references:
   - title: "Chotpitayasunondh T, Narongdej M. The relationship between general trait anxiety and intraoral behavior in children undergoing dental treatment. Pediatr Dent. 2015;37(2):145-150."
     url: https://pubmed.ncbi.nlm.nih.gov/26063556
 ---
-
 ## What Is Tell-Show-Do?
 
 Tell-Show-Do is a simple, proven technique that pediatric dentists use to help anxious children feel comfortable during dental visits. The method has three steps: your dentist explains what's going to happen (tell), shows your child the tools and what they'll feel (show), and then performs the procedure (do). This approach dramatically reduces fear because children worry most about the unknown—once they understand what to expect, their anxiety typically drops. Research confirms that children who experience Tell-Show-Do cooperate better and feel less stressed during dental appointments.

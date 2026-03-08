@@ -32,7 +32,6 @@ references:
   - title: "Weiss KL, Sandison S. Controlling discomfort with low-force orthodontics. In: Clinical and Laboratory Manual of Orthodontics. 2nd ed. Philadelphia: Lea & Febiger; 1997."
     url: https://pubmed.ncbi.nlm.nih.gov/
 ---
-
 ## Your Discomfort Is Temporary and Manageable
 
 Getting braces can cause some soreness and discomfort, but it's temporary and manageable. Many people worry about pain before getting braces, so understanding what to expect and how to handle discomfort helps a lot. The good news is that most discomfort follows a predictable timeline, and there are many effective ways to manage it.
@@ -85,12 +84,6 @@ How you mentally prepare makes a huge difference. People who expect discomfort a
 
 Staying active and focused on your normal routine actually reduces discomfort perception. People who sit around focusing on their soreness experience more pain than those who stay engaged in school, work, or activities. Keep busy and your mind off the discomfort.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for braces discomfort relief, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
-
 ## What to Expect During Your Visit
 
 Your dentist will begin by examining your mouth and reviewing your dental history to understand your current situation. This evaluation may include taking X-rays or digital images to get a complete picture of what is happening beneath the surface. Based on these findings, your dentist will explain the recommended treatment approach and walk you through each step of the process.
@@ -116,6 +109,3 @@ Discomfort from braces is usually worst in the first week (peaking around days 3
 - [Ligatures](/article/ligature-elastic-fastener-for-bracket.html)
 - [Self Ligating Braces Reduced Friction and Efficiency](/article/self-ligating-braces-reduced-friction-and-efficiency.html)
 
-- [Braces Pain and Discomfort: First Week Experience](/article/braces-pain-and-discomfort-first-week-experience.html)
-- [Adult Orthodontic Treatment](/article/common-misconceptions-about-adult-braces-options.html)
-- [Invisalign Cost Factors](/article/invisalign-cost-factors-what-affects-your-treatment-price.html)

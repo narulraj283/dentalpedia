@@ -20,7 +20,6 @@ references:
   - "Coop DA, et al. Nitrous Oxide and Oxygen Sedation in Dental Treatment. Anesth Prog. 2023;70(2):89-97."
   - "Perugia H, et al. Pharmacological Sedation Options for Anxious Dental Patients. Oral Health Prev Dent. 2023;21(2):167-178."
 ---
-
 ## Is It Just Anxiety, or Is It Real Phobia?
 
 About 3-5% of adults have true dental phobia—not just nervousness, but serious anxiety that interferes with their life. Learning more about [Timeline for Anesthesia Options](/article/timeline-for-anesthesia-options.html) can help you understand this better. There's a big difference between normal worry and dental phobia. Normal worry about dental work is proportionate to real risks. Dental phobia is intense, irrational fear that causes people to avoid dentists entirely, even when they're in pain or their teeth are failing.
@@ -77,17 +76,13 @@ You might benefit from talking to a therapist about dental anxiety specifically.
 
 Recovery is possible. Many people overcome dental phobia through treatment and go on to maintain healthy teeth and gums. It takes courage, but it's worth it.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about dental phobia severe anxiety disorder and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
 ## Conclusion
 
 Dental phobia is a real anxiety disorder affecting 3-5% of adults, typically rooted in traumatic experiences that create conditioned fear. The phobia leads to avoidance of care, which ironically creates the dental problems people feared. Cognitive-behavioral therapy is the gold-standard treatment with 70-85% success.
 
 Medications including anti-anxiety drugs and nitrous oxide provide immediate help. The best results combine psychological treatment with medication support. Working with dentists trained in anxiety management and possibly consulting a therapist creates paths to overcoming phobia and achieving oral health. If dental anxiety is affecting your life, seek help—treatment works.
 
-> **Key Takeaway:** About 3-5% of adults have true dental phobia—not just nervousness, but serious anxiety that interferes with their life.
+> **Key Takeaway:** Learning more about [Timeline for Anesthesia Options](/article/timeline-for-anesthesia-options.html) can help you understand this better. There's a big difference between normal worry and dental phobia.
 
 ## Related Articles
 

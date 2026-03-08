@@ -22,7 +22,6 @@ references:
   - "Patient compliance and toothbrush selection. Community Dentistry and Oral Epidemiology. 2019;47(3):203-211."
   - "Ocular irritation from toothbrush bristle fragments. Contact Lens and Anterior Eye. 2020;43(4):488-492."
 ---
-
 Walking down the toothbrush aisle is overwhelming. Learning more about [Oral Health Habits Complete Guide](/article/oral-health-habits-complete-guide.html) can help you understand this better. Soft, medium, hard—powered, manual—small head, large head. And the marketing claims promise everything. Let's cut through the noise and talk about what actually matters for your teeth and gums.
 
 ## Hard Bristles Aren't Better—They're Worse
@@ -69,15 +68,11 @@ If you have gum disease or recession, get an extra-soft brush and be extra gentl
 
 Natural bristles used to be standard, but they're not better. Synthetic nylon bristles are consistent, sterilizable, and work well. Bamboo handles are nice if you care about sustainability, but they don't clean better than plastic handles.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about toothbrush selection and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
 ## Conclusion
 
 Choose a soft-bristled brush with a head size of about 20-26mm for adults, replace it every 3 months, and use gentle technique. Powered toothbrushes offer modest improvements for people with poor technique, but a manual brush with good technique works almost as well. Remember that brushing alone isn't enough—you need to floss or use interdental cleaning tools to reach between teeth where plaque hides.
 
-> **Key Takeaway:** Pick the right toothbrush to clean your teeth effectively while protecting your gums.
+> **Key Takeaway:** Walking down the toothbrush aisle is overwhelming.
 
 ## Related Articles
 

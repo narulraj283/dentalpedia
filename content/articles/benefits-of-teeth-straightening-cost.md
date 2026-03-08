@@ -20,16 +20,15 @@ references:
   - "Ng EY, Cunningham SJ. Economic evaluation of orthodontic treatment. Semin Orthod. 2018;24(1):67-74."
   - "Schott TC, Hausafam S. The incremental long-term costs of untreated malocclusion on oral health: a systematic review. Orthod Craniofac Res. 2020;23(2):135-145."
 ---
-
 ## How Much Do Braces Cost? A Real Breakdown
 
-Braces are expensive—there's no way around it. But when you break down what you're paying for, it makes more sense. The cost depends on a bunch of factors: what type of braces you get, how complex your case is, where you live, and whether your insurance helps. Let's walk through how to figure out what braces will actually cost you. For more details, see our guide on [Accelerated Orthodontia](/article/accelerated-orthodontia-fast-track-braces.html).
+Braces are expensive—there's no way around it. But when you break down what you're paying for, it makes more sense. The cost depends on a bunch of factors: what type of braces you get, how complex your case is, where you live, and whether your insurance helps. Let's walk through how to figure out what braces will actually cost you.
 
 ## The Different Types and Their Prices
 
 Metal braces are the traditional option and the most affordable. You're looking at about $3,000-7,000 depending on where you live and how severe your case is. In rural areas, you might pay toward the lower end.
 
-In big cities or seeing a specialist, you'll pay more. These braces are cheap because they use simple, proven technology that's been around forever. For more details, see our guide on [Accelerated Orthodontics](/article/accelerated-orthodontics-speeding-up-your-treatment.html).
+In big cities or seeing a specialist, you'll pay more. These braces are cheap because they use simple, proven technology that's been around forever.
 
 Ceramic braces are tooth-colored brackets that are less visible than metal. They cost about $4,000-8,000 because they're more expensive to make and more fragile (they break more easily than metal). If you care about appearance but don't want to pay the maximum, some offices offer mixed systems (ceramic on top, metal on bottom) for around $3,500-5,500.
 
@@ -105,6 +104,9 @@ Ask your orthodontist why their cost is higher or lower than others. Make sure y
 
 10. Josell SD. The basis for an esthetic smile. J Esthet Dent. 2001;13(1):11-17.
 
+
+Related reading: [Common Misconceptions About Traditional vs](/article/common-misconceptions-about-traditional-vs-invisible-braces.html) and [Braces vs. Aligners - Which One Is Right for Your](/article/why-traditional-vs-invisible-braces-matters.html).
+
 ## Conclusion
 
 : Plan Ahead
@@ -113,7 +115,7 @@ Braces are expensive, but there are real ways to manage the cost. Understand wha
 
 ---
 
-> **Key Takeaway:** Braces are expensive—there's no way around it. But when you break down what you're paying for, it makes more sense.
+> **Key Takeaway:** Braces are expensive—there's no way around it.
 
 ## Related Articles
 

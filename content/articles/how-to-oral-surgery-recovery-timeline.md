@@ -28,7 +28,6 @@ references:
   - title: "Socket Preservation Techniques and Outcomes"
     url: "https://www.ncbi.nlm.nih.gov/pubmed/28470226"
 ---
-
 Recovery from a tooth extraction doesn't happen overnight, and your body follows a predictable healing process. Understanding what to expect during each stage helps you recognize normal healing and know when you might need to call your dentist. Your recovery timeline spans from the first few hours after surgery through the first few months, with each phase bringing your mouth closer to full healing.
 
 ## Your First Few Hours Matter Most

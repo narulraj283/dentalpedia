@@ -21,16 +21,15 @@ references:
   - "Domejean S, et al. Risk Assessment and Management in Early Childhood Caries Prevention. Part II: Determining the Risk for Early Childhood Caries. J Dent Child (Chic). 2018;85(1):8-13."
   - "Anil S, et al. Early childhood caries: Prevalence, risk factors, and prevention. Front Pediatr. 2017;5:157."
 ---
-
 ## What Is Bottle Decay and How Common Is It?
 
 Bottle decay (called early childhood caries) affects almost one in four toddlers in the United States. It's cavity decay in babies under age 6. It's completely preventable—meaning no child needs to get it if parents know what to do.
 
-Untreated decay hurts, keeps babies awake, makes it hard to eat, and delays development. Some babies with severe decay even have trouble starting school. For more details, see our guide on [Adenoid and Tonsil Hypertrophy](/article/adenoid-and-tonsil-hypertrophy-airway-impact.html).
+Untreated decay hurts, keeps babies awake, makes it hard to eat, and delays development. Some babies with severe decay even have trouble starting school.
 
 ## The Bacterial Infection Your Baby Can Catch
 
-Here's something most parents don't know: babies are not born with cavity-causing bacteria. They catch it from someone else—usually mom or another caregiver. A baby picks up the bacteria through saliva—when someone shares a spoon, shares a drink, or pre-chews food. For more details, see our guide on [Ankyloglossia and Speech Effects](/article/ankyloglossia-speech-effects-articulation-problems.html).
+Here's something most parents don't know: babies are not born with cavity-causing bacteria. They catch it from someone else—usually mom or another caregiver. A baby picks up the bacteria through saliva—when someone shares a spoon, shares a drink, or pre-chews food.
 
 Babies are most vulnerable between 2-3 years old. This is the window when they catch the bacteria 70% of the time if the parent or caregiver has untreated cavities and bad oral health. But you can prevent this. If you're the parent or main caregiver, getting your own teeth treated and maintaining excellent oral hygiene keeps your child safe.
 
@@ -96,25 +95,12 @@ Bottle decay affects 23% of young toddlers but is completely preventable. It hap
 
 Fluoride varnish every 3-6 months reduces decay risk 37-70%. Silver diamine fluoride stops active decay. Limiting snack frequency and sugary drinks is critical. Space maintainers prevent crowding from lost baby teeth. With these evidence-based strategies, 60-80% of cases can be prevented.
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+Related reading: [Lip Tie in Babies: Causes, Diagnosis, and Treatment](/article/lip-tie-and-feeding-difficulties-in-infants.html) and [Dental Sealants for Kids - Preventing Molars Cavities](/article/dental-sealants-for-kids-preventing-molars-cavities.html).
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
-
-> **Key Takeaway:** Bottle decay (called early childhood caries) affects almost one in four toddlers in the United States. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** It happens when babies have high levels of cavity-causing bacteria (usually from caregivers) and frequent sugar exposure.
 
 ## Related Articles
 

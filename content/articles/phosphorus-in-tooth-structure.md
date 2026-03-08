@@ -42,7 +42,6 @@ subcategory: Nutrition Overview
 subcategory_slug: overview-nutrition
 title: Phosphorus in Tooth Structure and Enamel Health
 ---
-
 ## Why Phosphorus Matters for Your Teeth
 
 Your teeth are made of a crystalline mineral structure called hydroxyapatite, which is essentially a calcium-phosphate compound. Phosphorus comprises about 17% of your enamel's mineral weight, working with calcium to create the hard, protective surface that resists decay. Without adequate phosphorus, your enamel can't reach full hardness and becomes more susceptible to cavities.

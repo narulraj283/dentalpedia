@@ -1,38 +1,47 @@
 ---
-title: "Ligature Wire Selection and Bracket Engagement:"
-slug: tie-wire-securing-wire-to-bracket
 category: Orthodontics
 category_slug: orthodontics
-excerpt: "Comprehensive analysis of stainless steel ligature wire selection, ligation techniques, and comparative friction characteristics between conventional."
 date: 2026-03-05
+excerpt: Comprehensive analysis of stainless steel ligature wire selection, ligation
+  techniques, and comparative friction characteristics between conventional.
 read_time: 13 min
+references:
+- title: Kapila S, et al. Influence of bracket design on the morphology of the brackets
+    and the quality of the impression. Angle Orthod. 1990;60(1):3-12.
+  url: https://pubmed.ncbi.nlm.nih.gov/2407192
+- title: Jones ML, Richmond S. An assessment of the importance of some etiological
+    factors in the aetiology of malocclusion. Am J Orthod. 1985;88(4):288-293.
+  url: https://pubmed.ncbi.nlm.nih.gov/3863088
+- title: Loftus BP, et al. A comparison of the wire-ligation and self-ligation bracket
+    systems. Am J Orthod Dentofacial Orthop. 1999;116(1):15-20.
+  url: https://pubmed.ncbi.nlm.nih.gov/10395335
+- title: 'Burrow SJ. Friction and resistance to sliding in orthodontics: a critical
+    review. Am J Orthod Dentofacial Orthop. 2009;135(4):442-451.'
+  url: https://pubmed.ncbi.nlm.nih.gov/19361789
+- title: Griffiths HS, et al. Nickel and chromium ion release from stainless steel
+    orthodontic brackets. J Orthod. 2007;34(2):120-128.
+  url: https://pubmed.ncbi.nlm.nih.gov/17584980
+- title: Cacciafesta V, et al. The effect of ligation technique on friction between
+    brackets and arch wire. Angle Orthod. 2003;73(5):541-545.
+  url: https://pubmed.ncbi.nlm.nih.gov/14606712
+- title: Thorstenson GA, Kusy RP. Influence of the second-order geometry and material
+    on friction between bracket and archwire. Angle Orthod. 2005;75(6):1010-1020.
+  url: https://pubmed.ncbi.nlm.nih.gov/16448281
+- title: Bednar JR, et al. A comparative study of the frictional forces between orthodontic
+    brackets and arch wires. Am J Orthod Dentofacial Orthop. 1991;100(6):513-522.
+  url: https://pubmed.ncbi.nlm.nih.gov/1750698
+- title: Pizzoni L, et al. Influence of hygiene on the friction of composite restorations
+    and orthodontic appliances. Am J Orthod Dentofacial Orthop. 1998;114(4):385-391.
+  url: https://pubmed.ncbi.nlm.nih.gov/9790327
+- title: Nakano H, et al. Friction of a new ceramic bracket. Angle Orthod. 2002;72(5):419-424.
+  url: https://pubmed.ncbi.nlm.nih.gov/12296617
+reviewed: true
 reviewer_specialty: Orthodontics
+slug: tie-wire-securing-wire-to-bracket
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
-reviewed: true
-references:
-  - title: "Kapila S, et al. Influence of bracket design on the morphology of the brackets and the quality of the impression. Angle Orthod. 1990;60(1):3-12."
-    url: https://pubmed.ncbi.nlm.nih.gov/2407192
-  - title: "Jones ML, Richmond S. An assessment of the importance of some etiological factors in the aetiology of malocclusion. Am J Orthod. 1985;88(4):288-293."
-    url: https://pubmed.ncbi.nlm.nih.gov/3863088
-  - title: "Loftus BP, et al. A comparison of the wire-ligation and self-ligation bracket systems. Am J Orthod Dentofacial Orthop. 1999;116(1):15-20."
-    url: https://pubmed.ncbi.nlm.nih.gov/10395335
-  - title: "Burrow SJ. Friction and resistance to sliding in orthodontics: a critical review. Am J Orthod Dentofacial Orthop. 2009;135(4):442-451."
-    url: https://pubmed.ncbi.nlm.nih.gov/19361789
-  - title: "Griffiths HS, et al. Nickel and chromium ion release from stainless steel orthodontic brackets. J Orthod. 2007;34(2):120-128."
-    url: https://pubmed.ncbi.nlm.nih.gov/17584980
-  - title: "Cacciafesta V, et al. The effect of ligation technique on friction between brackets and arch wire. Angle Orthod. 2003;73(5):541-545."
-    url: https://pubmed.ncbi.nlm.nih.gov/14606712
-  - title: "Thorstenson GA, Kusy RP. Influence of the second-order geometry and material on friction between bracket and archwire. Angle Orthod. 2005;75(6):1010-1020."
-    url: https://pubmed.ncbi.nlm.nih.gov/16448281
-  - title: "Bednar JR, et al. A comparative study of the frictional forces between orthodontic brackets and arch wires. Am J Orthod Dentofacial Orthop. 1991;100(6):513-522."
-    url: https://pubmed.ncbi.nlm.nih.gov/1750698
-  - title: "Pizzoni L, et al. Influence of hygiene on the friction of composite restorations and orthodontic appliances. Am J Orthod Dentofacial Orthop. 1998;114(4):385-391."
-    url: https://pubmed.ncbi.nlm.nih.gov/9790327
-  - title: "Nakano H, et al. Friction of a new ceramic bracket. Angle Orthod. 2002;72(5):419-424."
-    url: https://pubmed.ncbi.nlm.nih.gov/12296617
+title: Ligature Wire Selection and Bracket Engagement
 ---
-
 ## Introduction
 
 When your orthodontist places braces on your teeth, they're using a system that might seem simple on the surface—but there's actually some really interesting science happening! The tiny wire that connects your brackets to your teeth is carefully chosen to apply just the right amount of pressure to move your teeth safely and effectively. Understanding how these wires work and how your orthodontist secures them can help you appreciate the care that goes into your treatment.

@@ -18,7 +18,6 @@ references:
   - title: "Lyons K, Kindelan SA, O'Mahony JE, Sammons RL. Dental anomalies in hypodontia and suspected ectodermal dysplasias: a review of the literature. Part 1. Quintessence Int. 2009;40(4):289-297."
     url: https://pubmed.ncbi.nlm.nih.gov/19417868
 ---
-
 ## When Baby Teeth Won't Fall Out: What You Need to Know
 
 If your child has a baby tooth that hasn't fallen out even though it's "supposed to," you might be wondering if there's a problem. Sometimes baby teeth seem stubborn and refuse to budge, while the surrounding teeth are losing theirs normally. The good news is that not all retained (stuck) baby teeth mean something serious—but some do need attention. This guide explains when baby teeth naturally fall out, why some get stuck, and when your child's dentist might recommend removal or other treatment.
@@ -58,14 +57,6 @@ If the baby tooth is blocking a normally developing permanent tooth, removal is 
 If a baby tooth stays in place too long when it should have come out, it can cause problems for surrounding teeth. Adjacent teeth might drift and shift to fill the space occupied by the stuck tooth. This can create crowding and spacing problems that might require orthodontic correction later. The retained tooth might also position below the level of surrounding teeth (called infraocclusion), creating a noticeable deformity in the gum line.
 
 For these reasons, even though "wait and see" might be tempting, your dentist might recommend removing a retained baby tooth sooner rather than later to prevent these complications. The decision is always personalized based on your child's specific situation.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about when baby teeth won't fall out - what you need to know and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Conclusion
 

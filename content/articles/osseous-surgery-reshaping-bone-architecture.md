@@ -21,7 +21,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Osseous Surgery Reshaping Bone Architecture
 ---
-
 ## When Teeth Can Be Saved Instead of Lost
 
 Advanced gum disease doesn't always mean losing your teeth. If caught before bone loss becomes too severe, your periodontist can use regenerative surgery to actually rebuild the bone and periodontal ligament that gum disease has destroyed. This represents one of modern dentistry's most impressive achievements: true tissue regeneration.
@@ -98,15 +97,8 @@ Not all defects regenerate completely. Success depends on defect size, depth, co
 
 The goal of regenerative surgery is preserving attachment levels that resective surgery would sacrifice. Even partial regeneration achieves this. Complete regeneration is ideal but not always possible. Your periodontist will explain realistic expectations for your specific defect.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about advanced bone regeneration surgery: rebuilding lost gum... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

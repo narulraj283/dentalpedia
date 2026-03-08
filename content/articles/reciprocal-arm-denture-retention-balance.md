@@ -30,7 +30,6 @@ references:
   - title: "Reitz CD, Drisco JR. Guide planes in removable partial denture design. J Am Dent Assoc. 1981;102(5):611-614."
     url: https://pubmed.ncbi.nlm.nih.gov/6938404
 ---
-
 ## How Your Partial Denture Stays Stable
 
 When you have a partial denture, stability is crucial. Your partial denture has a metal clasp that hooks around remaining teeth to hold it in place. But there's more to the design than just the hook itself. Your denture also has a "reciprocal arm"—a rigid metal component that stabilizes your remaining tooth and prevents it from tilting side-to-side when you insert and remove the denture.
@@ -72,14 +71,6 @@ A well-made partial denture with proper reciprocal arm function can last 5-10 ye
 Regular denture care involves daily cleaning with a soft brush and denture cleaner (never regular toothpaste, which can damage the acrylic). Soaking overnight helps remove stains and plaque. Periodic professional cleaning and polish by your dentist removes stubborn stains and maintains the denture's appearance.
 
 Your jaw bone continuously resorbs and changes shape, requiring periodic denture adjustments and relining. Typically, your denture requires relining every 1-2 years initially, then every 2-3 years as resorption slows. Your dentist will inform you when relines are needed. Regular relines maintain proper reciprocal arm contact and denture stability despite jaw changes.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about reciprocal arm - denture retention and balance and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

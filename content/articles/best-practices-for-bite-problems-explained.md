@@ -22,14 +22,13 @@ references:
   - "Franchi L, et al. Predictability of skeletal changes induced by functional appliances in Class II malocclusion. Am J Orthod Dentofacial Orthop. 2003;123(2):114-123."
   - "Baccetti T, Franchi L, McNamara JA Jr. Cephalometric variables related to the timing of different stages of the dentition. Angle Orthod. 1997;67(2):231-242."
 ---
-
 ## Best Practices for Bite Problems Explained
 
-If your orthodontist tells you that you have a bite problem, you might wonder what that really means. Bite problems are incredibly common—most people have something that isn't perfectly aligned. Understanding exactly what your orthodontist found helps you make informed decisions about whether to treat it and what approach to take. For more details, see our guide on [Accelerated Orthodontia](/article/accelerated-orthodontia-fast-track-braces.html).
+If your orthodontist tells you that you have a bite problem, you might wonder what that really means. Bite problems are incredibly common—most people have something that isn't perfectly aligned. Understanding exactly what your orthodontist found helps you make informed decisions about whether to treat it and what approach to take.
 
 ## Getting the Right Diagnosis
 
-Good diagnosis starts with detailed records. Your orthodontist takes X-rays from multiple angles to see your entire jaw structure. A panoramic X-ray shows all your teeth, their roots, any missing or extra teeth, and your overall bone levels. A side view X-ray reveals how your upper and lower jaws line up compared to each other and to your skull. For more details, see our guide on [Accelerated Orthodontics](/article/accelerated-orthodontics-speeding-up-your-treatment.html).
+Good diagnosis starts with detailed records. Your orthodontist takes X-rays from multiple angles to see your entire jaw structure. A panoramic X-ray shows all your teeth, their roots, any missing or extra teeth, and your overall bone levels. A side view X-ray reveals how your upper and lower jaws line up compared to each other and to your skull.
 
 Physical photos from several angles show what your bite looks like in your actual face. You'll probably see photos of your full face, your teeth close up, and views from the side. These images become your baseline for comparing how much your bite improves during treatment.
 
@@ -114,11 +113,17 @@ J Orthod. 2017;44(1):24-34.
 9. Franchi L, et al. Predictability of skeletal changes induced by functional appliances in Class II malocclusion. Am J Orthod Dentofacial Orthop. 2003;123(2):114-123.
 10. Baccetti T, Franchi L, McNamara JA Jr. Cephalometric variables related to the timing of different stages of the dentition. Angle Orthod. 1997;67(2):231-242.
 
+
+Related reading: [Foods to Avoid With Braces: Complete Guide](/article/how-to-braces-food-restrictions.html) and [Rectangular Wires Final Detailing](/article/rectangular-wires-final-detailing.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+J Orthod. 2017;44(1):24-34.
+6. Onyeaso CO, Aderinokun GA. Talk to your dentist about how this applies to your situation. Talk to your dentist about what options work best for your situation.
 
-> **Key Takeaway:** If your orthodontist tells you that you have a bite problem, you might wonder what that really means. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** If your orthodontist tells you that you have a bite problem, you might wonder what that really means.
 
 ## Related Articles
 
@@ -126,5 +131,5 @@ Your dental care is personal, and the best decisions come from understanding you
 
 - [Eating with Braces: Foods to Avoid and Smart Choices](/article/dietary-restrictions-with-braces-foods-to-avoid.html)
 - [The Biology of Orthodontic Tooth Movement -](/article/benefits-of-teeth-movement-process.html)
-- [Coil Spring Mechanics in Orthodontics: Force Delivery,](/article/coil-spring-compression-spring-force.html)
+- [Coil Spring Mechanics in Orthodontics: Force Delivery](/article/coil-spring-compression-spring-force.html)
 

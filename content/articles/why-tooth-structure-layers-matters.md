@@ -28,7 +28,6 @@ references:
   - title: "Dentinoenamel junction: structural integrity and clinical vulnerability"
     url: "https://pubmed.ncbi.nlm.nih.gov/20088652/"
 ---
-
 Your tooth might look solid, but it's actually composed of four distinct layers, each with different properties and functions. Understanding this structure explains why your dentist makes certain treatment recommendations, how decay progresses, why some teeth are more sensitive than others, and how dental treatments protect your tooth's most vital components.
 
 ## Enamel: The Hardest Layer
@@ -124,6 +123,9 @@ This explains why your dentist emphasizes dryness during restoration placement a
 **Preparation location matters**: Cavities on cusp tips (loaded areas) need stronger restorations than cavities on smooth surfaces. Cavities involving multiple surfaces need more structural support than single-surface cavities.
 
 Understanding these factors explains your dentist's recommendation for specific restoration types (filling versus crown) based on cavity depth and location.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

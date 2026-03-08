@@ -29,7 +29,6 @@ reviewer_specialty: Pediatric Dentistry
 slug: night-guard-for-children-protecting-teeth
 title: Night Guard for Children Protecting Teeth
 ---
-
 ## Why Children Grind Their Teeth
 
 If you've heard your child grinding their teeth during sleep, you're not alone—research suggests 15-40% of children grind their teeth at some point. This teeth grinding (called bruxism) is more common in children than adults and usually occurs during deeper sleep stages.

@@ -14,7 +14,6 @@ references:
   - "Cianetti S, Lombardi F, Pagano S, Ballanti F, Guiliano G, Petti S. Dental anxiety in children: prevalence and behavioral management strategies. J Clin Pediatr Dent. 2017;41(2):120-128."
   - "Klingberg G, Broberg AG. Dental fear/anxiety and dental avoidance—a review of prevalence and related psychological factors. J Dent Child (Chic). 2007;74(2):72-80."
 ---
-
 ## How Common Is Dental Anxiety in Kids?
 
 About 10-20% of children experience genuine dental anxiety—they're truly scared of the dentist, not just a little nervous. This ranges from mild (doesn't want to go but gets through the appointment) to severe (refuses to sit in the chair, cries, wants to escape). Dental anxiety is learned behavior, not something kids are born with.
@@ -65,12 +64,6 @@ Preschool children (ages 3-5) have limited abstract reasoning. Short appointment
 
 School-age children (6-12) understand more and can process information better. CBT techniques (coping statements, realistic expectations discussion) work well. Incentive systems—sticker charts, small rewards for cooperation—motivate this age group. Peer reassurance ("other kids do this") leverages social learning.
 
-## Questions to Ask Your Dentist
-
-Does the dentist have experience with anxious children? Do they use tell-show-do technique? What behavior guidance approaches do they recommend for your specific child?
-
-Are they willing to schedule longer appointments for gradual desensitization? Do they offer distraction tools (ceiling TV, headphones)? Do they offer nitrous oxide or sedation? What's their plan if your child isn't cooperating—force through, reschedule, or gradual desensitization?
-
 ## Conclusion
 
 Dental anxiety affects 10-20% of children but is highly treatable. Tell-show-do technique reduces anxiety by familiarizing children with expected sensations. Gradual desensitization across multiple appointments builds confidence and reduces total anxiety compared to rushed full treatment.
@@ -79,7 +72,7 @@ Parental anxiety management and positive home messaging (not saying "don't worry
 
 Talk to your pediatric dentist about creating a behavioral management plan tailored to your child's anxiety level and specific fear triggers.
 
-> **Key Takeaway:** Evidence-based techniques for helping children overcome dental fear and anxiety.
+> **Key Takeaway:** About 10-20% of children experience genuine dental anxiety—they're truly scared of the dentist, not just a little nervous.
 
 ## Related Articles
 

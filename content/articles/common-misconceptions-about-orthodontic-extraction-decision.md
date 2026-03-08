@@ -22,7 +22,6 @@ references:
   - "Jacobs BC. The classification of malocclusions. Am J Orthod. 1972;62(3):242-254."
   - "Popovich F, Thompson GW. Orthodontic treatment, natural smile contours, and posterior vertical dimensions. Angle Orthod. 1977;47(1):75-86."
 ---
-
 ## When and Why Tooth Extraction Might Be Part of Your Orthodontic Plan
 
 If your orthodontist recommends extracting a tooth or two during your treatment, your first reaction might be concern or disappointment. But sometimes removing one or more teeth is the best path to a beautiful, stable, healthy smile. Let's explore when extractions make sense and why your orthodontist might recommend this approach.
@@ -93,7 +92,7 @@ The decision is ultimately yours, and you can choose non-extraction treatment if
 
 Tooth extraction is sometimes the optimal choice in orthodontic treatment, creating space for proper alignment and long-term stability. Extracting one or more teeth doesn't create obvious cosmetic problems—the spaces close completely during treatment. Modern extraction-based treatment doesn't significantly extend your timeline and often produces stable results.
 
-> **Key Takeaway:** Learn why your orthodontist might recommend extracting teeth for treatment and why this is sometimes the best choice for your smile.
+> **Key Takeaway:** If your orthodontist recommends extracting a tooth or two during your treatment, your first reaction might be concern or disappointment.
 
 ## Related Articles
 

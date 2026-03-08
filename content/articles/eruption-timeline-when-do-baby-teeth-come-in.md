@@ -20,7 +20,6 @@ references:
   - "Horton S, Barker J, Daley T, et al. Delayed tooth eruption: pathologic or normal variation? ASDC J Dent Child. 1992;59(5):331-338."
   - "Towers JR. Timing of the eruption of primary teeth. J Dent Res. 1999;78(Suppl):369."
 ---
-
 ## When Baby Teeth Start Developing
 
 Believe it or not, tooth development actually begins before your baby is even born. While your baby is developing in the womb, tooth buds form in the gums. By the time your baby is born, all 20 baby teeth have already started forming, even though you can't see them yet. This early development under the gums is an important part of your baby's growth.
@@ -88,18 +87,16 @@ If your baby hasn't shown any teeth by 18 months, or if you notice something unu
 
 Around age 5 or 6, baby teeth start to get loose as permanent teeth develop underneath and push them out. This process continues through the early teen years. The permanent teeth are larger and sometimes look yellowish compared to baby teeth—this is normal. By age 13, most kids have lost all their baby teeth and have most of their permanent teeth.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about eruption timeline when do baby teeth come in and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-
-For more information, see [Space Maintainers for Children](/article/distal-shoe-maintainer-preventing-molar-shift.html).
+Related reading: [Overcoming Dental Fear in Children](/article/desensitization-gradual-fear-reduction.html).
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Primary tooth eruption follows a relatively predictable timeline beginning around 6 months of age and completing by approximately 30 months, with substantial individual variation remaining normal. If you have questions, your dentist can help you understand your options. The bottom front teeth usually come first, followed by a predictable pattern across the next couple of years. While wide variation in timing is completely normal, if you have concerns about your child's development or notice anything unusual, talk with your pediatrician or dentist. Focus on keeping baby teeth clean from the start to establish good oral health habits that last a lifetime.
 
-> **Key Takeaway:** Your baby's first teeth typically appear around 6 months of age and continue erupting until around age 3, though the timing varies widely for each child. The bottom front teeth usually come first, followed by a predictable pattern across the next couple of years. While wide variation in timing is completely normal, if you have concerns about your child's development or notice anything unusual, talk with your pediatrician or dentist. Focus on keeping baby teeth clean from the start to establish good oral health habits that last a lifetime.
+
+
+> **Key Takeaway:** Believe it or not, tooth development actually begins before your baby is even born.
 
 ## Related Articles
 

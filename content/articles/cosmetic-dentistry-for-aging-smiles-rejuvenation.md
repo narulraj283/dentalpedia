@@ -20,7 +20,6 @@ references:
   - "Grover G, Yadav R, Kumar S. Esthetic rehabilitation of aged patients with anterior tooth wear. J Indian Prosthodont Soc. 2018;18(1):67-73."
   - "Misch CE, Perel ML. Implant suprastructure design. Dent Clin North Am. 2014;48(3):561-573."
 ---
-
 ## The Aging Smile: Common Changes
 
 As we age, our smiles change in predictable ways: teeth become shorter from wear, darker from internal discoloration, and more spread apart. Gum recession exposes darker root surfaces. The overall effect: an aged appearance that doesn't reflect how we feel inside.
@@ -88,23 +87,11 @@ Protect your rejuvenated smile through: excellent home care (brushing twice dail
 
 Composite restorations need touch-up polishing and eventual replacement (every 5-7 years). Porcelain veneers maintain appearance indefinitely but require professional monitoring.
 
-## Questions to Ask Your Dentist Before Smile Rejuvenation
-
-Smile rejuvenation involves multiple treatment phases, so discuss your complete plan before starting. Ask your dentist to explain what specific aging changes they see in your smile: shortened teeth, darkening, gum recession, wear, or spacing changes? Understanding your specific issues helps you focus treatment appropriately. Ask whether they recommend comprehensive treatment all at once, or phased treatment (whitening first, then restorations later). Ask about digital smile design—can they show you what your rejuvenated smile will look like before permanent treatment?
-
-Ask about each recommended component: whitening cost and expected shade improvement, gum surgery cost and recovery, restoration options and longevity of each. Ask for a timeline: how long will treatment take from start to finish? Ask about cost breakdown: what's included, what might cost extra, do they offer payment plans? Ask about maintenance: what professional visits will you need after treatment, and how often should you schedule cleanings? Ask about sensitivity or comfort during treatment. Request before-and-after photos of similar aging smile cases so you can see realistic expectations.
-
 ## Maintenance Plan to Keep Your Rejuvenated Smile Looking Great
 
 Your rejuvenated smile requires ongoing care to maintain those improvements. Professional cleanings every 3-4 months help keep your teeth bright and prevent staining—more frequent than the standard 6-month interval helps significantly. Use a whitening toothpaste 3-4 times weekly to maintain your whitened shade between touch-up treatments. Schedule touch-up whitening every 12-18 months to refresh color that naturally darkens slightly over time. If your restorations are composite bonding, they may need periodic polishing by your dentist to maintain luster and remove stains. Brush twice daily with a soft toothbrush and gentle technique—aggressive brushing can damage both natural teeth and restorations.
 
 Floss daily, being gentle around restorations. Avoid extremely hard foods, ice, and using teeth as tools, which can damage restorations. If you grind your teeth, wear a nightguard protecting your restorations. Limit staining substances like coffee, tea, and red wine, or use a straw to minimize contact. Protect your teeth from trauma with a mouthguard during sports. Consider annual professional polishing to keep everything looking pristine.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about cosmetic dentistry for aging smiles rejuvenation and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 
@@ -114,7 +101,7 @@ Once you've addressed cosmetic dentistry for aging smiles rejuvenation, maintain
 
 Smile rejuvenation successfully addresses aging changes through whitening, tooth lengthening, gum contouring, and restorative enhancement. Results are predictable and satisfying, with 90%+ patient satisfaction. Comprehensive treatment dramatically improves appearance and confidence.
 
-> **Key Takeaway:** Smile rejuvenation combines whitening, lengthening teeth, and gum contouring to create a younger-looking smile that boosts confidence.
+> **Key Takeaway:** As we age, our smiles change in predictable ways: teeth become shorter from wear, darker from internal discoloration, and more spread apart.
 
 ## Related Articles
 

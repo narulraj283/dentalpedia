@@ -22,7 +22,6 @@ references:
   - "Renton T, Smeeton N, McGurk M. Nerve and bone injury in third molar surgery: incidence, severity, and shortterm sequelae. Br J Oral Maxillofac Surg. 2012;50(4):293-299."
   - "Alexander RE. Dental extraction wound healing: a clinical perspective. J Can Dent Assoc. 2000;66(4):200-206."
 ---
-
 Most tooth extractions go smoothly, but complications can occur. Understanding what complications cost and how to prevent them helps you make informed decisions about extraction versus saving teeth. It's also important to know that specialist expertise significantly reduces complications.
 
 ## Dry Socket (Alveolar Osteitis)
@@ -83,7 +82,7 @@ While most extractions proceed without complications, 2% to 5% of routine extrac
 
 Osteonecrosis from medications is preventable through preoperative medication holidays. Specialist oral surgery care, while costing $500 to $1,500 more upfront, prevents thousands in complication management. Comparing extraction to tooth preservation, endodontic therapy costs less lifetime ($1,500) versus extraction pathway ($5,300) including complications and replacement. Talk to your dentist about whether your tooth can be saved or if extraction is necessary, considering both immediate and lifetime costs of your individual situation.
 
-> **Key Takeaway:** Learn about possible complications from tooth extraction and what they cost to treat. Understand prevention strategies and why specialist care saves money.
+> **Key Takeaway:** Most tooth extractions go smoothly, but complications can occur.
 
 ## Related Articles
 

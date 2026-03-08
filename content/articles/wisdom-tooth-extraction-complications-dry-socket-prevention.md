@@ -32,7 +32,6 @@ references:
   - title: "Intra-alveolar antimicrobial agents and hemostatic dressings in socket management"
     url: "https://pubmed.ncbi.nlm.nih.gov/18019168/"
 ---
-
 If your dentist just told you that dry socket is possible after your wisdom tooth extraction, you might be worried — but take a breath. Most people recover without complications, and knowing what to watch for puts you ahead of the game. Dry socket (a condition dentists call alveolar osteitis) happens to only about 5 in 100 people, and the good news is it's almost entirely preventable with smart recovery habits. The difference between healing smoothly and developing dry socket often comes down to a few simple choices you make in the first week after surgery. Understanding what dry socket is, why it happens, and how to avoid it will give you the confidence and knowledge to protect your recovery.
 
 ## Understanding Dry Socket: What Actually Happens

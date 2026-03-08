@@ -19,7 +19,6 @@ subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
 title: Sedation Monitoring - How Dentists Keep You Safe
 ---
-
 ## Why Monitoring Is Essential During Sedation
 
 When you receive dental sedation, your dentist needs to continuously watch your vital signs—your heart rate, breathing, oxygen level, and blood pressure. This monitoring ensures they spot any problems early and can respond quickly if something unexpected happens.
@@ -85,14 +84,6 @@ Even though you're sedated, you can usually respond if the dentist speaks to you
 With modern sedation and continuous monitoring, serious complications are extremely rare. The monitoring systems are specifically designed to prevent problems or catch them early before they become serious.
 
 Your risk of complications from sedation is much lower than your risk from untreated dental disease like abscesses or serious infections.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about sedation monitoring - how dentists keep you safe and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

@@ -43,7 +43,6 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: Risk and Concerns with Enamel Erosion Repair
 ---
-
 ## Understanding Tooth Enamel and Why It Matters
 
 Your tooth enamel is the hardest substance in your entire body, stronger than bone. But here's the problem: once you lose enamel, it never comes back. Your body can't repair or regenerate enamel the way it can repair a broken bone.

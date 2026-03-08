@@ -28,7 +28,6 @@ references:
   - title: "Chandra S, Marya CM, Kumra P. Antimicrobial activity of calcium hydroxide against primary endodontic pathogens. Journal of Clinical Pediatric Dentistry. 2010;34(3):223-227."
     url: https://pubmed.ncbi.nlm.nih.gov/20578660
 ---
-
 ## Why Are Your Exposed Tooth Roots So Vulnerable?
 
 If your gums have receded and you can see the root portions of your teeth, you've discovered a dental vulnerability you might not have realized. Your tooth root is covered with a material called cementum, which is much softer and more easily damaged than the enamel that covers the crown of your tooth. Think of it like this: your tooth crown is protected by a hard coating (enamel), but once your gums recede and expose the root, that protective coating is gone.

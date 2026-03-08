@@ -43,7 +43,6 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: How Fast Do Teeth Move? Patient Timeline Guide
 ---
-
 ## What to Expect: Realistic Treatment Timelines
 
 One of the first questions patients ask when starting braces is: "How long will this take?" The answer depends on what your orthodontist needs to fix. Here's what you should expect for common situations.
@@ -92,28 +91,17 @@ If your calculated timeline seems too long, you have options, though they involv
 
 **Surgical corticotomy** involves more extensive surgical bone work and can accelerate movement 2-3 times faster, potentially reducing treatment by 6-12 months. However, this involves general anesthesia, post-operative pain and swelling for 1-2 weeks, and infection risk. It costs $3,000-6,000 and is typically reserved for severe cases requiring 3+ years of conventional treatment.
 
-## Questions to Ask Your Orthodontist
-
-Before starting treatment, ask your orthodontist these specific questions:
-
-1. How long does treatment typically take for my specific problem?
-2. What sequence of treatment phases will happen?
-3. What is MY predicted timeline based on my bone characteristics, age, and health?
-4.
-
-What factors would extend my treatment beyond the prediction?
-5. Should I consider accelerated techniques for my case?
-6. How often will I have appointments, and how important is consistency?
-7. What appliance care instructions are most critical?
-8. How will my oral hygiene directly affect my timeline?
-
-Remember: treatment duration reflects the biological time your body needs to safely remodel bone and move your teeth. While acceleration techniques exist, they can't overcome fundamental biology. The fastest treatment comes from YOUR excellent compliance with hygiene, appliance wear, and regular appointments. Learn more about [Food Restrictions During Braces](/article/best-practices-for-braces-food-restrictions.html) to protect your appliances and keep your timeline on track.
-
 ## Tips for Long-Term Success
 
 Maintaining good results after dental treatment requires consistent care at home and regular professional check-ups. Brushing twice daily with a fluoride toothpaste and flossing at least once a day forms the foundation of good oral hygiene. These simple habits go a long way toward protecting your investment in your dental health and preventing future problems.
 
 Your dentist may recommend additional steps specific to your situation, such as using a special rinse, wearing a nightguard, or adjusting your diet. Following these personalized recommendations can make a significant difference in how well your results hold up over time. Scheduling regular dental visits allows your dentist to catch any developing issues early, when they are easiest and least expensive to address.
+
+
+Related reading: [Deep Bite Correction](/article/deep-bite-correction-overlapping-front-teeth.html).
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

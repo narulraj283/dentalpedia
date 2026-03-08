@@ -30,7 +30,6 @@ references:
   - title: "Material Selection and Clinical Success: Direct vs Indirect Minimal Prep Restorations"
     url: https://pubmed.ncbi.nlm.nih.gov/25509812
 ---
-
 ## Understanding Ultra-Thin Veneers
 
 If you're considering a smile makeover, you've probably heard about veneers. But did you know there are different types, and some preserve much more of your natural tooth than others? Ultra-thin veneers, also called minimal-prep or no-prep veneers, are a game-changer for patients who want a beautiful smile while keeping as much of their original tooth structure as possible. These incredibly thin restorations—sometimes less than half a millimeter thick—can transform your appearance while being surprisingly conservative with your natural teeth.

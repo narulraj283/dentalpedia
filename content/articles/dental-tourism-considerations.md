@@ -20,7 +20,6 @@ references:
   - "Bhattacharyya C, Ray S. Patient satisfaction and safety in medical tourism. Int J Health Care Qual Assur. 2020;33(2):181-198."
   - "Thomas HF, Carrera JM. Quality of care in international dental treatment. Compend Contin Educ Dent. 2019;40(8):e1-e10."
 ---
-
 ## Why Dental Tourism Exists
 
 Dental treatment in Mexico, Costa Rica, Hungary, and other countries costs 30-70% less than equivalent treatment in the United States. Complete mouth rehabilitation costing $15,000-25,000 in the US might cost $5,000-10,000 internationally. This cost difference creates financial incentive, particularly for uninsured patients.
@@ -107,13 +106,16 @@ Medication management requires advance planning. Obtain prescriptions for pain m
 
 Arrange travel insurance that covers medical emergencies (though it may not cover your planned dental treatment). Finally, establish continuity by scheduling a post-operative appointment with your home dentist within one week of returning home. Bring all treatment documentation—radiographs, invoices, implant system information—to your domestic dentist's appointment. This documentation proves invaluable if complications develop and helps your home dentist understand exactly what was done so they can provide appropriate follow-up care.
 
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
 Dental tourism offers potential cost savings for carefully selected patients and treatments. Substantial risks relate to practitioner credentialing, facility standards, and postoperative care coordination at distance. Thorough practitioner evaluation, facility assessment, and treatment-specific risk analysis are essential.
 
 Communication with your home dentist and coordinated postoperative monitoring mitigate complications. Treatment selection should prioritize cases with high success rates and minimal complication management requirements at distance. Uninsured patients facing major treatment should explore cost-saving options, but international treatment requires careful deliberation about risks versus benefits.
 
-> **Key Takeaway:** Understanding costs, quality assurance, and follow-up care coordination for international dental treatment.
+> **Key Takeaway:** Dental treatment in Mexico, Costa Rica, Hungary, and other countries costs 30-70% less than equivalent treatment in the United States.
 
 ## Related Articles
 

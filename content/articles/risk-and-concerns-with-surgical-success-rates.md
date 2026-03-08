@@ -48,7 +48,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Risk and Concerns with Surgical Success Rates
 ---
-
 ## What Does "Success Rate" Really Mean?
 
 You've probably heard your dentist mention success rates before a surgical procedure. Maybe they said something like "95% success rate" and you felt reassured—or confused about what that actually means for *your* tooth. Here's the thing: success rates look simple on paper, but they're complicated in real life. Two dentists might quote the exact same procedure with very different success rates, and both could be completely accurate. That's because they're measuring different things.
@@ -116,6 +115,9 @@ For some conditions, non-surgical options work well. Your dentist should explain
 ## Short-Term Success Versus Long-Term Success
 
 A tooth might look successful immediately after surgery but develop problems years later. Modern implant success means the implant is functioning 10+ years after placement, not just that it survived the first year. Ask your dentist about long-term success rates, not just immediate outcomes.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

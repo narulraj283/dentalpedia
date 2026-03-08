@@ -32,7 +32,6 @@ references:
   - title: "Stoltze K, Bay L, Holmstrup P. Gingival recession and subsequent tooth mobility associated with aggressive toothbrushing. Journal of Periodontology. 1992;63(11):920-924."
     url: https://pubmed.ncbi.nlm.nih.gov/1474471
 ---
-
 ## Brushing Technique: How to Protect Your Teeth From Damage
 
 You've been brushing your teeth since childhood, so you probably think you know how to do it right. But improper brushing technique actually causes significant damage—gum recession, tooth wear, and cervical lesions. Many people brush too hard or use the wrong motions, damaging teeth and gums over decades. Learning proper technique can prevent these problems while actually cleaning your teeth more effectively than aggressive brushing.
@@ -88,14 +87,6 @@ If you've been brushing aggressively your whole life, changing technique require
 If you already have gum recession, you need to be extra careful. Brush even more gently—very light pressure. Use a soft brush around recession areas. You're protecting already-damaged tissue that can't afford more trauma.
 
 Similarly, if you have aggressive periodontitis, your gum attachment is compromised. Extra-gentle technique is essential to avoid accelerating problems.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about risk and concerns with teeth brushing technique and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

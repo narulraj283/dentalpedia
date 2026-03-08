@@ -20,7 +20,6 @@ references:
   - "Waerhaug J, Heloe LA. Effect on the gingiva of restorations with margins at and below the cemento-enamel junction. J Clin Periodontol. 1977;4(1):12-21."
   - "Sorensen BD. Periodontal considerations of crown and bridge design. In: Clark JW, ed. Clinical Dentistry. Harper & Row; 1986:1-14."
 ---
-
 When your dentist recommends a crown, they'll have to decide where the edge of the crown will sit relative to your gum line. This decision—whether to place the edge above your gum (supragingival), at your gum line, or below your gum (subgingival)—affects how long your crown lasts and how healthy your gum stays. Let's explore the pros and cons of each approach.
 
 ## Supragingival Margins: Above the Gum Line
@@ -81,7 +80,7 @@ These statistics are important. They show that supragingival margins are genuine
 
 Crown margin positioning is a critical decision that impacts both esthetics and long-term health. Supragingival margins above your gum line offer superior periodontal health, easier cleaning, and lower cavity risk. Subgingival margins below your gum line provide cosmetic benefit but require excellent home care and frequent professional maintenance. Your dentist will recommend the best positioning based on your specific situation and goals.
 
-> **Key Takeaway:** When your dentist recommends a crown, they'll have to decide where the edge of the crown will sit relative to your gum line.
+> **Key Takeaway:** This decision—whether to place the edge above your gum (supragingival), at your gum line, or below your gum (subgingival)—affects how long your crown lasts and how healthy your gum stays. Let's explore the pros and cons of each approach.
 
 ## Related Articles
 
@@ -89,5 +88,5 @@ Crown margin positioning is a critical decision that impacts both esthetics and 
 - [Dental Insurance Coverage Types and What's Included](/article/dental-insurance-coverage-types-and-whats-included.html)
 - [Common Misconceptions About Tooth Restoration](/article/common-misconceptions-about-tooth-restoration-comparison.html)
 - [Cavity Diagnosis Process: Complete Clinical Guide](/article/cavity-diagnosis-process-complete-guide.html)
-- [Biocompatible Material Selection in Dentistry: Safety,](/article/biocompatible-material-selection.html)
+- [Biocompatible Material Selection in Dentistry](/article/biocompatible-material-selection.html)
 

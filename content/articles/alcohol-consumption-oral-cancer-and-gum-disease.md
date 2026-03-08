@@ -20,18 +20,17 @@ references:
   - "Mayne ST, Cartmel B. Alcohol and tobacco in oral cancer. Semin Oncol. 1994;21(4):494-499."
   - "Field JK, Warnakulasuriya S. Oral cancer screening in the UK. Curr Opin Oncol. 2012;24(6):560-565."
 ---
-
 ## How Alcohol Increases Oral Cancer Risk
 
 Heavy drinking significantly raises your risk of developing cancer in your mouth and throat. When you drink alcohol, your body breaks it down into a chemical called acetaldehyde, which is known to cause cancer. This isn't the same as having a glass of wine with dinner—we're talking about regular, heavy consumption. Research shows that people who drink more than 4-5 drinks daily have about 3 times the risk of oral cancer compared to non-drinkers.
 
-People who drink even more have an even higher risk. The scary part is that when you combine heavy drinking with smoking, your cancer risk jumps dramatically—up to 15-20 times higher than someone who does neither. These two habits together are far more dangerous than either one alone. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+People who drink even more have an even higher risk. The scary part is that when you combine heavy drinking with smoking, your cancer risk jumps dramatically—up to 15-20 times higher than someone who does neither. These two habits together are far more dangerous than either one alone.
 
 ## Where Oral Cancer Develops
 
 Not all parts of your mouth are equally at risk. Certain spots are particularly vulnerable to cancer from alcohol use. The floor of your mouth—the area under your tongue—is the most common place for alcohol-related cancers. The sides of your tongue are also frequent trouble spots.
 
-The soft area toward the back of your mouth (soft palate) and the areas near your tonsils are other danger zones. These spots are more vulnerable because they have thinner tissues and absorb alcohol more easily. When alcohol pools in these areas while you're drinking, it can damage the cells over time. The good news is that knowing which areas are at risk helps your dentist focus on careful screening during your checkups. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+The soft area toward the back of your mouth (soft palate) and the areas near your tonsils are other danger zones. These spots are more vulnerable because they have thinner tissues and absorb alcohol more easily. When alcohol pools in these areas while you're drinking, it can damage the cells over time. The good news is that knowing which areas are at risk helps your dentist focus on careful screening during your checkups.
 
 ## What Happens Inside Your Body
 
@@ -73,11 +72,15 @@ If your dentist finds anything concerning, don't panic, but do take it seriously
 
 Some cancers can be treated with surgery or radiation alone, while others need a combination of treatments. The key is getting answers quickly and working with your medical team. Don't delay getting a biopsy or second opinion because you're scared—delays make things worse. Your dentist can also help coordinate care with your other doctors and discuss the connection between your drinking and your cancer risk in a supportive, non-judgmental way.
 
+
+Related reading: [Cost of Mouthwash Selection](/article/cost-of-mouthwash-selection.html) and [How Often Should You Visit the Dentist? Your Guide](/article/dental-visit-frequency-complete-guide.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about alcohol consumption and oral cancer risk or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Heavy drinking significantly raises your risk of developing cancer in your mouth and throat. Your dentist can help you understand what steps are right for your specific needs.
+
+> **Key Takeaway:** Heavy drinking significantly raises your risk of developing cancer in your mouth and throat.
 
 ## Related Articles
 

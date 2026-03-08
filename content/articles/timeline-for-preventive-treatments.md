@@ -32,70 +32,33 @@ references:
   - title: "Thornton JB, Hennon DK. Pediatric dental prevention and behavioral management. Dent Clin North Am. 2005;49(4):647-660."
     url: https://pubmed.ncbi.nlm.nih.gov/16051375
 ---
-
 ## Keeping Your Teeth Healthy Through Preventive Care
 
 Preventing tooth problems is much better than fixing them after they happen. Instead of waiting for cavities and gum disease to develop, your dentist can use proven treatments to stop problems before they start. Some people need dental visits every 6 months, but others who are lower risk can wait longer. This guide explains the different preventive treatments available and how often you should get them based on your individual risk factors.
 
-## Professional Prophylaxis (Cleaning)
+## Professional Cleaning
 
-### Indications and Frequency
+**Low-Risk Patients (good hygiene, no cavities, healthy gums):**
+Come once a year. Your good home care works well.
 
-**Low-Risk Patients:**
-Patients demonstrating excellent oral hygiene, no active caries, minimal plaque accumulation, and healthy periodontal status.
+**Moderate-Risk Patients (some problems controlled, occasional plaque, gum issues):**
+Come every 6 months. Your dentist helps prevent disease.
 
-**Frequency:** Once annually (12-month intervals)
+**High-Risk Patients (active cavities, gum disease, poor cleaning at home):**
+Come every 3-4 months. More frequent visits manage active disease.
 
-**Rationale:** These patients demonstrate effective self-care and minimal disease progression. Annual professional assessment and cleaning sufficient to maintain oral health.
+### What Happens During Cleaning
 
-**Moderate-Risk Patients:**
-Patients with some risk factors including:
-- Occasional plaque accumulation
-- Early signs of gingival inflammation
-- History of caries or periodontal disease (now controlled)
-- Lifestyle factors compromising daily care (stress, depression)
+Your dental hygienist uses ultrasonic tools that vibrate to remove tartar above and below your gum line. They polish your teeth to remove stains and plaque. They may rinse your pockets with antimicrobial solution. They floss between your teeth where you can't reach.
 
-**Frequency:** Semi-annually (6-month intervals)
+## Fluoride Varnish
 
-**Rationale:** More frequent professional intervention supports disease prevention and allows early identification of disease activity.
+Your dentist applies a strong fluoride varnish to protect your teeth. Learn more about [Common Misconceptions About Preventive](/article/common-misconceptions-about-preventive-treatments.html) for additional guidance.
 
-**High-Risk Patients:**
-Patients with multiple risk factors including:
-- Active caries (cavitated lesions requiring restoration)
-- Significant plaque accumulation despite patient education
-- Periodontal disease (gingivitis or periodontitis)
-- Poor oral hygiene compliance
-- Xerostomia
-- Immunosuppression
-- Systemic disease affecting healing
+**How It Works:**
+Fluoride hardens teeth and stops early cavities (white spots). It reduces bacteria that make acid.
 
-**Frequency:** Every 3-4 months (quarterly intervals)
-
-**Rationale:** Frequent professional intervention manages active disease and prevents disease progression.
-
-### Clinical Technique
-
-**Ultrasonic Scaling:**
-Uses sonic vibrations (30,000 cycles per minute) to disrupt and remove supragingival and subgingival calculus. Superior to hand instrumentation for efficiency and patient comfort.
-
-**Polishing:**
-Removal of stains and plaque using rotating brush and polishing paste containing mild abrasive.
-
-**Subgingival Irrigation:**
-Antimicrobial irrigation (0.12% chlorhexidine) of periodontal pockets reduces subgingival bacteria and may reduce bleeding.
-
-**Flossing:**
-Professional flossing removes interproximal plaque inaccessible to patient self-care.
-
-## Fluoride Varnish Application
-
-### Mechanism of Action
-
-Fluoride ions inhibit demineralization and enhance remineralization of early carious lesions (white spot lesions). Learn more about [Common Misconceptions About Preventive](/article/common-misconceptions-about-preventive-treatments.html) for additional guidance. Fluoride also reduces bacterial acid production by inhibiting glycolytic enzymes.
-
-**Varnish Concentration:** 22,600 ppm fluoride ion (typical concentration)
-
-**Formulation:** Resinous or sticky base allowing prolonged tooth contact and sustained fluoride release.
+**Strength:** Professional varnish has 22,600 ppm fluoride (much stronger than toothpaste).
 
 ### Indications
 

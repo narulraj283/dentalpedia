@@ -22,12 +22,11 @@ references:
   - "Jemt T, Lekholm U. Implant treatment in edentulous patients: a 5-year follow-up report on bridges supported by osseointegrated implants. Clin Oral Implants Res. 1996;7(4):313-322."
   - "Al-Quran FA, Kiliaridis S, Eklund K. Anterior open bite and temporomandibular disorders: a 20-year follow-up orthodontic study, part I. Angle Orthod. 2009;79(6):1063-1073."
 ---
-
 ## What Is a Dental Bridge?
 
-A dental bridge is a way to replace one or more missing teeth. It's basically a false tooth (called a pontic) held in place by crowns that attach to your natural teeth on both sides. Think of it like a bridge structure—your natural teeth act as anchors on each end, and the artificial tooth spans across the gap. How this false tooth is designed really matters for your long-term success with the bridge. For more details, see our guide on [All-on-Four Implants](/article/all-on-four-implants-fixed-restoration-for-full-mouth.html).
+A dental bridge is a way to replace one or more missing teeth. It's basically a false tooth (called a pontic) held in place by crowns that attach to your natural teeth on both sides. Think of it like a bridge structure—your natural teeth act as anchors on each end, and the artificial tooth spans across the gap. How this false tooth is designed really matters for your long-term success with the bridge.
 
-The way your dentist designs the pontic affects whether you'll develop cavities, gum disease, and how long your bridge will last. Good design means your bridge could last 10+ years. Poor design might mean bacteria builds up around the bridge, causing cavities on the supporting teeth—which would be ironic since you're trying to fix a missing tooth problem. Your supporting teeth are the most likely thing to fail, not the bridge itself. For more details, see our guide on [Anterior Posterior Palatal Seal](/article/anterior-posterior-palatal-seal-denture-sealing.html).
+The way your dentist designs the pontic affects whether you'll develop cavities, gum disease, and how long your bridge will last. Good design means your bridge could last 10+ years. Poor design might mean bacteria builds up around the bridge, causing cavities on the supporting teeth—which would be ironic since you're trying to fix a missing tooth problem. Your supporting teeth are the most likely thing to fail, not the bridge itself.
 
 ## Different Pontic Designs
 
@@ -111,17 +110,14 @@ Newer approaches include: **CAD/CAM technology** that mills bridges with precisi
 
 Some dentists now use **digital shade matching** to ensure your bridge exactly matches your adjacent teeth under all lighting conditions, not just office lighting.
 
-## Questions to Ask Your Dentist
-
-Before committing to a bridge, ask: What pontic design do you recommend for my situation and why? What's the realistic lifespan of your bridges in your practice? What's your failure rate? What happens if the bridge fails?
-
-How much will a replacement cost? Do I need bone grafting? What materials do you recommend for my specific tooth and why? How often should I see you for monitoring? What are the alternatives and how do they compare?
-
 ## Comparing Bridges to Other Options
 
 You might hear about dental implants as an alternative. Implants are really successful (95%+ survival), but they take 6-9 months to place and cost 3-4 times more than a bridge. They also don't require your neighboring teeth to be crowned, which some patients prefer. If you're missing multiple teeth, you might consider a removable partial denture (like a removable bridge), but it's harder to keep clean and affects chewing ability.
 
 Another emerging option is **adhesive bridges** (resin-bonded bridges) that require minimal tooth preparation. These work well for selected cases with 80-85% success rates over 5 years, though success rates drop after 15 years.
+
+
+Related reading: [Temporary Crowns Protecting Teeth During Multi-Visit](/article/temporary-crown-protecting-tooth-during-treatment.html) and [Why Tooth Restoration Comparison Matters](/article/why-tooth-restoration-comparison-matters.html).
 
 ## Conclusion
 

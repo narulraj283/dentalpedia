@@ -44,7 +44,6 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Risk and Concerns with Orthodontic Compliance
 ---
-
 ## How Your Behavior Determines Braces Success
 
 Your orthodontist puts the braces on your teeth, but you determine whether they work. Your treatment outcome depends on what YOU do, not just on the braces. This is hard for many patients to understand, but it's absolutely true. You need to wear your elastics, maintain excellent oral hygiene, follow dietary restrictions, and eventually wear your retainer. This guide explains why each one matters.

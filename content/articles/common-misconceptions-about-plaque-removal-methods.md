@@ -22,7 +22,6 @@ references:
   - "Kinane DF, Stathopoulou PG, Papapanou PN. Periodontal diseases. Nat Rev Dis Primers. 2017;3:17066."
   - "Listgarten MA. Pathogenesis of periodontitis. J Clin Periodontol. 1986;13(5):418-430."
 ---
-
 ## Removing Plaque: Which Methods Actually Work
 
 You've probably heard about endless tools and techniques for removing plaque from your teeth. Some are genuinely helpful, others are hype. Let's sort through the claims and find out which plaque removal methods actually make a difference for your oral health.
@@ -91,7 +90,7 @@ Think of professional cleaning like getting your car professionally detailed—i
 
 Effective plaque removal combines daily mechanical cleaning (brushing and flossing with appropriate tools for your spacing) with professional dental cleanings. String floss and interdental brushes provide superior plaque removal to water flossing, though water flossing is helpful for people with dexterity limitations or braces. Consistency matters far more than which specific tool you choose.
 
-> **Key Takeaway:** Learn which plaque removal methods actually work and which are worth skipping to save time and money.
+> **Key Takeaway:** You've probably heard about endless tools and techniques for removing plaque from your teeth.
 
 ## Related Articles
 

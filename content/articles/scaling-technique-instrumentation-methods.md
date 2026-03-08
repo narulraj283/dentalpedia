@@ -42,7 +42,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Scaling Technique Instrumentation Methods
 ---
-
 ## Understanding the Tools Your Hygienist Uses
 
 When you get a deep cleaning (scaling and root planing), your hygienist might use hand instruments, ultrasonic scalers, or a combination. Understanding what these tools do and why different instruments are used helps you appreciate the skill involved in professional cleaning.

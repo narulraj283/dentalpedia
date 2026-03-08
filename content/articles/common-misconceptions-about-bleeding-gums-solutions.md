@@ -20,7 +20,6 @@ references:
   - "Loe H, et al. The gingival index, the plaque index and the retention index systems. J Periodontol. 1967;38(6):610-616."
   - "Tanner AC, et al. Periodontal microbiology and immunopathogenesis. Periodontol 2000. 2006;40:88-110."
 ---
-
 ## Understanding Bleeding Gums
 
 Bleeding gums are common—about 40-50% of adults experience bleeding gums sometimes. Bleeding gums indicate inflammation, but the cause and severity vary. Some bleeding gums result from simple gingivitis (inflammation) that you can fix with better home care. Other bleeding gums indicate periodontitis (gum disease involving bone loss) that needs professional treatment.
@@ -85,7 +84,7 @@ Beyond daily care, lifestyle factors support gum health: manage stress (stress i
 
 Bleeding gums indicate inflammation, but whether that inflammation is simple gingivitis or serious periodontitis determines treatment. Simple gingivitis often improves with better home care. Periodontitis requires professional treatment plus home care. Your dentist evaluates which you have and recommends appropriate treatment.
 
-> **Key Takeaway:** Bleeding gums are common—about 40-50% of adults experience bleeding gums sometimes.
+> **Key Takeaway:** Bleeding gums indicate inflammation, but the cause and severity vary. Some bleeding gums result from simple gingivitis (inflammation) that you can fix with better home care.
 
 ## Related Articles
 
@@ -93,5 +92,5 @@ Bleeding gums indicate inflammation, but whether that inflammation is simple gin
 - [Professional Fluoride Treatments for Dentin](/article/fluoride-treatments-for-sensitivity.html)
 - [Guide Plane: Denture Path Preparation in Removable](/article/guide-plane-denture-path-preparation.html)
 - [How Often Should You Visit the Dentist? A Guide](/article/dental-checkup-frequency-how-often-should-you-visit.html)
-- [Cognitive Decline and Oral Care: Clinical Challenges,](/article/cognitive-decline-oral-care-challenges.html)
+- [Cognitive Decline and Oral Care: Clinical Challenges](/article/cognitive-decline-oral-care-challenges.html)
 

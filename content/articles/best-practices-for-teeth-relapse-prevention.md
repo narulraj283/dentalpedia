@@ -20,7 +20,6 @@ references:
   - "Garib DG, Henriques JFC, Janson G, de Freitas MR, Fernandes AY. Periodontal rather than vestibular position of incisors predicts long-term stability of surgical-orthodontic correction. J Dent Res. 2010;89(10):1060-1064."
   - "Kucukkeles N, Acar A, Enacar A, El-Hadary A, Huang GJ. Interrelations between orthodontic treatment outcomes and periodontal health: a retrospective study. Am J Orthod Dentofacial Orthop. 2005;128(4):413-417."
 ---
-
 ## Keeping Your Teeth Straight After Braces Come Off
 
 When your braces come off, it feels like you're done. But here's the truth: the hardest part is actually maintaining those results. Teeth have a powerful "memory" and want to move back to their original positions. Understanding relapse—how teeth drift back—and following a solid retention plan is what separates people who keep their great smile for life from those who watch it slowly disappear.

@@ -20,7 +20,6 @@ references:
   - "Espinoza L, Zaitlen D. Medicaid and CHIP Payment and Access Commission Report. Washington, DC: MACPAC; 2023."
   - "Orsi E. Out-of-Pocket Spending on Dental Care in the United States. Center for Health Research; 2022."
 ---
-
 ## Understanding Your Three Coverage Levels
 
 Most dental insurance plans organize benefits into three tiers, with each tier covering different procedures at different percentages. Here's what you need to know about each.
@@ -87,7 +86,7 @@ Medicaid is important to know about if you qualify. It covers preventive service
 
 Dental insurance rewards you most for preventive care—get those cleanings and checkups because they're heavily covered and prevent expensive problems later. Basic work is partially covered, and major work requires your significant contribution. Understanding your deductible, annual maximum, and what's covered helps you plan treatments strategically and avoid surprises. Pre-authorization on expensive procedures protects you financially. Work with both your dentist and insurance company to maximize your benefits and make informed decisions about your dental care.
 
-> **Key Takeaway:** Understanding preventive, basic, and major dental coverage tiers to maximize your insurance benefits and plan oral health strategically.
+> **Key Takeaway:** Most dental insurance plans organize benefits into three tiers, with each tier covering different procedures at different percentages.
 
 ## Related Articles
 

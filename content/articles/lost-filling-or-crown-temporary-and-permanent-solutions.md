@@ -32,7 +32,6 @@ references:
   - title: "Longevity of Composite Resin Versus Amalgam Restorations in Posterior Teeth"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25634795
 ---
-
 ## Don't Panic—This Is Fixable
 
 Losing a filling or crown creates immediate worry, but it's completely manageable. Your tooth isn't ruined, and you have several options for repair. What matters most is protecting your exposed tooth until you can get it permanently fixed. Getting quick professional care prevents infection, reduces discomfort, and keeps your tooth viable for a long-term solution.
@@ -99,9 +98,11 @@ Getting quick treatment when you first lose a restoration reduces the chances of
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Lost restorations demand prompt evaluation and temporary stabilization to prevent pulpal compromise and patient symptom progression. Definitive restoration selection should be guided by remaining tooth structure adequacy, endodontic status, caries risk assessment, and long-term tooth prognosis. If you have questions, your dentist can help you understand your options. Temporary filling materials or cement can provide relief until you see your dentist. Your permanent solution depends on how much tooth structure remains—might be a new filling, crown, or other restoration. Protecting your new restoration with careful eating habits and excellent home care helps it last many years.
 
-> **Key Takeaway:** A lost filling or crown needs prompt professional attention to prevent tooth damage and infection. Temporary filling materials or cement can provide relief until you see your dentist. Your permanent solution depends on how much tooth structure remains—might be a new filling, crown, or other restoration. Protecting your new restoration with careful eating habits and excellent home care helps it last many years.
+
+
+> **Key Takeaway:** Losing a filling or crown is stressful but manageable. Get immediate relief and understand your options for permanent repair to protect your tooth.
 
 ## Related Articles
 

@@ -30,7 +30,6 @@ subcategory: Cosmetic Dentistry
 subcategory_slug: overview-cosmetic
 title: Old Restoration Replacement Cosmetic and Functional Upgrade
 ---
-
 That dark silver filling you got 20 years ago looked normal at the time, but now it's embarrassing. Or your old white filling is stained yellow and chipped. The good news: modern dentistry can replace old restorations with materials that look natural, function better, and last longer. Upgrading old fillings and crowns isn't just about vanity—it's often about preventing new decay and protecting your teeth for the long term.
 
 ## Why Old Fillings Start Failing
@@ -62,14 +61,6 @@ Your new restorations will last longer if you protect them: brush and floss dail
 ## Investing in Your Smile
 
 Single composite fillings are reasonably affordable. Ceramic crowns or veneers cost more but last much longer and look more beautiful. Many people find the investment worthwhile for the combination of better appearance, improved function, and years of longevity. If budget is a concern, your dentist might suggest replacing your most visible restorations first, then addressing others gradually.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about old restoration replacement—cosmetic and functional... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

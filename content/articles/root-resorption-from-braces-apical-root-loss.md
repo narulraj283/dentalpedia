@@ -41,7 +41,6 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Orthodontic Root Resorption - Minimizing Apical
 ---
-
 ## What Is Orthodontic Root Resorption?
 
 When your orthodontist applies braces to move your teeth, your teeth's roots can actually get shorter. This is called orthodontic-induced root resorption (OIRR). It happens because the pressure from your braces triggers your body's cells to start dissolving the tips of your tooth roots. Almost everyone wearing braces experiences some root shortening—about 15-25% of people develop noticeable shortening of more than 3mm.
@@ -104,15 +103,8 @@ Once your braces are removed, resorption stops almost completely. You'll need a 
 
 Teeth with some root shortening should be monitored periodically with check-ups and occasional X-rays, but most people never have any problems from the root loss that occurred during braces.
 
-## Questions to Ask Your Orthodontist
 
-Before you start braces, ask your orthodontist:
-
-- Will you monitor my roots with X-rays during treatment?
-- What's your light force philosophy?
-- If X-rays show significant resorption, what modifications would you make?
-- Do I have any risk factors (like previous trauma) that increase my resorption risk?
-- How long will my treatment take?
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

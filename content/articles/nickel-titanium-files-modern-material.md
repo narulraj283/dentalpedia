@@ -29,7 +29,6 @@ reviewer_specialty: Endodontics
 slug: nickel-titanium-files-modern-material
 title: Nickel Titanium Files Modern Material
 ---
-
 ## What's Special About Modern Root Canal Files
 
 When you need a root canal, your endodontist uses specialized files to clean and shape the inside of your tooth. Modern files are made from a special metal alloy called nickel-titanium (often abbreviated as NiTi) that has unique properties no other material possesses. These files represent one of the biggest advances in root canal treatment over the past few decades, making the procedure faster, safer, and more effective.

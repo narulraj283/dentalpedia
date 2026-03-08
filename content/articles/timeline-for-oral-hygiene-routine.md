@@ -61,7 +61,6 @@ subcategory: Brushing, Flossing & Hygiene
 subcategory_slug: brushing-flossing
 title: 'Timeline for Oral Hygiene Routine: Optimal Sequence'
 ---
-
 ## Introduction
 
 Think you just need to brush your teeth and go? Think again. The order in which you do your oral hygiene routine, how long you spend on it, and how you time different products actually makes a big difference in how well you're cleaning your teeth. Doing things in the right sequence can improve plaque removal by up to 28% compared to doing them in the wrong order.

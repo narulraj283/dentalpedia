@@ -32,7 +32,6 @@ references:
   - title: "Sectioning strategies and atraumatic extraction of multi-rooted teeth"
     url: https://www.ncbi.nlm.nih.gov/pubmed/17092344
 ---
-
 Sometimes teeth can't be removed with simple pliers-like forceps. They need surgical extraction—which sounds scary but is actually a routine procedure. Whether your tooth is trapped in bone, severely decayed, broken below the gum line, or compromised by gum disease, surgical extraction is performed every day by dentists and oral surgeons. Understanding when surgical removal is necessary and what to expect helps you feel confident about your treatment plan.
 
 ## Simple Extraction Versus Surgical Extraction
@@ -86,12 +85,6 @@ After your tooth is out, your surgeon might place bone-preserving material (bone
 ## Choosing the Right Time for Surgery
 
 Wisdom teeth that need removal are often removed during teen years or early adulthood when bone is less dense and healing is faster. Waiting until middle age makes recovery slower and complication rates slightly higher. However, impacted teeth asymptomatic and not causing crowding sometimes typically don't need removal—discuss with your dentist whether yours actually need surgery or can be monitored.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about how to surgical teeth removal and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Conclusion
 

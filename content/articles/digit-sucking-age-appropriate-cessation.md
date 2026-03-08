@@ -17,7 +17,6 @@ references:
   - "Farsi D, Sharif S, Farsi N. Prevalence of self-reported dental habits in Saudi children. Dent Res J (Isfahan). 2013;10(4):474-481."
   - "Ratcliff A, Becker M, Quinn S. Behavioral management of digit sucking in the pediatric dental patient. Pediatr Dent. 1999;21(3):231-238."
 ---
-
 ## Introduction
 
 Thumb sucking is completely normal for infants and toddlers—it's a self-soothing behavior that helps them feel safe. However, if it continues past age 3-4, it can affect how your child's teeth develop. The good news?
@@ -165,7 +164,7 @@ Most kids who successfully quit don't relapse, but vigilance during high-stress 
 
 Thumb sucking beyond age 3-4 warrants gentle intervention to prevent permanent dental changes. Positive behavioral approaches—gentle reminders, identifying triggers, offering alternatives, and consistent praise for progress—work in 75-85% of children. Avoid shame, punishment, and power struggles, which backfire. Most children successfully stop with this supportive approach by age 6-8, preventing dental changes and building confidence in their ability to overcome habits.
 
-> **Key Takeaway:** Thumb and finger sucking beyond age 3-4 can affect teeth development. Learn supportive strategies to help kids stop.
+> **Key Takeaway:** Thumb sucking is completely normal for infants and toddlers—it's a self-soothing behavior that helps them feel safe.
 
 ## Related Articles
 

@@ -28,7 +28,6 @@ references:
   - title: "Oral-Systemic Health Integration in Clinical Practice"
     url: "https://pubmed.ncbi.nlm.nih.gov/24239770/"
 ---
-
 ## Your Mouth Is Connected to Your Whole Body
 
 You might think gum disease only affects your teeth and gums. Learning more about [All on Four Four Implant Full Arch](/article/all-on-four-four-implant-full-arch.html) can help you understand this better. But research in the last two decades has revealed something striking: serious gum disease is linked to multiple chronic health conditions including heart disease, stroke, diabetes complications, respiratory infections, and even pregnancy problems.

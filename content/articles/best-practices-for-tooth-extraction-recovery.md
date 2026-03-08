@@ -20,7 +20,6 @@ references:
   - "Caiazzo A, Brugnami F. Histologic changes of extraction sites. Eur J Esthet Dent. 2013;8(2):246-260."
   - "Barone A, Ricci M, Mangano F, Covani U. Tissue remodeling after immediate implant placement in fresh extraction sockets. Clin Oral Implants Res. 2006;17(1):1-8."
 ---
-
 ## Getting Through Tooth Extraction Recovery: What to Expect
 
 Having a tooth extracted isn't fun, but understanding what to expect during recovery and following proper post-extraction care dramatically reduces complications and helps you heal faster. Your actions in the first 24 hours are especially critical.

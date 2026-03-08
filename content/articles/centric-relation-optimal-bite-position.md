@@ -22,7 +22,6 @@ references:
   - "Cordray FE. Centric relation: Definition, determinants, and the disputed midrange option. J Esthet Dent. 1998;10(6):300-307."
   - "Boucher CO, Renner RP. Prosthodontic Treatment for Edentulous Patients. 12th ed. Mosby; 2005."
 ---
-
 If you're getting dentures, bridges, or other tooth restorations, your dentist might mention "centric relation." This is an important concept in dentistry, especially for people replacing teeth. Understanding centric relation helps explain why your dentist is making specific choices about how your new teeth will bite together.
 
 ## What Is Centric Relation
@@ -98,7 +97,7 @@ If your dentist mentions centric relation, ask questions about what it means for
 
 Centric relation is your jaw's most natural, relaxed position—the foundation for successful dentures, bridges, and other restorations. By establishing proper centric relation, your dentist creates restorations that feel natural, function smoothly, and put minimal stress on your jaw joints. While getting used to restorations based on centric relation might take a few weeks, the long-term comfort and success make it worth the adjustment period.
 
-> **Key Takeaway:** Centric relation is your jaw's most natural, unstressed position—important for dentures, crowns, and bite problems.
+> **Key Takeaway:** If you're getting dentures, bridges, or other tooth restorations, your dentist might mention "centric relation." This is an important concept in dentistry, especially for people replacing teeth.
 
 ## Related Articles
 

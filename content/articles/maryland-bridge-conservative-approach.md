@@ -28,7 +28,6 @@ references:
   - title: "Abutment preparation depth optimization and retention in acid-etched Maryland bridges: clinical and laboratory analysis"
     url: https://www.ncbi.nlm.nih.gov/pubmed/24678901
 ---
-
 A Maryland bridge offers an elegant solution for replacing a single missing tooth while preserving maximum natural tooth structure on your adjacent teeth. Unlike traditional bridges that require capping your neighboring teeth with crowns, Maryland bridges use a bonded approach that keeps those teeth largely natural. If you're considering replacing a single missing tooth, this conservative approach deserves consideration.
 
 ## What Makes Maryland Bridges Different

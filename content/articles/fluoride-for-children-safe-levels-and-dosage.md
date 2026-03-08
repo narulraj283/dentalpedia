@@ -22,7 +22,6 @@ references:
   - "Stecksén-Blicks C, Sjöström I, Twetman S. Caries-preventive effectiveness of a sodium fluoride mouthrinse in schoolchildren with different levels of plaque control. Swed Dent J. 2000;24(3):89-94."
   - "Marinho VC, Higgins JP, Sheiham A, et al. Combinations of topical fluoride (toothpastes, rinses, gels, varnishes) versus single topical fluoride for preventing dental caries in children and adolescents. Cochrane Database Syst Rev. 2004;(1):CD002781."
 ---
-
 ## Critical Years for Fluoride in Children
 
 Your child's adult teeth are developing right now, even though you can't see them. Permanent teeth start forming around age 3-4 months and keep developing through the first decade of life. The most critical period is between 6 months and 8 years of age—that's when most of your child's permanent teeth are actively forming. This is the window when fluoride has the most impact on cavity prevention, but it's also when too much fluoride can cause mild cosmetic changes (dental fluorosis) to the developing teeth.
@@ -83,17 +82,13 @@ Fluoride supplements prescribed by a dentist are extremely safe. The prescribed 
 
 However, supplements should be used only when recommended and for the specific age-based doses your dentist prescribes. This is why it's important not to give your child over-the-counter supplements without dentist guidance—the amount needs to be tailored to your water source and your child's age.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about fluoride for children safe levels and dosage and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
 ## Conclusion
 
 Fluoride is crucial for protecting your child's developing teeth from cavities. The right amount—individualized based on your child's age, water source, and cavity risk—provides excellent protection. Your pediatric dentist assesses your specific situation and creates a fluoride plan that maximizes cavity prevention while maintaining excellent safety margins.
 
 Talk with your child's dentist about the right fluoride strategy for your family's situation.
 
-> **Key Takeaway:** Systemic and topical fluoride dosing for children requires careful individualization based on water fluoride concentration and developmental stage.
+> **Key Takeaway:** Your child's adult teeth are developing right now, even though you can't see them.
 
 ## Related Articles
 

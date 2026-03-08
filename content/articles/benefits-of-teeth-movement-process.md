@@ -20,14 +20,13 @@ references:
   - "Ngan P, Hornsby K, Weissmann S. Dentofacial development and adaptation to extraoral forces. Semin Orthod. 1997;3(3):189-200."
   - "Consolaro A. Movimentação dentária induzida: mecanismos, especialidades envolvidas e protocolos clínicos. 2nd ed. Maringá: Dental Press; 2018."
 ---
-
 ## How Your Teeth Actually Move: Understanding Orthodontic Forces
 
-When you get braces, you might wonder: what's actually happening inside your mouth to make teeth move? The answer is pretty amazing. Your body has natural biological systems that work with the gentle, constant force from your braces to slowly shift your teeth into a new position. The key is understanding that this isn't just mechanical—it's all about working with your body's own building and remodeling processes. For more details, see our guide on [Accelerated Orthodontia](/article/accelerated-orthodontia-fast-track-braces.html).
+When you get braces, you might wonder: what's actually happening inside your mouth to make teeth move? The answer is pretty amazing. Your body has natural biological systems that work with the gentle, constant force from your braces to slowly shift your teeth into a new position. The key is understanding that this isn't just mechanical—it's all about working with your body's own building and remodeling processes.
 
 ## The Push-Pull System That Moves Teeth
 
-Your teeth don't just slide freely through bone. Instead, when your orthodontist applies gentle pressure to a tooth, something interesting happens on both sides of that tooth. On the side where pressure is being applied, bone actually dissolves slightly to make space for the tooth to move. On the opposite side, your body creates new bone to support the tooth in its new position. For more details, see our guide on [Accelerated Orthodontics](/article/accelerated-orthodontics-speeding-up-your-treatment.html).
+Your teeth don't just slide freely through bone. Instead, when your orthodontist applies gentle pressure to a tooth, something interesting happens on both sides of that tooth. On the side where pressure is being applied, bone actually dissolves slightly to make space for the tooth to move. On the opposite side, your body creates new bone to support the tooth in its new position.
 
 Think of it like this: if you push a tooth in one direction, the bone compresses and breaks down a little on that side (called the pressure side). At the same time, on the other side (the tension side), the bone and tissue stretch slightly, which signals your body to build new bone there. It's a perfectly balanced system—your mouth is literally remodeling itself to adapt to the new tooth position. This push-pull action is what makes tooth movement possible, and it's completely controlled by gentle forces from your braces.
 
@@ -85,6 +84,9 @@ Your bone density, metabolism, age, and genetics all play a role. Teens often ha
 
 10. Southard TE, Southard KA. Rigid miniplates for discrete tooth movements. J Clin Orthod. 2003;37(2):74-78.
 
+
+Related reading: [Bite Problems and Malocclusion Explained: Clinical](/article/bite-problems-and-malocclusion-explained.html) and [Braces Food Restrictions: Your Complete Guide](/article/best-practices-for-braces-food-restrictions.html).
+
 ## Conclusion
 
 : Your Body's Amazing Adaptation
@@ -93,7 +95,7 @@ The process of moving teeth is really a conversation between the forces from you
 
 ---
 
-> **Key Takeaway:** When you get braces, you might wonder: what's actually happening inside your mouth to make teeth move? The answer is pretty amazing.
+> **Key Takeaway:** When you get braces, you might wonder: what's actually happening inside your mouth to make teeth move?
 
 ## Related Articles
 

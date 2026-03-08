@@ -32,7 +32,6 @@ references:
   - title: "Beagle JR. Stereomicroscopic evaluation of the margins of porcelain veneer preparations. J Prosthet Dent. 1992;68(6):832-840."
     url: https://pubmed.ncbi.nlm.nih.gov/1464345
 ---
-
 ## Perfect Proportions: The Science of Beautiful Smiles
 
 What makes one smile look beautiful and balanced while another looks off? There are actually some mathematical and visual principles that help dentists understand what proportions tend to look most pleasing to the eye. Understanding these principles helps your dentist design your new smile to look natural and harmonious.
@@ -72,12 +71,6 @@ The small triangular spaces between your teeth—called papillae—help create a
 The key thing to understand is that proportional principles guide your dentist's design, but they don't strictly dictate it. Your dentist uses these principles as a foundation, then customizes your smile based on your face shape, your preferences, what you think looks good, and what's realistic to achieve.
 
 The most beautiful smiles blend mathematical harmony with individuality, creating results that look natural, balanced, and uniquely suited to you.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss smile symmetry and proportion aesthetic principles, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

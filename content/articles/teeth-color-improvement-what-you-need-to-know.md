@@ -32,7 +32,6 @@ references:
   - title: "Leonard RH, et al. Potassium nitrate and hydrogen peroxide combination effects. Quintessence Int. 2002;33(2):105-110."
     url: https://pubmed.ncbi.nlm.nih.gov/11901575
 ---
-
 ## Why Teeth Lose Their Brightness
 
 If your smile isn't as white as it used to be, you're not alone. Teeth change color for many different reasons, and understanding why helps you choose the right solution. Some stains sit on the surface of your teeth, while others develop deeper inside the tooth structure itself.
@@ -94,6 +93,3 @@ The key to success is working with your dentist to identify the cause of your di
 - [Cost of Smile Makeover Planning and Comprehensive](/article/cost-of-smile-makeover-planning.html)
 - [Digital Smile Design Workflow: Facial Analysis, DSD](/article/timeline-for-cosmetic-smile-design.html)
 
-- [Risk and Concerns with Teeth Shade Matching](/article/risk-and-concerns-with-teeth-shade-matching.html)
-- [How to Cosmetic Crown Selection](/article/how-to-cosmetic-crown-selection.html)
-- [How Long Do Veneers Last? Durability Facts](/article/how-to-veneer-durability-facts.html)

@@ -30,7 +30,6 @@ references:
   - title: "Emergency analgesic management: systematic pharmacological review"
     url: https://www.ncbi.nlm.nih.gov/pubmed/23406577
 ---
-
 Severe tooth pain is your mouth's way of saying something is wrong. The pain might come on suddenly or build gradually, but when tooth pain is serious enough to interrupt your sleep or daily life, it's time for professional help. Understanding what might be causing the pain helps you communicate with your dentist and get the right treatment quickly.
 
 ## Mild Sensitivity vs. Serious Pain

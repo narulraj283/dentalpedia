@@ -30,7 +30,6 @@ references:
   - title: "Inferior alveolar artery hemorrhage: recognition and emergency management"
     url: https://pubmed.ncbi.nlm.nih.gov/24903196
 ---
-
 ## Understanding Why Tooth Extraction Can Be Complicated
 
 Most tooth extractions go smoothly and heal without problems. But like any surgical procedure, complications can happen. The good news? Many complications are preventable, and knowing about them ahead of time helps both you and your dentist plan the safest approach. This guide explains what can go wrong, how to prevent it, and what to watch for during recovery.

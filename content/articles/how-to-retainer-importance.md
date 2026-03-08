@@ -32,7 +32,6 @@ references:
   - title: "Adult Orthodonticsand Retention Considerations in Aging Patients"
     url: https://www.ncbi.nlm.nih.gov/pubmed/24556878
 ---
-
 The day your braces come off is exciting—but it's not the finish line. Your teeth have a powerful natural tendency to creep back toward where they started, undoing years of orthodontic work. Without retainers, you could lose 30-70 percent of your correction within just two years. But with the right retainer worn consistently, you can keep your smile straight forever. Here's everything you need to know about protecting your investment in straight teeth.
 
 ## Why Your Teeth Want to Move Back

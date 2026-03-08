@@ -1,38 +1,48 @@
 ---
-title: "Oral Surgical Complications: Classification, Timeline,"
-slug: timeline-for-surgical-complications
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "Surgical complications occur across intraoperative, early postoperative, and delayed phases—understanding complication timelines and risk factors..."
 date: 2026-03-05
+excerpt: Surgical complications occur across intraoperative, early postoperative,
+  and delayed phases—understanding complication timelines and risk factors...
 read_time: 12 min
+references:
+- title: 'Hupp JR, Tucker MR, Ellis III E. Contemporary oral and maxillofacial surgery.
+    7th ed. St. Louis: Elsevier; 2019.'
+  url: https://pubmed.ncbi.nlm.nih.gov/30889273
+- title: Tay ABG. Intra-operative and post-operative complications of third molar
+    extraction. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2007;104(6):e57-e64.
+  url: https://pubmed.ncbi.nlm.nih.gov/17875410
+- title: 'Blondeau F, Daniel NG. Extraction of impacted mandibular third molars: postoperative
+    complications and their risk factors. J Can Dent Assoc. 2007;73(4):325-330.'
+  url: https://pubmed.ncbi.nlm.nih.gov/17520703
+- title: 'Bystedt H, Nord CE, Nordenram A. Bilateral pericoronitis: a bacteriological
+    examination. J Oral Maxillofac Surg. 1981;39(9):657-662.'
+  url: https://pubmed.ncbi.nlm.nih.gov/6943557
+- title: Chiapasco M, Crescentini M, Romanoni G. Extraction versus spontaneous exfoliation
+    of impacted third molars. Oral Surg Oral Med Oral Pathol. 1995;80(2):143-148.
+  url: https://pubmed.ncbi.nlm.nih.gov/7675272
+- title: 'Marciani RD. Third molar surgery: current concepts. Oral Maxillofac Surg
+    Clin North Am. 2007;19(1):103-113.'
+  url: https://pubmed.ncbi.nlm.nih.gov/18088752
+- title: Hirota A, Nakamura H, Kitano M, et al. Management of complications associated
+    with dental implants. Implant Dent. 2004;13(4):313-321.
+  url: https://pubmed.ncbi.nlm.nih.gov/15779783
+- title: Fridriksson HT, Ahlqvist J, Zachrisson BU, et al. Buccal bone loss in the
+    maxillary anterior region in relation to overdenture abutments. Swed Dent J. 1985;9(5):193-205.
+  url: https://pubmed.ncbi.nlm.nih.gov/3866338
+- title: Pogrel MA, Thamby S. Permanent nerve involvement resulting from inferior
+    alveolar nerve blocks. J Am Dent Assoc. 2000;131(7):901-907.
+  url: https://pubmed.ncbi.nlm.nih.gov/10916326
+- title: Magalhaes MH, Carlsson GE. Complications in implant surgery. Oral Maxillofac
+    Surg Clin North Am. 2011;23(3):365-375.
+  url: https://pubmed.ncbi.nlm.nih.gov/21665076
+reviewed: true
 reviewer_specialty: Oral and Maxillofacial Surgery
+slug: timeline-for-surgical-complications
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
-reviewed: true
-references:
-  - title: "Hupp JR, Tucker MR, Ellis III E. Contemporary oral and maxillofacial surgery. 7th ed. St. Louis: Elsevier; 2019."
-    url: https://pubmed.ncbi.nlm.nih.gov/30889273
-  - title: "Tay ABG. Intra-operative and post-operative complications of third molar extraction. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2007;104(6):e57-e64."
-    url: https://pubmed.ncbi.nlm.nih.gov/17875410
-  - title: "Blondeau F, Daniel NG. Extraction of impacted mandibular third molars: postoperative complications and their risk factors. J Can Dent Assoc. 2007;73(4):325-330."
-    url: https://pubmed.ncbi.nlm.nih.gov/17520703
-  - title: "Bystedt H, Nord CE, Nordenram A. Bilateral pericoronitis: a bacteriological examination. J Oral Maxillofac Surg. 1981;39(9):657-662."
-    url: https://pubmed.ncbi.nlm.nih.gov/6943557
-  - title: "Chiapasco M, Crescentini M, Romanoni G. Extraction versus spontaneous exfoliation of impacted third molars. Oral Surg Oral Med Oral Pathol. 1995;80(2):143-148."
-    url: https://pubmed.ncbi.nlm.nih.gov/7675272
-  - title: "Marciani RD. Third molar surgery: current concepts. Oral Maxillofac Surg Clin North Am. 2007;19(1):103-113."
-    url: https://pubmed.ncbi.nlm.nih.gov/18088752
-  - title: "Hirota A, Nakamura H, Kitano M, et al. Management of complications associated with dental implants. Implant Dent. 2004;13(4):313-321."
-    url: https://pubmed.ncbi.nlm.nih.gov/15779783
-  - title: "Fridriksson HT, Ahlqvist J, Zachrisson BU, et al. Buccal bone loss in the maxillary anterior region in relation to overdenture abutments. Swed Dent J. 1985;9(5):193-205."
-    url: https://pubmed.ncbi.nlm.nih.gov/3866338
-  - title: "Pogrel MA, Thamby S. Permanent nerve involvement resulting from inferior alveolar nerve blocks. J Am Dent Assoc. 2000;131(7):901-907."
-    url: https://pubmed.ncbi.nlm.nih.gov/10916326
-  - title: "Magalhaes MH, Carlsson GE. Complications in implant surgery. Oral Maxillofac Surg Clin North Am. 2011;23(3):365-375."
-    url: https://pubmed.ncbi.nlm.nih.gov/21665076
+title: 'Oral Surgical Complications: Classification, Timeline'
 ---
-
 ## Introduction
 
 Complications can happen with any surgery, though most are minor and heal quickly. Understanding what can go wrong and knowing the warning signs helps you prepare. This guide explains different types of complications, when they might happen, and what your dentist does about them. Most people recover without problems, but knowing the facts helps you make good decisions.
@@ -84,12 +94,6 @@ Your dentist's technique matters most. Gentle handling, proper hemostasis, and c
 **After surgery**: Don't rinse or spit forcefully for 24 hours. Don't smoke—it dramatically increases problems. Keep the area clean after 24 hours with gentle salt water rinses. Take prescribed antibiotics completely.
 
 Ice for 24 hours, then heat. Elevate your head. Rest and avoid strenuous activity. Call your dentist immediately if you have fever, spreading swelling, difficulty swallowing or breathing, or uncontrolled bleeding.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for surgical complications, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

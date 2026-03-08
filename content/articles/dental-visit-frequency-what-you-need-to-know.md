@@ -30,7 +30,6 @@ subcategory: Preventive Overview
 subcategory_slug: overview-preventive
 title: How Often Should You Go to the Dentist? What's Right
 ---
-
 The old rule about seeing the dentist every six months doesn't fit everyone. Learning more about [Oral Health Habits Complete Guide](/article/oral-health-habits-complete-guide.html) can help you understand this better. Your teeth and gums are unique, and your visit schedule should be too. Whether you need to come in frequently or can spread out your appointments depends on your personal risk factors for cavities and gum disease.
 
 ## The One-Size-Fits-All Schedule Doesn't Work
@@ -85,7 +84,7 @@ Beyond saving money, frequent preventive care helps prevent serious problems. Gu
 
 Forget the old idea that everyone needs six-month cleanings. Ask your dentist to assess your personal cavity and gum disease risk and recommend a visit schedule based on that assessment. Low-risk patients often do well with yearly appointments, moderate-risk patients benefit from twice-yearly visits, and high-risk patients gain from more frequent care. Your dentist will check your risk level regularly and adjust your schedule as your situation changes. Talk to your dentist about which options are right for your specific situation.
 
-> **Key Takeaway:** Find out whether you need six-month visits or can wait a year—based on your personal tooth and gum health.
+> **Key Takeaway:** The old rule about seeing the dentist every six months doesn't fit everyone.
 
 ## Related Articles
 

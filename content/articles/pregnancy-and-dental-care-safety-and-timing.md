@@ -40,7 +40,6 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: Pregnancy and Dental Care Safety and Timing
 ---
-
 ## Your Oral Health Matters During Pregnancy
 
 One of the most important questions pregnant women ask is: "Is dental treatment safe for me and my baby?" The good news is that dental care during pregnancy isn't just safe—it's essential. Your oral health directly affects your pregnancy and your baby's future health, making regular dental visits a critical part of prenatal care. This guide explains what you need to know about getting dental treatment while pregnant, which medications are safe, what to expect at different stages of pregnancy, and how to handle common pregnancy-related dental problems.
@@ -94,10 +93,6 @@ Stomach acid from vomiting can erode your tooth enamel over time if you're exper
 As you approach the end of your pregnancy, think ahead to your baby's oral health. Research shows that your baby's cavity risk relates directly to how many cavity-causing bacteria you have in your mouth. By controlling your own cavities during pregnancy and improving your oral health before your baby arrives, you're creating the best possible foundation for your baby's future dental health.
 
 You can return to routine dental care within 2-4 weeks after giving birth, and breastfeeding doesn't limit any dental treatments. Continuing your excellent oral hygiene habits after pregnancy protects your baby's health by reducing cavity-causing bacteria transmission through shared utensils and kissing.
-
-## Questions to Ask Your Dentist
-
-Before any dental treatment during pregnancy, discuss with your dentist what they're planning and why it's necessary. Ask about medication safety, whether you need to modify the appointment position for your comfort, and what follow-up monitoring might be recommended. Most importantly, discuss your pregnancy status at your appointment if you're not showing yet—your dentist needs this information to make safe recommendations.
 
 ## Conclusion
 

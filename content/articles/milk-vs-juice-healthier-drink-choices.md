@@ -30,7 +30,6 @@ references:
   - title: "Behavioral Factors in Juice Consumption: Sipping Patterns and Dental Damage"
     url: https://www.ncbi.nlm.nih.gov/pubmed/17395790
 ---
-
 When you choose between juice and milk for your child—or for yourself—you're making a decision that will affect your teeth for decades. Both drinks contain carbohydrates, but their impact on your teeth couldn't be more different. Milk builds strong teeth while juice destroys them. This isn't a subtle difference; it's a dramatic contrast that every parent and health-conscious adult needs to understand.
 
 ## Why Juice Damages Your Teeth So Badly

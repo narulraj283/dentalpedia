@@ -32,7 +32,6 @@ references:
   - title: "Multidisciplinary management of cleft palate: surgical, speech, and orthodontic considerations"
     url: https://pubmed.ncbi.nlm.nih.gov/25301478
 ---
-
 ## Understanding the Velopharyngeal System and Speech
 
 When you speak, complex muscular actions in the back of your mouth and throat work together to direct air and sound in specific ways, creating the distinct sounds that make up speech. The system controlling this is called the velopharyngeal mechanism, and it's essential for clear, normal-sounding speech. Understanding how this system works and what happens when it doesn't function properly helps explain why some people struggle with speech clarity and what options exist for improvement.

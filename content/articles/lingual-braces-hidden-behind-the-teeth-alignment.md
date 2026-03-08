@@ -32,7 +32,6 @@ references:
   - title: "Patient Comfort and Compliance with Lingual Appliances: A Prospective Clinical Study"
     url: https://www.ncbi.nlm.nih.gov/pubmed/29438445
 ---
-
 ## What Are Lingual Braces?
 
 Lingual braces are orthodontic brackets and wires bonded to the inside (tongue-facing) surface of your teeth. They're completely hidden from view when you smile, talk, or eat. The word "lingual" refers to the tongue side of your teeth, and these braces do the same job as traditional braces—straightening your teeth—but nobody can see them.
@@ -102,12 +101,6 @@ If you have a simple bite problem (mild crowding) or poor oral hygiene habits, c
 ## Retention After Treatment
 
 After your braces come off, you'll wear bonded lingual retainers on the back of your teeth to maintain your beautiful results. These retainers work great with lingual treatment—nobody sees them. You'll likely also wear removable retainers at night.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about lingual braces hidden behind the teeth alignment and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

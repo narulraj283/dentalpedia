@@ -18,7 +18,6 @@ references:
   - title: "Post-surgery pain management and complications"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26439738
 ---
-
 Intrusive injuries occur when blunt force drives your tooth into its bone socket. The tooth appears shorter, your bite feels wrong, and you might have significant pain and swelling. This is a dental emergency requiring immediate professional care because the blood vessels and nerve inside your tooth are damaged, and infection risk is high.
 
 ## What Causes Intrusive Injury?
@@ -94,12 +93,6 @@ Some teeth are eventually lost despite best treatment efforts. Even if eventual 
 ## Prevention
 
 Protective mouthguards during contact sports significantly reduce injury risk. Custom mouthguards provide better protection than store-bought options. Athletes and people in high-risk occupations should wear protective equipment consistently.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about intrusion trauma forced into socket and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

@@ -20,7 +20,6 @@ references:
   - "Fontijn-Tekamp FA, et al. Biting and chewing in overdentures, full dentures, and natural dentitions. Journal of Dental Research. 2000;79(7):1519-1524."
   - "Uchida H, et al. In-vivo measurement of the masticatory function of denture-wearing older adults using the updated mixing ability test. Journal of Dentistry. 2013;41(2):135-141."
 ---
-
 If you've worn dentures for several years, you might have noticed they're not fitting as well as they used to. Your jaw bone continues to shrink throughout your life, and this changes how dentures fit. Understanding why this happens and what you can do about it helps you maintain better function and comfort.
 
 ## Why Your Jaw Bone Shrinks
@@ -79,19 +78,13 @@ Even with inevitable ridge changes, staying comfortable is possible with periodi
 
 Many long-time denture wearers function very well by staying proactive about adjustments and relines rather than waiting until problems are severe.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about denture adjustment in aging fit changes and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
-
 ## Conclusion
 
 Your jaw bone naturally shrinks throughout your life after tooth loss, making your dentures loosen over time. Regular relines (every 3-5 years typically) restore fit by adding material to your denture. Age-related changes like dry mouth and reduced dexterity present additional challenges.
 
 Plan for periodic professional adjustments and relines to maintain comfort and function. If you notice your dentures slipping or becoming uncomfortable, contact your dentist to discuss whether adjustment or relining would help. Talk to your dentist about which options are right for your specific situation.
 
-> **Key Takeaway:** Learn why your dentures need adjustments and relining as you get older, and what to expect from your changing dentures.
+> **Key Takeaway:** If you've worn dentures for several years, you might have noticed they're not fitting as well as they used to.
 
 ## Related Articles
 

@@ -32,7 +32,6 @@ references:
   - title: "Longitudinal caries risk assessment and outcome prediction in diverse populations"
     url: https://pubmed.ncbi.nlm.nih.gov/27550098
 ---
-
 Your dentist probably recommends that you brush twice daily, floss, and limit sugar. These generic recommendations provide baseline guidance, but here's the truth: one-size-fits-all prevention doesn't work. Some people with excellent oral hygiene develop multiple cavities annually, while others with mediocre hygiene remain cavity-free for decades.
 
 This variation isn't random. It reflects real differences in individual cavity risk. Modern dentistry recognizes that cavity risk varies dramatically among people, and understanding your personal risk factors allows targeted prevention that actually works for your individual situation.

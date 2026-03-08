@@ -32,7 +32,6 @@ references:
   - title: "Comparison of conventional brackets versus clear aligners: biological response"
     url: "https://pubmed.ncbi.nlm.nih.gov/31597898/"
 ---
-
 Teeth don't move by magic during orthodontic treatment. Your orthodontist is actually triggering a sophisticated biological process that involves your body remodeling bone to allow teeth to shift. Understanding how teeth move helps you appreciate why treatment takes months, not weeks, and why following your orthodontist's instructions matters.
 
 ## How Teeth Actually Move
@@ -82,12 +81,6 @@ All systems can move teeth effectively when appropriate force magnitudes and pro
 After orthodontic treatment ends, your teeth have a strong tendency to shift back toward their original positions—relapse. Permanent fixed bonded wire behind anterior teeth combined with nightly removable retainer wear indefinitely maintains correction at greater than 95% stability over 20-year studies.
 
 Non-compliant patients (not wearing retainers) experience 50-70% relapse within 5 years.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss why teeth movement process matters, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

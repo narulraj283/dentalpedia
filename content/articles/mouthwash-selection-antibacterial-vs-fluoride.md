@@ -32,7 +32,6 @@ references:
   - title: "Ten Cate JM. Contemporary perspective on dental caries and its management: the ecological approach. Caries Res. 2022;56(1):31-41."
     url: https://pubmed.ncbi.nlm.nih.gov/35108756
 ---
-
 With hundreds of mouthwash options lining store shelves, choosing the right one for your needs can feel overwhelming. You've probably noticed that some rinses claim to fight bacteria, while others promise to strengthen your teeth. The truth is that different mouthwashes do different jobs. Some target the bacteria that cause gum disease, while others work to protect your teeth from cavities. By understanding what each type does and when you should use it, you can pick the rinse that's right for your mouth.
 
 When you're shopping for mouthwash, you'll mainly see two types: those with antibacterial ingredients that fight harmful germs in your mouth, and those with fluoride that helps remineralize and protect your teeth. Some products even combine both. The key is figuring out what your mouth needs most right now.

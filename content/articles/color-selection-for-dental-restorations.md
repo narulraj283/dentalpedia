@@ -1,28 +1,40 @@
 ---
-title: "Color Selection and Shade Matching in Dental Restorations:"
-slug: color-selection-for-dental-restorations
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: "How dentists choose the right shade for crowns and veneers, why lighting matters, and what you need to know about shade matching."
 date: 2026-03-05
+excerpt: How dentists choose the right shade for crowns and veneers, why lighting
+  matters, and what you need to know about shade matching.
 read_time: 10 min
+references:
+- Jörgensen, G., & Asmussen, E. (1978). Placement of high copper amalgam restorations
+  and proximal flash or overhang. Quintessence International, 14(4), 209-215.
+- Sproull, R. (2001). Color matching in dentistry. Part I. The three-dimensional nature
+  of color. Journal of Prosthetic Dentistry, 86(5), 453-457.
+- Bayindir, F., & Whitehead, S. (1992). A new classification of all-ceramic crown
+  systems for esthetic purposes. Quintessence International, 23(2), 81-86.
+- Paul, S., et al. (2003). Methodological variations in tooth color measurement. Journal
+  of Prosthetic Dentistry, 88(2), 174-181.
+- 'Pegoraro, L., et al. (1998). Assessment of parameters influencing the shade of
+  composite resin: A spectrophotometric analysis. Operative Dentistry, 23(4), 189-199.'
+- Douglas, R., & Przybylowicz, E. (1999). The shade guide problem. Journal of Prosthetic
+  Dentistry, 81(3), 314-318.
+- 'Chu, S., Trushkowsky, R., & Paravina, R. (2010). Cosmetic dentistry: A systematic
+  approach to esthetic, restorative, and implant dentistry. Journal of the American
+  Dental Association, 141(3), 3S-13S.'
+- Vichi, A., et al. (2011). Color stability of resin-based composites. Journal of
+  Dental Research, 90(8), 969-981.
+- Gökçe, B., et al. (2010). Spectrophotometric assessment of different composite shades
+  used in cosmetic dentistry. Journal of Esthetic and Restorative Dentistry, 19(3),
+  182-190.
+- Paravina, R., et al. (2015). International Collaborative Study on Shade Matching.'
+  Journal of Prosthetic Dentistry, 112(2), 116-125.
+reviewed: true
 reviewer_specialty: Cosmetic Dentistry
+slug: color-selection-for-dental-restorations
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
-reviewed: true
-references:
-  - "Jörgensen, G., & Asmussen, E. (1978). Placement of high copper amalgam restorations and proximal flash or overhang. Quintessence International, 14(4), 209-215."
-  - "Sproull, R. (2001). Color matching in dentistry. Part I. The three-dimensional nature of color. Journal of Prosthetic Dentistry, 86(5), 453-457."
-  - "Bayindir, F., & Whitehead, S. (1992). A new classification of all-ceramic crown systems for esthetic purposes. Quintessence International, 23(2), 81-86."
-  - "Paul, S., et al. (2003). Methodological variations in tooth color measurement. Journal of Prosthetic Dentistry, 88(2), 174-181."
-  - "Pegoraro, L., et al. (1998). Assessment of parameters influencing the shade of composite resin: A spectrophotometric analysis. Operative Dentistry, 23(4), 189-199."
-  - "Douglas, R., & Przybylowicz, E. (1999). The shade guide problem. Journal of Prosthetic Dentistry, 81(3), 314-318."
-  - "Chu, S., Trushkowsky, R., & Paravina, R. (2010). Cosmetic dentistry: A systematic approach to esthetic, restorative, and implant dentistry. Journal of the American Dental Association, 141(3), 3S-13S."
-  - "Vichi, A., et al. (2011). Color stability of resin-based composites. Journal of Dental Research, 90(8), 969-981."
-  - "Gökçe, B., et al. (2010). Spectrophotometric assessment of different composite shades used in cosmetic dentistry. Journal of Esthetic and Restorative Dentistry, 19(3), 182-190."
-  - "Paravina, R., et al. (2015). International Collaborative Study on Shade Matching.' Journal of Prosthetic Dentistry, 112(2), 116-125."
+title: Color Selection and Shade Matching in Dental Restorations
 ---
-
 ## Why Shade Matching Matters for Your Smile
 
 When you're getting a new crown, veneer, or filling for a visible tooth, matching the color to your natural teeth is crucial. If the shade is off even slightly, everyone will notice that tooth doesn't quite match the rest of your smile. Dentists call this "shade matching" or "color selection," and it's actually more complex than you might think. It involves your natural teeth color, lighting conditions, and sometimes even specialized instruments to get it just right.
@@ -85,7 +97,7 @@ Whitening your teeth before getting restorations is an excellent idea. If you wh
 
 Shade selection for dental restorations is a blend of art and science. Modern technology helps ensure objective accuracy, but the dentist's experience and eye for aesthetics remain important. Proper shade selection involves appropriate lighting, thorough documentation, and your input about your aesthetic goals.
 
-> **Key Takeaway:** How dentists choose the right shade for crowns and veneers, why lighting matters, and what you need to know about shade matching.
+> **Key Takeaway:** When you're getting a new crown, veneer, or filling for a visible tooth, matching the color to your natural teeth is crucial.
 
 ## Related Articles
 

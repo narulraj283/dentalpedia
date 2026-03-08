@@ -20,7 +20,6 @@ references:
   - "Stavropoulos A, Wikesjö UM. Growth factor enhancement of periodontal wound healing and regeneration. Curr Pharm Des. 2012;18(34):5585-5593."
   - "Bosshardt DD, Sculean A. Does periodontal tissue engineering have a future? Dent Clin North Am. 2015;59(4):931-952."
 ---
-
 When gum disease destroys the bone and attachment that support your teeth, modern treatments can sometimes regenerate lost tissues and help save your teeth. One promising treatment uses special proteins from tooth enamel to stimulate your body to rebuild what disease destroyed. Understanding this treatment helps you decide if it's right for your situation.
 
 ## What Is Gum Disease and Why It Matters
@@ -134,11 +133,14 @@ Patients who comply with maintenance protocols show excellent long-term results�
 
 EMD treatment typically costs $800-2000+ depending on defect size and geographic location. Most dental insurance covers 50-80% of the cost, though coverage varies. Discuss cost and insurance coverage with your periodontist's office beforehand.
 
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
 Enamel matrix derivative offers a biologic approach to stimulating your body to regenerate periodontal tissues destroyed by disease. Results are encouraging—most appropriately selected patients show clinically meaningful improvement. Success depends on careful case selection, proper surgical technique, and excellent post-operative maintenance. If you have advanced gum disease with specific bony defects and are willing to maintain excellent oral hygiene, EMD might help save your teeth. Talk with your periodontist about whether EMD is right for your specific situation.
 
-> **Key Takeaway:** When gum disease destroys the bone and attachment that support your teeth, modern treatments can sometimes regenerate lost tissues and help save your.
+> **Key Takeaway:** When gum disease destroys the bone and attachment that support your teeth, modern treatments can sometimes regenerate lost tissues and help save your teeth.
 
 ## Related Articles
 

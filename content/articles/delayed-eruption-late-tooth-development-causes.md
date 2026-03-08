@@ -14,7 +14,6 @@ references:
   - "Baccetti T. Dental anomalies associated with craniofacial and skeletal disorders. Angle Orthod. 1998;68(3):193-202."
   - "Nolla CM. The development of the permanent teeth. J Dent Child. 1960;27(4):254-266."
 ---
-
 ## When Should Permanent Teeth Come In?
 
 Kids lose baby teeth and get permanent teeth on a predictable schedule. First molars usually come in around age 6. Upper central incisors (front teeth) erupt around age 7-8.
@@ -79,7 +78,7 @@ Single-tooth delays usually resolve through monitoring; multiple-tooth delays wa
 
 Talk to your pediatric dentist about creating a monitoring plan if your child has delayed eruption, and ask what specific factors (crowding, retained baby tooth, growth variation) apply to your situation.
 
-> **Key Takeaway:** Understanding late tooth eruption in children and when to be concerned.
+> **Key Takeaway:** Kids lose baby teeth and get permanent teeth on a predictable schedule.
 
 ## Related Articles
 

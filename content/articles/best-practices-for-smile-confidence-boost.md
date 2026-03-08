@@ -20,7 +20,6 @@ references:
   - "Ennes JP, Torres CR, Fonseca JC. Analysis of patients' esthetic satisfaction before and after anterior dental restoration. Quintessence Int. 2023;45(8):629-640."
   - "Kokich VO Jr, Kokich VG, Kiyak HA. Perceptions of dental professionals and laypersons to altered dental esthetics: asymmetric and symmetric situations. Am J Orthod Dentofacial Orthop. 2024;130(2):141-151."
 ---
-
 ## Your Smile Affects More Than You Think
 
 Here's what research clearly shows: people with smiles they like are more confident. They smile more in social situations, they make better first impressions professionally, they report higher self-esteem, and they interact more freely. Conversely, people unhappy with their smile avoid photographs, smile less, and sometimes limit social interactions because of self-consciousness.
@@ -127,21 +126,6 @@ After treatment, your maintenance responsibility matters:
 - Checkups catch issues early before they affect your restored smile.
 
 This maintenance is modest compared to the initial treatment but directly determines how long results last.
-
-## Questions to Ask Your Dentist
-
-Before starting cosmetic treatment:
-
-- Can you show me before/after photos of similar cases?
-- Can we use digital smile design so I see exactly what to expect?
-- What options best match my timeline and budget?
-- How natural will the results look?
-- How long will the results last?
-- What maintenance will I need?
-- What are the risks or potential complications?
-- If I don't love the results, what are my options?
-- How much can I afford to improve versus full transformation?
-- What would you recommend if you were advising a family member?
 
 ## Next Steps
 

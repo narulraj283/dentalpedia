@@ -32,7 +32,6 @@ references:
   - title: "Colquitt JL, Pickett K, Loveman E, Frampton GK. Surgery for weight loss in adults. Cochrane Database Syst Rev. 2014;8:CD003641."
     url: https://pubmed.ncbi.nlm.nih.gov/25105982
 ---
-
 ## You'll See Changes Quickly
 
 If you're wondering when braces actually start working, the answer is surprisingly fast. Many people notice improvements in their smile within just 4 to 8 weeks of getting braces. The first changes you'll see are gaps closing between your teeth and crowded teeth starting to straighten out. Your friends and family will start noticing your straighter smile soon after, which can be exciting motivation to continue treatment.
@@ -82,12 +81,6 @@ By the middle of treatment, chewing feels much better and more balanced. You're 
 ## Taking Care of Gums During Treatment
 
 As your teeth straighten, your gums can actually become healthier. When teeth are crowded, it's hard to brush and floss properly, so bacteria build up. As spaces close and teeth align, you can clean more effectively. Your gums usually look healthier and less inflamed by mid-treatment. Keeping up with excellent oral hygiene during treatment ensures your gums stay healthy throughout the process.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for braces benefits, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

@@ -28,7 +28,6 @@ references:
   - title: "Oral-systemic health connections: Periodontal disease impact on general health"
     url: https://pubmed.ncbi.nlm.nih.gov/23819521
 ---
-
 ## Why Addressing Bleeding Gums Matters for Long-Term Oral Health
 
 Bleeding gums seem minor—you see a little blood when brushing or flossing, and maybe you think you're brushing too hard or using the wrong toothbrush. But that blood is actually an important warning signal that your gums are inflamed. And here's the critical part: bleeding gums are completely reversible if you address them early. But if you ignore them, they progress to irreversible gum disease that can eventually cause tooth loss. Understanding why bleeding gums matter helps you recognize when a simple fix now can prevent serious problems later.

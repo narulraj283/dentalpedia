@@ -28,7 +28,6 @@ references:
   - title: "Systemic manifestations and periodontal disease severity: moderate periodontitis as progression threshold"
     url: https://www.ncbi.nlm.nih.gov/pubmed/20923599
 ---
-
 If your dentist has told you that you have moderate gum disease (periodontitis), you're not alone. This common condition affects millions of adults, but the good news is that when caught at this stage, your dentist can help you save your teeth and prevent serious complications. Understanding what moderate gum disease means and what causes it empowers you to work with your dental team to address it effectively.
 
 Moderate gum disease represents a middle stage where the bacteria in your mouth have caused real damage to your gums and the bone supporting your teeth. Your dentist measures this damage through specific signs: pockets deeper than normal around your teeth, bleeding when your gums are gently probed, and bone loss visible on X-rays. At this stage, your situation is serious enough to require action, but early treatment typically works very well in stopping the disease and protecting your remaining teeth.

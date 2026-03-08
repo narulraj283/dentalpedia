@@ -29,7 +29,6 @@ subcategory: Nutrition Overview
 subcategory_slug: overview-nutrition
 title: Nutrition and Oral Health Foods for Strong Teeth
 ---
-
 You probably know that brushing and flossing are essential for healthy teeth and gums. But here's something that surprises many people: what you eat and drink has just as much impact on your smile as what you do to clean it. The foods you choose every single day either strengthen your teeth or set them up for decay and disease. The great news is that protecting your teeth through nutrition isn't complicated—it just means making smart choices about the building blocks your body uses to create and maintain strong teeth.
 
 ## Building Strong Teeth With Calcium and Phosphorus

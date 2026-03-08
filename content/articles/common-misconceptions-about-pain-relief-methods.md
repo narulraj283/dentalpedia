@@ -22,7 +22,6 @@ references:
   - "Ahmed SI, Oswald TM, Kirton OC. Multimodal analgesia for acute postoperative and trauma-related pain. Surg Clin North Am. 2016;96(5):1011-1030."
   - "Macintyre PE. Safety and efficacy of NSAIDs in the perioperative period. Drugs. 2011;71(15):1959-1971."
 ---
-
 ## Finding the Right Approach to Dental Pain Relief
 
 When you have dental pain, you probably just want relief—but with so many options available, it's easy to get confused about what actually works. Some approaches are far more effective than others, and some myths can lead you toward less helpful solutions. Let's explore what really works for dental pain and how to choose the right strategy.
@@ -91,7 +90,7 @@ Tell your dentist about your health conditions and medications. They can recomme
 
 Effective dental pain relief combines addressing the underlying cause (professional dental treatment) with appropriate pain medication and comfort measures. Ibuprofen and acetaminophen are often more effective than stronger medications for dental pain. Taking medication on a schedule before pain becomes severe provides better control than waiting for breakthrough pain.
 
-> **Key Takeaway:** Discover which pain relief methods actually work for dental pain and how to choose the right approach for your situation.
+> **Key Takeaway:** When you have dental pain, you probably just want relief—but with so many options available, it's easy to get confused about what actually works.
 
 ## Related Articles
 

@@ -14,7 +14,6 @@ references:
   - "Kornman KS, Crane A, Wang HY, et al. The interleukin-1 genotype as a severity factor in adult periodontal disease. J Clin Periodontol. 1997;24(1):72-77."
   - "Kinane DF. Causation and pathogenesis of periodontal disease. Periodontol 2000. 2001;25:8-20."
 ---
-
 You brush and floss perfectly, yet you seem to develop gum disease faster and more severely than your friends who don't take care of their teeth as well. Unfair, right? The answer might be genetics.
 
 About 30-50% of your gum disease risk is inherited. This doesn't mean you'll definitely get gum disease if your parents did, but it means your immune system responds more strongly to bacteria, making you more susceptible. Understanding your genetic risk helps you take appropriate preventive steps.
@@ -93,7 +92,7 @@ Genetic susceptibility is actually a reason to be more proactive about periodont
 
 Genetic susceptibility to gum disease is real, but it's not destiny. Yes, you might be more prone to gum disease than average. But with aggressive prevention, excellent home care, frequent professional treatment, and lifestyle modifications, you can maintain periodontal health for life. Understand your risk, take it seriously, and work with your dentist on a prevention strategy tailored to your genetic predisposition.
 
-> **Key Takeaway:** Some people inherit a tendency toward severe gum disease. Learn if you're at risk and what you can do to prevent it.
+> **Key Takeaway:** You brush and floss perfectly, yet you seem to develop gum disease faster and more severely than your friends who don't take care of their teeth as well.
 
 ## Related Articles
 

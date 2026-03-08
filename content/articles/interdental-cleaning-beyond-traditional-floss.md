@@ -18,7 +18,6 @@ references:
   - title: "Water flossing and plaque removal effectiveness"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26439738
 ---
-
 If traditional floss frustrates you—it shreds, gets stuck, or you just can't get the hang of it—you're not alone. The good news is floss is far from your only option for cleaning between your teeth. Several tools work better for different people and different tooth sizes. Finding what works for you matters because cleaning between teeth prevents gum disease and cavities between teeth, where your toothbrush can't reach.
 
 ## Why Cleaning Between Teeth Matters
@@ -75,11 +74,8 @@ Some people benefit from using multiple tools. For example, interdental brushes 
 
 Even with excellent interdental cleaning at home, professional cleaning reaches below the gum line where home tools can't go. Regular professional cleanings remove tartar buildup and allow your dentist to assess gum health. These professional cleanings work together with your daily home interdental care.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about interdental cleaning beyond traditional floss and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
+Related reading: [Cleft Dentistry: Alveolar Bone Reconstruction](/article/cleft-dentistry-alveolar-bone-reconstruction.html).
 
 ## Conclusion
 

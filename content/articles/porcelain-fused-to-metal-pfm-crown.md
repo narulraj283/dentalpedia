@@ -43,7 +43,6 @@ subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
 title: Porcelain Fused to Metal Pfm Crown
 ---
-
 ## Understanding Your Porcelain-Fused-to-Metal Crown
 
 ## How Your PFM Crown Is Built

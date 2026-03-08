@@ -32,7 +32,6 @@ references:
   - title: "Kim SH, Lamster IB, Park M. Combined treatment with passive open coil spring intrusion technique and orthodontics to manage overintruded teeth. Dent Traumatol. 2008;24(1):130-133."
     url: https://pubmed.ncbi.nlm.nih.gov/18184173
 ---
-
 ## Understanding Tooth Luxation
 
 Dental luxation represents partial or complete displacement of a tooth from its socket without loss of tooth structure. Luxation injuries are the most common injuries to permanent teeth, accounting for 50% of all dental traumatic injuries. These injuries are distinct from fractures—tooth structure remains intact, though the periodontal ligament (which anchors the tooth) and pulp (nerve tissue) sustain significant trauma.
@@ -185,6 +184,3 @@ Remember that every person's situation is unique. What works well for one patien
 - [Severe Toothache Causes and Emergency Treatment](/article/severe-toothache-causes-and-emergency-treatment.html)
 - [Luxation: When Your Tooth Gets Partially Knocked Loose](/article/luxation-partially-displaced-tooth.html)
 
-- [Finding Emergency Dental Care: Options Beyond Hours](/article/finding-emergency-dental-care-options-beyond-hours.html)
-- [Emergency Dental Pain Management: Triage and Treatment](/article/timeline-for-emergency-tooth-pain.html)
-- [Reimplanted Teeth: Salvaging Avulsed Permanent](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html)

@@ -32,7 +32,6 @@ references:
   - title: "Falci SG, de Magalhaes CS, Kuba K, et al. The impact of mandibular third molar surgery on short-term quality of life. Braz Dent J. 2012;23(4):387-392."
     url: https://pubmed.ncbi.nlm.nih.gov/23207857
 ---
-
 ## Introduction
 
 When considering oral surgery, you naturally wonder: "What's the success rate?" Success in oral surgery means different things depending on your procedure—complete tooth removal, implant stability, bone healing, or improved jaw function. This guide explains realistic success rates based on scientific evidence, helps you understand what affects these rates, and shows you factors within your control that influence outcomes.
@@ -104,19 +103,8 @@ Surgery to correct severe jaw misalignment has high functional success but varia
 
 **Nutritional Support**: Adequate protein (1.2-1.6 grams per kilogram daily) and vitamin C (500-1000 mg daily) accelerate healing. These aren't optional extras—they directly affect collagen synthesis and immune function.
 
-## Questions to Ask Your Surgeon
 
-1. **What's your personal success rate for this procedure?** Ask for their infection rates, specific complication incidence, and how many of this procedure they perform monthly.
-
-2. **What's your experience with my specific situation?** A surgeon with 100+ impacted wisdom tooth extractions annually has better outcomes than someone doing them rarely.
-
-3. **What's your complication management plan?** A surgeon with a documented protocol for managing dry socket, nerve complications, or other issues indicates experience.
-
-4. **What techniques will you use?** Modern minimally invasive approaches, microscopy, ultrasonic bone cutting (piezosurgery), and computer-assisted planning all improve outcomes.
-
-5. **What's my realistic timeline?** Days to initial healing, return to work, return to exercise, and full functional recovery should be specifically discussed for your case.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

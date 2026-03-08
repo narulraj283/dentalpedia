@@ -47,7 +47,6 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: 'Dealing with Dental Pain: Your Complete Guide'
 ---
-
 ## Introduction
 
 Dental pain can be debilitating, striking at the worst times and making it hard to eat, sleep, or concentrate. The good news is that you have many options to manage dental pain, from simple home remedies to over-the-counter and prescription medications. Knowing what works for different types of pain helps you get relief quickly while you arrange professional dental care. This guide walks you through your options so you're prepared if tooth pain strikes.

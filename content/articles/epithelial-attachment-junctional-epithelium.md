@@ -20,7 +20,6 @@ references:
   - "Güncü GN, Tözüm TF, Caglayan F, et al. Gingival recession: clinical presentation and associated factors. J Dent Res. 2005;84(9):866-870."
   - "Eley BM. Antibacterial agents in the control of supragingival biofilm and in the management of gingivitis and associated oral halitosis. Clin Microbiol Rev. 1999;12(3):427-448."
 ---
-
 The connection between your tooth and gum is special—it's not just gum hanging loosely around your tooth, but a specialized seal that your body constantly maintains. Understanding how this seal works helps you appreciate why keeping your gums healthy is so important, and what happens when gum disease attacks this critical attachment.
 
 ## The Special Seal Between Tooth and Gum
@@ -121,7 +120,7 @@ Your junctional epithelium seal is a critical but delicate barrier protecting yo
 
 Once compromised, this seal can usually heal if you eliminate the bacterial irritation and maintain excellent plaque control. Your daily brushing and flossing directly protect this seal—you're the first line of defense against bacteria. Talk to your dentist about which options are right for your specific situation.
 
-> **Key Takeaway:** Specialized gingival barrier providing tooth-tissue attachment and disease resistance.
+> **Key Takeaway:** The connection between your tooth and gum is special—it's not just gum hanging loosely around your tooth, but a specialized seal that your body constantly maintains.
 
 ## Related Articles
 

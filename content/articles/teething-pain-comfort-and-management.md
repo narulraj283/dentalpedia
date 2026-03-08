@@ -32,7 +32,6 @@ references:
   - title: "American Academy of Pediatric Dentistry. Clinical Practice Guidelines for Examination, Prevention, and Management of Dental Caries in Children. Pediatr Dent. 2023;45(6):E23-E47."
     url: https://pubmed.ncbi.nlm.nih.gov/37556850
 ---
-
 ## Introduction
 
 Teething is a normal developmental process that causes discomfort and keeps parents up at night. The good news: there are proven, safe strategies to help your baby feel better. This guide explains what's happening, how to recognize real teething versus other problems, and exactly what works to manage discomfort.
@@ -102,12 +101,6 @@ Severe gingival swelling beyond the immediate eruption site, purulent drainage, 
 ## Documentation and Monitoring
 
 Keep track of which teeth are erupting, severity of symptoms, and response to comfort measures. Document any fever (temperatures, time of day), diarrhea (frequency, consistency), sleep disruption, and feeding refusal. This information helps your pediatrician identify whether symptoms are truly teething-related or suggest alternative causes.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss teething pain comfort and management, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

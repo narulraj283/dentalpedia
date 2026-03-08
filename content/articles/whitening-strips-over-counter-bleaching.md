@@ -28,7 +28,6 @@ references:
   - title: "Patient satisfaction and outcomes with whitening strip treatments"
     url: https://pubmed.ncbi.nlm.nih.gov/19362200
 ---
-
 ## What Whitening Strips Are and How They Work
 
 Whitening strips are thin plastic films covered with whitening gel that contain hydrogen peroxide or a similar bleaching agent. You've probably seen them in drugstores—Crest Whitestrips and similar brands are the most popular options. These strips sit somewhere in the middle between weakly effective whitening pens and more powerful professional whitening treatments. The gel contains between 6-14% hydrogen peroxide, and the plastic backing keeps the gel from directly irritating your gums while you wear them.
@@ -66,12 +65,6 @@ Generic strips designed to fit "average" teeth don't fit everyone well. If you h
 [Professional in-office whitening](/article/why-cosmetic-smile-design-matters.html) uses much stronger 25-35% hydrogen peroxide under dental professional supervision and delivers 5-8 shades improvement in a single appointment. Dentists also protect your gums and enamel properly. [Custom whitening trays](/article/whitening-trays-custom-vs-stock-fit.html) made specifically for your teeth hold gel better and deliver professional-level results over about 1-2 weeks at home.
 
 Whitening strips are convenient and accessible, costing less than professional treatments and requiring no dental appointments. But if you want maximum whitening power, professional options work better. For maintenance between professional treatments or for people with mild cosmetic concerns and realistic expectations, strips are a good choice.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss whitening strips over counter bleaching, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

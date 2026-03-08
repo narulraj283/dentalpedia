@@ -14,7 +14,6 @@ references:
   - "American Dental Association Council on Dental Practice. Dental practice parameters: clinical practice guidelines for oral and maxillofacial surgery. J Am Dent Assoc. 2012;143(8):839-844."
   - "Moles DR, Bullock AD. Sensitivity and specificity of clinical examination of the teeth for initial occlusal caries. J Dent Res. 2010;89(2):165-169."
 ---
-
 ## The Initial Comprehensive Exam
 
 When you see a new dentist, you get an initial comprehensive examination. This takes longer (45-60 minutes) than your regular checkup because the dentist is establishing your baseline health status. They're looking at everything: your medical history (especially diseases affecting your mouth, medications that cause dry mouth), your head and neck (checking for lumps, abnormalities, lymph node enlargement), your soft tissues (inside your cheeks, under your tongue, your palate—looking for sores, discoloration, or suspicious areas), your teeth (decay, wear, damage), and your bite (how your teeth come together).
@@ -79,7 +78,7 @@ Bite assessment examines whether teeth contact properly. Soft tissue screening l
 
 Ask your dentist to explain what they're finding during your exam and what specific measurements or X-ray findings indicate.
 
-> **Key Takeaway:** Understanding the different types of dental exams and what your dentist is looking for.
+> **Key Takeaway:** When you see a new dentist, you get an initial comprehensive examination.
 
 ## Related Articles
 

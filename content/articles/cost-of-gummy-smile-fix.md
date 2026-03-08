@@ -20,7 +20,6 @@ references:
   - "Peixoto H, Caldas LD, Cymrot M, et al. Is buccal mucosa hyperplasia a side effect of a phenytoin/nifedipine association? Head Face Med. 2016;12:1-7."
   - "Yoon A, Laskin DM. Anterior open bite treated with elimination of the posterior bite. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2000;89(1):6-8."
 ---
-
 ## Is Your Gummy Smile Affecting Your Confidence?
 
 A "gummy smile" is when more than 3mm of gum tissue shows when you smile. About one in five to three in seven people have this issue, and it's one of the most common cosmetic concerns we hear about. The good news? There are multiple ways to fix it, ranging from affordable non-surgical options to more involved surgical corrections. Let's explore the options and costs.
@@ -98,7 +97,7 @@ For more information, see [Your Guide to Smile Transformation and Cosmetic Denta
 
 Fixing a gummy smile costs anywhere from $300 for temporary fillers to $16,000 for major jaw surgery, depending on the cause and your preferred solution. Non-surgical options are cheaper but temporary. Surgical options cost more but are permanent. The best choice depends on what's causing your gummy smile and your budget. Talk to your dentist about the root cause of your smile and which fix is right for your specific situation.
 
-> **Key Takeaway:** A 'gummy smile' is when more than 3mm of gum tissue shows when you smile.
+> **Key Takeaway:** A "gummy smile" is when more than 3mm of gum tissue shows when you smile.
 
 ## Related Articles
 

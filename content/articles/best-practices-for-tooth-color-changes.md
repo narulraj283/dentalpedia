@@ -20,7 +20,6 @@ references:
   - "Grosvold M. Causes of tooth discoloration and bleaching methods. Compendium. 1992;13(1):35-43."
   - "Watts A, Addy M. Tooth discolouration and staining: a review of the literature. Br Dent J. 2001;190(6):309-316."
 ---
-
 ## Why Your Teeth Change Color as You Age (And What You Can Do)
 
 Your teeth aren't the same color at 50 as they were at 20. If you're noticing your smile looks more yellow or darker than it used to, you're experiencing something completely normal. Understanding why it happens and what you can actually do about it helps you make smart choices about whitening, prevention, or other treatments.

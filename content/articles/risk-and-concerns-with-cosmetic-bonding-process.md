@@ -32,7 +32,6 @@ references:
   - title: "Brouwer F, et al. Cosmetic improvements of anterior teeth: a systematic review and meta-analysis. Dent Mater. 2013;29(10):993-1003."
     url: https://pubmed.ncbi.nlm.nih.gov/23932500
 ---
-
 ## Introduction
 
 Cosmetic bonding—adding tooth-colored material to your teeth to improve their appearance—sounds simple and appealing. It's quick, done right in your dentist's chair, costs less than crowns or veneers, and preserves tooth structure. But here's what you need to know: bonding has real durability limits that your dentist might not fully explain. Your beautiful bonded smile might start looking stained, chipped, or dull within a year or two. Understanding these limitations helps you decide whether bonding is right for you or whether other longer-lasting options make better sense.

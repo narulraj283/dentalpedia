@@ -30,7 +30,6 @@ references:
   - title: "Jacobsen I, Kareholm-Önnby J. Prognosis of luxated permanent teeth. Endod Dent Traumatol. 1991;7(4):144-160."
     url: https://pubmed.ncbi.nlm.nih.gov/1915163
 ---
-
 ## Why Testing Your Child's Tooth Nerve Is Tricky
 
 When a child chips, cracks, or injures a tooth, your dentist needs to figure out if the nerve inside the tooth is still alive and healthy. This is called testing the "pulp" of the tooth. In adults, this test is fairly straightforward, but in children, it's much more complicated.

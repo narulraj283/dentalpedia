@@ -24,7 +24,6 @@ references:
   - title: "Antimicrobial mouthwash and chemical plaque control adjuncts"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26890660
 ---
-
 Gum disease is entirely preventable. Unlike some dental problems, healthy gums are something you can control through daily habits and regular professional care. Understanding gum disease risk and how to prevent it helps you keep your gums—and the teeth they support—healthy for life.
 
 ## How Gum Disease Starts

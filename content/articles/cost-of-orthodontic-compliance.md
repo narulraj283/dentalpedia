@@ -15,7 +15,6 @@ references:
   - "Cerny R, Kypta J. Enamel Lesions After Bracket Bonding and Debonding With and Without Protective Sealing of Enamel. Am J Orthod Dentofacial Orthop. 2012;141(4):420-426."
   - "Sergl HG, Klages U, Zentner A. Compliance in Orthodontics: Issues and Management. Am J Orthod Dentofacial Orthop. 2000;117(6):667-679."
 ---
-
 ## Your Orthodontic Compliance Directly Affects Your Cost
 
 Staying compliant with your orthodontist's instructions might seem like something they suggest just to be helpful. Actually, compliance is directly tied to how much you ultimately pay and how long treatment takes. Poor compliance costs $1,200-2,500 extra through extended treatment, broken brackets, and permanent tooth damage.
@@ -105,20 +104,17 @@ Teenagers have lower compliance rates than adults (it's normal—all that's goin
 
 Adults who chose to straighten their teeth tend to be very compliant—they made an active decision and follow through. Compliance is generally easier for adults but not universal.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about orthodontic compliance and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 
-For more information, see [How Long Does Orthodontic Treatment Take?](/article/how-to-orthodontic-treatment-duration.html).
+Related reading: [Dental Transposition—When Teeth Erupt in Wrong Sequence](/article/transposition-teeth-in-wrong-sequence.html).
 
 ## Conclusion
 
 Orthodontic compliance—showing up to appointments, following dietary restrictions, wearing elastics/aligners as prescribed, maintaining good hygiene, and wearing retainers afterward—saves you $1,200-2,500+ in extra costs and months of extended treatment. Learn about treatment duration and how compliance affects it. The instructions your orthodontist gives aren't suggestions—they're the roadmap to finishing faster and paying less.
 
-> **Key Takeaway:** Staying compliant with your orthodontist's instructions might seem like something they suggest just to be helpful.
+> **Key Takeaway:** Actually, compliance is directly tied to how much you ultimately pay and how long treatment takes. Poor compliance costs $1,200-2,500 extra through extended treatment, broken brackets, and permanent tooth damage.
 
 ## Related Articles
 

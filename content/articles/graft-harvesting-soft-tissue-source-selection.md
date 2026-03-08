@@ -32,7 +32,6 @@ references:
   - title: "Zucchelli G, Mele M, Stefanini M, et al. Patient morbidity associated with subepithelial connective tissue graft harvesting. J Periodontol. 2010;81(8):1171-1177."
     url: "https://www.ncbi.nlm.nih.gov/pubmed"
 ---
-
 ## When You Need a Soft Tissue Graft
 
 Gum recession is a common problem. Your gum line recedes—pulls away from your teeth—and your root becomes exposed. This can happen from aggressive brushing, gum disease, aging, or other causes. If the recession is significant and bothersome, or if your tooth root is sensitive or at risk for decay, your dentist might recommend a graft to restore that gum tissue.

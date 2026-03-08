@@ -14,7 +14,6 @@ references:
   - "Derks J, Hauser B. Peri-implant diseases: diagnosis and management. Clin Oral Implants Res. 2015;26(S11):1-7."
   - "Chrcanovic BR, Kisch J, Albrektsson T, Wennerberg A. Factors Influencing Early Dental Implant Failures. J Dent Res. 2016;95(9):995-1002."
 ---
-
 ## The Success Rate Reality
 
 Dental implants succeed 95-98% of the time at 10 years. That's genuinely impressive—it's one of the most successful procedures in dentistry. But that also means 2-5% fail. If you've just discovered your implant is loose or infected, you're probably in that small percentage wondering what went wrong.
@@ -137,7 +136,7 @@ Advanced peri-implantitis requires surgical debridement, regeneration, or remova
 
 If you suspect implant problems, contact your implant dentist immediately for evaluation and management. Early intervention substantially improves outcomes.
 
-> **Key Takeaway:** Why some dental implants fail and what you can do to prevent it or handle it if it happens.
+> **Key Takeaway:** Dental implants succeed 95-98% of the time at 10 years.
 
 ## Related Articles
 

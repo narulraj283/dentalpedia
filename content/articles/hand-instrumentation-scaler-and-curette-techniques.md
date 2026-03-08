@@ -28,10 +28,9 @@ references:
   - title: "Manual vs. Powered Instrumentation"
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/jcpe.12877
 ---
+Deep cleaning for gum disease involves hand instruments working under your gumline to remove buildup. The scraping and vibration you feel during these appointments isn't random—your dentist is using specific technique and instrument choices to remove tartar effectively while protecting your gum tissue.
 
 ## Hand Instruments: Scalers and Curettes in Gum Care
-
-During deep cleaning for gum disease, your dentist uses hand instruments—scalers and curettes—to remove tartar and bacteria from below your gumline. Understanding these instruments helps you understand your treatment.
 
 ## Scalers vs. Curettes
 

@@ -28,7 +28,6 @@ references:
   - title: "Witt J, Ritter AV, Hanson BP. Active Caries Lesions Etiology, Diagnosis, Treatment, Prevention, and Management. Compend Contin Educ Dent. 1995;16(3):238-249."
     url: https://pubmed.ncbi.nlm.nih.gov/8608476
 ---
-
 ## Cavities Don't Happen Overnight
 
 Most people think cavities form suddenly, but they actually develop slowly over weeks and months. Understanding how cavities progress helps you appreciate why prevention is so important and why finding them early makes such a big difference. Early cavities can often be stopped or even reversed, while late-stage cavities need fillings or root canals.
@@ -56,12 +55,6 @@ If decay continues spreading without treatment, it eventually reaches the nerve 
 ## What Slows Down or Speeds Up Cavity Formation
 
 How fast cavities form depends on your diet, saliva, and oral hygiene. If you snack on sugary foods throughout the day, cavities form much faster than if you eat sugar only at meals. Good saliva production slows cavity progression because saliva buffers acid and provides minerals to reharden teeth. Fluoride in toothpaste and water slows progression by 40 to 50%. Excellent brushing and flossing can actually stop cavity progression even in people prone to cavities.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for cavity formation process, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

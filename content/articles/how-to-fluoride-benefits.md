@@ -26,7 +26,6 @@ references:
   - title: "Sodium fluoride versus stannous fluoride: comparative efficacy in caries prevention"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25891364
 ---
-
 Fluoride gets a lot of attention—some positive, some skeptical. But decades of research confirms fluoride is one of the most effective tools we have for preventing cavities. Understanding how it works and how to use it properly helps you make informed decisions about your oral health.
 
 ## How Fluoride Actually Protects Teeth
@@ -108,12 +107,6 @@ Everyone benefits from fluoride in toothpaste. But some people benefit more:
 4. **Use fluoride rinse** if cavity-prone
 5. **Get professional fluoride varnish** during dental visits if recommended
 6. **For kids:** Use appropriate amounts (grain of rice under 3, pea-sized 3-6, regular after 6)
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about fluoride benefits and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Conclusion
 

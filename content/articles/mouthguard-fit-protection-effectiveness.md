@@ -28,7 +28,6 @@ references:
   - title: "Dental and Oral Soft Tissue Trauma in Athletes"
     url: https://www.ncbi.nlm.nih.gov/pubmed/23045839
 ---
-
 One in six young athletes who play contact sports will experience a dental injury at some point—a knocked-out tooth, cracked tooth, or lip laceration from impact. The good news is that a properly fitting mouthguard prevents up to 99% of these injuries. The bad news is many athletes wear guards that provide little actual protection because they don't fit properly, are uncomfortable, or were never designed for real protection. Investing in the right mouthguard for your sport, ensuring it fits correctly, and actually wearing it transforms injury risk from significant to nearly zero.
 
 ## Why Mouthguards Matter in Sports
@@ -84,16 +83,8 @@ If your guard slips, talks irritate you, or you need to constantly adjust it, it
 
 Your mouthguard needs care to stay protective. Rinse it after wearing, clean it with toothbrush and toothpaste weekly, and store it in a ventilated case (never in a plastic bag where bacteria multiply). Replace it every 3-5 years or sooner if it becomes visibly worn, hard, cracked, or uncomfortable. Kids and teens need replacement more frequently as their teeth erupt and grow.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about mouthguard fit: protection effectiveness and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
-
-
-For more information, see [Athletic Drink Acidity: Effects on Dental Erosion](/article/athletic-drink-acidity-effects.html).
+Related reading: [Energy Drinks and Athletic Performance](/article/energy-drinks-athlete-consumption-risks.html).
 
 ## Conclusion
 

@@ -32,7 +32,6 @@ references:
   - title: "Treatment Response and Maintenance Therapy Intervals in Localized versus Generalized Periodontitis"
     url: https://www.ncbi.nlm.nih.gov/pubmed/19775142
 ---
-
 ## Two Different Patterns of Gum Disease
 
 Gum disease (periodontitis) doesn't affect everyone's mouth the same way. In some people, it's confined to a few specific areas, while in others, it affects most of your mouth. These two patterns—localized and generalized disease—look different, respond to treatment differently, and have different long-term outlooks. Understanding which pattern you have helps you and your dentist create a treatment plan that actually addresses your specific situation.
@@ -95,9 +94,11 @@ Your dentist is your partner in fighting this disease. The more honestly you can
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+The distinction between localized and generalized periodontitis distribution patterns encompasses far more than descriptive categorization. If you have questions, your dentist can help you understand your options. Generalized disease affects most of your mouth and typically requires comprehensive treatment addressing the overall factors driving disease. Understanding which type you have helps you know what commitment is needed to keep your teeth long-term.
 
-> **Key Takeaway:** Localized gum disease affects specific areas and usually responds well to professional cleaning and improved home care. Generalized disease affects most of your mouth and typically requires comprehensive treatment addressing the overall factors driving disease. Understanding which type you have helps you know what commitment is needed to keep your teeth long-term.
+
+
+> **Key Takeaway:** Gum disease (periodontitis) doesn't affect everyone's mouth the same way.
 
 ## Related Articles
 

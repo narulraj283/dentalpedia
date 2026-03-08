@@ -32,7 +32,6 @@ references:
   - title: "Hasson H, Ismail AI, Neiva G. Home-use whitening gels with carbamide peroxide: a systematic review of clinical efficacy and safety. J Am Dent Assoc. 2006;137(10):1357-1365."
     url: https://pubmed.ncbi.nlm.nih.gov/17012733
 ---
-
 Natural teeth whitening methods fill the internet with promises of brighter smiles without chemicals. Oil pulling, baking soda, strawberries, turmeric—countless natural approaches claim to whiten teeth. But which actually work, and which can damage your enamel?
 
 ## Oil Pulling: Ancient Practice, Modest Results
@@ -78,14 +77,6 @@ For modest extrinsic staining, regular professional cleanings remove stains bett
 Professional whitening produces 4-8 shade units of change in 1-2 weeks. Natural methods produce 1-2 shade units over weeks to months. Dramatic whitening requires professional treatment. Natural methods work for maintenance or preventing new stains, not for significant whitening improvement.
 
 If you have deeply discolored teeth wanting noticeable improvement, natural approaches waste time and money. Professional whitening delivers predictable results. For people with mild staining accepting slow change, natural methods provide safer long-term options avoiding enamel damage from high-abrasivity products.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about natural teeth whitening: what actually works and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

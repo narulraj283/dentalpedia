@@ -20,7 +20,6 @@ references:
   - "Irinakis T. Effectiveness of Injectable Platelet-Rich Fibrin (PRF) on postoperative hemostasis and swelling in extraction sites and following implant placement. J Oral Implantol. 2023;49(6):512-520."
   - "Jambhekar SS, Kerkar RA, Layangealag SP. Clinical and radiographic evaluation of bone resorption following tooth extraction. J Indian Soc Periodontol. 2023;27(3):245-252."
 ---
-
 ## Day 1: Clot Formation and Initial Swelling
 
 Swelling starts within hours and peaks by tomorrow. This is inflammation doing its job—sending blood and white blood cells to clean up and begin repair. You'll likely have some minor oozing. Pain peaks today as the anesthetic wears off, then improves steadily. A slight fever (under 100.5°F) is normal inflammatory response, not infection.

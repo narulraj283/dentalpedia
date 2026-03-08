@@ -20,7 +20,6 @@ references:
   - "Szczesiul A, et al. Emergency management of dental trauma. Australian Dental Journal. 2017;62(Suppl 1):8-16."
   - "Levin L, et al. Treatment of a fractured tooth apex following trauma. American Journal of Dentistry. 2011;24(4):203-208."
 ---
-
 A ball hits your face. Your tooth feels loose, cracks, or gets knocked completely out. Now what? Time is absolutely critical, and what you do in the first few minutes dramatically affects the outcome.
 
 ## What If My Tooth Gets Knocked Out Completely?
@@ -100,21 +99,13 @@ Knocked-out baby teeth generally shouldn't be replanted—the trauma and infecti
 
 Cracked or loose baby teeth might be monitored rather than treated, since they'll eventually shed anyway. Your dentist guides this decision based on the tooth's age and timeline.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about mouth injuries treatment and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
-
 ## Conclusion
 
 Traumatic mouth injuries need rapid professional evaluation. Knocked-out teeth have excellent survival chances if replanted within 15-30 minutes—delay dramatically reduces success. Time is critical: immediate action matters more than waiting for perfect conditions.
 
 Cracked teeth might not need root canal immediately, but they need professional assessment and often require stabilization. Professional closure of mouth lacerations improves healing. Antibiotic prophylaxis reduces infection risk after traumatic injuries.
 
-> **Key Takeaway:** Teeth knocked out or cracked need immediate professional care—what you do in the first 30 minutes dramatically affects the outcome.
+> **Key Takeaway:** A ball hits your face. Your tooth feels loose, cracks, or gets knocked completely out.
 
 ## Related Articles
 

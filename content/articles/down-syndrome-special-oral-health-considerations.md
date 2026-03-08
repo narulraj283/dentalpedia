@@ -20,7 +20,6 @@ references:
   - "Gimenez-Llort L, et al. Neurobiological basis of pathological behaviors and learning in Down syndrome: A review. Current Pharmaceutical Design. 2012;18(37):6057-6063."
   - "Cardoso CL, et al. Caries prevalence and oral hygiene in Down syndrome: A comparative study. International Journal of Paediatric Dentistry. 2013;23(3):216-224."
 ---
-
 ## How Down Syndrome Affects Your Child's Teeth and Gums
 
 If your child has Down syndrome, taking care of their teeth requires some special approaches. Down syndrome affects how teeth develop and how the mouth stays healthy. Understanding these differences helps you work with your dental team to prevent problems early. The good news is that with the right plan and commitment, children with Down syndrome can have healthy smiles.
@@ -87,7 +86,7 @@ Your child with Down syndrome can have a healthy smile. While cavities, gum dise
 
 Work closely with a pediatric dentist who understands Down syndrome. Together, you can create a care plan that works for your family and helps your child maintain healthy teeth throughout life. Talk to your dentist about what specific strategies are best for your child's unique situation.
 
-> **Key Takeaway:** Chromosome 21 trisomy creates unique oral health challenges requiring specialized pediatric dental management strategies.
+> **Key Takeaway:** If your child has Down syndrome, taking care of their teeth requires some special approaches.
 
 ## Related Articles
 

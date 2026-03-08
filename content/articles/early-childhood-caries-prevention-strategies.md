@@ -20,7 +20,6 @@ references:
   - "Kassebaum NJ, et al. Global burden of untreated caries: A systematic review and metaregression. Journal of Dental Research. 2015;94(5):650-658."
   - "Lees A, et al. Nutritional and dietary considerations in dental health. Journal of Pediatric Dentistry. 2016;38(5):356-365."
 ---
-
 ## Building a Prevention Plan Before Your Baby Arrives
 
 The best time to prevent early childhood cavities is before your baby is even born. If you're pregnant or planning to become pregnant, start by getting your own teeth treated. If you have cavities, untreated gum disease, or active tooth decay, you carry more cavity-causing bacteria and are more likely to pass it to your baby. Getting your teeth cleaned and cavities filled before your baby arrives reduces the risk of early transmission.
@@ -96,7 +95,7 @@ Early childhood cavity prevention requires a comprehensive approach starting bef
 
 Work with your pediatric dentist to create a prevention plan customized to your child's specific risk factors. The effort you invest in prevention now prevents pain, complications, and extensive treatment later.
 
-> **Key Takeaway:** Evidence-based prevention strategies addressing dietary, microbial, and behavioral risk factors reduce baby bottle tooth decay incidence.
+> **Key Takeaway:** The best time to prevent early childhood cavities is before your baby is even born.
 
 ## Related Articles
 

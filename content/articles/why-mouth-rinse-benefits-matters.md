@@ -32,12 +32,9 @@ references:
   - title: "Stain and Discoloration Associated with Antimicrobial Mouthwash Agents"
     url: https://pubmed.ncbi.nlm.nih.gov/27634537
 ---
+Most mouthwashes are just minty water that makes your breath fresh—they prevent nothing. But some rinses actually prevent cavities or gum disease, while others are pure marketing. Understanding which products work for which problems helps you avoid wasting money on rinses that do nothing.
 
 ## Should You Use Mouthwash? A Patient's Guide to What Actually Works
-
-Walk down the mouthwash aisle at any pharmacy, and you'll see hundreds of choices. They all promise fresh breath, whiter teeth, healthier gums. But the truth?
-
-Most mouthwashes are just for show. Some actually help prevent disease, while others are pure marketing. Understanding what mouthwash can and can't do, and knowing which products work for which problems, helps you make smart choices that actually benefit your teeth and gums instead of wasting money on rinses that don't do anything.
 
 ## The Difference Between Real Medicine and Just Rinsing
 

@@ -22,7 +22,6 @@ references:
   - "Newman MG, Takei HF, Klokkevold PR. Clinical Periodontology (12th ed.). Philadelphia: Elsevier Saunders; 2021."
   - "Schropp L, Wenzel A, Kostopoulos L, et al. Bone healing and soft tissue contour changes following single-tooth extraction. Journal of Clinical Periodontology. 2019;30(3):274-280."
 ---
-
 ## Understanding Extraction Costs
 
 Tooth extraction costs vary dramatically depending on how complicated the extraction is. Learning more about root canal vs extraction can help you understand this better. A simple extraction might cost $100-$300, while a surgical extraction of an impacted wisdom tooth might cost $600-$1,200.
@@ -198,16 +197,11 @@ Total follow-up costs: $15-$165 over 2 weeks
 
 **Discuss replacement options with your dentist:** Know costs upfront for post-extraction replacement before deciding to extract.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about surgical teeth removal and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 
-For more information, see [Guided Bone Regeneration in Dental Surgery: Principles](/article/guided-bone-regeneration-in-dental-surgery.html) and [Anesthesia Types in Oral Surgery](/article/benefits-of-anesthesia-types.html).
+Related reading: [Extraction Complications](/article/extraction-complications-complete-guide.html) and [Extraction Complications: Patient Guide to Recognition](/article/extraction-complications-what-you-need-to-know.html).
 
 ## Conclusion
 
@@ -215,7 +209,7 @@ Extraction costs range from $100-$300 for simple teeth to $600-$1,200 for impact
 
 Most expensive part is future tooth replacement ($1,800-$5,000 per tooth). Before extracting, understand total cost including replacement. Sometimes root canal therapy ($2,700) costs less than extraction plus replacement ($4,000-$5,000). Discuss the full picture with your dentist before making extraction decisions.
 
-> **Key Takeaway:** Understand extraction costs, what affects the price, and what happens after tooth removal.
+> **Key Takeaway:** Tooth extraction costs vary dramatically depending on how complicated the extraction is.
 
 ## Related Articles
 

@@ -32,7 +32,6 @@ references:
   - title: "Robinson PJ. Which radiographic projections of the tooth and implant are most useful for the clinician? Dent Clin North Am. 1998;42(4):561-585."
     url: https://pubmed.ncbi.nlm.nih.gov/9850141
 ---
-
 ## Getting a Treatment Plan
 
 When your dentist identifies problems requiring treatment, they discuss treatment options and create a treatment plan. This plan outlines what needs treatment, why, what options exist, associated costs, timeline, and expected outcomes. A good treatment plan helps you understand your dental health status and make informed decisions about treatment.
@@ -90,16 +89,6 @@ If you're having oral surgery, you'll receive detailed post-operative instructio
 The best outcomes happen when there's clear communication between you and your dentist. Ask questions if you don't understand something. Tell your dentist if you're anxious about a procedure so they can help manage your anxiety. Let them know about previous dental experiences that were difficult or traumatic.
 
 If you're uncomfortable with a recommendation or want a second opinion, say so. Good dentists welcome questions and encourage patients to make informed decisions. If your dentist becomes defensive about questions or makes you feel rushed, consider seeking another opinion.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about planning your dental procedures: what to expect and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 

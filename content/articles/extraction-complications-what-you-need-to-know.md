@@ -26,7 +26,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: 'Extraction Complications: Patient Guide to Recognition'
 ---
-
 ## What to Expect After Your Tooth Is Removed
 
 Most people do fine after having a tooth extracted. But it's important to know what's normal healing and what might be a problem. About 2 to 5 percent of extractions have some kind of complication, though most are minor and easy to manage. Before your extraction, your dentist should explain what to expect during recovery so you know what's normal.
@@ -111,7 +110,7 @@ These things don't need an emergency call but should be mentioned at your next a
 
 Most people heal just fine after extraction. Knowing what's normal helps you take good care of yourself and know when to call your dentist. If something doesn't seem right, don't hesitate to contact them.
 
-> **Key Takeaway:** Understanding common extraction complications enables patients to recognize warning signs and seek timely intervention.
+> **Key Takeaway:** Most people do fine after having a tooth extracted.
 
 ## Related Articles
 

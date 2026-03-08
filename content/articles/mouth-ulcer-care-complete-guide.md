@@ -32,7 +32,6 @@ references:
   - title: "Oral ulcer healing: Topical agents, laser therapy, and wound management strategies"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25348277
 ---
-
 Mouth ulcers affect about 1 in 5 people at some point—you're not alone if you have one. The good news is that most ulcers heal on their own within a week or two. The bad news is that they hurt significantly and can interfere with eating and speaking. Understanding what caused your ulcer and how to treat it helps you heal faster, manage pain better, and know when you should see your dentist instead of waiting it out. Different ulcer types need different approaches, so identifying what you're dealing with is your first step to relief.
 
 ## Canker Sores: The Most Common Type

@@ -22,7 +22,6 @@ references:
   - "Sarfati A, Dutil S, Aubin MC, et al. Optical and X-ray measurement of oral bone density change around implants. Clin Oral Implants Res. 2010;21(5):509-515."
   - "Slots J, Listgarten MA. Bacteriology of human experimental gingivitis. J Periodontal Res. 1988;23(4):275-280."
 ---
-
 ## Why Surgeons Use Flaps to Reach Problem Areas
 
 When you have serious dental problems deep in your jawbone, your surgeon needs a way to see exactly what they're dealing with. This is where flap surgery comes in. Your surgeon makes a small cut in your gum, gently lifts the tissue back like opening a door, and then has a clear view of the bone and tooth roots underneath. This approach has been used successfully for over 70 years and remains one of the most effective ways to treat complex dental problems.
@@ -97,7 +96,7 @@ Flap surgery opens the door to treating dental problems that can't be handled an
 
 Discuss with your surgical team whether flap surgery is right for your situation and what realistic outcomes you can expect based on your specific condition.
 
-> **Key Takeaway:** Periodontal and surgical flap techniques provide direct access to bone for definitive treatment of osseous defects and pathology.
+> **Key Takeaway:** When you have serious dental problems deep in your jawbone, your surgeon needs a way to see exactly what they're dealing with.
 
 ## Related Articles
 

@@ -30,7 +30,6 @@ references:
   - title: "Treatment Response Factors: Predictors of Outcomes in Periodontitis Management"
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/jcpe.12901
 ---
-
 ## Your Gum Disease Treatment Options
 
 If you've been diagnosed with gum disease, you probably want to know: Can it be fixed? The answer is yes—but the treatment depends on how advanced your disease is. This guide explains what treatment looks like at each stage, how effective each approach is, and what you can expect after treatment. 

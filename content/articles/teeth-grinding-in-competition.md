@@ -32,7 +32,6 @@ references:
   - title: "Sonnesen L, et al. Bruxism impact on maxillary and mandibular development. Angle Orthod. 2012;82(2):298-304."
     url: https://pubmed.ncbi.nlm.nih.gov/21895630
 ---
-
 ## Why Your Body Makes You Clench During Competition
 
 During intense competition, your brain activates motor patterns that couple your jaw with your whole-body effort. Your jaw muscles receive excitatory signals at the same time as your limb and trunk muscles during high-intensity effort. This is an ancient evolutionary pattern—your ancestors used jaw clenching for defensive positioning during physical exertion.
@@ -98,12 +97,6 @@ Standard sports mouthguards provide impact protection but don't specifically add
 Athletes with untreated competition-era bruxism frequently develop extensive restorations, tooth loss, and TMJ arthrosis by age 40-50. Cumulative enamel wear and cusp fractures require progressive restoration: initially small composite restorations, then larger buildups, eventually crown coverage. Multiple tooth crowns in middle age often reflect career-time bruxism patterns.
 
 Early recognition and mouthguard use during competitive careers prevents 70-80% of these age-related consequences.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss teeth grinding in competition, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

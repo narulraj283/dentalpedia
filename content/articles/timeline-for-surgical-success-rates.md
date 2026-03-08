@@ -47,7 +47,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: 'Oral Surgical Success Rates: Evidence-Based Outcome'
 ---
-
 ## Introduction
 
 Modern oral surgery has excellent success rates. Understanding what "success" means and what factors affect your outcomes helps you make informed decisions. Most procedures work great when done properly, though individual results vary based on your health, age, and habits.
@@ -119,12 +118,6 @@ Your dentist categorizes your case to set realistic expectations and plan accord
 **Quit smoking**: This single change improves every surgery success rate. Smoking reduces healing and increases complications. **Control diabetes**: Even modest blood sugar improvement helps. Ask your doctor to help optimize your glucose. **Excellent hygiene**: Brush twice daily, floss daily, use antimicrobial rinses if recommended. **Attend appointments**: Follow-up care matters. Don't skip suture removal, impressions, or delivery appointments. **Take care of restorations**: Once implants or restorations are done, they need care. Brushing, flossing, and regular cleanings keep them healthy for decades.
 
 Learn more at [Why-oral-surgery-recovery-timeline-matters](/article/why-oral-surgery-recovery-timeline-matters.html) and [Risk-and-concerns-with-wisdom-teeth-extraction](/article/risk-and-concerns-with-wisdom-teeth-extraction.html).
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for surgical success rates, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

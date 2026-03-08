@@ -22,7 +22,6 @@ references:
   - "Hooper S, West NX, Pickles MJ, et al. Investigation of erosion and abrasion on bleached enamel: an in situ study. J Clin Dent. 2003;14(2):44-51."
   - "Lussi A, Megert B, Shellis RP, Wang X. Analysis of the erosive effect of different dietary substances and medications. Br Dent J. 2012;212(6):15-20."
 ---
-
 Enamel erosion is different from cavities—it's caused by acid dissolving your tooth surface, not bacteria. Soft drinks, citrus juice, wine, and even some medications can erode enamel silently over years until you notice your teeth are short, discolored, or sensitive. The good news: prevention is cheap and works well. The bad news: once erosion is severe, repair costs thousands of dollars.
 
 ## Early Detection Saves Thousands
@@ -87,12 +86,12 @@ Early erosion detection at routine exams ($100 to $150) enables prevention costi
 
 Full-mouth reconstruction for severe cases costs $24,000 to $70,000. Medical coordination for GERD and medication management prevent erosion progression at minimal cost. Occupational and athletic exposure requires targeted prevention strategies. Lifetime cost analysis demonstrates exceptional prevention value: 30-year prevention investment of $6,000 prevents restoration costs of $40,000 to $80,000. Talk to your dentist about your erosion risk and prevention strategies right for your individual situation.
 
-> **Key Takeaway:** Enamel erosion is different from cavities—it's caused by acid dissolving your tooth surface, not bacteria.
+> **Key Takeaway:** Soft drinks, citrus juice, wine, and even some medications can erode enamel silently over years until you notice your teeth are short, discolored, or sensitive. The good news: prevention is cheap and works well.
 
 ## Related Articles
 
 - [Cost of Cosmetic Tooth Repair](/article/cost-of-cosmetic-tooth-repair.html)
-- [Dental Treatment During Pregnancy - Safety,](/article/pregnancy-and-dental-care-safety-and-timing.html)
+- [Pregnancy and Dental Care Safety and Timing](/article/pregnancy-and-dental-care-safety-and-timing.html)
 - [How Your Medications Affect Your Teeth and Gums](/article/multiple-medications-and-oral-health.html)
 - [Cost of Bad Breath Elimination](/article/cost-of-bad-breath-elimination.html)
 - [Crown Shade Matching: Achieving Natural Tooth Color](/article/crown-shade-matching-natural-tooth-color.html)

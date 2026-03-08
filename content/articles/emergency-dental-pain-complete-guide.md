@@ -19,7 +19,6 @@ references:
   - "Meechan JG, Seymour RA. The use of local anesthesia in dentistry during pregnancy. Dent Update. 2006;33(8):470-472, 474-475."
   - "Garfield DA, Troullos ES. Clinical evaluation and emergency management of tooth-related pain. In: Emergency Medicine in Dental Practice. Dent Clin North Am. 2011;55(1):77-96."
 ---
-
 ## What Causes Severe Dental Pain and What to Do About It
 
 Severe dental pain usually means something is wrong and needs professional attention. Possible causes include cavities that have reached the nerve, abscessed teeth (infections at the root), cracked or broken teeth, gum disease, or problems with previous dental work. Some dental pain is an emergency that needs immediate attention (like a severe abscess), while other pain can wait for an appointment (like a small cavity).
@@ -98,7 +97,7 @@ Severe dental pain usually means something needs attention. Don't ignore it or h
 
 Regular dental visits and good oral hygiene prevent most dental pain and emergencies. Talk to your dentist about your pain and what's causing it.
 
-> **Key Takeaway:** Severe dental pain usually means something is wrong and needs professional attention.
+> **Key Takeaway:** Possible causes include cavities that have reached the nerve, abscessed teeth (infections at the root), cracked or broken teeth, gum disease, or problems with previous dental work. Some dental pain is an emergency that needs immediate attention (like a severe abscess), while other pain can wait for an appointment (like a small cavity).
 
 ## Related Articles
 

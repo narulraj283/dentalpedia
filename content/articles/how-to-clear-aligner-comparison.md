@@ -32,7 +32,6 @@ references:
   - title: "Enamel surface alterations and biofilm retention following aligner therapy"
     url: https://www.ncbi.nlm.nih.gov/pubmed/30912285
 ---
-
 Clear aligners are transparent plastic trays that straighten your teeth without brackets and wires. The three main systems—Invisalign, SmileDirectClub, and ClearCorrect—each work differently and are suited to different situations. Understanding how they compare helps you choose the right option for your smile.
 
 ## Invisalign: The Most Established Option
@@ -130,5 +129,5 @@ SmileDirectClub is simpler and cheaper but only for mild crowding. Choose based 
 - [Common Misconceptions About Clear Aligner Comparison](/article/common-misconceptions-about-clear-aligner-comparison.html)
 - [Intermaxillary Elastics](/article/intermaxillary-elastics-bite-correction-elastics.html)
 - [Why Teeth Straightening Cost Matters](/article/why-teeth-straightening-cost-matters.html)
-- [Coil Spring Mechanics in Orthodontics: Force Delivery,](/article/coil-spring-compression-spring-force.html)
+- [Coil Spring Mechanics in Orthodontics: Force Delivery](/article/coil-spring-compression-spring-force.html)
 

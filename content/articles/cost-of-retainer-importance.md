@@ -22,7 +22,6 @@ references:
   - "Nanda R, editor. Retention and Stability in Orthodontics. Saunders/Elsevier; 2010."
   - "Kandasamy S, Woods MG. Long-term periodontal health of orthognathic surgery patients. Aust Dent J. 2013;58(3):350-357."
 ---
-
 ## Why Retainers Matter
 
 After your braces come off, your teeth want to move back toward their original positions. Without retainers, 30-50% of movement happens in the first 6 months, and 50-80% happens over 10 years. All that expensive orthodontia gets undone.
@@ -184,7 +183,7 @@ Retainers cost $400-$1,200 initially, with 10-year total costs of $700-$2,200 de
 
 The most important factor is wearing them consistently—exactly as your orthodontist recommends. Your orthodontic treatment investment isn't complete when your braces come off. Proper retention is essential to keep your teeth straight for life.
 
-> **Key Takeaway:** Understand why retainers matter after braces and what they cost to keep your teeth straight.
+> **Key Takeaway:** After your braces come off, your teeth want to move back toward their original positions.
 
 ## Related Articles
 

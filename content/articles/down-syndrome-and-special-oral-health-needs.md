@@ -20,7 +20,6 @@ references:
   - "Figueiredo RB, et al. Hypodontia and delayed eruption in Down syndrome. Journal of Clinical Pediatric Dentistry. 2015;39(1):45-52."
   - "Cardoso CL, et al. Prevalence of dental caries in individuals with Down syndrome. International Journal of Paediatric Dentistry. 2013;23(3):216-224."
 ---
-
 ## Understanding Dental Health With Down Syndrome
 
 People with Down syndrome often have unique dental needs that require special attention and adapted care approaches. If you care for someone with Down syndrome, you might notice they get cavities more easily, have teeth that come in later than usual, or develop gum problems at a younger age. These aren't character flaws or lack of effort—they're part of how Down syndrome affects teeth and gums. Understanding these differences helps you get the best dental care and catch problems early.
@@ -81,7 +80,7 @@ People with Down syndrome deserve excellent dental care tailored to their unique
 
 The key is starting early, finding a dentist who understands Down syndrome, and staying committed to prevention. Talk to your dentist about creating a personalized plan that works for your specific situation and lifestyle.
 
-> **Key Takeaway:** Comprehensive oral health management strategies for patients with Down syndrome and trisomy 21.
+> **Key Takeaway:** People with Down syndrome often have unique dental needs that require special attention and adapted care approaches.
 
 ## Related Articles
 

@@ -36,14 +36,13 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: 'Bruxism and TMJ: Connection, Biomechanical Impact'
 ---
-
 ## What Is Sleep Bruxism?
 
-Sleep bruxism is grinding or clenching your teeth during sleep—you're not doing it consciously, and you usually don't remember it. About 8-15% of adults do this; kids grind even more (15-20%), but most outgrow it. It happens mostly during light sleep stages and at the transitions between sleep stages. When you're grinding, your jaw muscles are contracting rhythmically—typically 5-15 grinding episodes per hour of sleep, each lasting 8-15 seconds. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+Sleep bruxism is grinding or clenching your teeth during sleep—you're not doing it consciously, and you usually don't remember it. About 8-15% of adults do this; kids grind even more (15-20%), but most outgrow it. It happens mostly during light sleep stages and at the transitions between sleep stages. When you're grinding, your jaw muscles are contracting rhythmically—typically 5-15 grinding episodes per hour of sleep, each lasting 8-15 seconds.
 
 Here's the interesting connection: about 70-80% of grinding episodes happen during brief arousals (moments when your brain partially wakes up). This suggests bruxism is your brain's response to sleep disruption rather than just a muscle problem. In fact, 50-70% of people who grind their teeth also have **obstructive sleep apnea** (where breathing pauses during sleep).
 
-They're related conditions affecting the same nervous system pathways. Grinding happens more in the first third of the night and at specific times when your sleep cycles shift. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+They're related conditions affecting the same nervous system pathways. Grinding happens more in the first third of the night and at specific times when your sleep cycles shift.
 
 Most grinding happens during light sleep, not deep sleep. Your body peaks grinding activity during these transition times, which is why most people grind in the first part of the night then settle down later.
 
@@ -172,6 +171,9 @@ Sleep bruxism affects 8-15% of the population with significant potential for TMJ
 Primary prevention emphasizes stress management, sleep hygiene optimization, and stimulant/alcohol reduction. These behavioral modifications produce 30-50% grinding frequency reduction and improve overall sleep quality. Occlusal splint therapy remains gold standard for protecting dentition from wear; approximately 50-70% of patients experience symptom improvement with proper splint design and consistent use.
 
 TMJ monitoring through clinical examination and periodic imaging identifies progressive pathology requiring advanced management. Progressive disc displacement, muscle dysfunction, and osteoarthritis development occurs at 2-3 times greater rates in untreated bruxers; early intervention with behavioral modification and protective splinting reduces long-term TMJ morbidity significantly.
+
+
+Related reading: [Digital Scanning: Modern Impression](/article/digital-scanning-modern-impression.html) and [Bite Force and Teeth: Complete Guide](/article/bite-force-and-teeth-complete-guide.html).
 
 ## Conclusion
 

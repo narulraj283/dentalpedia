@@ -52,14 +52,13 @@ references:
     title: "Comprehensive Review of Topical Analgesic Agents"
     journal: "Pain Physician"
 ---
-
 ## Understanding and Managing Different Types of Dental Pain
 
-Half of all adults experience dental pain each year, but not all dental pain is the same. Pain from a cavity feels different than post-extraction pain, which feels different than chronic jaw pain. Understanding what kind of pain you have helps you treat it effectively. Let's talk about the different types of dental and oral pain and how to manage each one. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+Half of all adults experience dental pain each year, but not all dental pain is the same. Pain from a cavity feels different than post-extraction pain, which feels different than chronic jaw pain. Understanding what kind of pain you have helps you treat it effectively. Let's talk about the different types of dental and oral pain and how to manage each one.
 
 ## Tooth Pain from Cavities or Decay (Pulpitis)
 
-The inside of your tooth (the pulp) can become inflamed from cavity-causing bacteria, a crack, or an injury. This is called pulpitis. There are two types: For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+The inside of your tooth (the pulp) can become inflamed from cavity-causing bacteria, a crack, or an injury. This is called pulpitis. There are two types:
 
 **Early-stage pulpitis:** Your tooth hurts when you eat something cold or sweet, but the pain goes away when you stop eating. The pain might be sharp or aching. The nerve inside your tooth is irritated but still alive. While you're arranging to get a root canal (which is the permanent fix), manage pain by:
 - Taking ibuprofen (400-600mg) and acetaminophen (500-1000mg) on an alternating schedule every 3-4 hours
@@ -149,11 +148,16 @@ Dental pain is treatable. Identify what kind of pain you have, use the appropria
 
 Simple cavities need simple treatment (filling), not pain medication. Inflamed nerves need root canal therapy. Infected teeth need antibiotics plus treatment. Your dentist can usually identify the cause and offer definitive treatment that actually solves the problem rather than just masking pain.
 
+
+Related reading: [Your Guide to Emergency Tooth](/article/benefits-of-emergency-tooth-pain.html) and [Biological Dentistry: Biocompatible Materials](/article/biological-dentistry-biocompatible-materials.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Simple cavities need simple treatment (filling), not pain medication. Inflamed nerves need root canal therapy. Talk to your dentist about how this applies to your situation.
 
-> **Key Takeaway:** Half of all adults experience dental pain each year, but not all dental pain is the same. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** Half of all adults experience dental pain each year, but not all dental pain is the same.
 
 ## Related Articles
 

@@ -29,12 +29,11 @@ subcategory: Nutritional Medicine
 subcategory_slug: nutritional-medicine
 title: 'Antioxidants and Oral Inflammation: Nutritional Support'
 ---
-
 ## Why Your Gums Get Inflamed
 
-Your gums don't get sick just because bacteria attack them. When harmful bacteria start growing, your immune system fights back by sending white blood cells to kill the invaders. Unfortunately, this battle creates harmful molecules called "free radicals" that damage your own tissue—kind of like friendly fire in a battle. For more details, see our guide on [Acidic Foods](/article/acidic-foods-erosion-from-citrus-and-soda.html).
+Your gums don't get sick just because bacteria attack them. When harmful bacteria start growing, your immune system fights back by sending white blood cells to kill the invaders. Unfortunately, this battle creates harmful molecules called "free radicals" that damage your own tissue—kind of like friendly fire in a battle.
 
-Normally, your body has natural defenses (called antioxidants) that clean up free radicals. But in people with gum disease, the battle gets so intense that these defenses can't keep up. The free radicals win and destroy your gum and bone tissue. This is why some people with gum disease get worse and worse despite having a strong immune system. For more details, see our guide on [B Vitamins and Oral Health](/article/b-vitamins-and-oral-health.html).
+Normally, your body has natural defenses (called antioxidants) that clean up free radicals. But in people with gum disease, the battle gets so intense that these defenses can't keep up. The free radicals win and destroy your gum and bone tissue. This is why some people with gum disease get worse and worse despite having a strong immune system.
 
 The key insight: fighting gum disease isn't just about killing bacteria. You also need to calm down the inflammation and give your body better tools to defend itself. Antioxidant vitamins and supplements can help.
 
@@ -130,6 +129,9 @@ Don't stop supplements early when you start feeling better. The real healing hap
 
 Supplements help but don't replace deep cleaning or antibiotics. Use them together as a complete plan.
 
+
+Related reading: [Omega 3 for Inflammation Reduction](/article/omega-3-for-inflammation-reduction.html) and [Zinc Compounds: Odor-Fighting Action](/article/zinc-compounds-odor-fighting-action.html).
+
 ## Conclusion
 
 Your gums get sick partly because of bacteria, but also because inflammation free radicals damage your tissue faster than your body can repair it. Antioxidant supplements help by giving your body better tools to clean up free radicals and control inflammation.
@@ -140,7 +142,7 @@ The key: take supplements consistently for 3-6 months, not just a few weeks. Res
 
 This approach supports what your immune system is trying to do naturally—fight disease and heal tissue. It's not an alternative to dental treatment; it's an addition that helps your body do its job better.
 
-> **Key Takeaway:** Your gums don't get sick just because bacteria attack them.
+> **Key Takeaway:** When harmful bacteria start growing, your immune system fights back by sending white blood cells to kill the invaders. Unfortunately, this battle creates harmful molecules called "free radicals" that damage your own tissue—kind of like friendly fire in a battle.
 
 ## Related Articles
 

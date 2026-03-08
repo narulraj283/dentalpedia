@@ -28,7 +28,6 @@ subcategory: Fillings & Restorations
 subcategory_slug: fillings-restorations
 title: 'Chipped or Cracked Tooth: Treatment Options and What'
 ---
-
 A chipped or cracked tooth can range from a minor cosmetic problem to a serious issue requiring root canal treatment. How bad your tooth damage is determines what treatment you'll need. The good news: modern dentistry offers many options to repair or restore damaged teeth, and early treatment typically means simpler, less expensive solutions.
 
 ## Types of Tooth Damage
@@ -130,7 +129,7 @@ Chipped or cracked teeth have excellent treatment options depending on damage ex
 
 Cracks approaching the nerve might benefit from pulp capping. Deep cracks into the nerve require root canal treatment. Prompt evaluation and treatment dramatically improve outcomes and usually mean simpler, less expensive solutions.
 
-> **Key Takeaway:** Tooth chips and cracks range from minor cosmetic issues to serious problems requiring root canals—here's how to handle each type.
+> **Key Takeaway:** A chipped or cracked tooth can range from a minor cosmetic problem to a serious issue requiring root canal treatment.
 
 ## Related Articles
 

@@ -14,7 +14,6 @@ references:
   - "Donly KJ, Frazier KB, Fredekind RE, et al. Factors affecting longevity of restorations. Gen Dent. 2002;50(3):220-224."
   - "Opdam NJ, Bronkhorst EM, Roeters JM, Loomans BA. Longevity and reasons for failure of sandwich and total-etch posterior composite resin restorations. J Adhes Dent. 2007;9(4):469-476."
 ---
-
 ## Understanding Your Filling Options
 
 When you have a cavity, you need to fill it. Learning more about [Cavity Formation Process Complete Guide](/article/cavity-formation-process-complete-guide.html) can help you understand this better. Your dentist will offer you options, and understanding them helps you make an informed choice. The main materials are amalgam (silver-colored metal), composite resin (tooth-colored plastic), ceramic, and glass ionomer. Each has different strengths, weaknesses, costs, and longevity.
@@ -92,7 +91,7 @@ Ceramic inlays/onlays last 20+ years and are supremely durable but expensive. Re
 
 Talk to your dentist about which filling material is best for your specific cavity and your individual situation.
 
-> **Key Takeaway:** Understanding your dental filling options, how long each lasts, and which might be right for you.
+> **Key Takeaway:** When you have a cavity, you need to fill it.
 
 ## Related Articles
 

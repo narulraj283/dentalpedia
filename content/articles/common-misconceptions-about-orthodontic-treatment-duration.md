@@ -22,7 +22,6 @@ references:
   - "Harris JE. Genetic factors in the growth of the head: inheritance of anterior-posterior and vertical dimensions. Angle Orthod. 1975;45(3):193-201."
   - "McSherry PF. The statistic of orthopaedic predisposition and treatment timing. Br J Orthod. 2000;27(4):278-285."
 ---
-
 ## How Long Will Your Braces Really Take?
 
 One of the first questions patients ask is "How long will I be in braces?" The answer is almost never a simple "18 months" or "24 months" because orthodontic treatment duration depends on multiple factors unique to your situation. Let's explore what actually determines your timeline so you can have realistic expectations.
@@ -93,7 +92,7 @@ Proper technique, consistent force application, good compliance, and regular app
 
 Orthodontic treatment timeline depends on multiple factors: your crowding severity, bite type, jaw size, age, bone density, compliance, and treatment philosophy. Typical cases take 18 to 30 months, with 24 months being common. Your timeline is an estimate that might adjust slightly as treatment progresses and your orthodontist gathers real data about your response.
 
-> **Key Takeaway:** Understand what factors actually determine how long your orthodontic treatment will take and why timelines vary between patients.
+> **Key Takeaway:** One of the first questions patients ask is "How long will I be in braces?" The answer is almost never a simple "18 months" or "24 months" because orthodontic treatment duration depends on multiple factors unique to your situation.
 
 ## Related Articles
 

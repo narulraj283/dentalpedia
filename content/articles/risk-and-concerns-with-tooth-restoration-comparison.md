@@ -42,7 +42,6 @@ subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
 title: Risk and Concerns with Tooth Restoration Comparison
 ---
-
 ## What Are Your Filling Options?
 
 When you discover a cavity, your dentist has several materials available to fix it. Each has distinct benefits and drawbacks—there's no single perfect choice for everyone. Your dentist will help you select the material that works best for your specific tooth location, your budget, and your preferences. What works beautifully for a front tooth might differ from what's best for a back tooth where you chew with more force.
@@ -55,7 +54,7 @@ Tooth-colored composite fillings (also called resin fillings) are the most popul
 
 However, composite fillings require excellent technique to place properly. Your dentist must keep the area completely dry during placement, carefully apply special bonding materials, and use precise techniques to ensure the filling bonds securely to your tooth structure. When placed correctly with good technique, composite fillings typically last well—usually 5 to 10 years, sometimes longer. The key factor determining longevity isn't just the material itself, but how well your dentist places it and how well you maintain it afterward.
 
-One challenge with composite fillings is that they can shrink slightly as they harden, sometimes creating tiny gaps at the filling edges. These gaps can allow decay-causing bacteria to sneak underneath and attack the tooth structure beneath the filling. This secondary decay at the filling edge is actually the most common reason fillings fail. Excellent technique by your dentist significantly reduces this risk. For more details, see our guide on [How to Prevent Tooth Decay](/article/tooth-decay-prevention-complete-guide.html).
+One challenge with composite fillings is that they can shrink slightly as they harden, sometimes creating tiny gaps at the filling edges. These gaps can allow decay-causing bacteria to sneak underneath and attack the tooth structure beneath the filling. This secondary decay at the filling edge is actually the most common reason fillings fail. Excellent technique by your dentist significantly reduces this risk.
 
 ## Silver Amalgam Fillings: The Traditional Choice
 
@@ -112,6 +111,9 @@ Your dentist recommends a specific material based on their professional judgment
 The most important factor determining your filling's success isn't the material itself, but that your dentist places it well with excellent technique and you maintain outstanding oral hygiene afterward. Even the best material fails if placement technique is poor or if you neglect home care.
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
+
+Related reading: [Lower Dentures: Why They Are Harder to Keep in Place](/article/mandibular-denture-challenges-smaller-base.html).
 
 ## Conclusion
 

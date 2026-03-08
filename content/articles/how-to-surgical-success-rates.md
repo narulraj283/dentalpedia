@@ -32,7 +32,6 @@ references:
   - title: "Prosthetic rehabilitation success rates after implant placement and bone grafting"
     url: https://www.ncbi.nlm.nih.gov/pubmed/17092344
 ---
-
 Before any surgery, you want to know: "Will this work?" Oral surgery success rates are actually quite high, but they vary by procedure type, your health, and surgeon experience. Understanding these odds helps you make informed decisions and set realistic expectations. Here's what research shows about real-world outcomes. Learning more about [Understanding Post-operative Instructions](/article/how-to-post-operative-instructions.html) can help you understand this better.
 
 ## Tooth Extraction Success
@@ -82,12 +81,6 @@ Patient satisfaction varies by procedure type, with esthetic procedures having h
 Even with high success rates, some people experience complications. Infections occur in 1-3 percent of extraction sites and are treatable with antibiotics. Dry socket affects 2-4 percent of routine extractions and 15-30 percent of wisdom tooth extractions but is manageable with professional treatment. Nerve injuries are rare and many resolve spontaneously over weeks to months.
 
 Early detection is key. If you develop fever, spreading swelling, severe pain beyond day 3-4, or signs of infection, contact your surgeon immediately. Early intervention prevents small problems from becoming big ones.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about how to surgical success rates and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

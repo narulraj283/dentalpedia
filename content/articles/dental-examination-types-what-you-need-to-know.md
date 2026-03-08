@@ -14,7 +14,6 @@ references:
   - "Ismail AI, Pitts NB, Tellez M. The International Caries Classification and Management System (ICCMS): an integrated approach for diagnosis and management decisions on dental caries. Community Dent Oral Epidemiol. 2015;43(1):11-18."
   - "American Dental Association. Oral health topics: examination, diagnosis, and treatment planning. J Am Dent Dent. 2017;148(4):e1-e14."
 ---
-
 ## Your First Comprehensive Exam
 
 When you visit a new dentist, you'll get your first comprehensive examination. Think of this as your dental baseline. The dentist isn't just looking at teeth; they're evaluating your overall oral health status, identifying any problems, and creating a foundation for future comparisons.
@@ -81,7 +80,7 @@ Dental examinations include comprehensive baseline assessment of your full oral 
 
 Ask your dentist to explain your risk category and ideal exam frequency based on your specific health status.
 
-> **Key Takeaway:** A patient-friendly explanation of dental exam types and why your dentist recommends the frequency they do.
+> **Key Takeaway:** When you visit a new dentist, you'll get your first comprehensive examination.
 
 ## Related Articles
 

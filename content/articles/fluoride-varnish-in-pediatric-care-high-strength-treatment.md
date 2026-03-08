@@ -22,7 +22,6 @@ references:
   - "Riordan PJ. Fluoride supplements for young children: an analysis of benefits and risks. J Public Health Dent. 1993;53(3):174-182."
   - "Cury JA. The role of fluoride on the prevention and management of dental caries in children. Pediatr Dent. 2018;40(6):190-196."
 ---
-
 ## Why Fluoride Varnish Works Well for Children
 
 Fluoride varnish is particularly valuable for children because it provides intensive cavity protection without relying on your child's cooperation or ability to use home products correctly. Your pediatric dentist applies the varnish, and your child doesn't need to do anything except keep their mouth open briefly.
@@ -99,7 +98,7 @@ Fluoride varnish is an evidence-based, safe, and effective treatment for protect
 
 Talk with your pediatric dentist about whether fluoride varnish is appropriate for your child's specific risk level.
 
-> **Key Takeaway:** Fluoride varnish is particularly valuable for children because it provides intensive cavity protection without relying on your child's cooperation or.
+> **Key Takeaway:** Fluoride varnish is particularly valuable for children because it provides intensive cavity protection without relying on your child's cooperation or ability to use home products correctly.
 
 ## Related Articles
 

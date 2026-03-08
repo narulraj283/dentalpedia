@@ -30,7 +30,6 @@ references:
   - title: "Esthetic outcomes with different abutment materials"
     url: https://www.ncbi.nlm.nih.gov/pubmed/17261302
 ---
-
 A dental implant isn't just one piece—it's actually three separate parts working together. The root sits in your bone, a connector piece sits between the root and your crown, and your new tooth sits on top. Understanding how these parts fit together helps you see why implants work so well and last so long. Learning more about [Understanding Dental Implants: Complete Guide](/article/dental-implants-complete-guide-to-single-tooth-replacement.html) can help you understand this better.
 
 ## Your Implant Root: Built to Bond With Bone
@@ -74,14 +73,6 @@ When your crown extends too far beyond its support (called a cantilever), stress
 Your implant needs the same care as your natural teeth—brushing, flossing, and regular checkups. Professional cleanings every 3-6 months help catch problems early. Your dentist watches for bone loss with X-rays, checking that your bone level stays stable after the first year. Normal bone remodeling means about 0.5-1 millimeter of bone loss in year one, then stable bone afterwards.
 
 Occasionally, a screw in a screw-retained crown might loosen—you'll feel movement or hear clicking. Your dentist re-tightens it easily. Ceramic crowns rarely chip but if they do, your dentist can repair them. Most implants perform beautifully for decades with this simple maintenance.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about implant anatomy fixture abutment and crown and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 

@@ -43,7 +43,6 @@ subcategory: Brushing, Flossing & Hygiene
 subcategory_slug: brushing-flossing
 title: Plaque Staining Revealing Biofilm Location
 ---
-
 ## Why Your Dentist Uses Plaque Staining
 
 Plaque is invisible to the naked eye. You can't see where it accumulates, making it difficult to know whether your brushing and flossing actually remove it effectively. This is where disclosing agents come in—special dyes that stain plaque red, blue, or other visible colors, making it obvious where plaque remains after your cleaning attempts. This simple visualization tool is one of the most effective ways to help you improve your technique because you can literally see the problem areas.
@@ -104,7 +103,7 @@ Plaque disclosure using disclosing agents reveals where plaque accumulates on yo
 
 - [Cost of Toothbrush Selection](/article/cost-of-toothbrush-selection.html)
 
-- [Why Fluoride Benefits Matter - Remineralization,](/article/why-fluoride-benefits-matters.html)
+- [Why Fluoride Benefits Matter - Remineralization](/article/why-fluoride-benefits-matters.html)
 - [Common Misconceptions About Oral Health Habits](/article/common-misconceptions-about-oral-health-habits.html)
 - [How to Prevent Tartar Buildup on Your Teeth](/article/how-to-tartar-prevention.html)
 

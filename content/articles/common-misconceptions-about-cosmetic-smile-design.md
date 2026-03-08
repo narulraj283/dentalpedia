@@ -22,7 +22,6 @@ references:
   - "Chiche GJ, Pinault A. Esthetic Dentistry: Scientific and Clinical Perspectives. St. Louis: Mosby; 1994."
   - "Miner J, Petrany T, Rosenberg D. Smile design with image technology. Dent Clin North Am. 2001;45(1):1-23."
 ---
-
 ## Every Smile Needs to Fit Your Face
 
 One of the biggest mistakes in cosmetic dentistry is applying the same tooth size and shape to everyone. What looks great on your neighbor might not look great on you because your face is different. A good smile design considers your face shape, facial proportions, age, and ethnic characteristics. Your perfect smile should look like it belongs on your face—not like you borrowed someone else's teeth.
@@ -91,15 +90,11 @@ Ultimately, your smile is about what makes you happy. If you love a slightly wid
 
 The best smile isn't necessarily the most mathematically perfect smile. It's the smile that makes you feel confident and happy.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about cosmetic smile design and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
 ## Conclusion
 
 Good smile design considers your unique facial features, not generic beauty standards. Your ideal smile depends on your face shape, face width, skin tone, and personal preferences. Digital preview can help you visualize and approve designs before treatment. Work with a cosmetic dentist who takes time to understand your specific smile goals.
 
-> **Key Takeaway:** One of the biggest mistakes in cosmetic dentistry is applying the same tooth size and shape to everyone.
+> **Key Takeaway:** What looks great on your neighbor might not look great on you because your face is different. A good smile design considers your face shape, facial proportions, age, and ethnic characteristics.
 
 ## Related Articles
 

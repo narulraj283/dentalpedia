@@ -32,7 +32,6 @@ references:
   - title: "Patient satisfaction and treatment adherence in alignment therapy options"
     url: "https://pubmed.ncbi.nlm.nih.gov/16487863/"
 ---
-
 If you're considering straightening your teeth, you have more options than ever before. Traditional braces are just one choice. Clear aligners like Invisalign, behind-the-teeth braces, and even cosmetic alternatives all exist now. Understanding what each option can accomplish, how long it takes, what it costs, and which works best for your situation helps you make a confident decision about your smile.
 
 ## Your Alignment Options Explained
@@ -94,6 +93,9 @@ Tooth shade affects overall esthetic result. Yellowed or discolored teeth benefi
 Relapse (teeth shifting back) occurs with all alignment methods without retention. Permanent fixed bonded retention behind anterior teeth combined with nightly removable retainer wear indefinitely maintains correction at greater than 95% stability over 20-year follow-up in compliant patients.
 
 Non-compliant patients (not wearing retainers) experience 50-70% relapse within 5 years. Retention compliance is the primary factor determining long-term success.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

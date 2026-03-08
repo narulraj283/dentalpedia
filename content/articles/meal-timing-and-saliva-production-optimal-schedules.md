@@ -28,7 +28,6 @@ references:
   - title: "Inter-meal intervals and plaque pH evolution: bacterial acid accumulation and buffering dynamics"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25123456
 ---
-
 Most people think about when to eat based on hunger or schedules, but your teeth have something to say about timing too. When you eat—and how much time you allow between meals and snacks—dramatically affects your cavity risk. Your saliva works like a tooth repair system, constantly neutralizing acids and remineralizing early damage. But it needs time to do its job. Understanding the timing of meals helps you work with your body's natural defenses rather than against them.
 
 ## How Your Saliva Protects Your Teeth

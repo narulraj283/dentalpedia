@@ -43,7 +43,6 @@ subcategory: Oral Health Conditions Overview
 subcategory_slug: overview-oral-conditions
 title: 'Oral Candidiasis: Clinical Presentation, Diagnosis'
 ---
-
 ## Understanding Oral Thrush (Oral Candidiasis)
 
 Oral thrush is a yeast infection in your mouth. It's caused by a fungus called Candida albicans, which is normally present in about 50-90% of healthy people's mouths. Usually it causes no problems. But sometimes it overgrows and causes infection.
@@ -178,18 +177,6 @@ If you're on medications that reduce saliva, talk to your dentist about saliva s
 
 Always rinse your mouth after steroid inhalers.
 
-## Questions to Ask Your Dentist
-
-If you think you have thrush:
-
-1. "Do I definitely have thrush, or could it be something else?"
-2. "Should I do a culture to identify the exact fungus?"
-3. "What treatment do you recommend?"
-4. "How long until it should clear up?"
-5. "What should I do if it doesn't improve?"
-6. "Do I need to see my doctor about my immune system?"
-7. "Are my dentures contributing to this?"
-
 ## When to See Your Doctor
 
 If you have thrush and also have:
@@ -216,9 +203,6 @@ Remember that every person's situation is unique. What works well for one patien
 
 ## Related Articles
 
-- [Stomatitis Herpetiformis: Grouped Oral Ulcers,](/article/stomatitis-herpetiformis-grouped-ulcers.html)
+- [Stomatitis Herpetiformis: Grouped Oral Ulcers](/article/stomatitis-herpetiformis-grouped-ulcers.html)
 - [Oropharyngeal Dysphagia - Dental Causes and Management](/article/swallowing-difficulty-dysphagia-management.html)
 
-- [Mouth Ulcer Care: What You Need to Know](/article/mouth-ulcer-care-what-you-need-to-know.html)
-- [Erythema Migrans](/article/erythema-migrans-lyme-disease-mouth-rash.html)
-- [Xerostomia (Dry Mouth) Prevention and Management](/article/xerostomia-dry-mouth-prevention-and-management.html)

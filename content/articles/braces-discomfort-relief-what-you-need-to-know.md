@@ -37,7 +37,6 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: 'Braces Discomfort Relief: Pharmacological'
 ---
-
 If you just got braces, you're probably wondering when the discomfort will ease up. Here's the good news: pain from braces is manageable and temporary. Most patients experience some soreness for just a few days after getting braces placed or adjusted. While about 60 to 90% of people feel some level of discomfort during the first few weeks of treatment, there are plenty of proven ways to manage it. Understanding what's happening in your mouth and knowing your options for relief can make the whole experience much easier to handle.
 
 ## Why Do Braces Hurt?

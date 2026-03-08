@@ -18,7 +18,6 @@ references:
   - title: "Before and after documentation in cosmetic dentistry"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26439738
 ---
-
 Modern cosmetic dentists use tiny cameras that fit inside your mouth to capture detailed images of your teeth and smile. These intraoral cameras let your dentist show you exactly what they see and help plan cosmetic treatment. They also document your transformation, creating powerful before and after comparisons that show how much your smile has improved.
 
 ## What Is an Intraoral Camera?
@@ -66,12 +65,6 @@ Advanced practices use intraoral camera images combined with computer software t
 Intraoral cameras capture detail but can't show exactly how restorations will look under different lighting conditions. A veneer that looks perfect in your dentist's office under office lighting might look slightly different in daylight or under restaurant lighting. Your dentist's experience helps account for this, but it's one limitation of the technology.
 
 Cameras also can't capture how your smile looks when you move or when you're expressing emotions. Dentists combine camera images with observation of your natural smile to create cosmetic work that looks good in all situations, not just when you're sitting still in the dental chair.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about intraoral camera cosmetic documentation before and after and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

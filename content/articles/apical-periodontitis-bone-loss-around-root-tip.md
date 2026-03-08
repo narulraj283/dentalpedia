@@ -33,12 +33,11 @@ subcategory: Periapical Pathology
 subcategory_slug: periapical-pathology
 title: 'Apical Periodontitis: Understanding Bone Loss'
 ---
-
 ## How Tooth Infection Destroys Bone
 
-When a tooth's nerve dies, bacteria colonize the inside of the tooth and release toxins through the root tip opening. Your body's immune system fights back by sending white blood cells to kill the bacteria. This battle causes inflammation around the root tip, which triggers bone loss. For more details, see our guide on [Accessory Canals](/article/accessory-canals-side-channels-in-roots.html).
+When a tooth's nerve dies, bacteria colonize the inside of the tooth and release toxins through the root tip opening. Your body's immune system fights back by sending white blood cells to kill the bacteria. This battle causes inflammation around the root tip, which triggers bone loss.
 
-This condition is called apical periodontitis—essentially a localized infection around the root tip causing bone destruction. About 3-5 percent of adults have this condition somewhere in their mouth. Most people don't realize it because it doesn't hurt—about 75 percent of cases stay silent and asymptomatic. For more details, see our guide on [The Apical Foramen and Root Tip Opening](/article/apical-foramen-root-tip-opening.html).
+This condition is called apical periodontitis—essentially a localized infection around the root tip causing bone destruction. About 3-5 percent of adults have this condition somewhere in their mouth. Most people don't realize it because it doesn't hurt—about 75 percent of cases stay silent and asymptomatic.
 
 Understanding this condition helps you appreciate why root canal treatment is so important and what happens if treatment fails.
 
@@ -133,6 +132,9 @@ Make sure your tooth gets a crown or strong filling very soon after completing r
 
 The sealed root canal AND sealed crown work together. Neither alone is sufficient.
 
+
+Related reading: [Root Canal Treatment Complete Guide](/article/root-canal-treatment-complete-guide.html) and [Root Resorption - Pathophysiology and Clinical](/article/root-resorption-dissolving-root-structures.html).
+
 ## Conclusion
 
 Apical periodontitis results from infected tooth nerve material triggering bone-destroying inflammation at the root tip. Acute abscesses cause severe pain and need rapid treatment. Chronic infections silently destroy bone and are discovered only on X-rays.
@@ -143,12 +145,12 @@ If conventional treatment fails, modern microsurgical apicectomy achieves 90-95 
 
 Success requires both excellent root canal sealing AND excellent crown sealing. Neither alone is sufficient. Your dentist's meticulous technique combined with your proper follow-up care (getting that crown promptly) determines whether your tooth has a healthy future.
 
-> **Key Takeaway:** When a tooth's nerve dies, bacteria colonize the inside of the tooth and release toxins through the root tip opening.
+> **Key Takeaway:** Your body's immune system fights back by sending white blood cells to kill the bacteria. This battle causes inflammation around the root tip, which triggers bone loss.
 
 ## Related Articles
 
 - [Calcified Canals](/article/calcified-canals-root-canal-obstruction.html)
-- [Stainless Steel Endodontic Files: Metallurgy,](/article/stainless-steel-files-traditional-material.html)
+- [Stainless Steel Endodontic Files: Metallurgy](/article/stainless-steel-files-traditional-material.html)
 
 - [Single Cone Obturation Simplified Technique](/article/single-cone-obturation-simplified-technique.html)
 - [Dead Nerve Tissue: Understanding Pulp Necrosis](/article/necrotic-pulp-dead-nerve-tissue.html)

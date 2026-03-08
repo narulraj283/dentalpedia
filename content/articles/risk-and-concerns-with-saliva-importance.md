@@ -43,7 +43,6 @@ subcategory: General Dentistry
 subcategory_slug: overview-general
 title: Risk and Concerns with Saliva Importance
 ---
-
 ## What Does Saliva Do for You?
 
 Saliva does much more than just keep your mouth wet. It's like a protective superhero for your teeth and mouth! Your saliva contains natural lubricants that help you chew, swallow, and speak comfortably. It also contains disease-fighting proteins that protect you from harmful bacteria in your mouth.

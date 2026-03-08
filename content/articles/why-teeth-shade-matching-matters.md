@@ -32,7 +32,6 @@ references:
   - title: "Long-term shade stability and color rebound in adhesive restorations"
     url: "https://pubmed.ncbi.nlm.nih.gov/22278571/"
 ---
-
 When your dentist fills a cavity or places a crown, they want the new restoration to look completely natural—invisible to casual observers, matching your teeth perfectly. But selecting the exact shade (color) is far trickier than most patients realize. It's part art, part science, and small mistakes become noticeable disappointments that can look awkward or fake.
 
 Understanding how shade matching works, why it matters so much, and what you should expect helps you get better cosmetic results and know when something isn't right. Learn more about [Why Teeth Whitening Results](/article/why-teeth-whitening-results-matters.html) for additional guidance.

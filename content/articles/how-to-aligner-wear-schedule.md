@@ -30,7 +30,6 @@ references:
   - title: "Treatment Duration Factors in Adult Clear Aligner Therapy"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27938277
 ---
-
 If you're using clear aligners to straighten your teeth, success depends on one critical thing: wearing them enough. The aligners only work when they're in your mouth. This guide explains exactly how to use them to get the best results.
 
 ## Wear Your Aligners 20-22 Hours Every Day

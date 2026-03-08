@@ -8,7 +8,6 @@ date: 2026-03-05
 read_time: 12 min
 reviewed: true
 ---
-
 ## Understanding Tooth Color Changes: When Whitening Won't Work
 
 You've noticed your teeth aren't as white as you'd like. Before spending money on whitening, you should understand that some types of tooth discoloration don't respond well to bleaching. Tetracycline stains, age-related darkening, and intrinsic discoloration often require different approaches than whitening. This guide helps you understand which color problems bleaching can fix and when you need alternative treatments.
@@ -103,6 +102,3 @@ The key to successful tooth color improvement is diagnosing your specific stain 
 - [Buccal Corridors: Impact on Smile Esthetics and Facial](/article/buccal-corridors-impact-on-smile-aesthetics.html)
 - [Common Misconceptions About Cosmetic Crown Selection](/article/common-misconceptions-about-cosmetic-crown-selection.html)
 
-- [Transparent and Translucent Materials in Cosmetic](/article/transparent-and-translucent-materials-in-cosmetics.html)
-- [Cosmetic Gum Shaping: What Every Patient Should Know](/article/best-practices-for-cosmetic-gum-shaping.html)
-- [Smile Restoration After Trauma - Cosmetic and](/article/smile-restoration-after-trauma-cosmetic-and-functional.html)

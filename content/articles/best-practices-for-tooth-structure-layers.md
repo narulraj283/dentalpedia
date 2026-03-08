@@ -22,7 +22,6 @@ references:
   - "Linde J. Biology of the dental pulp complex. Periodontol 2000. 1997;13(1):7-20."
   - "Schroeder HE. Oral Structural Biology. Thieme; 1991."
 ---
-
 ## The Outer Layer: Enamel
 
 Your tooth's outermost layer, called enamel, is harder than any bone in your body. It's composed of 96% minerals (mainly a crystalline compound called hydroxyapatite), with the remainder being a small amount of water and proteins. Think of enamel like a protective shield—it's incredibly hard and brittle, perfect for grinding food, but it can't repair itself once damaged.
@@ -119,15 +118,6 @@ These structural measurements determine what treatments are possible. A tooth wi
 
 **Severe gum disease:** Your dentist might recommend extraction of seemingly "restorable" teeth. They're thinking about long-term tooth survival. A tooth with severe bone loss will eventually become loose and painful—extraction plus implant might provide better long-term outcome than trying to save a doomed tooth.
 
-## Questions to Ask Your Dentist
-
-- "Can you show me on my X-ray where the cavity is and how close it is to the nerve?"
-- "Why are you recommending this specific treatment for my tooth?"
-- "Will treating this tooth in this way preserve maximum structure for future treatment?"
-- "Am I at risk for future sensitivity from this treatment?"
-- "If this restoration eventually fails, what options will I have?"
-- "Based on my tooth's structure, what's the realistic long-term outlook?"
-
 ## Putting Knowledge Into Action
 
 Understanding your tooth's structure empowers you to:
@@ -151,6 +141,6 @@ Your tooth's structure—with its hard protective enamel, living dentin, sensiti
 - [Best Practices For Tooth Color Changes](/article/best-practices-for-tooth-color-changes.html)
 - [Best Practices For Tooth Decay Prevention](/article/best-practices-for-tooth-decay-prevention.html)
 - [Cost of Dental Procedure Planning and Treatment](/article/cost-of-dental-procedure-planning.html)
-- [Dental Treatment During Pregnancy - Safety,](/article/pregnancy-and-dental-care-safety-and-timing.html)
+- [Pregnancy and Dental Care Safety and Timing](/article/pregnancy-and-dental-care-safety-and-timing.html)
 - [Inlays: A Stronger, Longer-Lasting Filling Option](/article/inlay-indirect-restoration-precision.html)
 

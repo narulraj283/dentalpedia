@@ -21,12 +21,11 @@ references:
   - "Preshaw PM, et al. Periodontitis and diabetes: a two-way relationship. Diabetologia. 2012;55(1):21-31."
   - "Tonetti MS, et al. Guided tissue regeneration of intra-bony defects in humans: a meta-analysis of randomized clinical trials. J Dent Res. 2002;81(10):716-722."
 ---
-
 ## How Common Are Bleeding Gums?
 
-Bleeding gums affect about half of all adults worldwide. Among people over 30, nearly half have some form of gum disease. If your gums bleed when you brush or floss, you're not alone—and the good news is that early attention can prevent serious problems. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+Bleeding gums affect about half of all adults worldwide. Among people over 30, nearly half have some form of gum disease. If your gums bleed when you brush or floss, you're not alone—and the good news is that early attention can prevent serious problems.
 
-When your gums bleed, it's a sign of inflammation. Healthy gums don't bleed. Your dentist can tell if gums are inflamed by gentle probing—if they bleed during this simple test, it accurately signals that inflammation is present about 96% of the time. This makes bleeding one of the most reliable early warning signs of gum disease. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+When your gums bleed, it's a sign of inflammation. Healthy gums don't bleed. Your dentist can tell if gums are inflamed by gentle probing—if they bleed during this simple test, it accurately signals that inflammation is present about 96% of the time. This makes bleeding one of the most reliable early warning signs of gum disease.
 
 Catching gum disease early makes a huge difference. Left untreated, bleeding gums can progress to more serious periodontitis (advanced gum disease with bone loss). This isn't just about your smile—untreated gum disease increases your risk of heart disease and complications during pregnancy. It also makes managing diabetes more difficult due to bidirectional relationships between gum health and blood sugar control.
 
@@ -86,11 +85,15 @@ Your mouth isn't separate from the rest of your body. Untreated gum disease allo
 
 If you have diabetes, gum disease makes blood sugar control harder. The good news: treating your gum disease can improve your blood sugar by 0.4-0.7%, which is meaningful.
 
+
+Related reading: [Dentin Hypersensitivity and Evidence-Based Relief](/article/understanding-tooth-sensitivity-and-relief-options.html) and [Tooth Restoration Comparison: Amalgam, Composite, Glass](/article/best-practices-for-tooth-restoration-comparison.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about gingival bleeding: diagnosis, etiology, and evidence-based or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Bleeding gums signal inflammation that requires both excellent home care and professional treatment to prevent serious complications affecting your mouth and overall health.
+
+> **Key Takeaway:** Bleeding gums affect about half of all adults worldwide. Among people over 30, nearly half have some form of gum disease.
 
 ## Related Articles
 

@@ -44,12 +44,11 @@ references:
     year: 2012
     publication: "Journal of Cosmetic Dentistry"
 ---
-
-If you show too much gum when you smile, you might be bothered by what's called a "gummy smile." This affects about 1 in 10 people, and for many, it's their biggest aesthetic concern. The good news is that several effective treatments exist, and your dentist can help you figure out which one is best for you. But first, you need to understand what's causing it, because different causes need different treatments. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
+If you show too much gum when you smile, you might be bothered by what's called a "gummy smile." This affects about 1 in 10 people, and for many, it's their biggest aesthetic concern. The good news is that several effective treatments exist, and your dentist can help you figure out which one is best for you. But first, you need to understand what's causing it, because different causes need different treatments.
 
 ## What's Actually Normal?
 
-When you smile, showing 1-3mm of gum is considered ideal and aesthetically pleasing. If you're showing more than 3-4mm, that's when people typically start feeling self-conscious. The important thing is that gummy smile is pretty subjective—what bothers one person might not bother another. But if it bothers you and you're thinking about treatment, there are definitely options. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
+When you smile, showing 1-3mm of gum is considered ideal and aesthetically pleasing. If you're showing more than 3-4mm, that's when people typically start feeling self-conscious. The important thing is that gummy smile is pretty subjective—what bothers one person might not bother another. But if it bothers you and you're thinking about treatment, there are definitely options.
 
 Your dentist will take special photos of you smiling to measure exactly how much gum you're showing. They'll also look at your teeth (how long they look), your lip position and movement, and the overall proportions of your face. They might even take 3D X-rays to look at bone anatomy underneath.
 
@@ -167,11 +166,8 @@ Digital smile design utilizing patient photographs and digitally-modified images
 
 Three-dimensional CBCT-based treatment planning enables precise surgical planning for crown lengthening, orthognathic correction, or distraction osteogenesis. Virtual surgical repositioning simulation allows accurate bone cutting guides and fixation planning.
 
-## Conclusion
 
-Gummy smile diagnosis requires systematic classification identifying predominant etiologic factors guiding treatment selection. Altered passive eruption responds optimally to periodontal crown lengthening with osseous recontouring. Vertical maxillary excess necessitates orthognathic LeFort I impaction establishing normal facial proportions. Short upper lip may benefit from surgical repositioning though results are variable and technique-dependent.
-
-Hypermobile lip represents the most common etiology responding excellently to botulinum toxin injection (2.5-5 units per side into LLSAN) with 3-4 month duration. Combination therapies addressing multiple etiologic factors simultaneously provide superior outcomes compared to single-modality treatment. Digital smile design facilitates treatment planning and patient communication. Treatment selection balances invasiveness, cost, durability, and reversibility with individual patient factors. Comprehensive digital treatment planning incorporating CBCT imaging and three-dimensional analysis optimizes treatment planning and patient satisfaction.
+Related reading: [Risk and Concerns with Teeth Bleaching Safety](/article/risk-and-concerns-with-teeth-bleaching-safety.html) and [Cosmetic Gum Shaping: What Every Patient Should Know](/article/best-practices-for-cosmetic-gum-shaping.html).
 
 ## Conclusion
 
@@ -187,7 +183,7 @@ Most gummy smiles result from multiple contributing factors and benefit from com
 
 **Combined Factors**: Many gummy smile patients demonstrate multiple contributing factors—altered passive eruption with short lip, or VME with hypermobile lip. Treatment planning must address all identified contributors for optimal outcomes.
 
-> **Key Takeaway:** If you show too much gum when you smile, you might be bothered by what's called a 'gummy smile.' This affects about 1 in 10 people, and for many,.
+> **Key Takeaway:** If you show too much gum when you smile, you might be bothered by what's called a "gummy smile." This affects about 1 in 10 people, and for many, it's their biggest aesthetic concern.
 
 ## Related Articles
 

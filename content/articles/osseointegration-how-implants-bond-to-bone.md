@@ -16,7 +16,6 @@ references:
   - "Mendes VC, Moineddin R, Davies JE. The effect of calcium phosphate nanoparticles on bone-bonding to titanium. Biomaterials. 2007;28(30):4561-4570."
   - "Olivares-Navarrete R, Hyzy SL, Hutton DL, et al. Direct effects of microstructured titanium on osteogenic differentiation. Biomaterials. 2010;31(10):2728-2735."
 ---
-
 ## Why Titanium Works (And Other Materials Don't)
 
 If dental implants work so well with titanium, why not use gold, stainless steel, or ceramic? The answer lies in molecular chemistry. Titanium has unique surface properties that communicate with your bone cells in a biological language they understand.
@@ -69,15 +68,8 @@ Surface topography amplifies this signaling, promoting preferential protein adso
 
 This molecular understanding explains why osseointegration works reliably with titanium but fails with most other materials. It guides implant design improvements and surface modifications that enhance osseointegration predictability. The science continues advancing, but titanium remains the gold standard precisely because its molecular properties uniquely support permanent bone fusion.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about why titanium implants bond to bone: the molecular science and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

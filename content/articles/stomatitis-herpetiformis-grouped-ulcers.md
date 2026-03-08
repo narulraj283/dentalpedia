@@ -1,38 +1,50 @@
 ---
-title: "Stomatitis Herpetiformis: Grouped Oral Ulcers,"
-slug: stomatitis-herpetiformis-grouped-ulcers
 category: General Dentistry
 category_slug: oral-health-conditions
-excerpt: "Clinical presentation, histopathologic features, differential diagnosis from HSV-1 infection, and evidence-based treatment with colchicine and dapsone..."
 date: 2026-03-05
+excerpt: Clinical presentation, histopathologic features, differential diagnosis from
+  HSV-1 infection, and evidence-based treatment with colchicine and dapsone...
 read_time: 10 min
+references:
+- title: Eisen D. The clinical features, sequelae, and systemic associations of oral
+    ulcers. Lancet. 2003;362(9400):1600-1602.
+  url: https://pubmed.ncbi.nlm.nih.gov/14630435
+- title: Wray D, Graykowski EA, Notkins AL. Role of herpes simplex virus in recurrent
+    aphthous stomatitis. J Dent Res. 1976;55(1):52-55.
+  url: https://pubmed.ncbi.nlm.nih.gov/176737
+- title: Preeti L, Magesh K, Rajkumar K, et al. Recurrent aphthous stomatitis-prevalence,
+    risk factors, diagnosis and management. J Contemp Dent Pract. 2011;12(1):34-38.
+  url: https://pubmed.ncbi.nlm.nih.gov/21379408
+- title: 'Rogers RS 3rd. Recurrent aphthous stomatitis: clinical characteristics and
+    associated systemic disorders. Semin Cutan Med Surg. 1997;16(4):278-283.'
+  url: https://pubmed.ncbi.nlm.nih.gov/9421213
+- title: Kerr AR. Update on colchicine and dapsone therapy in recurrent aphthous stomatitis.
+    J Contemp Dent Pract. 2002;3(4):14-23.
+  url: https://pubmed.ncbi.nlm.nih.gov/12458345
+- title: Schubert MM, Izutsu KT, Peterson DE, et al. Oral complications following
+    chemotherapy and radiotherapy. Eur J Cancer B Oral Oncol. 1992;28(1):35-43.
+  url: https://pubmed.ncbi.nlm.nih.gov/1397756
+- title: Soto-Arellano VR, Niklander S, De la Fuente-Nuñez A, et al. Guidelines for
+    the diagnosis and treatment of recurrent aphthous stomatitis. J Clin Exp Dent.
+    2019;11(10):e930-e938.
+  url: https://pubmed.ncbi.nlm.nih.gov/31844547
+- title: 'Femiano F, Buonaiuto C, Gombos F, et al. Pilot study on 100 patients with
+    atypical oral lichen planus treated with topical tacrolimus: clinical outcome
+    and histological findings. Oral Dis. 2007;13(3):314-322.'
+  url: https://pubmed.ncbi.nlm.nih.gov/17448223
+- title: 'Natah SS, Konttinen YT, Enattah NS, et al. Recurrent aphthous ulcers today:
+    a review of the growing knowledge. Int J Oral Maxillofac Surg. 2004;33(3):221-234.'
+  url: https://pubmed.ncbi.nlm.nih.gov/15287304
+- title: Jurge S, Kuffer R, Scully C, et al. Mucosal disease series. Number VI. Recurrent
+    aphthous stomatitis. Oral Dis. 2006;12(1):1-21.
+  url: https://pubmed.ncbi.nlm.nih.gov/16390463
+reviewed: true
 reviewer_specialty: Oral Medicine Specialist
+slug: stomatitis-herpetiformis-grouped-ulcers
 subcategory: Oral Health Conditions Overview
 subcategory_slug: overview-oral-conditions
-reviewed: true
-references:
-  - title: "Eisen D. The clinical features, sequelae, and systemic associations of oral ulcers. Lancet. 2003;362(9400):1600-1602."
-    url: https://pubmed.ncbi.nlm.nih.gov/14630435
-  - title: "Wray D, Graykowski EA, Notkins AL. Role of herpes simplex virus in recurrent aphthous stomatitis. J Dent Res. 1976;55(1):52-55."
-    url: https://pubmed.ncbi.nlm.nih.gov/176737
-  - title: "Preeti L, Magesh K, Rajkumar K, et al. Recurrent aphthous stomatitis-prevalence, risk factors, diagnosis and management. J Contemp Dent Pract. 2011;12(1):34-38."
-    url: https://pubmed.ncbi.nlm.nih.gov/21379408
-  - title: "Rogers RS 3rd. Recurrent aphthous stomatitis: clinical characteristics and associated systemic disorders. Semin Cutan Med Surg. 1997;16(4):278-283."
-    url: https://pubmed.ncbi.nlm.nih.gov/9421213
-  - title: "Kerr AR. Update on colchicine and dapsone therapy in recurrent aphthous stomatitis. J Contemp Dent Pract. 2002;3(4):14-23."
-    url: https://pubmed.ncbi.nlm.nih.gov/12458345
-  - title: "Schubert MM, Izutsu KT, Peterson DE, et al. Oral complications following chemotherapy and radiotherapy. Eur J Cancer B Oral Oncol. 1992;28(1):35-43."
-    url: https://pubmed.ncbi.nlm.nih.gov/1397756
-  - title: "Soto-Arellano VR, Niklander S, De la Fuente-Nuñez A, et al. Guidelines for the diagnosis and treatment of recurrent aphthous stomatitis. J Clin Exp Dent. 2019;11(10):e930-e938."
-    url: https://pubmed.ncbi.nlm.nih.gov/31844547
-  - title: "Femiano F, Buonaiuto C, Gombos F, et al. Pilot study on 100 patients with atypical oral lichen planus treated with topical tacrolimus: clinical outcome and histological findings. Oral Dis. 2007;13(3):314-322."
-    url: https://pubmed.ncbi.nlm.nih.gov/17448223
-  - title: "Natah SS, Konttinen YT, Enattah NS, et al. Recurrent aphthous ulcers today: a review of the growing knowledge. Int J Oral Maxillofac Surg. 2004;33(3):221-234."
-    url: https://pubmed.ncbi.nlm.nih.gov/15287304
-  - title: "Jurge S, Kuffer R, Scully C, et al. Mucosal disease series. Number VI. Recurrent aphthous stomatitis. Oral Dis. 2006;12(1):1-21."
-    url: https://pubmed.ncbi.nlm.nih.gov/16390463
+title: 'Stomatitis Herpetiformis: Grouped Oral Ulcers'
 ---
-
 ## When Multiple Mouth Ulcers Appear All at Once
 
 If you've ever had a single canker sore (aphthous ulcer), you know how painful and annoying it is. Now imagine getting 50-100 tiny ulcers all at the same time, covering large areas of your mouth. That's stomatitis herpetiformis—a condition that sounds like herpes (hence the name) but actually has nothing to do with the herpes virus. Despite its confusing name, understanding this condition helps you recognize it quickly and start treatment that actually works.

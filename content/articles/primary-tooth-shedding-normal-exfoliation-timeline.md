@@ -45,7 +45,6 @@ subcategory: Pediatric Overview
 subcategory_slug: overview-peds
 title: Primary Tooth Shedding Normal Exfoliation Timeline
 ---
-
 ## Understanding How Baby Teeth Fall Out: The Natural Process
 
 Your child's baby teeth are designed to fall out on their own. This natural shedding happens because the permanent teeth below are pushing upward, and your child's body responds by dissolving the roots of the baby teeth above them. This process, called resorption, is perfectly normal and doesn't need any special treatment. Over seven years or so (from about age 6 to 13), all 20 baby teeth gradually loosen and fall out, making room for 28 permanent adult teeth.
@@ -184,11 +183,6 @@ Occasionally, fragments of primary tooth structure (remnants of coronal enamel o
 
 Post-exfoliation, extraction sockets heal relatively rapidly in children, with epithelialization completing within 1-2 weeks and bone remodeling continuing over weeks to months. Permanent successor teeth typically erupt gradually into sockets created by primary tooth shedding, with space usually accommodating eruption without separate orthodontic intervention in most cases. Parent counseling regarding normal healing, appropriate dietary modification (soft foods initially), and maintenance of hygiene in extraction area facilitates uncomplicated healing.
 
-## Conclusion: Clinical Implications and Monitoring Strategies
-
-Understanding normal primary tooth exfoliation sequences, physiologic root resorption patterns, and individual variation timelines allows clinicians and parents to distinguish normal development from delayed or abnormal shedding. Physiologic exfoliation should be anticipated for teeth demonstrating radiographic evidence of resorption and appropriate clinical mobility, with extraction reserved for specific indications including ankylosed teeth, severe ectopic resorption patterns, and teeth with active infection despite treatment. Periodic radiographic and clinical monitoring through mixed dentition allows detection of complications including ectopic eruption and severe root resorption requiring intervention.
-
-Recognition that exfoliation timing reflects constitutional factors including skeletal maturation rate, genetic predisposition, and systemic health status explains the wide normal variation observed clinically. Reassurance to parents regarding normal variation prevents unnecessary concern about delayed shedding within normal individual range. Documentation of exfoliation patterns, completion of transition to permanent dentition, and any complications or interventions facilitates comprehensive pediatric dental record and appropriate referral for orthodontic assessment if indicated.
 
 ## Conclusion
 

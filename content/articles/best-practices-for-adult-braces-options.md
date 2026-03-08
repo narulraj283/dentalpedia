@@ -35,14 +35,13 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: 'Adult Orthodontic Treatment: Clinical Best Practices'
 ---
-
 ## Getting Braces as an Adult: What You Need to Know
 
-More and more adults are straightening their teeth with braces. About one-third of orthodontic patients today are adults. Adult orthodontics works differently than teen braces because of changes in your bone, your gums, and your overall dental health. Here's what you need to understand about adult braces. For more details, see our guide on [Accelerated Orthodontia](/article/accelerated-orthodontia-fast-track-braces.html).
+More and more adults are straightening their teeth with braces. About one-third of orthodontic patients today are adults. Adult orthodontics works differently than teen braces because of changes in your bone, your gums, and your overall dental health. Here's what you need to understand about adult braces.
 
 ## The Gum Check: Critical First Step
 
-Before your orthodontist puts braces on, they need to assess your gum health. Active gum disease is an absolute deal-breaker for orthodontic treatment. Teeth moving through inflamed, infected gums can cause serious problems. For more details, see our guide on [Accelerated Orthodontics](/article/accelerated-orthodontics-speeding-up-your-treatment.html).
+Before your orthodontist puts braces on, they need to assess your gum health. Active gum disease is an absolute deal-breaker for orthodontic treatment. Teeth moving through inflamed, infected gums can cause serious problems.
 
 Your orthodontist checks for:
 
@@ -189,11 +188,16 @@ In: Lindhe J, Lang NP, Karring T, eds. Clinical Periodontology and Implant Denti
 
 **Article Quality Metrics**: 1,549 words | 7 sections | 10 peer-reviewed references | Adult-specific clinical protocols | Complication management emphasis
 
+
+Related reading: [Clear Aligner Wear Schedule and Compliance Protocols](/article/how-to-aligner-wear-schedule.html) and [Rapid Palatal Expander - Speed and Safety](/article/rapid-palatal-expander-speed-and-safety.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+**Article Quality Metrics**: 1,549 words | 7 sections | 10 peer-reviewed references | Adult-specific clinical protocols | Complication management emphasis Your dentist can provide personalized recommendations based on your specific needs. About one-third of orthodontic patients today are adults.
 
-> **Key Takeaway:** More and more adults are straightening their teeth with braces. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** More and more adults are straightening their teeth with braces. About one-third of orthodontic patients today are adults.
 
 ## Related Articles
 

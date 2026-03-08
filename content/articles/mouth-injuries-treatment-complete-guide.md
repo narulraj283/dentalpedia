@@ -32,7 +32,6 @@ references:
   - title: "Emergency dental care protocols and patient outcomes in acute trauma"
     url: https://www.ncbi.nlm.nih.gov/pubmed/28961178
 ---
-
 Traumatic mouth injuries occur suddenly and unexpectedly, creating panic and urgency about whether your teeth can be saved. The immediate actions taken in the first minutes to hours following trauma substantially influence whether teeth survive and maintain vitality or require extraction with lifelong replacement needs. Understanding injury types, immediate first-aid principles, and evidence-based treatment protocols enables you to minimize damage and preserve dental structures. Time truly matters with some injuries—the window of opportunity for optimal outcomes measures in minutes or hours.
 
 Approximately 20% to 30% of children experience traumatic dental injuries during childhood years, with mouth injuries representing a significant portion of sports-related and accidental trauma. Immediate appropriate management substantially influences long-term outcomes, making knowledge of first-aid principles critically important.
@@ -59,7 +58,7 @@ The first critical actions immediately following injury determine treatment succ
 
 For localized dental injuries without systemic compromise, careful gentle examination assesses injury extent while avoiding additional trauma. Rinsing blood or debris from your mouth facilitates visualization. Heavy bleeding from intraoral soft tissues may be controlled through gentle pressure with gauze or clean cloth.
 
-If a tooth is completely avulsed (knocked out), recovery and appropriate storage are critical. The tooth should be retrieved immediately and handled by the crown only, never by the root—touching the root surface damages the critical periodontal ligament. Never scrub the tooth; gentle rinsing under cool running water if soil or debris is present is acceptable.
+If a tooth is completely avulsed (knocked out completely), recovery and appropriate storage are critical. The tooth should be retrieved immediately and handled by the crown only, never by the root—touching the root surface damages the critical periodontal ligament (the connective tissue that anchors the tooth). Never scrub the tooth; gentle rinsing under cool running water if soil or debris is present is acceptable.
 
 Optimal storage involves placing the avulsed tooth in cold milk if available; if unavailable, placing the tooth in your mouth between cheek and gum (avoiding swallowing risk) provides adequate temporary storage. Physiologic saline solutions are also acceptable. Storage in water or allowing the tooth to dry significantly worsens prognosis.
 
@@ -92,6 +91,9 @@ Prevention through mouthguard use in contact sports substantially reduces trauma
 Behavioral prevention includes awareness of injury risks in specific activities and appropriate use of protective equipment. While some injuries remain unavoidable, consistent mouthguard use prevents majority of traumatic tooth injuries in sports.
 
 Long-term tooth preservation following trauma includes compliance with recommended follow-up care, maintenance of oral hygiene around injured teeth (gentle but thorough cleaning preventing secondary complications), and regular dental examinations identifying complications early. Some traumatized teeth achieve complete healing and function normally for life; others develop complications requiring root canal treatment or eventual extraction.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

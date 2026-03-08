@@ -1,28 +1,45 @@
 ---
-title: "Coil Spring Mechanics in Orthodontics: Force Delivery,"
-slug: coil-spring-compression-spring-force
 category: Orthodontics
 category_slug: orthodontics
-excerpt: How springs in braces work to move your teeth, what force means, and why the right amount of pressure matters for successful treatment.
 date: 2026-03-05
+excerpt: How springs in braces work to move your teeth, what force means, and why
+  the right amount of pressure matters for successful treatment.
 read_time: 10 min
+references:
+- Proffit, W., Fields, H., & Sarver, D. (2018). Contemporary Orthodontics (6th ed.).
+  Elsevier Health Sciences.
+- Burstone, C., & Pryputniewicz, R. (1980). Holographic determination of centers of
+  rotation produced by orthodontic forces. American Journal of Orthodontics, 77(4),
+  396-409.
+- Gonzalez-Sequeros, O., & Celar, A. (2003). Biomechanical characterization of orthodontic
+  auxiliary springs. American Journal of Orthodontics and Dentofacial Orthopedics,
+  123(4), 390-399.
+- 'Willems, G., et al. (2005). Systematic literature review: Dosage effects of elastomeric
+  intraoral appliances on tooth movement. American Journal of Orthodontics and Dentofacial
+  Orthopedics, 127(1), 16-25.'
+- Hänningert, C., et al. (2016). Comparative analysis of force magnitude and duration
+  from nickel-titanium and stainless steel coil springs. Orthodontic Waves, 75(1),
+  5-13.
+- Tanne, K., et al. (1995). Stress and strain distribution in the PDL during active
+  tooth movement. American Journal of Orthodontics and Dentofacial Orthopedics, 108(6),
+  575-581.
+- 'Jäger, A., et al. (2009). Continuous versus intermittent force application in orthodontics:
+  A systematic review. Angle Orthodontist, 79(5), 915-919.'
+- Owman-Moll, P., & Kurol, J. (2001). Hyalinization and root resorption during early
+  orthodontic tooth movement in adolescents. Angle Orthodontist, 70(3), 161-169.
+- Sarikaya, S., et al. (2002). Influence of brackets and archwires on the force-extension
+  characteristics of force delivery systems. American Journal of Orthodontics and
+  Dentofacial Orthopedics, 121(4), 372-378.
+- Nanda, R., & Kuhlberg, A. (1997). TSA (Transpalatal Arch) in its nontraditional
+  usage for molar control. American Journal of Orthodontics and Dentofacial Orthopedics,
+  111(6), 586-596.
+reviewed: true
 reviewer_specialty: Orthodontics
+slug: coil-spring-compression-spring-force
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
-reviewed: true
-references:
-  - "Proffit, W., Fields, H., & Sarver, D. (2018). Contemporary Orthodontics (6th ed.). Elsevier Health Sciences."
-  - "Burstone, C., & Pryputniewicz, R. (1980). Holographic determination of centers of rotation produced by orthodontic forces. American Journal of Orthodontics, 77(4), 396-409."
-  - "Gonzalez-Sequeros, O., & Celar, A. (2003). Biomechanical characterization of orthodontic auxiliary springs. American Journal of Orthodontics and Dentofacial Orthopedics, 123(4), 390-399."
-  - "Willems, G., et al. (2005). Systematic literature review: Dosage effects of elastomeric intraoral appliances on tooth movement. American Journal of Orthodontics and Dentofacial Orthopedics, 127(1), 16-25."
-  - "Hänningert, C., et al. (2016). Comparative analysis of force magnitude and duration from nickel-titanium and stainless steel coil springs. Orthodontic Waves, 75(1), 5-13."
-  - "Tanne, K., et al. (1995). Stress and strain distribution in the PDL during active tooth movement. American Journal of Orthodontics and Dentofacial Orthopedics, 108(6), 575-581."
-  - "Jäger, A., et al. (2009). Continuous versus intermittent force application in orthodontics: A systematic review. Angle Orthodontist, 79(5), 915-919."
-  - "Owman-Moll, P., & Kurol, J. (2001). Hyalinization and root resorption during early orthodontic tooth movement in adolescents. Angle Orthodontist, 70(3), 161-169."
-  - "Sarikaya, S., et al. (2002). Influence of brackets and archwires on the force-extension characteristics of force delivery systems. American Journal of Orthodontics and Dentofacial Orthopedics, 121(4), 372-378."
-  - "Nanda, R., & Kuhlberg, A. (1997). TSA (Transpalatal Arch) in its nontraditional usage for molar control. American Journal of Orthodontics and Dentofacial Orthopedics, 111(6), 586-596."
+title: 'Coil Spring Mechanics in Orthodontics: Force Delivery'
 ---
-
 ## Understanding How Springs Work in Orthodontics
 
 If you're wearing braces, you've probably noticed the little springs or rubber bands that create gentle pressure on your teeth. These springs are what actually moves your teeth into their new positions. Understanding how they work helps you appreciate why your orthodontist makes specific choices about which springs to use and why regular adjustments matter.
@@ -87,7 +104,7 @@ Keep your appointments on schedule. Springs weaken over time and need re-adjustm
 
 Orthodontic springs are carefully engineered devices that apply gentle, continuous pressure to move your teeth safely and steadily. The right amount of force in the right direction, maintained consistently, moves teeth efficiently while protecting your teeth and jawbone. Your orthodontist's choices about spring type, force level, and adjustment timing all work together to achieve your treatment goals.
 
-> **Key Takeaway:** How springs in braces work to move your teeth, what force means, and why the right amount of pressure matters for successful treatment.
+> **Key Takeaway:** If you're wearing braces, you've probably noticed the little springs or rubber bands that create gentle pressure on your teeth.
 
 ## Related Articles
 

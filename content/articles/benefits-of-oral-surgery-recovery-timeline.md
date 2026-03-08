@@ -22,12 +22,11 @@ references:
   - "Norton MR, et al. A prospective, randomized clinical trial of three surgical techniques for placement of single dental implants. Journal of Oral and Maxillofacial Surgery. 2012;40(2):176-183."
   - "Froum SJ, et al. Clinical evaluation of a biodegradable synthetic bone replacement graft material in the treatment of peripheral osseous defects. Journal of Periodontology. 2002;73(12):1419-1426."
 ---
-
-Oral surgery recovery takes time, but knowing what to expect helps you plan ahead and understand what's normal versus what needs attention. Different procedures have different timelines. Here's what actually happens as you heal. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+Oral surgery recovery takes time, but knowing what to expect helps you plan ahead and understand what's normal versus what needs attention. Different procedures have different timelines. Here's what actually happens as you heal.
 
 ## Simple Tooth Extraction: The First Week Is Key
 
-When a tooth is removed, the first 24 hours are most important. Your body forms a blood clot in the socket (the hole left behind). This clot is your body's protective barrier—don't disturb it. No rinsing, spitting, or straws for at least 24 hours because those actions can dislodge the clot. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+When a tooth is removed, the first 24 hours are most important. Your body forms a blood clot in the socket (the hole left behind). This clot is your body's protective barrier—don't disturb it. No rinsing, spitting, or straws for at least 24 hours because those actions can dislodge the clot.
 
 Expect swelling to peak around 24 hours. Some pain is normal—manage it with over-the-counter pain medication for the first few days. By day 3-4, pain usually improves significantly.
 
@@ -117,11 +116,16 @@ Jaw surgery: 6-12 months for complete recovery. Activity restrictions the first 
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
+
+Related reading: [Dental Infection Prevention: Understanding](/article/how-to-infection-prevention.html) and [Dental Examination Types: What to Expect at Your Visit](/article/how-to-dental-examination-types.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Jaw surgery: 6-12 months for complete recovery. Activity restrictions the first 1-2 weeks prevent rebleeding and complications. Talk to your dentist about how this applies to your situation. Talk to your dentist about what options work best for your situation.
 
-> **Key Takeaway:** Oral surgery recovery takes time, but knowing what to expect helps you plan ahead and understand what's normal versus what needs attention. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** Oral surgery recovery takes time, but knowing what to expect helps you plan ahead and understand what's normal versus what needs attention.
 
 ## Related Articles
 

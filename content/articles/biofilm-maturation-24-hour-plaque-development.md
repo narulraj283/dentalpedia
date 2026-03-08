@@ -22,7 +22,6 @@ references:
   - "Palmer RJ Jr, Gordon SM, Cisar JO, et al. Coaggregation-mediated interactions of streptococci and actinomyces detected in initial human dental plaque. J Bacteriol. 2003;185(11):3400-3409."
   - "Tseng CC, Sabet M, Srikantha T, et al. Saliva-mediated transcriptional regulation of a biofilm adhesin operon. Mol Microbiol. 2007;65(2):324-330."
 ---
-
 ## How Plaque Forms: The First Few Hours
 
 Right after you brush your teeth, your tooth surface is immediately coated with a protein-rich film from your saliva called the pellicle. This happens in just 1-2 minutes—your saliva deposits over 400 different proteins that create a sticky coating on your tooth. This isn't plaque yet; it's the groundwork.

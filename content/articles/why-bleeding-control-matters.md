@@ -28,7 +28,6 @@ references:
   - title: "Hypertension effects on surgical bleeding and perioperative management"
     url: https://pubmed.ncbi.nlm.nih.gov/21325015
 ---
-
 ## Why Bleeding Control Matters in Oral Surgery and Dental Procedures
 
 When you have oral surgery—whether extracting a tooth, placing an implant, or doing gum surgery—controlling bleeding might seem like a minor technical detail. Actually, it's crucial for everything else that follows. How well your dentist controls bleeding during surgery affects whether the surgery is successful, whether you develop infections afterward, how quickly and well you heal, and your overall experience. Even if you're on blood-thinning medication, bleeding can be managed safely during dental surgery when your dentist understands bleeding control principles well.

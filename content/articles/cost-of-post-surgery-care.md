@@ -22,7 +22,6 @@ references:
   - "Robinson PP, Smith KG. Lingual plate removal: a review of 233 lingual split sagittal osteotomy cases. Br J Oral Maxillofac Surg. 1996;34(3):230-235."
   - "Bell RB, Blakey GH, White RP, et al. Osteonecrosis of the jaws: epidemiology and risk factors. Oral Maxillofac Surg Clin North Am. 2007;19(1):1-19."
 ---
-
 ## Understanding Full Recovery Costs
 
 After dental surgery, costs don't stop with the surgery itself. Recovery takes time, and you'll need follow-up care, medications, and supplies. Total post-op care for a simple tooth extraction costs $75-$200 over 10-14 days. More complex surgery might cost $300-$800 during recovery.
@@ -109,22 +108,14 @@ Most people want to return to work and normal activities immediately after surge
 
 Physical activity should be limited. Bending over, strenuous activity, and heavy lifting increase blood pressure and can restart bleeding. Slowly increase activity as you feel better—don't push yourself. Returning to exercise should wait 7-10 days for routine extractions, 2-3 weeks for complex surgery.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about post surgery care and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
-
-
-For more information, see [Apicectomy](/article/apicectomy-removing-tooth-apex.html) and [Recognition and Management of Oral Surgical](/article/best-practices-for-surgical-complications.html).
+Related reading: [Cost of Complex Extractions](/article/cost-of-complex-extractions.html) and [Wisdom Teeth Recovery: Timeline and Pain Management](/article/wisdom-teeth-recovery-timeline-and-pain-management.html).
 
 ## Conclusion
 
 Plan to spend $75-$250 for routine tooth extraction recovery over 2 weeks, or $300-$800 for more complex surgery. Most insurance covers the surgery itself but leaves medications, supplies, and follow-up visits as your responsibility. The best strategy is preventing complications through careful follow-up of your dentist's instructions. Budget extra time off work and money for recovery. Talk to your dentist about expected recovery time and costs before your surgery.
 
-> **Key Takeaway:** Understand the full costs of recovery after dental surgery, including follow-up visits, medications, and supplies.
+> **Key Takeaway:** After dental surgery, costs don't stop with the surgery itself.
 
 ## Related Articles
 

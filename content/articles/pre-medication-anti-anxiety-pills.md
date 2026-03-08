@@ -28,7 +28,6 @@ subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
 title: Pre Medication Anti Anxiety Pills
 ---
-
 ## Why Your Dentist Might Recommend Anti-Anxiety Medication
 
 Dental anxiety affects about 1 in 6 adults significantly enough to avoid necessary care. If you're too anxious to sit through a procedure, taking an anti-anxiety pill 30-60 minutes before your appointment allows you to get the dental care you need. These medications aren't narcotics or "knockout" sedatives—they simply reduce anxiety enough that you stay conscious, cooperative, and able to communicate with your dentist, but you feel noticeably calmer.

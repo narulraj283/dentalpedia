@@ -14,7 +14,6 @@ references:
   - "Proffit WR, Fields HW, Sarver DM. Contemporary Orthodontics. 6th ed. St. Louis: Mosby Elsevier; 2018."
   - "Burstone CJ. The mechanics of the segmented arch technique. Angle Orthod. 1966;36(2):99-120."
 ---
-
 ## What Is a Deep Bite?
 
 A deep bite (called "overbite" in dental terminology) means your upper front teeth overlap your lower front teeth too much—more than normal. Learning more about [Wire Sequence Progression of Wires](/article/wire-sequence-progression-of-wires.html) can help you understand this better. Normally, your upper teeth overlap your lower teeth by about 2-3 millimeters.
@@ -71,7 +70,7 @@ Severe skeletal deep bites might require jaw surgery in combination with braces.
 
 Talk to your orthodontist about which type of deep bite you have and what specific treatment approach and timeline to expect for your situation.
 
-> **Key Takeaway:** Understanding how orthodontists correct deep bites and excessive overlap of front teeth.
+> **Key Takeaway:** A deep bite (called "overbite" in dental terminology) means your upper front teeth overlap your lower front teeth too much—more than normal.
 
 ## Related Articles
 

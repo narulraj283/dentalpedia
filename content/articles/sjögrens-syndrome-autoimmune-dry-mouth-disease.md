@@ -43,7 +43,6 @@ subcategory: Oral Health Conditions Overview
 subcategory_slug: overview-oral-conditions
 title: Sjögrens Syndrome Autoimmune Dry Mouth Disease
 ---
-
 ## Understanding Sjögren's Syndrome
 
 Sjögren's syndrome is an autoimmune condition where your body's immune system attacks your salivary and tear glands. This leads to severe dry mouth (xerostomia) and dry eyes (xerophthalmia), affecting how you eat, drink, and speak. The condition can occur on its own or alongside other autoimmune diseases like rheumatoid arthritis.

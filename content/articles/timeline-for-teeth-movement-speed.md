@@ -30,7 +30,6 @@ references:
   - title: "Alikhani M, Alansari S, Sangsuwon C, Nervina JM, Grape E, Shahidi P, Aminoshariae A, Alborzi S, Somerman MJ. CDK4/6 Inhibition Accelerates Orthodontic Tooth Movement in Vitro and in Vivo. Journal of Dental Research. 2018;97(4):423-429."
     url: https://pubmed.ncbi.nlm.nih.gov/29261030
 ---
-
 ## Introduction
 
 You probably wondered during your braces journey why some of your teeth seem to move quickly while others lag behind. Why does the crowding in one area resolve in a few months while another area seems stuck? The answer involves multiple factors you can control and some you can't. Understanding what determines tooth movement speed helps you set realistic expectations and appreciate what your orthodontist is doing to optimize your progress.

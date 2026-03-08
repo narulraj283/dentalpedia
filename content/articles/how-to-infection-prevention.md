@@ -20,7 +20,6 @@ references:
   - title: "Disinfection protocols in dental operatories"
     url: https://www.ncbi.nlm.nih.gov/pubmed/20821919
 ---
-
 You trust your dentist with your mouth. That trust extends to whether your dentist follows proper infection control procedures. Good infection control protects you and prevents transmission of diseases like HIV and hepatitis between patients.
 
 ## What You Should See

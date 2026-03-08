@@ -32,7 +32,6 @@ references:
   - title: "Jepsen K, Jepsen S, Zucchelli G, Stefanini M. Mutual relationships between gingival dimensions and degree of root coverage after treatment of gingival recession—a systematic review. J Clin Periodontol. 2007;34(5):391-406."
     url: https://pubmed.ncbi.nlm.nih.gov/17448045
 ---
-
 ## When Your Gums Need Restoration
 
 Severe gum disease, aggressive brushing, or teeth grinding causes gum recession—your gum line moves downward, exposing tooth root and compromising support. Once recession happens, you need a graft to restore the gum. Your dentist can take healthy gum from one area and place it where it's lost.
@@ -79,12 +78,6 @@ After grafting, prevent future recession by:
 - Treating gum disease aggressively
 - Avoiding aggressive flossing
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss soft tissue graft gum restoration, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
-
 ## What to Expect During Your Visit
 
 Your dentist will begin by examining your mouth and reviewing your dental history to understand your current situation. This evaluation may include taking X-rays or digital images to get a complete picture of what is happening beneath the surface. Based on these findings, your dentist will explain the recommended treatment approach and walk you through each step of the process.
@@ -129,5 +122,5 @@ Gum grafting restores lost tissue, protects your teeth, and improves your appear
 
 - [Timeline for Bleeding Gums Solutions and Resolution](/article/timeline-for-bleeding-gums-solutions.html)
 - [Biofilm Structure, Architecture and Characteristics](/article/biofilm-structure-architecture-and-characteristics.html)
-- [Why Gum Disease Prevention Matters - Protecting Teeth,](/article/why-gum-disease-prevention-matters.html)
+- [Why Gum Disease Prevention Matters - Protecting Teeth](/article/why-gum-disease-prevention-matters.html)
 

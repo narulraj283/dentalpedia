@@ -42,7 +42,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Pain Management Surgery Complete Guide
 ---
-
 ## How Your Dentist Controls Pain During Surgery
 
 The foundation of pain management during dental surgery is local anesthesia—medications that numb the area where work will be done. When your dentist gives you an injection of local anesthetic before surgery, they're blocking pain signals from reaching your brain, so you feel pressure and vibration but not pain. Different anesthetics work at different speeds and last different lengths of time, and your dentist chooses the one that's best for your specific procedure.

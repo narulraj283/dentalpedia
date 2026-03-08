@@ -20,7 +20,6 @@ references:
   - title: "Patient compliance in clear aligner therapy"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25891364
 ---
-
 Clear aligners (like Invisalign) straighten teeth using a series of nearly invisible plastic trays. They're more discrete than traditional braces, and many patients prefer them. But they're not right for every bite problem, and they require excellent compliance.
 
 ## How Clear Aligners Work

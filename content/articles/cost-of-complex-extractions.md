@@ -22,7 +22,6 @@ references:
   - "Buhite RJ, Lanzador-Rodriguez C. Surgical extraction of impacted teeth. Dent Clin North Am. 2019;63(1):97-113."
   - "Park SY, Kim YI, Min KS, et al. Incidence and risk factors of post-operative complications after surgical extraction of impacted maxillary canines. J Dent Anesth Pain Med. 2018;18(3):165-172."
 ---
-
 Not all tooth extractions are simple. Some teeth are stuck (impacted), heavily damaged, or in tough positions, and they require surgical removal by a specialist. Understanding what makes an extraction complex and what it will cost helps you prepare both emotionally and financially.
 
 ## Simple vs. Complex Extractions
@@ -93,7 +92,7 @@ Simple extractions cost $75 to $300, while complex extractions run $600 to $1,50
 
 Whenever possible, ask your dentist about saving the tooth first before extraction. If extraction is necessary, plan ahead with your surgeon about the best approach and any special techniques needed. Talk to your dentist or surgeon about payment options and what to expect during recovery.
 
-> **Key Takeaway:** Understand what makes a tooth extraction complex and expensive. Learn about impacted teeth, surgical removal, recovery costs, and what to expect.
+> **Key Takeaway:** Not all tooth extractions are simple. Some teeth are stuck (impacted), heavily damaged, or in tough positions, and they require surgical removal by a specialist.
 
 ## Related Articles
 

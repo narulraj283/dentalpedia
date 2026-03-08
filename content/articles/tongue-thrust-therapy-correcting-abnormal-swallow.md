@@ -11,10 +11,9 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 reviewed: true
 ---
+Tongue thrust is a swallowing habit that affects your teeth and speech, but it can be relearned. The good news? Exercises fix the problem in about 75-90% of people who practice consistently. Here's how to retrain your swallowing in simple steps that actually work.
 
 ## How Normal Swallowing Works
-
-Before learning to fix an abnormal swallow, it helps to know what normal looks like. When you swallow correctly:
 
 1. Your tongue moves backward (not forward) and pushes food against the roof of your mouth
 2. Your cheek muscles keep food in the middle while your tongue works
@@ -172,5 +171,5 @@ Remember that every person's situation is unique. What works well for one patien
 
 - [Why Orthodontic Treatment Duration Matters](/article/why-orthodontic-treatment-duration-matters.html)
 - [Wire Bending: Customizing Appliances](/article/wire-bending-customizing-appliances.html)
-- [Two-Phase Orthodontia - Early Treatment Strategy,](/article/two-phase-orthodontia-early-treatment-strategy.html)
+- [Two-Phase Orthodontia - Early Treatment Strategy, Growth](/article/two-phase-orthodontia-early-treatment-strategy.html)
 

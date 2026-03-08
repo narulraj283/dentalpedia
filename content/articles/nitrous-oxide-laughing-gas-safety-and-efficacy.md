@@ -18,7 +18,6 @@ references:
   - title: "Conscious Sedation with Nitrous Oxide: Patient Outcomes and Satisfaction"
     url: https://www.ncbi.nlm.nih.gov/pubmed/31267890
 ---
-
 ## Laughing Gas for Dental Visits: What You Should Know
 
 Nitrous oxide, commonly known as "laughing gas," has been safely used in dentistry for over 150 years. If you've heard about it or been offered it at your dental appointment, you might be wondering: Is it safe? Will it really help me? What's it like? Understanding how nitrous oxide works, why it's so safe, and what to expect can help you feel confident using this effective anxiety management tool during your dental visit.
@@ -45,7 +44,7 @@ Your breathing continues normally. Unlike some sedatives that can slow your brea
 
 Your heart rate and blood pressure barely change. The gas is very gentle on your cardiovascular system, making it safe even for people with heart conditions.
 
-You recover immediately. Within five to ten minutes after the mask comes off, you'll be fully alert. There's no grogginess, no need for someone to drive you home (though some dentists recommend you wait a few minutes just to be safe). For more on this topic, see our guide on [Anxiety Management In Elderly Patients](/article/anxiety-management-in-elderly-patients.html).
+You recover immediately. Within five to ten minutes after the mask comes off, you'll be fully alert. There's no grogginess, no need for someone to drive you home (though some dentists recommend you wait a few minutes just to be safe). Unlike IV sedation, you don't need an escort because you're not sedated—you just feel more relaxed. For more on this topic, see our guide on [Anxiety Management In Elderly Patients](/article/anxiety-management-in-elderly-patients.html).
 
 Nothing metabolizes in your body. Your liver and kidneys don't have to process this drug because your body just exhales it—completely unchanged. This makes it safe even for people with liver or kidney disease.
 

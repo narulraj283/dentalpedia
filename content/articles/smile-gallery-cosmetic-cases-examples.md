@@ -34,7 +34,6 @@ references:
   - title: "Vallittu PK, Vallittu AS, Lassila VP. Dental aesthetics—a survey of attitudes in different groups of patients. J Dent. 1996;24(5):335-338."
     url: https://pubmed.ncbi.nlm.nih.gov/8906389
 ---
-
 ## Before-and-After Photos: Learning From Real Examples
 
 Before-and-after photos show you what's actually possible. When you look at a dentist's smile gallery, you see real patients who had cosmetic treatment, what their smiles looked like before, and what they look like after. These examples help you understand what different treatments can achieve and see results on people who might have similar concerns to yours.
@@ -56,12 +55,6 @@ Ask your dentist about specific cases—"What was the treatment timeline for thi
 ## Privacy Matters
 
 Your dentist should get your permission before using your photos in a gallery. That permission should be optional—declining won't affect your care. Your photos should never have your name or identifying information when displayed. Privacy protection is essential.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss smile gallery cosmetic cases examples, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

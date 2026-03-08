@@ -20,12 +20,11 @@ references:
   - "Wake M, et al. Teething and tooth eruption in infants: a cohort study. Pediatrics. 2000;106(6):1374-1379."
   - "Juneja S, et al. Eruption of the primary dentition: A review. J Clin Pediatr Dent. 2005;29(2):117-122."
 ---
-
 ## When Teeth Start Forming
 
-Baby teeth start forming six weeks before your baby is born—while still in the womb. So teeth develop long before they come through the gums. Teeth go through several building stages: first they're just buds of cells, then they form a cap shape, then a bell shape, and finally they finish mineralizing (hardening) after birth. For more details, see our guide on [Adenoid and Tonsil Hypertrophy](/article/adenoid-and-tonsil-hypertrophy-airway-impact.html).
+Baby teeth start forming six weeks before your baby is born—while still in the womb. So teeth develop long before they come through the gums. Teeth go through several building stages: first they're just buds of cells, then they form a cap shape, then a bell shape, and finally they finish mineralizing (hardening) after birth.
 
-Problems during pregnancy can affect baby teeth. If mom has a high fever, infection, or takes certain medicines during the first months of pregnancy, baby's front teeth and first molars might come in with pits or white spots that show those problems happened during development. For more details, see our guide on [Ankyloglossia and Speech Effects](/article/ankyloglossia-speech-effects-articulation-problems.html).
+Problems during pregnancy can affect baby teeth. If mom has a high fever, infection, or takes certain medicines during the first months of pregnancy, baby's front teeth and first molars might come in with pits or white spots that show those problems happened during development.
 
 ## When Baby Teeth Come In
 
@@ -97,25 +96,12 @@ Baby teeth form during pregnancy and start erupting around 6 months. Lower front
 
 Baby teeth fall out starting around age 6, with front teeth first. Premature tooth loss should prompt discussion of space maintainers to prevent permanent crowding. Developmental problems like pits, missing teeth, or extra teeth usually aren't serious but warrant monitoring. Most kids have all 20 baby teeth by age 3, and transition to permanent teeth by age 12.
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+Related reading: [Primary Tooth Mobility When to Extract](/article/primary-tooth-mobility-when-to-extract.html) and [Tell-Show-Do Behavior Management in Pediatric Dentistry](/article/tell-show-do-in-pediatric-dentistry.html).
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
-
-> **Key Takeaway:** Baby teeth start forming six weeks before your baby is born—while still in the womb. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** Lower front teeth come first (6-10 months), upper front teeth around 8-12 months, molars 13-19 months, and second molars last (23-33 months).
 
 ## Related Articles
 

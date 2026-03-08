@@ -42,7 +42,6 @@ subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
 title: Pediatric Sedation Options Levels of Consciousness
 ---
-
 ## Understanding Your Child's Sedation Options
 
 When your child needs dental work, dental sedation can make the experience easier and less stressful for them. Sedation works on a spectrum—from gentle relaxation to deeper sleep—depending on your child's anxiety level and what kind of treatment they need. Your dentist will talk with you about which option is best for your child. The key is that dentists monitor your child's safety throughout the entire procedure to make sure everything goes smoothly.

@@ -20,7 +20,6 @@ references:
   - "Slayton RL, et al. American Dental Association clinical practice guidelines for children. J Am Dent Assoc. 2018;149(10):898-908."
   - "Armfield JM, et al. Understanding dental anxiety and phobia in children. Aust Dent J. 2008;53(4):351-60."
 ---
-
 ## Why You're Nervous (and That's Okay)
 
 Your little one's first dental visit might be making you more anxious than it's making them. That's totally normal. But here's the thing: your child will pick up on your nervousness like a highly sensitive antenna. So taking a breath and managing your own anxiety actually IS part of preparing your child.
@@ -126,7 +125,7 @@ The worst thing you can do is avoid dental care. Even a difficult appointment is
 
 Your child's first dental visit is a small thing—a 20-minute appointment that establishes lifelong healthy habits and prevents future problems. Your calm presence and positive framing matter way more than what happens in the chair. Trust your pediatric dentist. They've got this.
 
-> **Key Takeaway:** How to prepare your child for their first dental visit with confidence-building strategies that work.
+> **Key Takeaway:** Your little one's first dental visit might be making you more anxious than it's making them.
 
 ## Related Articles
 

@@ -14,7 +14,6 @@ references:
   - "Locker D. Psychosocial consequences of dental fear and anxiety. Community Dent Oral Epidemiol. 2003;31(2):144-151."
   - "Armfield JM, Spencer AJ, Stewart JF. Dental fear in Australia: who's afraid of the dentist? Aust Dent J. 2006;51(1):78-85."
 ---
-
 ## The Trauma Connection
 
 About 50-60% of adults with dental anxiety trace it directly to a specific traumatic childhood dental experience. They remember it vividly—the pain, the fear, feeling out of control. Your dentist didn't give numbing medication, or it didn't work.
@@ -75,10 +74,6 @@ If you have dental trauma, acknowledge it. Tell your current dentist. Find a den
 
 Build trust gradually. Consider therapy if trauma is severe. Use sedation if needed. Have patience with yourself. Healing from dental trauma takes time, but it's absolutely possible.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about dental anxiety origins childhood trauma and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
 ## Conclusion
 
 Dental trauma in childhood establishes conditioned anxiety affecting decades of healthcare. 50-60% of dental phobia stems from specific traumatic experiences. Trauma impairs threat evaluation, causing overgeneralization: "all dental providers are dangerous." Avoidance reinforces anxiety by preventing exposure to safe experiences. Trauma-informed dental care using predictability, control, respect, and transparency enables treatment while supporting healing.
@@ -87,7 +82,7 @@ Severe trauma benefits from therapy (prolonged exposure, EMDR). Sedation enables
 
 If you have unresolved dental trauma, talk to your dentist about your history and explore trauma-informed care or therapy with a trauma specialist.
 
-> **Key Takeaway:** Understanding how past traumatic dental experiences shape lifelong anxiety patterns.
+> **Key Takeaway:** About 50-60% of adults with dental anxiety trace it directly to a specific traumatic childhood dental experience.
 
 ## Related Articles
 

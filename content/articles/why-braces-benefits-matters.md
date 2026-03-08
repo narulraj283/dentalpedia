@@ -32,7 +32,6 @@ references:
   - title: "Psychological outcomes and self-esteem following comprehensive orthodontic treatment"
     url: https://pubmed.ncbi.nlm.nih.gov/27550098
 ---
-
 ## Why Orthodontic Benefits Matter Beyond Aesthetics
 
 Many people think braces are just about getting a better-looking smile. While that's certainly a benefit, research shows that orthodontic treatment does much more. Straightening your bite actually improves how your teeth function, protects your gums and bone, reduces your risk of cavities, improves your jaw joint health, and has measurable positive effects on mental health and quality of life. Understanding all the benefits of braces helps you make informed decisions about whether treatment is right for you.

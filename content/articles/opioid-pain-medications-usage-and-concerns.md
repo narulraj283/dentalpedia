@@ -28,7 +28,6 @@ references:
   - title: "Patient Education and Opioid Risk Mitigation Strategies"
     url: https://www.ncbi.nlm.nih.gov/pubmed/38901234
 ---
-
 ## Why Your Dentist May Not Prescribe Opioids
 
 If you're scheduled for a dental procedure or just had one, you might be surprised if your dentist doesn't automatically offer opioid pain medication. That's actually good news. While opioids like hydrocodone and oxycodone can relieve pain, they carry real risks—including addiction, even when taken exactly as prescribed. Your dentist is likely to suggest safer alternatives that work just as well for dental pain. Studies show that most patients do better with other medications that don't carry the same addiction risks.

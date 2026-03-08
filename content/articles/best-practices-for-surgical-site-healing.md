@@ -20,12 +20,13 @@ references:
   - "Mravak-Stipetić M, et al. Healing potential of connective tissue following minor oral surgery. Coll Antropol. 2014;38(2):415-420."
   - "Tobias JS, Hochhauser D. Cancer and its management. Blackwell Scientific Publications. 2015."
 ---
-
 ## The Critical First 24 Hours
 
-After your tooth is removed, the first day is when the real healing begins. You'll bite down on gauze for 30-45 minutes to help a blood clot form. This clot is like a temporary bandage inside your mouth—it's essential because it protects the area and serves as a foundation for new bone and gum tissue to grow. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
+After your tooth is removed, the first day is when the real healing begins. You'll bite down on gauze for 30-45 minutes to help a blood clot form. This clot is like a temporary bandage inside your mouth—it's essential because it protects the area and serves as a foundation for new bone and gum tissue to grow.
 
-For the rest of that first day, treat the area gently. Don't rinse your mouth vigorously, spit forcefully, or drink hot beverages—these actions can disturb the clot and cause bleeding. Smoking and drinking alcohol are major problems right now because they reduce blood flow to the extraction site and slow healing. People who smoke while recovering typically heal 20-30% slower than nonsmokers and have more complications. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
+For the rest of that first day, treat the area gently. Don't rinse your mouth vigorously, spit forcefully, or drink hot beverages—these actions can disturb the clot and cause bleeding. Smoking and drinking alcohol are major problems right now because they reduce blood flow to the extraction site and slow healing. People who smoke while recovering typically heal 20-30% slower than nonsmokers and have more complications.
+
+Smoking (the act of inhaling and exhaling smoke) specifically increases your risk of dry socket and slows blood clot organization, while alcohol acts as a blood thinner and interferes with tissue repair.
 
 You'll notice swelling peaks around day 2-3. Start using ice packs immediately after surgery—apply them for 20 minutes, rest for 20 minutes, and repeat during the first 48 hours. The cold shrinks blood vessels and reduces swelling. After 48 hours, you can switch to warmth to help circulation and speed up tissue rebuilding.
 
@@ -198,26 +199,16 @@ The extraction site becomes just normal mouth tissue once healed. No special lon
 
 **Related articles:** Recovery after wisdom tooth extraction | Managing swelling after dental surgery | When to get a dental implant
 
-## Questions to Ask Your Dentist
 
-Before extraction:
-
-- What's the expected healing timeline for my specific case?
-- What specific restrictions apply to me?
-- What warning signs require immediate contact?
-- How will you optimize my healing (any special agents or techniques)?
-- When should I return for follow-up?
-- When can I schedule implant placement if I want one?
-- What's the cost for tooth replacement?
-- Can you recommend a prosthodontist if I need a complex restoration?
-- What's the success rate for replacement after my specific extraction?
-- Should I take any special supplements to support healing?
+Related reading: [Common Misconceptions About Wisdom Teeth Extraction](/article/common-misconceptions-about-wisdom-teeth-extraction.html) and [Pre-Surgical Optimization and Preparation Guidelines](/article/best-practices-for-pre-surgery-preparation.html).
 
 ## Conclusion
 
----
+Extraction recovery follows predictable healing phases. The first 24 hours are critical—protect the blood clot by avoiding rinsing, smoking, and vigorous activity. Days 1-7 involve pain management and inflammation control with ice first, then heat. Nutritional support, activity restriction, and elevation all accelerate healing.
 
-> **Key Takeaway:** Proper first-day care, gentle activity restrictions, good nutrition, and watching for complications set you up for fast, complication-free healing.
+Your jawbone heals in phases: initial clotting and inflammation (week 1), rapid bone formation (weeks 2-8), then gradual bone maturation (months 2-12). Gum tissue seals within 3-4 weeks, and if your dentist uses sutures, healing happens slightly faster. Most people can return to normal activities within 1-2 weeks for simple extractions.
+
+> **Key Takeaway:** Successful extraction healing requires immediate protection of the blood clot, ice therapy in the first 48 hours, pain management, good nutrition, and activity restrictions for 1-2 weeks. Following these steps prevents complications like dry socket and allows your socket to fill with bone within 4-6 months, making it ready for implants if needed.
 
 ## Related Articles
 

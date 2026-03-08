@@ -32,7 +32,6 @@ references:
   - title: "Wynn RL. Oral drug interactions. General Dentistry. 2010;58(2):120-129."
     url: https://pubmed.ncbi.nlm.nih.gov/20349782
 ---
-
 ## Introduction
 
 Most people treat dental pain with over-the-counter medication without talking to a dentist or doctor. While pain relief is necessary, using pain medications without understanding the risks can cause serious harm. If you have other health conditions or take regular medications, the dangers multiply. Learning about these risks helps you use pain relief safely and protect your overall health.
@@ -142,9 +141,6 @@ Dentists bear responsibility for educating patients regarding risks associated w
 
 Patient education should emphasize that analgesics represent symptomatic rather than definitive treatment for dental pain, and that persistent or worsening pain despite appropriate analgesia necessitates clinical evaluation. Patients self-medicating should be counseled to avoid combining multiple analgesic preparations, to verify that combination medications do not duplicate active ingredients, and to consult healthcare providers before using analgesics if taking other medications or having underlying medical conditions. Documentation of analgesic recommendations, contraindications, and patient counseling protects practitioners from liability and ensures high-quality patient-centered care.
 
-## Conclusion
-
-Pain relief is important after dental work, but using pain medications safely requires understanding the risks and following directions exactly. Combine pain medication with simple non-medication strategies like ice, elevation, and rest for the best results. Avoid mixing multiple pain products. Report any side effects immediately. Your dentist will help you choose the safest, most effective pain management for your needs.
 
 ## Conclusion
 

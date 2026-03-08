@@ -30,7 +30,6 @@ references:
   - title: "Torabinejad M, Shabahang S. Treatment of teeth with open apices using mineral trioxide aggregate. Pract Proced Aesthet Dent. 2007;19(10):600-606."
     url: https://pubmed.ncbi.nlm.nih.gov/18333418
 ---
-
 ## What Root Canal X-Rays Tell Your Dentist
 
 When your dentist suspects you need a root canal, they take a special X-ray of just that tooth to see exactly what's happening inside. These pictures show your tooth's root, the tip of the root (the apex), and the bone surrounding the root. Your dentist looks for signs of infection or inflammation at the root tip, which would indicate that the nerve inside your tooth is infected or dead.
@@ -102,7 +101,7 @@ Your dental health journey is unique, and the right approach to radiographic int
 
 - [Root Canal Treatment Explained](/article/root-canal-treatment-complete-guide.html)
 - [Emergency Tooth Pain and Root Canal Timing](/article/emergency-root-canal-when-infection-requires-immediate-care.html)
-- [Stainless Steel Endodontic Files: Metallurgy,](/article/stainless-steel-files-traditional-material.html)
+- [Stainless Steel Endodontic Files: Metallurgy](/article/stainless-steel-files-traditional-material.html)
 - [Irrigation Solutions - Medicinal Liquids -](/article/irrigation-solutions-medicinal-liquids.html)
 - [Pulp Vitality Testing - Assessing Tooth Nerve Health](/article/pulp-vitality-testing-assessing-tooth-nerve-health.html)
 

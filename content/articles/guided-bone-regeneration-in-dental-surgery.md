@@ -47,7 +47,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: 'Guided Bone Regeneration in Dental Surgery: Principles'
 ---
-
 ## How Guided Bone Regeneration Works
 
 If you've lost significant bone in your jaw, dental implants might not be an option—unless you rebuild that bone. Guided bone regeneration (GBR) is a surgical technique that helps your body grow new bone exactly where you need it.

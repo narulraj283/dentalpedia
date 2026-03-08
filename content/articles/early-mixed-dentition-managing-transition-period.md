@@ -20,7 +20,6 @@ references:
   - "Cantekin K, Cetin S, Tasgin A. Early mixed dentition treatment with a bonded rapid palatal expander. J Clin Pediatr Dent. 2011;35(3):249-253."
   - "Vanarsdall RL Jr. The rationale for rapid palatal expansion as a major component of orthodontic treatment. Semin Orthod. 2002;8(3):211-217."
 ---
-
 ## Understanding the Transition From Baby Teeth to Adult Teeth
 
 Between ages 6-8, something amazing happens in your child's mouth: baby teeth start falling out and adult teeth come in. This is called the early mixed dentition phase because your child has a mix of baby teeth and permanent teeth. While this seems like a straightforward process, what happens during this period significantly affects your child's bite and eventual need for braces or other treatment.
@@ -87,7 +86,7 @@ The early mixed dentition phase is a time of transition and growth. While some t
 
 Work with your pediatric dentist or orthodontist to determine what's normal variation and what might benefit from intervention. Early evaluation and treatment planning ensures your child develops the best possible bite and tooth alignment.
 
-> **Key Takeaway:** Between ages 6-8, something amazing happens in your child's mouth: baby teeth start falling out and adult teeth come in.
+> **Key Takeaway:** This is called the early mixed dentition phase because your child has a mix of baby teeth and permanent teeth. While this seems like a straightforward process, what happens during this period significantly affects your child's bite and eventual need for braces or other treatment.
 
 ## Related Articles
 

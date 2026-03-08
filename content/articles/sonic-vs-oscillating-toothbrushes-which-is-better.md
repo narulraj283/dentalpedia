@@ -51,7 +51,6 @@ subcategory: Brushing, Flossing & Hygiene
 subcategory_slug: brushing-flossing
 title: Sonic vs Oscillating Toothbrushes - Which Is Better
 ---
-
 ## Introduction
 
 Choosing the right toothbrush is confusing when you're standing in front of dozens of options. You've probably seen both sonic toothbrushes and oscillating-rotating toothbrushes advertised as the best choice for your teeth. Research shows that powered toothbrushes work better than manual ones for most people—but is one type better than the other? This guide will help you understand how each toothbrush works and which option might be right for your teeth and gums.

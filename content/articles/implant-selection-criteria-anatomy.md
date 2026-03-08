@@ -30,7 +30,6 @@ references:
   - title: "Risk factors for implant failure based on anatomical site and bone characteristics"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25382373
 ---
-
 When you're considering a dental implant to replace a missing tooth, your dentist doesn't just pick one off the shelf. Instead, they carefully examine your jawbone to find the implant size and type that will work best for you. Choosing the right implant is one of the most important decisions your dentist will make—it affects how stable the implant will be, how well it will integrate with your bone, and how long it will last. Learning more about [Understanding the Healing Stages](/article/implant-timeline-healing-stages-and-treatment-duration.html) can help you understand this better.
 
 ## Understanding Your Bone Structure

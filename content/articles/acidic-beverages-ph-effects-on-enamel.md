@@ -20,12 +20,11 @@ references:
   - "Zero DT. Etiology of dental erosion—extrinsic factors. European Journal of Oral Sciences. 1996;104(2):162-177."
   - "Lussi A, Kohler N, Zero D, et al. A systematic review of the prevalence and incidence of dental erosion. Oral Surgery, Oral Medicine, and Oral Pathology, Oral Radiology. 2014;117(4):e421-e427."
 ---
-
 ## Why Some Drinks Damage Teeth
 
-Your tooth enamel is the hardest substance in your body, but it has one big weakness: acid. When the acidity of a drink drops below a certain level (pH 5.5), enamel starts dissolving. Many common beverages are far more acidic than this danger zone. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+Your tooth enamel is the hardest substance in your body, but it has one big weakness: acid. When the acidity of a drink drops below a certain level (pH 5.5), enamel starts dissolving. Many common beverages are far more acidic than this danger zone.
 
-Understanding which drinks are risky and how acidic they are helps you make informed choices about what you drink and how to protect your teeth. For more details, see our guide on [Acidic Foods and Enamel Erosion](/article/acidic-foods-and-enamel-erosion-prevention-tips.html).
+Understanding which drinks are risky and how acidic they are helps you make informed choices about what you drink and how to protect your teeth.
 
 ## Common Beverage pH Levels
 
@@ -121,25 +120,12 @@ Common beverages including cola (pH 2.4-2.6), juice (pH 2.8-3.5), and sports dri
 
 Plain water, milk, and tea are safer alternatives. Once erosion occurs, fluoride treatment and possible restoration are necessary. Smart drinking strategies and beverage choices protect your smile from acid damage.
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+Related reading: [Oil Pulling with Coconut Oil: Clinical Efficacy in Oral](/article/coconut-oil-natural-cleansing.html) and [Teeth Brushing Technique: What You Need to Know](/article/teeth-brushing-technique-what-you-need-to-know.html).
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
-
-> **Key Takeaway:** Your tooth enamel is the hardest substance in your body, but it has one big weakness: acid. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** Using a straw, limiting frequency of acid exposure, consuming acidic drinks with meals (when saliva is elevated), rinsing with baking soda, and waiting 30 minutes before brushing all substantially reduce erosion risk.
 
 ## Related Articles
 

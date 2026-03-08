@@ -28,18 +28,23 @@ subcategory: Implant Overview
 subcategory_slug: overview-implants
 title: 'All-on-4 Full-Arch Implant Restoration: Evaluation'
 ---
-
 ## Am I a Good Candidate for All-on-4?
 
 Not every edentulous person is ideal for All-on-4. Your surgeon conducts thorough evaluation to ensure you're a good fit. Medical history screening is essential. If you have diabetes, your blood sugar control matters—those with controlled diabetes (HbA1c less than 7%) heal normally and have similar implant success to non-diabetics. Uncontrolled diabetes (HbA1c greater than 8%) significantly increases implant failure risk and should be controlled before treatment.
 
-Smoking is the most critical modifiable factor—smokers have 3-5 times higher implant failure rates than non-smokers. Your surgeon will discuss smoking cessation intensively. Some medications (particularly bisphosphonates for osteoporosis) slightly increase bone disease risk, though treatment is usually still possible with precautions and your physician's input. Radiation therapy history for cancer indicates compromised bone healing, making All-on-4 more challenging but sometimes still feasible with special precautions like hyperbaric oxygen therapy. Your surgeon evaluates your overall health to ensure you can tolerate surgery. For more details, see our guide on [Biologic Width](/article/biologic-width-implant-to-gum-distance.html).
+Smoking is the most critical modifiable factor—smokers have 3-5 times higher implant failure rates than non-smokers. Your surgeon will discuss smoking cessation intensively. Some medications (particularly bisphosphonates for osteoporosis) slightly increase bone disease risk, though treatment is usually still possible with precautions and your physician's input.
+
+Radiation therapy history for cancer indicates compromised bone healing, making All-on-4 more challenging but sometimes still feasible with special precautions like hyperbaric oxygen therapy. Your surgeon evaluates your overall health to ensure you can tolerate surgery.
 
 ## Bone Assessment and Imaging
 
-Before any surgery, comprehensive CT scanning (called cone-beam CT or CBCT) shows bone anatomy in three dimensions. Your surgeon measures bone height and density at specific locations where implants will be placed. In the lower jaw, bone height must be at least 10-12mm from your ridge crest to the inferior alveolar canal (the nerve channel). In the upper jaw, bone height must be at least 8-10mm to the maxillary sinus. If these measurements are inadequate, traditional approaches would require bone grafting (months of healing plus graft costs). All-on-4 often avoids grafting by tilting posterior implants to use available bone in the pterygoid region (further back).
+Before any surgery, comprehensive CT scanning (called cone-beam CT or CBCT) shows bone anatomy in three dimensions. Your surgeon measures bone height and density at specific locations where implants will be placed. In the lower jaw, bone height must be at least 10-12mm from your ridge crest to the inferior alveolar canal (the nerve channel).
 
-Bone density is classified from D1 (very dense) through D4 (very soft). D1-D2 bone is ideal for immediate loading. D3 is acceptable with careful technique. D4 is challenging. Your CT imaging determines if you're a good immediate loading candidate. For more details, see our guide on [Alveolar Bone Augmentation for Implant Reconstruction](/article/bone-augmentation-for-implants.html).
+In the upper jaw, bone height must be at least 8-10mm to the maxillary sinus. If these measurements are inadequate, traditional approaches would require bone grafting (months of healing plus graft costs). All-on-4 often avoids grafting by tilting posterior implants to use available bone in the pterygoid region (further back).
+
+Bone density is classified from D1 (very dense) through D4 (very soft). D1-D2 bone is ideal for immediate loading. D3 is acceptable with careful technique.
+
+D4 is challenging. Your CT imaging determines if you're a good immediate loading candidate.
 
 ## If All-on-4 Isn't Suitable: Alternative Options
 
@@ -69,7 +74,9 @@ Treatment involves professional cleaning, intensified home care, and antimicrobi
 
 Implant sites need more attention than natural teeth. Brush gently with soft bristles around the implant-prosthesis junction (critical area). Use water irrigation or oral irrigator—gentler on implant tissue than traditional floss. Use interdental brushes to access spaces. Antimicrobial mouthwash (alcohol-free) helps.
 
-Absolutely no smoking. Avoid hard foods. Regular professional cleanings every 3-6 months are essential—not optional. Annual radiographic monitoring (x-rays) assesses bone levels. This ongoing care is non-negotiable for long-term implant survival. Most implant failures relate to poor home care or non-compliance with professional monitoring.
+Absolutely no smoking. Avoid hard foods. Regular professional cleanings every 3-6 months are essential—not optional.
+
+Annual radiographic monitoring (x-rays) assesses bone levels. This ongoing care is non-negotiable for long-term implant survival. Most implant failures relate to poor home care or non-compliance with professional monitoring.
 
 ## Mechanical Complications and Prosthesis Wear
 
@@ -103,11 +110,15 @@ Understand that this is fixed, permanent treatment—not reversible and not like
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
+
+Related reading: [Implant Cost and Insurance](/article/implant-cost-and-insurance.html) and [Implant Failure: Causes and Prevention Strategies](/article/implant-failure-causes-and-prevention-strategies.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about all-on-4 full-arch implant restoration: evaluation or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Not every edentulous person is ideal for All-on-4. Your dentist can help you understand what steps are right for your specific needs.
+
+> **Key Takeaway:** Not every edentulous person is ideal for All-on-4. Your surgeon conducts thorough evaluation to ensure you're a good fit.
 
 ## Related Articles
 

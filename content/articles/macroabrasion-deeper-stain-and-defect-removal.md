@@ -32,7 +32,6 @@ references:
   - title: "Combination Therapy: Macroabrasion, Bleaching, and Bonded Resin Restoration"
     url: https://www.ncbi.nlm.nih.gov/pubmed/23162355
 ---
-
 If you've had teeth that stayed stained despite whitening treatments, you're not alone. Some discoloration runs deeper than surface stains and can't be fixed by bleaching alone. That's where macroabrasion comes in—a proven cosmetic solution that gently removes the stained outer layer of your tooth's enamel to reveal the healthier tooth beneath. This safe, conservative technique can transform teeth affected by tetracycline staining, fluorosis, or other deep discoloration, giving you the bright smile you want without invasive procedures.
 
 ## How Macroabrasion Works on Your Teeth

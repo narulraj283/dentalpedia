@@ -30,7 +30,6 @@ references:
   - title: "Palatal and anterior temporalis palpation during orthodontic adjustment reduces perceived pain perception"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27589556
 ---
-
 If you're getting braces, you might be worried about pain. The truth is, most people do experience some discomfort when they get braces and especially after adjustments, but it's usually manageable and temporary. Understanding what to expect and having pain relief strategies ready helps you get through it.
 
 ## What Causes Braces Pain?

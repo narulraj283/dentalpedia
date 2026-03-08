@@ -20,14 +20,13 @@ references:
   - "Rosema MI, et al. Plaque removal efficacy of new and used manual toothbrushes—a randomized clinical trial. Clin Oral Investig. 2016;20(7):1671-1679."
   - "Zink A, et al. Manual versus electric toothbrush technology: systematic review. J Dent Res. 2019;98(2):143-149."
 ---
-
 ## The Right Technique Matters More Than You Think
 
 The Bass technique is the most effective evidence-based brushing method. Position your soft-bristled toothbrush at 45 degrees to your gumline, aimed toward your roots. Apply light pressure (about the weight of a pen—if bristles bend, you're pressing too hard).
 
-Use small 2-millimeter horizontal vibrations—10-20 strokes per tooth area—then a rolling stroke downward. This two-phase technique removes biofilm from the critical gum margin, then clears surfaces. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+Use small 2-millimeter horizontal vibrations—10-20 strokes per tooth area—then a rolling stroke downward. This two-phase technique removes biofilm from the critical gum margin, then clears surfaces.
 
-Brush systematically: divide your mouth into 10 regions (upper right back, upper right front, upper left front, upper left back, lower right back, lower right front, lower left front, lower left back, lower front, upper front). Spend 15-20 seconds per region working methodically. Random brushing leaves 25-30% uncleaned. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+Brush systematically: divide your mouth into 10 regions (upper right back, upper right front, upper left front, upper left back, lower right back, lower right front, lower left front, lower left back, lower front, upper front). Spend 15-20 seconds per region working methodically. Random brushing leaves 25-30% uncleaned.
 
 Duration matters: two minutes removes 80-90% of accessible biofilm. Under one minute removes only 40-50%. Most people brush just 40-60 seconds without instruction.
 
@@ -186,16 +185,8 @@ For children under 3: rice-grain size of 500 ppm fluoride. Ages 3-6: pea-sized a
 
 **Professional feedback:** Your dentist sees results of your efforts. When they comment "excellent plaque control, your gums look so much healthier," that reinforces motivation.
 
-## Questions to Ask Your Dentist
 
-- "Is my current technique effective, or do I need adjustment?"
-- "Do you see signs that I'm brushing too hard or with the wrong technique?"
-- "What would improve my home care most?"
-- "Should I use an electric brush given my specific situation?"
-- "Am I brushing long enough to be effective?"
-- "Do I have any tooth sensitivity from my brushing technique?"
-
-**Related articles:** Best flossing technique guide | Electric vs manual toothbrushes | Preventing gum recession from brushing
+Related reading: [Xylitol Products: Sugar Alcohol Benefits for Cavities](/article/xylitol-products-sugar-alcohol-benefits-for-cavities.html) and [Why Cavity Prevention Methods Matter for Lifelong Oral](/article/why-cavity-prevention-methods-matters.html).
 
 ## Conclusion
 

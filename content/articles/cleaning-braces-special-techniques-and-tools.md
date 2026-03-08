@@ -20,7 +20,6 @@ references:
   - "Chen J, Ge Y, Hsu C, et al. Efficacy of dental floss in removing interproximal plaque among adolescent orthodontist patients. J Dent Res. 1997;76(1):89-96."
   - "Graziano MCL, Graziano KU, Sakamoto TC, et al. Effect of a computerized remineralizing dentifrice on white spot lesions around brackets. Angle Orthod. 2015;85(4):602-609."
 ---
-
 ## Why Cleaning Braces Is Extra Important
 
 When you wear braces, plaque builds up 4-5 times faster than with regular teeth. The brackets, wires, and bands create tiny spaces where bacteria hide and thrive. Without excellent cleaning, about 50-70% of people with braces develop gum inflammation (bleeding gums, swelling, and redness). Even worse, about 25-45% develop white spot lesions—permanent white marks that are actually early cavities starting right under your brackets.
@@ -114,7 +113,7 @@ The few extra minutes each day you invest in proper cleaning pays dividends in t
 
 Cleaning braces requires commitment to a multi-step routine using specialized tools—the right toothbrush, interdental brushes, floss (or water flosser), and regular professional cleanings. Success means protecting your investment in orthodontic treatment and ensuring your teeth and gums are healthy when your braces come off.
 
-> **Key Takeaway:** Master the art of cleaning your braces with the right tools and techniques to keep your teeth and gums healthy throughout orthodontic treatment.
+> **Key Takeaway:** When you wear braces, plaque builds up 4-5 times faster than with regular teeth.
 
 ## Related Articles
 

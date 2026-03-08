@@ -22,7 +22,6 @@ references:
   - "Pericoronal pathology and cyst/tumor development rates. Oral and Maxillofacial Surgery Clinics. 2019;31(2):213-225."
   - "Conservative management of asymptomatic impacted third molars: follow-up outcomes. Clinical Oral Investigations. 2020;24(9):3123-3131."
 ---
-
 Wisdom teeth are controversial. Some people have all four extracted as teenagers; others keep them their whole lives. Let's talk about what actually determines whether your wisdom teeth need to come out.
 
 ## Do You Even Have Wisdom Teeth?
@@ -82,17 +81,14 @@ Current professional guidelines recommend: extraction for wisdom teeth causing d
 
 This is a big shift from decades past when most impacted wisdom teeth were extracted routinely. The evidence shows that most people don't need this extraction and do just fine keeping asymptomatic impacted wisdom teeth.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about wisdom teeth extraction and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 
 Wisdom teeth removal is necessary only if they're causing actual problems: infection, decay, gum disease, or pathology. Asymptomatic impacted wisdom teeth are usually fine to leave alone and monitor with x-rays. If extraction is needed, younger age means easier surgery and faster recovery. Complications are relatively uncommon, and pain is usually manageable with over-the-counter medications.
 
-> **Key Takeaway:** Learn when wisdom teeth actually need to be removed and which ones can safely stay.
+> **Key Takeaway:** Wisdom teeth are controversial. Some people have all four extracted as teenagers; others keep them their whole lives.
 
 ## Related Articles
 

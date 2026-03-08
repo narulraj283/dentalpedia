@@ -14,7 +14,6 @@ references:
   - "Yarom N, Müller S. Oral mucosal manifestations of systemic conditions. Otolaryngol Clin North Am. 2011;44(1):145-161."
   - "Saleh J, Figueiredo R, Chernyshov PV, et al. The prevalence of geographic tongue and associated factors among 6000 subjects. Oral Dis. 2014;20(1):e20-e25."
 ---
-
 You look in the mirror and notice your tongue has unusual patterns—smooth, red patches surrounded by raised white borders that look kind of like a map. Congratulations, you have geographic tongue. If you're worried this is serious, you can relax: geographic tongue is harmless. It's not contagious, it won't become cancer, and it rarely causes problems. Understanding what it is helps you know when (and when not) to worry about it.
 
 ## What Geographic Tongue Is
@@ -89,7 +88,7 @@ Also mention geographic tongue to any new dentist, so it's documented in your re
 
 Geographic tongue is a harmless, very common condition. No treatment is necessary if you're asymptomatic. If symptoms develop, simple measures provide relief. It is unlikely to threaten your health or your teeth. Once you understand this, you can stop worrying and enjoy normal eating and speaking without concern.
 
-> **Key Takeaway:** You look in the mirror and notice your tongue has unusual patterns—smooth, red patches surrounded by raised white borders that look kind of like a.
+> **Key Takeaway:** You look in the mirror and notice your tongue has unusual patterns—smooth, red patches surrounded by raised white borders that look kind of like a map.
 
 ## Related Articles
 

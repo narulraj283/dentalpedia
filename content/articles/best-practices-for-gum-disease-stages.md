@@ -22,12 +22,11 @@ references:
   - "Jeffcoat MK, Reddy MS. Radiographic Methods for the Detection of Progressive Alveolar Bone Loss. J Periodontol. 2020;61(10):590-594."
   - "Socransky SS, Haffajee AD. The Bacterial Etiology of Destructive Periodontal Diseases. J Periodontol. 2020;65(5):372-381."
 ---
-
-If your dentist has mentioned that you have gum disease, you might be wondering what that really means and whether it's serious. Gum disease isn't just one condition—it exists in stages, ranging from minor inflammation to serious bone loss. Understanding what stage you're at helps you know what to expect and what treatment options are available. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+If your dentist has mentioned that you have gum disease, you might be wondering what that really means and whether it's serious. Gum disease isn't just one condition—it exists in stages, ranging from minor inflammation to serious bone loss. Understanding what stage you're at helps you know what to expect and what treatment options are available.
 
 ## Healthy Gums: What Normal Looks Like
 
-Healthy gums are pink, firm, and don't bleed when you brush or floss. Your dentist measures pockets around your teeth and finds they're one to three millimeters deep. No bleeding happens when they gently probe your gums. You have no redness or swelling. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+Healthy gums are pink, firm, and don't bleed when you brush or floss. Your dentist measures pockets around your teeth and finds they're one to three millimeters deep. No bleeding happens when they gently probe your gums. You have no redness or swelling.
 
 Underneath the surface, healthy gums have a tight seal where your gum meets your tooth. The collagen fibers that attach your gum to the tooth are strong and intact. Everything is working as it should be.
 
@@ -115,11 +114,18 @@ The key takeaway is that early intervention matters tremendously. Catching gum d
 
 Regardless of what stage you're at, consistent home care, not smoking, managing other health conditions, and regular professional monitoring are your best tools for preserving your teeth long-term.
 
+
+Related reading: [Cost of Cavity Diagnosis Process](/article/cost-of-cavity-diagnosis-process.html) and [Common Misconceptions About Enamel Erosion Repair](/article/common-misconceptions-about-enamel-erosion-repair.html).
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about clinical staging of periodontitis and progressive or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** If your dentist has mentioned that you have gum disease, you might be wondering what that really means and whether it's serious. Your dentist can help you understand what steps are right for your specific needs.
+
+> **Key Takeaway:** If your dentist has mentioned that you have gum disease, you might be wondering what that really means and whether it's serious.
 
 ## Related Articles
 

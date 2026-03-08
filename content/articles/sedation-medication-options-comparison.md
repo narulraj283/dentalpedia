@@ -19,7 +19,6 @@ subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
 title: Sedation Medications - How Different Drugs Work
 ---
-
 ## How Different Sedation Drugs Work
 
 Several different medications are used for dental sedation, and they all work in different ways. Some create calmness and anxiety relief, some reduce pain, and some put you to sleep. Your dentist or anesthesiologist chooses medications based on:
@@ -97,14 +96,6 @@ Some sedation medications have reversal agents that can quickly counteract the e
 - **Naloxone** reverses opioids
 
 Having these available adds an extra safety layer—if you have an unexpected strong reaction, the dentist can rapidly reverse the medication.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about sedation medications - how different drugs work and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

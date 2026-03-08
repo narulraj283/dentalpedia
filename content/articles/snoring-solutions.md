@@ -32,7 +32,6 @@ references:
   - title: "Chung F, Yegneswaran B, Liao P, Chung SA, Vairavanathan S, Islam S, Khajehdehi A, Shapiro CM. STOP-Bang questionnaire: a practical tool for screening of obstructive sleep apnea. Anesthesiology. 2008;108(5):812-821."
     url: https://pubmed.ncbi.nlm.nih.gov/18431116
 ---
-
 ## Why You Snore and How to Stop
 
 Snoring happens when your airway narrows during sleep. Air turbulence over soft tissue creates the snoring sound. The narrowing can be from your tongue position, soft palate relaxing, deviated septum, or enlarged tonsils. Whatever the cause, snoring means your breathing isn't easy—and a dentist can help.
@@ -71,12 +70,6 @@ While wearing your dental device, also try:
 - Losing weight if needed
 - Managing allergies
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss snoring solutions, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
-
 ## Tips for Long-Term Success
 
 Maintaining good results after dental treatment requires consistent care at home and regular professional check-ups. Brushing twice daily with a fluoride toothpaste and flossing at least once a day forms the foundation of good oral hygiene. These simple habits go a long way toward protecting your investment in your dental health and preventing future problems.
@@ -114,6 +107,6 @@ Snoring is fixable. A dentist can create a custom device that keeps your airway 
 ## Related Articles
 
 - [Stress and Teeth Grinding: Why Anxiety Makes You Grind](/article/stress-and-bruxism-psychological-factors-in-grinding.html)
-- [Temporomandibular Joint Anatomy: Structure, Ligaments,](/article/tmj-anatomy-joint-structure-and-function.html)
+- [Temporomandibular Joint Anatomy: Structure, Ligaments](/article/tmj-anatomy-joint-structure-and-function.html)
 - [TMJ Splint Therapy: Appliance Types, Fabrication, and](/article/tmj-splint-therapy.html)
 

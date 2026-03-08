@@ -32,7 +32,6 @@ references:
   - title: "Casamassimo PS, Wilson S, Gross CW. Effects of preprocedural explanation on blood pressure of pediatric dental patients. Pediatr Dent. 1997;19(5):348-352."
     url: https://pubmed.ncbi.nlm.nih.gov/9242211
 ---
-
 ## Why Your Child Gets Anxious at the Dentist
 
 Many children feel nervous about going to the dentist. About 1 in 4 children have some level of dental anxiety. For young children (ages 3-7), being separated from parents makes anxiety worse. Your child depends on you for safety and comfort, so being away from you in an unfamiliar setting with new people and strange sounds triggers natural worry. The question most parents ask is: "Should I be in the room with my child, or will my presence make things worse?" The honest answer is: it depends on your individual child.

@@ -32,7 +32,6 @@ references:
   - title: "Sodeyama T, et al. Halitosis and stress: a preliminary assessment of effects of stress on volatile sulfur compound production in mouth air. J Breath Res. 2012;6(3):037109."
     url: https://pubmed.ncbi.nlm.nih.gov/22990364
 ---
-
 ## How to Get Rid of Bad Breath
 
 About 30 percent of people struggle with bad breath at some point, and the good news is that it's usually fixable. Bad breath happens when bacteria in your mouth produce smelly compounds, and different causes require different solutions. If bad breath is caused by poor brushing, you might see improvement in 1 to 2 weeks just by cleaning better. If gum disease is the culprit, you might need 4 to 12 weeks of professional treatment. Understanding what's causing your bad breath helps your dentist give you the right solution. [Learn about plaque removal methods and cost](/article/timeline-for-plaque-removal-methods.html) to understand your treatment options better.

@@ -19,7 +19,6 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: Secondary Dentin Age Related Changes
 ---
-
 ## Your Teeth Change Throughout Your Life
 
 Inside every tooth is a hollow space containing nerve tissue and blood vessels. This space is called the pulp chamber. Throughout your lifetime, your tooth creates new layers of dentin (the hard tissue under the enamel) that gradually reduce this space. This natural process is called secondary dentin formation.
@@ -91,14 +90,6 @@ There's a silver lining to these changes: older teeth typically have less sensit
 Your dentist might use different diagnostic approaches for older teeth. Special X-ray techniques help visualize calcified canals. Cone-beam CT imaging sometimes helps assess complex anatomy when traditional X-rays aren't clear enough.
 
 These advanced tools help your dentist plan and execute treatment on challenging older teeth.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about your teeth age - understanding secondary dentin and... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

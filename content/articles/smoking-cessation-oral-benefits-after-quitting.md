@@ -32,7 +32,6 @@ references:
   - title: "Stoltenberg JL, Osborn JB, Pihlstrom BL, Aeppli DM, Wolff LF, Fischer GE. Association between smoking, bleeding on probing, and periodontal pocket depth. Journal of Periodontology. 1993;64(12):1313-1319."
     url: https://pubmed.ncbi.nlm.nih.gov/8106949
 ---
-
 ## Introduction
 
 Deciding to quit smoking is one of the best choices you can make for your health. While everyone knows smoking hurts your heart and lungs, many people don't realize the amazing changes that happen in your mouth when you stop. The good news? Your mouth starts showing improvement within just weeks—sometimes even days. These visible changes can give you real, concrete motivation to stay smoke-free because you can literally see and feel your mouth getting healthier.

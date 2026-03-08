@@ -20,7 +20,6 @@ references:
   - "Ruzic-Sabljic E, Strle F. Borrelia burgdorferi sensu lato: molecular biology, pathogenesis, clinical manifestations and treatment. Curr Neuropharmacol. 2008;6(4):348-358."
   - "Gu W, Xu H, Gasper DJ, et al. Oral spirochetes in tissues of patients with dentures. Oral Microbiol Immunol. 2008;23(3):222-230."
 ---
-
 If you've spent time in wooded or grassy areas and recently noticed an expanding red rash, you might be dealing with Lyme disease. Learning more about [Why Mouth Ulcer Care Matters](/article/why-mouth-ulcer-care-matters.html) can help you understand this better. While most people notice the rash on their skin, it's possible for the mouth to develop symptoms too. Understanding what erythema migrans (the characteristic rash of Lyme disease) looks like—especially in the mouth—can help you get treatment quickly and prevent serious complications.
 
 ## How You Get Lyme Disease
@@ -87,9 +86,11 @@ If you develop symptoms months after a potential Lyme disease exposure, you stil
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Erythema migrans represents the most common manifestation of Lyme disease, typically appearing as an expanding rash weeks after Borrelia burgdorferi transmission through tick vectors. If you have questions, your dentist can help you understand your options. Early recognition and antibiotic treatment are crucial for preventing serious long-term complications. If you notice an expanding rash after outdoor activity and have any oral symptoms, contact your doctor immediately. Taking time to prevent tick bites through proper precautions is your best defense against Lyme disease.
 
-> **Key Takeaway:** The characteristic "bull's-eye" rash of Lyme disease (erythema migrans) can occasionally appear in the mouth, though skin manifestations are much more common. Early recognition and antibiotic treatment are crucial for preventing serious long-term complications. If you notice an expanding rash after outdoor activity and have any oral symptoms, contact your doctor immediately. Taking time to prevent tick bites through proper precautions is your best defense against Lyme disease.
+
+
+> **Key Takeaway:** Borrelia burgdorferi infection producing characteristic expanding rash with intraoral involvement.
 
 ## Related Articles
 

@@ -32,7 +32,6 @@ references:
   - title: "Pressure Settings and Clinical Outcomes of Water-Jet Interdental Cleaning"
     url: https://pubmed.ncbi.nlm.nih.gov/24278913
 ---
-
 ## The Flossing Debate: What the Research Really Shows
 
 For decades, dentists recommended string floss as the gold standard for cleaning between teeth. But newer research comparing water flossers to traditional string floss reveals a surprise: water flossers actually work better for most people. A major clinical trial found that water flossers removed 29% more plaque from between teeth and reduced bleeding gums by 26% compared to string floss over just four weeks. Multiple follow-up studies have confirmed these findings. Both methods improve gum health compared to doing nothing, but the water floss group consistently outperforms string floss, especially for reducing bleeding on probing—one of the best measures of gum inflammation.

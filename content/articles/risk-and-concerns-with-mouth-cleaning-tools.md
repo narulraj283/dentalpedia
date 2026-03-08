@@ -32,7 +32,6 @@ references:
   - title: "Scheinin P, Mäkinen KK, Ylipaavalniemi P. Turpentine exposure and dental fluorosis. J Dent Res. 1978;57(11-12):1067-1069."
     url: https://pubmed.ncbi.nlm.nih.gov/283124
 ---
-
 Keeping your teeth clean requires the right tools and the right technique. There are so many options out there—electric toothbrushes, water flossers, interdental brushes, tongue scrapers—that it's easy to think more is better and to use them more aggressively than you should. However, using these tools incorrectly can actually damage your gums and teeth, causing recession and permanent damage that's much worse than a little plaque buildup would be. Understanding how to use each tool properly protects your teeth while still keeping them clean.
 
 ## Choosing the Right Toothbrush for Your Needs

@@ -22,7 +22,6 @@ references:
   - "Van Landuyt KL, Nawrot T, Geebelen B, et al. How much do resin-based dental materials release? A meta-analytical approach. Dent Mater. 2011;27(4):359-368."
   - "Sakaguchi RL. Review of the current status and challenges for dental composite restorative materials. J Dent Res. 2015;94(5):660-667."
 ---
-
 ## Choosing the Right Restoration for Your Tooth
 
 When your dentist finds a cavity or damaged tooth area, they need to choose the best way to repair it. Your choice depends on several things: how big the cavity is, where it's located, what your teeth look like, and how much you want to spend. There are four main types of filling and restoration materials your dentist might recommend: amalgam (silver-colored metal), composite resin (tooth-colored plastic), glass ionomer (a special cement), and ceramic (porcelain). Each one has pluses and minuses, and the best choice really depends on your specific situation.

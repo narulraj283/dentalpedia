@@ -19,7 +19,6 @@ subcategory: Dental Technology
 subcategory_slug: dental-technology
 title: 'High-Resolution Intraoral Imaging: Seeing Your Teeth'
 ---
-
 During your dental visit, your dentist might use a tiny camera called an intraoral camera to take detailed pictures of your teeth. The images appear on a monitor right in front of you, showing teeth at magnifications 20-50 times larger than actual size. This high-resolution imaging allows your dentist to spot problems earlier and helps you understand what your dentist sees when examining your mouth.
 
 ## What Makes These Cameras Special?
@@ -79,12 +78,6 @@ The camera doesn't take X-rays or radiation. It's purely optical, making it a ge
 While high-resolution cameras show surface detail beautifully, they can't see through teeth like X-rays can. Your dentist still needs X-rays to see decay between teeth, decay under restorations, or bone level. Cameras and X-rays work together—cameras show surface problems, X-rays show hidden problems.
 
 Cameras also work best with good visibility. If a tooth is heavily stained or dark, imaging might be less effective than with lighter teeth.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about intraoral camera high resolution imaging and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

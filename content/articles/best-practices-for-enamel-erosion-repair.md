@@ -29,14 +29,13 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: Clinical Management of Dental Enamel Erosion
 ---
-
 Have you noticed your teeth looking a bit worn or shorter than they used to? Maybe you're seeing a bit of yellow color appearing through your teeth? That might be tooth enamel erosion—and you're not alone. About one in five to four in five adults deal with this issue.
 
-Unlike cavities caused by bacteria, enamel erosion happens when acid slowly eats away your tooth's protective outer layer. The good news? Once you understand what's causing it, you can take steps to protect what's left and restore what's been lost. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+Unlike cavities caused by bacteria, enamel erosion happens when acid slowly eats away your tooth's protective outer layer. The good news? Once you understand what's causing it, you can take steps to protect what's left and restore what's been lost.
 
 ## What Causes Enamel Erosion?
 
-Your tooth enamel starts dissolving when it's exposed to acid, specifically when the acid is strong enough (we call this "pH below 5.5"). The problem is, there are a lot of acidic things we eat and drink. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+Your tooth enamel starts dissolving when it's exposed to acid, specifically when the acid is strong enough (we call this "pH below 5.5"). The problem is, there are a lot of acidic things we eat and drink.
 
 Soda and sports drinks are major culprits. A can of cola is almost as acidic as stomach acid! If you drink a liter of soda every day, you're exposing your teeth to damaging acid multiple times daily. Sipping slowly throughout the day is actually worse than drinking it all at once, because your teeth are exposed to the acid longer.
 
@@ -104,11 +103,16 @@ Enamel erosion is preventable and treatable. The key is catching it early and ta
 
 If you have acid reflux, work with your doctor. Use fluoride products daily. And see your dentist regularly so they can catch problems early. With these steps, you can protect your remaining enamel and restore what's been lost, keeping your smile healthy and beautiful for years to come.
 
+
+Related reading: [Common Misconceptions About Emergency Tooth](/article/common-misconceptions-about-emergency-tooth-pain.html) and [Laser Therapy: Therapeutic Applications](/article/laser-therapy-therapeutic-applications.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+If you have acid reflux, work with your doctor. Use fluoride products daily. Talk to your dentist about how this applies to your situation.
 
-> **Key Takeaway:** Have you noticed your teeth looking a bit worn or shorter than they used to? Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** Have you noticed your teeth looking a bit worn or shorter than they used to? Maybe you're seeing a bit of yellow color appearing through your teeth?.
 
 ## Related Articles
 

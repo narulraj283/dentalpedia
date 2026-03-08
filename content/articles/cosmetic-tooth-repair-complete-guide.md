@@ -20,18 +20,9 @@ references:
   - "Soares CJ, Esteves GC, Carvalho Filho R, et al. Fracture strength and stress distribution in large resin composite restorations restored with different techniques. Oper Dent. 2017;42(5):E164-E173."
   - "Goharian V, Mortazavi V, Goharian E, et al. Evaluation of microleakage around bonded and cemented margins of composite restorations. J Dent. 2015;12(11):759-766."
 ---
-
 ## Tooth Fracture Types
 
-**Enamel crack:** Just on surface, no structure loss. Usually needs no treatment.
-
-**Enamel fracture:** Enamel lost, no dentin exposure. Can be fixed with bonding.
-
-**Enamel-dentin fracture:** Large chip affecting both layers. Needs larger restoration.
-
-**Pulp exposure:** Nerve is visible. Needs endodontic evaluation.
-
-Your dentist can classify the fracture and recommend appropriate treatment.
+Chipped a tooth and panicking about what happens next? Don't worry—tooth repair options range from simple bonding (done in one appointment) to crowns, depending on how bad the damage is. Here's what each type of fracture means and how it's fixed.
 
 ## Fracture Causes
 
@@ -147,21 +138,11 @@ Understanding what happens during and after tooth repair reduces anxiety. When y
 
 You'll return for delivery of the permanent restoration (usually 1-2 weeks later). After bonding repair, you might experience temporary sensitivity to cold—this usually resolves within 2-4 weeks. Avoid hard, hot, or sticky foods for 24 hours while composite fully hardens. For larger restorations, sensitivity is rare but possible initially. Your dentist will give you specific care instructions depending on your repair type.
 
-## Questions to Ask Your Dentist About Fracture Repair
-
-When you call to schedule repair for your broken tooth, ask several important questions. Ask about the fracture itself: is the nerve exposed (pulp exposed), or is it just enamel/dentin damage? Ask what repair options exist for your specific fracture. Ask about cost for each option. Ask about longevity: how long will the repair last, and how does this compare to other options? Ask whether the broken piece can be reattached if you have it (and store it properly if you do).
-
-Ask about sensitivity: what should you expect after repair, and how long temporary sensitivity typically lasts? For bonding repair, ask about color stability and staining—can staining happen and how would that be managed? Ask about protection: should you wear a mouthguard to protect the repair, and if you grind teeth, should you wear a nightguard? Ask about aftercare: what foods should you avoid, when can you eat normally, when can you floss? Ask about follow-up: do you need to return for polishing or monitoring? Ask whether your insurance covers the repair and what your cost will be.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about cosmetic tooth repair complete guide and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
 ## Conclusion
 
 Tooth fractures can be effectively repaired through bonding, veneers, or crowns. Treatment selection depends on fracture size, location, and longevity desired. Most repairs look natural and function perfectly when done by skilled dentists.
 
-> **Key Takeaway:** Broken or chipped teeth can be repaired through bonding, veneers, or crowns, restoring function and appearance effectively.
+> **Key Takeaway:** Chipped a tooth and panicking about what happens next?
 
 ## Related Articles
 

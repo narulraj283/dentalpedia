@@ -32,7 +32,6 @@ references:
   - title: "Enamel Microhardness Changes Following Exposure to Various Beverages"
     url: https://pubmed.ncbi.nlm.nih.gov/23575236
 ---
-
 ## The Acid Problem: Why pH Matters for Your Teeth
 
 Water stays at pH 7.0 (neutral), which is perfect for your teeth. Most other beverages are acidic. Sodas average pH 2.5-3.0, juices range from pH 3.0-4.0, sports drinks average pH 2.8-4.0, energy drinks pH 2.5-3.5, coffee pH 4.8-5.0, and even tea can be pH 3.0-4.5. These numbers might seem like small differences, but they're actually huge in terms of how much damage they cause.
@@ -116,9 +115,6 @@ The fundamental recommendation is simple: water should be the primary beverage. 
 
 If non-water beverages are consumed, rinsing the mouth with water afterward reduces subsequent acid exposure. Use of a straw minimizes contact of acidic beverages with anterior teeth. Waiting 30-60 minutes before toothbrushing after acidic beverage consumption allows remineralization time and prevents brushing of softened enamel.
 
-## Conclusion
-
-Water is fundamentally superior to all other beverages for your teeth. Its neutral pH prevents erosion, its zero sugar content prevents cavities from bacterial acid production, and its universal availability makes it the easiest choice to adopt. Sodas, juices, sports drinks, coffee, and tea all damage your teeth through acidity and/or sugar. Making water your primary beverage protects your teeth and your smile for a lifetime.
 
 ## Conclusion
 

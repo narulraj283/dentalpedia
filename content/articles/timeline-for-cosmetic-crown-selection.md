@@ -1,34 +1,45 @@
 ---
-title: "Crown Material Selection for Esthetic Zones:"
-slug: timeline-for-cosmetic-crown-selection
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: "Optimal crown material selection for anterior teeth balances esthetic demands with strength requirements, longevity data, and material-specific..."
 date: 2026-03-05
+excerpt: Optimal crown material selection for anterior teeth balances esthetic demands
+  with strength requirements, longevity data, and material-specific...
 read_time: 11 min
+references:
+- title: 'Sailer I, Makarov NA, Thalmair T. Randomized controlled clinical trial of
+    zirconia-crown and metal-ceramic crown restorations: results at 3-year follow-up.
+    J Dent. 2015;43(2):179-186.'
+  url: https://pubmed.ncbi.nlm.nih.gov/25498446
+- title: 'Nejatidanesh F, Savabi O, Savabi G. Fracture resistance of anterior single-tooth
+    implant restorations: effect of crown material and implant-abutment connection
+    type. Int J Oral Maxillofac Implants. 2013;28(2):406-415.'
+  url: https://pubmed.ncbi.nlm.nih.gov/23527349
+- title: Pjetursson BE, Sailer I, Zwahlen M, Hammerle CH. A systematic review of the
+    survival and complication rates of all-ceramic and metal-ceramic reconstructions
+    in the vertical dimension. Clin Oral Implants Res. 2009;20(4):169-184.
+  url: https://pubmed.ncbi.nlm.nih.gov/19519803
+- title: Borba M, Cesar PF, Griggs JA. Failure analysis of rural and urban dental
+    ceramic restorations. Dent Mater. 2006;22(12):1139-1145.
+  url: https://pubmed.ncbi.nlm.nih.gov/16409739
+- title: Sjögren G, Molin M, van Dijken JW. Ceramic materials in prosthodontics. J
+    Oral Rehabil. 2008;35(2):87-100.
+  url: https://pubmed.ncbi.nlm.nih.gov/18197854
+- title: Toksavul S, Toman M, Uysal H. The effect of fiber posts on the fracture resistance
+    of teeth with buccal-lingual core material. J Prosthet Dent. 2005;93(5):263-268.
+  url: https://pubmed.ncbi.nlm.nih.gov/15798967
+- title: Shen C, Jawetz M, Colaizzi FA. Esthetic evaluation of different crown materials
+    and the effect of intraenamel preparation depth. Dent Mater. 1989;5(4):278-282.
+  url: https://pubmed.ncbi.nlm.nih.gov/2701752
+- title: 'Strassler HE, Denry IL. Restorative and Esthetic Dentistry: Material Selection
+    and Technique. Dent Clin North Am. 2011;55(1):1-25.'
+  url: https://pubmed.ncbi.nlm.nih.gov/21094718
+reviewed: true
 reviewer_specialty: Prosthodontics
+slug: timeline-for-cosmetic-crown-selection
 subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
-reviewed: true
-references:
-  - title: "Sailer I, Makarov NA, Thalmair T. Randomized controlled clinical trial of zirconia-crown and metal-ceramic crown restorations: results at 3-year follow-up. J Dent. 2015;43(2):179-186."
-    url: https://pubmed.ncbi.nlm.nih.gov/25498446
-  - title: "Nejatidanesh F, Savabi O, Savabi G. Fracture resistance of anterior single-tooth implant restorations: effect of crown material and implant-abutment connection type. Int J Oral Maxillofac Implants. 2013;28(2):406-415."
-    url: https://pubmed.ncbi.nlm.nih.gov/23527349
-  - title: "Pjetursson BE, Sailer I, Zwahlen M, Hammerle CH. A systematic review of the survival and complication rates of all-ceramic and metal-ceramic reconstructions in the vertical dimension. Clin Oral Implants Res. 2009;20(4):169-184."
-    url: https://pubmed.ncbi.nlm.nih.gov/19519803
-  - title: "Borba M, Cesar PF, Griggs JA. Failure analysis of rural and urban dental ceramic restorations. Dent Mater. 2006;22(12):1139-1145."
-    url: https://pubmed.ncbi.nlm.nih.gov/16409739
-  - title: "Sjögren G, Molin M, van Dijken JW. Ceramic materials in prosthodontics. J Oral Rehabil. 2008;35(2):87-100."
-    url: https://pubmed.ncbi.nlm.nih.gov/18197854
-  - title: "Toksavul S, Toman M, Uysal H. The effect of fiber posts on the fracture resistance of teeth with buccal-lingual core material. J Prosthet Dent. 2005;93(5):263-268."
-    url: https://pubmed.ncbi.nlm.nih.gov/15798967
-  - title: "Shen C, Jawetz M, Colaizzi FA. Esthetic evaluation of different crown materials and the effect of intraenamel preparation depth. Dent Mater. 1989;5(4):278-282."
-    url: https://pubmed.ncbi.nlm.nih.gov/2701752
-  - title: "Strassler HE, Denry IL. Restorative and Esthetic Dentistry: Material Selection and Technique. Dent Clin North Am. 2011;55(1):1-25."
-    url: https://pubmed.ncbi.nlm.nih.gov/21094718
+title: Crown Material Selection for Esthetic Zones
 ---
-
 ## Understanding Your Crown Options
 
 When you need a crown, your dentist has several material choices, each with different strengths and looks. All-ceramic crowns look the most natural and are great for front teeth. Porcelain-fused-to-metal (PFM) crowns are extremely durable and have been successful for decades.

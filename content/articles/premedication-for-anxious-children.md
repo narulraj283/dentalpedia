@@ -42,7 +42,6 @@ subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
 title: Premedication for Anxious Children
 ---
-
 ## Helping Your Anxious Child at the Dentist
 
 If your child becomes extremely anxious or fearful during dental visits, you're not alone—many children struggle with dental anxiety. For some children, talking and gentle reassurance from your dentist aren't enough to calm their fears. In these situations, your dentist might recommend pre-medication: giving your child a calming medication before the appointment to reduce anxiety and help them cooperate with necessary dental treatment. This guide explains how these medications work, what you can expect, and how to help your child have a safe, comfortable dental experience.
@@ -120,7 +119,7 @@ Whether you're exploring treatment for the first time or looking into follow-up 
 ## Related Articles
 
 - [Guided Imagery: Mental Escape Technique](/article/guided-imagery-mental-escape-technique.html)
-- [Dental Anesthesia Types and Delivery Methods:](/article/timeline-for-anesthesia-types.html)
+- [Dental Anesthesia Types and Delivery Methods](/article/timeline-for-anesthesia-types.html)
 - [IV Sedation Monitoring Equipment and Standards](/article/iv-sedation-monitoring-equipment.html)
 - [Sedation Monitoring - How Dentists Keep You Safe](/article/sedation-safety-monitoring-during-procedure.html)
 - [Sedation Recovery Period](/article/sedation-recovery-period.html)

@@ -22,12 +22,11 @@ references:
   - "Langlais RP, et al. Oral Pathology: Diagnostic and Therapeutic Implications. 2nd ed. Mosby; 2013."
   - "Ahmed JH, et al. Methotrexate-induced oral stomatitis: Clinical presentation and management. Oral Oncol. 2012;48(10):938-941."
 ---
-
 ## Why B Vitamins Matter for Your Mouth
 
-B vitamins are a group of eight different nutrients your body needs to keep cells healthy and working properly. Unlike some vitamins your body can store for months (like vitamins A, D, E, and K), B vitamins are water-soluble and wash out of your system quickly when not replenished—if you don't get enough, you notice problems within 3-8 weeks. This rapid depletion means regular dietary intake is essential. For more details, see our guide on [Acidic Foods](/article/acidic-foods-erosion-from-citrus-and-soda.html).
+B vitamins are a group of eight different nutrients your body needs to keep cells healthy and working properly. Unlike some vitamins your body can store for months (like vitamins A, D, E, and K), B vitamins are water-soluble and wash out of your system quickly when not replenished—if you don't get enough, you notice problems within 3-8 weeks. This rapid depletion means regular dietary intake is essential.
 
-Your mouth is one of the first places deficiencies show up because mouth cells grow and replace themselves incredibly fast—every few days to a week. Your oral tissue has one of the highest cell turnover rates in your body, so it's especially sensitive to nutritional deficiencies. The mouth lining must constantly repair itself from eating, talking, and normal wear, demanding steady nutritional support. For more details, see our guide on [Antioxidants and Oral Inflammation](/article/antioxidants-fighting-oral-inflammation.html).
+Your mouth is one of the first places deficiencies show up because mouth cells grow and replace themselves incredibly fast—every few days to a week. Your oral tissue has one of the highest cell turnover rates in your body, so it's especially sensitive to nutritional deficiencies. The mouth lining must constantly repair itself from eating, talking, and normal wear, demanding steady nutritional support.
 
 Your dentist is often the first person to spot a B vitamin problem because the clinical signs appear in your mouth before they show up anywhere else in your body. A knowledgeable dentist can recognize these patterns and refer you for testing and treatment before more serious systemic symptoms develop. This early detection capability makes your dental visits valuable for overall health screening. Let's examine each of the eight B vitamins and what happens when you don't get enough.
 
@@ -87,11 +86,12 @@ B vitamins are essential for keeping your mouth healthy and working properly. Th
 
 If you have mouth problems like cracks, strange tongue appearance, recurring canker sores, or burning sensations, ask your dentist specifically about B vitamin deficiency. Some medications deplete B vitamins, so mention your medicines to both your doctor and dentist for comprehensive evaluation. B vitamin deficiencies are fixable with supplements, dietary changes, or medication adjustments, and catching them early prevents serious problems like permanent nerve damage, anemia, or birth defects. Your dental health is intimately connected to your nutritional status, and your dentist can be an important partner in maintaining both.
 
+
+Related reading: [Refined vs Complex Carbohydrates and Tooth Decay](/article/refined-carbs-vs-complex-carbs-decay-risk.html) and [Zinc Compounds: Odor-Fighting Action](/article/zinc-compounds-odor-fighting-action.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
-
-> **Key Takeaway:** B vitamins are a group of eight different nutrients your body needs to keep cells healthy and working properly. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** B2 deficiency causes mouth cracks and sore corners; B3 deficiency causes bright red, painful tongue and oral sores; B6 deficiency causes canker sores and mouth inflammation; B9 (folate) deficiency causes tongue swelling and easy bleeding gums; B12 deficiency causes tongue changes, burning mouth, and potentially permanent nerve damage if untreated.
 
 ## Related Articles
 

@@ -20,7 +20,6 @@ references:
   - "Rotstein I, Friedman S. Conservative retreatment of nonhealing endodontic therapy cases. Dent Clin North Am. 1992;36(2):373-392."
   - "Matis BA, Cochran MA, Franco M. Clinical evaluation of bleached human teeth. J Dent Res. 1991;70(4):367-369."
 ---
-
 ## Understanding Your Natural Tooth Color
 
 Every person's teeth have a unique natural color determined by enamel translucency, dentin thickness, and dentin pigmentation. There are over 20 distinct natural tooth shades. Your dentist uses a standard shade guide to assess and document your baseline color. This is important because it tells you realistically what bleaching can achieve for your teeth.
@@ -87,7 +86,7 @@ Your dentist can suggest the most cost-effective combination for your specific s
 
 Color improvement options range from free professional polishing to $2,000 per tooth for permanent veneers. Professional whitening at $600 to $1,000 offers the best combination of cost, effectiveness, and safety for most people. Bonding and veneers solve multiple problems simultaneously. Whatever path you choose, realistic expectations and proper maintenance extend your results.
 
-> **Key Takeaway:** Explore safe and effective ways to lighten your smile, from professional whitening to cosmetic restorations.
+> **Key Takeaway:** Every person's teeth have a unique natural color determined by enamel translucency, dentin thickness, and dentin pigmentation.
 
 ## Related Articles
 

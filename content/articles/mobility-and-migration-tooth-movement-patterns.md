@@ -28,7 +28,6 @@ references:
   - title: "Splinting strategies for mobile teeth: effectiveness and clinical decision-making"
     url: https://www.ncbi.nlm.nih.gov/pubmed/23153188
 ---
-
 If you've noticed one of your teeth moves slightly when you push on it, or teeth are shifting and creating spaces where none existed, you're experiencing tooth mobility or migration—signs that your gum disease has progressed significantly. These aren't minor cosmetic issues; they indicate substantial bone loss and periodontal damage. Understanding what's happening helps you understand your options for saving teeth or accepting their loss.
 
 ## Why Teeth Move When You Push Them

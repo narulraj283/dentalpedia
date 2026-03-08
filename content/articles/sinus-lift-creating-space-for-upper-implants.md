@@ -30,7 +30,6 @@ references:
   - title: "Danesh-Sani SA, Engebretsen BP, Fenton A. A systematic review of midface vertical dimension changes after maxillary sinus augmentation. Int J Oral Maxillofac Surg. 2014;43(7):848-856."
     url: https://pubmed.ncbi.nlm.nih.gov/24725646
 ---
-
 ## Why You Might Need a Sinus Lift
 
 When you lose upper back teeth, your body gradually absorbs the bone that once held them—it's a natural process that happens over months and years. The upper sinuses (air-filled spaces in your cheeks) expand downward as this bone shrinks, leaving you without enough height to place dental implants securely. Many people who want implants in their upper back teeth find they don't have enough bone anymore.

@@ -44,7 +44,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Salivary Gland Surgery Removal and Reconstruction
 ---
-
 ## Understanding Salivary Gland Surgery
 
 Your salivary glands keep your mouth healthy by producing saliva. Most of the time you don't think about them. But when something goes wrong—a stone blocking the duct, chronic infections, or a tumor—surgery might become necessary. Understanding what salivary gland surgery involves helps you prepare and manage recovery expectations.

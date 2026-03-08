@@ -30,7 +30,6 @@ references:
   - title: "Patient Compliance and Long-Term Periodontal Stability Following Treatment"
     url: https://pubmed.ncbi.nlm.nih.gov/27641835/
 ---
-
 ## Keeping Your Gums Healthy for Life
 
 Once you have healthy gums, keeping them that way requires consistent habits. Gum disease won't develop overnight if you maintain good practices, but it will return quickly if you slack off. This guide explains the daily, weekly, and professional care routines that maintain gum health long-term, plus what changes if you've previously had gum disease.

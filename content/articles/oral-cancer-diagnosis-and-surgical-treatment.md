@@ -28,7 +28,6 @@ references:
   - title: "Surveillance and Recurrence Detection in Oral Cancer Survivors"
     url: https://www.ncbi.nlm.nih.gov/pubmed/42345678
 ---
-
 ## Risk Factors and Who Gets Oral Cancer
 
 Oral cancer isn't random. Certain behaviors and exposures increase your risk substantially. Tobacco use—whether smoked or chewed—is the leading preventable risk factor. Smoking and using smokeless tobacco dramatically increase oral cancer risk. Heavy alcohol use does too, and combined tobacco plus alcohol use creates even greater risk than either alone.

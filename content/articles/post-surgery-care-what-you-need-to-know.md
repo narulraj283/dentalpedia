@@ -16,58 +16,55 @@ references:
   - "Reusch P, et al. The importance of hemostasis in oral surgery. Oral Surgery. 2016;121(4):372-378."
   - "Benediktsdóttir IS, et al. Postoperative morbidity of third molar surgery. International Journal of Oral and Maxillofacial Surgery. 2004;33(3):232-237."
 ---
-
 ## Understanding Post-Surgical Care
 
-The period immediately following oral surgical procedures represents a critical window during which appropriate wound care, activity modification, and medication management dramatically influence healing trajectory and complication rates. While pre-operative preparation and the surgical procedure itself receive substantial attention, the post-operative period—often managed with minimal direct oversight—determines whether surgical sites heal without complications or develop infections, bleeding, blood clot dislodgement, or delayed healing.
+Right after oral surgery, care is critical. Proper wound care, activity limits, and medication use affect how well you heal. Before surgery and the surgery itself get a lot of attention. However, after surgery is when healing success is determined. Good post-operative care prevents infections, bleeding, and other complications.
 
 ## Infection Risk from Inadequate Wound Care
 
-Surgical wounds represent breaches in protective mucosal barriers, creating pathways for bacterial contamination. The oral cavity harbors numerous anaerobic bacteria that become pathogenic in the context of surgical wounds.
+Surgical wounds create breaks in protective tissue, allowing bacteria in. Your mouth has bacteria that become dangerous in surgical wounds. You must clean without disrupting healing.
 
-Wound care protocols must balance the need to maintain oral hygiene without aggressive mechanical disruption of healing sites. Begin gentle salt water rinses 24 hours post-operatively, avoid vigorous rinsing or use of water picks in proximity to surgical sites, and avoid oral rinses containing alcohol or essential oils that may irritate healing wounds. Patients with poor oral hygiene, those with compromised immune function, smokers, and those with systemic disease demonstrate elevated infection risk.
+Start gentle salt water rinses 24 hours after surgery. Don't rinse vigorously or use water picks near surgical sites. Avoid alcohol or spicy rinses that irritate wounds. Poor oral hygiene, weak immune system, smoking, and chronic disease increase infection risk.
 
 ## Blood Clot Formation and Protection
 
-The initial phase of wound healing depends on blood clot formation, which arrests hemorrhage, provides a scaffold for tissue remodeling, and prevents bacterial contamination of surgical sites. Activities creating negative pressure or mechanical disruption can dislodge these stabilized clots, resulting in alveolar osteitis (dry socket).
+Healing starts with blood clot formation. The clot stops bleeding, provides scaffolding for new tissue, and prevents bacteria entry. Activities that create pressure or touch the area can dislodge clots, causing dry socket (painful empty-looking socket).
 
-Physical activities creating increased blood pressure or Valsalva maneuvers (straining, heavy lifting, blowing nose) can dislodge clots during the critical first 24-48 hours of clot organization. Smoking creates negative pressure and thermal effects that mechanically dislodge clots. Aggressive rinsing or excessive touching of surgical sites disrupts clot organization.
+Exercise, straining, heavy lifting, and blowing your nose increase blood pressure and can dislodge clots in the first 24-48 hours. Smoking dislodges clots. Aggressive rinsing or touching disrupts clot organization.
 
-You should observe clot protection behaviors for the first 48-72 hours post-operatively. Clots become adequately stabilized by 48-72 hours, although complete organization requires several weeks.
+Protect the clot for the first 48-72 hours. By 72 hours, clots stabilize, but complete organization takes weeks.
 
 ## Complications from Premature Physical Activity
 
-Physical exertion increases blood pressure, increases heart rate, and accelerates metabolism, all of which interfere with hemostasis and wound healing. Strenuous physical activity can overwhelm hemostatic mechanisms and restart bleeding.
+Exercise raises blood pressure and heart rate, which interferes with clotting and healing. Strenuous activity can restart bleeding.
 
-You should avoid strenuous exercise, contact sports, heavy lifting, and activities generating heat for 3-5 days following uncomplicated extractions and longer for more complex procedures. Activity restrictions are not merely comfort measures but represent critical components of healing protocols. Return to normal activity should be gradual, with assessment of continued oozing before resuming full activity levels.
+Avoid strenuous exercise, contact sports, heavy lifting, and heat (saunas, hot baths) for 3-5 days after simple extractions. Complex procedures need longer rest. These restrictions are essential, not just comfort measures. Return to activity gradually as oozing stops.
 
 ## Medication Management
 
-Post-operative medication protocols include antibiotics, analgesics, and sometimes anti-inflammatory agents. Patients may overdose on analgesics seeking enhanced pain relief, create drug interactions through concurrent use of multiple medications, or develop allergic reactions to prescribed medications.
+After surgery, you may get antibiotics, pain medicine, and anti-inflammatory drugs. Don't exceed recommended doses seeking more pain relief. Don't mix medications without asking. Tell your dentist about allergic reactions.
 
-Patients taking anticoagulant medications present special post-operative challenges. Contemporary evidence favors continuing warfarin therapy through the perioperative period in patients with high thrombosis risk, managing bleeding through local hemostatic measures rather than discontinuing systemic anticoagulation.
-
-NSAIDs impair hemostasis and should be avoided in patients with active bleeding or coagulopathies; acetaminophen represents the analgesic of choice in these patients.
+If you take blood thinners (like warfarin), keep taking them. Your surgeon manages bleeding with local measures instead of stopping blood thinners. NSAIDs (ibuprofen) can increase bleeding and should be avoided if you're bleeding. Use acetaminophen instead.
 
 ## Anticoagulation Therapy
 
-Excessive bleeding may result from continued anticoagulation in the post-operative period, yet discontinuing anticoagulation creates thrombosis risk. Post-operative bleeding management should employ local measures including gauze packs with gentle pressure, topical hemostatic agents, and in some cases tranexamic acid rather than escalating pressure or manipulating surgical sites.
+Blood thinners cause continued bleeding after surgery, but stopping them creates clot risk. Your surgeon uses local measures to control bleeding: gauze with light pressure, special clotting agents, or medications instead of stopping blood thinners.
 
-You should be counseled regarding expected mild oozing and provided with clear instructions regarding when to contact your surgeon for excessive bleeding requiring intervention.
+Expect mild oozing. Your dentist tells you when to call about excessive bleeding.
 
 ## Infection Risk in Immunocompromised Patients
 
-Patients with compromised immune function including those with diabetes mellitus, HIV infection, chemotherapy patients, or transplant recipients face substantially elevated infection risk following oral surgery. Immune compromise impairs the inflammatory response necessary for wound healing and bacterial suppression.
+People with weak immune systems (diabetes, HIV, chemotherapy, transplant) face high infection risk after surgery. Weak immunity impairs healing and bacterial control.
 
-Your surgeon should identify immunocompromised status pre-operatively and may consider prophylactic antibiotic therapy in high-risk patients, extended antibiotic courses compared to standard patients, and more frequent post-operative monitoring.
+Tell your dentist if you have a weak immune system. Your surgeon may use preventive antibiotics, longer antibiotic courses, and closer monitoring.
 
 ## Blood Clot Complications and Dry Socket
 
-Alveolar osteitis, commonly termed "dry socket," represents an inflammatory condition of extraction sockets characterized by absent or disrupted blood clot, bone exposure, and severe pain typically beginning 3-5 days post-operatively. While alveolar osteitis is self-limiting and heals without intervention within 7-10 days, the pain experienced is substantial and significantly impacts quality of life.
+Dry socket (alveolar osteitis) is inflammation of the extraction socket. The blood clot is missing or damaged, bone shows, and there's severe pain 3-5 days after extraction. It heals in 7-10 days but causes significant pain and suffering.
 
-Risk factors include smoking, female gender (particularly with oral contraceptive use), traumatic extractions, and possibly immune suppression. Management includes gentle socket irrigation to remove debris, application of analgesic dressings, and provision of analgesic medications.
+Risk factors: smoking, female gender (especially with birth control), difficult extractions, and weak immunity. Treatment: gentle irrigation to remove debris, numbing dressings, and pain medication.
 
-You should emphasize prevention through appropriate post-operative care including smoking cessation, gentle oral hygiene, and clot protection.
+Prevent dry socket through good post-operative care: don't smoke, gentle oral hygiene, and clot protection.
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 

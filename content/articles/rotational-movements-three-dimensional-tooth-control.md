@@ -38,7 +38,6 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Rotational Movements Three Dimensional Tooth Control
 ---
-
 ## Why Your Teeth Move in Multiple Directions at Once
 
 When you look at your teeth in the mirror, you're seeing them from one angle—straight on. But orthodontists think in three dimensions. Your teeth need to move forward or backward (side-to-side), up or down (vertical), and they might also need to rotate or tilt sideways. Modern braces accomplish all these movements simultaneously, which is why orthodontic treatment is so complex and why your orthodontist needs periodic appointments to adjust your wires.

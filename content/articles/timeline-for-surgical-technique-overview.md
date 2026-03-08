@@ -32,7 +32,6 @@ references:
   - title: "Sato H, Ikehara T, Murakami K, et al. Efficacy of piezosurgery compared with conventional cutting instruments during orthognathic surgery. J Oral Maxillofac Surg. 2018;76(10):2114-2121."
     url: https://pubmed.ncbi.nlm.nih.gov/29935878
 ---
-
 ## Introduction
 
 The difference between a smooth extraction with quick healing and a difficult extraction with problems often comes down to surgical technique. Good technique means gentle handling, careful planning, and using the right instruments. This approach minimizes trauma, reduces pain and swelling, and helps you heal faster.
@@ -106,12 +105,6 @@ Knowing nearby structures prevents complications.
 **Maxillary sinus**: The sinus ceiling above upper back teeth can open during extraction. Small openings close alone; larger ones get covered with membrane or bone.
 
 **Blood vessels**: Careful handling prevents hemorrhage. Vessels running along the mandible need awareness and gentle technique.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for surgical technique overview, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

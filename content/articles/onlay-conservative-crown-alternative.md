@@ -28,7 +28,6 @@ references:
   - title: "Long-term Success Rates of Partial Coverage Restorations"
     url: https://www.ncbi.nlm.nih.gov/pubmed/35678901
 ---
-
 ## Understanding Onlays: The Sweet Spot Between Filling and Crown
 
 Your back molar is severely decayed or fractured. Your first instinct might be that it needs a full crown. But modern dentistry offers an elegant middle option: an onlay. An onlay covers only the biting surfaces and sides of your tooth, leaving the cheek-facing surface completely intact with your natural tooth visible. It's less aggressive than a crown (which wraps all the way around), preserves more tooth structure, and still provides powerful reinforcement where your tooth is weakened.
@@ -58,14 +57,6 @@ The biggest win with an onlay is you're preserving more of your natural tooth. I
 ## Cost and Timeline
 
 A single onlay costs less than a crown but more than a large filling. If your dentist can mill it in-office (CAD/CAM), you get it same-day. Lab-fabricated onlays take a week or two. Most insurance covers part of the cost since it's a necessary restoration, not purely cosmetic.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about onlay: conservative crown alternative and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

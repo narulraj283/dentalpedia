@@ -20,7 +20,6 @@ references:
   - "Salazar-Leal ME, García-Godoy F. Enamel microabrasion: an alternative for the removal of superficial stains and mild fluorosis spots. Quintessence Int. 2000;31(2):91-98."
   - "Plotino G, Buono L, Grande NM, Pameijer CH, Somma F. Nonvital tooth bleaching: a qualitative and quantitative analysis of the effects on dentin. J Endod. 2008;34(6):715-720."
 ---
-
 A small chip or flake on your front tooth might seem minor, but it's worth fixing to prevent further damage and maintain your smile. Modern dentistry offers quick, minimally invasive ways to restore small fractures—you can get your tooth looking perfect in one appointment.
 
 ## What Causes Incisal Edge Chips
@@ -121,7 +120,7 @@ Small enamel chips are easily restored using tooth-colored bonding material that
 
 Protecting your teeth through proper eating habits and mouthguards during sports prevents future injury. If you've chipped your tooth, call your dentist promptly—restored teeth function and look better than waiting. Talk to your dentist about which options are right for your specific situation.
 
-> **Key Takeaway:** Minimally invasive techniques for restoring fractured incisal edges and slight enamel defects.
+> **Key Takeaway:** A small chip or flake on your front tooth might seem minor, but it's worth fixing to prevent further damage and maintain your smile.
 
 ## Related Articles
 

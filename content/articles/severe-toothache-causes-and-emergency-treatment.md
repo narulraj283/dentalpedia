@@ -45,7 +45,6 @@ subcategory: Emergency Overview
 subcategory_slug: overview-emergency
 title: Severe Toothache Causes and Emergency Treatment
 ---
-
 ## Introduction
 
 A severe toothache can be one of the worst types of pain you can experience. It might have come on suddenly, or it might have been building for days. The pain might be localized to one tooth or radiate across your whole jaw.
@@ -135,9 +134,6 @@ While most dental pain represents localized endodontic or periodontal pathology,
 
 Symptoms suggesting mediastinitis or other serious deep space infections (dysphagia, fever, chest pain, respiratory distress) require immediate medical referral and possible hospital admission for intravenous antibiotic therapy. While rare in contemporary practice, these catastrophic complications can develop from odontogenic sources if left untreated.
 
-## Conclusion
-
-Severe toothache requires emergency evaluation to determine the cause and provide appropriate treatment. Whether your tooth needs emergency treatment, root canal therapy, or extraction depends on what's causing the pain. Seeking care promptly prevents complications and gets you out of pain faster.
 
 ## Conclusion
 

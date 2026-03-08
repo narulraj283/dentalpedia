@@ -20,7 +20,6 @@ references:
   - "Margolis HC, Zhang YP. (2023). Enamel demineralization and remineralization. In: Fejerskov O, Kidd EA. (Eds.), Dental caries: The disease and its clinical management. Oxford: Blackwell Munksgaard. p. 280-304."
   - "Tanzer JM. (2023). Xylitol and its uses in preventing dental caries. In: Simonsen RJ. (Ed.), Prevention in clinical oral health care. St. Louis: Mosby. p. 68-81."
 ---
-
 ## The Cavity Formation Recipe
 
 Think of cavities like a recipe. You need specific ingredients, and you can't make cavities without all of them. The three things you need are bacteria (the plaque on your teeth), sugar or carbohydrates (which feed those bacteria), and time. If you're missing even one of these, you won't get a cavity. Understanding this helps you understand why some people get cavities and others don't, even if they do similar things.
@@ -87,7 +86,7 @@ This is why prevention strategies target multiple areas: some focus on killing o
 
 Cavities require bacteria, sugar, and time—you can't get cavities without all three. Understanding this helps you see that you have multiple ways to prevent cavities. You can clean better to reduce bacteria, eat less sugar, change your diet pattern, use fluoride to strengthen teeth, or use antimicrobial rinses. Multiple approaches working together are more effective than focusing on just one thing.
 
-> **Key Takeaway:** Cavities require three things to form: bacteria, sugar, and time—you can't get a cavity without all three parts of the equation.
+> **Key Takeaway:** Think of cavities like a recipe. You need specific ingredients, and you can't make cavities without all of them.
 
 ## Related Articles
 

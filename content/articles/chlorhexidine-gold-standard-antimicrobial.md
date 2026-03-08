@@ -20,7 +20,6 @@ references:
   - "Periotto MC, et al. Chlorhexidine substantivity: Molecular mechanisms and clinical implications. Journal of Periodontology. 2023;94(8):1124-1141."
   - "Huang X, et al. Risk assessment for chlorhexidine adverse effects: Systematic review and meta-analysis. Journal of Dental Research. 2023;102(6):668-680."
 ---
-
 Chlorhexidine gluconate (CHX) is a powerful antimicrobial mouth rinse that your dentist might recommend if you have gum disease or after gum surgery. It's the most extensively studied and most powerful antimicrobial rinse available, but it works best as a short-term treatment, not a long-term daily rinse. Understanding how it works and what to expect helps you use it effectively.
 
 ## How Chlorhexidine Works
@@ -123,7 +122,7 @@ For people needing longer-term antimicrobial support, gentler alternatives offer
 
 Chlorhexidine is highly effective for fighting plaque and gum disease when used short-term (2-4 weeks). Its rapid antimicrobial action makes it ideal after gum surgery or for severe gum disease. Side effects including staining and taste changes limit long-term use, which is why your dentist will likely recommend switching to alternatives after initial treatment. Used correctly for appropriate durations, chlorhexidine provides powerful gum disease management.
 
-> **Key Takeaway:** Chlorhexidine is the most powerful antimicrobial mouth rinse for fighting plaque and gum disease, but it works best short-term.
+> **Key Takeaway:** Chlorhexidine gluconate (CHX) is a powerful antimicrobial mouth rinse that your dentist might recommend if you have gum disease or after gum surgery.
 
 ## Related Articles
 

@@ -30,7 +30,6 @@ subcategory: Brushing, Flossing & Hygiene
 subcategory_slug: brushing-flossing
 title: 'Electric Toothbrush Safety: Mitigating Gum Recession'
 ---
-
 ## Electric Toothbrushes: Benefits and Risks
 
 Electric toothbrushes are fantastic for removing plaque—often better than manual brushes—but they can cause problems if used incorrectly. Using an electric brush with too much pressure, poor technique, or for too long can cause gum recession (where gums pull back and expose root surfaces), root sensitivity, and abrasion of tooth surfaces. The good news is that these problems are preventable with proper technique and brush selection.
@@ -93,19 +92,13 @@ Elderly people and people with recession-risk factors need to be especially care
 
 Contact your dentist if: you develop sensitivity, you notice gum recession, your teeth feel rough or worn, brushing causes pain, or you're unsure about your electric toothbrush technique. Your dentist assesses damage and provides guidance on safe technique.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about electric toothbrush safety gum recession risks and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 Electric toothbrushes are excellent plaque-removal tools when used correctly. The key is using gentle pressure (or no additional pressure beyond the brush's vibration), proper technique (45-degree angle to gum line), and appropriate duration (two minutes). Never use excessive pressure—let the brush do the work. If you have gum recession risk or existing recession, be especially gentle.
 
 Proper technique prevents injury while giving you the benefits of effective plaque removal. Talk to your dentist about safe electric toothbrush use for your specific situation.
 
-> **Key Takeaway:** Electric toothbrushes are fantastic for removing plaque—often better than manual brushes—but they can cause problems if used incorrectly.
+> **Key Takeaway:** Using an electric brush with too much pressure, poor technique, or for too long can cause gum recession (where gums pull back and expose root surfaces), root sensitivity, and abrasion of tooth surfaces. The good news is that these problems are preventable with proper technique and brush selection.
 
 ## Related Articles
 

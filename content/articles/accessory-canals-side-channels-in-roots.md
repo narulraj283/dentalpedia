@@ -20,12 +20,11 @@ references:
   - "Hess W. Formation of root canals in permanent teeth. Journal of Dental Research. 1925;5(2):227-239."
   - "Peters OA, Laib A, Göhring TN, et al. Changes in Root Canal Geometry After Curved Canal Instrumentation. Journal of Endodontics. 2001;27(3):129-136."
 ---
-
 ## Understanding Tooth Root Structure
 
-Your tooth roots contain tiny canals that hold nerves and blood vessels. The main canal runs down the center of the root like a highway. However, many teeth also have small side channels branching off from the main canal—these are called "accessory canals." For more details, see our guide on [The Apical Foramen and Root Tip Opening](/article/apical-foramen-root-tip-opening.html).
+Your tooth roots contain tiny canals that hold nerves and blood vessels. The main canal runs down the center of the root like a highway. However, many teeth also have small side channels branching off from the main canal—these are called "accessory canals."
 
-About one-third to one-half of all teeth have these side channels. They're so small that standard X-rays can't show them. You might have one in your tooth right now without realizing it. These little channels become important when your tooth needs a root canal, because they can be a sneaky source of problems if not properly treated. For more details, see our guide on [Apical Periodontitis](/article/apical-periodontitis-bone-loss-around-root-tip.html).
+About one-third to one-half of all teeth have these side channels. They're so small that standard X-rays can't show them. You might have one in your tooth right now without realizing it. These little channels become important when your tooth needs a root canal, because they can be a sneaky source of problems if not properly treated.
 
 ## What Are Accessory Canals?
 
@@ -101,11 +100,12 @@ Accessory canals are tiny side branches in tooth roots present in about one-thir
 
 Better root canal treatment using ultrasonic activation, advanced filling materials, and extended working length helps reach into these side spaces. If your root canal didn't heal well, retreatment with these modern techniques often succeeds. Work with an experienced provider and ask about advanced techniques to prevent side channel problems from the start.
 
+
+Related reading: [Root Canal Retreatment - When Resin Occurs](/article/root-canal-retreatment-when-resin-occurs.html) and [When Do You Need a Root Canal? Common Signs and](/article/when-do-you-need-a-root-canal-common-signs.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
-
-> **Key Takeaway:** Your tooth roots contain tiny canals that hold nerves and blood vessels. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** Better root canal treatment using ultrasonic activation, advanced filling materials, and extended working length helps reach into these side spaces.
 
 ## Related Articles
 

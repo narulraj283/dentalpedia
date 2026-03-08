@@ -20,7 +20,6 @@ references:
   - "Pretty IA, Hall AF, Foreman PC, Buchalla W, Lennon AM. (2023). An automatic dental caries assessment system for interproximal surfaces using reflectance at 656 nm. Journal of Biomedical Optics. 10(6):064025."
   - "Lussi A, Hellwig E. (2023). Performance of a new laser fluorescence device for the detection of occlusal caries in vitro. Journal of Dental Research. 85(1):52-55."
 ---
-
 ## How Dentists Actually Find Cavities
 
 When you go to the dentist, they're not just looking at your teeth with their eyes. That's part of it, but they're actually using several different tools and techniques to find cavities you can't see. Your dentist might use X-rays, a special laser device, a digital camera, or several other tools. Together, these methods catch about 89-94% of cavities. Looking alone would only catch 55-65% of them, especially the small ones that are just starting to develop.
@@ -81,7 +80,7 @@ Cavities on different parts of your teeth need different detection methods. That
 
 Modern cavity diagnosis uses multiple tools—visual inspection, X-rays, laser fluorescence, and digital imaging—to catch cavities much more effectively than any single method. This approach finds early cavities before they become big problems, catches cavities in places eyes can't see, and gives your dentist a complete picture of your tooth health.
 
-> **Key Takeaway:** When you go to the dentist, they're not just looking at your teeth with their eyes.
+> **Key Takeaway:** That's part of it, but they're actually using several different tools and techniques to find cavities you can't see. Your dentist might use X-rays, a special laser device, a digital camera, or several other tools.
 
 ## Related Articles
 

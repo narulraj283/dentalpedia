@@ -31,7 +31,6 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Why Cosmetic Restoration Type Selection Matters
 ---
-
 ## Why Cosmetic Restoration Type Selection Matters for Long-Term Success
 
 When you're considering improving your smile, your dentist might suggest several different options—bonded restorations, veneers, or crowns. While these treatments can all make your teeth look better, they work in different ways and have different impacts on your teeth's long-term health. The choice between these options is more important than you might think. Selecting the right restoration type affects how long your treatment lasts, whether your teeth stay healthy in the future, and what treatment options you'll have available down the road. This guide explains the major restoration types so you can understand why your dentist recommends a particular approach.

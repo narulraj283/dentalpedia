@@ -20,14 +20,13 @@ references:
   - Kazanciyan G, et al. Management of alveolar osteitis with gelatin sponge in socket. Oral Surg Oral Med Oral Pathol Oral Radiol. 2013;116(1):e14-e17.
   - Bourne SJ, et al. Opioid analgesics for postoperative dental pain. Cochrane Database Syst Rev. 2013;7:CD004624.
 ---
-
 ## The First Few Hours After Your Extraction
 
 When a tooth comes out, your dentist immediately works on stopping the bleeding. A blood clot forms in the empty socket—this is actually your body's protective shield and the foundation for healing. The first blood clot is incredibly important, so your dentist will have you bite down on gauze for 15 to 30 minutes while the clot stabilizes. During these crucial first two hours, you need to stay calm and avoid disturbing the area.
 
-No rinsing, no drinking through straws, and definitely no smoking. These activities can dislodge the clot, which leads to a painful complication called dry socket. Think of that fresh clot like the foundation of a house—once it's set, you can build on it, but if you disturb it too early, everything gets compromised. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+No rinsing, no drinking through straws, and definitely no smoking. These activities can dislodge the clot, which leads to a painful complication called dry socket. Think of that fresh clot like the foundation of a house—once it's set, you can build on it, but if you disturb it too early, everything gets compromised.
 
-Swelling usually starts right away and gets worse over the next few days, which is totally normal. This is your body's inflammatory response, not a sign of infection. Applying ice to your cheek for 15 to 20 minutes at a time helps minimize swelling during the first 24 hours. After 24 hours, switch to warm compresses—they help your body reabsorb the fluid and feel much better. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+Swelling usually starts right away and gets worse over the next few days, which is totally normal. This is your body's inflammatory response, not a sign of infection. Applying ice to your cheek for 15 to 20 minutes at a time helps minimize swelling during the first 24 hours. After 24 hours, switch to warm compresses—they help your body reabsorb the fluid and feel much better.
 
 ## Managing Your Pain the Smart Way
 
@@ -79,11 +78,16 @@ By one to two weeks, you're essentially healed for normal function. Bone fills i
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
+
+Related reading: [Understanding Bite Force Physiology and](/article/benefits-of-bite-force-and-teeth.html) and [Sclerotic Dentin - Understanding Hardened Tooth](/article/sclerotic-dentin-blocked-tubules.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Extraction recovery progresses through predictable phases: hemostasis and clot formation (hours 0-24), inflammatory response with pain and swelling peaks (days 1-3), risk period for dry socket (days 3-5), soft tissue closure (days 5-7), clinical healing completion (weeks 2-3), and ongoing bone remodeling (months 1-6). If you have questions, your dentist can help you understand your options.
 
-> **Key Takeaway:** When a tooth comes out, your dentist immediately works on stopping the bleeding. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** When a tooth comes out, your dentist immediately works on stopping the bleeding.
 
 ## Related Articles
 

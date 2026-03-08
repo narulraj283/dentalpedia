@@ -33,7 +33,6 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: 'Before and After Smile Makeovers: Transform Your'
 ---
-
 A smile makeover can transform not just your teeth, but your confidence and quality of life. The good news is that you have many options, and modern techniques make amazing results possible. Whether your smile needs whitening, shape changes, or a complete transformation, there's a solution tailored to what you want.
 
 ## What Makes a Great Smile?
@@ -64,7 +63,7 @@ Composite veneers are made of the same material as tooth fillings. Your dentist 
 
 Ceramic veneers (also called porcelain veneers) are made in a lab based on your teeth. They look incredibly natural, never stain, and last 15-20+ years. They do require removing a thin layer of your tooth, but it's much less than getting a crown. Ceramic veneers cost more, but many people think they're worth it because they look and feel so natural.
 
-For severely discolored teeth that don't respond well to whitening, veneers are often the best solution. Learn more about [Enamel Erosion and Your Cosmetic Options](/article/enamel-erosion-and-cosmetic-restoration-options.html).
+For severely discolored teeth that don't respond well to whitening, veneers are often the best solution.
 
 ## Adjusting Your Gumline
 
@@ -93,6 +92,9 @@ Whatever you choose, take good care of your smile. Use a soft toothbrush, avoid 
 Modern smile makeovers can last 15-20 years or longer with proper care. That said, nothing lasts forever. Over 10 years, about 5-10% of veneers might chip or come loose. Your natural teeth around them will also age, so your restoration might eventually look darker relative to the natural teeth next to it.
 
 The key to making your smile last is good maintenance: brush twice daily with a soft toothbrush, floss daily, avoid using your teeth as tools, and see your dentist regularly. Protect your restorations like you'd protect any investment.
+
+
+Related reading: [Smile Design Mock-Ups](/article/mock-up-visualizing-results-before-treatment.html).
 
 ## Conclusion
 

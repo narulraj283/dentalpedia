@@ -44,7 +44,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Nerve Damage Paresthesia After Extraction
 ---
-
 ## Why Numbness Sometimes Happens After Tooth Extraction
 
 When your tooth is extracted, particularly if it's a wisdom tooth or an impacted tooth requiring surgical removal, the nerves in your lower jaw can sometimes be affected. Your lower jaw contains major nerves that provide sensation to your lower lip, chin, tongue, and parts of your mouth. Wisdom tooth extraction is the most common situation where temporary nerve irritation occurs because those teeth sit close to important sensory nerves.

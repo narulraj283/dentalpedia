@@ -21,7 +21,6 @@ subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
 title: Removable Prosthodontics Basics
 ---
-
 ## Complete Dentures: Replacing All Your Missing Teeth
 
 A complete denture replaces all of your teeth when you've lost them completely. This is more common than you might think—millions of people worldwide wear complete dentures. Modern dentures restore your ability to eat, speak clearly, and smile with confidence. They also support the structure of your face, preventing the sunken appearance that happens when you don't have teeth.

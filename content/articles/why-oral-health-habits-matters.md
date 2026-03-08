@@ -32,7 +32,6 @@ references:
   - title: "Quality of Life Impact of Preventable Oral Disease From Inadequate Habits"
     url: https://pubmed.ncbi.nlm.nih.gov/27634537
 ---
-
 ## Daily Habits That Protect Your Teeth for Life
 
 The habits you build today determine whether you'll have your natural teeth at 80 or be searching for denture adhesive. Building and maintaining solid oral health habits is one of the smartest investments you'll ever make—and it costs almost nothing compared to fixing problems after they develop. What's more, the impact extends far beyond your smile. Healthy teeth and gums affect your heart health, your diabetes control, your pregnancy outcomes, and even how confident you feel in social situations. Understanding why these habits matter so much makes it easier to prioritize them.

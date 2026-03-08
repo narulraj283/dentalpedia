@@ -22,12 +22,11 @@ references:
   - "Schroeder SD, Weed RE. Integrating cosmetic and restorative dentistry in the comprehensive treatment plan. J Esthet Restor Dent. 2001;13(3):183-195."
   - "Walls AW, Murray JJ. A clinical guide to crowns and bridges. 3rd ed. London: British Dental Association; 2006."
 ---
-
 ## Why Treatment Planning Matters
 
-Your dentist examining your teeth is step one. Figuring out how to best treat what they found is step two—and it's where good treatment planning separates good dentistry from great dentistry. A solid treatment plan prevents surprises, keeps you from getting unnecessary treatment, sequences things in the right order, and costs less overall than jumping in without thinking. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+Your dentist examining your teeth is step one. Figuring out how to best treat what they found is step two—and it's where good treatment planning separates good dentistry from great dentistry. A solid treatment plan prevents surprises, keeps you from getting unnecessary treatment, sequences things in the right order, and costs less overall than jumping in without thinking.
 
-This is your guide to understanding how dentists should be planning your treatment and what questions you should be asking. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+This is your guide to understanding how dentists should be planning your treatment and what questions you should be asking.
 
 ## Identifying All the Problems First
 
@@ -148,6 +147,9 @@ Good dentists welcome second opinions. In fact, they expect them on complex case
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
+
+Related reading: [Cavity Formation Process: Complete Guide to Caries](/article/cavity-formation-process-complete-guide.html) and [Cost of Cavity Formation Process](/article/cost-of-cavity-formation-process.html).
+
 ## Conclusion
 
 : Good Plans Yield Good Results
@@ -158,7 +160,7 @@ A good treatment plan might seem long initially, but it's usually more efficient
 
 When your dentist sits down to discuss your plan, listen carefully, ask questions, and don't be shy about clarifying anything that's unclear. Your participation in planning leads to better results and greater satisfaction with your treatment.
 
-> **Key Takeaway:** Your dentist examining your teeth is step one. Figuring out how to best treat what they found is step two—and it's where good treatment planning.
+> **Key Takeaway:** Your dentist examining your teeth is step one.
 
 ## Related Articles
 

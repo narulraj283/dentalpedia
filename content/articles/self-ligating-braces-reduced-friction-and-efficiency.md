@@ -45,7 +45,6 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Self Ligating Braces Reduced Friction and Efficiency
 ---
-
 ## Introduction
 
 When your orthodontist moves your teeth, they're fighting against friction—the resistance that makes teeth harder to move. Self-ligating braces were designed to reduce this friction by using a clever mechanical gate instead of rubber bands to hold the wire. The idea is simple: less friction means your teeth move more easily and treatment can go faster. But how much does friction really matter to your treatment time and comfort? Let's explore what the science actually shows about how self-ligating braces work and whether they deliver on their promises about efficiency.
@@ -102,9 +101,8 @@ Self-ligating bracket design often provides improved access for oral hygiene com
 
 Maintenance of self-ligating brackets requires specific attention to the ligation mechanism, whether passive or active. Passive systems require minimal maintenance beyond standard archwire engagement. Active systems with springs or clips require periodic inspection to ensure proper mechanism function. Patients should be educated on proper oral hygiene techniques around the self-ligating ligation apparatus to maximize the hygiene advantages these systems offer.
 
-## Conclusion
 
-Self-ligating braces genuinely reduce friction compared to traditional braces through innovative mechanical design, enabling faster wire progression and potentially 1-3 months of time savings overall. However, the impressive friction reduction in laboratory tests translates to more modest improvements in real-world treatment. [The choice between self-ligating](/article/cost-of-bite-problems-explained.html). Your orthodontist's experience and your own cooperation with care instructions likely matter more to your final outcome than the bracket type.
+Related reading: [Cost of Teeth Movement Speed and Acceleration](/article/cost-of-teeth-movement-speed.html).
 
 ## Conclusion
 

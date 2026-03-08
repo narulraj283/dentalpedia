@@ -28,7 +28,6 @@ references:
   - title: "Retention rates and bulk fracture resistance of posterior composites"
     url: https://pubmed.ncbi.nlm.nih.gov/26193724
 ---
-
 ## Why Your Filling Material Choice Actually Matters
 
 When your dentist says, "You need a filling," there's a follow-up question many patients don't ask but should: "What kind of filling?" The answer matters more than you might think. The material your dentist chooses affects how long your filling lasts, how it looks, how well it protects your tooth long-term, and even whether you'll need more dental work down the road. This guide explains your options and what each choice means for your tooth and your wallet.

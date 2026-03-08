@@ -32,7 +32,6 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Advanced Shade Selection Techniques in Restorative
 ---
-
 ## Matching Your Tooth Shade for Invisible Restorations
 
 One of the trickiest parts of getting a filling, crown, or veneer is making sure it looks exactly like your natural tooth—not obviously fake or darker than everything else. Getting shade matching right requires understanding how tooth color actually works and following some pretty specific protocols during the selection process.

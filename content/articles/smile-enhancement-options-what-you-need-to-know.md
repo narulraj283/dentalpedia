@@ -32,7 +32,6 @@ references:
   - title: "Kokich VG. Esthetics and vertical tooth position: clinical treatment of altered vertical dimension. Dent Today. 2003;22(8):54-59."
     url: https://pubmed.ncbi.nlm.nih.gov/14570154
 ---
-
 ## Your Smile Enhancement Guide
 
 There are many ways to improve your smile, and understanding your options helps you make the right choice. This guide explains the main treatments, how much they cost, how long they last, and what to realistically expect.

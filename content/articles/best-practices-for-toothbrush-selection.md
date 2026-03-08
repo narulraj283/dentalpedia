@@ -33,7 +33,6 @@ subcategory: Brushing, Flossing & Hygiene
 subcategory_slug: brushing-flossing
 title: 'Toothbrush Selection: Bristle Design, Stiffness'
 ---
-
 ## Choosing the Right Manual Toothbrush
 
 Manual toothbrushes are the most affordable and practical option for most people. They all have nylon bristles arranged in groups (called tufts), and they work fine when used correctly. The key variables are bristle stiffness and how the bristles are arranged. Bristles come in three stiffness levels: soft (0.15mm), medium (0.25mm), and hard (0.45mm).
@@ -149,15 +148,6 @@ Disinfecting toothbrushes is unnecessary under normal circumstances. Ordinary ta
 Here's the truth: the specific toothbrush brand/model matters far less than how consistently you use it. A person brushing consistently with poor technique on an average manual brush achieves better results than someone with perfect technique using a premium electric brush sporadically.
 
 Your motivation, consistency, and technique trump equipment quality. That said, some equipment improvements (electric brush timer, pressure sensor, ergonomic handle) support better behavior. These features don't compensate for poor compliance, but they facilitate good compliance.
-
-## Questions to Ask Your Dentist
-
-- "Based on my specific gum health and cavity risk, what type of toothbrush would you recommend?"
-- "Is my current brushing technique adequate, or could an electric brush help?"
-- "Do you see signs of aggressive brushing damage?"
-- "If I get an electric brush, what features matter most for my situation?"
-- "How often should I replace my toothbrush?"
-- "Are there any toothbrush features I should avoid?"
 
 ## Final Thoughts
 

@@ -43,7 +43,6 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: 'Digital Smile Design: Creating Your Perfect'
 ---
-
 Have you ever wondered what your smile would look like with cosmetic dental work before committing to treatment? Digital smile design makes this possible. Instead of imagining how your new teeth might look, you can actually see them on your screen—adjusted perfectly to match your face and your goals.
 
 ## What Is Digital Smile Design?

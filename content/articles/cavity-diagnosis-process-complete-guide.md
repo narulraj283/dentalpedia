@@ -20,7 +20,6 @@ references:
   - "Pitts NB, Ekstrand KR. International Caries Detection and Assessment System (ICDAS) and its International Caries Classification and Management System (ICCMS) - methods for staging of the caries process and enabling individualized management procedures and outcomes assessment. Community Dent Oral Epidemiol. 2013;41(1):e41-52."
   - "Lussi A, Megert B, Longbottom C, Reich E, Francescut P. Clinical performance of a laser fluorescence system for detection of occlusal caries lesions. Helv Odontol Acta. 1999;43(1):25-33."
 ---
-
 ## Modern Cavity Detection Methods
 
 Your dentist uses multiple complementary methods to detect cavities, achieving 85-95% accuracy compared to 50-60% with visual examination alone. These methods work together—none alone is perfect, but combined they catch decay at earliest stages enabling conservative treatment.
@@ -35,7 +34,7 @@ Your dentist examines every tooth surface systematically, noting any areas of co
 
 ## Standardized Cavity Classification
 
-Dentists worldwide use ICDAS II (International Caries Detection and Assessment System) to standardize cavity classification. This system assigns codes 0-6 based on lesion severity: 0-1 = no cavity or questionable lesion; 2-3 = early enamel cavities; 4-5 = dentin involvement; 6 = extensive dentin cavity.
+Dentists worldwide use a standardized system to classify cavities. This system assigns codes based on lesion severity: 0-1 = no cavity or questionable lesion; 2-3 = early enamel cavities; 4-5 = inner layer involvement; 6 = extensive inner layer cavity.
 
 This standardization lets different providers communicate clearly about cavity severity and guides treatment decisions.
 
@@ -47,7 +46,7 @@ Radiographic detection requires 25-30% mineral loss before becoming visible—me
 
 ## Advanced Imaging Technology
 
-Cone-beam CT (3D imaging) shows exceptional detail with 90-95% sensitivity for decay detection. Learning more about [Cavity Formation Process Complete Guide](/article/cavity-formation-process-complete-guide.html) can help you understand this better. However, radiation exposure is 50-200 times greater than bitewing X-rays, reserving CBCT for complex cases requiring detailed visualization.
+Cone-beam CT (3D imaging) shows exceptional detail for decay detection. Learning more about [Cavity Formation Process Complete Guide](/article/cavity-formation-process-complete-guide.html) can help you understand this better. However, radiation exposure is 50-200 times greater than bitewing X-rays. It is reserved for complex cases requiring detailed visualization.
 
 Subtraction radiography (computer-comparing sequential X-rays) detects lesion changes as small as 50 micrometers mineral loss, enabling objective treatment response monitoring. You may also want to read about [Cavity Prevention Methods What You Need to Know](/article/cavity-prevention-methods-what-you-need-to-know.html).
 
@@ -115,17 +114,14 @@ Understanding your cavity risk helps you prepare for future appointments. Bring 
 
 Documenting your individual risk factors helps your dentist recommend appropriate examination frequency and prevention strategies. Patients with high risk factors benefit from more frequent examinations catching early lesions before extensive decay develops.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about cavity diagnosis process complete guide and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 
 Comprehensive cavity diagnosis integrates visual examination, radiographic assessment, and advanced technology achieving 85-95% accuracy. Standardized classification systems enable clear communication about severity. Risk-based diagnostic frequency optimizes detection efficiency. Digital documentation enables objective monitoring of lesion changes and treatment response. Accurate, timely diagnosis enables early intervention when conservative treatment options remain available.
 
-> **Key Takeaway:** Modern cavity detection uses visual examination, X-rays, and technology to find decay early.
+> **Key Takeaway:** Your dentist uses multiple complementary methods to detect cavities, achieving 85-95% accuracy compared to 50-60% with visual examination alone.
 
 ## Related Articles
 

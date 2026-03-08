@@ -22,7 +22,6 @@ references:
   - "De Ryck T, Deschepper E, Charlier B, et al. Dental fear and anxiety in children: protective emotional intelligence as a variable. Int J Paediatr Dent. 2016;26(6):402-409."
   - "Martin MD, Vickers RG, Huebner CD, et al. Anxiety and pain levels during intravenous sedation for dental extractions. Spec Care Dentist. 2004;24(5):236-241."
 ---
-
 Sudden severe tooth pain sends people to emergency rooms, dentists' offices, and urgent care clinics—costing hundreds or thousands of dollars that could have been prevented. Understanding emergency costs and prevention strategies helps you make smart financial and health decisions when tooth pain strikes.
 
 ## Emergency Dental Exam and Initial Treatment
@@ -97,7 +96,7 @@ Emergency dental exams cost $150 to $400 in dedicated facilities (compared to $5
 
 Prevention through monitoring questionable teeth prevents emergency episodes costing $2,000 to $5,000 while enabling optimal scheduled treatment. Indirect costs of emergency pain (lost productivity, lost wages) often exceed direct treatment costs. Multimodal analgesia using NSAIDs and acetaminophen prevents opioid escalation risks. Over 30-year lifetime, endodontic therapy saves $1,000 to $5,000 compared to extraction and replacement. Talk to your dentist about monitoring potentially problematic teeth to prevent emergency situations and minimize total lifetime costs.
 
-> **Key Takeaway:** Find out what emergency dental treatment costs and why preventive monitoring saves money. Learn pain management strategies and the real cost of waiting.
+> **Key Takeaway:** Sudden severe tooth pain sends people to emergency rooms, dentists' offices, and urgent care clinics—costing hundreds or thousands of dollars that could have been prevented.
 
 ## Related Articles
 

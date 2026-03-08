@@ -20,7 +20,6 @@ references:
   - "Listl S, Watt RG, Albani F, Celeste RK. Global Impact of Oral Conditions on Health and Quality of Life in 1.6 Billion Adolescents. J Adolesc Health. 2015;56(5):473-479."
   - "Twetman S, Keller MK. Fluoride Rinses, Gels and Foams: An Update of Preventive Efficacy for Children and Adolescents. Caries Res. 2016;50(Suppl 1):38-44."
 ---
-
 ## Your Daily Habits Are Your Best Investment
 
 Building good oral health habits costs almost nothing—maybe $100-200 per year on tools and products. Learning more about [Cost of Oral Hygiene Routine](/article/cost-of-oral-hygiene-routine.html) can help you understand this better. Yet people who skip this small investment end up spending $5,000-15,000+ on treatments over their lifetime. The math is obvious: good habits are one of the smartest investments you can make.
@@ -128,17 +127,11 @@ Before starting habit changes, understand your current oral health. Ask your den
 
 Understanding your specific situation helps you target efforts where they'll have the biggest impact.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about oral health habits and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 Good oral health habits cost $100-200 yearly and prevent $5,000-50,000+ in lifetime treatment. It's remarkably simple: brush daily, floss daily, eat smart, see your dentist every 6 months. Talk to your dentist about building the right habit routine for your situation.
 
-> **Key Takeaway:** Building good oral health habits costs almost nothing—maybe $100-200 per year on tools and products.
+> **Key Takeaway:** Learning more about [Cost of Oral Hygiene Routine](/article/cost-of-oral-hygiene-routine.html) can help you understand this better. Yet people who skip this small investment end up spending $5,000-15,000+ on treatments over their lifetime.
 
 ## Related Articles
 

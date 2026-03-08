@@ -18,7 +18,6 @@ references:
   - title: "Leung YY, Cheung LK, Pow EH. Efficacy of drain placement in third molar surgery: a meta-analysis. J Oral Maxillofac Surg. 2006;64(3):369-377."
     url: https://pubmed.ncbi.nlm.nih.gov/16487793
 ---
-
 ## Introduction
 
 If your dentist or surgeon says you have an abscess that needs drainage, don't panic. An abscess is a pocket of infection (pus) that your body creates to protect you from spreading infection. The good news: drainage surgery fixes it.
@@ -94,12 +93,6 @@ Call immediately if: fever returns or won't go down; swelling gets worse instead
 **Oral Hygiene**: Brush twice daily, floss, and see your dentist every 6 months.
 
 **Healthy Habits**: Don't smoke (delays healing, increases infection risk). Control diabetes if you have it.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss surgical drainage abscess treatment, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

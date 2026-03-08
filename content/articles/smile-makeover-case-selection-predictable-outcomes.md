@@ -32,7 +32,6 @@ references:
   - title: "Fradeani M. Esthetic rehabilitation in fixed prosthodontics. Quintessence Publishing; 2004."
     url: https://pubmed.ncbi.nlm.nih.gov/15382841
 ---
-
 ## Is Your Smile Makeover Right for You?
 
 Are you thinking about getting a smile makeover? Before you and your dentist move forward, it's important to figure out whether this is the right time for you and whether your specific situation is a good fit for treatment. Not every smile situation is the same, and not every patient is ready for a smile makeover at the same time.

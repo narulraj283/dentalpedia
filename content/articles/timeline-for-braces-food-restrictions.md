@@ -32,7 +32,6 @@ references:
   - title: "Tufekci E, Yetkiner E, Eroğlu A, Kasimoglu Y. Evaluation of traumatic injuries during orthodontic treatment with self-ligating and conventional brackets. Angle Orthod. 2011;81(1):126-132."
     url: https://pubmed.ncbi.nlm.nih.gov/20936915
 ---
-
 ## Protecting Your Braces Through Smart Food Choices
 
 The foods you eat while wearing braces directly affect whether your treatment stays on track. Certain foods can break brackets or bend wires, which delays treatment and costs money for repairs. Other foods cause staining or damage to your teeth under the brackets. Understanding which foods to avoid and which safe alternatives to choose helps you enjoy eating while protecting your braces and teeth.
@@ -78,12 +77,6 @@ Position food between your molars to minimize stress on front brackets. After me
 **Snacks**: Cheese, yogurt, soft fruit, soft cookies, chocolate (in moderation). Skip nuts, popcorn, and hard candy.
 
 **Drinks**: Water is best. Milk is fine. Avoid soda, sports drinks, juice, and coffee drinks with sugar.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for braces food restrictions, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

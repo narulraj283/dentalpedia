@@ -22,14 +22,13 @@ references:
   - "van de Sande FH, Opdam NJ, Rodolpho PA, et al. Patient-centered outcomes of dental restorations. A systematic review. J Dent. 2014;42(9):1008-1017."
   - "Demarco FF, Collares K, Coelho-de-Souza FH, et al. Anterior composite restorations: A systematic review on long-term survival and reasons for failure. Dent Mater. 2015;31(10):1214-1224."
 ---
-
 ## What Your Dentist Does First
 
-When you come in with a broken tooth, your dentist starts by examining what kind of break you have. They look at whether only the hard outer layer (enamel) is cracked, or if the yellowish layer under it (dentin) is exposed. They want to know if the break goes all the way to the nerve. They'll gently clean the area and look for bleeding (which means the nerve is exposed) or clear fluid (which means it's probably still okay). For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+When you come in with a broken tooth, your dentist starts by examining what kind of break you have. They look at whether only the hard outer layer (enamel) is cracked, or if the yellowish layer under it (dentin) is exposed. They want to know if the break goes all the way to the nerve. They'll gently clean the area and look for bleeding (which means the nerve is exposed) or clear fluid (which means it's probably still okay).
 
 Your dentist takes X-rays to see the exact break line, check if the root is broken, and make sure your jaw bone is intact. They check how loose the tooth is—a solid tooth is good, but an overly loose tooth might mean a root fracture. They ask you about pain: simple chips don't usually hurt much unless your mouth rubs against sharp edges.
 
-Deeper breaks that expose dentin cause sensitivity to air and touch. If the nerve is exposed, you'll have significant pain. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+Deeper breaks that expose dentin cause sensitivity to air and touch. If the nerve is exposed, you'll have significant pain.
 
 ## Temporary Sealing Materials
 
@@ -78,6 +77,9 @@ Glass ionomer slowly wears away at about 0.1-0.2mm per week (faster than you'd n
 Once your dentist confirms your nerve is still alive (or decides what to do if it's not), they remove the temporary restoration. They use small ultrasonic tools to gently break it away without damaging the remaining tooth. They have to remove every last bit of temporary material—if even small particles stay on the tooth, they block the permanent bonding material and your new restoration might fail.
 
 Your dentist cleans everything with a mild polishing paste, looks very carefully to make sure the tooth is completely clean, and then they're ready to apply permanent restoration. If your tooth has been waiting a few weeks, they'll etch (apply acid to) the tooth surface fresh to prepare it properly for bonding.
+
+
+Related reading: [Oral Thrush](/article/oral-thrush-and-fungal-infections-causes-and-treatment.html) and [Risk Assessment for Dental Disease - Know Your](/article/risk-assessment-for-dental-disease-know-your-risk-level.html).
 
 ## Conclusion
 

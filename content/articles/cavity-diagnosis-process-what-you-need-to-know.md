@@ -20,7 +20,6 @@ references:
   - "Verdonschot EH, Plasschaert AJ. Etiology and diagnosis of caries. Dent Update. 1987;14(4):172-178."
   - "Pretty IA, Marcos M. Digital imaging in dentistry. Dent Clin North Am. 2010;54(3):431-444."
 ---
-
 ## How Your Dentist Finds Cavities
 
 Your dentist uses several techniques to find cavities, with each method catching problems the others might miss. Visual examination, X-rays, and occasionally special technology work together achieving far greater accuracy than any single method alone.
@@ -103,17 +102,11 @@ Many people experience anxiety around cavity diagnosis, worried about pain, cost
 
 If you're anxious, tell your dentist. They can slow their pace, explain each step, and help you feel more comfortable. Some offices offer amenities like headphones, hand signals for breaks, or sedation for very anxious patients. Don't avoid dental care because of anxiety—communication with your dentist helps manage it.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about cavity diagnosis process what you need to know and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 Cavity diagnosis combines visual examination, X-rays, and occasionally advanced technology to detect cavities early. Understanding detection methods helps you recognize warning signs and appreciate comprehensive professional examination. Early detection enables conservative treatment options like remineralization therapy. Regular examination at appropriate intervals combined with excellent home care enables early intervention before extensive treatment becomes necessary.
 
-> **Key Takeaway:** Understanding how your dentist finds cavities helps you recognize warning signs and participate in treatment decisions.
+> **Key Takeaway:** Your dentist uses several techniques to find cavities, with each method catching problems the others might miss.
 
 ## Related Articles
 

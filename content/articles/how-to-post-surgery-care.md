@@ -32,7 +32,6 @@ references:
   - title: "Complications of Oral Surgery: Early Recognition and Management"
     url: https://www.ncbi.nlm.nih.gov/pubmed/31697718
 ---
-
 Post-surgery care determines how smoothly you heal. The first three days are most critical. Learning more about [Your Tooth Extraction Recovery Timeline](/article/how-to-oral-surgery-recovery-timeline.html) can help you understand this better. After that, things improve noticeably each day.
 
 ## Days 1-3: Critical Healing Period
@@ -112,6 +111,6 @@ Good post-surgery care means good healing. Follow your instructions closely for 
 - [Managing Pain After Dental Surgery](/article/how-to-pain-management-surgery.html)
 - [Why Surgical Site Healing Matters](/article/why-surgical-site-healing-matters.html)
 - [How to Complex Extractions](/article/how-to-complex-extractions.html)
-- [Fundamental Oral Surgical Techniques: Incision Design,](/article/benefits-of-surgical-technique-overview.html)
+- [Fundamental Oral Surgical Techniques: Incision Design](/article/benefits-of-surgical-technique-overview.html)
 - [Laser Surgery: CO2 and Er:YAG Applications](/article/laser-surgery-co2-and-er-yag-applications.html)
 

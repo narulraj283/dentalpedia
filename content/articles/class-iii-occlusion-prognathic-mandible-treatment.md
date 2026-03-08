@@ -20,7 +20,6 @@ references:
   - "Roth RH. Functional occlusion for the orthodontist. J Clin Orthod. 1981;15(1):32-40."
   - "Okeson JP. Management of Temporomandibular Disorders and Occlusion. 8th ed. Mosby; 2020."
 ---
-
 ## What Is a Class III Bite?
 
 A Class III bite, also called a "prognathic mandible" or "underbite," is the opposite of a Class II bite. Instead of your upper teeth sticking out too far, your lower teeth stick out too far. If you look in the mirror, you might notice your lower jaw appears larger than your upper jaw, or your chin juts out noticeably. This creates a bite where your lower front teeth are in front of your upper front teeth when you close your mouth—the reverse of what's normal.
@@ -81,7 +80,7 @@ After treatment is complete, you'll need to wear a retainer consistently to prev
 
 A Class III bite caused by a prognathic (oversized) lower jaw requires a strategic approach, with treatment that depends on your age and severity. Early growth-guiding treatment, camouflage with braces for mild cases, or surgery for severe cases can all be effective. The key is catching the problem early and working with an experienced orthodontist.
 
-> **Key Takeaway:** Understanding Class III bites where the lower jaw is too large and how orthodontists manage this challenging bite problem.
+> **Key Takeaway:** A Class III bite, also called a "prognathic mandible" or "underbite," is the opposite of a Class II bite.
 
 ## Related Articles
 

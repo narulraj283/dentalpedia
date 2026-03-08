@@ -28,7 +28,6 @@ references:
   - title: "Children's dental visit frequency: early childhood caries risk assessment"
     url: https://www.ncbi.nlm.nih.gov/pubmed/18922843
 ---
-
 You've probably heard you should visit the dentist every six months. That's good general advice, but the real answer is more personalized. Your visit frequency should match your individual risk for cavities and gum disease. Someone with perfect teeth and healthy habits might do fine with annual visits. Someone with gum disease or cavity problems needs to come in more often.
 
 ## Understanding Your Risk Level
@@ -77,14 +76,8 @@ Elderly patients with gum disease or dry mouth often benefit from every three-mo
 
 Pregnant women are at higher risk for gum disease ("pregnancy gingivitis"), so more frequent visits during pregnancy help prevent problems that can affect both mother and baby.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about dental visit frequency and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-
-For more information, see [Clinical Approaches to Tartar Prevention and](/article/best-practices-for-tartar-prevention.html).
+Related reading: [Toothpaste Fluoride Content: PPM and Recommendations](/article/toothpaste-fluoride-content-ppm-and-recommendations.html).
 
 ## Conclusion
 

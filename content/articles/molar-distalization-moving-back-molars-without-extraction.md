@@ -28,7 +28,6 @@ references:
   - title: "Patient compliance and treatment efficiency in molar distalization: systematic review"
     url: https://www.ncbi.nlm.nih.gov/pubmed/24275124
 ---
-
 If your orthodontist has suggested that moving your back molars backward might help straighten your front teeth without extraction, you're looking at a treatment approach called molar distalization. Rather than removing permanent teeth to make space, this approach literally moves your molars backward, creating room for your crowded front teeth to align. While this might sound complicated, it's actually a well-established technique that works particularly well in growing patients with certain bite patterns.
 
 Traditional braces often solved crowding by extracting a premolar tooth on each side, then using the space for front tooth alignment. Many patients and their families prefer to keep all their natural teeth if possible. Molar distalization offers that option by taking advantage of the space typically available behind your molars—the area toward the back of your mouth. By strategically moving your molars distally (toward the back), your orthodontist creates the space you need for proper alignment without sacrificing any permanent teeth.

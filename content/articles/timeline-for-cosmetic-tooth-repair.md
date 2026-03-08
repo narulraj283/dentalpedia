@@ -32,7 +32,6 @@ references:
   - title: "Chu SJ, Karabin S, Mieleszko AJ. An esthetic evaluation of anterior tooth contours and chroma values after ceramic restoration placement. J Prosthet Dent. 2007;98(5):359-367."
     url: https://pubmed.ncbi.nlm.nih.gov/18022647
 ---
-
 ## Fixing a Broken Tooth: What Are Your Options?
 
 When you break or chip a front tooth, you need immediate cosmetic repair to feel like yourself again. Fortunately, modern dentistry offers several solutions depending on how badly the tooth is damaged and how long you want the repair to last. A small chip needs different treatment than a tooth broken in half. Understanding your options helps you make the right choice between quick-fix bonding, longer-lasting veneers, or fully protective crowns.
@@ -79,12 +78,6 @@ Also, if you wait weeks or months before treating your tooth damage, the tooth m
 ## Maintaining Your Repair
 
 After bonding or veneer, avoid chewing on hard foods like ice, nuts, or hard candy. If you grind your teeth at night, ask your dentist about a nightguard—grinding causes repeated stress that chips restorations faster. Regular brushing and flossing keep your restoration and surrounding teeth healthy. Professional cleanings every 6 months help identify early signs of damage before problems worsen.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for cosmetic tooth repair, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

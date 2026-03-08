@@ -22,14 +22,13 @@ references:
   - "Delanghe B, Groote AJ, Winkel EG, et al. Clinical diagnosis of halitosis: a scoping review. J Breath Res. 2015;9(4):044001."
   - "Seemann R, Kison A, Bizhang M, et al. An intraoral sampling technique for the detection of periodontal microorganisms producing halitosis. Arch Oral Biol. 2005;50(2):106-111."
 ---
-
 Bad breath embarrasses people and impacts relationships and confidence. The good news: most causes are simple to fix, and solutions are affordable. This guide explains what causes bad breath and how to fix it.
 
 ## What Causes Bad Breath
 
 **Bacteria on your tongue**: The most common cause. Your tongue harbors bacteria that produce sulfur-smelling compounds. Bad breath from tongue bacteria affects about 40-50% of people with halitosis.
 
-**Gum disease**: Bacteria below your gum line release odors. Affects about 30% of bad breath cases. Learn more about [Understanding Gum Disease and Preventing Tooth Loss](/article/periodontal-disease-and-tooth-loss-prevention.html).
+**Gum disease**: Bacteria below your gum line release odors. Affects about 30% of bad breath cases.
 
 **Food debris and decay**: Particles stuck between teeth or cavities harbor bacteria. Affects about 10-15% of cases. For more information, see our guide on [Cavity Formation and Prevention](/article/cavity-formation-process-complete-guide.html).
 
@@ -223,14 +222,8 @@ Does NOT cover:
 - Advanced laser/photodynamic therapy (elective)
 - Over-the-counter products
 
-## Questions to Ask Your Dentist
 
-- What's causing my bad breath?
-- Is it safe to use mouthwash long-term?
-- Do I need professional cleaning?
-- Is there a medication causing this (many drugs cause dry mouth)?
-- Should I see a specialist?
-- What results can I realistically expect?
+Related reading: [Cost of Bite Force and Teeth: Functional Considerations](/article/cost-of-bite-force-and-teeth.html).
 
 ## Conclusion
 
@@ -238,7 +231,7 @@ Bad breath usually starts with tongue bacteria (fix with daily scraping) or gum 
 
 Advanced therapies help resistant cases ($300-$600). Start with the basics: clean your tongue daily, improve flossing, see your dentist for professional evaluation. Together with your dentist, you'll fix this problem.
 
-> **Key Takeaway:** Bad breath affects 1 in 4 adults. Most causes are simple to fix with home care or professional cleaning. Learn what works and what it costs.
+> **Key Takeaway:** Bad breath embarrasses people and impacts relationships and confidence.
 
 ## Related Articles
 

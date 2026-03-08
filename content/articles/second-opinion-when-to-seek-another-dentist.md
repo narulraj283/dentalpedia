@@ -19,7 +19,6 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: Second Opinion When to Seek Another Dentist
 ---
-
 ## Your Right to a Second Opinion
 
 You have a fundamental right to seek a second opinion about any proposed dental treatment. No ethical dentist will be offended or upset if you want another professional's perspective—most dentists actually support patients getting second opinions for complex or expensive treatment plans. Getting another perspective is something your dentist can help you navigate with personalized guidance.
@@ -97,14 +96,6 @@ If a dentist becomes angry or refuses to share records, that's a red flag about 
 After getting second opinions, you have several options: proceed with your original dentist's plan, switch to the consultant's recommended approach, seek a compromise between the two, or consult additional providers if you're still uncertain.
 
 The choice is entirely yours—you're in control of your dental care decisions.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about dental second opinions - your right to get another... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

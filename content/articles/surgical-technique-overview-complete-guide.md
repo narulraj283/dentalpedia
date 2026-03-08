@@ -32,7 +32,6 @@ references:
   - title: "Moradi Majd N, Grondahl K, Flygare L. Accuracy of cone beam computed tomography (CBCT) for linear measurements of jaw bone. BMC Med Imaging. 2015;15:29."
     url: https://pubmed.ncbi.nlm.nih.gov/26142413
 ---
-
 ## Introduction
 
 Successful oral surgery rests on mastery of fundamental surgical techniques. Whether your surgeon is extracting teeth, placing implants, or correcting jaw deformities, the principles remain constant: prevent infection, handle tissues gently, control bleeding, and close wounds properly. This guide explains the core techniques that surgeons use every day to achieve superior healing, reduced complications, and optimal outcomes for their patients.

@@ -22,7 +22,6 @@ references:
   - "Schwendicke F, Dörfer CE, Schlattmann P. Socioeconomic inequalities in caries rates and dental attendance—A systematic review and meta-regression. Clin Oral Investig. 2015;19(6):1157-1164."
   - "Yang Y, Listl S, Broadbent JM, et al. Dental service frequency and childhood caries: evidence from the Dunedin Study. Community Dent Oral Epidemiol. 2020;48(1):36-42."
 ---
-
 The old recommendation was that everyone should visit the dentist twice a year. But modern dentistry knows that's not one-size-fits-all. Some people really do need six-month visits, while others can safely go a year or longer. Understanding your personal risk helps you find the right visit frequency that protects your teeth without wasting money on unnecessary visits.
 
 ## Not Everyone Needs Six-Month Visits
@@ -79,7 +78,7 @@ Visit frequency should match your personal cavity and gum disease risk, not a un
 
 Insurance typically covers two annual visits at 100%, with copayments for additional visits. Fluoride treatments cost $25 to $35 per application and benefit high-risk patients when applied quarterly. Cost analysis overwhelmingly supports preventive investment, with prevention costs creating 2:1 to 5:1 returns through prevented treatment expenses. Talk to your dentist about your personal risk and the visit frequency that makes sense for your specific situation.
 
-> **Key Takeaway:** The old recommendation was that everyone should visit the dentist twice a year. But modern dentistry knows that's not one-size-fits-all.
+> **Key Takeaway:** The old recommendation was that everyone should visit the dentist twice a year.
 
 ## Related Articles
 

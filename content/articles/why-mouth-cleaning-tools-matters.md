@@ -32,7 +32,6 @@ references:
   - title: "Patient-Specific Recommendations for Oral Hygiene Tool Selection in Dental Practice"
     url: https://pubmed.ncbi.nlm.nih.gov/29451826
 ---
-
 ## Why the Right Cleaning Tools Matter More Than You'd Think
 
 Most people brush their teeth every day, but are they using the right tools and techniques? The truth is that picking the right cleaning tools makes a huge difference in preventing cavities and gum disease. Your mouth is full of bacteria that form sticky layers on your teeth, and getting rid of these layers is the real job of daily cleaning. Understanding which tools work best for you, how to use them properly, and when you might need specialty items can transform your oral health and save you thousands in dental work down the road.

@@ -22,7 +22,6 @@ references:
   - "Daimaruya T, Nagasaki R, Takahashi I, et al. Periodontal tissue changes following experimentally induced tooth movement in rats. J Clin Periodontol. 2003;30(1):10-18."
   - "Topouzelis N, Tsaousoglou P. Orthodontics and periodontics. Periodontol 2000. 2011;54(1):34-51."
 ---
-
 You probably think braces work by just pushing teeth. Actually, the process is more complicated and interesting—your body does most of the work. Understanding this helps you see why your orthodontist gives specific instructions about force and why patience is necessary.
 
 ## How Do Teeth Actually Move?
@@ -83,17 +82,14 @@ This is why some orthodontists have tried accelerated orthodontics (using more a
 
 Some people's teeth move faster than average, others slower. This involves: bone density, age, genetics, force application quality, and compliance with wearing appliances. People with optimal conditions might finish treatment in 18 months that takes others 30 months. Understanding that individual variation is normal prevents frustration if your treatment isn't progressing as quickly as your friend's.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about teeth movement process and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 
 Tooth movement is your body's biological response to gentle, sustained pressure. The process takes 6-8 weeks to initiate, moves fastest at 0.8-1.2 millimeters weekly during active phases, and is limited by biological capacity rather than how hard you push. Excessive force paradoxically slows treatment. Understanding this helps you see why orthodontists give specific protocols and why patience and consistency matter.
 
-> **Key Takeaway:** Understand how orthodontics actually work and why teeth move the way they do—the biological process behind straightening teeth.
+> **Key Takeaway:** You probably think braces work by just pushing teeth.
 
 ## Related Articles
 

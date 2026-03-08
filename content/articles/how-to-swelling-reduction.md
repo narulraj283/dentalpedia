@@ -32,7 +32,6 @@ references:
   - title: "Factors predicting severe swelling and management strategies"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25611083
 ---
-
 Your face is puffy after extraction—this is one of the most visible parts of recovery, and it bothers people. The good news? Swelling is normal, predictable, and very manageable. Understanding why it happens and what to do about it helps you minimize it and feel better faster. Learning more about [Recovery After Tooth Extraction](/article/how-to-recovery-after-extraction.html) can help you understand this better.
 
 ## Why Your Face Swells

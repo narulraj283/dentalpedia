@@ -20,7 +20,6 @@ references:
   - "Dumfahrt H, Schäffer H. Porcelain veneers: a review of offended sound tooth preparations. Int J Prosthodont. 2000;13(1):9-20."
   - "Fradeani M, Redemagni M, Corrado M. Esthetic rehabilitation of anterior teeth with porcelain laminate veneers. Quintessence Int. 1998;29(1):5-21."
 ---
-
 ## The Two Main Options
 
 If your front teeth need esthetic improvement, you likely have two main options: composite bonding or porcelain veneers. Both effectively address discoloration, shape, alignment, and spacing issues. The main differences are longevity, how much tooth is removed, cost, and aesthetic capabilities.
@@ -112,12 +111,6 @@ Composite bonding requires 6-12 month polishing appointments to maintain appeara
 
 Both benefit from avoiding smoking, limiting dietary staining foods and drinks, and avoiding excessive parafunctional habits (grinding, nail biting).
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about dental veneers vs bonding which is right for you and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed dental veneers vs bonding which is right for you, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -128,7 +121,7 @@ Once you've addressed dental veneers vs bonding which is right for you, maintain
 
 Composite bonding provides conservative, immediately adjustable esthetic improvement with 5-7 year longevity. Porcelain veneers provide superior 15-20 year longevity with excellent esthetic capability. Choice depends on treatment longevity goals, esthetic demands, budget, and tooth anatomy. Composite bonding suits patients accepting periodic replacement; veneers suit those desiring long-term results. Discuss both options with your dentist to determine what aligns with your specific situation.
 
-> **Key Takeaway:** Comparing composite bonding (5-7 year longevity) and ceramic veneers (15-20 year longevity) for anterior tooth esthetics.
+> **Key Takeaway:** If your front teeth need esthetic improvement, you likely have two main options: composite bonding or porcelain veneers.
 
 ## Related Articles
 

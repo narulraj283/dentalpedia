@@ -22,14 +22,13 @@ references:
   - "Bodner L, et al. Incidence of alveolar osteitis following surgical removal of impacted third molars. Acta Otolaryngol. 2003;123(2):201-204."
   - "Cieslik W, et al. Electrocautery in oral and maxillofacial surgery. J Oral Maxillofac Surg. 2008;66(12):2487-2491."
 ---
-
 ## Best Practices for Bleeding Control in Oral Surgery
 
-If you're having a tooth extraction or oral surgery, you probably worry about bleeding. While some oozing is normal during and after tooth removal, uncontrolled bleeding makes the procedure harder for your dentist and more uncomfortable for you. Fortunately, dentists have many effective techniques for managing bleeding, starting with simple methods and moving to more advanced approaches only if needed. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
+If you're having a tooth extraction or oral surgery, you probably worry about bleeding. While some oozing is normal during and after tooth removal, uncontrolled bleeding makes the procedure harder for your dentist and more uncomfortable for you. Fortunately, dentists have many effective techniques for managing bleeding, starting with simple methods and moving to more advanced approaches only if needed.
 
 ## Simple But Effective: Gauze Pressure
 
-The first step in stopping bleeding is applying direct pressure with sterile gauze. You bite down firmly on gauze placed directly over the extraction site for 30 to 45 minutes, maintaining steady pressure. This gives blood time to clot properly. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
+The first step in stopping bleeding is applying direct pressure with sterile gauze. You bite down firmly on gauze placed directly over the extraction site for 30 to 45 minutes, maintaining steady pressure. This gives blood time to clot properly.
 
 Your dentist will emphasize firm, continuous pressure—not light contact. If you keep checking the area by opening your mouth, you disrupt clot formation and extend bleeding. Resist the urge to peek. Light bleeding mixed with saliva looks worse than it actually is, so a little oozing through the gauze is normal.
 
@@ -106,11 +105,17 @@ Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2007;103(3):e16-e20.
 9. Bodner L, et al. Incidence of alveolar osteitis following surgical removal of impacted third molars. Acta Otolaryngol. 2003;123(2):201-204.
 10. Cieslik W, et al. Electrocautery in oral and maxillofacial surgery. J Oral Maxillofac Surg. 2008;66(12):2487-2491.
 
+
+Related reading: [Postoperative Swelling Management: Mechanisms](/article/common-misconceptions-about-swelling-reduction.html) and [Wound Healing Biology After Oral Surgery](/article/benefits-of-surgical-site-healing.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2007;103(3):e16-e20.
+6. American Society of Anesthesiologists. Talk to your dentist about how this applies to your situation.
 
-> **Key Takeaway:** If you're having a tooth extraction or oral surgery, you probably worry about bleeding. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** If you're having a tooth extraction or oral surgery, you probably worry about bleeding.
 
 ## Related Articles
 
@@ -118,5 +123,5 @@ Your dental care is personal, and the best decisions come from understanding you
 - [Reducing Swelling After Oral Surgery](/article/swelling-reduction-what-you-need-to-know.html)
 - [Tooth Intrusion: When a Tooth Is Pushed Into the Bone](/article/intrusion-tooth-pushed-into-bone.html)
 - [Common Misconceptions About Post-Operative Instructions](/article/common-misconceptions-about-post-operative-instructions.html)
-- [Complex Tooth Extraction Timeline: Surgical Planning,](/article/timeline-for-complex-extractions.html)
+- [Complex Tooth Extraction Timeline: Surgical Planning](/article/timeline-for-complex-extractions.html)
 

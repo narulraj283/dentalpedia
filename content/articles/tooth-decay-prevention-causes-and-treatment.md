@@ -11,10 +11,9 @@ subcategory: General Overview
 subcategory_slug: overview-general
 reviewed: true
 ---
+Cavities aren't inevitable—they require three specific things to happen. Knowing what those three factors are gives you control over whether cavities form in your mouth. If you eliminate just one of them, cavities can't develop.
 
 ## The Three Things Needed for Cavities
-
-Dental scientists discovered decades ago that cavities require three specific things to happen. If you eliminate any one of them, cavities won't form.
 
 **Think of it like fire:** You need fuel, oxygen, and heat. Without all three, no fire. With cavities, you need three factors too.
 

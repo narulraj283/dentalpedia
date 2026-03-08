@@ -33,7 +33,6 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: 'Bevel and Finish Line Placement: Cosmetic Margins'
 ---
-
 ## How Margin Design Affects Your Restoration
 
 Your dentist shapes the edge (margin) of your restoration in a specific way—and this matters far more than most patients realize. The shape determines both how well the restoration bonds and how visible the edge becomes over time.
@@ -77,22 +76,6 @@ The color of material at the edge matters. A thin layer of opaque composite look
 Front tooth restoration edges need perfect aesthetics and must not touch when you bite. Your dentist extends the edge about 1-1.5mm onto the biting surface with a gradual taper so it tapers to nothing at the very edge.
 
 Back tooth edges are less visible, so durability matters more than invisibility. Back teeth get straight margins with a round edge (chamfered, not beveled), which provides better strength for chewing stress. Between-tooth margins especially need clear floss access—your dentist makes sure the margin doesn't bulge out and block flossing, since this increases cavity risk.
-
-## Questions to Ask Your Dentist
-
-Before receiving a restoration, consider asking your dentist these questions to ensure you understand the margin design strategy for your specific situation:
-
-- Why is this particular margin design best for my tooth and its location?
-- Will this restoration be placed above the gum line, and if not, why?
-- How will you ensure the margin is properly sealed to prevent leakage?
-- What can I expect during the preparation and restoration process?
-- How should I care for this restoration after it's placed?
-- What's the expected lifespan of this restoration?
-- Will you apply polish to create a matte finish, and what's the benefit?
-- If the restoration fails at the margin, can you repair it or will you need to replace it?
-- How will you manage the composite shrinkage stress during placement?
-
-Understanding your dentist's margin strategy helps you understand why your restoration will look good and last a long time.
 
 ## Caring for Your Restoration After Placement
 

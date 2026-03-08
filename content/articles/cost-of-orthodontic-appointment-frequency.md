@@ -18,7 +18,6 @@ references:
   - "Frankel R, Frankel C. Orofacial Orthopedics With the Function Corrector. Quintessence Int. 1989;20(4):261-274."
   - "Trosello G, Franchi L. Transpalatal Arch as a Skeletal Anchorage for Correction of Ectopic Eruption of Maxillary First Molars and Asymmetric Molar Relationships. Am J Orthod Dentofacial Orthop. 2012;142(4):467-474."
 ---
-
 ## How Often Should You Visit Your Orthodontist?
 
 Standard orthodontic appointments every 4-6 weeks are typical. But some people want faster results (monthly appointments), while others prefer to save money (6-week or longer appointments). Let's look at the trade-offs and help you decide what works for your situation.
@@ -100,12 +99,6 @@ Between appointments, you can monitor your own progress to understand why appoin
 
 If you choose 6-week appointments, the photo evidence helps you appreciate the time it takes versus the cost savings. If considering monthly appointments, photos show why it might be worth paying extra—the visible acceleration of results can be motivating during a long treatment.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about orthodontic appointment frequency and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed orthodontic appointment frequency, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -117,7 +110,7 @@ For more information, see [Loose Bracket Emergency: What to Do Right Now](/artic
 
 Orthodontic appointment frequency is a personal choice. Monthly appointments cost $400-600 extra yearly but finish 3-6 months sooner. Six-week appointments save money and work fine for most patients. Learn about compliance with orthodontia because showing up consistently matters more than the interval between visits. Talk to your orthodontist about what appointment schedule makes sense for your case and situation.
 
-> **Key Takeaway:** Standard orthodontic appointments every 4-6 weeks are typical.
+> **Key Takeaway:** But some people want faster results (monthly appointments), while others prefer to save money (6-week or longer appointments). Let's look at the trade-offs and help you decide what works for your situation.
 
 ## Related Articles
 

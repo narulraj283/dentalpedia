@@ -21,14 +21,13 @@ references:
   - "Slots J, et al. Periodontal microbial ecology. Periodontol 2000. 2004;38:107-119."
   - "Paster BJ, et al. The Oral Microbiome Project. J Dent Res. 2006;85(2):135-143."
 ---
-
 ## Plaque Is Actually a Structured Community, Not Random Bacteria
 
-What you think of as "plaque"—that sticky film on your teeth—isn't just random bacteria stuck to the surface like algae on a rock. It's a complex, intentionally organized community of bacteria creating a slimy protective coating called biofilm. Within this biofilm, the bacteria have special communication systems, share resources, protect each other from threats, and coordinate their behavior. This sophisticated organization changes everything about how you fight plaque and why simple strategies work better than you might expect. For more details, see our guide on [Aggressive Periodontitis](/article/aggressive-periodontitis-early-onset-gum-disease.html).
+What you think of as "plaque"—that sticky film on your teeth—isn't just random bacteria stuck to the surface like algae on a rock. It's a complex, intentionally organized community of bacteria creating a slimy protective coating called biofilm. Within this biofilm, the bacteria have special communication systems, share resources, protect each other from threats, and coordinate their behavior. This sophisticated organization changes everything about how you fight plaque and why simple strategies work better than you might expect.
 
 Once biofilm forms and matures, it becomes 100-1000 times harder to kill bacteria with chemical mouthwash compared to bacteria floating freely in your mouth. The protective coating prevents chemicals from penetrating to the bacteria inside, essentially creating a fortress. This explains why your mouthwash isn't a substitute for brushing.
 
-This is also why daily brushing works so well—it removes young, immature biofilm before it becomes organized and resistant. You're winning through prevention, not trying to break through an already-established fortress. For more details, see our guide on [Aggressive vs Chronic](/article/aggressive-vs-chronic-disease-progression-rate.html).
+This is also why daily brushing works so well—it removes young, immature biofilm before it becomes organized and resistant. You're winning through prevention, not trying to break through an already-established fortress.
 
 ## Hour by Hour: How Biofilm Forms
 
@@ -98,11 +97,12 @@ Dental plaque is a structured biofilm community, not just random bacteria clumpe
 
 The protective biofilm matrix prevents chemical penetration—mouthwash kills bacteria at the surface but bacteria deep inside remain protected. Daily brushing removes young biofilm before it becomes resistant, which is why it's your most powerful prevention tool. Professional scaling removes established biofilm; home care prevents regrowth. Mouthwash helps as adjunctive therapy but works best after mechanical removal. Understanding biofilm biology explains why prevention through daily brushing is far more effective than trying to treat established infection, and why consistency matters more than intensity.
 
+
+Related reading: [SARS-CoV-2 and Periodontal Disease: Epidemiological](/article/coronavirus-and-periodontal-health-recent-research.html) and [Gingival Sulcus: Normal Gum Depth](/article/gingival-sulcus-normal-gum-depth.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
-
-> **Key Takeaway:** What you think of as "plaque"—that sticky film on your teeth—isn't just random bacteria stuck to the surface like algae on a rock. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** What you think of as "plaque"—that sticky film on your teeth—isn't just random bacteria stuck to the surface like algae on a rock. Talk to your dentist about what options work best for your situation.
 
 ## Related Articles
 

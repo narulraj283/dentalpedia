@@ -16,7 +16,6 @@ references:
   - "Murti PR, Bhonsle RB, Gupta PC, et al. Etiology and Management of Oral Submucous Fibrosis. Indian J Cancer. 1995;32(2):45-50."
   - "More CB, Bhisey RA. Oral Submucous Fibrosis: Role of Fibroblasts and Myofibroblasts. J Oral Pathol Med. 2016;45(2):82-88."
 ---
-
 ## What Is Oral Submucous Fibrosis?
 
 Oral submucous fibrosis is a chronic condition where the tissues inside your mouth become progressively scarred and tight, causing your mouth opening to become progressively smaller over time. Your mouth lining becomes pale and rigid instead of normal pink and stretchy. You might experience a burning sensation when eating spicy foods, difficulty eating hard foods, or increasing difficulty opening your mouth wide enough for normal activities.
@@ -91,7 +90,7 @@ The right approach depends on your individual needs, overall health, and what yo
 
 Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
 
-> **Key Takeaway:** Oral submucous fibrosis develops from areca nut chewing and causes progressive mouth tightening and cancer risk. Stopping areca nut completely is essential. Steroid injections help if caught early. Regular monitoring for cancer development is critical because fibrosis significantly increases cancer risk.
+> **Key Takeaway:** Oral submucous fibrosis is a chronic condition where the tissues inside your mouth become progressively scarred and tight, causing your mouth opening to become progressively smaller over time.
 
 ## Related Articles
 

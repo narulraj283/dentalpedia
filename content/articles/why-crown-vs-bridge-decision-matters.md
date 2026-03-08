@@ -31,7 +31,6 @@ subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
 title: Why the Crown vs Bridge Decision Matters
 ---
-
 ## Why the Crown vs Bridge Decision Matters in Replacing Missing Teeth
 
 When you're missing a tooth, your dentist will discuss two main options: a dental implant with a crown, or a bridge using your adjacent teeth. Both replace the missing tooth and restore your ability to eat and smile, but they work very differently and have different long-term consequences. Understanding these options helps you make a decision you'll feel good about for decades.
@@ -93,12 +92,6 @@ In the front of your mouth, implants often provide superior esthetic outcomes.
 Consider: How long do you plan to keep your teeth? What's your oral hygiene commitment? What are your budget constraints?
 
 Your dentist brings clinical expertise. Your preferences matter too—some patients prefer avoiding surgery while others prefer implants despite higher cost.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss why crown vs bridge decision matters, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

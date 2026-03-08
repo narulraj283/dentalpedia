@@ -1,38 +1,50 @@
 ---
-title: "Timeline for Orthodontic Appointment Frequency:"
-slug: timeline-for-orthodontic-appointment-frequency
 category: Orthodontics
 category_slug: orthodontics
-excerpt: "Evidence-based guidance for optimal orthodontic visit intervals based on appliance type, treatment phase, tooth movement rates, and clinical."
 date: 2026-03-05
+excerpt: Evidence-based guidance for optimal orthodontic visit intervals based on
+  appliance type, treatment phase, tooth movement rates, and clinical.
 read_time: 10 min
+references:
+- title: Jones ML, Richmond S. An assessment of the long-term stability of surgical
+    correction of anterior open bite. Br J Orthod. 1989;16(2):95-106.
+  url: https://pubmed.ncbi.nlm.nih.gov/2757559
+- title: 'Burstone CJ. The mechanics of tooth movement. In: Krauts SJ, Graber TM,
+    eds. Orthodontics: Current Principles and Techniques. 3rd ed. St. Louis: Mosby;
+    2000.'
+  url: https://pubmed.ncbi.nlm.nih.gov/10642839
+- title: 'Proffit WR, Henry W, Fields HW, Sarver DM. Contemporary Orthodontics. 5th
+    ed. St. Louis: Mosby; 2012.'
+  url: https://pubmed.ncbi.nlm.nih.gov/22095409
+- title: 'Kwon OW, Park HS, Sung SJ. Lingual-surface bonded lingual appliance system
+    for severe anterior deep bite: treatment mechanisms and results. Am J Orthod Dentofacial
+    Orthop. 2008;133(6):803-814.'
+  url: https://pubmed.ncbi.nlm.nih.gov/18538269
+- title: 'Papageorgiou SN, Konstantinidis K, Papadopoulou K. Clinical effectiveness
+    of Invisalign system: A systematic review. Prog Orthod. 2016;17(1):1-11.'
+  url: https://pubmed.ncbi.nlm.nih.gov/26852946
+- title: 'Miles PG, Smith H, Weyant RJ. Augmenting the effectiveness of clear aligner
+    therapy: High-frequency vibration and a proposed model for aligner engagement
+    and disengagement. Semin Orthod. 2016;22(1):36-42.'
+  url: https://pubmed.ncbi.nlm.nih.gov/27330315
+- title: Hartsfield Jr JK, Morford LA, Otero RM. Genetic factors in external apical
+    root resorption and orthodontic treatment response. Crit Rev Oral Biol Med. 1999;10(1):115-130.
+  url: https://pubmed.ncbi.nlm.nih.gov/10759412
+- title: Sims MR. Current treatment of traumatic injuries. Dent Clin North Am. 2002;46(4):781-791.
+  url: https://pubmed.ncbi.nlm.nih.gov/12436836
+- title: Kocadereli I. Compliance with extraoral appliances in orthodontic treatment.
+    Angle Orthod. 1999;69(5):517-522.
+  url: https://pubmed.ncbi.nlm.nih.gov/10515568
+- title: 'Sangalli G, Majzoub Z. Distraction osteogenesis in maxillofacial surgery:
+    A systematic review. Dent Update. 2019;46(3):207-216.'
+  url: https://pubmed.ncbi.nlm.nih.gov/31132186
+reviewed: true
 reviewer_specialty: Orthodontics
+slug: timeline-for-orthodontic-appointment-frequency
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
-reviewed: true
-references:
-  - title: "Jones ML, Richmond S. An assessment of the long-term stability of surgical correction of anterior open bite. Br J Orthod. 1989;16(2):95-106."
-    url: https://pubmed.ncbi.nlm.nih.gov/2757559
-  - title: "Burstone CJ. The mechanics of tooth movement. In: Krauts SJ, Graber TM, eds. Orthodontics: Current Principles and Techniques. 3rd ed. St. Louis: Mosby; 2000."
-    url: https://pubmed.ncbi.nlm.nih.gov/10642839
-  - title: "Proffit WR, Henry W, Fields HW, Sarver DM. Contemporary Orthodontics. 5th ed. St. Louis: Mosby; 2012."
-    url: https://pubmed.ncbi.nlm.nih.gov/22095409
-  - title: "Kwon OW, Park HS, Sung SJ. Lingual-surface bonded lingual appliance system for severe anterior deep bite: treatment mechanisms and results. Am J Orthod Dentofacial Orthop. 2008;133(6):803-814."
-    url: https://pubmed.ncbi.nlm.nih.gov/18538269
-  - title: "Papageorgiou SN, Konstantinidis K, Papadopoulou K. Clinical effectiveness of Invisalign system: A systematic review. Prog Orthod. 2016;17(1):1-11."
-    url: https://pubmed.ncbi.nlm.nih.gov/26852946
-  - title: "Miles PG, Smith H, Weyant RJ. Augmenting the effectiveness of clear aligner therapy: High-frequency vibration and a proposed model for aligner engagement and disengagement. Semin Orthod. 2016;22(1):36-42."
-    url: https://pubmed.ncbi.nlm.nih.gov/27330315
-  - title: "Hartsfield Jr JK, Morford LA, Otero RM. Genetic factors in external apical root resorption and orthodontic treatment response. Crit Rev Oral Biol Med. 1999;10(1):115-130."
-    url: https://pubmed.ncbi.nlm.nih.gov/10759412
-  - title: "Sims MR. Current treatment of traumatic injuries. Dent Clin North Am. 2002;46(4):781-791."
-    url: https://pubmed.ncbi.nlm.nih.gov/12436836
-  - title: "Kocadereli I. Compliance with extraoral appliances in orthodontic treatment. Angle Orthod. 1999;69(5):517-522."
-    url: https://pubmed.ncbi.nlm.nih.gov/10515568
-  - title: "Sangalli G, Majzoub Z. Distraction osteogenesis in maxillofacial surgery: A systematic review. Dent Update. 2019;46(3):207-216."
-    url: https://pubmed.ncbi.nlm.nih.gov/31132186
+title: Timeline for Orthodontic Appointment Frequency
 ---
-
 ## Introduction
 
 One of the most common questions patients ask when starting orthodontic treatment is: "How often do I need to come in?" The answer might surprise you—it depends on several factors, including the type of braces you have, which phase of treatment you're in, and how your teeth are responding. Think of orthodontic appointments like tuning an instrument: you need regular adjustments to keep everything working smoothly, but the frequency changes as you progress through treatment.

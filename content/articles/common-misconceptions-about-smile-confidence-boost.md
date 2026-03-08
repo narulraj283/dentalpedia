@@ -22,7 +22,6 @@ references:
   - "Magne P, Carvalho AV, Bruzi G, Anderson RE. Clinical outcome of bonded ceramic restorations. Oper Dent. 2019;44(2):128-139."
   - "Chow TW. The smile: its importance in the social and oral health contexts. Br Dent J. 2001;191(5):235-239."
 ---
-
 ## How Improving Your Smile Really Does Boost Confidence
 
 You might think that cosmetic dental work is purely vanity. But research consistently shows that improving your smile genuinely improves self-confidence and quality of life. Let's explore the real psychological and social benefits of smile improvement and separate myths from facts.
@@ -87,12 +86,6 @@ While internal character and competence matter most, external confidence affects
 
 Improving something within your control that's bothering you is practical self-care, not superficiality.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about smile confidence boost and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed smile confidence boost, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -101,7 +94,7 @@ Once you've addressed smile confidence boost, maintaining your results requires 
 
 Cosmetic dental treatment genuinely improves confidence and quality of life for most patients. The improvement isn't purely psychological—it's grounded in real social benefits and increased comfort. Modest improvements addressing specific concerns you have often provide meaningful benefit. Improvement lasts beyond initial excitement, becoming your new normal confidence baseline.
 
-> **Key Takeaway:** Understand how cosmetic dental treatment can genuinely improve your confidence and quality of life.
+> **Key Takeaway:** You might think that cosmetic dental work is purely vanity.
 
 ## Related Articles
 

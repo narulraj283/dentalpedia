@@ -14,7 +14,6 @@ references:
   - "Featherstone JD. The caries balance: the basis for caries management by risk assessment. Oral Health Prev Dent. 2004;2(Suppl 1):259-264."
   - "Arends J, Christoffersen J. The nature of early caries lesions in enamel. J Dent Res. 1986;65(1):2-11."
 ---
-
 ## What Cavities Actually Are
 
 A cavity isn't suddenly there. It develops through a process called demineralization, where bacteria in your mouth produce acid that dissolves the mineral structure of your tooth. Think of your enamel as made of tiny mineral crystals, like a microscopic mineral fortress protecting your tooth.
@@ -77,7 +76,7 @@ Sugar eaten with meals plus fluoride twice daily plus good saliva flow equals lo
 
 Talk to your dentist about your specific cavity risk factors and what demineralization-remineralization approach makes sense for your situation.
 
-> **Key Takeaway:** Understanding the science behind how cavities develop and how fluoride reverses early damage.
+> **Key Takeaway:** A cavity isn't suddenly there. It develops through a process called demineralization, where bacteria in your mouth produce acid that dissolves the mineral structure of your tooth.
 
 ## Related Articles
 

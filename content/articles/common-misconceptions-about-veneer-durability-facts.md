@@ -22,7 +22,6 @@ references:
   - "Shade matching and color stability over time. Journal of Esthetic Dentistry. 2020;32(1):88-96."
   - "Patient satisfaction and veneer replacement rates. Clinical Cosmetic and Investigational Dentistry. 2021;13:89-98."
 ---
-
 Veneers look fantastic and make people feel great about their smiles. But you've probably heard that veneers are "permanent" and last forever. The reality is more nuanced. Let's talk about what actually determines veneer longevity and when you might need them replaced.
 
 ## How Long Do Veneers Really Last?
@@ -71,25 +70,17 @@ Replacement veneer costs approximate initial treatment costs—about $800-1,500 
 
 It's important to understand that while 10-15 years is typical, some veneers last 20+ years with meticulous care, while others fail within 5 years if they're mistreated. Factors affecting individual veneer longevity include: your bite force (heavy biters stress veneers more), grinding habits, parafunctional habits like nail biting, gum health, oral hygiene, and dietary habits.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about veneer durability facts and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
-
 ## Conclusion
 
 Porcelain veneers last an average of 10-15 years, with about 75-85% still intact at 10 years. Most failures result from cement degradation or gum recession rather than the ceramic cracking. You can extend longevity significantly through preventive care: wearing a night guard if you grind, careful oral hygiene, gentle brushing, avoiding acidic foods, and annual professional fluoride treatments. Replacement veneers cost about the same as initial placement, so budget accordingly.
 
-> **Key Takeaway:** Learn how long dental veneers actually last and what factors determine when they need replacement.
+> **Key Takeaway:** Veneers look fantastic and make people feel great about their smiles.
 
 ## Related Articles
 
 - [Tooth Gap Closure Options and Outcomes](/article/common-misconceptions-about-tooth-gap-closure.html)
-- [Smile Makeover Planning: Comprehensive Assessment,](/article/timeline-for-smile-makeover-planning.html)
-- [Cosmetic Alternatives to Orthodontics: When Veneers,](/article/benefits-of-teeth-alignment-alternatives.html)
+- [Smile Makeover Planning: Comprehensive Assessment](/article/timeline-for-smile-makeover-planning.html)
+- [Cosmetic Alternatives to Orthodontics: When Veneers](/article/benefits-of-teeth-alignment-alternatives.html)
 - [Common Misconceptions About Teeth Whitening Results](/article/common-misconceptions-about-teeth-whitening-results.html)
 - [Why Veneer Installation Steps Matters](/article/why-veneer-installation-steps-matters.html)
 

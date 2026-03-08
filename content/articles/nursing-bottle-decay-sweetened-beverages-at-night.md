@@ -29,7 +29,6 @@ subcategory: Pediatric Dentistry
 subcategory_slug: overview-pediatric
 title: Nursing Bottle Decay Sweetened Beverages at Night
 ---
-
 If your baby or toddler uses a bedtime bottle, you might think you're doing everything right—especially if it contains milk or formula. But here's what many parents don't realize: putting your child to sleep with anything other than water in that bottle can cause serious tooth decay that damages baby teeth before they're even fully in. We call this "nursing bottle decay," and it's incredibly common. The good news? It's completely preventable with a few simple changes to your child's bedtime routine.
 
 ## Why Nighttime Bottles Damage Your Baby's Teeth So Easily
@@ -63,14 +62,6 @@ Your dentist might also apply a protective fluoride varnish to your child's teet
 If your child already has cavities forming, don't panic—modern dentistry can fix this. Depending on how many cavities your child has and how serious they are, your dentist might apply extra fluoride, place white fillings, or put tooth-colored crowns on the damaged baby teeth. For very young children with lots of cavities, sometimes dental work happens under gentle sedation so your child stays comfortable and still (and so your dentist can do thorough work).
 
 Remember: baby teeth matter way more than many parents realize. They help your child eat, speak clearly, and guide the permanent teeth into the right positions as they grow. Losing baby teeth too early to decay can cause crowding and bite problems later.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about nursing bottle decay and early childhood caries from... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Conclusion
 

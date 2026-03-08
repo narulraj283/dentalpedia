@@ -47,7 +47,6 @@ subcategory: Implant Overview
 subcategory_slug: overview-implants
 title: Peri Implantitis Gum Disease Around Implants
 ---
-
 ## Understanding Peri-Implant Disease
 
 Dental implants have revolutionized tooth replacement for millions of people, with success rates above 95 percent. However, just like natural teeth, implants can develop gum disease if not properly cared for. Peri-implant disease is inflammation and infection around your implant that can gradually destroy the bone supporting it. About 20 to 50 percent of implant patients experience some level of peri-implant disease at some point. Understanding the warning signs and how to prevent this problem helps you protect your implant investment.

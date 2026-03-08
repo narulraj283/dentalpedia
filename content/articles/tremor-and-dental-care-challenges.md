@@ -39,7 +39,6 @@ subcategory: Geriatric Overview
 subcategory_slug: overview-geriatric
 title: Dental Care with Tremor Disorders - Modified Hygiene
 ---
-
 ## Taking Care of Your Teeth When You Have a Tremor Disorder
 
 If you have Parkinson's disease, essential tremor, or another condition causing involuntary shaking, you may have noticed that keeping your teeth clean has become more challenging. The uncontrolled movements that characterize these tremor disorders can make it difficult to brush your teeth effectively, and dental treatment itself can feel complicated. The good news is that with the right strategies, equipment, and support, you can maintain excellent oral health despite motor difficulties. This guide explains practical solutions that work and how to talk with your dentist about your specific needs.

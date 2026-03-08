@@ -22,12 +22,11 @@ references:
   - "Sondhi A, Retamoso LB, Ispas A, Gupta A, Rodriguez JC. Patient-centered outcomes in orthodontics: impact of compliance on treatment duration and success. Semin Orthod. 2020;26(2):71-80."
   - "Stivaros N, Mandall NA. Compliance with removable orthodontic appliances and proportion requiring non-compliance adjustments. Br Dent J. 2000;189(6):331-334."
 ---
-
 ## How Much Does Sticking to Your Plan Matter?
 
-Believe it or not, the biggest thing that determines whether your braces work really well is YOU—not just the braces themselves. How much you follow your orthodontist's instructions affects how fast you'll finish treatment, how good your results will be, and whether your teeth stay straight afterward. If you don't follow the plan, treatment can take 12 to 24 months longer than expected. Plus, you could end up with permanent problems like white spots on your teeth, or your teeth might not move into the right position at all. For more details, see our guide on [Accelerated Orthodontia](/article/accelerated-orthodontia-fast-track-braces.html).
+Believe it or not, the biggest thing that determines whether your braces work really well is YOU—not just the braces themselves. How much you follow your orthodontist's instructions affects how fast you'll finish treatment, how good your results will be, and whether your teeth stay straight afterward. If you don't follow the plan, treatment can take 12 to 24 months longer than expected. Plus, you could end up with permanent problems like white spots on your teeth, or your teeth might not move into the right position at all.
 
-Compliance basically means doing what your orthodontist says. This includes: making your appointments, brushing and flossing properly, wearing your rubber bands if you have them, wearing your aligners the right amount, and avoiding foods that break your braces. Each of these things matters for a different reason, and you need to do all of them for the best results. For more details, see our guide on [Accelerated Orthodontics](/article/accelerated-orthodontics-speeding-up-your-treatment.html).
+Compliance basically means doing what your orthodontist says. This includes: making your appointments, brushing and flossing properly, wearing your rubber bands if you have them, wearing your aligners the right amount, and avoiding foods that break your braces. Each of these things matters for a different reason, and you need to do all of them for the best results.
 
 ## Getting to Your Appointments
 
@@ -87,11 +86,16 @@ You're the most important part of your own orthodontic treatment. Your orthodont
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
+
+Related reading: [Braces Food Restrictions](/article/braces-food-restrictions-what-you-need-to-know.html) and [Cost of Braces Discomfort Relief](/article/cost-of-braces-discomfort-relief.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Orthodontic compliance represents a teachable and measurable behavior with direct clinical consequences for treatment success, efficiency, and outcome quality. If you have questions, your dentist can help you understand your options. Talk to your dentist about what options work best for your situation.
 
-> **Key Takeaway:** Believe it or not, the biggest thing that determines whether your braces work really well is YOU—not just the braces themselves. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** Believe it or not, the biggest thing that determines whether your braces work really well is YOU—not just the braces themselves.
 
 ## Related Articles
 

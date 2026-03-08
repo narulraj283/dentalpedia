@@ -30,7 +30,6 @@ references:
   - title: "Nutritional Status Assessment and Supplementation in Dental Patients"
     url: https://pubmed.ncbi.nlm.nih.gov/27294788
 ---
-
 ## Vitamin A: Your Mouth's Essential Nutrient
 
 Your mouth's tissues are constantly replacing themselves. Every few weeks, your oral tissues regenerate completely. This rapid renewal demands constant supplies of vitamin A—a crucial nutrient that keeps your mouth tissues healthy, strong, and resistant to infection. Whether you're healing from a dental procedure or maintaining healthy gums and cheeks, adequate vitamin A is essential.
@@ -118,12 +117,6 @@ You might need vitamin A supplements if you:
 Don't take excessive vitamin A supplements without guidance. Too much can actually be harmful, especially for pregnant women. Stick to recommended amounts or ask your doctor about what's right for you.
 
 Food is always your best source because it's nearly impossible to overdose on vitamin A from eating naturally. Your body regulates how much beta-carotene it converts to vitamin A, so vegeta excess just stays as beta-carotene.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss vitamin a for tissue health, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

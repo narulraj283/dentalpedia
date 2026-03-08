@@ -20,7 +20,6 @@ references:
   - "Burt BA. The use of sorbitol and xylitol-containing chewing gum in caries control. J Am Dent Assoc. 2006;137(2):190-196."
   - "Walsh T, Worthington HV, Glenny AM, Appelbe P, Marinho VCC, Shi X. Fluoride toothpastes of different concentrations for preventing dental caries. Cochrane Database Syst Rev. 2019;3:CD007868."
 ---
-
 ## How to Actually Prevent Cavities: The Real Science
 
 Cavities are preventable. Completely preventable. Yet they're the most common chronic disease in the world, affecting roughly 25-50% of adults depending on where you live. The difference between people who get cavities and those who don't isn't luck—it's understanding how decay happens and following specific prevention strategies that work.

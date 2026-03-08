@@ -22,7 +22,6 @@ references:
   - "Tyndall DA, Runge ME. Prevention of dental radiation injuries. J Am Dent Assoc. 1999;130(3):409-415."
   - "Ritter L, Lutz J, Neugebauer J, et al. Evaluation of quality of reformatted images from two cone-beam computed-tomographic systems. J Dent. 2008;36(2):138-145."
 ---
-
 If your dentist mentioned a CBCT scan, you might wonder what it is and whether you really need it. CBCT (cone beam computed tomography) is a specialized 3D imaging tool that shows your teeth, jaw, and bone in much greater detail than traditional dental X-rays. This guide explains how it works, when it's useful, and what you should know before having one.
 
 ## The Technology Behind CBCT
@@ -93,13 +92,13 @@ Children also deserve special consideration. Growing children have higher risk f
 
 CBCT is a powerful tool that provides 3D views of your teeth and jaw—information that helps your dentist plan complex procedures like implants with greater accuracy and confidence. When used appropriately for specific clinical questions, CBCT improves outcomes and reduces complications. Understand that CBCT should be used strategically, not routinely, and that good dentists can explain exactly why they're recommending it for your situation.
 
-> **Key Takeaway:** Understanding CBCT scans helps you make informed decisions about dental imaging and plan your treatment.
+> **Key Takeaway:** If your dentist mentioned a CBCT scan, you might wonder what it is and whether you really need it.
 
 ## Related Articles
 
 - [Choosing a Dentist: Finding the Right Provider](/article/choosing-a-dentist-finding-right-provider.html)
 - [Understanding Dental Impressions](/article/impression-techniques-capturing-teeth.html)
-- [The Critical Role of Saliva in Oral Health: Functions,](/article/timeline-for-saliva-importance.html)
+- [The Critical Role of Saliva in Oral Health: Functions](/article/timeline-for-saliva-importance.html)
 - [Cost of Dental Examination Types and Diagnostic](/article/cost-of-dental-examination-types.html)
 - [Core Buildup](/article/core-buildup-rebuilding-after-pulp-loss.html)
 

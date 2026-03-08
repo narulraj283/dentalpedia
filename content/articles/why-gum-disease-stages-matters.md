@@ -32,7 +32,6 @@ references:
   - title: "Long-term outcomes of periodontal treatment by disease stage"
     url: "https://pubmed.ncbi.nlm.nih.gov/27587530"
 ---
-
 ## Bleeding Gums Are Your Mouth Sending You a Message
 
 If your gums bleed when you brush your teeth, that's your mouth sending a distress signal. Bleeding gums are not normal, and they're definitely not something you should ignore, even though they're incredibly common. Here's the encouraging part: in most cases, bleeding gums mean you've caught gum disease in its earliest and most treatable stage. That's actually good news. It means you have time to act before permanent damage happens to the bone supporting your teeth.
@@ -158,19 +157,8 @@ Once treated, gum disease requires lifelong management. You don't get "cured" of
 
 The good news? Many people successfully manage treated gum disease for decades. The key is staying ahead of it with frequent professional care and consistent home care. It's manageable, but it requires commitment.
 
-## Questions to Ask Your Dentist
 
-Before or during gum disease treatment, ask these important questions:
-
-1. **"What stage am I at, and what does that mean for my treatment?"** Your dentist should clearly explain your situation and why each stage matters differently.
-2. **"Is my gum disease reversible at this point?"** Be direct about this—it changes everything about your motivation and expectations.
-3. **"What's your recommended treatment and why?"** Ask whether you should expect just non-surgical cleaning or whether surgery will likely be needed.
-4. **"How often will I need cleanings and checkups going forward?"** Understand that treatment isn't a one-time thing—you're shifting to more frequent, ongoing maintenance.
-5. **"What risk factors do I have, and how should I manage them?"** Understanding your personal situation helps you know how important home care compliance is.
-6. **"What do I need to do at home to prevent this from getting worse?"** Don't leave without a clear action plan for daily care.
-
-
-For more information, see [Aggressive vs Chronic: Disease Progression Rate](/article/aggressive-vs-chronic-disease-progression-rate.html).
+Related reading: [Periodontal Disease and Braces Compatibility Issues](/article/periodontal-disease-and-braces-compatibility-issues.html).
 
 ## Conclusion
 

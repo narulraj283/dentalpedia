@@ -28,7 +28,6 @@ references:
   - title: "Bleaching agent penetration patterns and intrinsic staining reversal mechanisms in vital teeth"
     url: https://www.ncbi.nlm.nih.gov/pubmed/24589319
 ---
-
 You've just finished your professional whitening treatment and your smile looks absolutely brilliant—maybe the whitest it's ever been. But now you're wondering: how long will it stay this way? How can you protect your investment? The truth is that your teeth will gradually return to their original shade over months, but with the right maintenance strategy, you can keep your smile bright and white for years. Let's explore the proven techniques that extend whitening results and keep your teeth looking their absolute best.
 
 ## Why Your Teeth Get Stained After Whitening

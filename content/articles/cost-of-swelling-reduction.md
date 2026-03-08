@@ -22,7 +22,6 @@ references:
   - "Reutzow G. Mechanisms and management of perioperative edema: A comprehensive review. Molecular Medicine Reports. 2020;11(4):2263-2271."
   - "Montgomery MT, Hogg JP, Roberts DL, et al. The use of glucocorticosteroids to lessen the inflammatory sequelae following orthognathic surgery: Review of the literature and preliminary report. Journal of Oral and Maxillofacial Surgery. 2019;48(2):179-187."
 ---
-
 ## Why Swelling Happens
 
 After dental surgery, your body's inflammatory response causes swelling. This is normal and natural—your body is healing. But managing swelling reduces pain and helps you look and feel better faster.
@@ -188,13 +187,16 @@ Avoid salty foods that promote fluid retention and alcohol that increases inflam
 
 For more information, see [Hemostasis: Controlling Surgical Bleeding](/article/hemostasis-controlling-surgical-bleeding.html) and [Complete Guide to Recovery After Tooth Extraction](/article/recovery-after-extraction-complete-guide.html).
 
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
 Postoperative swelling is normal and manageable. Free approaches (ice, elevation, activity restriction) provide 25-35% swelling reduction. Affordable medications (ibuprofen $10, dexamethasone $20) achieve 60-70% swelling reduction total.
 
 Combined approach costing $30-$40 provides excellent results without expensive advanced treatments. Managing expectations (realistic swelling timeline) and supporting natural healing (rest, hydration) cost nothing but help tremendously. If swelling seems abnormal or affects breathing, contact your dentist.
 
-> **Key Takeaway:** Learn about swelling after surgery and what you can do to manage it cost-effectively.
+> **Key Takeaway:** After dental surgery, your body's inflammatory response causes swelling.
 
 ## Related Articles
 
@@ -202,5 +204,5 @@ Combined approach costing $30-$40 provides excellent results without expensive a
 - [Alveolar Ridge Reduction: Lowering High](/article/alveolar-ridge-reduction-lowering-high-ridge.html)
 - [Orthognathic Surgery - Understanding Jaw Correction](/article/surgical-orthodontics-bimaxillary-procedures.html)
 - [Wisdom Teeth Extraction: Surgical Planning and Clinical](/article/cost-of-wisdom-teeth-extraction.html)
-- [Oral Surgical Complications: Classification, Timeline,](/article/timeline-for-surgical-complications.html)
+- [Oral Surgical Complications: Classification, Timeline](/article/timeline-for-surgical-complications.html)
 

@@ -30,7 +30,6 @@ references:
   - title: "Feres M, Vianna ME, Teles FR, et al. Microbial systems associated with the various forms of root canal-associated infections. J Clin Microbiol. 2013;51(9):3082-3090."
     url: https://pubmed.ncbi.nlm.nih.gov/23761154
 ---
-
 ## Why Infection Control Matters
 
 When you sit in a dental chair, you trust that your dentist has taken every precaution to keep you safe from infection. Your dental office follows strict rules created by the CDC and OSHA to make sure that instruments are completely clean, surfaces are disinfected, and everyone follows proper safety protocols. These guidelines protect you from bloodborne infections like hepatitis and ensure that every instrument that touches your mouth is completely sterile. This isn't just about protecting you during your visit—it's about protecting your long-term health and preventing tooth loss from infections.
@@ -72,12 +71,6 @@ Your dentist will ask about your health history, including whether you've had an
 ## Dentist and Staff Protection
 
 Your dentist's office takes occupational safety seriously too. All dental staff get vaccinated against hepatitis B, which protects them from bloodborne infections. Your dentist's entire team has been trained in these protocols and follows them carefully to protect themselves as much as they protect you. When you see your dentist working so carefully with gloves, masks, and instrument sterilization, it's because they care about everyone's safety.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for infection prevention, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

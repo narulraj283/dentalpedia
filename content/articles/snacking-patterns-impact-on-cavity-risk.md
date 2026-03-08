@@ -32,7 +32,6 @@ references:
   - title: "Lingström P, van Houte J, Kashket S. Food starches and dental health. Journal of the American Dental Association. 2000;131(11):1566-1572."
     url: https://pubmed.ncbi.nlm.nih.gov/11103562
 ---
-
 ## Introduction
 
 When and how often you eat affects your cavity risk significantly. Your mouth's bacteria respond to eating patterns, not just food type. Eating the same food during meals versus throughout the day creates different cavity risks because your mouth gets different amounts of recovery time. Understanding eating patterns is key to preventing cavities.
@@ -97,12 +96,6 @@ If you have dry mouth, eating patterns become even more critical. You might need
 ## Why This Matters for Your Whole Family
 
 Teaching children structured eating prevents cavity formation early and establishes lifelong patterns. Adults who switch to structured eating often see cavity reduction even without changing foods or oral hygiene. The pattern change alone creates benefits because your mouth finally gets time to repair itself.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss snacking patterns impact on cavity risk, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

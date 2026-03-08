@@ -30,7 +30,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: 'Traumatic Tooth Extrusion: Luxation Injuries'
 ---
-
 ## Understanding Tooth Extrusion Injuries
 
 When you get a side blow to your mouth during sports or an accident, your tooth can get pushed partially out of its socket. This is called extrusion or luxation. It's different from a tooth that gets completely knocked out. With a partial extrusion, the tooth is still hanging on but sitting too high.
@@ -143,7 +142,7 @@ The best thing you can do is prevent the injury in the first place. If you play 
 
 A partially extruded tooth is a dental emergency, but with quick treatment, most teeth are saved. The first 30 minutes are critical. After that, careful management and follow-up care determine whether you'll keep your tooth long-term.
 
-> **Key Takeaway:** When you get a side blow to your mouth during sports or an accident, your tooth can get pushed partially out of its socket.
+> **Key Takeaway:** This is called extrusion or luxation. It's different from a tooth that gets completely knocked out.
 
 ## Related Articles
 

@@ -32,7 +32,6 @@ references:
   - title: "Nutritional counseling in orthodontics: Maintaining health with dietary restrictions"
     url: https://pubmed.ncbi.nlm.nih.gov/27550098
 ---
-
 When you first get braces, your orthodontist hands you a list of foods to avoid. You might roll your eyes and wonder why the restrictions exist—your teeth seem pretty tough, after all. But the truth is, these dietary guidelines aren't just arbitrary rules to make your life harder. They're based on real science and designed to protect your braces, keep your teeth healthy during treatment, and actually help you finish your orthodontic journey faster. Understanding why these restrictions matter can transform your perspective from viewing them as obstacles to seeing them as tools for success.
 
 ## How Brackets Break and Why It Matters

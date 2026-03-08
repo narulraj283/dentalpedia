@@ -28,7 +28,6 @@ references:
   - title: "Patient Satisfaction and Treatment Outcomes in Orthodontics: Appointment Scheduling Impact"
     url: "https://pubmed.ncbi.nlm.nih.gov/28234262/"
 ---
-
 ## Orthodontic Appointments: Why Schedule Matters More Than You Think
 
 Getting braces isn't just about showing up whenever you feel like it. The frequency of your appointments directly impacts how fast your teeth move, how long you'll wear braces, and whether you'll actually get the smile your orthodontist promised. Missing appointments or spacing them too far apart doesn't save time—it actually extends treatment months or even years. Understanding why consistent appointments matter, and what happens to your teeth when forces weaken, helps you commit to the schedule your orthodontist recommends.

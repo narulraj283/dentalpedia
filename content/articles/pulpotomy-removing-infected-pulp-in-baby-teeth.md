@@ -30,7 +30,6 @@ references:
   - title: "Pinkham JR. Pediatric Dentistry: Infancy through Adolescence. 3rd ed. Philadelphia: WB Saunders; 2002."
     url: https://pubmed.ncbi.nlm.nih.gov/12131153
 ---
-
 ## What Is a Pulpotomy for Baby Molars
 
 A pulpotomy is a procedure where your dentist removes only the diseased top part of the nerve inside a baby tooth, while preserving the healthy nerve tissue deeper in the root. Unlike a complete pulpectomy (removing the entire nerve), a pulpotomy is a more conservative approach that preserves more of your child's tooth structure while eliminating the infected or exposed nerve tissue. This treatment saves the tooth and maintains its function until it naturally sheds.
@@ -80,14 +79,6 @@ Your dentist might recommend extraction or complete pulpectomy instead if: the n
 ## Long-Term Success
 
 Studies show that baby teeth treated with pulpotomy (especially with MTA) heal beautifully and function normally until they shed. The treated tooth doesn't cause problems for the permanent tooth developing underneath. Your child's baby tooth serves its purpose—holding space, helping with chewing, and supporting normal development—until the permanent tooth erupts.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about pulpotomy - removing infected pulp in baby teeth and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

@@ -22,14 +22,13 @@ references:
   - "Waterhouse PJ, Nunn JH, Whitworth JM. Traumatized permanent teeth: diagnosis and management. Dent Update. 2001;28(8):400-407."
   - "Lustig JP, Nance R, Brin I. Orthodontic correction of fractured anterior teeth following trauma. Am J Orthod Dentofacial Orthop. 1999;115(4):405-411."
 ---
-
 ## How Common Are Broken Teeth?
 
 Broken teeth are more common than you might think. About 1 in 10 people experience a tooth fracture at some point. Front teeth get broken most often because they stick out and are more likely to hit things.
 
-Men experience these injuries twice as often as women, usually during sports or accidents. Kids ages 7-10 and teenagers (around 17-21) have the highest rates. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+Men experience these injuries twice as often as women, usually during sports or accidents. Kids ages 7-10 and teenagers (around 17-21) have the highest rates.
 
-When your tooth breaks, what matters most is how fast you get treated. Teeth that are treated within 30 minutes have the best chance of success. The type of break also matters—whether you've only damaged the outer white part (enamel), or if you've cracked deeper into the yellow layer (dentin), or worst case, exposed the nerve inside. The deeper the break, the more complex the treatment becomes. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+When your tooth breaks, what matters most is how fast you get treated. Teeth that are treated within 30 minutes have the best chance of success. The type of break also matters—whether you've only damaged the outer white part (enamel), or if you've cracked deeper into the yellow layer (dentin), or worst case, exposed the nerve inside. The deeper the break, the more complex the treatment becomes.
 
 ## Three Levels of Tooth Breaks
 
@@ -74,6 +73,9 @@ Here's something important: teeth treated within 6 hours have 85-90% survival ch
 This is why "time is tooth" in dental emergencies. Different repairs have different durability: simple composite fillings last about 5-10 years before they might need replacement. Crowns last 10-15 years or longer.
 
 What matters most after the initial emergency is your follow-up. People who attend checkup appointments every 3-4 months catch problems early and keep their teeth much longer. People who skip follow-ups experience 3-4 times more complications. You'll need X-rays every 4 weeks for the first 3 months, then every 3 months for a year, to catch any problems early.
+
+
+Related reading: [Cost of Recovery After Extraction](/article/cost-of-recovery-after-extraction.html) and [Dealing with Dental Pain: Your Complete Guide](/article/timeline-for-pain-relief-methods.html).
 
 ## Conclusion
 

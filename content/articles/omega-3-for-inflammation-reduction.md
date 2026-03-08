@@ -29,7 +29,6 @@ subcategory: Nutrition Overview
 subcategory_slug: overview-nutrition
 title: Omega 3 for Inflammation Reduction
 ---
-
 If you have gum disease, one of the smartest things you can do—beyond brushing and flossing—is eat more fatty fish. Omega-3 fatty acids from fish actually reduce inflammation in your gums and help slow bone loss. They're one of the few nutritional interventions with solid scientific evidence behind them. You don't need supplements if you're willing to eat salmon, sardines, or mackerel a few times a week.
 
 ## How Omega-3s Actually Fight Inflammation
@@ -63,14 +62,6 @@ The bonus: people with gum disease often have elevated inflammation throughout t
 You don't need to overhaul your diet. Add baked or poached salmon twice a week. Skip the fried fish—high-heat cooking destroys some omega-3s.
 
 If you're not a fish eater, take an algae supplement (vegetarian) or fish oil supplement. Take with meals if you want to minimize aftertaste. That's literally it.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about omega-3 fatty acids for inflammation reduction in oral... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

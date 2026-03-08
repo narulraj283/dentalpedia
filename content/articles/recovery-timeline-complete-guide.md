@@ -46,7 +46,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Recovery Timeline Complete Guide
 ---
-
 ## Different Procedures, Different Recovery Times
 
 Recovery after oral surgery varies dramatically based on what procedure you had. Simple tooth extraction recovers in 2-3 weeks. Wisdom teeth removal might take 3-4 weeks. Dental implant placement adds a 3-6 month osseointegration phase where the implant bonds to bone before any crown can be placed. Bone grafting and jaw surgery require 2-8 weeks recovery with different complications to watch for.
@@ -131,6 +130,9 @@ Recovery is easier when you have support. Arranging for someone to help with ini
 If you live alone, preparing thoroughly before surgery—stocking your kitchen with soft foods, arranging transportation, setting up your recovery space—ensures you're not struggling alone during recovery. Neighbors or friends can help check on you during the early recovery period.
 
 Extended family or friends can assist with child care or pet care, freeing you to focus on recovery. Don't try to manage full responsibilities while recovering—delegate what you can temporarily, focusing on healing.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

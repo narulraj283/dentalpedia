@@ -22,7 +22,6 @@ references:
   - "Sàndor GK, Kainulainen VT, Tuovinen VJ, et al. Healing of mandibular bone defects with an in situ formed bioactive synthetic bone. Clin Oral Implants Res. 2003;14(5):567-577."
   - "Wiltfang J, Merten HA, Schlegel KA, et al. Comparison of guided bone regeneration in combination with bone grafts and/or resorbable membranes to ungrafted defects in rats. Int J Oral Maxillofac Surg. 2003;32(2):183-191."
 ---
-
 If you're missing teeth or have jawbone loss, bone grafting rebuilds the bone before implant placement or repairs damage from [Gum Disease](/article/periodontal-disease-and-tooth-loss-prevention.html). Here's what the procedure costs and how material choice affects your total expense. Understanding [Surgical Complexity and Costs](/article/cost-of-surgical-technique-overview.html) helps you plan your treatment.
 
 ## Why You Might Need Bone Grafting
@@ -240,13 +239,14 @@ Bone grafting costs range from $1,200-$4,500 depending on material type and defe
 
 Insurance typically covers 50% of surgical costs. Success rates vary by material (synthetic 70-80%, autogenous 95%+). For maximum success, autogenous or allogeneic bone recommended despite higher cost. Discuss options with your surgeon to find the best balance of cost and success rate for your situation.
 
-> ## Related Articles You May Find Helpful
+> > **Key Takeaway:** Bone grafting costs $1,200-$4,500 depending on material. Synthetic is cheapest but lower success rate; allogeneic bone offers good balance; your own bone has highest success but requires donor site surgery. Most insurance covers 50%. Talk to your surgeon about material options and long-term success rates before deciding.
+
+## Related Articles You May Find Helpful
 
 - [Impacted Teeth Removal Canines Molars And Premolars](/article/impacted-teeth-removal-canines-molars-and-premolars.html)
 - [Piezosurgery Ultrasonic Bone Cutting Precision](/article/piezosurgery-ultrasonic-bone-cutting-precision.html)
 - [Surgical Complications Complete Guide](/article/surgical-complications-complete-guide.html)
 
-> **Key Takeaway:** Bone grafting costs $1,200-$4,500 depending on material. Synthetic is cheapest but lower success rate; allogeneic bone offers good balance; your own bone has highest success but requires donor site surgery. Most insurance covers 50%. Talk to your surgeon about material options and long-term success rates before deciding.
 
 ## Related Articles
 

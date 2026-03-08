@@ -14,7 +14,6 @@ references:
   - "Bollen CML, Letelier G, Bobetsis YA. Effects of flossing on bleeding when combined with tooth brushing: a systematic review of randomized controlled trials. J Am Dent Assoc. 2012;143(8):829-836."
   - "Watt RG, Listl S, Piotrowski WJ, Padilla P. Social determinants of oral health: implementing the Ottawa Charter. Community Dent Oral Epidemiol. 2018;46(1):1-7."
 ---
-
 ## The Startling Success Rate
 
 About 90% of adults maintain all their natural teeth throughout life through implementation of straightforward preventive habits. That's genuinely impressive—you don't have to be perfect. Conversely, people who neglect prevention show 3-8 fold increased disease incidence, eventually losing teeth and requiring expensive restorative treatment. The difference between those groups? Consistent implementation of basic prevention habits.
@@ -77,11 +76,8 @@ Root caries becomes significant in older adults due to gingival recession. Fluor
 
 Maintaining oral health benefits overall health. Periodontal disease reduction improves glycemic control in diabetics (HbA1c reductions 0.4%). Oral streptococcal colonization reduction decreases endocarditis risk in cardiac disease. Maintained oral health permits continued mastication function, reducing aspiration pneumonia risk in older adults.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about dental health habits for lifelong teeth and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 
@@ -91,7 +87,7 @@ Professional sealants prevent 80-85% of occlusal cavities. Behavioral consistenc
 
 Implement these habits consistently—they're the difference between keeping all your teeth or eventually losing teeth to preventable disease.
 
-> **Key Takeaway:** Simple habits and strategies proven to maintain healthy teeth and gums for a lifetime.
+> **Key Takeaway:** About 90% of adults maintain all their natural teeth throughout life through implementation of straightforward preventive habits.
 
 ## Related Articles
 

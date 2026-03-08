@@ -28,7 +28,6 @@ references:
   - title: "Long-term stability of adult orthodontic treatment outcomes"
     url: https://pubmed.ncbi.nlm.nih.gov/23339505
 ---
-
 ## It's Never Too Late for Braces
 
 Many adults think they've missed the window for orthodontic treatment. They believe braces are just for teenagers. But the truth is, more adults are straightening their teeth than ever before—and they're doing it for reasons that go way beyond vanity.
@@ -68,12 +67,6 @@ Over years, this stress causes pain, clicking, or even problems that make normal
 Honestly, the appearance improvement might be the biggest benefit. Research shows that adults who straighten their teeth report improved self-esteem, better social confidence, and more smile satisfaction. The impact is profound—especially for adults who spent decades feeling self-conscious about their smile. Better confidence translates to better professional interactions, improved dating outcomes, and overall life satisfaction. This psychological benefit is real and significant.
 
 Many adults say that straightening their teeth was life-changing. They'd avoided smiling for years. Once their teeth were straight, they found themselves smiling more, feeling better about how they looked in photos, and interacting more comfortably socially. It's not superficial—confidence affects quality of life substantially.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss why adult braces options matters, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

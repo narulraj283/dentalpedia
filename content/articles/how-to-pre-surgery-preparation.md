@@ -32,7 +32,6 @@ references:
   - title: "Anxiety Management and Pre-Operative Psychological Preparation"
     url: https://www.ncbi.nlm.nih.gov/pubmed/24851640
 ---
-
 Preparing properly for your dental surgery sets you up for success. Most preparation is simple: following a few basic rules dramatically improves outcomes and reduces complications. Learning more about [Managing Pain After Dental Surgery](/article/how-to-pain-management-surgery.html) can help you understand this better.
 
 ## Medications Before Surgery

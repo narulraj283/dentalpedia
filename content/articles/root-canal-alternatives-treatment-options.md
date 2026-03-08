@@ -46,7 +46,6 @@ subcategory: Endodontic Overview
 subcategory_slug: overview-endo
 title: 'Root Canal Alternatives: What Options Do You Actually Have?'
 ---
-
 ## What Are Your Choices When Your Tooth Is Infected?
 
 If your dentist says you need a root canal, you might feel worried about the procedure. The good news? You have options beyond traditional root canal treatment. While a standard root canal is still the most common solution for infected teeth, newer techniques and alternative approaches might work for your situation. Understanding these choices helps you make the best decision with your dental team.
@@ -79,7 +78,7 @@ This surgical approach works about 85-90% of the time for teeth where convention
 
 Sometimes the best choice is removing the tooth and replacing it with a dental implant. An implant is a small titanium screw placed in your jawbone that holds a replacement tooth that looks and functions like a real tooth. This approach makes sense if your tooth is deeply damaged from decay, has structural problems, or if simpler treatments are unlikely to work.
 
-Modern implants have excellent success rates—usually 95% or higher. They can last the rest of your life with proper care. You get a completely functional replacement that looks natural and doesn't require special maintenance beyond normal brushing and flossing. The main disadvantages are the cost (significantly more than a root canal) and the time required (usually 6-12 months from removal to having the final crown in place). For more details, see our guide on [Dental Bridge Versus Implant Comparison](/article/dental-bridge-vs-implant-cost-and-longevity-comparison.html).
+Modern implants have excellent success rates—usually 95% or higher. They can last the rest of your life with proper care. You get a completely functional replacement that looks natural and doesn't require special maintenance beyond normal brushing and flossing. The main disadvantages are the cost (significantly more than a root canal) and the time required (usually 6-12 months from removal to having the final crown in place).
 
 Implants work best if you have healthy bone and good oral hygiene habits. Your dentist will evaluate whether you're a good candidate. Some people, particularly those with advanced gum disease or certain medical conditions, might not be ideal for implants.
 
@@ -98,6 +97,9 @@ The extent of infection is crucial too. Small infections caught early might resp
 Your preference and values matter. If you want to preserve your natural tooth at all costs, vital pulp therapy or a root canal might be right even if they have slightly lower success rates. If you prefer a faster, simpler solution and cost isn't your main concern, an implant might suit you better.
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
+
+Related reading: [Stainless Steel Endodontic Files: Metallurgy](/article/stainless-steel-files-traditional-material.html).
 
 ## Conclusion
 

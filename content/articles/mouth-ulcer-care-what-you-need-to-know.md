@@ -32,7 +32,6 @@ references:
   - title: "Vincent SD, Lilly GE. Clinical, historic, and therapeutic features of aphthous stomatitis. Literature review and open clinical trial employing steroids. Oral Surg Oral Med Oral Pathol. 1992;74(1):79-86."
     url: https://pubmed.ncbi.nlm.nih.gov/1408040
 ---
-
 About one in five people get mouth ulcers at some point, and they're rarely serious—but they can be incredibly annoying. The pain seems disproportionate to the small size, eating becomes difficult, and you can't stop your tongue from touching it even though it hurts. Most ulcers heal in 1-2 weeks on their own, but there are smart strategies to speed healing and reduce pain. Your first step is identifying what type of ulcer you have, because that determines your best treatment approach.
 
 ## Identifying Your Ulcer Type Matters
@@ -74,6 +73,9 @@ Stress frequently triggers ulcers. If you notice clustering during stressful per
 ## When Professional Help Matters
 
 Most small canker sores don't need professional care. But contact your dentist if your ulcer is large (over 1 centimeter), persists beyond 3 weeks without improvement, appears with fever or swollen lymph nodes, causes severe difficulty eating or speaking, or if you're experiencing multiple simultaneous ulcers. Ulcers with irregular or hardened borders, bleeding, or unusual appearance warrant professional evaluation to exclude serious conditions like oral cancer.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

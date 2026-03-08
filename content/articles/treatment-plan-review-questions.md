@@ -32,7 +32,6 @@ references:
   - title: "Second opinions and diagnostic agreement among dentists for proposed treatment"
     url: https://pubmed.ncbi.nlm.nih.gov/28314325
 ---
-
 ## Introduction
 
 Your dentist recommends an extensive treatment plan, but you're unsure whether you fully understand it. Many patients feel overwhelmed or pressured into treatment without truly understanding their diagnosis, treatment options, costs, or realistic outcomes. This guide equips you with essential questions to ask when reviewing any dental treatment plan. Armed with these questions, you'll make informed decisions that align with your priorities, values, and financial situation.

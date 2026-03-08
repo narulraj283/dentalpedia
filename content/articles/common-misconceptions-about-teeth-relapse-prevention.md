@@ -22,7 +22,6 @@ references:
   - "Riedel RA. Retention and relapse. In: Graber TM, Vanarsdall RL, Vig KWL, eds. Orthodontics. 5th ed. Elsevier; 2011."
   - "Bondemark L, Ericsson S. Incisor position change and root resorption 1 year after discontinuation of fixed orthodontic appliances. Angle Orthod. 2001;71(1):25-32."
 ---
-
 You've worn braces for 2-3 years, your teeth look great, and now your orthodontist says you need retainers "permanently." You're probably thinking "permanently" can't really mean that. But it does, and here's why.
 
 ## Do Your Teeth Really Want to Move Back?
@@ -97,11 +96,14 @@ Most successful patients wearing retainers long-term do this: nightly retainer w
 
 The key is being honest with yourself: if you hate wearing retainers, talk to your orthodontist about the best approach for your situation rather than pretending you'll wear them nightly forever then stopping.
 
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
 Teeth naturally want to move back to original positions, that tendency continues indefinitely, and retainers are truly permanent commitment. Optimal retention uses combination fixed wire (for anterior control) plus nightly removable retainers for 12-24 months, transitioning potentially to removable-only long-term. Realistic patient communication framing retention as permanent treatment component (like brushing teeth is permanent) improves compliance better than suggesting "temporary" retention "until tissues stabilize."
 
-> **Key Takeaway:** Why you need retainers after braces and what happens if you skip this critical step in your orthodontic treatment.
+> **Key Takeaway:** You've worn braces for 2-3 years, your teeth look great, and now your orthodontist says you need retainers "permanently." You're probably thinking "permanently" can't really mean that.
 
 ## Related Articles
 

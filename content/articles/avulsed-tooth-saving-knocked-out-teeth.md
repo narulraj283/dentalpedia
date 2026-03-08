@@ -20,14 +20,13 @@ references:
   - "Andreasen JO, et al. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Wiley-Blackwell; 2013."
   - "Cvek M, et al. Hard tissue formation in the pulp following a tooth replantation in monkeys. Arch Oral Biol. 1985;30(2):117-128."
 ---
-
 ## A True Dental Emergency
 
 A knocked-out tooth is one of the few real dental emergencies where every minute counts. If you get your tooth back in place within 5 minutes, it has an 85-97% chance of surviving long-term. After 15 minutes, the survival rate is still excellent at around 70-90%. However, after 60 minutes, the success rate drops dramatically to just 20-40%.
 
-The reason for this time sensitivity relates to biology: the tiny fibers (periodontal ligament) that hold your tooth to your bone start dying immediately when the tooth is out of your mouth. These fibers are living tissue that require moisture, oxygen, and nutrients to remain viable. But if kept in the right liquid, these critical fibers can stay alive for hours, even days. For more details, see our guide on [Dental Abscess](/article/dental-abscess-infection-and-urgent-treatment.html).
+The reason for this time sensitivity relates to biology: the tiny fibers (periodontal ligament) that hold your tooth to your bone start dying immediately when the tooth is out of your mouth. These fibers are living tissue that require moisture, oxygen, and nutrients to remain viable. But if kept in the right liquid, these critical fibers can stay alive for hours, even days.
 
-The way you handle the tooth in those first moments makes all the difference between saving it or losing it forever. This isn't an exaggeration—the decisions you make in the first few minutes directly determine whether your tooth can be successfully replanted and reestablished. For more details, see our guide on [Dental Trauma in Athletes - Prevention](/article/dental-trauma-in-athletes-prevention-and-treatment.html).
+The way you handle the tooth in those first moments makes all the difference between saving it or losing it forever. This isn't an exaggeration—the decisions you make in the first few minutes directly determine whether your tooth can be successfully replanted and reestablished.
 
 ## What to Do Right When It Happens
 
@@ -81,11 +80,12 @@ A knocked-out tooth is a genuine dental emergency requiring immediate action. Gr
 
 Young teeth with open roots do better than fully mature teeth with closed apexes. Most replanted teeth will need a root canal at some point because the nerve dies. Even with perfect immediate care, some teeth develop resorption complications, but modern endodontic and restorative dentistry can manage these effectively. The key to saving your tooth is recognizing this as a true emergency, acting fast, and following through with appropriate professional care.
 
+
+Related reading: [Reimplanted Teeth: Salvaging Avulsed Permanent](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html) and [Lost Filling or Crown: What to Do Now](/article/lost-filling-or-crown-temporary-and-permanent-solutions.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
-
-> **Key Takeaway:** A knocked-out tooth is one of the few real dental emergencies where every minute counts. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** Grab it by the crown (not the root), rinse it gently with saline or milk, and place it in milk or saline immediately.
 
 ## Related Articles
 

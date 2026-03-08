@@ -22,7 +22,6 @@ references:
   - "Tredwin CJ, Scully C, Boon L. Hydrogen peroxide exposure and diffusion through human coronal dentine. J Dent. 2006;34(8):594-599."
   - "Dodds MWJ, Johnson DA, Yeh CK. Health-associated aspects of saliva. J Dent Res. 2005;84(2):97-106."
 ---
-
 Teeth whitening is one of the most popular cosmetic treatments, but lots of people have unrealistic expectations about what it can achieve. Let's look at what's realistic and what's hype.
 
 ## Can Bleaching Make Your Teeth Any Shade You Want?
@@ -77,12 +76,6 @@ Yes, in terms of how quickly color fades. Eating and drinking dark-colored foods
 
 Moderate chocolate consumption or light-colored foods are fine—it's the intense colors that temporarily stick better to freshly whitened teeth.
 
-## Questions to Ask Your Dentist Before Teeth Whitening
-
-Before starting whitening treatment, have a detailed conversation with your dentist about your specific situation. Ask what type of discoloration you have—do you have surface stains, deep intrinsic staining, or a combination? This determines realistic shade improvement and whether whitening alone is sufficient. If you have old composite restorations, ask whether they'll need replacing after whitening to match your lighter natural teeth, and what the total cost would be including replacement.
-
-Ask about the specific products and concentrations your dentist uses, and what side effects are most common with their system. Discuss your sensitivity history: if you've had sensitive teeth before, ask what preventive measures they recommend. Ask about the expected results timeline—how long to see improvement, when to schedule touch-ups to maintain color, and how long results typically last. Request before-and-after photos from patients with similar starting colors so you can see realistic expectations for your situation.
-
 ## Tips for Maintaining Your Whitening Results Long-Term
 
 Teeth whitening results don't last forever, but several strategies help you maintain that lighter color longer. Most importantly, schedule touch-up whitening every 12-18 months to refreshen fading color—this is much cheaper than full whitening again. In the meantime, limit staining substances: reduce coffee, tea, red wine, and dark berries if possible, or use a straw to minimize contact with teeth. If you smoke or use tobacco, quitting dramatically improves color stability and your overall health.
@@ -93,7 +86,7 @@ Use a whitening toothpaste or custom whitening tray 2-3 times per week to help m
 
 Realistic tooth whitening achieves 5-7 shade units of improvement, works better on surface stains than deep discoloration, requires maintenance touch-ups every 12-18 months, and causes temporary sensitivity in about half of people. Professional bleaching dramatically outperforms store-bought products. For severe intrinsic discoloration, combining whitening with bonding or veneers works better than whitening alone. Understanding what whitening can realistically accomplish helps you make the right choice about whether it's the best treatment for your specific situation.
 
-> **Key Takeaway:** Understand what tooth whitening can really achieve, how long results last, and realistic expectations for different types of tooth discoloration.
+> **Key Takeaway:** Teeth whitening is one of the most popular cosmetic treatments, but lots of people have unrealistic expectations about what it can achieve.
 
 ## Related Articles
 

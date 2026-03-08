@@ -46,7 +46,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Pathogenic Bacteria Key Players in Gum Disease
 ---
-
 ## Understanding the Bacteria Behind Your Gum Disease
 
 When you brush and floss, you're fighting an invisible battle in your mouth. Gum disease doesn't just appear out of nowhere—it's caused by specific harmful bacteria that live in your mouth and attack your gum tissue. Over 700 different types of bacteria live in your mouth naturally. Most are harmless, but certain aggressive bacteria can trigger serious problems. Understanding these bacterial troublemakers helps explain why gum disease develops and why your dentist takes it so seriously.

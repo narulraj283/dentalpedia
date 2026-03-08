@@ -32,7 +32,6 @@ references:
   - title: "Long-term clinical outcomes in periodontal maintenance using universal curettes"
     url: https://pubmed.ncbi.nlm.nih.gov/24289564
 ---
-
 ## Keeping Teeth Clean Under the Gums
 
 When your dentist talks about removing plaque and tartar from below your gum line, they're likely using a specialized tool called a universal curette. These hand instruments are fundamental to maintaining healthy gums and preventing gum disease from progressing. Understanding what these tools do and how they work can help you appreciate the care your dentist is providing and recognize why regular professional cleanings are so important for your oral health.

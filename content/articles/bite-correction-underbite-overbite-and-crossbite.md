@@ -20,12 +20,11 @@ references:
   - "Kim YH. Overbite depth indicator with particular reference to anterior open bite and deep bite. American Journal of Orthodontics. 1974;65(6):586-611."
   - "Lasry V, Demange C, Cossuta G. Prevalence of dental and oral anomalies and occupational hazards in the dental office. Occupational Medicine. 1995;45(4):221-225."
 ---
-
 ## Understanding Overbite vs. Open Bite
 
-Overbite measures how much your upper front teeth overlap your lower front teeth vertically (from top to bottom). Normal is 2-3 millimeters — your upper teeth slightly cover your lower teeth. Deep bite (excessive overbite over 4 millimeters) affects 15-25% of people. The opposite problem, anterior open bite (negative overbite where front teeth don't touch at all), affects 5-10%. For more details, see our guide on [Accelerated Orthodontia](/article/accelerated-orthodontia-fast-track-braces.html).
+Overbite measures how much your upper front teeth overlap your lower front teeth vertically (from top to bottom). Normal is 2-3 millimeters — your upper teeth slightly cover your lower teeth. Deep bite (excessive overbite over 4 millimeters) affects 15-25% of people. The opposite problem, anterior open bite (negative overbite where front teeth don't touch at all), affects 5-10%.
 
-Deep bite happens when your jaw's vertical dimensions are off, your front teeth angle too far forward, or your back teeth are too short. Low-angle jaw patterns (where mandible is more horizontal) predispose to deep bite. Regardless of cause, deep bite creates problems: your front teeth wear 40-50% faster than normal, your lower front teeth sometimes dig into the roof of your mouth causing trauma (happening in 20-30% of deep bite cases), your back teeth carry too much chewing force while front teeth carry too little, and your jaw muscles work inefficiently. For more details, see our guide on [Accelerated Orthodontics](/article/accelerated-orthodontics-speeding-up-your-treatment.html).
+Deep bite happens when your jaw's vertical dimensions are off, your front teeth angle too far forward, or your back teeth are too short. Low-angle jaw patterns (where mandible is more horizontal) predispose to deep bite. Regardless of cause, deep bite creates problems: your front teeth wear 40-50% faster than normal, your lower front teeth sometimes dig into the roof of your mouth causing trauma (happening in 20-30% of deep bite cases), your back teeth carry too much chewing force while front teeth carry too little, and your jaw muscles work inefficiently.
 
 Open bite (the opposite problem) usually starts in childhood from thumb-sucking, tongue-thrust habits, or mouth breathing. When your front teeth don't touch, you have a lisp, can't bite food with your front teeth, look unesthetic with your mouth open, and the original habit tends to persist. This is why early habit correction in children can prevent 40-60% of open bite cases from becoming serious problems.
 
@@ -124,6 +123,9 @@ Anterior crossbite/underbite correction demonstrates variable stability: dental 
 Long-term periodontal effects: expansion produces 0.5-1.5 millimeters buccal alveolar height increase (new bone formation over 6-12 months), maintaining periodontal support. Crossbite tooth correction eliminates abnormal loading patterns, reducing periodontal destruction rate 50-70% compared to chronic crossbite conditions.
 
 Contemporary bite correction represents individualized treatment planning considering skeletal pattern, growth status, dental anatomy, and patient preferences. Precise diagnosis, appropriate timing, and systematic mechanical application achieve excellent esthetic and functional outcomes with high long-term stability.
+
+
+Related reading: [Common Misconceptions About Aligner Wear Schedule](/article/common-misconceptions-about-aligner-wear-schedule.html) and [Orthodontic Extraction Decision](/article/benefits-of-orthodontic-extraction-decision.html).
 
 ## Conclusion
 

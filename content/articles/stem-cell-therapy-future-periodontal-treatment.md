@@ -32,7 +32,6 @@ references:
   - title: "Feng F, Akiyama K, Liu X, et al. Utility of PDLSCs for regeneration of complex periodontal tissues in 3D modeling and tissue engineering: proceedings of the international association for dental research special sessions. J Dent Res. 2010;89(10):1143-1152."
     url: https://pubmed.ncbi.nlm.nih.gov/20739698
 ---
-
 ## Introduction
 
 If you have gum disease, your dentist might tell you that your gums have lost bone and attachment that won't grow back. That's usually true with current treatments. But exciting new research is changing that. Stem cell therapy for gum disease is an emerging treatment that could regenerate bone and gum tissue that was destroyed by disease. This guide explains what stem cell therapy is, how it works, and where this technology stands today.
@@ -94,12 +93,6 @@ Scientists are working on:
 - **Cell banking:** Developing ways to freeze and store stem cells so they're available when needed, enabling off-the-shelf treatments
 
 The major challenge is that stem cell therapy is still experimental and not widely available. Regulatory approval for clinical use is still being developed. Different countries have different regulatory pathways—some are more advanced than others in approving stem cell therapies for clinical use.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss stem cell therapy future periodontal treatment, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

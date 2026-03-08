@@ -20,7 +20,6 @@ references:
   - "Arvind K, et al. Efficacy of intralimental anesthesia for extraction of maxillary teeth. J Oral Maxillofac Surg. 2008;66(12):2526-2533."
   - "Ong CK, et al. Efficacy of preoperative analgesics for acute postoperative pain after third molar extractions. J Oral Maxillofac Surg. 2004;62(5):588-594."
 ---
-
 ## Understanding Your Anesthesia Choices
 
 When you need dental work, your dentist uses anesthesia (numbing medication) to ensure you don't feel pain. But not all numbing medications work the same way. Different anesthetics have different onset times (how quickly they work), different durations (how long they last), and different characteristics. Understanding your options helps you understand what your dentist recommends and why.
@@ -71,15 +70,11 @@ Before any procedure, mention: any previous problems with anesthesia, medication
 
 If you're anxious about needles or injections, mention this too. Your dentist can use extra topical anesthetic, inject extra slowly, or discuss techniques to help you relax. Being honest about your concerns helps your dentist provide the best experience possible.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about anesthesia options and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
 ## Conclusion
 
 Different anesthetics have different properties, and your dentist chooses based on your specific procedure and needs. Understanding that various options exist helps you appreciate your dentist's professional judgment. Most people tolerate dental anesthesia very well with minimal discomfort and no significant side effects.
 
-> **Key Takeaway:** Different types of anesthesia work differently for different dental procedures, and understanding your options helps ensure safe, comfortable treatment.
+> **Key Takeaway:** When you need dental work, your dentist uses anesthesia (numbing medication) to ensure you don't feel pain.
 
 ## Related Articles
 

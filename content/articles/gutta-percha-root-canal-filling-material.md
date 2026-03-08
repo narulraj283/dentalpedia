@@ -28,7 +28,6 @@ references:
   - title: "Biocompatibility of Endodontic Materials"
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/jcpe.12877
 ---
-
 ## Understanding Gutta Percha: Your Root Canal Filling
 
 If you're having root canal treatment, your endodontist will fill the cleaned canal with gutta percha—a special filling material. Understanding what it is and why it's used helps you understand your treatment.
@@ -115,13 +114,8 @@ After gutta percha is placed, your tooth is sealed, and you might feel a slight 
 
 Some newer materials (like bioceramic pastes) are being researched, but gutta percha with quality sealer remains the gold standard. It's proven, predictable, and reliable. Endodontists prefer using techniques and materials with decades of success data rather than newer, less-proven alternatives.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about gutta percha root canal filling material and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

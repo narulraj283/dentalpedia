@@ -49,7 +49,6 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: Pain Management Post Surgery Analgesia
 ---
-
 ## Understanding Post-Surgical Pain
 
 After dental surgery, whether it's a simple tooth extraction or removal of your wisdom teeth, you can expect some degree of discomfort. This pain happens because surgery creates inflammation in the surgical area—your body's natural response to the injury. Understanding how pain develops helps you manage it effectively. The pain typically starts as local anesthesia wears off, usually 2 to 4 hours after surgery, and gradually decreases over several days.
@@ -116,7 +115,7 @@ Effective post-operative pain management makes the recovery period much more com
 
 - [Protective Mouth Guards: Preventing Dental Trauma](/article/protective-mouth-guards-preventing-dental-trauma.html)
 
-- [The Critical Role of Saliva in Oral Health: Functions,](/article/timeline-for-saliva-importance.html)
+- [The Critical Role of Saliva in Oral Health: Functions](/article/timeline-for-saliva-importance.html)
 - [MTA Biocompatible Root Repair Material](/article/mta-biocompatible-root-repair-material.html)
 - [Laser Therapy: Therapeutic Applications](/article/laser-therapy-therapeutic-applications.html)
 

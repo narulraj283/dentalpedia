@@ -31,7 +31,6 @@ subcategory: Teeth Whitening & Bleaching
 subcategory_slug: teeth-whitening
 title: 'Teeth Whitening Safety: Evidence-Based Analysis'
 ---
-
 Professional teeth whitening has an excellent safety record when done properly. If you're wondering whether bleaching is safe for your teeth, the short answer is yes—but there are some important things to understand about how it works and what to expect.
 
 ## Does Bleaching Damage Your Tooth Enamel Permanently?
@@ -84,12 +83,6 @@ Actually, root canal-treated teeth can be bleached even better internally. A pro
 
 Most people can safely use professional bleaching. People who should skip it or discuss it first with their dentist include: those with severe enamel erosion, those with extremely sensitive teeth that isn't controlled by desensitizers, those with very recent cavities or exposed tooth roots, and pregnant women (just to be cautious, even though safety is likely fine).
 
-## Questions to Ask Your Dentist About Professional Bleaching
-
-Before you commit to professional teeth whitening, there are important questions to discuss with your dentist. Ask about your specific candidacy: Do you have any tooth damage or existing restorations that bleaching might not affect? Discuss your sensitivity history—if you've had sensitive teeth in the past, your dentist can recommend preventive measures like desensitizing gel applied before bleaching or potassium nitrate products that reduce sensitivity risk.
-
-Ask about the specific type of staining you have (surface stains respond better than deep intrinsic staining) and realistic shade improvement expectations for your specific situation. Find out what happens with any composite restorations you have—do they need replacing after whitening due to color mismatch? Ask about the expected timeline for results and when you should schedule touch-up treatments. Also ask whether your dentist uses any special techniques to minimize sensitivity, such as custom trays, lower concentration gels, or protective barriers.
-
 ## Aftercare Tips to Protect Your Whitening Results
 
 Your whitening results depend partly on what you do after the procedure. For the first 24-48 hours after professional bleaching, avoid dark-colored foods and beverages—coffee, tea, red wine, dark berries, soy sauce, and tomato-based products can stain freshly whitened teeth more easily. This temporary "white diet" isn't permanent; after 48 hours, normal foods are fine. Return to your regular diet, but consider limiting staining substances ongoing if you want results to last longer.
@@ -102,7 +95,7 @@ Maintain excellent home care: brush twice daily with a soft toothbrush, floss da
 
 Professional teeth bleaching is very safe with minimal real risks when done properly by your dentist. Temporary sensitivity is the most common side effect and it's easily managed. Your enamel is strong and recovers completely. The real safety advantages come from professional supervision, proper gum protection, and quality-controlled materials.
 
-> **Key Takeaway:** Professional teeth whitening is safe when done correctly—here's what you need to know about bleaching risks, side effects, and how to protect your teeth.
+> **Key Takeaway:** Professional teeth whitening has an excellent safety record when done properly.
 
 ## Related Articles
 

@@ -22,16 +22,13 @@ references:
   - "Nanci A. Ten Cate's Oral Histology: Development, Structure, and Function. 8th ed. St. Louis: Elsevier; 2012."
   - "Slots J. Periodontitis: A review of etiology and risk factors. Alpha Omegan. 2013;106(1-2):9-17."
 ---
-
 ## Types of Dental Visits: What's the Difference?
 
-Not every dental visit is the same. Sometimes you're coming in for a complete checkup and cleaning. Sometimes you've got a toothache and need quick diagnosis.
-
-Sometimes you're just following up on treatment from last month. Understanding what your dentist should be doing at each type of visit helps you know what to expect and whether you're getting thorough care. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+Confused about why some dental visits are quick while others take an hour? Each type of visit serves a different purpose, and understanding them helps you know what to expect and whether you're getting the care you actually need.
 
 ## Comprehensive Exams: The Full Workup
 
-A comprehensive exam is your baseline visit—either when you're new to a practice or annually for existing patients. This takes 30-45 minutes and covers everything. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+A comprehensive exam is your baseline visit—either when you're new to a practice or annually for existing patients. This takes 30-45 minutes and covers everything.
 
 Your dentist starts by updating your medical history (new medications, health changes, family history of dental problems). Then they do a thorough examination starting outside your mouth (checking your face for asymmetry, feeling for swollen lymph nodes under your jaw) and working inward. They look at all your soft tissues—cheeks, palate, tongue, floor of mouth—checking for anything unusual like sores that won't heal, color changes, or swelling.
 
@@ -109,6 +106,9 @@ At your exam, it's totally reasonable to ask: What did you find? Do I have gum d
 
 What's my risk for future problems? What can I do to improve my oral health? How often should I come back? Any dentist worth seeing will welcome these questions and spend time educating you.
 
+
+Related reading: [Common Misconceptions About Mouth Ulcer Care](/article/common-misconceptions-about-mouth-ulcer-care.html) and [Understanding Mouth Injuries Treatment for Better](/article/benefits-of-mouth-injuries-treatment.html).
+
 ## Conclusion
 
 : Exams Catch Problems Early
@@ -117,7 +117,7 @@ Dental examinations are your first line of defense against tooth decay and gum d
 
 The key is going regularly—annually at minimum for comprehensive exams. Caught early, most dental problems are manageable. Ignored, they become expensive disasters. Prevention and early detection are always easier (and cheaper) than treating advanced problems.
 
-> **Key Takeaway:** Not every dental visit is the same. Sometimes you're coming in for a complete checkup and cleaning.
+> **Key Takeaway:** Confused about why some dental visits are quick while others take an hour?
 
 ## Related Articles
 

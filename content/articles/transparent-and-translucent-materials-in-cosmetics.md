@@ -32,7 +32,6 @@ references:
   - title: "Dietschi D, Ardu S, Krejci I. Color stability of direct resin composite restorations: in vivo evaluation after 5 and 10 years. Quintessence Int. 2006;37(10):729-737."
     url: https://pubmed.ncbi.nlm.nih.gov/17074101
 ---
-
 ## Why Materials Matter for Your Smile
 
 When your dentist chooses a material for your crown, veneer, or filling, they're not just picking something that looks tooth-colored. They're choosing a material that will let light pass through it in just the right way so your tooth looks alive, not flat and plastic. The difference is all about how light moves through the material—something called translucency. This guide explains the different cosmetic materials your dentist might recommend and why the right choice for your smile is about more than just color.
@@ -110,5 +109,5 @@ Remember that every person's situation is unique. What works well for one patien
 - [Before and After: Smile Complete Guide](/article/before-and-after-smile-complete-guide.html)
 - [Lumineers: Minimal-Prep Veneers Explained](/article/lumineers-minimal-prep-veneers-explained.html)
 
-- [Gingival Recontouring Techniques: Crown Lengthening,](/article/timeline-for-cosmetic-gum-shaping.html)
+- [Gingival Recontouring Techniques: Crown Lengthening](/article/timeline-for-cosmetic-gum-shaping.html)
 

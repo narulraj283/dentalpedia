@@ -18,7 +18,6 @@ references:
   - title: "Amler MH. The time sequence of tissue regeneration in human extraction wounds. Oral Surgery, Oral Medicine, Oral Pathology. 1969;27(3):309-318."
     url: https://pubmed.ncbi.nlm.nih.gov/5251474
 ---
-
 ## Introduction
 
 When you have a tooth extracted, your body immediately starts a remarkable healing process. Understanding what happens during each stage helps you know what's normal and when to contact your dentist. This guide walks you through the complete healing timeline, from the critical first day through final bone remodeling that continues for several months. Knowing what to expect makes recovery much easier.
@@ -117,6 +116,6 @@ Complete bone healing takes months, but you won't notice this happening. The key
 
 - [Wisdom-teeth-extraction-what-you-need-to-know](/article/wisdom-teeth-extraction-what-you-need-to-know.html)
 
-- [Postoperative Swelling Management: Mechanisms,](/article/common-misconceptions-about-swelling-reduction.html)
+- [Postoperative Swelling Management: Mechanisms](/article/common-misconceptions-about-swelling-reduction.html)
 - [Cost of Recovery Timeline in Oral Surgery](/article/cost-of-recovery-timeline.html)
 

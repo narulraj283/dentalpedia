@@ -1,11 +1,11 @@
 ---
+category: General Dentistry
 category_slug: general-dentistry
 excerpt: When you walk into a store, you'll see dozens of mouthwash options. Most
   are cosmetic—they freshen your breath for a few hours but don't actually help
 slug: timeline-for-mouthwash-selection
 title: Timeline for Mouthwash Selection
 ---
-
 ## Cosmetic vs. Therapeutic Mouthwash
 
 When you walk into a store, you'll see dozens of mouthwash options. Most are cosmetic—they freshen your breath for a few hours but don't actually help your teeth or gums. Therapeutic mouthwashes contain active ingredients that actually reduce cavity risk or fight gum disease. They cost more but deliver real benefits if you're at risk for dental problems.

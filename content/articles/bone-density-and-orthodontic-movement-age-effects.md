@@ -1,31 +1,39 @@
 ---
-title: "Alveolar Bone Density and Orthodontic Tooth Movement:"
-slug: bone-density-and-orthodontic-movement-age-effects
 category: Orthodontics
 category_slug: orthodontics
-excerpt: "Your jawbone is constantly remodeling throughout your life. You reach peak bone strength and density in your late 20s."
 date: 2026-03-05
+excerpt: Your jawbone is constantly remodeling throughout your life. You reach peak
+  bone strength and density in your late 20s.
 read_time: 10 min
+references:
+- Reichert C, et al. Age-related effects on bone density and orthodontic tooth movement.
+  J Dent Res. 2013;92(12):1084-1091.
+- Lund H, et al. Bone mineral density and its relationship to orthodontic tooth movement.
+  Am J Orthod Dentofacial Orthop. 2012;141(4):471-481.
+- Weltman B, et al. Adult orthodontics and periodontitis. Periodontol 2000. 2016;71(1):130-151.
+- Liou EJ, et al. Do interradicular septa and transseptal fibers prevent apical migration
+  of alveolar bone? An evaluation using micro-CT imaging and a rodent model. Am J
+  Orthod Dentofacial Orthop. 2008;133(2):166-173.
+- Weltman B, et al. Adult orthodontists-attitudes and concerns. Am J Orthod Dentofacial
+  Orthop. 2010;137(3):290-298.
+- Gu Y, et al. Age differences in resorption of three types of orthodontic miniscrews.
+  Angle Orthod. 2012;82(5):861-866.
+- 'Al-Qaderi H, et al. Bone density changes around orthodontic miniscrews: an experimental
+  model. Angle Orthod. 2011;81(6):966-974.'
+- Marquezan M, et al. Age as a factor in the rate of tooth movement during orthodontic
+  treatment. Am J Orthod Dentofacial Orthop. 2011;140(4):482-488.
+reviewed: true
 reviewer_specialty: Orthodontics
+slug: bone-density-and-orthodontic-movement-age-effects
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
-reviewed: true
-references:
-  - "Reichert C, et al. Age-related effects on bone density and orthodontic tooth movement. J Dent Res. 2013;92(12):1084-1091."
-  - "Lund H, et al. Bone mineral density and its relationship to orthodontic tooth movement. Am J Orthod Dentofacial Orthop. 2012;141(4):471-481."
-  - "Weltman B, et al. Adult orthodontics and periodontitis. Periodontol 2000. 2016;71(1):130-151."
-  - "Liou EJ, et al. Do interradicular septa and transseptal fibers prevent apical migration of alveolar bone? An evaluation using micro-CT imaging and a rodent model. Am J Orthod Dentofacial Orthop. 2008;133(2):166-173."
-  - "Weltman B, et al. Adult orthodontists-attitudes and concerns. Am J Orthod Dentofacial Orthop. 2010;137(3):290-298."
-  - "Gu Y, et al. Age differences in resorption of three types of orthodontic miniscrews. Angle Orthod. 2012;82(5):861-866."
-  - "Al-Qaderi H, et al. Bone density changes around orthodontic miniscrews: an experimental model. Angle Orthod. 2011;81(6):966-974."
-  - "Marquezan M, et al. Age as a factor in the rate of tooth movement during orthodontic treatment. Am J Orthod Dentofacial Orthop. 2011;140(4):482-488."
+title: Alveolar Bone Density and Orthodontic Tooth Movement
 ---
-
 ## How Bone Changes as You Age
 
-Your jawbone is constantly remodeling throughout your life. You reach peak bone strength and density in your late 20s. After that, bone gradually thins—about 0.5-1% per year in men, and 1-2% per year in women (accelerating to 2-3% annually during menopause). For more details, see our guide on [Accelerated Orthodontia](/article/accelerated-orthodontia-fast-track-braces.html).
+Your jawbone is constantly remodeling throughout your life. You reach peak bone strength and density in your late 20s. After that, bone gradually thins—about 0.5-1% per year in men, and 1-2% per year in women (accelerating to 2-3% annually during menopause).
 
-By age 40, your jaw bone is noticeably less dense than in your 20s. By age 60-70, density drops by about 50%. This has big implications for orthodontic treatment (braces or aligners) because less dense bone responds differently to the gentle forces that move teeth. For more details, see our guide on [Accelerated Orthodontics](/article/accelerated-orthodontics-speeding-up-your-treatment.html).
+By age 40, your jaw bone is noticeably less dense than in your 20s. By age 60-70, density drops by about 50%. This has big implications for orthodontic treatment (braces or aligners) because less dense bone responds differently to the gentle forces that move teeth.
 
 The bone's internal architecture also changes with age. The internal supporting structure (called trabeculae) gets spaced farther apart and becomes thinner. The dense outer layer (cortical bone) gets thinner at a rate of about 0.4-0.6 mm per decade. These changes reduce how well bone can distribute forces and may increase risk of damage from tooth movement.
 
@@ -115,11 +123,15 @@ Uncontrolled diabetes (blood sugar consistently elevated, HbA1c above 8%) slows 
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
+
+Related reading: [Two-Phase Orthodontia - Early Treatment Strategy,](/article/two-phase-orthodontia-early-treatment-strategy.html) and [Anterior Open Bite](/article/anterior-open-bite-causes-and-correction-methods.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about alveolar bone density and orthodontic tooth movement or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Adult orthodontics works at any age, but success depends on using age-appropriate lighter forces, accepting longer treatment timelines, and managing medical conditions that affect bone health.
+
+> **Key Takeaway:** Your jawbone is constantly remodeling throughout your life. You reach peak bone strength and density in your late 20s.
 
 ## Related Articles
 

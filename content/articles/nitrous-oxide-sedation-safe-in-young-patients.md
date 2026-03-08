@@ -18,7 +18,6 @@ references:
   - title: "Long-Term Outcomes of Children Treated with Nitrous Oxide Sedation"
     url: https://www.ncbi.nlm.nih.gov/pubmed/32901234
 ---
-
 ## Is Laughing Gas Safe for My Child? What Parents Should Know
 
 If your child is anxious about the dentist, your pediatric dentist might recommend nitrous oxide—commonly called laughing gas. You probably have questions: Is it safe? Will my child remember what happened? Could it affect his development? Understanding how nitrous oxide works in children and why pediatric dentists use it can help you make confident decisions about your child's dental care.

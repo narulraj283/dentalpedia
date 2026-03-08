@@ -30,7 +30,6 @@ references:
   - title: "Post-operative Bleeding and Secondary Hemorrhage: Etiology and Management"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27654321
 ---
-
 If you've had tooth extraction or oral surgery, you may have experienced bleeding that lasted longer than you expected. Don't worry—controlling bleeding after dental procedures is a routine part of patient care. Your dentist or oral surgeon uses several proven techniques to stop the bleeding quickly and prevent complications. Understanding what happens during this process can help you follow post-operative care instructions and achieve the best healing possible.
 
 ## How Your Body Naturally Stops Bleeding

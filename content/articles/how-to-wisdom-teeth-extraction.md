@@ -32,7 +32,6 @@ references:
   - title: "Cost-effectiveness of prophylactic extraction versus extraction on demand"
     url: https://www.ncbi.nlm.nih.gov/pubmed/37012345
 ---
-
 ## Do You Actually Need Your Wisdom Teeth Removed?
 
 Wisdom teeth don't need to come out automatically just because they're wisdom teeth. Some people have plenty of room for them and typically don't need extraction. Others have problems with them and do need removal. Your dentist can evaluate your specific situation and recommend extraction only if it's actually necessary. Learning more about [Recovery After Tooth Extraction](/article/how-to-tooth-extraction-recovery.html) can help you understand this better.
@@ -74,12 +73,6 @@ Dry socket is a common complication of wisdom tooth extraction, occurring in 2-4
 Temporary nerve irritation causes numbness or tingling of your tongue, chin, or lip after extraction. In most cases, this resolves within weeks, though complete recovery sometimes takes months. Permanent nerve damage is rare but possible, especially with lower wisdom teeth.
 
 Infection at the extraction site is uncommon if you follow post-operative instructions, but can happen. Fever, increasing pain after day 3-4, or pus formation means you should contact your surgeon immediately.
-
-## Questions to Ask Your Dentist or Oral Surgeon
-
-If your dentist recommends wisdom teeth extraction, ask: Is extraction truly necessary or is it preventive? What's the specific reason for extraction? Will removal affect my other teeth or bite? What are my alternatives? If extraction is planned, ask about recovery timeline, potential complications, and specific post-operative care.
-
-Don't hesitate to get a second opinion if you're unsure about extraction. Not all dentists recommend extraction for the same situations, so getting another professional's perspective helps you make an informed decision.
 
 ## Cost Considerations
 

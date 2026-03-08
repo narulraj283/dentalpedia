@@ -22,14 +22,13 @@ references:
   - "Preshaw PM, et al. Periodontitis and pregnancy: a review of the evidence and proposed prevention strategy. J Clin Periodontol. 2016;43(5):411-421."
   - "Scully C, et al. Consensus report on potentially malignant disorders of the oral mucosa. J Oral Pathol Med. 2020;49(10):993-1001."
 ---
-
 ## Best Practices for Bleeding Gums Solutions
 
-Bleeding gums when you brush or floss is one of the most common dental problems, yet it's often ignored. If your gums bleed, it's a sign that something needs attention. The good news is that bleeding gums are usually very treatable—once you understand what's causing it and take the right steps to fix it. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+Bleeding gums when you brush or floss is one of the most common dental problems, yet it's often ignored. If your gums bleed, it's a sign that something needs attention. The good news is that bleeding gums are usually very treatable—once you understand what's causing it and take the right steps to fix it.
 
 ## Understanding Your Medical Background
 
-Before treating your gums, your dentist needs to understand your medical history. Some people have blood clotting problems (like hemophilia or von Willebrand disease) that cause excessive gum bleeding without much inflammation present. If you have a family history of bleeding disorders or notice you bruise easily from minor injuries, mention this to your dentist. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+Before treating your gums, your dentist needs to understand your medical history. Some people have blood clotting problems (like hemophilia or von Willebrand disease) that cause excessive gum bleeding without much inflammation present. If you have a family history of bleeding disorders or notice you bruise easily from minor injuries, mention this to your dentist.
 
 Medications matter too. If you take warfarin or other blood thinners, your dentist expects some extra bleeding and prepares accordingly. Aspirin and similar medications also increase bleeding. These medications are important for your heart health, so you shouldn't stop taking them—your dentist simply adjusts their approach.
 
@@ -118,11 +117,17 @@ J Clin Periodontol. 1974;1(1):14-25.
 9. Preshaw PM, et al. Periodontitis and pregnancy: a review of the evidence and proposed prevention strategy. J Clin Periodontol. 2016;43(5):411-421.
 10. Scully C, et al. Consensus report on potentially malignant disorders of the oral mucosa. J Oral Pathol Med. 2020;49(10):993-1001.
 
+
+Related reading: [Emergency Management of Oral and Dental Injuries](/article/best-practices-for-mouth-injuries-treatment.html) and [Oral Surgery Recovery Timeline](/article/benefits-of-oral-surgery-recovery-timeline.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+J Clin Periodontol. 1974;1(1):14-25.
+6. Tanner ACR, et al. Talk to your dentist about how this applies to your situation. Talk to your dentist about what options work best for your situation.
 
-> **Key Takeaway:** Bleeding gums when you brush or floss is one of the most common dental problems, yet it's often ignored. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** Bleeding gums when you brush or floss is one of the most common dental problems, yet it's often ignored.
 
 ## Related Articles
 

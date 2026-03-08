@@ -28,7 +28,6 @@ references:
   - title: "Enamel and dentin wear mechanisms under different bite force magnitudes"
     url: https://pubmed.ncbi.nlm.nih.gov/20937565
 ---
-
 ## Why Bite Force and Teeth Relationships Matter in Dental Planning
 
 How hard do you bite down when you chew? Your bite force—how much power your jaw generates—affects more than just your ability to eat. It influences whether your dental implants will succeed, what materials your dentist can use for your restorations, how long they'll last, and whether you'll develop problems years down the road. Understanding bite force helps explain why some people seem to break through restorations while others maintain them for decades, and why your dentist asks questions about clenching or grinding habits. Your bite force is a critical factor in dental treatment planning that often gets overlooked.

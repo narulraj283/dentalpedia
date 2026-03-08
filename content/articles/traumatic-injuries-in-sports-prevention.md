@@ -32,7 +32,6 @@ references:
   - title: "Helmet regulations and mandates reduce sports-related head and dental trauma"
     url: https://pubmed.ncbi.nlm.nih.gov/27405741
 ---
-
 ## Protecting Your Teeth During Sports
 
 If you play contact sports—football, hockey, basketball, lacrosse, rugby, or wrestling—you're at risk of dental injuries. About 5-14% of all sports injuries involve teeth or the mouth, and nearly one in three adolescents will experience some form of dental trauma at some point. The good news? Most of these injuries are completely preventable with the right protection. This guide explains what you need to know about mouthguards, face shields, and other protective strategies to keep your teeth safe while you play the sports you love.
@@ -76,12 +75,6 @@ Here's the problem: even knowing that mouthguards reduce injuries by 98%, many a
 Some athletic programs set up on-site mouthguard fabrication (a dentist comes to your school to make custom guards), and this dramatically increases compliance. When getting a mouthguard is easy and happens at school, athletes actually wear them.
 
 If you're an athlete with preexisting dental problems (like a previous injury, or thin enamel), you need a mouthguard even more. Talk to your dentist about getting one fitted.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss traumatic injuries in sports prevention, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

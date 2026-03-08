@@ -32,7 +32,6 @@ references:
   - title: "Walmsley AD, Needleman I, Wildgoose D. Periodontology and implantology in routine clinical practice. J Dent. 2011;39(Suppl 3):S1-S2."
     url: "https://www.ncbi.nlm.nih.gov/pubmed"
 ---
-
 ## What Is a Guide Plane and Why It Matters
 
 If you're getting a removable partial denture (a prosthetic that replaces missing teeth), your dentist might talk about preparing "guide planes" on your remaining teeth. A guide plane is a small, precisely flat surface prepared on your teeth that helps your denture fit better, stay in place, and last longer. Think of it like creating a "track" for your denture to follow when you insert and remove it.

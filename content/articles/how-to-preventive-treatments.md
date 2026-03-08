@@ -32,7 +32,6 @@ references:
   - title: "Oral Hygiene Instruction and Patient Compliance Outcomes"
     url: https://www.ncbi.nlm.nih.gov/pubmed/23589598
 ---
-
 Preventing cavities and gum disease is way easier and cheaper than fixing them. Learning more about [Guard Replacement Frequency When to Replace](/article/guard-replacement-frequency-when-to-replace.html) can help you understand this better. Preventive treatments stop problems before they start. The best part is that research shows preventive approaches reduce cavities by 40-70 percent and gum disease by 50-80 percent compared to waiting until problems happen. Learning more about [How to Oral Health Habits](/article/how-to-oral-health-habits.html) can help you understand this better.
 
 ## Professional Cleanings

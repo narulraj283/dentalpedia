@@ -28,7 +28,6 @@ references:
   - title: "Antibiotic Prophylaxis and Periodontal Prevention"
     url: "https://pubmed.ncbi.nlm.nih.gov/15998314/"
 ---
-
 ## Preventing Gum Disease Is Easier Than Treating It
 
 Gum disease is preventable. Unlike some health conditions that strike randomly, periodontal disease requires specific conditions to develop. When you eliminate those conditions and take positive steps, you can keep your gums healthy for life.

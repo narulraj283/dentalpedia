@@ -32,7 +32,6 @@ references:
   - title: "Kuhl EA, Tickle-Degnen L, Levy CE, Maytal G. Impact of Parkinson's disease on patients' sexual function and relationships. Parkinsonism Relat Disord. 2007;13(8):461-470."
     url: https://pubmed.ncbi.nlm.nih.gov/17336141
 ---
-
 ## Why Swallowing Becomes Difficult After Dental Surgery or with Missing Teeth
 
 After extraction surgery or with missing teeth, you might notice swallowing is harder. These problems happen because your mouth, tongue, and throat coordinate in a precise sequence, and changes to your teeth disrupt that sequence.
@@ -70,12 +69,6 @@ An ill-fitting denture is the biggest culprit. If your denture slips when you sw
 **Try eating differently temporarily.** Eat smaller bites, chew thoroughly, and eat softer foods.
 
 **Swallowing exercises help some patients.** Your speech-language pathologist can teach exercises improving tongue strength and swallowing coordination.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss swallowing difficulty dysphagia management, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

@@ -22,7 +22,6 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: 'Understanding Your Teeth: A Simple Guide to How'
 ---
-
 ## Introduction
 
 Your teeth are more complex than they appear. Understanding how they're built explains why cavities develop, why teeth sometimes hurt, and what your dentist means when discussing treatments. This guide breaks down tooth anatomy into simple pieces so you understand what's happening in your mouth.

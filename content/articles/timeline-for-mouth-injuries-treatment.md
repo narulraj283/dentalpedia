@@ -30,7 +30,6 @@ references:
   - title: "King TB, Sforza RF. Management of traumatic dental injuries. Dent Clin North Am. 1995;39(1):87-110."
     url: https://pubmed.ncbi.nlm.nih.gov/7540763
 ---
-
 ## What Counts as a Tooth Injury
 
 Tooth injuries happen fast—a fall, sports accident, or blow to the face. You might have a cracked or chipped tooth, a tooth that's pushed up into the gum (partially loosened), completely knocked out, or a tooth that's broken off below the gum line. Each injury is different and needs different treatment. What matters is how fast you get to your dentist—some injuries have a time window where saving your tooth is possible.
@@ -79,12 +78,6 @@ Cracked teeth sometimes require extraction if the crack goes deep below the gum 
 
 Learn more about [Extrusion (tooth Pulled Out Slightly)](/article/extrusion-tooth-pulled-out-slightly.html) and [Extruded Tooth (partially Pushed Out)](/article/extruded-tooth-partially-pushed-out.html) to understand your specific situation better.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for mouth injuries treatment, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
-
 ## Tips for Long-Term Success
 
 Maintaining good results after dental treatment requires consistent care at home and regular professional check-ups. Brushing twice daily with a fluoride toothpaste and flossing at least once a day forms the foundation of good oral hygiene. These simple habits go a long way toward protecting your investment in your dental health and preventing future problems.
@@ -104,6 +97,3 @@ Tooth injuries require immediate professional care. The faster you see your dent
 - [Luxation: When Your Tooth Gets Partially Knocked Loose](/article/luxation-partially-displaced-tooth.html)
 - [Knocked-Out Tooth](/article/tooth-avulsion-complete-displacement.html)
 
-- [Dental Abscess](/article/dental-abscess-infection-and-urgent-treatment.html)
-- [Extrusion: Partial Tooth Displacement and Emergency](/article/extrusion-tooth-pulled-out-slightly.html)
-- [Extruded Tooth: Traumatic Extrusion Classification](/article/extruded-tooth-partially-pushed-out.html)

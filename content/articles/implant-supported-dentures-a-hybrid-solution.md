@@ -28,7 +28,6 @@ references:
   - title: "Cost-effectiveness analysis of implant-supported dentures in edentulous patients"
     url: https://www.ncbi.nlm.nih.gov/pubmed/23876171
 ---
-
 If you're missing all your teeth, you've probably heard about dentures, implants, and implant-supported dentures. Each option has advantages and disadvantages. Implant-supported dentures offer a middle ground—they give you the stability and feel of implants combined with the removability and flexibility of traditional dentures. Many patients find this combination solves the biggest problems they had with regular dentures while costing less than getting fully fixed implant teeth. Learning more about [Immediate Denture: Teeth Same Day as Extraction](/article/immediate-denture-teeth-same-day-as-extraction.html) can help you understand this better.
 
 ## What Are Implant-Supported Dentures?

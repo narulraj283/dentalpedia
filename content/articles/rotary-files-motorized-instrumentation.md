@@ -39,7 +39,6 @@ subcategory: Endodontic Overview
 subcategory_slug: overview-endo
 title: Rotary Files Motorized Instrumentation
 ---
-
 ## The Evolution From Hand Tools to Motorized Files
 
 Modern root canal treatment has been revolutionized by rotary files—small rotating instruments made from a special metal alloy called nickel-titanium. Instead of your dentist using hand files to manually work back and forth in your tooth's canal (the old way), they now use motorized instruments that rotate continuously, like a tiny drill. This has made root canal treatment faster, safer, and more predictable.

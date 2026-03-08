@@ -18,7 +18,6 @@ references:
   - title: "Reitan K. Tissue behavior during orthodontic tooth movement. Am J Orthod. 1960;46(12):881-913."
     url: https://pubmed.ncbi.nlm.nih.gov/13710531
 ---
-
 ## Retainers After Braces: A Complete Patient Guide
 
 Congratulations on completing your braces! Your teeth are now beautifully aligned, and you're excited to show off your new smile. But here's something important: the real work isn't over yet.

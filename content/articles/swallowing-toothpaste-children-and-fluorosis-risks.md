@@ -32,7 +32,6 @@ references:
   - title: "Seppä L, Forss H. Fluoride varnishes in the prevention of dental caries in children and adults. Caries Res. 2015;49(suppl 1):31-38."
     url: https://pubmed.ncbi.nlm.nih.gov/25895373
 ---
-
 ## Why Fluoride in Children's Toothpaste Requires Careful Attention
 
 Fluoride effectively reduces cavities by 20-40% when applied to teeth. But during ages 0-8 when permanent teeth are developing, excess fluoride that gets swallowed can cause permanent marks on teeth called fluorosis. The good news is fluorosis is preventable with proper toothpaste dosing.
@@ -72,12 +71,6 @@ Your child's front permanent teeth develop from birth to age 4-5. Learn more abo
 **Keep toothpaste where your child can't access it.** Young children sometimes sneak and eat toothpaste straight from the tube.
 
 **Consider fluoride-free toothpaste if your child won't spit.** If your 1-3 year-old refuses to spit, fluoride-free toothpaste eliminates fluorosis risk.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss swallowing toothpaste children and fluorosis risks, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

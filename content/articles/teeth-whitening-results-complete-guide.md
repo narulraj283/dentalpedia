@@ -32,7 +32,6 @@ references:
   - title: "Tooth whitening: current results and research implications. Journal of Evidence-Based Dental Practice. 2015;15(1):18-24."
     url: https://pubmed.ncbi.nlm.nih.gov/25597043
 ---
-
 ## Introduction
 
 Professional teeth whitening produces measurable improvements in tooth color that can dramatically change your smile. Understanding how much improvement you can realistically expect, how long results last, and what affects durability helps you make informed decisions about treatment and maintenance. This guide breaks down whitening outcomes in straightforward terms, so you know exactly what to anticipate.
@@ -94,12 +93,6 @@ You also notice results subjectively—how your smile looks and feels to you mat
 Realistic expectations lead to better satisfaction. Understanding that some rebound will occur, that results aren't permanent, and that your specific outcome depends partly on your starting shade helps you appreciate results when you achieve them.
 
 Most patients are thrilled with results even if they're not perfect or don't persist forever. The ability to achieve significant improvement through reversible treatment without damaging teeth feels like a win. Combining professional treatment with lifestyle modifications and periodic touch-ups means you can maintain an attractive shade indefinitely.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss teeth whitening results complete guide, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

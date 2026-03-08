@@ -28,7 +28,6 @@ references:
   - title: "Relapse and Retention: Long-Term Stability After Various Treatment Durations"
     url: "https://www.ncbi.nlm.nih.gov/pubmed/28470226"
 ---
-
 "How long will my braces be on?" is one of the first questions patients ask. The honest answer is that it depends on many factors—some you control and some you don't. Most people wear braces for 2-3 years, but your treatment time might be shorter or longer depending on how crowded your teeth are, how complex your bite is, whether you need extractions, and how well you follow your orthodontist's instructions.
 
 ## Timeline Based on Your Bite Complexity
@@ -106,7 +105,7 @@ Most people wear braces for 2-3 years, with mild cases finishing in 1.5 years an
 ## Related Articles
 
 - [When Do Orthodontists Extract Teeth?](/article/how-to-orthodontic-extraction-decision.html)
-- [Timeline for Orthodontic Compliance: Elastic Wear,](/article/timeline-for-orthodontic-compliance.html)
+- [Timeline for Orthodontic Compliance: Elastic Wear](/article/timeline-for-orthodontic-compliance.html)
 - [Your Guide to Orthodontic Appointment Frequency](/article/benefits-of-orthodontic-appointment-frequency.html)
 - [Removable Retainers Hawley vs Essix Comparison](/article/removable-retainers-hawley-vs-essix-comparison.html)
 - [Cost of Teeth Straightening and Treatment Value](/article/cost-of-teeth-straightening-cost.html)

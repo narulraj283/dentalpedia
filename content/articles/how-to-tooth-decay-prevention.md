@@ -32,7 +32,6 @@ references:
   - title: "Early childhood caries: etiology, clinical presentation and prevention strategies"
     url: https://www.ncbi.nlm.nih.gov/pubmed/30416521
 ---
-
 ## Understanding How Cavities Develop
 
 Cavities don't just happen randomly—they form when specific conditions come together. Bacteria in your mouth produce acid after you eat sugary or starchy foods. That acid attacks your teeth for about 30 minutes after you eat. If this happens frequently throughout the day, your teeth don't have enough time to recover between acid attacks, and eventually a cavity forms.

@@ -44,7 +44,6 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Palatal Expander Widening Upper Jaw Growth
 ---
-
 ## Understanding Why Your Upper Jaw Might Be Too Narrow
 
 Does your child's upper jaw seem narrow, or are their upper back teeth biting inside their lower back teeth? You're not alone—many kids and teens have what orthodontists call a "transverse deficiency," which is simply a fancy way of saying the upper jaw isn't wide enough. When your jaw is too narrow, several problems can happen. Your back teeth may cross over in an incorrect bite pattern, your front teeth might be crowded together, or your airway could feel restricted. About one in four people has some degree of upper jaw narrowing, so if your orthodontist mentioned this to you, there's a proven treatment that can help.

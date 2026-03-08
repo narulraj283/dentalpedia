@@ -32,7 +32,6 @@ references:
   - title: "Emergency situations and informed consent requirements"
     url: https://www.ncbi.nlm.nih.gov/pubmed/29360262
 ---
-
 When you visit your dentist for treatment, your dentist should explain what they're going to do, why they're doing it, and what could happen as a result. This discussion—and your right to understand it and make your own choice—is called informed consent. It's not just paperwork you sign. It's a conversation where you become an active partner in decisions about your dental health.
 
 ## Your Right to Understand Your Treatment
@@ -86,6 +85,9 @@ If you have difficulty understanding medical information, your dentist should sp
 ## Emergency Exceptions
 
 In genuine emergencies—like a severe infection threatening your health—your dentist might need to provide emergency treatment quickly without having a long conversation first. However, emergency treatment should be limited to stabilizing your condition. Once the emergency is over, your dentist should still explain everything that happened and get your consent before doing any additional treatment.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

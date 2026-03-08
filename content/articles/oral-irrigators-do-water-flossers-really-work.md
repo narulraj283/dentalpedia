@@ -16,7 +16,6 @@ references:
   - "Goyal CR, Lyle DM, Qaqish JG, Schuller R. Evaluating the Plaque Removal Efficacy of a Water Flosser (Waterpik) Compared to String Floss in Interproximal and Subgingival Areas. J Dent Res. 2012;91(Spec Iss A):3732."
   - "Sanz M, Baudet A, Fuenmayor G, et al. Effect of Water Pressure on Biofilm Disruption. J Clin Periodontol. 2003;30(10):927-933."
 ---
-
 ## Do Water Flossers Actually Work?
 
 You've probably seen water flossers advertised—devices that shoot a stream of water between your teeth instead of using string. They're appealing because they're easier than traditional floss, especially for people with arthritis or limited dexterity. But do they actually remove plaque as effectively as string floss? The short answer: yes, but it depends on your teeth and technique.

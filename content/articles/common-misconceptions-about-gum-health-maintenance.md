@@ -20,7 +20,6 @@ references:
   - "Sanz M, et al. Efficacy of antimicrobial mouthrinses and toothpastes in controlling plaque and gingivitis. Journal of Clinical Periodontology. 2015;42(S16):S95-S105."
   - "Van Dyke TE, Dave S. Risk factors for periodontitis. Journal of the International Academy of Periodontology. 2005;7(1):3-7."
 ---
-
 You want healthy gums. So you brush harder, maybe more frequently, and hope that fixes the problem. But healthy gum maintenance is actually about gentle technique, daily consistency, and understanding what normal gums should feel and look like.
 
 ## Myth: Harder Brushing Means Healthier Gums
@@ -89,12 +88,6 @@ Age alone doesn't prevent gum health improvement. Older adults can achieve gum h
 
 Older adults often need more frequent professional care and might benefit from antimicrobial rinses more than younger patients.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about gum health maintenance and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed gum health maintenance, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -103,7 +96,7 @@ Once you've addressed gum health maintenance, maintaining your results requires 
 
 Healthy gums require gentle daily brushing, consistent flossing, professional care appropriate to your disease risk, and understanding that bleeding is a sign needing attention, not a reason to avoid the area. Professional care and home care work together—neither replaces the other. Most gum disease is reversible if addressed early with proper home care and professional treatment.
 
-> **Key Takeaway:** Taking care of your gums involves gentle technique, daily care, and understanding that bleeding is usually a sign of disease, not brush damage.
+> **Key Takeaway:** You want healthy gums. So you brush harder, maybe more frequently, and hope that fixes the problem.
 
 ## Related Articles
 

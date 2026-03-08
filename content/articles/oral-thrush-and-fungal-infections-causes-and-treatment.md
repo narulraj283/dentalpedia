@@ -16,7 +16,6 @@ references:
   - "Epstein JB, Polsky B. Oropharyngeal Candidiasis: A Review of Its Clinical Spectrum and Current Therapies. Clin Ther. 1998;20(1):40-57."
   - "Neville BW, Damm DD, Chi AC, Allen CM. Oral and Maxillofacial Pathology. 4th ed. Philadelphia: Saunders/Elsevier; 2016."
 ---
-
 ## What Is Oral Thrush?
 
 Oral thrush is a fungal infection caused by a yeast called Candida albicans. Everyone has small amounts of this yeast in their mouth—it's normal and harmless. But when something allows the yeast to overgrow, it creates white patches on your tongue, cheeks, or palate, causing burning sensation, difficulty swallowing, or altered taste. The good news: thrush is easily treatable. The important news: it's a symptom something else is going on that enabled the yeast overgrowth.
@@ -115,7 +114,7 @@ The right approach depends on your individual needs, overall health, and what yo
 
 Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
 
-> **Key Takeaway:** Oral thrush is easily treatable with antifungal medication, but the real issue is what allowed it to develop. Identify and address the underlying cause (antibiotics, steroids, dry mouth, denture wear, or immune compromise) to prevent recurrence. If thrush develops without obvious triggers, discuss with your doctor whether testing for serious immunosuppression is warranted.
+> **Key Takeaway:** Oral thrush is a fungal infection caused by a yeast called Candida albicans.
 
 ## Related Articles
 

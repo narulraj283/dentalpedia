@@ -44,12 +44,11 @@ references:
     year: 2007
     publication: "Journal of Oral Rehabilitation"
 ---
-
-Your teeth are supposed to be strong and last your whole life. But sometimes something happens to your enamel—the hard outer coating of your teeth—that wears it away. This is called enamel erosion, and it's becoming more common than ever. The good news is that if you catch it early, there's a lot you can do to stop it and even fix it. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+Your teeth are supposed to be strong and last your whole life. But sometimes something happens to your enamel—the hard outer coating of your teeth—that wears it away. This is called enamel erosion, and it's becoming more common than ever. The good news is that if you catch it early, there's a lot you can do to stop it and even fix it.
 
 ## What Is Enamel Erosion and Why Should You Care?
 
-Enamel erosion happens when acid eats away at your tooth surface. It's different from cavities—it's not about bacteria, it's about chemical damage. Imagine soaking your teeth in lemon juice over time, and you get the idea. This can happen from acid reflux, eating too many acidic foods, drinking lots of sports drinks or soda, or even bulimia. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+Enamel erosion happens when acid eats away at your tooth surface. It's different from cavities—it's not about bacteria, it's about chemical damage. Imagine soaking your teeth in lemon juice over time, and you get the idea. This can happen from acid reflux (heartburn/GERD), eating too many acidic foods, drinking lots of sports drinks or soda, or even bulimia.
 
 The tricky part is that once enamel is gone, your body can't grow it back. Enamel doesn't have living cells like your skin does, so damaged enamel is permanent unless you get it fixed. That's why prevention and early treatment are so important. Your dentist can assess how much erosion you have and what caused it, then create a plan to stop the damage and restore your smile.
 
@@ -145,19 +144,16 @@ Standardized documentation of erosion findings facilitates long-term monitoring 
 
 Treatment planning prioritizes esthetic areas (anterior teeth visible during smiling) while deferring posterior restorations if stable and asymptomatic. Conservative approach preserves tooth structure and delays more extensive treatment until functional compromise develops.
 
-## Conclusion
 
-Enamel erosion management depends critically on severity staging and underlying etiology identification. Early erosion responds well to fluoride varnish, CPP-ACP application, and remineralizing toothpaste combined with dietary modification. Moderate erosion requires direct or indirect composite/ceramic restoration, often employing Dahl concept mechanics for posterior cases.
-
-Severe erosion necessitates comprehensive rehabilitation addressing increased vertical dimension through graduated restorative phases. Standardized photography and BEWE scoring enable objective monitoring. Identifying intrinsic acid sources through palatal erosion patterns guides appropriate medical referral. Patient compliance with dietary modification and professional fluoride protocols significantly influences long-term outcomes and progression arrest.
+Related reading: [Common Misconceptions About Toothbrush Selection](/article/common-misconceptions-about-toothbrush-selection.html) and [Crown Preparation: Creating Optimal Tooth Shape](/article/crown-preparation-creating-tooth-shape.html).
 
 ## Conclusion
 
-Enamel erosion is serious because you can't grow it back, but you have excellent options for stopping it and fixing it. Early erosion responds well to fluoride treatments, special remineralizing products, and diet changes—if you catch it early. Moderate erosion usually needs tooth-colored fillings or crowns to restore the structure.
+Enamel erosion is serious because you can't grow it back, but you have excellent options for stopping it and fixing it. Early erosion responds well to fluoride treatments, special remineralizing products, and diet changes—if you catch it early. Moderate erosion usually needs tooth-colored fillings or crowns to restore the structure. Severe erosion with many affected teeth needs comprehensive treatment with multiple restorations.
 
-Severe erosion with many affected teeth needs comprehensive treatment with multiple restorations. Taking photos and monitoring your teeth helps you see whether your prevention efforts are working. Understanding whether your erosion comes from diet or acid reflux helps your dentist give you the best advice. With the right combination of professional treatment and prevention habits, you can stop erosion in its tracks and protect your teeth for life.
+With the right combination of professional treatment and prevention habits—managing acid sources, protecting your enamel with fluoride, and monitoring your progress—you can stop erosion in its tracks and protect your teeth for life.
 
-> **Key Takeaway:** Your teeth are supposed to be strong and last your whole life.
+> **Key Takeaway:** Early detection of enamel erosion is critical because fluoride treatments and dietary changes can stop progression, while established erosion requires professional restoration. Identifying the cause (diet versus acid reflux) determines your prevention strategy—work with your dentist to address the underlying cause and protect your remaining teeth.
 
 ## Related Articles
 

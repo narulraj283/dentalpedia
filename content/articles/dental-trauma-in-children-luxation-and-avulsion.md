@@ -20,7 +20,6 @@ references:
   - "Okada M, Miura K, Torii Y. Luxation injuries in primary dentition. Eur Arch Paediatr Dent. 2016;17(3):159-165."
   - "Skaare AB, Jacobsen I. Dental injuries in Norwegians aged 7-18 years. Dent Traumatol. 2003;19(2):67-71."
 ---
-
 ## How Common Is Childhood Dental Trauma?
 
 About 30% of children experience traumatic dental injury by adolescence. Falls during play cause most injuries in young children. Bicycle accidents and interpersonal violence cause injuries in older kids.
@@ -103,12 +102,6 @@ Parents require realistic prognosis. Avulsed permanent teeth replanted within 30
 
 Follow-up requires compliance: 1 week (assess healing, pain control), 3-4 weeks (pulp vitality testing, splint removal), 3 months (comprehensive assessment), 6 months (resorption assessment), and 12 months (healing confirmation).
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about dental trauma in children luxation and avulsion and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed dental trauma in children luxation and avulsion, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -117,7 +110,7 @@ Once you've addressed dental trauma in children luxation and avulsion, maintaini
 
 Pediatric dental trauma requires systematic immediate response, appropriate initial intervention, and meticulous long-term follow-up. Avulsed permanent teeth should be replanted immediately; luxated teeth require individualized management. Pulp vitality monitoring, resorption surveillance, and endodontic intervention when indicated optimize tooth preservation. Understanding trauma management protocols enables appropriate response and optimal outcomes.
 
-> **Key Takeaway:** About 30% of children experience traumatic dental injury by adolescence. Falls during play cause most injuries in young children.
+> **Key Takeaway:** About 30% of children experience traumatic dental injury by adolescence.
 
 ## Related Articles
 

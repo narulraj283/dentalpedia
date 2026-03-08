@@ -43,7 +43,6 @@ subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
 title: 'Dental Anesthesia Timeline: Onset, Duration'
 ---
-
 ## How Long Until You Can't Feel Anything? Understanding Anesthesia Timing
 
 When your dentist tells you they're going to numb your tooth, you might wonder exactly how long you need to wait before they start working, how long the numbness lasts, and when you'll feel normal again. The answer depends on which type of anesthesia they use. Different anesthetics kick in at different speeds and last for different amounts of time. Whether it's just a simple numbing injection or sedation, understanding the timeline helps you know what to expect and plan your day accordingly. [Learn more about sedation safety during procedures](/article/sedation-safety-monitoring-during-procedure.html) to understand how your dentist keeps you safe.

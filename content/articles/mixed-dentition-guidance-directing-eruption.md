@@ -28,7 +28,6 @@ references:
   - title: "Functional appliance use in mixed dentition: morphologic changes and treatment stability"
     url: https://www.ncbi.nlm.nih.gov/pubmed/22701589
 ---
-
 Mixed dentition is the phase when your child has both baby teeth and permanent teeth—roughly ages 6-12. During this period, your child's teeth undergo dramatic changes as permanent teeth push out baby teeth and establish positions. Early orthodontic guidance during mixed dentition can prevent severe bite problems later, potentially eliminating or simplifying the need for complex braces in adolescence. However, not every child needs early treatment, and understanding which situations warrant intervention helps you make informed decisions.
 
 ## What Is Mixed Dentition, and Why It Matters
@@ -75,17 +74,14 @@ Early treatment typically costs $1,500-3,000 and might take 18-24 months. Learni
 
 Your orthodontist's case selection matters tremendously. Ethical orthodontists select early treatment cases where evidence suggests meaningful benefit. Orthodontists recommending early treatment for every child with mild crowding are prioritizing profit over patient benefit.
 
-## Questions to Ask Your Orthodontist
-
-Ask: "What specific problem are you treating or monitoring?" "What happens if we don't treat now?" "Does treatment now prevent need for braces later?" "What are treatment costs and timeline?" "What are alternatives if we proceed?"
-
-Honest answers differentiate appropriate early treatment from unnecessary intervention. If your orthodontist can't explain specifically what problem justifies treatment, seek a second opinion.
-
 ## Long-Term Outcomes and Success
 
 Research shows that children receiving well-planned, indicated mixed dentition treatment have superior long-term outcomes compared to children receiving no early treatment—IF case selection was appropriate. However, routine early treatment of all children with minor crowding shows no significant advantage over watchful monitoring followed by comprehensive treatment if needed.
 
 The real issue is case selection. Your orthodontist's judgment about which children need early treatment determines outcomes. Excellent case selection creates the beneficial outcomes research documents. Indiscriminate treatment application creates cost without benefit.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

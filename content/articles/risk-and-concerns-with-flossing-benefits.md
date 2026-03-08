@@ -47,7 +47,6 @@ subcategory: Brushing, Flossing & Hygiene
 subcategory_slug: brushing-flossing
 title: Risk and Concerns with Flossing Benefits
 ---
-
 ## What the Evidence Actually Says About Flossing
 
 You've probably heard that you should floss daily, but here's a surprising fact: the scientific evidence supporting flossing for cavity prevention is weak. Multiple large studies have found that flossing doesn't strongly prevent cavities compared to brushing alone. Dentists still recommend it because areas between teeth do collect plaque, and plaque causes problems. But the research suggests flossing's benefits are less dramatic than marketing makes it sound.
@@ -81,14 +80,6 @@ Waxed floss glides through contacts more readily than unwaxed and reduces trauma
 ## Choosing Your Interdental Cleaning Method
 
 The best interdental cleaning tool is whichever one you'll actually use consistently with good technique. If flossing hurts or feels impossible, you're not alone, and there are good alternatives. Interdental brushes come in multiple designs—cylindrical, conical, or tapered—to fit different tooth spacing. Choosing the right size prevents both ineffectiveness (brush too small) and tissue trauma (brush too large).
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about flossing: does it really work, and what are your... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

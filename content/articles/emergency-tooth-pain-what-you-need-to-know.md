@@ -22,7 +22,6 @@ references:
   - "Nair PNR. Pathogenesis of apical periodontitis and the causes of endodontic failures. Crit Rev Oral Biol Med. 2004;15(6):348-381."
   - "Hargreaves KM, Goodis HE. Seltzer and Bender's Dental Pulp. Quintessence Publishing; 2002."
 ---
-
 Tooth pain that requires emergency treatment is different from routine tooth sensitivity or minor discomfort. Knowing when you have a true emergency helps you get the right care at the right time. This guide helps you recognize serious tooth problems and understand what happens when you seek emergency dental treatment.
 
 ## Is Your Tooth Pain a True Emergency?
@@ -109,7 +108,7 @@ Once you've had an emergency tooth problem, you're at higher risk of future emer
 
 Tooth pain that requires emergency treatment is your body's way of signaling that something needs immediate attention. The sooner you seek treatment, the simpler your recovery usually is and the better your long-term outcome. Modern emergency dental care successfully resolves most tooth emergencies and allows you to keep your natural tooth. If you're experiencing severe tooth pain, contact your dentist immediately or go to the emergency room if you have systemic symptoms. Talk to your dentist about which treatment options are right for your specific situation.
 
-> **Key Takeaway:** Tooth pain that requires emergency treatment is different from routine tooth sensitivity or minor discomfort.
+> **Key Takeaway:** Knowing when you have a true emergency helps you get the right care at the right time. This guide helps you recognize serious tooth problems and understand what happens when you seek emergency dental treatment.
 
 ## Related Articles
 

@@ -32,7 +32,6 @@ references:
   - title: "Strauman and Lumineer Ceramic Veneers: A Comparative Analysis of Clinical Survival and Satisfaction Rates"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26365061
 ---
-
 ## What Are Lumineers?
 
 Lumineers are ultra-thin ceramic veneers—extremely thin shells of porcelain applied to the front surface of your teeth to improve their appearance. What makes Lumineers special is that they're manufactured to be incredibly thin (about 0.2 to 0.3 millimeters) and require little to no tooth preparation. This means your natural tooth stays largely intact underneath the veneer, which appeals to people who want to preserve their tooth structure.
@@ -103,9 +102,11 @@ You're a good candidate if you want modest tooth improvements, have healthy unde
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Lumineers and comparable minimal-prep veneer systems represent valid treatment options for carefully selected patients with minor esthetic concerns and favorable tooth anatomy. If you have questions, your dentist can help you understand your options. They work well for modest cosmetic improvements and have good success rates when properly bonded. Limitations include less shade control and dependence on perfect bonding technique. True reversibility is somewhat overstated, and cost is comparable to traditional veneers.
 
-> **Key Takeaway:** Lumineers are ultra-thin ceramic veneers that require minimal tooth preparation, preserving more natural tooth structure than traditional veneers. They work well for modest cosmetic improvements and have good success rates when properly bonded. Limitations include less shade control and dependence on perfect bonding technique. True reversibility is somewhat overstated, and cost is comparable to traditional veneers.
+
+
+> **Key Takeaway:** Lumineers are ultra-thin veneers that require little to no tooth preparation. Learn how they work, what they cost, and whether they're right for you.
 
 ## Related Articles
 

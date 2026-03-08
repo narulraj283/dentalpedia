@@ -32,7 +32,6 @@ references:
   - title: "Retreatment timing and efficacy in repeat bleaching procedures"
     url: https://www.ncbi.nlm.nih.gov/pubmed/20345678
 ---
-
 ## How Much Whiter Can Your Teeth Get?
 
 When you choose professional teeth whitening, you're probably wondering how much lighter your smile will actually become. Here's the good news: most people see noticeable results after just one appointment. In-office whitening treatments typically brighten your teeth by several shades in a single session. Some people achieve even better results with multiple appointments spaced a week or two apart. Learning more about [Before-and-after Smile Transformations](/article/before-and-after-smile-complete-guide.html) can help you understand this better.
@@ -89,9 +88,10 @@ When stains are simply too dark or stubborn for whitening alone, cosmetic bondin
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about what to expect from professional teeth whitening or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Professional teeth whitening typically lightens your smile noticeably within one appointment, with results lasting 6-12 months depending on your diet and habits. Realistic expectations before treatment lead to greater satisfaction—discuss your specific goals with your dentist so you understand what's actually achievable with your starting tooth shade and stain type.
+
+> **Key Takeaway:** When you choose professional teeth whitening, you're probably wondering how much lighter your smile will actually become.
 
 ## Related Articles
 

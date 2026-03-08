@@ -20,7 +20,6 @@ references:
   - "Tollaro I, Baccetti T, Franchi L, Tanasescu CD. Prevalence of posterior crossbite in the mixed dentition and its association with skeletal and functional variables: a longitudinal study. Am J Orthod Dentofacial Orthop. 1996;110(4):410-417."
   - "Secanho R, Pandis N, Zasčiūraitė E, Cobourne MT. Open bite phenotypes: etiology and management perspectives. Am J Orthod Dentofacial Orthop. 2022;161(3):308-322."
 ---
-
 A crossbite is when your upper and lower teeth don't align properly when you bite down. It's more common than you might think—it affects 7 to 16 percent of people who need braces. A crossbite can involve one tooth or multiple teeth, and it can affect your front teeth or your back teeth. If you've been told you have a crossbite, here's what you need to know about how it develops, why it matters, and how it's treated.
 
 ## Understanding Crossbites
@@ -80,6 +79,9 @@ Treatment should result in not just good-looking teeth but also a comfortable, e
 Research shows that properly treated crossbites remain stable long-term when you follow retention recommendations. Most people maintain their corrected bite beautifully for 10 to 15 years after treatment ends if they wear their retainers as directed.
 
 Some relapse—slight drift back toward the original position—is normal and expected. This is why long-term retention is important. Most orthodontists recommend wearing a retainer several nights per week indefinitely after the initial retention period.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

@@ -31,7 +31,6 @@ subcategory: Endodontic Overview
 subcategory_slug: overview-endo
 title: 'Calcified Canals: Root Canal Obstruction and Pulpal'
 ---
-
 ## What Are Calcified Canals?
 
 Calcified canals occur when the root canal space—the hollow channel inside your tooth's root—becomes partially or completely filled with calcified material. This mineral buildup creates an obstruction that can make root canal treatment challenging. The tooth's interior essentially hardens over time, blocking access to the root canal that endodontists normally use to treat tooth problems.
@@ -100,19 +99,11 @@ Occasionally, calcification is so severe that the endodontist cannot locate any 
 
 Your dentist will discuss all options thoroughly, helping you understand the likelihood of success before treatment begins.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about calcified canals root canal obstruction and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
-
 ## Conclusion
 
 Calcified canals represent a treatment challenge but not a hopeless situation. Modern endodontic techniques successfully treat 60-85% of calcified canal cases, saving teeth that previously might have been lost. Specialized instruments, operating microscopes, and advanced imaging make treatment possible even in difficult cases.
 
-> **Key Takeaway:** Calcified canals block the root canal space, but endodontists can successfully treat them using specialized techniques.
+> **Key Takeaway:** Calcified canals occur when the root canal space—the hollow channel inside your tooth's root—becomes partially or completely filled with calcified material.
 
 ## Related Articles
 

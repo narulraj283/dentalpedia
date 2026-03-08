@@ -14,7 +14,6 @@ references:
   - "Kihn PW. Vital tooth bleaching. Dent Clin North Am. 2007;51(2):319-331."
   - "De Moor RJ, Plasschaert AJ. Tooth bleaching: efficacy and safety. Int Dent J. 2006;56(2):102-108."
 ---
-
 Over-the-counter whitening strips don't work well for you, and professional in-office whitening is expensive. Custom whitening trays might be the perfect middle ground. You wear a tray filled with bleaching gel while you sleep, and over 2-4 weeks your teeth get progressively whiter. It's safer and more effective than drugstore alternatives, more affordable than in-office treatment, and convenient because you do it at home.
 
 ## How Custom Whitening Trays Work
@@ -95,7 +94,7 @@ Most people feel the improvement in their appearance justifies the cost and time
 
 Custom whitening trays are an effective, safe, and affordable way to whiten your teeth. With proper use and realistic expectations, most people achieve meaningful whitening that boosts confidence. Discuss with your dentist whether this option is right for you.
 
-> **Key Takeaway:** Custom whitening trays deliver bleaching gel safely and effectively while you sleep. Learn how they work and how to get the best results.
+> **Key Takeaway:** Over-the-counter whitening strips don't work well for you, and professional in-office whitening is expensive.
 
 ## Related Articles
 

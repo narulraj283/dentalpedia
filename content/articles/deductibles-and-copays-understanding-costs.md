@@ -14,7 +14,6 @@ references:
   - "American Dental Association. Health Insurance Resource Center: Dental Insurance Terms and Definitions. Chicago: ADA; 2023."
   - "Dental Benefits Institute. The Evolution of Dental Benefit Plans: Analysis of Covered Services 2000-2023. Washington DC: DBI; 2023."
 ---
-
 ## What Is a Deductible?
 
 Your dental insurance deductible is the amount of money you have to pay out of your own pocket before your insurance company starts paying for anything. It's like an entry fee to the insurance game. Most dental plans have deductibles ranging from $25 to $150 per year, with $50 or $100 being common.
@@ -71,7 +70,7 @@ Dental insurance deductibles, copays, and annual maximums create a complex cost-
 
 Talk to your dentist's office about the cost-sharing for any recommended treatment and ask about options if cost is a barrier.
 
-> **Key Takeaway:** A guide to understanding deductibles, copays, and how to maximize your dental insurance benefits.
+> **Key Takeaway:** Your dental insurance deductible is the amount of money you have to pay out of your own pocket before your insurance company starts paying for anything.
 
 ## Related Articles
 

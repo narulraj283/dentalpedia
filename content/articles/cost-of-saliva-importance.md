@@ -22,7 +22,6 @@ references:
   - "Maiorino MI, Chiodini P, Bellastella G, et al. Insulins and oral agents for type 2 diabetes treatment: systematic review of randomized controlled trials. Eur Rev Med Pharmacol Sci. 2015;19(18):3584-3606."
   - "Saliva Substitutes and Stimulants for Dry Mouth. Agency for Healthcare Research and Quality. 2016. https://www.ahrq.gov"
 ---
-
 ## Why Your Saliva Matters
 
 Saliva protects your teeth and gums in multiple ways: lubricating, buffering acid, fighting bacteria, and strengthening enamel. If you don't have enough saliva, your cavity risk jumps 3-5 times higher, gum disease develops faster, and fungal infections happen frequently.
@@ -203,9 +202,6 @@ Managing dry mouth improves quality of life in ways beyond dental health.
 
 For more information, see [Do Mineral Toothpastes Actually Work Better?](/article/minerals-in-toothpaste-effectiveness.html) and [Common Misconceptions About Fluoride Benefits](/article/common-misconceptions-about-fluoride-benefits.html).
 
-## Conclusion
-
-Dry mouth affects 10-15% of people and requires lifelong management costing $1,800-$4,700 yearly if managed well. Untreated, it costs $10,500-$33,000 in treatment of preventable problems. Early detection through testing ($25-$50) and proper management—including saliva replacement ($600-$2,400 yearly), protective treatments ($500-$1,200 yearly), and professional monitoring—prevents serious complications. Talk to your dentist if you have dry mouth symptoms. Early intervention saves thousands in future treatment.
 
 ## Conclusion
 
@@ -213,7 +209,7 @@ Medical insurance often covers dry mouth medications (pilocarpine, cevimeline) w
 
 Dental insurance might cover enhanced preventive care (fluoride applications, frequent cleanings) at normal preventive benefit levels (often 100% coverage).
 
-> **Key Takeaway:** Discover why saliva matters for your teeth and what to do if you don't have enough saliva.
+> **Key Takeaway:** Saliva protects your teeth and gums in multiple ways: lubricating, buffering acid, fighting bacteria, and strengthening enamel.
 
 ## Related Articles
 
@@ -221,5 +217,5 @@ Dental insurance might cover enhanced preventive care (fluoride applications, fr
 - [Milk and Your Teeth: Does It Help or Hurt?](/article/milk-consumption-lactose-calcium-and-cavity-prevention.html)
 - [How to Prevent Tooth Decay: A Complete Guide](/article/how-to-tooth-decay-prevention.html)
 - [Caregiver Dental Education Programs for Geriatric](/article/caregiver-dental-education-programs.html)
-- [Triclosan in Dentistry - Antimicrobial Properties,](/article/triclosan-broad-spectrum-antibacterial.html)
+- [Triclosan in Dentistry - Antimicrobial Properties](/article/triclosan-broad-spectrum-antibacterial.html)
 

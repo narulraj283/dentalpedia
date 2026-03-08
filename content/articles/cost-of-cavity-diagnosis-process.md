@@ -22,7 +22,6 @@ references:
   - "Kühnisch J, Dietz W, Stosser L, et al. Comparison of visual, radiographic, and laser fluorescence methods for detection of occlusal caries. Oper Dent. 2007;32(2):142-149."
   - "Mendes FM, Braga MM, Oliveira LB, et al. Comparison of a laser fluorescence system and visual examination for detecting caries in primary teeth approximal surfaces. Caries Res. 2006;40(2):138-144."
 ---
-
 How do you know if you have a cavity? Your dentist uses several tools to detect cavities, each with different costs and benefits. Some methods are free or cheap, while others use advanced technology. The good news is that early detection—even with the most basic tools—saves you thousands of dollars compared to treating cavities after they've grown large.
 
 ## Visual Examination: The Simplest Method (FREE)
@@ -114,16 +113,6 @@ This monitoring approach requires understanding between you and your dentist abo
 ## Understanding Your Cavity Risk and Diagnostic Plan
 
 Your dentist classifies your risk based on multiple factors related to how cavities develop and progress. If you're at higher risk, understanding your [Specific Risk Factors](/article/cost-of-cavity-risk-factors.html) helps you make better decisions about which diagnostic tools are most important for your situation.
-
-## Questions to Ask Your Dentist About Your Cavity Risk and Diagnostic Plan
-
-- Based on my history, am I low-risk, moderate-risk, or high-risk for cavities?
-- Which diagnostic tools do you recommend for me specifically?
-- Will my insurance cover these diagnostic tools?
-- How often should I have X-rays?
-- Do you use laser fluorescence, and would it help in my case?
-- If you find a small cavity, will you treat it immediately or monitor it?
-- What can I do at home to prevent cavities and reduce my cavity risk?
 
 ## Conclusion
 

@@ -20,7 +20,6 @@ references:
   - "Blanton PL, Jeske AH. Dental anesthesia and pain control. 3rd ed. Mosby. 2022."
   - "Hersh EV, Pinto A, Moore PA. Adverse Drug Interactions Involving Clinical Medications and Dental Drugs. Journal of the American Dental Association. 2023;138(12):1541-1554."
 ---
-
 ## What Is Twilight Sedation?
 
 Twilight sedation, also called conscious sedation, is a light anesthesia that helps you relax during dental work while staying awake and responsive. You won't remember much about the procedure, which many people find comforting. It's different from general anesthesia, where you're completely asleep—with twilight sedation, you can still hear your dentist and respond if needed, but you're so relaxed you don't care what's happening.
@@ -75,12 +74,6 @@ Twilight sedation adds $200-600 to your dental visit cost, depending on how much
 
 People with severe dental anxiety, those who need extensive treatment, patients with a strong gag reflex, and people who simply can't sit still for long procedures all benefit from twilight sedation. Children with severe anxiety or behavioral challenges sometimes receive oral sedation (given by mouth) rather than IV sedation.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about conscious sedation twilight sleep benefits and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed conscious sedation twilight sleep benefits, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -89,7 +82,7 @@ Once you've addressed conscious sedation twilight sleep benefits, maintaining yo
 
 Twilight sedation allows anxious patients to receive necessary dental treatment comfortably and safely. With continuous monitoring and trained professionals, conscious sedation offers a bridge between your anxiety and getting your teeth healthy. Many people who've struggled with dental anxiety find that one sedated appointment helps them move forward with their oral health.
 
-> **Key Takeaway:** Twilight sedation lets you relax during dental work while staying safe and awake—perfect if you're nervous about dental treatment.
+> **Key Takeaway:** Twilight sedation, also called conscious sedation, is a light anesthesia that helps you relax during dental work while staying awake and responsive.
 
 ## Related Articles
 

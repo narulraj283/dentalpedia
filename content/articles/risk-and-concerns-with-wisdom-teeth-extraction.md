@@ -46,7 +46,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Risk and Concerns with Wisdom Teeth Extraction
 ---
-
 ## Why Do Wisdom Teeth Come Out?
 
 Wisdom teeth extraction is one of the most common surgical procedures dentists perform, with millions done every year. Your wisdom teeth are your third set of molars that come in during your late teens or early twenties. Sometimes they come in perfectly and cause no problems. But often, they're impacted (stuck under the gum or bone), partially erupted, or positioned at odd angles that make them difficult to clean. When your dentist recommends extraction, it's usually because keeping them would create problems like infection, damage to neighboring teeth, or chronic pain.

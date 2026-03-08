@@ -44,23 +44,26 @@ references:
     title: "Soft Tissue Management in Implant Dentistry"
     journal: "International Journal of Periodontics and Restorative Dentistry"
 ---
-
 ## Recovery Instructions After Oral Surgery
 
-Following your dentist's post-operative instructions is as important as the surgery itself. What you do (or don't do) in the first few days dramatically affects healing speed, pain levels, and whether complications develop. Your surgical team will give you detailed instructions, but here are the general guidelines for different types of procedures. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
+Following your dentist's post-operative instructions is as important as the surgery itself. What you do (or don't do) in the first few days dramatically affects healing speed, pain levels, and whether complications develop. Your surgical team will give you detailed instructions, but here are the general guidelines for different types of procedures.
 
 ## Right After Tooth Extraction
 
 **First 30-45 minutes:** Bite down on gauze with firm (but not crushing) pressure. Keep it dry—don't let saliva soak it too much. If bleeding continues, you might need to change the gauze once or twice.
 
-This period is critical for clot formation. The blood clot is your body's natural protection for the wound, so keeping it undisturbed is essential. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
+This period is critical for clot formation. The blood clot is your body's natural protection for the wound, so keeping it undisturbed is essential.
 
 **First 24 hours:**
-- **Rest completely.** No work, no exercise, no activities. Your heart rate elevation increases bleeding. Rest with your head elevated on 2-3 pillows, not flat. Elevation matters because it reduces blood pressure in the head, which reduces bleeding.
+- **Rest completely.** No work, no exercise, no activities. Your heart rate elevation increases bleeding. Rest with your head elevated on 2-3 pillows, not flat.
+
+Elevation matters because it reduces blood pressure in the head, which reduces bleeding.
 - **Soft foods and liquids only.** Soups, smoothies, yogurt, ice cream. Nothing hot (heat increases bleeding and inflammation). No straws (the suction can dislodge the blood clot).
 
 Don't spit—just let saliva drool into a tissue. Suction is the enemy of newly formed clots.
-- **Ice first 24 hours:** 20 minutes on, 20 minutes off. This reduces swelling and pain by constricting blood vessels. The first 24 hours is when you can make the biggest difference in swelling, so don't skip this.
+- **Ice first 24 hours:** 20 minutes on, 20 minutes off. This reduces swelling and pain by constricting blood vessels.
+
+The first 24 hours is when you can make the biggest difference in swelling, so don't skip this.
 - **No smoking or alcohol** for at least 72 hours, ideally a week. Both increase bleeding and prevent healing. Smoking reduces oxygen to the healing tissue. Alcohol thins blood and interferes with immune response.
 
 **Days 2-5:**
@@ -160,11 +163,15 @@ This is why follow-up appointments matter—they're not optional.
 
 Post-operative instructions aren't suggestions—they're based on how healing works biologically. Following them prevents complications, reduces pain, speeds healing, and gets you back to normal faster. The 10-14 days after surgery are critical. Take them seriously, follow instructions exactly, and contact your dentist if something seems wrong.
 
+
+Related reading: [Risks and Concerns with Complex Tooth Extractions](/article/risk-and-concerns-with-complex-extractions.html) and [Risk and Concerns with Oral Surgery Recovery Timeline](/article/risk-and-concerns-with-oral-surgery-recovery-timeline.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about post-operative instructions: what patients need to know or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Following your dentist's post-operative instructions is as important as the surgery itself. Your dentist can help you understand what steps are right for your specific needs.
+
+> **Key Takeaway:** Following your dentist's post-operative instructions is as important as the surgery itself.
 
 ## Related Articles
 

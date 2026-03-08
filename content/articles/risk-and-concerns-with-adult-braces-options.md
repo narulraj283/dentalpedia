@@ -18,7 +18,6 @@ references:
   - title: "Ong E, et al. Orthodontic treatment of adult patients. Aust Dent J. 2011;56(2):131-146."
     url: https://pubmed.ncbi.nlm.nih.gov/21623802
 ---
-
 ## Getting Braces as an Adult - What You Should Know
 
 You've been thinking about straightening your smile and wondering if braces as an adult are really an option. You've heard that braces work better on younger patients, or that adult teeth can't move as easily, and you're worried about complications. The truth is that teeth can move at any age, and adult orthodontics is increasingly common and successful. However, adult braces do require some treatment modifications because your bones have matured and your dental situation is often more complex than a teenager's. This guide explains what you need to know about adult orthodontics, including realistic expectations and specific concerns for adults.
@@ -52,14 +51,6 @@ Your orthodontist will recommend based on your specific malocclusion and treatme
 ## Why Treatment Takes Longer in Adults
 
 Adult bone density and slower remodeling mean tooth movement is intentionally slower. This protects your bone and reduces root resorption risk. Additionally, complex bite relationships in adults might require additional treatment phases. The extended timeline (24-36 months vs. 18-24 months for teens) should be explicitly discussed during treatment planning.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about getting braces as an adult - what you should know and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

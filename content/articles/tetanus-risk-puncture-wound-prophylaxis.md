@@ -32,7 +32,6 @@ references:
   - title: "American Dental Association. Infection Control in Dentistry. Chicago: American Dental Association; 2015."
     url: https://pubmed.ncbi.nlm.nih.gov/27015809
 ---
-
 ## Tetanus and Dental Injuries
 
 Tetanus is a rare but serious bacterial infection caused by Clostridium tetani, a bacterium found in soil and sometimes in your mouth. This infection can result from certain types of dental injuries, particularly deep puncture wounds from broken teeth or contaminated objects. The good news: tetanus is preventable through vaccination and is becoming increasingly rare in vaccinated populations. If you've had a dental injury, understanding tetanus risk and prevention is important.
@@ -64,12 +63,6 @@ Beyond vaccination, how your dentist manages your wound matters. They'll thoroug
 ## Dental Injuries That Increase Tetanus Risk
 
 Dental trauma like tooth loss with gum tears, fractured teeth with gum damage, or oral puncture wounds from broken teeth all pose tetanus risk because your mouth contains bacteria. Even seemingly minor puncture wounds from tooth fragments carry risk because they're contaminated and hard to clean. If you've had a significant dental injury, mention it to your dentist so they can assess tetanus risk and provide appropriate prophylaxis.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss tetanus risk puncture wound prophylaxis, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

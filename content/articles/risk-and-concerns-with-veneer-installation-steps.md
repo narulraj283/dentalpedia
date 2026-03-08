@@ -32,7 +32,6 @@ references:
   - title: "Shillingburg HT, Jacobi R, Brackett SE. Fundamentals of tooth preparation for cast metal and porcelain restorations. Quintessence Publishing. 1987."
     url: https://pubmed.ncbi.nlm.nih.gov/3333227
 ---
-
 ## The Permanent Changes of Veneer Preparation
 
 Getting veneers requires permanently altering your teeth. Your dentist will remove 0.5-0.7 mm of enamel from the front surface of each tooth. This might not sound like much, but it's irreversible. Your body can't regrow enamel. Once it's gone, it's gone forever.
@@ -78,14 +77,6 @@ During tooth preparation, your dentist might accidentally damage adjacent teeth,
 Over-preparation removes too much tooth structure, potentially exposing the nerve and requiring root canal treatment. Under-preparation creates poorly fitting veneers or bulky-looking restorations requiring additional preparation.
 
 Subgingival margin placement (margins below your gum line) is common for esthetic reasons but carries higher risk of gum disease, margin discoloration, and secondary caries compared to supragingival placement.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about risk and concerns with veneer installation steps and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

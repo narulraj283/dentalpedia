@@ -22,7 +22,6 @@ references:
   - "Burström G, Persson GR, Bondjers L, Berglundh T. Ostectomy and osteoaplasty as used in regeneration of coronally repositioned flaps: an experimental study in the dog. J Clin Periodontol. 2000;27(4):255-262."
   - "Deas DE, Moritz AJ. Autogenous bone grafting in periodontal therapy. Dent Clin North Am. 2003;47(3):545-563."
 ---
-
 If you show a lot of gum when you smile—sometimes called a "gummy smile"—you might have thought about cosmetic gum shaping. This is a procedure that removes or reshapes excess gum tissue to make your teeth look longer and your smile more balanced. Let's talk about what it costs and what to expect.
 
 ## What is a Gummy Smile?
@@ -79,15 +78,11 @@ If you're planning a complete smile redesign with whitening, bonding or veneers,
 
 Many practices offer flexible payment plans to help manage this cost. Zero-interest plans for 12 to 24 months make large smile projects more affordable.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about cosmetic gum shaping and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
 ## Conclusion
 
 Cosmetic gum shaping costs $150 to $300 per tooth or $500 to $1,500 for your entire smile. It's usually not covered by insurance but might be if there's a health reason. Recovery takes 1 to 2 weeks, and results last for many years. Gum shaping often combines with other cosmetic work like crowns or veneers to create a balanced, beautiful smile. Talk to your dentist about whether gum shaping alone or in combination with other treatments would best improve your smile.
 
-> **Key Takeaway:** Learn how gum shaping improves your smile by adjusting gum height. Understand costs, recovery, and whether it's right for your smile.
+> **Key Takeaway:** If you show a lot of gum when you smile—sometimes called a "gummy smile"—you might have thought about cosmetic gum shaping.
 
 ## Related Articles
 

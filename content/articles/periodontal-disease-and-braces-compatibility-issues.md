@@ -46,7 +46,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Periodontal Disease and Braces Compatibility Issues
 ---
-
 ## Can You Get Braces if You Have Gum Disease?
 
 If you've had gum disease and still have some bone loss, you might wonder if you can still straighten your teeth with braces. The answer is yes—but with important modifications and careful planning. Getting braces when you have reduced bone support around your teeth requires a different approach than standard orthodontic treatment. Your orthodontist and periodontist need to work together to protect your remaining bone while moving your teeth.

@@ -32,7 +32,6 @@ references:
   - title: "Ochsenbein C, et al. Surgical reshaping of gingival contours and related tissues for periodontal or restorative purposes. Periodontology 2000. 2001;25:1-14."
     url: https://pubmed.ncbi.nlm.nih.gov/11252382
 ---
-
 ## Understanding Gum Shaping Procedures
 
 Cosmetic gum shaping, also called gingivectomy or crown lengthening, is a surgical procedure where your dentist removes gum tissue (and sometimes bone) to change the appearance of your gumline. These procedures help patients who have a "gummy smile" (where too much gum shows when you smile), uneven gumlines, or who want to show more tooth structure. While these procedures can improve your smile, they come with real risks and complications that you should understand before proceeding.
@@ -86,6 +85,9 @@ Between surgery and crown placement, the exposed dentin (the layer under enamel)
 ## Esthetic Outcomes Don't Always Match Expectations
 
 Many patients report that their gum shaping results don't match what they expected, even though the surgery was technically correct. Healing variability means the final result often differs from pre-operative plans. You might be unhappy with the result even though your dentist did good technical work. Understanding [Cosmetic Smile Design](/article/cosmetic-smile-design-complete-guide.html) before committing to surgery can help set realistic expectations.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

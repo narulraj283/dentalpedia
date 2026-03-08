@@ -22,7 +22,6 @@ references:
   - "Stange K. Smile design for life: Digital planning for a lifetime of esthetics. J Esthet Restor Dent. 2016;28(1):S1-S2."
   - "Christensen GJ. Restorative dentistry: Esthetic advancements. J Am Dent Assoc. 2011;142(8):938-944."
 ---
-
 ## Comprehensive Smile Improvement: Using Multiple Approaches Together
 
 Sometimes improving your smile requires more than a single treatment. A comprehensive approach combining orthodontics, whitening, restorations, and gum shaping can address multiple concerns simultaneously. Let's explore how integrated treatment planning produces better results than single-approach treatment.
@@ -101,15 +100,11 @@ Not all dentists think comprehensively. Some general dentists do single treatmen
 
 Ask potential dentists: Do you use digital smile design? Do you coordinate with specialists? How do you approach patients with multiple smile concerns? Do you think about how individual treatments affect overall smile appearance? Good answers to these questions suggest a dentist who plans comprehensively.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about smile improvement options and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
 ## Conclusion
 
 Comprehensive smile improvement often combines orthodontics, whitening, restorations, and periodontal work for optimal results. Coordinated treatment planning produces better outcomes than addressing single concerns. Gum position, teeth alignment, and overall periodontal health matter alongside tooth appearance. Integrated treatment might complete faster and more satisfactorily than sequential approaches.
 
-> **Key Takeaway:** Learn how integrated treatment planning can help you achieve comprehensive smile improvement through combined approaches.
+> **Key Takeaway:** Sometimes improving your smile requires more than a single treatment.
 
 ## Related Articles
 

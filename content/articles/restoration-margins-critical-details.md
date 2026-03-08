@@ -22,7 +22,6 @@ subcategory: Restorative Overview
 subcategory_slug: overview-restorative
 title: Restoration Margins Critical Details
 ---
-
 ## What Margins Are and Why Dentists Obsess Over Them
 
 The margin of a filling or crown is the edge where the restoration meets your natural tooth. It sounds minor, but margins are actually critical to your restoration's longevity and your tooth's long-term health. A perfectly sealed margin means bacteria can't get in and cause decay underneath your restoration. A poor margin creates a gap where bacteria flourish, eventually leading to decay that can require replacing the entire restoration.

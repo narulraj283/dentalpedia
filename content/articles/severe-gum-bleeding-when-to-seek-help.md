@@ -28,7 +28,6 @@ references:
   - title: "Lowry RB, Renfrew L. Genetically determined bleeding disorders and oral manifestations. J Can Dent Assoc. 1995;61(8):676-682."
     url: https://pubmed.ncbi.nlm.nih.gov/7634283
 ---
-
 ## Understanding When Gum Bleeding Is Serious
 
 Your gums bleed during brushing or flossing sometimes—that's common and usually just means you have gingivitis (mild gum inflammation). But if your gums bleed heavily, bleed on their own without any brushing, or bleed worse than they used to, your body might be trying to tell you something important. Sometimes severe gum bleeding isn't really about your teeth at all—it can signal that something else in your body needs medical attention. Knowing the difference between normal gum bleeding and a warning sign could matter for your health.
@@ -65,7 +64,7 @@ If you notice that you bruise very easily, have frequent nosebleeds, or bleed fr
 
 Leukemia is a serious blood cancer that sometimes first shows up in your mouth. People with leukemia get severe gum bleeding and their gums may swell and look puffy. This happens because leukemia cells are crowding out normal blood cells in your bone marrow, meaning you don't have enough platelets to clot properly. Your gum tissue may feel spongy or look unusually red and angry.
 
-Watch for gum bleeding combined with other symptoms: tiny red or purple spots on your skin (petechiae) that look like a rash, bruises that appear for no reason, frequent nosebleeds, or blood in your urine. Also pay attention to how you feel overall—unexplained fatigue, fever, swollen lymph nodes in your neck, or weight loss paired with gum bleeding deserves prompt medical evaluation. These symptoms together create a pattern that your doctor needs to investigate right away. Learn more about [Warning Signs of Dental and Oral Health Problems](/article/risk-assessment-for-dental-disease-know-your-risk-level.html).
+Watch for gum bleeding combined with other symptoms: tiny red or purple spots on your skin (petechiae) that look like a rash, bruises that appear for no reason, frequent nosebleeds, or blood in your urine. Also pay attention to how you feel overall—unexplained fatigue, fever, swollen lymph nodes in your neck, or weight loss paired with gum bleeding deserves prompt medical evaluation. These symptoms together create a pattern that your doctor needs to investigate right away.
 
 ## Red Flags: When to Call Your Doctor
 
@@ -97,6 +96,9 @@ With this information, your dentist can adjust cleaning techniques, use methods 
 If you already know your gums bleed easily, use gentle techniques that minimize trauma. A soft-bristle toothbrush (not medium or hard) is essential. Brush gently with small circles, not aggressive back-and-forth strokes. Use unwaxed floss and slide it gently between teeth without forcing it. If bleeding is ongoing, ask your dentist about extra-soft floss or water flossers, which are gentler than traditional string floss.
 
 Good oral hygiene actually prevents more bleeding by reducing the plaque that inflames your gums. If you're on blood thinners, your doctor understands that minor gum bleeding is expected—but good oral care prevents the serious infections that could become real problems. Don't stop brushing and flossing just because of slight bleeding; this actually makes things worse by letting plaque accumulate and bacteria multiply.
+
+
+Related reading: [Osseous Surgery Reshaping Bone Architecture](/article/osseous-surgery-reshaping-bone-architecture.html).
 
 ## Conclusion
 

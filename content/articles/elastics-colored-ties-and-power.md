@@ -26,7 +26,6 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: 'Orthodontic Elastics: Force Delivery, Properties'
 ---
-
 ## Understanding Orthodontic Elastics and Rubber Bands
 
 When you have braces, your orthodontist uses elastics (rubber bands) to add extra force that moves your teeth. These come in two main types: small colored ties that hold the wire in the brackets, and larger rubber bands that you might wear between teeth or from upper to lower teeth. These elastics gradually apply force that moves teeth toward their final positions.
@@ -79,11 +78,8 @@ Your orthodontist might combine elastics with other appliances or treatments. Fo
 
 If you have a latex allergy, tell your orthodontist immediately. Latex-free elastics are available. Your orthodontist can ensure all appliances and elastics are latex-free to avoid allergic reactions.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about elastics colored ties and power and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 
@@ -91,7 +87,7 @@ Orthodontic elastics—both the small colored ties and larger rubber bands—are
 
 Work with your orthodontist to understand your specific elastic treatment plan and what you need to do to ensure successful results.
 
-> **Key Takeaway:** When you have braces, your orthodontist uses elastics (rubber bands) to add extra force that moves your teeth.
+> **Key Takeaway:** These come in two main types: small colored ties that hold the wire in the brackets, and larger rubber bands that you might wear between teeth or from upper to lower teeth. These elastics gradually apply force that moves teeth toward their final positions.
 
 ## Related Articles
 

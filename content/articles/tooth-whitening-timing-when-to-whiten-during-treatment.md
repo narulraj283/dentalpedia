@@ -43,7 +43,6 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: When Should You Whiten Your Teeth?Timing Whitening
 ---
-
 ## Why Timing Matters
 
 When you're getting dental work like crowns, veneers, or braces, the timing of whitening is important. If you whiten at the wrong time, you might end up with restorations that don't match your newly whitened teeth, or you might have uneven whitening under your braces. Understanding the right order prevents expensive mistakes and gives you better cosmetic results.
@@ -85,12 +84,6 @@ If you're in braces: Finish braces → Wait 2-4 weeks after removal → Whiten �
 ## Keeping Your Smile White Long-Term
 
 Your whitening gradually fades over time. Limit dark beverages (coffee, red wine, cola), don't smoke, brush regularly, and plan touch-ups: annual professional treatments or 2-3 times per year with custom trays. Tell your dentist you want to maintain your whitening so they can plan maintenance accordingly.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss tooth whitening timing when to whiten during treatment, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

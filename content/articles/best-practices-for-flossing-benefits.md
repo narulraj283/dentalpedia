@@ -22,12 +22,11 @@ references:
   - "O'Neill CA, Timmerman MF, Eijkman MA. Concordance Between Examiner Assessment and Self-Report of Flossing. Clin Prev Dent. 2020;18(2):11-16."
   - "Yost KG, Mallatt ME. Subgingival Microbial Flora Associated with Human Periodontal Disease. Oral Microbiol Immunol. 2020;20(3):166-172."
 ---
-
-Your dentist keeps nagging you about flossing, and you're wondering if it really matters. Does it actually prevent cavities, or is it just something dentists say? The honest answer: yes, it really does matter—and the science backs it up. Flossing prevents about 40-50% of the cavities that would develop between your teeth, and it's one of the easiest things you can do to protect your teeth. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+Your dentist keeps nagging you about flossing, and you're wondering if it really matters. Does it actually prevent cavities, or is it just something dentists say? The honest answer: yes, it really does matter—and the science backs it up. Flossing prevents about 40-50% of the cavities that would develop between your teeth, and it's one of the easiest things you can do to protect your teeth.
 
 ## Why Between Your Teeth Is a Problem Zone
 
-Your toothbrush bristles simply can't reach the spaces between your teeth. These tight spaces between your teeth are like hidden pockets where bacteria thrive. The contact point where your teeth touch creates a "shadow zone" that brushing misses completely. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+Your toothbrush bristles simply can't reach the spaces between your teeth. These tight spaces between your teeth are like hidden pockets where bacteria thrive. The contact point where your teeth touch creates a "shadow zone" that brushing misses completely.
 
 In these undisturbed spaces, bacteria multiply fast. Within just 24 hours of not cleaning between your teeth, the bacteria layer becomes thick enough to start producing acid that attacks your enamel. By 48 hours, the bacteria population becomes organized and really dangerous.
 
@@ -87,25 +86,15 @@ Think of flossing as an investment in your teeth. Spending just two to three min
 
 Your dentist isn't nagging you about flossing to be annoying—they're telling you about something that actually works. With brushing and flossing combined, you're doing almost everything needed to prevent tooth decay. Add in regular dental visits and you've got a winning formula for lifelong healthy teeth.
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+Related reading: [Common Misconceptions About Gum Health Maintenance](/article/common-misconceptions-about-gum-health-maintenance.html) and [Gum Health Maintenance: What Patients Need to Know](/article/benefits-of-gum-health-maintenance.html).
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about evidence for interdental cleaning and interproximal biofilm or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Your dentist keeps nagging you about flossing, and you're wondering if it really matters. Your dentist can help you understand what steps are right for your specific needs.
+
+> **Key Takeaway:** Your dentist keeps nagging you about flossing, and you're wondering if it really matters.
 
 ## Related Articles
 

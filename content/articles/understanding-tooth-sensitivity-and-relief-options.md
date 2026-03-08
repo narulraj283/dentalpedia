@@ -32,7 +32,6 @@ references:
   - title: "Combination therapy approaches for difficult-to-treat dentin sensitivity"
     url: https://pubmed.ncbi.nlm.nih.gov/25301478
 ---
-
 ## Understanding Tooth Sensitivity
 
 If you've ever winced when sipping cold water or biting into ice cream, you may have experienced tooth sensitivity. This common dental problem affects roughly 1 in 5 people and can make everyday activities uncomfortable. The sharp pain usually comes and goes quickly, appearing only when your teeth are exposed to certain triggers. While tooth sensitivity might seem like just a minor annoyance, understanding what causes it and knowing your treatment options can help you get relief and maintain a healthy smile.

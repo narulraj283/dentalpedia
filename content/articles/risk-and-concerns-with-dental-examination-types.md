@@ -32,7 +32,6 @@ references:
   - title: "Nanci A, et al. Ten Cate's oral histology development, structure, and function. 9th ed. Elsevier. 2017."
     url: https://pubmed.ncbi.nlm.nih.gov/
 ---
-
 ## The Regular Cleaning and Exam Appointment
 
 Your typical dental appointment includes a cleaning (done by a hygienist) and an exam (done by your dentist). During cleaning, your hygienist removes tartar (hardened plaque) that accumulates on your teeth despite daily brushing and flossing. Tartar harbors bacteria that cause gum disease and cavities, so professional removal is essential for oral health.

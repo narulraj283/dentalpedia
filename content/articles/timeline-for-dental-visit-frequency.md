@@ -32,7 +32,6 @@ references:
   - title: "Riley P, Lamont T. Antibacterial agents for preventing dental caries. Cochrane Database Syst Rev. 2013;10:CD003610."
     url: https://pubmed.ncbi.nlm.nih.gov/24068202
 ---
-
 ## Introduction
 
 You've probably heard that you should go to the dentist every six months. But the truth is, not everyone needs to visit the dentist that often. Your personal dental visit schedule should be based on your individual risk—kind of like how some people need car maintenance more often than others depending on their driving habits. Some people with excellent oral health might only need to visit once a year, while others with gum disease or a history of cavities might need to come more frequently. Your dentist figures out your personal risk and recommends a visit schedule that's just right for you.
@@ -68,12 +67,6 @@ At a typical cleaning visit, the hygienist removes plaque and tartar buildup, wh
 ## Making the Most of Your Visits
 
 Between dental visits, take care of your teeth at home. Brush twice daily with fluoride toothpaste, floss daily, limit snacking and sugary drinks, and don't smoke. These habits directly affect your cavity and gum disease risk, which might allow you to extend your visit intervals. If you're currently high-risk but you improve your home care, your dentist might eventually recommend less frequent visits.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for dental visit frequency, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

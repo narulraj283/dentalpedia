@@ -29,12 +29,11 @@ subcategory: Harmful Foods & Beverages
 subcategory_slug: harmful-foods
 title: 'Acidic Foods: Erosion from Citrus'
 ---
-
 ## How Citric Acid Damages Teeth
 
-Citric acid (in lemons, limes, and oranges) doesn't just lower the pH of your mouth—it does something more damaging. The citric acid molecules actually grab onto calcium atoms in your tooth enamel and remove them. This is called "chelation," and it's a chemical process that selectively targets the mineral structure of enamel. For more details, see our guide on [Antioxidants and Oral Inflammation](/article/antioxidants-fighting-oral-inflammation.html).
+Citric acid (in lemons, limes, and oranges) doesn't just lower the pH of your mouth—it does something more damaging. The citric acid molecules actually grab onto calcium atoms in your tooth enamel and remove them. This is called "chelation," and it's a chemical process that selectively targets the mineral structure of enamel.
 
-Because of this chelation process, citric acid erodes teeth more thoroughly than an acid that just dissolves minerals without specifically targeting them. Even at similar pH levels, citric acid causes more deep damage inside the enamel than other acids that work differently. For more details, see our guide on [B Vitamins and Oral Health](/article/b-vitamins-and-oral-health.html).
+Because of this chelation process, citric acid erodes teeth more thoroughly than an acid that just dissolves minerals without specifically targeting them. Even at similar pH levels, citric acid causes more deep damage inside the enamel than other acids that work differently.
 
 This explains why citric acid erosion creates damage you can't see on the surface. The acid penetrates deep into your enamel, weakening it from the inside out. By the time damage becomes visible on the surface, your tooth has already lost significant strength underneath.
 
@@ -120,11 +119,12 @@ Citric acid in lemons, limes, and oranges damages teeth through a chemical proce
 
 Erosion progresses through four stages from invisible surface changes to advanced dentin exposure requiring restoration. However, erosion can be arrested by eliminating acidic beverage consumption—your saliva and fluoride treatments can then repair demineralized enamel. Strategies including straw use, quick consumption, limiting frequency, and consuming with meals significantly reduce erosion. Even if erosion is already visible, you can prevent further damage by changing beverages now.
 
+
+Related reading: [Protein and Gum Health: The Role of Amino Acids](/article/protein-and-gum-health-amino-acids.html) and [Vitamin A for Tissue Health: Oral Epithelium and Immune](/article/vitamin-a-for-tissue-health.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
-
-> **Key Takeaway:** Citric acid (in lemons, limes, and oranges) doesn't just lower the pH of your mouth—it does something more damaging. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** Citric acid (in lemons, limes, and oranges) doesn't just lower the pH of your mouth—it does something more damaging. Talk to your dentist about what options work best for your situation.
 
 ## Related Articles
 

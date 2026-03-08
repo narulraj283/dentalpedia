@@ -46,7 +46,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Refractory Periodontitis Treatment Resistant Disease
 ---
-
 ## When Standard Gum Disease Treatment Doesn't Work
 
 Most people with gum disease can control it with good cleaning habits and regular professional treatment. But for about 5-15% of patients, standard treatment just doesn't seem to help. Their gums keep bleeding, they continue losing bone, and their pockets keep getting deeper despite doing everything right. This is called treatment-resistant gum disease, and it's frustrating for patients and dentists alike.

@@ -32,7 +32,6 @@ references:
   - title: "Okubo SR, Kanawati A, Richards MW, et al. Evaluation of visual and instrumental shade matching. J Prosthet Dent. 1998;80(6):642-648."
     url: https://pubmed.ncbi.nlm.nih.gov/9847102
 ---
-
 Your tooth color results from a complex combination of factors—and it's unique to you. Understanding why your teeth are their specific shade helps you accept your natural color or make informed decisions about whitening and cosmetic work.
 
 ## How Tooth Color Gets Assessed
@@ -76,14 +75,6 @@ Similarly, age affects appropriate shade selection. Bright, highly defined white
 The same tooth appears dramatically different under various lighting. Bright white office lighting emphasizes the white. Natural daylight shows more true color. Evening yellow-toned lighting makes teeth appear more yellow. This metamerism effect explains why you might see enamel staining or shade discrepancies in daylight that weren't apparent in your dentist's office.
 
 Professional shade matching should happen under standardized lighting—ideally natural light from a north-facing window or specially calibrated LED lighting matching natural daylight (5000K color temperature). If your dentist matches shade under office lights only, ask for samples photographed under multiple lighting conditions to verify acceptability in real-world lighting.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about your natural tooth shade and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

@@ -27,7 +27,6 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: 'Orthodontic Crowding: Severity Assessment'
 ---
-
 If you've looked in the mirror and thought your teeth are too crowded, you're not alone. Crowding is the most common orthodontic problem, affecting about one in three people. But "crowded" isn't always the same—some people have mild crowding while others have severe crowding. The severity matters because it determines what treatment approach will work best. Let's explore how orthodontists measure crowding and decide on the best treatment plan.
 
 ## What Causes Crowded Teeth?
@@ -94,7 +93,7 @@ Without retention, you'll see some drift. Your teeth have a tendency to shift ba
 
 Whether your crowding is mild, moderate, or severe, treatment can create a beautiful, healthy smile. The severity determines the approach, but all levels of crowding are highly treatable. Your orthodontist will evaluate your specific situation and discuss options—extraction versus non-extraction, treatment duration, and final aesthetic goals—helping you make the best decision for your smile.
 
-> **Key Takeaway:** Quantifying dental crowding, Little's Index analysis, and treatment modality selection based on severity.
+> **Key Takeaway:** If you've looked in the mirror and thought your teeth are too crowded, you're not alone.
 
 ## Related Articles
 

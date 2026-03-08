@@ -29,7 +29,6 @@ subcategory: Pediatric Overview
 subcategory_slug: overview-peds
 title: Pediatric Sealants Protection for Permanent Molars
 ---
-
 ## Why Your Child's Molars Need Sealants
 
 Your child's permanent molars are in trouble the moment they erupt. These back teeth have deep, narrow grooves on their chewing surfaces—perfect hiding spots for cavity-causing bacteria. Toothbrush bristles can't reach into these tiny crevices, so food particles and bacteria accumulate, creating the ideal environment for decay. This is why about 80% of cavities in children develop on these hard-to-clean molars. Dental sealants are a simple, proven solution that dramatically reduces this risk—studies show they prevent about 8 out of 10 cavities that would otherwise develop.

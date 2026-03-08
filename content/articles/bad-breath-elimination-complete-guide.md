@@ -21,12 +21,11 @@ references:
   - "Rosenberg M, et al. Halitosis assessment and treatment. Periodontol 2000. 2011;55(1):93-106."
   - "Winkel EG, et al. Halitosis. In: Clinical Practice of the Dental Hygienist. 12th ed. Wolters Kluwer; 2016."
 ---
-
 ## How Common Is Bad Breath?
 
-Bad breath affects about 30-50% of adults. It's not something to be embarrassed about—it's really common. But it definitely affects people's quality of life. About 70% of people with bad breath say it impacts their confidence, and 50% feel anxious about it socially. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+Bad breath affects about 30-50% of adults. It's not something to be embarrassed about—it's really common. But it definitely affects people's quality of life. About 70% of people with bad breath say it impacts their confidence, and 50% feel anxious about it socially.
 
-The good news is most bad breath comes from your mouth—not your body or digestion—so it's usually fixable. You just need to figure out what's causing it. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+The good news is most bad breath comes from your mouth—not your body or digestion—so it's usually fixable. You just need to figure out what's causing it.
 
 ## Three Types of Bad Breath Problems
 
@@ -123,25 +122,12 @@ Bad breath affects about 30-50% of adults. Three types exist: genuine bad breath
 
 Gum disease and interdental plaque need professional treatment. Avoid garlic and onions if they trigger your breath. Dry mouth worsens bad breath. Most bad breath improves within days to weeks with the right approach. Unusual odors (fruity, urine-like) signal serious medical problems requiring doctor evaluation.
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+Related reading: [Amalgam and Mercury: What You Should Know About Silver](/article/mercury-amalgam-controversy.html) and [Timeline for Mouth Ulcer Care](/article/timeline-for-mouth-ulcer-care.html).
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
-
-> **Key Takeaway:** Bad breath affects about 30-50% of adults. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** Three types exist: genuine bad breath (75-85%, needs treatment), pseudo-bad breath (10-15%, needs reassurance), and halitophobia (10-20%, needs psychology help).
 
 ## Related Articles
 

@@ -20,7 +20,6 @@ references:
   - "Sándor GK, et al. Prophylactic perioperative antibiotic regimens for dentoalveolar surgery: A review. Journal of the Canadian Dental Association. 2013;79:d6."
   - "Oginni FO, et al. A multivariate analysis of factors associated with dry socket/alveolar osteitis following non-surgical tooth extraction in a Nigerian teaching hospital. Journal of Dental Research. 2014;36(5):565-572."
 ---
-
 ## Understanding Dry Socket and What Causes It
 
 After tooth extraction, a blood clot forms in the socket where your tooth was. This clot is crucial—it stops bleeding, protects the bone underneath, and helps healing happen. Dry socket occurs when this clot dissolves or falls out too early, usually around days 3-4 after extraction. When the clot is gone, the bone and nerves underneath become exposed, causing severe throbbing pain that can last a week or more.
@@ -93,7 +92,7 @@ Dry socket causes severe pain but is preventable through careful surgical techni
 
 Work with your surgeon to understand your specific risk factors and what you need to do for optimal healing. If you have any concerns during your recovery, don't hesitate to contact your surgeon.
 
-> **Key Takeaway:** Alveolar osteitis prevention through evidence-based surgical techniques and post-operative management reduces painful complications.
+> **Key Takeaway:** After tooth extraction, a blood clot forms in the socket where your tooth was.
 
 ## Related Articles
 

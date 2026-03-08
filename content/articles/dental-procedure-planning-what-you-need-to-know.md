@@ -20,7 +20,6 @@ references:
   - "Viera AJ, et al. Managing Expectations in Dental Treatment. Dent Clin North Am. 2023;67(2):213-225."
   - "Wilson NHF, et al. Shared Decision-Making in Dental Treatment Planning. Br Dent J. 2023;234(6):349-356."
 ---
-
 ## Understanding Your Diagnosis
 
 When your dentist says you have something—a cavity, gum disease, a failing crown—make sure you understand what that means. Learning more about [Dental Procedure Planning Complete Guide](/article/dental-procedure-planning-complete-guide.html) can help you understand this better. Ask for plain English explanation: "What is happening in my mouth? Is this urgent? Will it get worse if I don't treat it?"
@@ -104,19 +103,14 @@ Before committing, ask yourself:
 
 If you're uncomfortable, seek a second opinion. A second opinion might confirm the first dentist's recommendation or offer an alternative. Either way, you'll feel more confident in your decision.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about dental procedure planning what you need to know and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 
 Understanding your diagnosis, hearing your options, learning costs and timeline, and grasping what's involved enables informed decision-making. You deserve clear communication, multiple options when they exist, respect for your concerns, and honest discussion of risks. A good dentist partners with you rather than dictating treatment. If you're uncomfortable with a dentist's recommendations or approach, seek a second opinion. Treatment should be something you understand, agree with, and feel confident about.
 
-> **Key Takeaway:** Patient-centered guide to understanding treatment planning process, communicating with your dentist, and making informed decisions about your dental care.
+> **Key Takeaway:** When your dentist says you have something—a cavity, gum disease, a failing crown—make sure you understand what that means.
 
 ## Related Articles
 

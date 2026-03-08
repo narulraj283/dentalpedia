@@ -32,7 +32,6 @@ references:
   - title: "Imfeld T. Dental erosion. Definition, classification and links. Eur J Oral Sci. 1996;104(2):151-155."
     url: https://pubmed.ncbi.nlm.nih.gov/8804883
 ---
-
 ## Introduction
 
 You know sugar causes cavities. But did you know that some foods cause cavities not because of sugar, but because they stick to your teeth for hours? Sticky foods are a major cavity risk factor that many people overlook. This guide explains which sticky foods pose the highest cavity risk and what you can do about it.
@@ -98,12 +97,6 @@ You may also find helpful information about [Gel Trays Overnight Whitening](/art
 **Chew sugar-free gum:** Chewing sugar-free xylitol or sorbitol gum for 5-10 minutes after eating sticky foods enhances saliva's protective effect.
 
 **Eat sticky foods earlier in the day:** Eating sticky foods at night is riskier than eating them during the day because your salivary flow decreases at night, giving bacteria more time to produce acid.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss sticky foods and cavity risk which foods are worst, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

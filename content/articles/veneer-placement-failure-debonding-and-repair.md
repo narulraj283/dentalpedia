@@ -30,7 +30,6 @@ references:
   - title: "Prevention and Management of Veneer Fractures: A Systematic Review"
     url: https://pubmed.ncbi.nlm.nih.gov/30145670
 ---
-
 ## Understanding Veneer Failure: What Can Go Wrong?
 
 While veneers are durable restorations, they're not immune to problems. Understanding what causes veneer failure, recognizing warning signs, and knowing your repair and replacement options enables you to address issues promptly and protect your smile investment. This guide explains common veneer problems and what to do about them.

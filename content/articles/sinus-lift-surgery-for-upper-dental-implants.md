@@ -45,7 +45,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Sinus Lift Surgery for Upper Dental Implants
 ---
-
 ## Why You Might Need a Sinus Lift for Your Implant
 
 Your upper back teeth have a formidable obstacle above them—your maxillary sinus (a hollow air space in your cheekbone that connects to your nose). When you lose an upper back tooth, your jawbone naturally shrinks in that area. At the same time, your sinus can expand downward into the space where bone used to be.
@@ -83,14 +82,6 @@ Sinus lift surgery has excellent success rates—92 to 98 percent of implants pl
 ## Potential Complications and How They're Managed
 
 The most common issue during sinus lift is perforation of the thin membrane lining your sinus. Small holes usually heal without problems. Rarely, sinusitis (sinus infection) develops, usually responding well to decongestants and observation. With careful technique and proper healing time, serious complications are uncommon. Your surgeon's experience and meticulous attention to detail prevent most problems before they start.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about sinus augmentation for upper dental implants:... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

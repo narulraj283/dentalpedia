@@ -22,7 +22,6 @@ references:
   - Sukontapatipark W, El-Agroudi MA, Selliseth NJ, Saxegaard E, Selnes H. Bacterial colonization associated with fixed orthodontic appliances. A scanning electron microscopy study. Eur J Orthod. 2001;23(5):475-484.
   - Machen DE. Bonded veneer resin composite restorations in pediatric dentistry. Pediatr Dent. 2006;28(2):95-101.
 ---
-
 When you get braces, your diet becomes part of your treatment plan. What you eat directly affects how quickly your teeth move, whether your brackets stay attached, and whether your teeth end up with permanent white marks when treatment is done. The good news is that you don't need to eat boring food the whole time—you just need to be smart about your choices. This article covers the essentials you need to know to protect your brackets and your smile.
 
 ## What Foods Will Break Your Brackets
@@ -148,7 +147,7 @@ For more information, see [Phase Two Comprehensive Fixed Appliance Treatment](/a
 
 - [Braces Care Instructions What You Need To Know](/article/braces-care-instructions-what-you-need-to-know.html)
 - [Micro-Implants for Braces: Temporary Anchorage Devices](/article/micro-implant-temporary-anchorage-tad-innovation.html)
-- [Alveolar Bone Density and Orthodontic Tooth Movement:](/article/bone-density-and-orthodontic-movement-age-effects.html)
+- [Alveolar Bone Density and Orthodontic Tooth Movement](/article/bone-density-and-orthodontic-movement-age-effects.html)
 - [Evidence-Based Decision-Making for Orthodontic](/article/best-practices-for-orthodontic-extraction-decision.html)
 - [Eating with Braces: Foods You Can and Cannot Eat](/article/food-restrictions-with-braces-what-you-can-and-cannot-eat.html)
 

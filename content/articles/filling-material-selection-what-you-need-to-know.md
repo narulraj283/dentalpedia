@@ -20,7 +20,6 @@ references:
   - "Satterthwaite JD, et al. Restoration longevity and analysis of reasons for failure of restorations. Eur J Prosthodont Restor Dent. 2015;23(1):34-42."
   - "Bouillaguet S. Strategies to overcome polymerization shrinkage stress. J Prosthet Dent. 2008;100(4):307-17."
 ---
-
 ## Why Filling Material Matters
 
 When your dentist fills a cavity, they have to think about more than just closing the hole. They need to choose material that will last, won't cause problems, and will hold up to years of chewing. Different materials have different strengths and weaknesses, and what works best depends on your specific situation.
@@ -90,12 +89,6 @@ Your dentist should check your filling at every visit and catch problems early b
 
 Composite fillings can be polished to smooth out rough spots and make them harder for bacteria to stick to. Some dentists also apply a thin coating of protective sealant around the margins. These aren't permanent solutions, but they help maintain fillings and extend their life.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about filling material selection what you need to know and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed filling material selection what you need to know, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -106,7 +99,7 @@ Once you've addressed filling material selection what you need to know, maintain
 
 Choosing a filling material is a partnership between you and your dentist. Your dentist brings technical knowledge about what works best. You bring knowledge about your priorities—how long you want it to last, how important appearance is, and what fits your budget. The best filling is the one you choose together based on honest discussion of tradeoffs.
 
-> **Key Takeaway:** When your dentist fills a cavity, they have to think about more than just closing the hole.
+> **Key Takeaway:** They need to choose material that will last, won't cause problems, and will hold up to years of chewing. Different materials have different strengths and weaknesses, and what works best depends on your specific situation.
 
 ## Related Articles
 

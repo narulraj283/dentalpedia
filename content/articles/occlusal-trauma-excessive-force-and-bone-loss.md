@@ -30,7 +30,6 @@ subcategory: Periodontics
 subcategory_slug: overview-perio
 title: Occlusal Trauma Excessive Force and Bone Loss
 ---
-
 Teeth grinding and clenching don't just wear down your teeth—they can actually damage the bone and tissues supporting your teeth and cause teeth to loosen and shift. This injury, called occlusal trauma, is different from gum disease, but they're a deadly combination when they happen together. If you have gum disease and also grind your teeth or have an uneven bite, the damage accelerates dramatically. Learning to control those excessive forces is critical for saving your teeth and preventing bone loss.
 
 ## How Excessive Force Damages Your Gums and Bone
@@ -70,14 +69,6 @@ The treatment plan combines force control and gum disease management. You might 
 The key to long-term success is controlling those excessive forces day after day. If you grind at night, your night guard is non-negotiable—think of it as damage control while you sleep. If you clench during stress, learning to notice and relax your jaw muscles helps. Avoiding hard foods, sticky candies, and the urge to open things with your teeth protects your teeth. Regular checkups help your dentist catch new problems early.
 
 You'll need supportive periodontal visits every three to four months. This isn't just routine cleaning—it's careful monitoring for signs that forces are still damaging your support structures. If you're controlling the forces and managing your gum disease, your bone loss stops and sometimes reverses. Teeth that felt loose might actually re-tighten as bone heals.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about occlusal trauma—excessive force-induced periodontal... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Conclusion
 

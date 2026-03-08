@@ -22,7 +22,6 @@ references:
   - "Bornstein MM, Scarfe WC, Vaughn VM, Jacobs R. Cone beam CT technology and applications: a review of the literature. Oral Surg Oral Med Oral Pathol Oral Radiol. 2014;118(6):682-694."
   - "Tyndall DA, Runge ME. Prevention of dental radiation injuries. J Am Dent Assoc. 1999;130(3):409-415."
 ---
-
 CBCT stands for cone beam computed tomography—essentially a specialized 3D X-ray that creates detailed pictures of your teeth, jaw, and surrounding bone. If your dentist has recommended a CBCT scan, they're looking for information that regular 2D X-rays can't provide. Understanding what this technology does and why your dentist might recommend it helps you make informed decisions about your care.
 
 ## What Is CBCT and How Does It Work
@@ -91,7 +90,7 @@ Good dental practices use CBCT appropriately—not as a routine screening tool b
 
 CBCT is a powerful tool that helps your dentist plan complex dental treatment with greater accuracy and confidence. When used appropriately for specific clinical questions—like implant planning or investigating root canal problems—it improves your treatment outcomes. Understanding what CBCT can and can't show helps you have informed conversations with your dentist about whether it's right for your situation.
 
-> **Key Takeaway:** CBCT takes detailed 3D pictures of your teeth and jaw to help your dentist plan complex treatment—here's what you need to know.
+> **Key Takeaway:** CBCT stands for cone beam computed tomography—essentially a specialized 3D X-ray that creates detailed pictures of your teeth, jaw, and surrounding bone.
 
 ## Related Articles
 

@@ -32,7 +32,6 @@ references:
   - title: "Fugazzotto PA. A comparison of the periodontal response to a natural tooth and single-tooth implant: design of the study. Int J Oral Maxillofac Implants. 2001;16(3):343-353."
     url: https://pubmed.ncbi.nlm.nih.gov/11432652
 ---
-
 ## Missing a Tooth? Your Options
 
 If you're missing a tooth, you have three main choices: place a bridge (which connects to your adjacent teeth), place an implant (which replaces the tooth root), or place individual crowns if multiple adjacent teeth are missing. Each option has different costs, longevity, and impacts on your other teeth. Let's look at the pros and cons of each so you can make an informed decision with your dentist.

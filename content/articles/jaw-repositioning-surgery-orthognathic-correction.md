@@ -38,53 +38,75 @@ title: Jaw Repositioning Surgery Orthognathic Correction
 ---
 ## Classification of Dentofacial Deformities
 
-Dental malocclusions are classified using Angle's classification describing anterior tooth relationships: Class I (normal), Class II (maxillary protrusion or mandibular retrusion), and Class III (mandibular protrusion or maxillary retrusion). However, Angle's classification addresses only anteroposterior discrepancy, omitting vertical and transverse problems. Skeletal dentofacial deformities are more accurately described using three-dimensional terms: anteroposterior (sagittal), vertical, and transverse discrepancies. A patient might present with Class II misaligned bite secondary to mandibular retrusion (anteroposterior deficiency), anterior open bite (vertical excess), and crossbite (transverse deficiency), requiring comprehensive surgical correction addressing all three dimensions. Anteroposterior deformities include mandibular deficiency (inadequate mandibular projection), maxillary protrusion (excessive maxillary forward position), mandibular protrusion (excessive anterior mandibular projection), and maxillary retrusion.
+Bite problems are classified by how upper and lower teeth meet: normal (Class I, proper alignment), upper jaw too far forward or lower jaw too far back (Class II malocclusion—misaligned bite), or lower jaw too far forward or upper jaw too far back (Class III malocclusion). This simple system only covers front-to-back problems. Bone deformities are better described in three directions: front-to-back, up-and-down, and side-to-side.
 
-Severity ranges from mild (cosmetically concerning but functionally adequate) to severe (affecting mastication, speech, and airway). Vertical deformities include anterior open bite (failure of anterior teeth to overlap vertically), anterior deep bite (excessive vertical overlap), and posterior open bite (lack of molar contact posteriorly). Anterior open bite creates mastication difficulty, speech problems, and often leads to tongue dysfunction. Transverse deformities include maxillary constriction with crossbite, posterior crossbite from asymmetric maxillary growth, and mandibular asymmetry causing functional shift. Severe asymmetries create psychological distress and functional impairment.
+A patient might have a Class II bite from lower jaw being too small (front-to-back problem), open bite in front (up-and-down problem), and crossbite (side-to-side problem). Surgery must fix all three.
+
+Front-to-back problems include lower jaw too small, upper jaw too far forward, lower jaw too far forward, or upper jaw too far back. Severity ranges from cosmetic concerns only to functional problems (chewing, speech, breathing).
+
+Up-and-down problems include open bite in front (teeth don't meet), deep bite in front (too much overlap), and open bite in back (back teeth don't touch). Open bite in front causes chewing and speech problems.
+
+Side-to-side problems include narrow upper jaw with crossbite, uneven growth, or lower jaw shifted to one side. Severe asymmetry causes emotional distress and functional problems.
 
 ## Pre-Operative Evaluation and Diagnosis
 
-Comprehensive evaluation begins with assessment of patient motivation, realistic expectations, and psychological stability. Orthognathic surgery produces significant change affecting self-image; patients must be emotionally prepared for adaptation and hold realistic goals. Some patients seek surgery for minor esthetic improvements, while others face functional limitations they hope surgery will resolve. Thorough medical evaluation identifies conditions affecting surgical candidacy and healing. Diabetes, bleeding disorders, immunosuppression, severe cardiovascular disease, or active psychiatric illness may contraindicate surgery. Medications including anticoagulants affect perioperative management. Cephalometric analysis provides precise measurements of skeletal and dental relationships.
+Planning starts with checking your motivation, expectations, and emotional health. Jaw surgery creates major change to appearance. You must be ready for this change and have realistic goals. Some want cosmetic improvement; others want better function.
 
-Lateral cephalograms reveal anteroposterior jaw discrepancies, vertical relationships, and dentoalveolar compensations. Reference points and planes enable quantitative assessment and surgical planning. Posterior-anterior (PA) cephalograms evaluate transverse discrepancies and asymmetry. Dental models mounted on articulator in centric relation reveal current intercuspation and target your bite post-operatively. Model surgery involves physically reorienting maxillary and/or mandibular models to predetermined positions, guiding surgical planning. Contemporary 3D volumetric imaging (CBCT) and virtual surgical planning enhance traditional methods. CBCT enables precise bone morphology visualization, virtual segment repositioning, and surgical guide creation. Virtual surgery allows surgeons to preview results and communicate predicted changes to patients pre-operatively, improving outcomes.
+Medical evaluation checks for conditions that prevent surgery or affect healing. Diabetes, bleeding problems, weak immunity, severe heart disease, or serious mental illness may prevent surgery. Some medicines affect treatment.
 
-Learn more about [What Common Misconceptions About Anesthesia Types Means](/article/common-misconceptions-about-anesthesia-types.html).
+Special X-rays (cephalograms) measure jaw relationships precisely. Head X-rays show front-to-back and up-and-down problems. Face X-rays show side-to-side problems. Teeth models show current and target bite.
+
+Mock surgery (moving dental models to planned positions) helps plan the real surgery. Modern 3D imaging and computer planning improve planning. 3D scans show bone anatomy precisely. Virtual surgery shows predicted results and lets doctors explain changes to you before surgery.
 
 ## Surgical Techniques and Approaches
 
-Bilateral sagittal split osteotomy (BSSO) represents the standard mandibular surgical approach for anteroposterior corrections. The procedure involves bilateral intraoral incisions in the buccal sulcus, bone cuts separating the proximal and distal mandibular segments, and fixation of the repositioned distal segment using titanium plates and screws. BSSO enables significant mandibular advancement or setback with predictable results. Le Fort I maxillary advancement involves horizontal osteotomy above the tooth apices, below the nasal floor, separating the maxilla from the skull base. The maxilla is repositioned forward, downward, or rotated as needed, with fixation using plates at buttress areas (zygomatic processes, piriform rims, pterygoid areas). Maxillary advancement corrects Class II malocclusions from maxillary retrusion and contributes to open bite correction. Bimaxillary surgery combines BSSO and Le Fort I, permitting correction of complex deformities.
+Bilateral sagittal split osteotomy (BSSO) is the standard lower jaw surgery for front-to-back problems. The surgeon makes cuts inside the mouth, separates the bone, and moves the jaw forward or back. Metal plates hold it in place. Results are predictable.
 
-Class II cases with maxillary protrusion and mandibular deficiency may require maxillary setback and mandibular advancement. Class III cases with mandibular protrusion and maxillary retrusion benefit from mandibular setback and maxillary advancement. Anterior segmental osteotomy addresses severe anterior open bite by rotating the maxillary anterior segment inferiorly. Posterior segmental maxillary osteotomy rotates the entire palate, correcting asymmetric vertical discrepancies. These segmental procedures require careful preservation of vascular and neural supply. Genioplasty, surgical repositioning of the anterior mandible (osseous chin), improves profile balance in patients with deficient chin projection or vertical excess. Mentoplasty can be performed concurrently with BSSO to address both jaw and chin deformities comprehensively.
+Le Fort I maxillary advancement cuts the upper jaw horizontally below the nose and separates it from the skull base. The upper jaw is moved forward, down, or rotated and held with plates. This fixes Class II bites from upper jaw being too far back and helps open bite.
+
+Bimaxillary surgery combines both procedures for complex problems. Class II with upper jaw too far forward and lower jaw too small needs both upper setback and lower advancement. Class III with lower jaw too far forward and upper jaw too far back needs both lower setback and upper advancement.
+
+Front open bite surgery moves the front upper jaw down. Uneven vertical problems need palate rotation surgery. Chin surgery improves profile by repositioning the chin. Chin and lower jaw surgeries can be done together.
 
 ## Pre- and Intra-operative Considerations
 
-Pre-operative braces treatment, lasting 12-24 months, aligns teeth in each arch and corrects dentoalveolar compensations. Teeth are positioned to ideal inclination within their respective bony bases, removing dentoalveolar compensation that masks underlying skeletal discrepancy. Leveling and aligning the arches enables proper intermaxillary fixation (IMF) post-operatively and improves surgical outcomes. Intra-operative positioning of the patient, maintenance of airway patency, and careful soft tissue handling minimize complications.
+Before surgery, braces (12-24 months) align teeth in the right direction. This removes tooth compensation that hides the jaw problem. Good alignment helps after-surgery wiring and improves results.
 
-Nasotracheal intubation maintains airway access during surgery without interfering with oral surgical access. Controlled hypotensive numbing medication reduces bleeding without compromising perfusion, facilitating visualization. Securing proper your bite during surgery requires either pre-operative wafer splints or intra-operative dentition-based guidance. A surgical wafer created from model surgery pre-operatively guides repositioning of the maxilla or mandible to predetermined position, ensuring accurate three-dimensional correction.
-
-For information about [Related Treatments Like Risk](/article/risk-and-concerns-with-surgical-success-rates.html), consult your dentist.
+During surgery, patient position, airway protection, and gentle tissue handling prevent complications. A breathing tube through the nose maintains airway without blocking the mouth. Careful anesthesia reduces bleeding. A plastic splint guides jaw repositioning to the exact planned position for three-dimensional accuracy.
 
 ## Airway and Breathing Considerations
 
-Mandibular advancement improves airway dimensions in patients with obstructive sleep apnea (OSA), potentially providing therapeutic benefit beyond esthetic and occlusal improvement. Patients with OSA combined with Class II misaligned bite from mandibular retrusion represent ideal candidates where surgery addresses both concerns simultaneously.
-Conversely, maxillary advancement and downward rotation of the maxilla can increase posterior airway space, while setback procedures may compromise airway. Careful case selection and cephalometric analysis predict airway changes, though individual variation occurs. Sleep studies pre- and post-operatively quantify OSA changes when present.
+Moving the lower jaw forward improves airway size in patients with obstructive sleep apnea (OSA). These patients get better breathing and also better appearance and bite. They are ideal candidates.
+
+Moving the upper jaw forward can improve airway. But moving the jaw backward may narrow airway. Careful planning and X-rays predict airway changes, though results vary. Sleep studies before and after measure OSA improvement.
 
 ## Post-Operative Management
 
-Immediate post-operative period involves pain management, swelling control, and airway monitoring. Patients typically remain hospitalized overnight for close observation. Most patients maintain IMF with elastics for 4-6 weeks, allowing bone healing while permitting elastic guidance of your bite. Some surgeons perform rigid fixation eliminating need for IMF, improving diet, oral hygiene, and comfort. Antibiotics provide prophylaxis against infection in the post-operative period.
+Right after surgery, pain control, swelling reduction, and airway monitoring are priorities. Most patients stay overnight. Many have wires for 4-6 weeks while bone heals. Wires guide bite with elastics. Some surgeons use rigid plates instead of wires for better comfort and diet.
 
-Soft diet for 6-8 weeks enables adequate nutrition while protecting healing areas. Progressive diet advancement as healing progresses maintains patient energy and nutrition. Physical therapy including gentle jaw opening exercises and soft tissue mobilization promotes healing and prevents stiffness. Patients are typically cleared for normal activities within 4-6 weeks, though complete healing continues over several months. Post-operative orthodontics lasting 6-12 months finalizes your bite, using braces to refine tooth positioning relative to corrected skeletal relationships. Retention via fixed bonded retainers or removable retainers prevents relapse.
+Soft food for 6-8 weeks protects healing. As healing improves, normal food returns. Physical therapy with gentle jaw opening and soft tissue work helps healing and prevents stiffness.
+
+Normal activity usually resumes in 4-6 weeks, but full healing takes months. Braces after surgery (6-12 months) fine-tune bite. Permanent retainers prevent relapse.
 
 ## Stability and Relapse
 
-Orthognathic surgical corrections demonstrate excellent long-term stability when adequate healing occurs and post-operative bracing is maintained. Most relapse occurs in the first 6 months post-operatively, stabilizing thereafter. Relapse rates of 5-10% of surgical movement are typical, though severe asymmetries show higher relapse potential.
-Factors affecting stability include extent of surgical movement (larger movements show more relapse), surgical technique employed, post-operative orthodontics, and patient factors including growth continuation in younger patients. Stopping growth before surgery (typically age 16-17 in females, 18+ in males) minimizes relapse from continued growth.
+Surgical corrections stay stable long-term if healing is good and you wear retainers. Most relapse (jaw shifting back) happens in the first 6 months, then stabilizes. Relapse of 5-10% of the change is typical, though severe asymmetry may relapse more.
+
+Factors affecting relapse: how much the jaw was moved (more movement equals more relapse), surgery type, post-operative braces, and continued growth in younger patients. Waiting until growth stops (age 16-17 for girls, 18+ for boys) minimizes relapse from continued growth.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
+
+Related reading: [Oral Surgical Complications](/article/common-misconceptions-about-surgical-complications.html) and [Managing Post-Operative Swelling: Clinical Timeline](/article/timeline-for-swelling-reduction.html).
 
 ## Conclusion
 
-By understanding the basics and maintaining good habits, you can keep your teeth strong and healthy. Don't hesitate to ask your dentist questions about what's best for you.
+Jaw repositioning surgery (orthognathic surgery) corrects severe bite problems where the jaw bones are misaligned. Using techniques like bilateral sagittal split osteotomy (BSSO) for lower jaw advancement and Le Fort I for upper jaw repositioning, surgeons move jaw bones to create proper alignment. Results are permanent and dramatic for both appearance and function.
 
-> **Key Takeaway:** Regular dental care and healthy habits today can prevent serious problems tomorrow.
+Pre-operative orthodontics (braces) for 12-24 months align teeth properly before surgery. Post-operative braces fine-tune bite during healing. Most relapse (shifting back) happens in the first 6 months then stabilizes—properly planned and executed surgery with good technique minimizes relapse. Long-term outcomes show stable corrections, improved airway in sleep apnea cases, better chewing function, and significant quality-of-life improvements.
+
+> **Key Takeaway:** Jaw repositioning surgery produces permanent correction of severe bite problems and dramatically improves function and appearance when carefully planned, properly executed, and combined with orthodontic treatment before and after surgery.
 
 ## Related Articles
 

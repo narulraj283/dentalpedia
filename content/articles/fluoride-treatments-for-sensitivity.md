@@ -31,7 +31,6 @@ subcategory: Cleanings & Exams
 subcategory_slug: cleanings-exams
 title: Professional Fluoride Treatments
 ---
-
 ## Why Exposed Tooth Roots Cause Sensitivity
 
 When your gums recede and expose the root surface of your tooth, sensitivity develops. The root doesn't have the hard enamel coating that protects the crown of your tooth. Instead, it has a softer covering called cementum. Beneath that are thousands of tiny channels (called tubules) that lead to the nerve inside your tooth.
@@ -98,21 +97,13 @@ If you're experiencing severe receding gums, discuss surgical graft options with
 
 If sensitivity persists despite fluoride treatment and desensitizing toothpaste, or if sensitivity is so severe it affects your quality of life, discuss more aggressive options with your dentist. Bonded resin (composite material) applied to exposed roots can seal the tubules permanently. In rare cases where sensitivity is severe and unrelenting, root canal treatment (removing the nerve) eliminates sensitivity completely, though this is a significant procedure reserved for truly severe cases.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about fluoride treatments for sensitivity and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
-
 ## Conclusion
 
 Fluoride treatments effectively reduce tooth sensitivity by mineralizing exposed root surfaces and desensitizing the nerve. Professional treatments provide faster relief than home-use products, though both contribute to long-term sensitivity management. For most people with sensitivity, fluoride is an effective first-line treatment.
 
 If you're experiencing sensitivity, talk with your dentist about whether professional fluoride treatments are appropriate for you and what home care will maintain the benefit.
 
-> **Key Takeaway:** When your gums recede and expose the root surface of your tooth, sensitivity develops.
+> **Key Takeaway:** The root doesn't have the hard enamel coating that protects the crown of your tooth. Instead, it has a softer covering called cementum.
 
 ## Related Articles
 

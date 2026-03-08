@@ -14,7 +14,6 @@ references:
   - "Pitts NB, Zero DT, Marsh PD, et al. Dental caries. Nat Rev Dis Primers. 2017;3:17030."
   - "American Dental Association Council on Scientific Affairs. Dental radiographic examinations: recommendations for patient selection and limiting radiation exposure. J Am Dent Assoc. 2012;143(12):e1-e29."
 ---
-
 ## The Myth of the Universal Six-Month Checkup
 
 Everyone gets told to visit the dentist every six months. It's become almost a religion in dentistry. But here's the truth: this one-size-fits-all approach isn't backed by strong evidence. Your real ideal visit frequency depends on your personal risk factors—your cavity history, gum health, oral hygiene, and systemic conditions like diabetes.
@@ -73,12 +72,6 @@ Ask your dentist: "Based on my cavity risk, gum disease, and health status, how 
 
 Beyond routine checkups, you should know when to seek emergency dental care. Pain that lasts more than a few days, facial swelling, or a tooth that feels loose requires prompt evaluation. Significant trauma needs immediate assessment. Some emergencies like abscess formation can spread and become serious if ignored. Having a regular dentist you trust means you can reach them quickly for urgent issues rather than visiting an emergency room unfamiliar with your history.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about dental checkup frequency how often should you visit and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 Universal 6-month checkup recommendations don't reflect individual risk variation. Low-risk patients benefit from 12-month intervals. Moderate-risk benefit from 6-month intervals. High-risk benefit from 3-4 month intervals.
@@ -87,7 +80,7 @@ Gum disease often drives frequency more than cavity risk. Age, systemic conditio
 
 Ask your dentist about your specific risk factors and ideal visit frequency rather than assuming 6-month intervals are right for you.
 
-> **Key Takeaway:** Evidence-based recommendations for how often you really need dental checkups based on your individual risk.
+> **Key Takeaway:** Everyone gets told to visit the dentist every six months.
 
 ## Related Articles
 

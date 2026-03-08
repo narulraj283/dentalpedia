@@ -16,7 +16,6 @@ references:
   - "Heron MI, Atkinson R, Williams MP, et al. Quantification of unloaded and loaded orthodontic archwire dimensions. J Dent. 1996;24(4):289-294."
   - "Opperman LA, Adler JL. Tissue response to movement of teeth. Am J Orthod. 1974;65(2):142-155."
 ---
-
 Here's something that might surprise you: when it comes to moving your teeth with braces, gentler is actually better. Your orthodontist isn't trying to move your teeth as fast as possible with maximum force. Instead, they're using the lightest possible pressure that still moves your teeth steadily forward. This might sound counterintuitive, but the science is clear—light, steady pressure gets better results faster than heavy force.
 
 ## How Your Body Responds to Pressure on Teeth
@@ -69,11 +68,14 @@ Keep your regular adjustment appointments. Spacing appointments too far apart me
 
 Avoid the temptation to tighten your own braces or ask your orthodontist to "go aggressive" to speed things up. Your orthodontist is already optimizing your treatment. More force won't help and will probably hurt—both your progress and your teeth.
 
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
 Light, consistent, carefully managed forces move your teeth faster and safer than heavy pressure. Your orthodontist uses scientific knowledge about how your body responds to pressure to create a treatment plan that's both efficient and protective. If you're experiencing significant pain or feel like your teeth aren't moving, talk to your orthodontist. They can adjust your force to optimize your treatment. Discuss which options are right for your specific situation.
 
-> **Key Takeaway:** Understanding how much pressure your braces should apply helps you move teeth faster and avoid damage. Too much force actually slows down your treatment.
+> **Key Takeaway:** Here's something that might surprise you: when it comes to moving your teeth with braces, gentler is actually better.
 
 ## Related Articles
 

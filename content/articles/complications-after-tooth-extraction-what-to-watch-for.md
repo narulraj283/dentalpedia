@@ -32,7 +32,6 @@ subcategory: Oral Surgery
 subcategory_slug: oral-surgery
 title: 'Complications After Tooth Extraction: Warning Signs'
 ---
-
 Most tooth extractions heal without complications. But knowing the warning signs helps you catch problems early if they develop. Let's talk about what's normal post-extraction and when you should call your dentist or oral surgeon.
 
 ## Normal Post-Extraction Healing
@@ -125,7 +124,7 @@ If this isn't your timeline, call your dentist.
 
 Most extractions heal without complications. Knowing normal healing progression versus warning signs helps you catch real problems early. Call your dentist if: pain worsens after day 3, fever above 101.5°F develops, swelling worsens after day 3, or bleeding doesn't stop with pressure. Early treatment prevents complications from becoming serious.
 
-> **Key Takeaway:** Recognize warning signs after extraction and know when to call your dentist.
+> **Key Takeaway:** Most tooth extractions heal without complications.
 
 ## Related Articles
 

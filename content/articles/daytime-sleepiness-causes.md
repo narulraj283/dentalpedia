@@ -20,7 +20,6 @@ references:
   - "Gotsopoulos H, Kelly JB, Cistulli PA. Oral appliance therapy reduces blood pressure in obstructive sleep apnea. Sleep. 2004;27(5):934-941."
   - "Attali V, Chaumereuil C, Arnulf I. Obstructive sleep apnea treatment and perioperative complications. Sleep Medicine Reviews. 2017;40:141-150."
 ---
-
 If you're constantly exhausted despite sleeping 8 hours, sleep apnea might be the culprit. Learning more about [Sleep Apnea Breathing Pause During Sleep](/article/sleep-apnea-breathing-pause-during-sleep.html) can help you understand this better. Sleep apnea is a breathing disorder that fragments your sleep into tiny pieces, leaving you unrested despite adequate time in bed. Here's what you need to know about this common, treatable condition.
 
 ## Why Are You So Tired?
@@ -85,17 +84,11 @@ Talk to your doctor if you suspect sleep apnea. Or mention it to your dentist—
 
 Don't accept chronic exhaustion as normal. Sleep apnea is highly treatable, and getting help genuinely improves your health and quality of life.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about daytime sleepiness causes and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 Excessive daytime sleepiness often results from sleep apnea—a treatable breathing disorder where your airway repeatedly collapses during sleep. The fragmentation of sleep prevents the restorative rest your brain needs. Sleep apnea increases cardiovascular disease risk substantially. Treatment through CPAP, oral appliances, or other approaches eliminates apnea and restores quality sleep and daytime alertness. If you're exhausted despite sleeping, ask your doctor or dentist about sleep apnea evaluation.
 
-> **Key Takeaway:** Sleep-disordered breathing, particularly obstructive sleep apnea, represents a treatable cause of daytime somnolence.
+> **Key Takeaway:** If you're constantly exhausted despite sleeping 8 hours, sleep apnea might be the culprit.
 
 ## Related Articles
 

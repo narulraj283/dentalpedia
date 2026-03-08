@@ -22,14 +22,13 @@ references:
   - "Roesch-Dietlen F, et al. Alcohol and oral cancer. Oral Oncology. 2016;53(Suppl 1):e11."
   - "Salaspuro M. Acetaldehyde and gastric cancer. Journal of Digestive Diseases. 2011;12(2):75-76."
 ---
-
 ## How Alcohol Damages Your Mouth
 
-Alcohol affects your oral health in multiple ways beyond just surface-level staining or erosion. It causes dry mouth (xerostomia), increases cavity risk, accelerates gum disease, weakens your immune system, and most importantly, significantly increases oral cancer risk. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+Alcohol affects your oral health in multiple ways beyond just surface-level staining or erosion. It causes dry mouth (xerostomia), increases cavity risk, accelerates gum disease, weakens your immune system, and most importantly, significantly increases oral cancer risk.
 
 The dry mouth effect is substantial. Alcohol dehydrates your oral tissues and damages salivary glands that produce saliva. Heavy drinkers show 30-50% reduction in saliva flow.
 
-Saliva is crucial—it protects teeth from decay, buffers acid, and prevents fungal infections. With less saliva, cavities develop rapidly, gum disease progresses faster, and oral fungal infections become common. This creates a vicious cycle: less saliva means more cavities, which means more dental disease, which compounds overall oral health problems. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+Saliva is crucial—it protects teeth from decay, buffers acid, and prevents fungal infections. With less saliva, cavities develop rapidly, gum disease progresses faster, and oral fungal infections become common. This creates a vicious cycle: less saliva means more cavities, which means more dental disease, which compounds overall oral health problems.
 
 Alcohol's acidity also erodes tooth enamel directly. Beer and wine have pH around 2-4, similar to stomach acid. This acidity dissolves tooth enamel at rates of 10-20 micrometers per year with chronic exposure—significant damage over decades. Enamel doesn't regenerate, so once it's gone, it's gone permanently. This can lead to increased tooth sensitivity, greater cavity risk, and eventual tooth loss if left unchecked.
 
@@ -116,11 +115,16 @@ These steps don't make heavy drinking safe, but they minimize damage when you do
 
 Alcohol significantly impacts oral health through multiple mechanisms. Minimal consumption carries minimal oral health risk. Hazardous consumption (over 3 drinks daily, binge drinking) substantially increases cancer risk, especially in combined smokers. Your dentist can screen for problematic use and support you in making healthier choices. If you have concerns about your drinking or your oral health, reach out to your dentist—they're your partner in protecting your long-term wellbeing.
 
+
+Related reading: [How to Remove Plaque and Keep Your Mouth Clean](/article/timeline-for-plaque-removal-methods.html) and [Do Straws Really Protect Your Teeth? What the Research](/article/straw-use-for-beverages-does-it-really-help.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Alcohol significantly impacts oral health through multiple mechanisms. Minimal consumption carries minimal oral health risk. Talk to your dentist about how this applies to your situation.
 
-> **Key Takeaway:** Alcohol affects your oral health in multiple ways beyond just surface-level staining or erosion. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** Alcohol affects your oral health in multiple ways beyond just surface-level staining or erosion.
 
 ## Related Articles
 

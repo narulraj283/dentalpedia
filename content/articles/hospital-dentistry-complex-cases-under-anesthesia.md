@@ -40,7 +40,6 @@ subcategory: Pediatric Overview
 subcategory_slug: overview-pediatric
 title: 'Hospital Dentistry: Complex Cases Under'
 ---
-
 If your young child has severe tooth decay affecting several teeth, hospital dentistry might be the solution. This approach lets your dentist fix all the problems in one visit while your child is safely asleep. For children with extensive cavities, behavior challenges at the dental office, or special healthcare needs, this is often the best option to ensure they get the treatment they need without stress or pain.
 
 ## When Hospital Dentistry Is Right for Your Child

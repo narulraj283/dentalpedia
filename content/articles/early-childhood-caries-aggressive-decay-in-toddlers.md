@@ -20,7 +20,6 @@ references:
   - "Kaste LM, et al. Oral health behaviors and beliefs among pregnant women. Journal of the American Dental Association. 2003;134(6):734-742."
   - "Caufield PW, et al. Initial acquisition of mutans streptococci by infants: Evidence for a discrete window of infectivity. Journal of Dental Research. 1993;72(1):37-45."
 ---
-
 ## Understanding Early Childhood Cavities
 
 Early childhood caries (cavities that develop in toddlers and preschoolers) is surprisingly common, affecting 20-90% of young children depending on where they live and their family's income. These cavities develop rapidly and aggressively, often attacking the upper front teeth first. Many parents are shocked to learn their toddler has multiple cavities, not realizing that babies and young children are just as vulnerable to cavities as older kids and adults—sometimes even more so.
@@ -87,7 +86,7 @@ Work with your pediatric dentist to identify your child's specific risk factors 
 
 To better understand your baby's dental development, learn about [Baby Teeth Development and When They Erupt](/article/baby-teeth-development-and-eruption-timeline.html). For high-risk babies, [Fluoride Varnish Offers Strong Protection](/article/fluoride-varnish-pediatric-high-strength.html) beyond regular toothpaste. And remember that [Diet Plays a Huge Role in Cavity Prevention](/article/dietary-counseling-reducing-cavity-risk-in-kids.html)—limiting sugary drinks makes a dramatic difference.
 
-> **Key Takeaway:** Early childhood cavities develop rapidly in toddlers but are preventable. Learn risk factors and prevention strategies to protect your baby's teeth.
+> **Key Takeaway:** Early childhood caries (cavities that develop in toddlers and preschoolers) is surprisingly common, affecting 20-90% of young children depending on where they live and their family's income.
 
 ## Related Articles
 

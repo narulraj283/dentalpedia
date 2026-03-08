@@ -46,10 +46,9 @@ subcategory: Sports Dentistry Overview
 subcategory_slug: overview-sports
 title: 'Dental Trauma Statistics in Sports: Epidemiology'
 ---
+About 1 in 4 athletes experiences a tooth injury at some point. But you can prevent most of these injuries with a simple tool: a properly fitting mouthguard. Here's what the statistics say about dental trauma in sports and how to protect your teeth.
 
 ## How Often Athletes Lose or Damage Teeth
-
-Sports account for 13-39% of all dental injuries. If you play sports, you need to understand your risk and know how to protect your teeth.
 
 ## How Common Are Dental Injuries in Sports
 
@@ -211,16 +210,6 @@ Know:
 - When to call a dentist
 - The importance of mouthguards
 
-## Questions to Ask Your Dentist
-
-Before sports season starts:
-
-1. "Do I need a custom mouthguard?"
-2. "Do I have any tooth features that increase injury risk?"
-3. "What should I do if I knock out a tooth?"
-4. "Where's the nearest emergency dental clinic?"
-5. "Should I wear a guard during practice, not just games?"
-
 ## The Bottom Line
 
 Sports dental injuries are common but preventable. Custom mouthguards work best and reduce injuries by 60%. If you play contact sports, wear a properly fitted guard for all games and practices.
@@ -240,6 +229,3 @@ Remember that every person's situation is unique. What works well for one patien
 - [Mouthguard Fit: Protection Effectiveness](/article/mouthguard-fit-protection-effectiveness.html)
 - [Sports and Dental Care: Scheduling Treatment Around](/article/dental-care-schedule-around-competition.html)
 
-- [Teeth Grinding in Competition](/article/teeth-grinding-in-competition.html)
-- [Energy Drinks and Athletic Performance](/article/energy-drinks-athlete-consumption-risks.html)
-- [Post-Sport Hydration and Dry Mouth Risk in](/article/post-sport-hydration-dry-mouth-risk.html)

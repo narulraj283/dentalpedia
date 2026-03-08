@@ -30,7 +30,6 @@ references:
   - title: "Lehmann F, Kern M, Schädlich G, Sperlich S. Cementation of computer-milled crowns and inlays. Clin Oral Investig. 2010;14(3):381-386."
     url: https://pubmed.ncbi.nlm.nih.gov/19597833
 ---
-
 ## What Is a Temporary Crown and Why You Need One
 
 When your dentist prepares your tooth for a crown, they remove a significant portion of the tooth to make room for the restoration. But your tooth needs protection between the preparation appointment and when your final crown arrives from the lab. That's where a temporary crown comes in.

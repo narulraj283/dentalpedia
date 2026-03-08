@@ -32,7 +32,6 @@ references:
   - title: "Blatz MB, et al. Restoration longevity in prosthodontics. J Prosthodont. 2011;20(2):91-96."
     url: https://pubmed.ncbi.nlm.nih.gov/21342349
 ---
-
 ## Bonding: Fast and Reversible, But Less Durable
 
 Composite bonding is the least invasive cosmetic option. Your dentist applies tooth-colored resin directly to your tooth surface to cover stains, close gaps, or repair chips. The best advantage: it's reversible. If you don't like the result, your dentist can remove it without permanent damage to your tooth. It's also affordable and fast—usually done in one appointment.
@@ -76,14 +75,6 @@ None of these options is truly permanent. All require replacement or maintenance
 ## Esthetic Outcomes and Expectations
 
 All cosmetic restorations have limitations in matching natural tooth appearance perfectly. Lighting, natural tooth color changes, aging effects on gum position—all these factors affect how your restorations look over time. Discuss realistic expectations with your dentist before committing to any procedure. Ask to see before-and-after photos of other patients with similar needs to understand what's achievable.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about comparing cosmetic restoration types for your smile and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

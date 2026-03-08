@@ -30,7 +30,6 @@ references:
   - title: "Michaelson PL, Holland GR. Is pulpitis a progression of reversible changes in the human pulp? J Dent Res. 2002;81(4):264-271."
     url: https://pubmed.ncbi.nlm.nih.gov/12097362
 ---
-
 ## Understanding Your Tooth Nerve Status: Healthy, Inflamed, or Dead
 
 When your dentist tests your tooth's nerve, they're trying to determine if your tooth falls into one of several categories. Understanding these categories helps you know what's happening with your tooth and why your dentist is recommending specific treatment. Your tooth's nerve (the pulp) can be completely healthy, mildly inflamed and recovering, seriously inflamed, or completely dead. Each condition has different symptoms, different test responses, and different treatment needs.
@@ -80,6 +79,9 @@ If the test results are unclear or mixed, your dentist might recommend waiting a
 Getting the correct diagnosis matters because it determines your treatment. A tooth with reversible pulpitis might only need a filling or a crown to remove the irritating factor. A tooth with irreversible pulpitis needs root canal therapy. A tooth with a dead nerve needs either root canal therapy or extraction. Misdiagnosing which category your tooth is in could mean unnecessary treatment or insufficient treatment.
 
 That's why your dentist takes diagnosis seriously, combines multiple testing methods, and sometimes waits and retests if the initial results are unclear. It's worth taking the time to get it right.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

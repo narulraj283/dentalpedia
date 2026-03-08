@@ -45,7 +45,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: 'Managing Pain After Dental Surgery: What to Expect'
 ---
-
 ## Introduction
 
 Having a tooth extracted or undergoing oral surgery can make you anxious about pain, but the good news is that modern pain management is highly effective. You don't have to suffer through recovery. Your dentist or oral surgeon will take steps before, during, and after surgery to keep you comfortable. Understanding what to expect and how different pain management strategies work helps you prepare mentally and recover smoothly. Most people are pleasantly surprised by how manageable post-surgery discomfort is.

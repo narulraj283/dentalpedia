@@ -20,16 +20,15 @@ references:
   - "Owens K, Buschang PH, Throckmorton GS, Palmer L, Maken J. Masticatory performance and areas of contact for teeth with wear facets. Journal of Dental Research. 2002;81(1):52-57."
   - "Gu XH, Kern M. Fracture strength of porcelain veneers with resin or glass-ionomer luting cement. Journal of Prosthetic Dentistry. 2007;98(3):159-164."
 ---
-
 ## How Strong Is Your Bite?
 
 Picture trying to squeeze a stress ball with your jaw — the pressure you generate is your bite force. Average adults bite with 400-600 Newtons of force at the molars (that's roughly 90-135 pounds of pressure). Think of it this way: your molars experience equivalent force to someone pushing down on them with the weight of 90-135 pound dumbbell.
 
-Smaller, lighter people generate 300-400 Newtons; larger, muscular people (especially athletes) generate 600-900 Newtons. This huge variation matters because your teeth and restorations must tolerate your specific bite force. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+Smaller, lighter people generate 300-400 Newtons; larger, muscular people (especially athletes) generate 600-900 Newtons. This huge variation matters because your teeth and restorations must tolerate your specific bite force.
 
 Your bite force inheritance is 50% genetic (you can thank your parents), 50% influenced by factors you control. Age matters — you bite hardest ages 20-40, then gradually weaken 0.5-1% yearly. Gender differs (men average 15-20% harder bites than women, reflecting muscle mass differences).
 
-Body weight matters — heavier people bite harder. Athletic conditioning makes enormous difference — athletes bite 20-30% harder than couch potatoes. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+Body weight matters — heavier people bite harder. Athletic conditioning makes enormous difference — athletes bite 20-30% harder than couch potatoes.
 
 Your bite force also isn't the same everywhere in your mouth. Front teeth handle about 200-350 Newtons comfortably. Back teeth handle 400-700 Newtons — over three times more force. This is why back teeth wear out faster, break more frequently, and tolerate fewer restoration materials. Your back teeth are designed for power; your front teeth are designed for finesse.
 
@@ -106,6 +105,9 @@ Occlusal adjustment (selective grinding optimizing your bite) improves restorati
 ## Bottom Line on Bite Force
 
 Your individual bite force matters tremendously for tooth health and restoration selection. Understanding your personal bite force, recognizing any grinding habits, and adjusting treatment planning accordingly represents sophisticated personalized dentistry. High-bite-force individuals need stronger materials and careful occlusal planning. Low-bite-force individuals tolerate esthetic materials beautifully. Armed with this knowledge, you and your dentist can make smart restoration choices ensuring decades of success.
+
+
+Related reading: [Comparative Evidence for Dental Restorative Materials](/article/best-practices-for-filling-material-selection.html) and [Postoperative Recovery Protocols and Timeline Following](/article/best-practices-for-oral-surgery-recovery-timeline.html).
 
 ## Conclusion
 

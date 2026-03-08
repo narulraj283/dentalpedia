@@ -20,7 +20,6 @@ references:
   - "Reid JS. Oral rinses in the prevention and treatment of periodontal disease. Periodontol 2000. 2012;60(1):102-112."
   - "Herrera D, Roldan S, Sanz M. The periodontal abscess: a review. J Clin Periodontol. 2000;27(6):377-386."
 ---
-
 ## Is Mouthwash Worth the Money?
 
 Mouthwash is one of those products that seems helpful but you're not sure if it actually matters. The truth is: it depends on what type you use. Some mouthwashes are just candy for your mouth (make your breath smell good for a few hours). Other mouthwashes actually fight cavities and gum disease. Let's sort out which ones work and whether the cost is worth it.
@@ -92,12 +91,6 @@ Cheap rinses without antimicrobial or fluoride ingredients (like breath mints fl
 
 Generic store brands of established formulas (chlorhexidine, CPC, fluoride, Listerine-type) work just as well as name brands at significantly lower cost. Your dental insurance or discount club (like Costco) often has great prices on reputable rinses.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about mouth rinse benefits and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed mouth rinse benefits, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -106,13 +99,13 @@ Once you've addressed mouth rinse benefits, maintaining your results requires on
 
 Good mouth rinses cost $4-12 per month and prevent $500-2,000+ in annual cavity and gum disease treatment. Chlorhexidine is strongest but best short-term. CPC and fluoride are excellent for long-term daily use. Talk to your dentist about which rinse makes sense for your specific situation.
 
-> **Key Takeaway:** Mouth rinses cost $4-12 monthly and reduce cavities 20-35% and gum inflammation 15-25%, preventing $500-2,000+ in preventive treatment annually.
+> **Key Takeaway:** Mouthwash is one of those products that seems helpful but you're not sure if it actually matters.
 
 ## Related Articles
 
 - [Cost of Gum Disease Prevention](/article/cost-of-gum-disease-prevention.html)
 - [LED Whitening Kits: Light-Accelerated Bleaching](/article/led-whitening-kits-light-accelerated-bleaching.html)
-- [Evidence-Based Caries Prevention Strategies:](/article/timeline-for-cavity-prevention-methods.html)
+- [Evidence-Based Caries Prevention Strategies](/article/timeline-for-cavity-prevention-methods.html)
 - [Mouth Rinse Benefits: What You Need to Know](/article/mouth-rinse-benefits-what-you-need-to-know.html)
 - [Flossing Benefits: What You Need to Know](/article/flossing-benefits-what-you-need-to-know.html)
 

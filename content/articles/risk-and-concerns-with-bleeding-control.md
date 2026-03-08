@@ -84,6 +84,9 @@ Pain after extraction is normal and expected. Your dentist likely prescribed or 
 
 Swelling is also normal and often increases over the first 24 hours before improving. Apply ice packs for 15 minutes on and 15 minutes off for the first 24 hours to minimize swelling. After 48 hours, switch to warm compresses if swelling persists.
 
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
 Understanding how to manage bleeding after extraction empowers you to care for yourself properly at home. By following your dentist's instructions, using appropriate home remedies like gauze and tea bags, and knowing when to call your dentist, you help ensure your extraction site heals without complications. Your blood clot is your extraction site's best friend—protect it, and your recovery will be smooth and uneventful.

@@ -20,7 +20,6 @@ references:
   - "Haffajee AD, Teles RP, Socransky SS. Association of various bacterial species with periodontal status and treatment outcome. J Clin Periodontol. 2006;33(1):31-47."
   - "O'Neill GM, Brock P. Efficacy of a sonic scaler and a mechanical curette in subgingival plaque removal. J Clin Periodontol. 1994;21(10):666-670."
 ---
-
 ## Understanding Subgingival Calculus (Tartar Below the Gum Line)
 
 Subgingival calculus forms below your gum line—in the pockets between teeth and gums. Unlike visible tartar above the gums, this hidden buildup can't be removed with home brushing or flossing. It forms from minerals in gum fluid and creates a hard, cement-like substance that houses harmful bacteria. This subgingival tartar directly causes gum disease and tooth loss if left untreated.
@@ -89,17 +88,12 @@ Conclusion
 
 Subgingival calculus accelerates gum disease and bone loss when left untreated. Professional scaling and root planing removes this hidden buildup, allowing 60-75% of patients to achieve significant gum healing. Subsequent maintenance cleanings at 3-4 month intervals prevent rapid calculus regrowth. With consistent professional care and excellent home hygiene, treated gum disease can stabilize and prevent tooth loss.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about calculus subgingival below gum buildup and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about calculus subgingival: below-gum buildup and periodontal or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Subgingival tartar below the gum line causes gum disease and requires professional removal through scaling and root planing. Regular 3-4 month maintenance cleanings prevent recurrence and preserve your teeth.
+
+> **Key Takeaway:** Tartar buildup below the gum line causes gum disease and requires professional removal.
 
 ## Related Articles
 

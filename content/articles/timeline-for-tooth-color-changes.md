@@ -32,7 +32,6 @@ references:
   - title: "Lussi A, Schaffner M, Hotz P, et al. Dental erosion in children from high-fluoride areas and in children with high dietary acid intakes. Journal of Dental Research. 1997;76(4):836-843."
     url: https://pubmed.ncbi.nlm.nih.gov/9126178
 ---
-
 ## Why Your Teeth Change Color and What You Can Do About It
 
 Your teeth aren't static. They change color throughout your life—sometimes subtly, sometimes noticeably. Understanding why your teeth discolor and what causes different types of staining helps you prevent it, treat it, or accept it as normal aging.

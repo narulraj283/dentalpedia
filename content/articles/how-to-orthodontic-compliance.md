@@ -28,7 +28,6 @@ references:
   - title: "Interceptive Treatment Compliance in Children and Adolescents"
     url: "https://www.ncbi.nlm.nih.gov/pubmed/28470226"
 ---
-
 Orthodontists spend years learning how to straighten teeth, but your success depends on you just as much as it depends on them. When patients follow their orthodontist's instructions carefully, treatment moves faster and produces better results. When they don't, treatment gets longer, and the final outcome can be disappointing. The difference comes down to what researchers call "compliance"—showing up to appointments, wearing your elastics, keeping your teeth clean, and following all the other instructions you're given. Learning more about [how often do you need orthodontic appointments?](/article/how-to-orthodontic-appointment-frequency.html) can help you understand this better.
 
 ## What Compliance Really Means
@@ -103,6 +102,9 @@ Some orthodontists bond a thin wire on the back of your front teeth that you can
 
 The research is clear: when patients understand why they need to do something, get clear and simple instructions, get reminders and encouragement at every visit, and can openly discuss what's getting in their way, they follow through much better. Your orthodontist isn't just teaching you about teeth—they're helping you develop better habits and reach your goals. Let them know what you need to succeed.
 
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
 Your orthodontic success depends on your commitment to showing up, following instructions, staying clean, and wearing what you're supposed to wear. Each component matters, and all of them together determine your results. Understanding what you need to do and why you need to do it is the first step. The second step is actually doing it.
@@ -112,7 +114,7 @@ Your orthodontic success depends on your commitment to showing up, following ins
 ## Related Articles
 
 - [Your Guide to Retainers After Braces](/article/how-to-retainer-importance.html)
-- [Traditional Metal Braces Components—Brackets,](/article/traditional-metal-braces-brackets-and-wires-explained.html)
+- [Traditional Metal Braces Components—Brackets, Wires](/article/traditional-metal-braces-brackets-and-wires-explained.html)
 - [Why Your Clear Aligners Must Be Worn 22 Hours Daily](/article/risk-and-concerns-with-aligner-wear-schedule.html)
 - [Class I Occlusion: Ideal Dental Bite Relationships and](/article/class-i-occlusion-ideal-bite-relationships.html)
 - [Hidden Braces for Adults: Comprehensive Guide](/article/lingual-braces-hidden-orthodontics-behind-your-teeth.html)

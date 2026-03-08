@@ -20,7 +20,6 @@ references:
   - "Sjogren U, Figdor D, Persson S, Sundqvist G. Microbiologic analysis of teeth with failed endodontic treatment and the outcome of retreatment. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 1990;71(5):603-610."
   - "Seltzer S, Bender IB, Ziontz M. The dynamics of periapical inflammation in endodontic therapy. Oral Surg Oral Med Oral Pathol. 1963;16(1):846-871."
 ---
-
 When you have a tooth infection that becomes severe, it's a true dental emergency that needs immediate attention. Your dentist treats this by draining the infection, removing the infected pulp (the nerve tissue inside your tooth), and giving you antibiotics to help your body fight the bacteria. This article explains what happens during a serious tooth infection and how dentists manage it to protect your health.
 
 ## What's the Difference Between Chronic and Acute Infections?
@@ -75,7 +74,7 @@ Once you've had a serious tooth infection, you're at higher risk for future prob
 
 An acute tooth infection requires fast treatment to stop pain and prevent serious complications. Your dentist will drain the infection, treat the tooth, and give you antibiotics to help your body heal. Most patients feel much better within 24-48 hours. The key is recognizing emergency symptoms early and seeking treatment immediately rather than hoping the problem resolves on its own. With modern emergency dental care, serious infections that once threatened health can now be managed successfully, allowing you to keep your natural tooth.
 
-> **Key Takeaway:** When you have a tooth infection that becomes severe, it's a true dental emergency that needs immediate attention.
+> **Key Takeaway:** Your dentist treats this by draining the infection, removing the infected pulp (the nerve tissue inside your tooth), and giving you antibiotics to help your body fight the bacteria. This article explains what happens during a serious tooth infection and how dentists manage it to protect your health.
 
 ## Related Articles
 

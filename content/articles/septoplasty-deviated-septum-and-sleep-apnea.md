@@ -43,7 +43,6 @@ subcategory: TMJ & Sleep Overview
 subcategory_slug: overview-tmj-sleep
 title: Septoplasty Deviated Septum and Sleep Apnea
 ---
-
 ## Introduction
 
 If you snore loudly or wake up gasping for breath at night, you might have sleep apnea—a condition where your breathing actually stops during sleep. One factor that can contribute to sleep apnea is a deviated nasal septum, the wall between your nostrils. When your septum leans to one side and blocks your airflow, it forces you to breathe through your mouth at night, which makes it easier for your airway to collapse. Your dentist can help assess your airway, but sometimes a nasal surgeon's help is needed to correct the septum. Understanding how your nasal anatomy affects your sleep quality and health is important for getting proper treatment.
@@ -109,9 +108,6 @@ Optimal patient selection for nasal surgery in OSA requires careful assessment o
 
 Discussion of realistic expectations is essential before pursuing nasal surgery. Patients should understand that nasal surgery may improve but unlikely eliminate OSA if other significant anatomic contributors exist. However, nasal obstruction correction may enhance the efficacy of concurrent treatments (oral appliances, CPAP) or may reduce OSA severity to the point where previously inadequate treatment becomes sufficient.
 
-## Conclusion
-
-A deviated nasal septum can contribute to sleep apnea by forcing mouth breathing and making airway collapse more likely. Septoplasty may help improve breathing and reduce sleep apnea severity, particularly when nasal obstruction is a significant factor. However, sleep apnea is usually multifactorial, so nasal surgery alone often isn't sufficient. Work with your doctor and dentist to understand which treatments—surgery, CPAP, dental devices, or combinations—make sense for your specific situation.
 
 ## Conclusion
 

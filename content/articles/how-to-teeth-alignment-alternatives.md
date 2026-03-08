@@ -32,7 +32,6 @@ references:
   - title: "Retention protocols and relapse prevention following aligner therapy"
     url: https://www.ncbi.nlm.nih.gov/pubmed/17092344
 ---
-
 Not everyone wants traditional braces. If you're looking for straighter teeth, you actually have multiple options—from clear aligners that are almost invisible to invisible braces bonded behind your teeth, to even cosmetic solutions for minor alignment issues. The right choice depends on how severe your alignment problem is, your lifestyle, and what matters most to you (speed, invisibility, cost). Learning more about [Why Retainers Matter After Braces](/article/how-to-retainer-importance.html) can help you understand this better.
 
 ## Clear Aligners: Almost Invisible
@@ -113,12 +112,6 @@ For only 1-2 misaligned teeth—cosmetic bonding or veneers.
 ## Retention After Treatment
 
 Whichever option you choose, you'll need retainers afterward. Learn why retainers are essential—without them, teeth naturally drift back toward their original positions, undoing months or years of treatment.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about how to teeth alignment alternatives and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

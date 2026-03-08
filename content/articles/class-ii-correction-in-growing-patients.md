@@ -20,7 +20,6 @@ references:
   - "Forssberg CM. A developmental and positional study of the nasal septum. Am J Orthod. 1983;84(6):473-485."
   - "Leighton BC. The early signs of malocclusion. Trans Br Soc Study Orthod. 1966;53:119-131."
 ---
-
 ## Understanding Class II Bite Problems in Children
 
 A Class II bite, often called an "overbite," happens when your child's lower jaw is positioned too far back compared to the upper jaw. This creates a mismatch where the upper front teeth stick out more than they should, and the upper back teeth don't line up properly with the lower back teeth. About 30-40% of children have some degree of Class II bite, making it one of the most common bite problems orthodontists see.
@@ -79,7 +78,7 @@ The good news is that when Class II bites are corrected early using growth-modif
 
 Correcting a Class II bite during your child's growth years is like giving them a gift of lifelong dental health. By using growth-modification appliances, orthodontists can guide natural growth to correct what would otherwise be a significant bite problem. With early intervention, most children avoid the need for jaw surgery and achieve beautiful, functional bites.
 
-> **Key Takeaway:** How orthodontists use your child's natural growth to correct a Class II bite where the lower jaw is positioned too far back.
+> **Key Takeaway:** A Class II bite, often called an "overbite," happens when your child's lower jaw is positioned too far back compared to the upper jaw.
 
 ## Related Articles
 

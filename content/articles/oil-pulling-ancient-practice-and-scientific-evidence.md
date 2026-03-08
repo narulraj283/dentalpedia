@@ -28,7 +28,6 @@ references:
   - title: "Oral Hygiene Methods and Periodontal Health: Evidence-Based Recommendations"
     url: "https://www.ncbi.nlm.nih.gov/pubmed/18690903"
 ---
-
 Oil pulling has exploded in popularity thanks to social media, with celebrities and wellness influencers promoting it as a natural way to whiten teeth, fight cavities, and even detoxify your whole body. The idea sounds appealing: swish coconut or sesame oil in your mouth for 15-20 minutes, spit it out, and your teeth get healthier. But here's the honest truth that most wellness articles won't tell you: the science doesn't support these claims. While oil pulling isn't harmful if you do it occasionally, it absolutely cannot replace brushing, flossing, or professional dental care.
 
 ## Where Oil Pulling Comes From
@@ -68,14 +67,6 @@ You can enjoy oil pulling if it makes you feel good—the ritual can be psycholo
 You don't need oil pulling to have healthy teeth. You need: brushing twice daily with fluoride toothpaste, daily flossing, regular professional cleanings (typically every 6 months), fluoride treatments if you're cavity-prone, and limiting sugar between meals. If you want to add oil pulling to this solid foundation, that's fine. But the foundation is what actually keeps your teeth healthy.
 
 If you're interested in natural approaches, talk to your dentist. They can recommend evidence-based natural options and help you skip the trends that don't actually work. Being "natural" doesn't automatically mean it works—science and evidence matter.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about oil pulling—ancient practice and current scientific evidence and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

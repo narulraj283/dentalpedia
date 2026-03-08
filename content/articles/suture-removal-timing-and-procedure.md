@@ -32,7 +32,6 @@ references:
   - title: "Cascarini L, Pagliuca G. Extraction of impacted lower third molars: a comparative study of rotary and ultrasonic instrumentation. J Oral Maxillofac Surg. 2015;44(3):185-190."
     url: https://pubmed.ncbi.nlm.nih.gov/25888361
 ---
-
 ## Why Your Surgeon Uses Stitches and When They Come Out
 
 Your surgeon uses stitches to hold your gum edges together during healing while protecting you from infection. The timing stitches come out depends on how complicated your surgery was and how well your wound is healing.
@@ -66,12 +65,6 @@ If your wound shows signs of delayed healing—active infection, excessive ongoi
 Your wound will be fragile for the first day. Avoid hot foods, aggressive rinsing, or trauma to the area. After 24 hours, gentle saline rinses help keep the area clean. Most patients can resume normal eating within 1-2 days.
 
 Your scar continues maturing for 6-12 weeks after stitch removal. It will gradually become lighter and less noticeable.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss suture removal timing and procedure, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 
@@ -111,7 +104,7 @@ Remember that every person's situation is unique. What works well for one patien
 
 ## Related Articles
 
-- [Extraction Complication Timeline: Prevention,](/article/timeline-for-extraction-complications.html)
+- [Extraction Complication Timeline: Prevention](/article/timeline-for-extraction-complications.html)
 - [Bone Grafting Essentials: Patient Guide to Surgical](/article/bone-grafting-procedure-what-you-need-to-know.html)
 - [Flap Surgery: Accessing Bone for Treatment](/article/flap-surgery-accessing-bone-for-treatment.html)
 

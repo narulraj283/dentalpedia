@@ -32,7 +32,6 @@ references:
   - title: "Implant angulation and load distribution in immediate protocols"
     url: https://www.ncbi.nlm.nih.gov/pubmed/41567890
 ---
-
 ## What Are Immediate Load Implants?
 
 Immediate load implants are dental implants that get a temporary tooth crown the same day the implant is surgically placed. Instead of waiting 3-6 months for the implant to integrate with your jaw bone before getting a crown, you leave your surgery appointment with a functioning replacement tooth. Learning more about [implant candidacy: are you suitable for implants?](/article/implant-candidacy-are-you-a-suitable-candidate.html) can help you understand this better.
@@ -102,12 +101,6 @@ Total time from implant placement to permanent crown is usually 4-5 months with 
 Immediate load implants offer convenience and immediate esthetics. Traditional implants (waiting 3-6 months before placing a crown) have a longer treatment timeline but arguably lower failure risk because the implant has more time to stabilize before bearing load.
 
 For most patients with good bone quality, immediate load implants work excellently. For patients with compromised bone, traditional loading is often safer.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about immediate load implant teeth same day and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

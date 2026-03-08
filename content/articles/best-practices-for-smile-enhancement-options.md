@@ -27,7 +27,6 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Comprehensive Smile Enhancement Treatment Modalities
 ---
-
 ## Start Simple, Escalate Only If Needed
 
 The smartest approach to smile enhancement follows a simple rule: try the least invasive option first. If whitening alone solves your problem, why get bonding? If bonding fixes it, why get veneers? Preserve tooth structure whenever possible because once tooth structure is removed (for veneers or crowns), that's permanent—you're committed to replacements for life.
@@ -176,21 +175,6 @@ Sometimes cosmetic work reveals or causes sensitivity:
 **Post-whitening sensitivity**: Temporary, improves within 48 hours. Desensitizing gel helps. Sensitivity after veneers suggests marginal gaps needing attention.
 
 **Long-term sensitivity**: If it develops months after treatment, contact your dentist—something might need adjustment or repair.
-
-## Questions to Ask Your Dentist
-
-When evaluating smile enhancement options:
-
-- Which single treatment solves my main concern?
-- What combination of treatments gives best results for my situation?
-- What's the most cost-effective approach?
-- How natural will results look?
-- What's the expected lifespan of each treatment?
-- What's the maintenance plan?
-- Can you show me digital previews?
-- What are potential complications?
-- If I'm unhappy with results, what are my options?
-- What's your success rate with the treatments you're recommending?
 
 ## The Golden Rule
 

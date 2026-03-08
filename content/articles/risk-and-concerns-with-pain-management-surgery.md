@@ -47,7 +47,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Risk and Concerns with Pain Management Surgery
 ---
-
 ## Introduction
 
 After oral surgery like tooth extraction, managing pain is crucial. But your surgeon faces a difficult balancing act: strong pain medications can lead to addiction, common pain relievers can cause bleeding or liver damage, and sometimes patients don't get enough pain relief. Understanding these risks helps you work with your surgical team to find the best pain management approach for your situation. Your surgeon wants you comfortable—but safe.
@@ -94,14 +93,6 @@ Understanding normal post-surgery pain helps you adjust medications appropriatel
 
 Your surgeon will tell you exactly when to take pain medication, maximum daily doses, and whether you should take it with food. Follow these instructions closely. If you have side effects like excessive drowsiness or unusual bleeding, contact your surgeon right away.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about risk and concerns with pain management following oral... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed risk and concerns with pain management following oral..., maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference in how long your results last.
@@ -109,6 +100,9 @@ Once you've addressed risk and concerns with pain management following oral..., 
 Pay attention to any changes in your mouth and report them to your dentist early. Catching small issues before they become bigger problems saves you time, money, and discomfort. Your dentist may recommend specific products or routines based on your treatment.
 
 Diet also plays a role in protecting your dental health. Limiting sugary snacks and acidic drinks helps preserve your teeth and any dental work you've had done. Drinking water throughout the day helps wash away food particles and keeps your mouth hydrated.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

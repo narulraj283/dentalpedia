@@ -18,7 +18,6 @@ references:
   - title: "Perdigão J, Francci C, Swift EJ, et al. Ultra-conservative resin restorations in anterior teeth. Quintessence International. 1994;25(8):555-563."
     url: https://pubmed.ncbi.nlm.nih.gov/8022210
 ---
-
 ## How Professional Tooth Bleaching Works
 
 Professional teeth bleaching uses carefully controlled hydrogen peroxide or carbamide peroxide to safely lighten tooth color. Your dentist applies the bleaching agent directly to your teeth and manages the concentration and exposure time to maximize whitening while minimizing side effects.

@@ -20,7 +20,6 @@ references:
   - "Goodman H, et al. Complications of intravenous sedation in dentistry. Anesth Prog. 2005;52(4):119-126."
   - "Meechan JG, et al. The incidence of anatomical variations of the infraorbital nerve and foramen. Br J Oral Maxillofac Surg. 2004;42(4):313-317."
 ---
-
 ## Types of Anesthesia: Understanding Your Options
 
 When you have dental work, you need to be numb so you don't feel pain. There are several types of anesthesia your dentist might use, and each works differently and is appropriate for different situations. Understanding these options helps you know what to expect.
@@ -86,7 +85,7 @@ If you've had problems with anesthesia in the past, discuss this specifically. Y
 
 Different anesthesia types serve different purposes. Local anesthesia (infiltration or regional block) is safe, effective, and appropriate for most dental procedures. If you're anxious, sedation can be combined with local anesthesia. Understanding what type your dentist recommends and why helps you feel more comfortable with your treatment plan.
 
-> **Key Takeaway:** When you have dental work, you need to be numb so you don't feel pain.
+> **Key Takeaway:** There are several types of anesthesia your dentist might use, and each works differently and is appropriate for different situations. Understanding these options helps you know what to expect.
 
 ## Related Articles
 

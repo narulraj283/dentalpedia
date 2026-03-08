@@ -22,7 +22,6 @@ references:
   - "Selwitz RH, Ismail AI, Pitts NB. Dental caries. Lancet. 2007;369(9555):51-59."
   - "Ekstrand KR, Zero DT, Martens LC, et al. International Caries Detection and Assessment System (ICDAS) - An integrated system for measuring dental caries. Community Dent Oral Epidemiol. 2010;38(1):3-17."
 ---
-
 How do cavities actually form? It's not like a light switch that suddenly turns on. Cavities develop through stages over weeks or months. The earlier you stop the cavity at one of these stages, the cheaper it is to fix. Let's walk through what happens and how much each stage costs to treat.
 
 ## Stage 1: Bacteria Start Accumulating ($0 Cost)
@@ -127,22 +126,13 @@ Good news: most dental insurance covers preventive services (cleanings, fluoride
 
 Understanding your specific [Cavity Risk Factors](/article/cost-of-cavity-risk-factors.html) helps you and your dentist determine whether you need aggressive prevention strategies or standard approaches. Risk factors vary from person to person, but knowing yours allows for personalized planning.
 
-## Questions to Ask Your Dentist About Your Cavity Risk
-
-- Based on my history, what's my cavity risk level?
-- If my dentist finds a white spot, would you remineralize it or just monitor it?
-- What prevention would you recommend for my risk level?
-- Do you recommend fluoride therapy for me?
-- What's the best way for me to prevent cavities at home?
-- How often should I visit for cleanings and checkups?
-
 ## Conclusion
 
 Cavities form in stages over weeks or months. At every stage, there's a cost to treat—but the earlier you catch it, the cheaper it is. A cavity caught at the white spot stage costs $100-$300 in remineralization therapy.
 
 The same cavity ignored until it reaches the nerve costs $1,400-$3,000 or more. Understanding cavity formation helps you understand why your dentist recommends regular checkups, fluoride for high-risk patients, and dietary changes. Prevention and early treatment are the cheapest way to keep your teeth healthy. The most expensive lesson is waiting until you're in pain to treat a cavity.
 
-> **Key Takeaway:** How do cavities actually form? It's not like a light switch that suddenly turns on. Cavities develop through stages over weeks or months.
+> **Key Takeaway:** How do cavities actually form? It's not like a light switch that suddenly turns on.
 
 ## Related Articles
 

@@ -28,7 +28,6 @@ references:
   - title: "Retention and Recession Prevention"
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/jcpe.12877
 ---
-
 ## Protecting Your Gums During Braces
 
 Orthodontic treatment moves teeth, which can inadvertently damage gums if you're not careful. Gum recession—when gum tissue recedes and roots expose—is a potential complication. Understanding your risk factors and prevention strategies protects your periodontal health during treatment.
@@ -118,13 +117,8 @@ After orthodontics, prevent recession through:
 - Regular professional monitoring
 - Early treatment of gum disease
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about gum recession from braces risk factors and prevention and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

@@ -22,7 +22,6 @@ references:
   - "Socransky SS, Haffajee AD. Periodontal microbial ecology. Periodontol 2000. 2005;38:135-187."
   - "Graves DT, Cochran D. The contribution of T lymphocytes to periodontal protective immunity. Periodontol 2000. 2003;31:55-69."
 ---
-
 ## Why the Spaces Between Your Teeth Matter
 
 Your toothbrush does a great job cleaning the surfaces it can reach, but here's the problem: it can't get between your teeth. Those tight spaces between adjacent teeth—about 30 to 40 percent of your tooth surfaces—are basically off-limits to your toothbrush bristles. Bacteria love these hidden areas because they can hide out and multiply without interference. This is where flossing comes in. It's the only common tool that can reach into these spaces and remove the sticky plaque (a film of bacteria and food particles) before it causes trouble.
@@ -85,7 +84,7 @@ Flossing is one of the most important things you can do to prevent gum disease a
 
 You don't need expensive products or complicated techniques. Simple daily flossing with proper gentle technique gives you results. Talk to your dentist about the flossing method that will work best for your specific situation.
 
-> **Key Takeaway:** Your toothbrush does a great job cleaning the surfaces it can reach, but here's the problem: it can't get between your teeth.
+> **Key Takeaway:** Those tight spaces between adjacent teeth—about 30 to 40 percent of your tooth surfaces—are basically off-limits to your toothbrush bristles. Bacteria love these hidden areas because they can hide out and multiply without interference.
 
 ## Related Articles
 

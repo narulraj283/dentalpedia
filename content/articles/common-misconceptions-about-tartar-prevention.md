@@ -32,7 +32,6 @@ subcategory: Preventive Overview
 subcategory_slug: overview-prevent
 title: 'Tartar Control and Calculus Prevention: Mechanisms'
 ---
-
 You brush and floss faithfully, but tartar still builds up on your teeth. Meanwhile, your neighbor with perfect teeth never seems to get tartar, even with less-than-perfect hygiene. There's actually science behind this frustrating difference, and it's more about your saliva than your toothbrush.
 
 ## Is Tartar Really Just About Brushing?
@@ -93,17 +92,11 @@ Yes, even with genetic factors working against you. Good oral hygiene definitely
 
 If you're a "heavy tartar former," tell your dentist. They can adjust your cleaning schedule and give you specific advice for your situation.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about tartar prevention and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 Tartar buildup is influenced by both your genetics (saliva chemistry you're born with) and your habits (brushing, smoking, professional cleanings). While you can't change your genetics, you can control your cleaning routine, whether you smoke, and how often you see your dentist. For heavy tartar formers, more frequent professional cleanings (every 3-4 months instead of 6) combined with good home care works better than expecting complete prevention.
 
-> **Key Takeaway:** Why you keep getting tartar buildup and what actually works to prevent it, including some surprising facts about genetics and saliva.
+> **Key Takeaway:** You brush and floss faithfully, but tartar still builds up on your teeth.
 
 ## Related Articles
 

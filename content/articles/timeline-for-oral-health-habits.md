@@ -32,7 +32,6 @@ references:
   - title: "Giacaman RA. Sugars and beyond. The role of sugary foods in the prevalence of caries and their social determinants. Community Dent Oral Epidemiol. 2018;46(1):30-38."
     url: https://pubmed.ncbi.nlm.nih.gov/28885674
 ---
-
 ## Introduction
 
 Building healthy teeth habits sounds simple—just brush and floss daily, right? The reality is that lasting oral health comes from turning good behaviors into automatic routines. Research shows that about 40-50% of what we do each day happens automatically through habit rather than conscious decision-making. This means that if you can make teeth care automatic, you're much more likely to stick with it for life.

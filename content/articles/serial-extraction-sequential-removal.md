@@ -23,7 +23,6 @@ subcategory: Interceptive Treatment
 subcategory_slug: interceptive-treatment
 title: Serial Extraction Sequential Removal
 ---
-
 ## Introduction
 
 Serial extraction sounds dramatic—the idea of removing healthy baby teeth on purpose—but it's actually a preventive orthodontic strategy. The basic idea is simple: by removing certain baby teeth at the right times, you can create space for permanent teeth to erupt in better positions. This sometimes prevents the need for extensive braces later.
@@ -142,5 +141,5 @@ Serial extraction is an interceptive strategy that removes baby teeth strategica
 - [How Often Do You Need Orthodontic Appointments?](/article/how-to-orthodontic-appointment-frequency.html)
 - [Clear Aligner Systems: Advantages, Limitations, and](/article/timeline-for-invisible-braces-benefits.html)
 - [Common Misconceptions About Clear Aligner Comparison](/article/common-misconceptions-about-clear-aligner-comparison.html)
-- [Bracket Placement and Exact Positioning: Slot Height,](/article/bracket-placement-exact-positioning.html)
+- [Bracket Placement and Exact Positioning: Slot Height](/article/bracket-placement-exact-positioning.html)
 

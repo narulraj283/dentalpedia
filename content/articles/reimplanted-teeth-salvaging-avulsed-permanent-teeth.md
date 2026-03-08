@@ -45,7 +45,6 @@ subcategory: Emergency Overview
 subcategory_slug: overview-emergency
 title: 'Reimplanted Teeth: Salvaging Avulsed Permanent'
 ---
-
 ## What Happens When a Tooth Is Knocked Out
 
 If you've had a tooth completely knocked out (avulsed), you probably felt panicked. This is one of the most serious dental emergencies because your tooth can actually be saved if you act quickly. About one in every 200-300 dental injuries involves a complete tooth avulsion. The good news is that with immediate action and proper emergency treatment, many avulsed teeth can be successfully restored to health and kept for years or even for life. Time is critical—the faster you get your tooth back in place, the better the outcome.
@@ -94,9 +93,6 @@ You'll need to take extra care of this tooth long-term. Avoid hard or sticky foo
 
 ression, poorly controlled diabetes, or other conditions impairing wound healing may necessitate more aggressive antimicrobial protocols and modified endodontic timing. Pediatric patients presenting with avulsion of developing permanent teeth represent a particularly challenging scenario, requiring preservation of tooth vitality when feasible to permit continued root development and apical closure. In these cases, pulpotomy procedures preserving coronal pulpal vitality while removing infected apical tissue may be considered as an alternative to complete root canal treatment.
 
-## Conclusion
-
-A completely knocked-out tooth is a true dental emergency, but it's one of the few emergencies where you can actually save your natural tooth if you act fast. Getting the tooth back into the socket quickly—ideally within 15 minutes—is the single most important factor in predicting success. Storing the tooth properly while you get to emergency care, having your dentist reimplant and stabilize it, and then completing root canal treatment give your tooth the best chance of long-term survival. While complications like root resorption can eventually affect reimplanted teeth, many people successfully keep their avulsed teeth functional and healthy for many years with appropriate emergency care and follow-up.
 
 ## Conclusion
 

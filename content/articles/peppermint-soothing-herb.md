@@ -47,7 +47,6 @@ subcategory: Holistic Overview
 subcategory_slug: overview-holistic
 title: Peppermint Soothing Herb
 ---
-
 ## Why People Love Peppermint for Oral Care
 
 Peppermint has been used for thousands of years in traditional medicine to help with digestion and provide soothing relief. Today, peppermint and its key ingredient, menthol, are everywhere in dental products—from toothpaste to mouthwash to lozenges. The herb has real biological activity that interests dental researchers, but you should understand what peppermint can actually do for your teeth and gums versus what's just clever marketing. This article explains the science behind peppermint's claims and helps you decide if peppermint products fit into your oral care routine.

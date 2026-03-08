@@ -11,7 +11,6 @@ subcategory: Emergency Overview
 subcategory_slug: overview-emergency
 reviewed: true
 ---
-
 ## What Just Happened
 
 A knocked-out tooth (called avulsion) is one of the most urgent dental emergencies. The good news: teeth that are replanted quickly have an excellent chance of survival and function. The key is knowing what to do in the first minutes after it happens.

@@ -41,7 +41,6 @@ subcategory: Pediatric Overview
 subcategory_slug: overview-peds
 title: Silver Amalgam vs Composite Child Friendly Materials
 ---
-
 ## Choosing the Right Filling Material for Your Child's Teeth
 
 When your child needs a cavity filled, your pediatric dentist might suggest two main types of materials: silver amalgam (a metal-based filling) or composite resin (a tooth-colored plastic). Each material has its own strengths and weaknesses, and your dentist will help you choose the best option for your child's situation. The goal is simple: keep your child's temporary baby teeth healthy until they naturally fall out and are replaced by permanent adult teeth. 
@@ -83,14 +82,6 @@ However, most baby molars aren't visible when kids smile or talk. For these hidd
 Your dentist recommends amalgam for extensive decay in back teeth, especially if your child finds it hard to sit still or if the cavity extends below the gum line. Composite works better for small cavities in front teeth where appearance matters and when your child can cooperate perfectly with the dentist. Remember: baby teeth are temporary.
 
 Your child's permanent adult teeth haven't even come in yet. Choosing the filling material that will last the longest and require the fewest replacements often makes the most practical sense for your family. Explore more about [Preventing Cavities](/article/tooth-decay-prevention-complete-guide.html) and [Childhood Cavity Prevention](/article/childhood-cavities-prevention-and-early-treatment.html).
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about silver amalgam vs composite resins in pediatric... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

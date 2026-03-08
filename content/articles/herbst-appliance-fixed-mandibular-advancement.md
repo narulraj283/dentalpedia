@@ -32,7 +32,6 @@ references:
   - title: "Stability of Class II correction: Long-term follow-up study (10+ years)"
     url: https://www.ncbi.nlm.nih.gov/pubmed/11583481
 ---
-
 If your orthodontist mentioned a Herbst appliance, you might wonder what it is and how it works. It's a special fixed appliance (meaning you can't remove it) designed to help correct a common bite problem where your lower jaw is positioned too far back. Unlike removable braces that rely on you remembering to wear them, a Herbst appliance works 24/7 to gradually reposition your jaw while still allowing you to eat and speak normally.
 
 ## What It Looks Like and How It Works
@@ -69,15 +68,12 @@ Once your Herbst treatment is done (usually 12-18 months), your orthodontist rem
 
 In about 10-20% of patients, Herbst treatment causes some root resorption (roots getting slightly shorter), which is usually minor but worth knowing about. It's less likely if your orthodontist advances your jaw gradually rather than aggressively. Some patients develop an open bite (front teeth don't touch) during treatment, but this usually improves when you transition to regular braces. Your orthodontist monitors for these issues at every appointment.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about herbst appliance fixed mandibular advancement and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed herbst appliance fixed mandibular advancement, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

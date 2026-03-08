@@ -1,11 +1,11 @@
 ---
+category: General Dentistry
 category_slug: general-dentistry
 excerpt: A "gummy smile"—showing excessive gum when you smile—bothers many people.
   Dentists, who see thousands of smiles, notice gum display that most people would
 slug: risk-and-concerns-with-gummy-smile-fix
 title: Risk and Concerns with Gummy Smile Fix
 ---
-
 ## Introduction
 
 A "gummy smile"—showing excessive gum when you smile—bothers many people. Dentists, who see thousands of smiles, notice gum display that most people would consider completely normal. This creates pressure to "fix" something that isn't actually broken. Multiple treatment options exist, each with specific risks and limitations. Understanding what constitutes actual pathology versus cosmetic preference, and knowing the realistic complications of each approach, helps you make informed decisions about whether treatment is right for you.
@@ -65,6 +65,9 @@ Orthognathic surgery is appropriate only when genuine skeletal pathology exists�
 Before pursuing any gummy smile correction, your dentist should determine the cause. Is excessive gum display from excessive gingiva (soft tissue)? From excessive vertical maxilla (skeletal)? From lip anatomy? Different causes warrant different treatments.
 
 Most people requesting gummy smile correction actually have normal anatomy—their smile just displays more gum than the cosmetic ideal. This is important: you don't have pathology that needs "fixing."
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 > **Key Takeaway:** Gummy smile correction ranges from reversible minimally invasive options (Botox) to major surgical interventions (orthognathic surgery), each with distinct risk-benefit profiles. Before pursuing treatment, honestly assess whether this is a genuine concern for you or whether you're responding to external pressure. For mild excessive gingival display in people satisfied with their smile otherwise, acceptance rather than treatment might be the wisest choice. If treatment is important to you, discuss your specific anatomy with your dentist to identify which approach matches your situation, understand the realistic complications and revision rates, and accept that perfect correction is elusive—most treatments involve trade-offs between reducing gum display and potentially creating different cosmetic or functional concerns.
 

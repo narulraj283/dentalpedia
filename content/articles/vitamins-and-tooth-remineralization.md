@@ -32,7 +32,6 @@ references:
   - title: "Remineralization Efficacy of Topical Agents Containing Calcium, Phosphate, and Fluoride"
     url: https://pubmed.ncbi.nlm.nih.gov/28272234
 ---
-
 ## Your Teeth Can Repair Themselves (With the Right Support)
 
 Here's something that might surprise you: your teeth can actually repair early damage if you give them the right conditions. When a cavity first starts forming, it creates tiny holes in the enamel surface where minerals have leached out. This is remineralization—the natural process where minerals flow back into those tiny holes and fill them in again, essentially repairing the damage.

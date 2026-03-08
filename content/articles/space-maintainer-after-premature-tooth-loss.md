@@ -32,7 +32,6 @@ references:
   - title: "Nowak AJ, Christensen JR. Pediatric Dentistry. Clinical Practice and Management. 2nd ed. St. Louis: Mosby; 2011."
     url: https://pubmed.ncbi.nlm.nih.gov/21574583
 ---
-
 ## Introduction
 
 If your child loses a baby tooth earlier than expected—whether from decay, an accident, or a dental extraction—your pediatric dentist might recommend a special device called a space maintainer. You might wonder why this matters when the tooth will eventually fall out anyway. The truth is that baby teeth hold space for your child's permanent teeth, and losing one prematurely can cause lasting problems with tooth alignment and development. This guide explains why space maintainers matter, what options are available, and how they protect your child's future smile.

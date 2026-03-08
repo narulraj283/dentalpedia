@@ -74,12 +74,6 @@ People with weakened immune systems—including those with HIV/AIDS, those getti
 
 Parents often forget to replace their kids' toothbrushes on schedule. Children frequently brush aggressively and wear out bristles faster than adults, potentially needing replacement every 6-8 weeks. Make it part of a routine—maybe replacing toothbrushes when school starts or at holiday times—so you remember to do it.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss toothbrush replacement frequency when to buy new, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
-
 ## What to Expect During Your Visit
 
 Your dentist will begin by examining your mouth and reviewing your dental history to understand your current situation. This evaluation may include taking X-rays or digital images to get a complete picture of what is happening beneath the surface. Based on these findings, your dentist will explain the recommended treatment approach and walk you through each step of the process.

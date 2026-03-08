@@ -32,7 +32,6 @@ references:
   - title: "Goldstein RE. Change Your Smile. 4th ed. Chicago: Quintessence Publishing; 2011."
     url: https://pubmed.ncbi.nlm.nih.gov/21591555
 ---
-
 ## Seeing Your Future Smile Before Treatment
 
 Digital smile design (DSD) software is one of the most powerful tools in modern cosmetic dentistry. It lets you and your dentist preview what your smile could look like before any permanent treatment happens. Using a photo of your smile and special computer software, your dentist can show you different options—different tooth shapes, different sizes, different positions—all on your actual face. You can see exactly what treatment might achieve before committing to anything permanent.

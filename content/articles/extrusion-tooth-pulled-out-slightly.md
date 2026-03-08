@@ -20,7 +20,6 @@ references:
   - "Andreasen FM, Andreasen JO. Classification, etiology and epidemiology of traumatic dental injuries: a review of the literature. Endod Dent Traumatol. 1990;6(4):149-159."
   - "Glendor U. Epidemiology of traumatic dental injuries—a 12 year review of the literature. Dent Traumatol. 2008;24(6):603-611."
 ---
-
 ## What Is a Partially Extruded Tooth
 
 When you get hit in the mouth during sports or a fall, your tooth might get pushed part way out of its socket. The tooth is still attached but sitting higher than normal. This is different from a tooth that's completely knocked out. The good news is that because it's still partially in the socket and still has some connection, you have a really good chance of saving it with quick treatment.
@@ -113,7 +112,7 @@ Even if none of these things are perfectly in your favor, modern treatment still
 
 A partially extruded tooth is a dental emergency, but it's one that usually has a good outcome with quick treatment. Getting to your dentist the same day makes the biggest difference. After that, following instructions for splint care and attending all follow-up appointments gives your tooth the best chance of healing properly.
 
-> **Key Takeaway:** Partial tooth extrusion requires same-day professional repositioning and stabilization to preserve pulpal viability and periodontal integrity.
+> **Key Takeaway:** When you get hit in the mouth during sports or a fall, your tooth might get pushed part way out of its socket.
 
 ## Related Articles
 

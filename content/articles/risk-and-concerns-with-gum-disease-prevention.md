@@ -45,7 +45,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Risk and Concerns with Gum Disease Prevention
 ---
-
 ## Introduction
 
 Your dentist probably tells you that flossing, brushing, and regular cleanings prevent gum disease. But here's the uncomfortable truth: prevention doesn't work equally for everyone. Some people can neglect their teeth and never develop serious gum disease, while others follow perfect oral hygiene routines and still lose teeth to gum disease. Understanding what really determines whether you'll develop gum disease helps you set realistic goals and take appropriate action for your personal risk.
@@ -87,14 +86,6 @@ Pregnancy, menopause, and oral contraceptives create hormonal environment shifts
 ## Prevention Success Looks Different for Everyone
 
 Some people achieve complete gum disease prevention through basic care. Others require aggressive professional maintenance every 3 months plus antimicrobial products plus excellent home care—and still face disease progression. This heterogeneity means that standardized "brush twice daily and floss" advice is fundamentally incomplete.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about risk and concerns with gum disease prevention and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

@@ -32,7 +32,6 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Why Prompt Cosmetic Tooth Repair Matters for Health
 ---
-
 ## Why Prompt Cosmetic Tooth Repair Matters for Health and Appearance
 
 A chipped or cracked tooth might seem like a small cosmetic issue you can live with, but that damaged tooth is actually starting a problem that gets progressively worse. When tooth structure breaks, stress concentrates at the fracture site, causing the damage to spread deeper with each time you chew. Meanwhile, bacteria can enter the crack, threatening the tooth's nerve and overall health.

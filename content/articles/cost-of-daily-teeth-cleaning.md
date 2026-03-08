@@ -22,7 +22,6 @@ references:
   - "Eaton KA, Carlisle R. A randomized controlled trial comparing electric and manual toothbrushes in the removal of orthodontic plaque. Orthod Craniofac Res. 2005;8(3):176-178."
   - "Worthington HV, MacDonald L, Pokrajac-Bulian A, et al. Home use of interdental cleaning devices, in addition to toothbrushing, for preventing and controlling periodontal diseases and dental caries. Cochrane Database Syst Rev. 2019;4:CD012018."
 ---
-
 Taking care of your teeth at home costs money, but good home care saves you thousands in cavities and gum disease treatment. Let's break down what your daily cleaning routine costs and what actually matters for good results.
 
 ## Manual Toothbrush
@@ -109,17 +108,11 @@ The most important factors are:
 
 You don't need fancy products. Basic, consistent daily care with regular professional cleanings works great.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about daily teeth cleaning and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 A basic daily cleaning routine costs $130 to $190 yearly. A higher-end routine with electric toothbrush and water flosser costs $400 to $500 yearly. Either way, it's incredibly affordable compared to treating cavities ($150 to $300 each), gum disease ($500 to $2,000+), or losing teeth ($2,500 to $6,000 per implant). The key is consistent daily care—what you use matters much less than that you actually do it every single day. Talk to your dentist about which tools make it easiest for you to maintain good daily habits.
 
-> **Key Takeaway:** Taking care of your teeth at home costs money, but good home care saves you thousands in cavities and gum disease treatment.
+> **Key Takeaway:** Let's break down what your daily cleaning routine costs and what actually matters for good results.
 
 ## Related Articles
 

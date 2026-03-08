@@ -11,7 +11,6 @@ subcategory: Pediatric Overview
 subcategory_slug: overview-peds
 reviewed: true
 ---
-
 ## What Is Tongue-Tie?
 
 A tongue-tie (ankyloglossia) is when the thin piece of skin under your baby's tongue (the frenum) is too short or too tight. Normally, this skin stretches enough to let the tongue move freely—up, down, and side-to-side. When it's too tight, the tongue can't move as much.

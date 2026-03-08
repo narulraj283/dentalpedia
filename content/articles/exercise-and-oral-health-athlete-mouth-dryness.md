@@ -28,7 +28,6 @@ subcategory: Preventive Overview
 subcategory_slug: overview-preventive
 title: 'Exercise and Oral Health: Exercise-Induced'
 ---
-
 ## What's Happening When You Get Dry Mouth During Training
 
 If you're an athlete and notice your mouth gets really dry during workouts, you're not alone. When you exercise hard, especially for long periods, your body does something that helps your muscles but hurts your mouth—it reduces how much saliva you produce. Your saliva can drop by almost half during intense exercise. That sounds small, but it actually creates a big problem for your teeth and gums.
@@ -97,7 +96,7 @@ You probably need to see your dentist more often than the standard six-month sch
 
 Dry mouth is a real occupational hazard for serious athletes. But you can protect your teeth by staying hydrated, using fluoride, watching what you eat, and visiting your dentist more frequently. Treat your oral health with the same attention you give your athletic training.
 
-> **Key Takeaway:** High-intensity exercise reduces salivary flow by 40-50%, increasing cavity and periodontal disease risk in athletes.
+> **Key Takeaway:** If you're an athlete and notice your mouth gets really dry during workouts, you're not alone.
 
 ## Related Articles
 

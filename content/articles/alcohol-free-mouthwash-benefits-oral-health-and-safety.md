@@ -20,18 +20,17 @@ references:
   - "Elmore JR, Shields RC, Mallory SB. The use of alcohol-free antihistamine rinses in oral mucositis. Support Care Cancer. 2014;22(6):1621-1626."
   - "Lachenmeier DW, Gumbel-Mako S, Sarsh B, et al. Systematic review of mouthwashes for claims of alcohol content. J Dent Res. 2009;88(5):473-477."
 ---
-
 ## Why Do Mouthwashes Have Alcohol?
 
 For decades, traditional mouthwashes contained 20-25% alcohol—about as much as a strong cocktail. This high alcohol content served important purposes back when these products were first developed. Alcohol dissolved the essential oils (minty, spicy ingredients) that gave mouthwash its antiseptic power, acted as a preservative to keep the product from spoiling on store shelves, and killed bacteria quickly in the 30 seconds you swished it around your mouth.
 
-The problem is that alcohol also irritates and dries out your mouth tissues. Modern chemistry has figured out how to make equally effective mouthwashes without alcohol, but many traditional brands still use it out of habit. The good news is that alcohol-free alternatives are now proven to work just as well—or better. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+The problem is that alcohol also irritates and dries out your mouth tissues. Modern chemistry has figured out how to make equally effective mouthwashes without alcohol, but many traditional brands still use it out of habit. The good news is that alcohol-free alternatives are now proven to work just as well—or better.
 
 ## Why Alcohol Burns Your Mouth
 
 If you've ever used a traditional mouthwash and felt that intense burning sensation, that's the alcohol damaging your mouth tissues. Alcohol dries out and damages the protective layer of cells lining your mouth, similar to how it dries out skin. Between 25-40% of people using alcohol-containing mouthwash experience this burning sensation, and people with existing mouth problems (like canker sores or oral lichen planus) experience severe pain. The damage is reversible—usually within 2-3 weeks of stopping the alcohol-containing rinse.
 
-But why put yourself through that discomfort when there are better options? For people with dry mouth (from Sjögren's syndrome, medications, or radiation therapy), alcohol mouthwash actually makes the problem worse. This is backwards: the mouthwash provides some antimicrobial benefit while simultaneously destroying your mouth's natural defenses. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+But why put yourself through that discomfort when there are better options? For people with dry mouth (from Sjögren's syndrome, medications, or radiation therapy), alcohol mouthwash actually makes the problem worse. This is backwards: the mouthwash provides some antimicrobial benefit while simultaneously destroying your mouth's natural defenses.
 
 ## What About Cancer Risk from Mouthwash?
 
@@ -81,11 +80,16 @@ Research comparing alcohol-containing mouthwash to alcohol-free options consiste
 
 CPC and chlorhexidine alcohol-free formulations provide proven effectiveness. Essential oil formulations provide moderate effectiveness with excellent tolerability. For most people, switching to alcohol-free mouthwash is a win-win: you get equivalent protection with zero burning sensation, zero acetaldehyde exposure, and zero drying effects. Your mouth will thank you for making the switch.
 
+
+Related reading: [Keep Your Gums Healthy: Maintenance After Treatment](/article/best-practices-for-gum-health-maintenance.html) and [A Patient's Guide to Cavity Risk Factors](/article/best-practices-for-cavity-risk-factors.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+CPC and chlorhexidine alcohol-free formulations provide proven effectiveness. Essential oil formulations provide moderate effectiveness with excellent tolerability. Talk to your dentist about how this applies to your situation.
 
-> **Key Takeaway:** For decades, traditional mouthwashes contained 20-25% alcohol—about as much as a strong cocktail. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** For decades, traditional mouthwashes contained 20-25% alcohol—about as much as a strong cocktail.
 
 ## Related Articles
 

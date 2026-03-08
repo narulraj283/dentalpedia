@@ -14,7 +14,6 @@ references:
   - "Kotlow LA. Ankyloglossia (tongue-tie): a diagnostic and treatment quandary. Quintessence Int. 1999;30(4):259-262."
   - "Messner AH, Lalakea ML. Ankyloglossia: incidence, associated conditions, and complications of frenotomy. Laryngoscope. 2000;110(3):771-775."
 ---
-
 Your newborn is having trouble nursing, or you've heard about "tongue tie." What is this and why should you care? Learning more about [Fluoride Varnish Pediatric High Strength](/article/fluoride-varnish-pediatric-high-strength.html) can help you understand this better. A tongue tie, medically called ankyloglossia, means a tissue under your baby's tongue is too short or attached in the wrong place, restricting how much the tongue can move. This seems like a tiny problem, but it can significantly affect feeding, speech development, and even your baby's long-term oral health. The good news is that a simple, quick procedure releases the restriction and solves the problem.
 
 ## What is Tongue Tie?
@@ -83,7 +82,7 @@ Follow-up appointments at 2-4 weeks, 2-3 months, and 6-12 months monitor healing
 
 Tongue tie is a simple problem with a simple solution. If your baby is having trouble nursing or you suspect tongue tie, talk to your pediatrician or dentist. Early identification and treatment prevent feeding difficulties, maternal pain, and long-term complications with speech and teeth. Discuss which options are right for your child's specific situation.
 
-> **Key Takeaway:** A tongue tie limits your baby's tongue movement. Learn what causes it, how it affects feeding and speech, and how a simple procedure fixes it.
+> **Key Takeaway:** Your newborn is having trouble nursing, or you've heard about "tongue tie." What is this and why should you care?
 
 ## Related Articles
 

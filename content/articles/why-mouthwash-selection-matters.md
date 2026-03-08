@@ -32,7 +32,6 @@ references:
   - title: "Patient Education and Informed Mouthwash Selection in Dental Practice"
     url: https://pubmed.ncbi.nlm.nih.gov/27634537
 ---
-
 ## Choosing the Right Mouthwash for Your Needs
 
 The mouthwash aisle is overwhelming with choices, and the marketing is persuasive. Hundreds of products all claiming to fix something different. The reality is simpler: most people don't need most mouthwashes. Understanding what your mouth actually needs and selecting the right product if you need one at all saves money and prevents wasting time on ineffective rinses. Here's how to navigate the confusion and make a smart choice.
@@ -80,12 +79,6 @@ If you're treating active gingivitis with prescription chlorhexidine, it's worth
 Don't layer multiple specialized rinses. You don't need antimicrobial plus fluoride plus whitening plus fresh-breath rinse. Pick the one that addresses your main issue. Professional recommendations from your dentist beat marketing claims every time.
 
 Choosing mouthwash intelligently means matching products to actual needs rather than letting marketing drive your purchases. Most people are fine with just water and brushing. If you have a specific dental problem, ask your dentist what rinse makes sense for you. For cosmetic freshness, anything pleasant is fine. Smart selection saves money and prevents wasting effort on ineffective products.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss why mouthwash selection matters, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

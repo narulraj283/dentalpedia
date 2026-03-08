@@ -32,7 +32,6 @@ references:
   - title: "Sarver DM, Ackerman MB. Orthodontics and esthetics: integrating goals to enhance treatment outcomes. J Calif Dent Assoc. 2003;31(9):529-548."
     url: https://pubmed.ncbi.nlm.nih.gov/14518441
 ---
-
 ## Why Preparation Matters
 
 Before your dentist places a veneer or crown, they need to shape your tooth. How much shaping they do affects how long your restoration lasts, whether you'll have sensitivity, and whether your natural tooth stays healthy. Modern dentistry tries to remove as little tooth as possible while still making the restoration work properly. The goal is always to preserve your natural tooth structure when you can, because nothing lasts longer than your own tooth.
@@ -78,12 +77,6 @@ The margin is where the restoration meets your tooth. Your dentist can place it 
 ## Special Situations Require Special Planning
 
 If you already have old restorations on your teeth, your dentist must work around them or decide whether to replace them. Sometimes they can keep the old restoration and work with it; other times replacement is better. Teeth with very large nerves (young patients) need extra protection to avoid nerve damage. Your dentist will apply protective materials if preparation gets close to the nerve. If your preparation removes enamel near the gum line and exposes the root, your dentist will apply fluoride or bonding materials to reduce sensitivity and decay risk.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss tooth preparation cosmetic anatomy, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

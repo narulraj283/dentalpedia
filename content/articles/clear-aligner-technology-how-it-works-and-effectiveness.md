@@ -22,7 +22,6 @@ references:
   - "Nedwed V, Lagravère MO. Precision, accuracy, and digital conversion of clear aligner fabrication for orthodontics. J Esthet Restor Dent. 2005;17(5):268-278."
   - "Mackey ER, Wood SA, Colquhoun H, Bedoya C, Fox NA. Aligner therapy: The new paradigm in orthodontics. Dent Update. 2014;41(4):336-342."
 ---
-
 ## How Clear Aligners Actually Work
 
 Think of clear aligners like a series of custom plastic molds that gradually shift your teeth. Each tray is slightly different from the one before, moving your teeth in tiny increments. Each aligner typically moves your teeth about 0.25-0.3 millimeters, and you wear each tray for about 7-10 days before moving to the next one.
@@ -95,7 +94,7 @@ Some aligner companies offer "finishing trays"—special retainer-like aligners 
 
 Clear aligners use sophisticated computer modeling and custom-manufactured thermoplastic trays to apply gentle, progressive pressure that gradually moves teeth into new positions. The technology is precise and effective for appropriate cases, though it has limitations for complex movements that braces handle better. Understanding how the technology works helps you appreciate both its capabilities and limitations.
 
-> **Key Takeaway:** Discover the science behind clear aligners: how thermoplastic trays move your teeth gradually and what makes them effective for certain bite problems.
+> **Key Takeaway:** Think of clear aligners like a series of custom plastic molds that gradually shift your teeth.
 
 ## Related Articles
 

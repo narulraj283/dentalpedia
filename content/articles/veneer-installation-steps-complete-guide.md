@@ -30,7 +30,6 @@ references:
   - title: "Resin Cement Selection and Application Techniques for Veneer Bonding"
     url: https://pubmed.ncbi.nlm.nih.gov/23855505
 ---
-
 ## Understanding the Veneer Treatment Process
 
 Veneer placement is a carefully orchestrated process designed to create beautiful, natural-looking results that last for many years. Whether you're planning veneer treatment or simply curious about what's involved, understanding each step helps you set realistic expectations and prepare for your appointments. This guide walks you through the complete treatment journey.

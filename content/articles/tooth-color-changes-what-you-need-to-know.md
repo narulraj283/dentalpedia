@@ -11,22 +11,21 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 reviewed: true
 ---
-
 ## When Discoloration Is Just Cosmetic
 
 Most tooth discoloration is purely cosmetic and nothing to worry about health-wise. You can safely choose not to treat it if it doesn't bother you. However, certain changes warrant professional evaluation.
 
 ## When to See a Dentist RIGHT NOW
 
-**Don't wait—get same-day evaluation if you notice:**
+**Call right away if you notice:**
 
-- **Sudden darkening of one tooth** (especially following injury): May indicate dead nerve requiring root canal treatment
-- **Blue-gray or brown discoloration**: Often means nerve death or serious internal issue
-- **Discoloration plus pain**: Suggests infection or decay
-- **Discoloration with swelling**: May indicate abscess or serious infection
-- **Changes in multiple teeth simultaneously**: Could suggest systemic health issue
+- **One tooth suddenly darkening** (after injury): Dead nerve might need root canal
+- **Blue-gray or brown color**: Dead nerve or serious problem
+- **Discoloration plus pain**: Infection or decay
+- **Discoloration plus swelling**: Abscess or infection
+- **Many teeth changing color**: Possible health issue
 
-These aren't purely cosmetic—they may need treatment to save the tooth or address underlying problems. Learn more about [Veneer Installation Steps What](/article/veneer-installation-steps-what-you-need-to-know.html) for additional guidance.
+These might need treatment to save the tooth or fix a problem.
 
 ## Routine Dentist Discussion (Not Emergencies)
 
@@ -48,26 +47,25 @@ Bring these up at your next regular appointment:
 - Whitening trays (boil-and-fit)
 - Whitening mouthwashes
 
-**What to expect:**
-- Minimal results: typically 0.5-1 shade lighter
-- Very slow (several weeks of use)
-- Better for surface staining than internal discoloration
-- Results fade quickly without continued use
+**Results:**
+- Minimal: usually 0.5-1 shade lighter
+- Very slow (weeks of use)
+- Works better on surface stains
+- Results fade fast without continued use
 
-**Safety considerations:**
-- Generally safe when used as directed
-- Avoid overuse (doesn't improve results and can damage enamel)
+**Safety:**
+- Safe if used as directed
+- Don't overuse (damages enamel)
 - May cause temporary sensitivity
-- Can dry gums if applied carelessly
+- Can dry gums if not careful
 
-**Best for:** Maintaining results after professional treatment, mild staining concerns
+**Best for:** Keeping results after professional whitening, light staining
 
-### Sensitivity Management
-
-- Brush gently with non-abrasive toothpaste
-- Use desensitizing toothpaste (contains potassium nitrate or strontium chloride)
-- Avoid acidic foods and beverages temporarily
-- Stop use if sensitivity becomes uncomfortable
+**Managing Sensitivity:**
+- Brush gently with soft toothpaste
+- Use sensitivity toothpaste
+- Avoid acidic foods/drinks temporarily
+- Stop if sensitivity gets uncomfortable
 
 ## Professional Whitening: Better Results
 
@@ -225,6 +223,9 @@ Or do it in reverse: plan any cosmetic restorations AFTER whitening.
 - If you have restorations, whitening your natural teeth creates color mismatch
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
+
+Related reading: [Common Misconceptions About Gummy Smile Fix](/article/common-misconceptions-about-gummy-smile-fix.html).
 
 ## Conclusion
 

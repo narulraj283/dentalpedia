@@ -16,7 +16,6 @@ references:
   - title: "Haywood VB, Leonard RH, Nelson CF, et al. Effectiveness, side effects and long-term effects of nightguard vital bleaching. Journal of the American Dental Association. 1992;123(9):49-56."
     url: https://pubmed.ncbi.nlm.nih.gov/1401626
 ---
-
 ## Can Teeth Bleaching Damage Your Teeth?
 
 The short answer: professional teeth bleaching is safe when done by your dentist using appropriate concentrations. Your dentist uses higher-strength bleaching agents than over-the-counter products, but because they're applied carefully and for controlled durations, they're actually safer than repeatedly using weak over-the-counter products incorrectly.

@@ -44,7 +44,6 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Smile Makeover Planning - From Consultation
 ---
-
 ## Your First Appointment: Where It All Starts
 
 When you first visit your dentist about a smile makeover, this consultation is really important because it's where you and your dentist get to know each other and understand what you really want. Your dentist will ask you lots of questions—not to be nosy, but to understand exactly which aspects of your smile bother you most and why you want to make changes.

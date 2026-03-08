@@ -32,7 +32,6 @@ references:
   - title: "Cardaropoli G, Araújo M, Lindhe J. Dynamics of bone tissue formation in tooth extraction sites. An experimental study in dogs. Journal of Clinical Periodontology. 2003;30(9):809-818."
     url: https://pubmed.ncbi.nlm.nih.gov/12956657
 ---
-
 ## What Is Regenerative Therapy?
 
 If you've been told you have gum disease or bone loss around your teeth, you might be wondering if there's a way to actually regrow the bone and gum tissue your body has lost. That's where regenerative therapy comes in. Instead of just stopping disease from getting worse, regenerative therapy aims to help your body grow new gum tissue, new supporting fibers, and new bone around your teeth.

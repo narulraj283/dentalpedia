@@ -21,7 +21,6 @@ subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
 title: How Denture Clasps Work to Keep Your Partial Denture Secure
 ---
-
 ## Understanding Your Denture Clasps: What Those Metal Hooks Do
 
 When you get a partial denture, the metal hooks you see wrapping around your remaining teeth are called clasps. These aren't just decorative—they're carefully designed to grip your natural teeth and keep your denture from slipping out when you talk, eat, or laugh. The clasp works by fitting into a tiny undercut (a space that gets slightly narrower toward your gum) on your tooth. As you insert the denture, the clasp flexes and springs into this space, locking your denture firmly in place.

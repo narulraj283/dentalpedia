@@ -30,7 +30,6 @@ references:
   - title: "Allergy and Hypersensitivity Reactions to Dental Local Anesthetics"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27456789
 ---
-
 Dental treatment shouldn't hurt. Fortunately, dentistry offers several ways to make sure you stay comfortable during procedures. Your dentist can choose from different anesthesia options depending on what type of work you're having done and how anxious you are. Understanding your choices helps you discuss what will work best for you.
 
 ## Numbing Your Mouth with Local Anesthesia
@@ -107,7 +106,7 @@ Dental treatment is painless when appropriate anesthesia is used. Whether you ju
 ## Related Articles
 
 - [Why Extraction Complications Matters](/article/why-extraction-complications-matters.html)
-- [Wound Healing After Oral Surgery - Phases,](/article/surgical-site-healing-complete-guide.html)
+- [Wound Healing After Oral Surgery - Phases, Timeline](/article/surgical-site-healing-complete-guide.html)
 - [Cost of Post-Surgery Care in Oral Surgery](/article/cost-of-post-surgery-care.html)
 - [Oral Surgery Technique Fundamentals - A Complete](/article/surgical-technique-overview-complete-guide.html)
 - [Why Bleeding Control Matters in Oral Surgery and Dental](/article/why-bleeding-control-matters.html)

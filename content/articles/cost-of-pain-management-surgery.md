@@ -19,7 +19,6 @@ references:
   - "Carr DB, Goudas LC. Acute Pain. Lancet. 1999;353(9169):2051-2058."
   - "Hersh EV, Giannakopoulos H. Nonsteroidal Anti-Inflammatory Drugs for Postoperative Dental Pain. J Am Dent Assoc. 1992;123(9):46-52."
 ---
-
 ## Managing Pain During and After Oral Surgery
 
 Pain management during and after oral surgery isn't just about comfort—proper pain control improves healing, reduces infection risk, and helps you recover faster. You have options ranging from simple local anesthesia (inexpensive and fine for most procedures) to sedation (more expensive but helpful for anxious patients).
@@ -117,22 +116,14 @@ Acetaminophen is gentler on the stomach but less effective for inflammation-rela
 
 Combining non-prescription and prescription options appropriately often provides better pain control with fewer side effects than using higher doses of one medication. Your dentist should discuss these options during your pre-operative consultation, so you understand what to expect and can plan accordingly.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about pain management surgery and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
-
-
-For more information, see [Why Post-Surgery Care Matters](/article/why-post-surgery-care-matters.html).
+Related reading: [Oral Surgical Complications: Classification, Timeline](/article/timeline-for-surgical-complications.html).
 
 ## Conclusion
 
 Pain management during and after oral surgery costs $1-120 for routine cases, $400-920 for sedated procedures. Proper pain control improves healing, prevents infection, and helps you recover faster. Your dentist will discuss pain management options before your procedure. Learn about your recovery timeline to understand what to expect post-operatively.
 
-> **Key Takeaway:** Pain management during and after oral surgery isn't just about comfort—proper pain control improves healing, reduces infection risk, and helps you.
+> **Key Takeaway:** Pain management during and after oral surgery isn't just about comfort—proper pain control improves healing, reduces infection risk, and helps you recover faster.
 
 ## Related Articles
 

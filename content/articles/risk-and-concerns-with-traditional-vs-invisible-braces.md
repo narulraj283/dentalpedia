@@ -30,7 +30,6 @@ references:
   - title: "Weltman B, Vig KWL, Fields HW, Shanker S, Kaizar EE. Root resorption associated with orthodontic tooth movement: does the approximal alveolar bone level predict short-term root resorption? Am J Orthod Dentofacial Orthop. 2010;138(4):438-444."
     url: https://pubmed.ncbi.nlm.nih.gov/20889051
 ---
-
 ## Choosing Between Traditional Braces and Clear Aligners
 
 When you need orthodontic treatment, you have choices: traditional metal braces with brackets and wires, or clear aligners (like Invisalign) that are nearly invisible. Both work, but they have different advantages and disadvantages. Understanding these differences helps you make a choice aligned with your actual priorities and your specific dental situation.
@@ -92,14 +91,6 @@ This means choosing aligners might result in needing braces afterward—essentia
 Choose fixed braces if you have complex orthodontic problems, you want predictable treatment time, final bite is a priority, or you're willing to accept visible appliances for good results.
 
 Choose clear aligners if you have mild-to-moderate problems, you're highly motivated and compliant with wear, you prioritize treatment-phase appearance over outcome perfection, and you're prepared for potentially extended treatment time.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about risk and concerns with traditional versus invisible braces and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

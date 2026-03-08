@@ -32,7 +32,6 @@ references:
   - title: "Goodacre CJ, Campagni WV, Aquilino SA. Tooth replacements when abutments are severely compromised by previous restorations. J Prosthet Dent. 1996;76(4):435-441."
     url: https://pubmed.ncbi.nlm.nih.gov/8900910
 ---
-
 ## Bridging a Single Missing Tooth: When a Bridge Works
 
 A three-unit bridge is a way to replace one missing tooth using the two teeth on either side as anchors. While dental implants are often preferred today, bridges are still a good option in many situations.
@@ -167,19 +166,6 @@ The teeth holding up your bridge are critical. Good gum health and avoiding deca
 
 Avoid chewing excessively hard foods on the bridge side if possible. Try to chew on both sides equally.
 
-## Questions to Ask Your Dentist
-
-Before getting a bridge, ask:
-
-1. "Are my teeth adequate support for this bridge?"
-2. "What material is best for my situation?"
-3. "How long will it last?"
-4. "What happens if it breaks?"
-5. "How do I clean under the fake tooth?"
-6. "Can it be adjusted if the bite feels wrong?"
-7. "What's the cost?"
-8. "Is an implant a better option for me?"
-
 ## Comparing Bridges to Other Options
 
 **Bridge vs. Implant**
@@ -213,6 +199,3 @@ Remember that every person's situation is unique. What works well for one patien
 - [Reline and Adjustment of Dentures Over Time](/article/reline-and-adjustment-of-dentures-over-time.html)
 - [Balanced Occlusion: Stability Throughout](/article/balanced-occlusion-stability-throughout.html)
 
-- [Complete Dentures: From Extraction to Full Restoration](/article/complete-dentures-from-extraction-to-full-restoration.html)
-- [How Denture Adhesive Helps Keep Your Dentures Stable](/article/denture-adhesive-improving-retention.html)
-- [Vertical Dimension Changes Affecting Facial Height](/article/vertical-dimension-changes-affecting-facial-height.html)

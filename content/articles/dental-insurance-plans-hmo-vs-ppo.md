@@ -20,7 +20,6 @@ references:
   - "Peters D, Andersen RM. Equity of Access in Dental HMO vs PPO Structures. Health Serv Res. 2023;58(3):678-689."
   - "Vujicic M, Nasseh K. Cost-Effectiveness Analysis of HMO and PPO Dental Plans. Health Econ Rev. 2023;13:5."
 ---
-
 ## The Big Difference: HMO vs PPO
 
 Think of dental insurance plans as falling into two main categories, and they work very differently.
@@ -85,7 +84,7 @@ The right choice depends on your values. Some people prioritize cost; others pri
 
 HMO plans offer lower costs through restricted networks and a gatekeeper system. PPO plans offer more flexibility and choice at higher cost. Both can deliver quality care if you choose good providers. The best plan for you depends on your priorities, where you live, whether you have a preferred dentist, and whether you anticipate needing specialists. Verify network participation before enrollment, and review specific coverage restrictions for your anticipated care needs.
 
-> **Key Takeaway:** Think of dental insurance plans as falling into two main categories, and they work very differently.
+> **Key Takeaway:** If you choose an out-of-network dentist, you pay more, but you can still get some insurance help. No referrals required—you can go straight to a specialist without asking your regular dentist.
 
 ## Related Articles
 

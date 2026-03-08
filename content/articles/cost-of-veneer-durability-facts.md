@@ -22,7 +22,6 @@ references:
   - "Edelhoff D, Slacket GD, Yildirim M. Esthetic restoration of anterior teeth. Pract Proced Aesthet Dent. 2003;15(5):383-392."
   - "Smales RJ, Etemadi S. Longevity of ceramic veneers and resin composite restorations at full-mouth level over 10 years. J Dent. 2004;32(3):179-186."
 ---
-
 ## Porcelain Veneers: The Gold Standard
 
 Porcelain veneers cost $800 to $2,500 per tooth depending on dentist experience, lab quality, and case complexity. A simple smile makeover with 8 teeth costs $6,400 to $20,000. Porcelain veneers last 12 to 15 years on average, though some last 20 years with excellent care.
@@ -103,19 +102,11 @@ Porcelain veneers: Plan for 12 to 15 years with high probability (85 percent at 
 
 Composite veneers: Plan for 5 to 7 years before noticeable wear or staining. Some require replacement by year 5; others last to year 10. Frequent touch-ups are normal.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about veneer durability facts and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
-
 ## Conclusion
 
 Porcelain veneers cost $800 to $2,500 per tooth with 85 percent 10-year survival. Composite veneers cost $400 to $800 per tooth with 50 percent 10-year survival. Plan for replacement every 12 to 15 years (porcelain) or 5 to 7 years (composite). Long-term costs are similar despite different initial prices.
 
-> **Key Takeaway:** Porcelain veneers cost $800 to $2,500 per tooth depending on dentist experience, lab quality, and case complexity.
+> **Key Takeaway:** A simple smile makeover with 8 teeth costs $6,400 to $20,000. Porcelain veneers last 12 to 15 years on average, though some last 20 years with excellent care.
 
 ## Related Articles
 

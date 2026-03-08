@@ -33,14 +33,13 @@ subcategory: Pediatric Overview
 subcategory_slug: overview-pediatric
 title: 'Bruxism in Children: Nocturnal Teeth Grinding Etiology'
 ---
-
 ## Childhood Grinding: How Common Is It?
 
 Sleep grinding is actually pretty common in kids—about 15-20% of children grind their teeth at night. It's most common between ages 4-10, with peak rates of 18-20% in kids ages 4-7. As kids get older, grinding usually decreases—by age 12-13, it's down to 5-8%.
 
-Here's the good news: about 50-60% of kids who grind experience spontaneous remission by age 15-16. Only 40-50% of childhood grinders continue into adulthood. For more details, see our guide on [Adenoid and Tonsil Hypertrophy](/article/adenoid-and-tonsil-hypertrophy-airway-impact.html).
+Here's the good news: about 50-60% of kids who grind experience spontaneous remission by age 15-16. Only 40-50% of childhood grinders continue into adulthood.
 
-Some kids are more likely to keep grinding into adulthood: those with severe grinding (more than 10 episodes per hour), those with jaw joint symptoms, or those with multiple risk factors. Girls grind slightly more than boys during childhood (51-55% of cases), which might relate to earlier development, though we're not entirely sure why. For more details, see our guide on [Ankyloglossia and Speech Effects](/article/ankyloglossia-speech-effects-articulation-problems.html).
+Some kids are more likely to keep grinding into adulthood: those with severe grinding (more than 10 episodes per hour), those with jaw joint symptoms, or those with multiple risk factors. Girls grind slightly more than boys during childhood (51-55% of cases), which might relate to earlier development, though we're not entirely sure why.
 
 Like adults, children's grinding peaks in early sleep and at sleep stage transitions. Kids with poor sleep quality (frequent wake-ups, shortened sleep) grind 2-3 times more than well-rested kids. Sleep quality seems to be the biggest modifiable factor for reducing childhood grinding.
 
@@ -137,6 +136,9 @@ Sleep bruxism affects 15-20% of children with peak prevalence in primary and ear
 Primary management emphasizes sleep hygiene optimization, screen time restriction, and stress reduction rather than immediate splint therapy. Assessment for underlying sleep-disordered breathing (particularly adenotonsillar hypertrophy-related OSA) should occur in all bruxing children; adenotonsillectomy produces substantial grinding reduction (50-70%) in children with documented sleep pathology.
 
 Protective splint therapy is reserved for primary/early mixed dentition if severe wear develops or for mixed/permanent dentition bruxism with significant dysfunction. Behavioral modification and splint use together reduce bruxism-related complications and provide foundation for successful long-term management. Regular follow-up monitoring tracks dental wear progression, identifies emerging complications, and supports positive developmental trajectories into adulthood.
+
+
+Related reading: [Early Childhood Caries: Aggressive Decay in Toddlers](/article/early-childhood-caries-aggressive-decay-in-toddlers.html) and [Pacifier Use Timing and Malocclusion Risk](/article/pacifier-use-timing-and-malocclusion-risk.html).
 
 ## Conclusion
 

@@ -32,7 +32,6 @@ references:
   - title: "Ono K, Shibuya Y, Susarla SM, Kallmes DF. Adverse events associated with third molar surgery: a retrospective cohort analysis of 9932 cases. Int J Oral Maxillofac Surg. 2018;47(1):72-76."
     url: https://pubmed.ncbi.nlm.nih.gov/28935485
 ---
-
 ## Introduction
 
 When considering oral surgery, you probably ask: "What's my success rate?" This straightforward question deserves a detailed answer because success in oral surgery means different things depending on your situation. Success isn't just completing the procedure—it's quality healing, achieving your intended goal, satisfaction with results, and staying problem-free long-term. This guide explains what success really means, gives you realistic expectations for your specific situation, and most importantly, shows you which factors you control that directly influence your outcome.

@@ -32,7 +32,6 @@ references:
   - title: "Heintze SD, Rousson V. Clinical effectiveness of direct composite restorations versus indirect composite restorations and ceramic restorations for maxillary anterior teeth: a systematic review and meta-analysis. Dent Mater. 2020;36(3):e47-e71."
     url: https://pubmed.ncbi.nlm.nih.gov/31986405
 ---
-
 ## Understanding Your Smile Makeover Journey
 
 Getting a smile makeover is exciting, but it's important to know what to expect so you're not surprised. A smile makeover usually has several stages that happen over weeks or months. You'll have multiple appointments, and there's a phase where your teeth look temporary (not the final beautiful version) before you get your permanent smile. When you understand how the process works, you'll stay motivated through each phase and feel proud of your transformation.

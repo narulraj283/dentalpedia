@@ -1,38 +1,52 @@
 ---
-title: "Speech Difficulty with New Dentures - Causes, Solutions,"
-slug: speech-difficulty-with-new-dentures
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: "Denture-related speech problems stem from altered tongue space, palatal thickness, and tooth positioning changes requiring systematic diagnostic."
 date: 2026-03-05
+excerpt: Denture-related speech problems stem from altered tongue space, palatal thickness,
+  and tooth positioning changes requiring systematic diagnostic.
 read_time: 10 min
+references:
+- title: Shackleton JL, Freke SA. A study of the relationship between phoneme-speech
+    and occlusal plane in dentures. J Prosthetic Dent. 1979;41(1):17-22.
+  url: https://pubmed.ncbi.nlm.nih.gov/367915
+- title: Carlsson GE. Some dogmas related to prosthodontics, temporomandibular disorders
+    and occlusion. Acta Odontol Scand. 1997;55(1):18-24.
+  url: https://pubmed.ncbi.nlm.nih.gov/9059573
+- title: Hashizume M, Kunitake I, Nishimura Y, Oizumi H, Kotani H. Quantitative evaluation
+    of the relationship between the denture-tooth position and isolated-phoneme articulation.
+    J Dent Res. 1998;77(3):551-558.
+  url: https://pubmed.ncbi.nlm.nih.gov/9539446
+- title: 'Slagter AP, Otten JE, Olthoff LW, Wetering JA. Jawbone resorption in denture
+    wearers and combination-syndrome patients: a panoramic radiographic study of significant
+    differences to explain expressive limitations. J Oral Rehabil. 1992;19(4):355-366.'
+  url: https://pubmed.ncbi.nlm.nih.gov/1500999
+- title: Yurkstas AA. Outline of clinical management in complete denture prosthodontics.
+    J Prosthet Dent. 1971;26(6):644-655.
+  url: https://pubmed.ncbi.nlm.nih.gov/5286434
+- title: Campbell RL, Kaye GM. Triggering the 's' sound in denture wearers. J Prosthet
+    Dent. 1977;37(1):76-79.
+  url: https://pubmed.ncbi.nlm.nih.gov/320577
+- title: 'Daher T, Kursoglu P, Kazazoglu E, Karacayli U. Biomechanics of dentures.
+    In: Larato DC, editor. Prosthodontics: Theory and Practice. Philadelphia: WB Saunders;
+    1994. p. 234-250.'
+  url: https://pubmed.ncbi.nlm.nih.gov/8196442
+- title: 'Klemetti E, Papatheodorou K. Prosthodontics for the elderly: the role of
+    implant dentistry. Int J Prosthodont. 2008;21(2):147-152.'
+  url: https://pubmed.ncbi.nlm.nih.gov/18546703
+- title: Walmsley AD. Psychosocial factors in prosthodontic treatment. Br Dent J.
+    2008;204(5):229-233.
+  url: https://pubmed.ncbi.nlm.nih.gov/18356871
+- title: Botega LZ, de Almeida EO, de Oliveira FG, Pedrazzi V. Effects of denture
+    base thickness on auditory acuity of complete denture wearers. J Oral Rehabil.
+    2010;37(6):435-441.
+  url: https://pubmed.ncbi.nlm.nih.gov/20337860
+reviewed: true
 reviewer_specialty: Prosthodontics
+slug: speech-difficulty-with-new-dentures
 subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
-reviewed: true
-references:
-  - title: "Shackleton JL, Freke SA. A study of the relationship between phoneme-speech and occlusal plane in dentures. J Prosthetic Dent. 1979;41(1):17-22."
-    url: https://pubmed.ncbi.nlm.nih.gov/367915
-  - title: "Carlsson GE. Some dogmas related to prosthodontics, temporomandibular disorders and occlusion. Acta Odontol Scand. 1997;55(1):18-24."
-    url: https://pubmed.ncbi.nlm.nih.gov/9059573
-  - title: "Hashizume M, Kunitake I, Nishimura Y, Oizumi H, Kotani H. Quantitative evaluation of the relationship between the denture-tooth position and isolated-phoneme articulation. J Dent Res. 1998;77(3):551-558."
-    url: https://pubmed.ncbi.nlm.nih.gov/9539446
-  - title: "Slagter AP, Otten JE, Olthoff LW, Wetering JA. Jawbone resorption in denture wearers and combination-syndrome patients: a panoramic radiographic study of significant differences to explain expressive limitations. J Oral Rehabil. 1992;19(4):355-366."
-    url: https://pubmed.ncbi.nlm.nih.gov/1500999
-  - title: "Yurkstas AA. Outline of clinical management in complete denture prosthodontics. J Prosthet Dent. 1971;26(6):644-655."
-    url: https://pubmed.ncbi.nlm.nih.gov/5286434
-  - title: "Campbell RL, Kaye GM. Triggering the 's' sound in denture wearers. J Prosthet Dent. 1977;37(1):76-79."
-    url: https://pubmed.ncbi.nlm.nih.gov/320577
-  - title: "Daher T, Kursoglu P, Kazazoglu E, Karacayli U. Biomechanics of dentures. In: Larato DC, editor. Prosthodontics: Theory and Practice. Philadelphia: WB Saunders; 1994. p. 234-250."
-    url: https://pubmed.ncbi.nlm.nih.gov/8196442
-  - title: "Klemetti E, Papatheodorou K. Prosthodontics for the elderly: the role of implant dentistry. Int J Prosthodont. 2008;21(2):147-152."
-    url: https://pubmed.ncbi.nlm.nih.gov/18546703
-  - title: "Walmsley AD. Psychosocial factors in prosthodontic treatment. Br Dent J. 2008;204(5):229-233."
-    url: https://pubmed.ncbi.nlm.nih.gov/18356871
-  - title: "Botega LZ, de Almeida EO, de Oliveira FG, Pedrazzi V. Effects of denture base thickness on auditory acuity of complete denture wearers. J Oral Rehabil. 2010;37(6):435-441."
-    url: https://pubmed.ncbi.nlm.nih.gov/20337860
+title: Speech Difficulty with New Dentures - Causes, Solutions
 ---
-
 ## When Your New Dentures Are Affecting Your Speech
 
 Most new denture wearers notice some speech changes during the first few weeks—that's normal and usually improves with practice. However, if you've had your dentures for more than 8 weeks and you're still struggling with a noticeable lisp or distorted sounds, your dentures might need adjustments or modifications. The good news is that most speech problems can be fixed. Understanding what causes speech issues with dentures helps you work with your dentist to find solutions.
@@ -103,6 +117,3 @@ Speech difficulty with dentures commonly improves through adaptation and daily e
 
 - [Why Your Dentures Stay in Place: Understanding Fit and](/article/denture-stability-retention-and-support.html)
 
-- [When You Need Denture Adhesive and How to Use It](/article/denture-adhesive-when-and-how-to-use-it.html)
-- [How Denture Fit and Pressure Distribution Affect Your](/article/denture-fit-and-pressure-optimal-contact-points.html)
-- [Lower Dentures: Why They Are Harder to Keep in Place](/article/mandibular-denture-challenges-smaller-base.html)

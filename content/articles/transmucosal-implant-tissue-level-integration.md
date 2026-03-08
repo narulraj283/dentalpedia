@@ -32,7 +32,6 @@ references:
   - title: "Saadoun AP, Touati B. Current aesthetic implant dentistry. Pract Periodontics Aesthet Dent. 1999;11(6):739-748; quiz 750."
     url: https://pubmed.ncbi.nlm.nih.gov/10695779
 ---
-
 ## Understanding Tissue-Level Implants
 
 If you're considering dental implants, you've probably heard terms like "tissue-level" and "bone-level," and wondered what the difference is. These terms describe how your dentist positions the implant in your jawbone and how it integrates with your gum tissue. Tissue-level implants, also called platform-switched implants, are designed with special attention to how they work with your soft tissues and bone. They offer some unique advantages, especially if you care about how natural your replacement tooth will look. This guide explains how tissue-level implants work and why your dentist might recommend them for your situation.

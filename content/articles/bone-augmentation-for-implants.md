@@ -1,33 +1,43 @@
 ---
-title: "Alveolar Bone Augmentation for Implant Reconstruction:"
-slug: bone-augmentation-for-implants
 category: Dental Implants
 category_slug: dental-implants
-excerpt: "About 40-60% of patients who want dental implants don't have enough bone in the right locations."
 date: 2026-03-05
+excerpt: About 40-60% of patients who want dental implants don't have enough bone
+  in the right locations.
 read_time: 10 min
+references:
+- Buser D, et al. Clinical and radiographic evidence of long-term osseointegration.
+  Clin Oral Implants Res. 2017;28(Suppl 15):1-10.
+- Donos N, et al. Bone level changes following pre-implant guided tissue regeneration.
+  Clin Oral Implants Res. 2017;28(5):566-573.
+- Aghaloo TL, Moy PK. Which hard tissue augmentation techniques are the most successful
+  in furnishing bony support for implant placement? Int J Oral Maxillofac Implants.
+  2007;22(Suppl):49-70.
+- 'Jensen SS, Terheyden H. Bone augmentation procedures in localized defects in the
+  alveolar ridge: Clinical results with different bone grafts and bone-substitute
+  materials. Int J Oral Maxillofac Implants. 2009;24(Suppl):218-236.'
+- 'Esposito M, et al. Interventions for replacing missing teeth: bone augmentation
+  techniques for implant treatment. Cochrane Database Syst Rev. 2014;(5):CD003607.'
+- Chiapasco M, et al. Regenerative procedures for bone tissue repair in dentistry.
+  Periodontol 2000. 2006;40:168-184.
+- 'Pjetursson BE, et al. Bone augmentation at implant sites: a systematic review.
+  Clin Oral Implants Res. 2008;19(Suppl 2):137-147.'
+- Iizuka T, et al. Factors influencing vertical bone augmentation success. J Periodontol
+  Implant Sci. 2013;43(5):285-291.
+reviewed: true
 reviewer_specialty: Implant Dentistry
+slug: bone-augmentation-for-implants
 subcategory: Implant Overview
 subcategory_slug: overview-implants
-reviewed: true
-references:
-  - "Buser D, et al. Clinical and radiographic evidence of long-term osseointegration. Clin Oral Implants Res. 2017;28(Suppl 15):1-10."
-  - "Donos N, et al. Bone level changes following pre-implant guided tissue regeneration. Clin Oral Implants Res. 2017;28(5):566-573."
-  - "Aghaloo TL, Moy PK. Which hard tissue augmentation techniques are the most successful in furnishing bony support for implant placement? Int J Oral Maxillofac Implants. 2007;22(Suppl):49-70."
-  - "Jensen SS, Terheyden H. Bone augmentation procedures in localized defects in the alveolar ridge: Clinical results with different bone grafts and bone-substitute materials. Int J Oral Maxillofac Implants. 2009;24(Suppl):218-236."
-  - "Esposito M, et al. Interventions for replacing missing teeth: bone augmentation techniques for implant treatment. Cochrane Database Syst Rev. 2014;(5):CD003607."
-  - "Chiapasco M, et al. Regenerative procedures for bone tissue repair in dentistry. Periodontol 2000. 2006;40:168-184."
-  - "Pjetursson BE, et al. Bone augmentation at implant sites: a systematic review. Clin Oral Implants Res. 2008;19(Suppl 2):137-147."
-  - "Iizuka T, et al. Factors influencing vertical bone augmentation success. J Periodontol Implant Sci. 2013;43(5):285-291."
+title: Alveolar Bone Augmentation for Implant Reconstruction
 ---
-
 ## When Bone Grafting Becomes Necessary
 
 About 40-60% of patients who want dental implants don't have enough bone in the right locations. Your teeth anchor themselves in bone, and when a tooth is lost, that bone gradually shrinks away since it's no longer needed. During the first six to 12 months after extraction, you lose 25-40% of the ridge's width.
 
-Bone loss continues at a slower pace (about 4% yearly) for years afterward. Bone loss also occurs with untreated gum disease, injury, or certain medical conditions. For more details, see our guide on [All-on-4 Full-Arch Implant Restoration](/article/all-on-four-full-arch-on-four-implants.html).
+Bone loss continues at a slower pace (about 4% yearly) for years afterward. Bone loss also occurs with untreated gum disease, injury, or certain medical conditions.
 
-For a dental implant to be successful, you need adequate bone—typically a minimum of 6 mm wide and 10 mm tall. If your imaging shows less bone than this, bone grafting becomes necessary to create a stable foundation for your implant. Without it, the implant wouldn't have proper support, and failure rates would be much higher. For more details, see our guide on [Biologic Width](/article/biologic-width-implant-to-gum-distance.html).
+For a dental implant to be successful, you need adequate bone—typically a minimum of 6 mm wide and 10 mm tall. If your imaging shows less bone than this, bone grafting becomes necessary to create a stable foundation for your implant. Without it, the implant wouldn't have proper support, and failure rates would be much higher.
 
 Your dentist uses three-dimensional imaging (cone-beam CT) to measure your bone precisely and determine whether grafting is necessary. This imaging is essential for planning because it shows not only how much bone you have, but exactly where it is relative to important structures like the sinuses and nerve.
 
@@ -143,9 +153,10 @@ Bone morphogenetic proteins enhance osteogenic properties but justify use limite
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
-## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Related reading: [Implant Material Properties: Strength vs Esthetics](/article/implant-material-properties-strength-vs-esthetics.html) and [Implant Failure: Causes and Prevention Strategies](/article/implant-failure-causes-and-prevention-strategies.html).
+
+## Conclusion
 
 > **Key Takeaway:** Bone grafting expands dental implant candidacy by creating adequate bone support, with success rates exceeding 92-95% when proper dimensions are achieved.
 

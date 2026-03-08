@@ -32,7 +32,6 @@ references:
   - title: "Becerik S, Atmaca H, Erbas B, Kinane DF, Sumer U, Ogus E. Overproduction of proinflammatory cytokines in gingival tissue samples from smokers with chronic periodontitis. Journal of Clinical Periodontology. 2007;34(7):551-556."
     url: https://pubmed.ncbi.nlm.nih.gov/17555410
 ---
-
 ## Introduction
 
 If you smoke, you probably know it's bad for you. But you might not realize exactly how much damage it does to your teeth and gums. Smoking doesn't just stain your teeth—it speeds up gum disease, causes bone loss, increases your cancer risk, and makes your mouth heal slowly.

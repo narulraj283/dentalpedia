@@ -22,14 +22,13 @@ references:
   - "Addy M, et al. Oral hygiene practices and periodontal disease. Journal of Clinical Periodontology. 2005;32(1):7-15."
   - "Petersen PE, Ogawa H. The global burden of oral diseases and risks to oral health. Bulletin of the World Health Organization. 2005;83(9):661-669."
 ---
-
-Brushing and flossing aren't really about willpower—they're about building routines that become automatic. Once good oral hygiene habits are locked in, you don't have to think about them anymore. Here's how to build a routine that actually sticks and works. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+Brushing and flossing aren't really about willpower—they're about building routines that become automatic. Once good oral hygiene habits are locked in, you don't have to think about them anymore. Here's how to build a routine that actually sticks and works.
 
 ## Your Morning Routine: The Right Way to Start
 
 Overnight, bacteria accumulate in your mouth. Brushing first thing gets rid of that morning buildup. Spend two minutes with fluoride toothpaste, using gentle 45-degree angle brushing.
 
-Spit out the foam but don't rinse with water—that dilutes the fluoride. Let the remaining fluoride coat your teeth. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+Spit out the foam but don't rinse with water—that dilutes the fluoride. Let the remaining fluoride coat your teeth.
 
 If you eat immediately after brushing, that's fine. If you're concerned about eating acidic food on freshly softened enamel, wait 30 minutes after breakfast before brushing. There's no perfect answer—either approach works. Pick whichever fits your schedule.
 
@@ -103,25 +102,16 @@ Build an oral hygiene routine that becomes automatic. Morning: brush two minutes
 
 Use proper 45-degree angle gentle vibration, not aggressive scrubbing. Make it a habit through routine linking and environmental cues. Test yourself with disclosing tablets. Once it's automatic, you barely have to think about it, and your mouth stays healthy for life.
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+Related reading: [The Benefits of Fluoride: What to Know](/article/benefits-of-fluoride-benefits.html) and [Preventive Dental Treatments and Risk-Based Scheduling](/article/timeline-for-preventive-treatments.html).
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Use proper 45-degree angle gentle vibration, not aggressive scrubbing. Make it a habit through routine linking and environmental cues. Talk to your dentist about how this applies to your situation.
 
-> **Key Takeaway:** Brushing and flossing aren't really about willpower—they're about building routines that become automatic. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** Brushing and flossing aren't really about willpower—they're about building routines that become automatic.
 
 ## Related Articles
 

@@ -32,7 +32,6 @@ references:
   - title: "Oral health self-care compliance and behavior change techniques in preventive dentistry"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25891364
 ---
-
 Good daily tooth cleaning habits are your best defense against cavities and gum disease. The routine is simple: brush, floss, and maybe use a mouthwash. But the *way* you do these things matters. Using the right technique with the right tools can cut your decay risk dramatically. Let's walk through exactly what works.
 
 ## Understanding How Plaque Damages Your Teeth

@@ -20,7 +20,6 @@ references:
   - "Papadimitriou A, et al. Clinical effectiveness of two types of fixed appliances treating Class II Division 1 malocclusions. A randomized clinical trial. Am J Orthod Dentofacial Orthop. 2006;129(5):597-605."
   - "Papageorgiou SN, et al. Long-term stability of Class II Division 1 malocclusion treatment. A systematic review and meta-analysis. Am J Orthod Dentofacial Orthop. 2015;147(4):427-440."
 ---
-
 ## The 22-Hour Rule Is Not Optional
 
 Clear aligners (like Invisalign) work because they apply constant, gentle pressure to move teeth. Unlike fixed braces that stay on all the time, aligners depend completely on you wearing them consistently. The orthodontic standard is 22 hours per day minimum. This means you remove aligners for eating and cleaning teeth—roughly 2 hours daily—and wear them all remaining hours.
@@ -87,7 +86,7 @@ If you have a job where frequent breaks for beverages and snacks are normal, bri
 
 Clear aligner success depends on strict 22-hour daily wear. While aligners are convenient and nearly invisible, they require your compliance to work effectively. Removing them more than 2 hours daily directly compromises treatment progress, slows tooth movement, and extends overall treatment duration. Successful aligner treatment means committing to the wear schedule for the entire treatment period.
 
-> **Key Takeaway:** Clear aligners (like Invisalign) work because they apply constant, gentle pressure to move teeth.
+> **Key Takeaway:** Unlike fixed braces that stay on all the time, aligners depend completely on you wearing them consistently. The orthodontic standard is 22 hours per day minimum.
 
 ## Related Articles
 

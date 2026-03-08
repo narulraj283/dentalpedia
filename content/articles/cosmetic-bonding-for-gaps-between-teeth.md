@@ -20,7 +20,6 @@ references:
   - "Dietschi D. Postoperative Sensitivity in Direct Posterior Composite Resin Restorations. American Journal of Dentistry. 2022;15(4):211-217."
   - "Swift EJ, Perdigão J. Bonding to Enamel and Dentin: A Brief History and State of the Art. Quintessence International. 2023;29(10):626-638."
 ---
-
 ## What Is Gap Bonding?
 
 A gap between your front teeth—called a diastema—affects about 8-12% of people, but bothers many more. If you're self-conscious about your gap, cosmetic bonding offers a quick solution. Your dentist applies tooth-colored resin directly to your teeth to close the gap, filling it in naturally.
@@ -82,17 +81,11 @@ Cosmetic gap bonding is very affordable at $300-600 for closing a gap affecting 
 
 If your gap is very large, your teeth are differently sized, or you want something that lasts 15+ years without color change, your dentist might recommend veneers or orthodontics instead. Discuss all options at your consultation so you choose what's best for your situation.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about cosmetic bonding for gaps between teeth and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 Cosmetic gap bonding is a quick, affordable way to close gaps between teeth and improve your smile in a single appointment. With proper care and good home habits, your bonding will look great for 5-7 years. Annual professional care keeps it looking fresh, and eventual replacement is inexpensive and straightforward.
 
-> **Key Takeaway:** Tooth-colored bonding can close gaps between your teeth painlessly in a single appointment, giving you the smile you want.
+> **Key Takeaway:** A gap between your front teeth—called a diastema—affects about 8-12% of people, but bothers many more.
 
 ## Related Articles
 

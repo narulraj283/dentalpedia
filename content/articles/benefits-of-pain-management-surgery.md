@@ -44,14 +44,13 @@ references:
     title: "Pain Management: A Fundamental Human Right"
     journal: "Anesthesia & Analgesia"
 ---
-
 ## Smart Pain Management for Oral Surgery
 
-When you're having oral surgery (like tooth extraction or implant placement), pain management is a big part of your recovery. The good news is that modern pain management doesn't require opioids (prescription painkillers like Vicodin). Instead, dentists now use a combination of medications and non-medication strategies that actually work better than opioids alone, have fewer side effects, and don't carry addiction risks. Let's talk about how to manage surgical pain effectively. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
+When you're having oral surgery (like tooth extraction or implant placement), pain management is a big part of your recovery. The good news is that modern pain management doesn't require opioids (prescription painkillers like Vicodin). Instead, dentists now use a combination of medications and non-medication strategies that actually work better than opioids alone, have fewer side effects, and don't carry addiction risks. Let's talk about how to manage surgical pain effectively.
 
 ## Before Your Surgery: Preemptive Pain Management
 
-Smart pain management actually starts before your surgery. Taking pain medication 1-2 hours before your surgery is called "pre-emptive analgesia," and it really works. Why? Because medication in your system before surgical pain starts is more effective than medication after pain develops. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
+Smart pain management actually starts before your surgery. Taking pain medication 1-2 hours before your surgery is called "pre-emptive analgesia," and it really works. Why? Because medication in your system before surgical pain starts is more effective than medication after pain develops.
 
 **Before your surgery, your orthodontist or surgeon will have you take:**
 - Ibuprofen (400mg) about 1-2 hours before surgery. This anti-inflammatory medication starts working before pain begins, which reduces pain about 20-30% compared to taking it after surgery.
@@ -122,27 +121,18 @@ You're not passive in pain management. You can help by:
 - Avoiding strenuous activity that raises heart rate and increases pain
 - Staying hydrated and eating soft foods
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
+Related reading: [Reducing Swelling After Oral Surgery](/article/swelling-reduction-what-you-need-to-know.html) and [Surgical vs. Simple Extraction - When Is Surgery](/article/surgical-tooth-extraction-when-and-why-its-necessary.html).
 
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
 
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about understanding pain management in surgery for better dental or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** When you're having oral surgery (like tooth extraction or implant placement), pain management is a big part of your recovery. Your dentist can help you understand what steps are right for your specific needs.
+
+> **Key Takeaway:** When you're having oral surgery (like tooth extraction or implant placement), pain management is a big part of your recovery.
 
 ## Related Articles
 

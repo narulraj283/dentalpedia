@@ -20,7 +20,6 @@ references:
   - "Keeling SD, McGorray SP, Wheeler TT, King GJ. Anteroposterior skeletal and dental changes after rapid palatal expansion. Am J Orthod Dentofacial Orthop. 1998;113(6):603-611."
   - "Angelieri F, Cevidanes LHS, Franchi L, Gonçalves JR, Benavides E, McNamara JA. Midpalatal suture density pattern does not predict skeletal maturation stages. PLoS One. 2016;11(8):e0161105."
 ---
-
 ## How Long Does Braces Treatment Really Take?
 
 One of the first questions people ask about getting braces is: "How long will I need to wear them?" The answer depends on a lot of factors—and understanding them can help you set realistic expectations. Your orthodontist isn't being evasive; tooth movement is governed by biology, not just desire.
@@ -96,7 +95,7 @@ Figure on 18-30 months for typical comprehensive braces if you're an adult. Teen
 ## Related Articles
 
 - [Braces Benefits Complete Guide](/article/braces-benefits-complete-guide.html)
-- [Bracket Irritation and Oral Ulceration: Prevention,](/article/bracket-irritation-mouth-sores-during-orthodontia.html)
+- [Bracket Irritation and Oral Ulceration: Prevention](/article/bracket-irritation-mouth-sores-during-orthodontia.html)
 - [Premolar Extraction in Orthodontics - First vs](/article/premolar-extraction-in-orthodontia-indication-debate.html)
 - [Evidence-Based Decision-Making for Orthodontic](/article/best-practices-for-orthodontic-extraction-decision.html)
 - [Cost of Braces Care Instructions](/article/cost-of-braces-care-instructions.html)

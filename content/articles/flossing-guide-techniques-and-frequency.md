@@ -22,7 +22,6 @@ references:
   - "Kinney JS, Morelli T, Oh M, et al. Crevicular fluid biomarkers and periodontal disease progression. J Clin Periodontol. 2014;41(2):113-120."
   - "Cobb CM. Clinical significance of non-surgical periodontal therapy: an evidence-based perspective of scaling and root planing. J Clin Periodontol. 2002;29(Suppl 2):6-16."
 ---
-
 ## How Often Should You Floss?
 
 Daily flossing is the gold standard for keeping your teeth healthy. Your bacteria need about 24 to 48 hours to rebuild their dangerous organized structure after you disrupt it by flossing. Daily flossing keeps stopping them before they can reorganize. If you floss twice a day, you don't gain much extra benefit—once daily is enough.
@@ -85,7 +84,7 @@ Daily flossing using the C-shaped gentle technique is your best bet for keeping 
 
 Ask your dentist to watch you floss and give you feedback on your technique. They can also help you choose the best flossing tool for your specific teeth and situation.
 
-> **Key Takeaway:** Optimal flossing technique emphasizes daily frequency with gentle subgingival access and C-shaped motion for maximum biofilm removal.
+> **Key Takeaway:** Daily flossing is the gold standard for keeping your teeth healthy.
 
 ## Related Articles
 

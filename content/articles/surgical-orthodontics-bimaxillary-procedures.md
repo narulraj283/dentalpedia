@@ -46,7 +46,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Orthognathic Surgery - Understanding Jaw Correction
 ---
-
 ## Introduction
 
 If you have a significant bite problem or jaw misalignment, your orthodontist or surgeon might suggest orthognathic surgery. This is a sophisticated surgical procedure that corrects your upper and/or lower jaw to improve function, appearance, and dental bite. It's not just braces—it's repositioning your actual jaw bones. This guide explains what bimaxillary surgery (both jaws) involves, why it helps, and what your journey looks like from planning through recovery.
@@ -122,18 +121,6 @@ You're a candidate for orthognathic surgery if: your upper and lower jaws are se
 - **Months 1-3**: Rapid recovery and swelling reduction
 - **Months 3-6**: Braces for final bite refinement
 - **Year 1+**: Wearing retainers to maintain results
-
-## Questions to Ask Your Surgeon
-
-1. Will my surgery be both jaws or one jaw?
-2. How experienced are you with this procedure?
-3. What does my specific jaw movement involve?
-4.
-
-How long until I can return to work?
-5. When can I return to exercise?
-6. What's your personal success rate?
-7. What complications have you managed?
 
 ## Expected Outcomes
 

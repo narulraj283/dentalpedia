@@ -28,7 +28,6 @@ references:
   - title: "Long-Term Clinical Outcomes and Stability Following Periodontal Surgery"
     url: https://www.ncbi.nlm.nih.gov/pubmed/23045839
 ---
-
 When your gums have receded significantly or lost thickness, gum grafting surgery can restore the tissue you've lost. These surgical procedures use your own tissue—or donor tissue—to cover exposed roots, rebuild thin gums, reduce sensitivity, and improve your smile's appearance. Your dentist can choose from several different grafting techniques depending on how much tissue needs to be restored and where the problem is located. Understanding your options helps you make an informed decision about whether graft surgery is right for you.
 
 ## Different Types of Gum Grafts Available

@@ -44,7 +44,6 @@ subcategory: Emergency Overview
 subcategory_slug: overview-emergency
 title: 'Oral Soft Tissue Injuries: Emergency Management'
 ---
-
 ## Introduction
 
 Mouth and tongue injuries happen to everyone eventually—from a sports accident, a fall, or even biting your cheek while chewing. Some injuries are minor and heal on their own in a few days. Others need immediate professional care to prevent permanent scarring and infection.
@@ -220,6 +219,3 @@ Remember that every person's situation is unique. What works well for one patien
 - [Emergency Dental Pain](/article/emergency-dental-pain-complete-guide.html)
 - [Risk and Concerns with Emergency Tooth Pain](/article/risk-and-concerns-with-emergency-tooth-pain.html)
 
-- [Finding Emergency Dental Care: Options Beyond Hours](/article/finding-emergency-dental-care-options-beyond-hours.html)
-- [Knocked Out Tooth? Save It Now - Your Action Plan](/article/knocked-out-tooth-what-to-do-in-the-first-hour.html)
-- [Tooth Luxation and Partial Displacement - Emergency](/article/tooth-luxation-partial-displacement.html)

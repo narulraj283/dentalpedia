@@ -37,7 +37,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: 'Managing Post-Operative Swelling: Clinical Timeline'
 ---
-
 ## Introduction
 
 Swelling is your body's natural response to surgery. While it's frustrating, swelling is part of healing. Understanding the timeline and what you can do about it helps minimize discomfort and get back to normal faster. Most swelling resolves within 7-10 days with proper care.
@@ -117,12 +116,6 @@ Breathing difficulty or extreme throat swelling. Skin redness spreading outward.
 Sometimes swell less despite extensive surgery. **Extensive surgery**: More swelling expected. More aggressive anti-swelling protocol appropriate. **Multiple extractions**: Swell more than single extractions. Plan accordingly.
 
 Check out [Best-practices-for-bone-grafting-procedure](/article/best-practices-for-bone-grafting-procedure.html) and [Timeline-for-pre-surgery-preparation](/article/timeline-for-pre-surgery-preparation.html) for additional information.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for swelling reduction, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

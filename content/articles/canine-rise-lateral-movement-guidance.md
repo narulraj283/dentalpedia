@@ -20,7 +20,6 @@ references:
   - "Roth RH. Occlusal plane correction. J Clin Orthod. 1973;7(11):557-567."
   - "Schuyler CH. The function and importance of incisal guidance in oral rehabilitation. J Prosthet Dent. 1963;13(6):1011-1029."
 ---
-
 ## How Canine Guidance Works
 
 When you move your jaw side to side (chewing or any lateral jaw movement), your upper and lower canines create contact on an inclined surface. This "canine rise" guides your jaw movement while simultaneously disengaging your back teeth. The guidance angle (slope of the canine surface) typically ranges from 35-45 degrees for optimal function.
@@ -93,17 +92,11 @@ If you've lost a canine tooth or damaged it significantly, restoring optimal gui
 
 This is why canine tooth loss warrants prompt replacement—not just for esthetics, but for protecting remaining teeth from damage. When planning canine restoration, make sure your dentist discusses guidance planning and shows you how the restoration will recreate optimal guidance planes.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about canine rise lateral movement guidance and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 Canine rise creates essential guidance for your jaw movements, protecting back teeth from damaging lateral forces. Optimal guidance angles of 35-45 degrees create smooth jaw movement while completely disengaging back teeth. Properly guided teeth show 40-50% reduced lateral stress and 15-20% longer lifespan. When restoring canine teeth, your dentist carefully replicates natural guidance planes, ensuring optimal function for many years.
 
-> **Key Takeaway:** Canine teeth guide your bite during side-to-side jaw movements, protecting back teeth from damage.
+> **Key Takeaway:** When you move your jaw side to side (chewing or any lateral jaw movement), your upper and lower canines create contact on an inclined surface.
 
 ## Related Articles
 

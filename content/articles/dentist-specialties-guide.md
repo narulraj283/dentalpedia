@@ -22,7 +22,6 @@ references:
   - "Sukotjo C. Clinical applications of biomaterials used in implant dentistry. Current Oral Health Reports. 2015;2(3):230-242."
   - "Jafri Z, et al. Endodontic referral patterns in a dental school. Journal of Endodontics. 2013;39(5):615-619."
 ---
-
 Your general dentist is a great resource for routine care, but sometimes you need expertise in a specific area of dentistry. Learning more about [Dental Insurance Coverage Types and Whats Included](/article/dental-insurance-coverage-types-and-whats-included.html) can help you understand this better. Dental specialists have extra training and focus exclusively on treating particular types of problems. Understanding what different specialists do helps you know when your general dentist might recommend a specialist referral.
 
 ## General Dentistry: Your First Line of Care
@@ -77,17 +76,11 @@ Ask your general dentist for a recommendation—they know which specialists in y
 
 Specialist care often costs more than general dentistry because specialists have more training and use advanced technology. Check your insurance coverage before seeing a specialist, as some plans have different benefits for specialist visits. Many specialists' offices can provide cost estimates and payment plans.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about dentist specialties guide and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 Your general dentist handles routine care and can treat most problems, but sometimes specialized expertise makes a difference. Periodontists treat advanced gum disease, orthodontists straighten teeth, prosthodontists replace multiple missing teeth, endodontists specialize in root canals, and oral surgeons handle complex extractions and jaw surgery. If your general dentist recommends a specialist, it's because they believe specialist expertise will give you better results. Talk to your dentist about which options are right for your specific situation.
 
-> **Key Takeaway:** Learn about different dental specialties, what each type of dentist specializes in, and how to know if you need to see a specialist.
+> **Key Takeaway:** Your general dentist is a great resource for routine care, but sometimes you need expertise in a specific area of dentistry.
 
 ## Related Articles
 

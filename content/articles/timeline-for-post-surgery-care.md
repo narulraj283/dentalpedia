@@ -32,7 +32,6 @@ references:
   - title: "Dodson TB, Perrott DH. Patient preferences in third molar management. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2010;109(6):968-977."
     url: https://pubmed.ncbi.nlm.nih.gov/15925345
 ---
-
 ## Taking Care of Yourself After Oral Surgery
 
 After your mouth surgery, you'll go through different healing stages that need different types of care. During the first week, your body works hard to reduce swelling and pain. During the next weeks, tissues heal and you return to normal activities. This guide explains exactly what to expect and what to do at each stage to heal properly and avoid problems.

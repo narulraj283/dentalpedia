@@ -20,14 +20,13 @@ references:
   - "Kwon HB, et al. Effectiveness of lingual appliances and clear aligners in correcting class II malocclusion: A systematic review. Korean J Orthod. 2018;48(3):154-162."
   - "Papageorgiou SN, et al. Effectiveness of lingual appliances for correcting dental malocclusions. Cochrane Database Syst Rev. 2016;(4):CD010536."
 ---
-
 ## Understanding Your Bite: The Basics
 
-Dentists classify misalignments using Angle's system: Class I is normal, Class II means your upper jaw protrudes relative to your lower (very common), Class III means your lower jaw protrudes forward (less common). Treatment depends on your specific pattern, how bad it is, and what matters most to you. For more details, see our guide on [Accelerated Orthodontia](/article/accelerated-orthodontia-fast-track-braces.html).
+Dentists classify misalignments using Angle's system: Class I is normal, Class II means your upper jaw protrudes relative to your lower (very common), Class III means your lower jaw protrudes forward (less common). Treatment depends on your specific pattern, how bad it is, and what matters most to you.
 
 Seventy percent of adults want straighter teeth for appearance. Twenty percent seek functional improvements (better bite, jaw function). Ten percent combine both concerns.
 
-Your orthodontist assesses whether your problem is purely dental (teeth positioned wrong on normal bones) or skeletal (bone structure differences). Dental problems respond well to any appliance. Skeletal problems sometimes need surgery combined with braces. For more details, see our guide on [Accelerated Orthodontics](/article/accelerated-orthodontics-speeding-up-your-treatment.html).
+Your orthodontist assesses whether your problem is purely dental (teeth positioned wrong on normal bones) or skeletal (bone structure differences). Dental problems respond well to any appliance. Skeletal problems sometimes need surgery combined with braces.
 
 Crowding under 8 millimeters can usually be corrected without extracting teeth. Crowding over 8 millimeters might require extraction (typically first premolars) to create space. Studies show similar long-term stability whether teeth are extracted or not—proper treatment planning matters more than extraction decision alone.
 
@@ -95,20 +94,6 @@ Choosing among these options requires honest assessment of your priorities. Ask 
 
 **What's my specific problem?** Simple spacing, minor crowding, or anterior misalignment responds well to any appliance. Severe rotations, significant vertical discrepancies, or skeletal problems might need fixed appliances for best results.
 
-## Questions to Ask Your Orthodontist
-
-Before committing, ask:
-- "For my specific malocclusion, what are realistic outcomes with each option?"
-- "How long do you estimate treatment will take with each option?"
-- "What's your success rate for patients like me?"
-- "What are all the fees and financing options?"
-- "If I choose clear aligners and need refinements, what are the additional costs?"
-- "What retention protocol do you recommend, and what will that cost?"
-- "What happens if I need to change appliances mid-treatment?"
-- "How often will I need to come in?"
-- "What dietary restrictions apply?"
-- "How do you handle emergencies between appointments?"
-
 ## Cost Realities and Payment Planning
 
 Conventional braces: $3,000-7,000 total
@@ -164,6 +149,12 @@ Late bloomers or adults: Understand that treatment duration might be longer if y
 
 **Related articles:** Do I need braces or aligners | Cost comparison: orthodontic options | Retainers: keeping your teeth straight
 
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
+
+Related reading: [Why Bite Correction Methods Matter for Long-Term Dental](/article/why-bite-correction-methods-matters.html) and [Bite Correction: Underbite, Overbite, and Crossbite](/article/bite-correction-underbite-overbite-and-crossbite.html).
+
 ## Conclusion
 
 ---
@@ -174,7 +165,7 @@ Late bloomers or adults: Understand that treatment duration might be longer if y
 
 - [Adult Braces Options: Complete Guide](/article/adult-braces-options-complete-guide.html)
 - [How Long Does Orthodontic Treatment Take?](/article/how-to-orthodontic-treatment-duration.html)
-- [Ligature Wire Selection and Bracket Engagement:](/article/tie-wire-securing-wire-to-bracket.html)
+- [Ligature Wire Selection and Bracket Engagement](/article/tie-wire-securing-wire-to-bracket.html)
 - [Invisible Braces: A Complete Patient Guide](/article/benefits-of-invisible-braces-benefits.html)
 - [Why Adult Braces and Orthodontic Treatment](/article/why-adult-braces-options-matters.html)
 

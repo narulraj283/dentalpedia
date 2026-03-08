@@ -40,7 +40,6 @@ subcategory: TMJ & Sleep Overview
 subcategory_slug: overview-tmj-sleep
 title: 'Sleep Apnea: Understanding Breathing Pauses During'
 ---
-
 ## What Is Sleep Apnea?
 
 Sleep apnea is when your breathing stops repeatedly during sleep—sometimes dozens or even hundreds of times per night. Each time your airway closes, your oxygen level drops, and your brain wakes you up just enough to gasp for air. You might not remember these brief awakenings, but your body experiences them all night long.
@@ -123,7 +122,7 @@ Quality of life impairment in OSA extends beyond daytime somnolence. Patients fr
 
 Obstructive sleep apnea results from complex interactions between anatomical predisposition, neuromuscular factors, and physiological characteristics. Understanding pathophysiology enables recognition of risk factors and identification of patients requiring diagnostic evaluation. Screening through tools such as the STOP-Bang questionnaire enables efficient identification of high-risk patients. Recognition of the diverse clinical presentations of OSA beyond daytime somnolence ensures that symptomatic patients receive appropriate evaluation and treatment, reducing the substantial morbidity and mortality associated with untreated disease.
 
-> **Key Takeaway:** Understanding sleep apnea: understanding breathing pauses during sleep puts you in a better position to work with your dentist on a care plan that fits your needs. Ask questions and stay proactive about your oral health.
+> **Key Takeaway:** Sleep apnea is when your breathing stops repeatedly during sleep—sometimes dozens or even hundreds of times per night.
 
 ## Related Articles
 

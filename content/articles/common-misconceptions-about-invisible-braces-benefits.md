@@ -20,7 +20,6 @@ references:
   - "Barbagallo LJ, et al. Evaluation of force delivery and variability of five different clear aligner systems. Orthodontics and Craniofacial Research. 2017;20(2):98-107."
   - "Gu J, et al. Biomechanical comparison of clear aligners and fixed appliances on the treatment of bimaxillary dentoalveolar protrusion. Journal of Dental Sciences. 2019;14(3):257-265."
 ---
-
 Clear aligners (Invisalign and similar) have changed orthodontics. They're esthetic, and they work—but they're not a magic solution for every bite problem. Understanding their real capabilities helps you decide if they're right for you.
 
 ## Myth: Clear Aligners Can Fix Any Problem That Fixed Braces Fix
@@ -107,19 +106,14 @@ Some patients experience aligner fit issues—newly switched trays that don't qu
 
 Patients with particularly bad habits—like regularly forgetting aligners or removing them excessively—sometimes end up with fixed braces anyway after aligner failure. This costs extra and extends total treatment time. Being honest about your likely compliance prevents this outcome.
 
-## Questions to Ask Your Orthodontist
 
-Before starting aligner treatment, ask: Is my bite complexity suitable for aligners? What's my exact treatment plan—how many aligner sets are you estimating? How often will I have appointments? What's included in my cost, and what's extra (replacement trays, ancillary appliances)?
-
-What retention will I need afterward—is it included? What happens if my teeth don't track as planned? How do you monitor for root resorption? What's your experience and success rate with cases like mine?
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 
 Clear aligners work well for mild-to-moderate bite problems in motivated, compliant patients. They're not universally superior to fixed braces—they have real limitations for complex cases. Success requires 22+ hours daily wear, regular professional checkups, excellent home care, and understanding that outcomes depend on multiple factors including your compliance. Costs are comparable to fixed braces when including retention. Choosing aligners should reflect your specific problem, your compliance capacity, and your lifestyle.
 
-> **Key Takeaway:** Clear aligners work well for many situations, but they have limits—and you must wear them 22 hours daily for results.
+> **Key Takeaway:** Clear aligners (Invisalign and similar) have changed orthodontics.
 
 ## Related Articles
 

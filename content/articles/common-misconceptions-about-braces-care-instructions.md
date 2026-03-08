@@ -20,7 +20,6 @@ references:
   - "Mitchell L. (2023). Decalcification during orthodontic treatment with fixed appliances: Incidence and prevention. British Journal of Orthodontics. 19(3):199-205."
   - "Alexander SA, Ripa LW. (2023). Rational use of fluorides in orthodontics. In: Wei SH (Ed.), Fluoride in Clinical Dentistry (2nd ed.). Philadelphia: Lea & Febiger."
 ---
-
 ## Brushing with Braces Is Different—But Definitely Doable
 
 One of the biggest myths about braces is that you can't keep them clean. That's not true. You just need to adjust your brushing technique. When you have braces, you've got about 10-14 extra spots where food and plaque can hide compared to regular teeth. Regular brushing won't clean these spots well enough, but the right technique absolutely will.
@@ -87,7 +86,7 @@ You'll get orthodontic wax to put on your brackets when they're irritating your 
 
 Caring for braces requires some modifications to your routine, but it's absolutely manageable. The main things are: spend 3-4 minutes brushing with the right technique, use fluoride daily, be smart about food choices, and keep up with monthly professional cleanings. These habits protect your teeth and help your braces work better.
 
-> **Key Takeaway:** Keeping your braces clean requires special techniques and a bit of extra effort, but it's totally doable with the right approach.
+> **Key Takeaway:** One of the biggest myths about braces is that you can't keep them clean.
 
 ## Related Articles
 

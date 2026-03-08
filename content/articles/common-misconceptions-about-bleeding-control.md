@@ -20,7 +20,6 @@ references:
   - "Li YF, et al. Hemostasis in the oral cavity: mechanisms and control. J Investig Surg. 2017;30(2):93-100."
   - "Ahmed SN, et al. Management of anticoagulated patients in dental practice. J Can Dent Assoc. 2002;68(10):614-619."
 ---
-
 ## Controlling Bleeding After Dental Surgery
 
 After any dental surgery—like tooth extraction or gum procedures—some bleeding is normal. Your body needs to form a blood clot to stop the bleeding. However, excessive bleeding that won't stop can be concerning. Understanding how to properly control bleeding and when to contact your dentist helps you handle post-operative bleeding appropriately.
@@ -83,15 +82,11 @@ After your dentist clears you—typically 24 hours after simple extractions—yo
 
 For more extensive surgery, your dentist provides specific activity restrictions. Follow these carefully even if you feel fine—complications often develop silently. Resuming normal activity gradually over 1-2 weeks prevents setbacks.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about bleeding control and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
 ## Conclusion
 
 Controlling bleeding after dental surgery requires firm, continuous pressure on gauze without checking or disturbing the site. Most bleeding stops within 15-30 minutes of proper pressure. If bleeding continues excessively or returns unexpectedly, contact your dentist. For routine post-operative oozing, gentle pressure and avoiding rinsing manage it appropriately.
 
-> **Key Takeaway:** How to properly control bleeding after dental surgery, what works and what doesn't, and when to contact your dentist if bleeding continues.
+> **Key Takeaway:** After any dental surgery—like tooth extraction or gum procedures—some bleeding is normal.
 
 ## Related Articles
 

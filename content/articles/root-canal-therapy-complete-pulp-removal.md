@@ -32,7 +32,6 @@ references:
   - title: "Siqueira JF Jr. Microbial causes of endodontic flare-ups. Int Endod J. 2003;36(7):453-463."
     url: https://pubmed.ncbi.nlm.nih.gov/12823702
 ---
-
 ## Understanding Why You Need a Root Canal
 
 Root canal treatment becomes necessary when the pulp inside your tooth gets infected or dies. The pulp is the living center of your tooth containing blood vessels and nerves. When this tissue gets infected from decay, trauma, or repeated procedures, you'll experience severe pain or sensitivity. Your dentist's goal during root canal therapy is to completely remove this infected pulp, thoroughly clean the canal system, and seal it to prevent bacteria from returning.
@@ -110,6 +109,6 @@ Root canal treatment has an 85-95% success rate when performed correctly with pr
 - [Root Canal Retreatment When Resin Occurs](/article/root-canal-retreatment-when-resin-occurs.html)
 - [Root Canal Treatment Complete Step-by-Step Guide](/article/root-canal-treatment-complete-step-by-step-guide.html)
 - [Endodontic File Selection](/article/file-selection-choosing-instruments.html)
-- [Stainless Steel Endodontic Files: Metallurgy,](/article/stainless-steel-files-traditional-material.html)
+- [Stainless Steel Endodontic Files: Metallurgy](/article/stainless-steel-files-traditional-material.html)
 - [Dead Nerve Tissue: Understanding Pulp Necrosis](/article/necrotic-pulp-dead-nerve-tissue.html)
 

@@ -43,7 +43,6 @@ subcategory: Preventive Overview
 subcategory_slug: overview-prevent
 title: Prescription Toothpaste High Fluoride and Sensitivity
 ---
-
 ## Prescription Toothpaste: High-Strength Protection for Your Cavity and Sensitivity Problems
 
 If you've had multiple cavities recently or experience constant tooth sensitivity, your dentist might recommend prescription toothpaste—a stronger fluoride formulation than over-the-counter products. Prescription toothpastes contain much higher fluoride concentrations and sometimes include additional ingredients specifically designed to prevent cavities or relieve sensitivity. This guide explains how these products work, whether you're a good candidate, and how to use them effectively and safely.

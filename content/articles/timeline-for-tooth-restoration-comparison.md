@@ -18,7 +18,6 @@ references:
   - title: "Opdam NJ, van de Sande FH, Bronkhorst EM, et al. Longevity of composite vs amalgam restorations. Journal of Dental Research. 2014;93(10):943-949."
     url: https://pubmed.ncbi.nlm.nih.gov/25099495
 ---
-
 ## Introduction
 
 When your dentist finds a cavity or needs to replace an old filling, you'll choose from several materials. Each has different strengths, costs, and longevity. Understanding your options helps you make the best choice for your teeth and budget. This guide breaks down the main restorative materials so you can have an informed conversation with your dentist.
@@ -99,12 +98,6 @@ Your dentist likely recommends a crown. Ceramic or gold are best—they're stron
 
 Composite is almost always the best choice. Appearance is critical, and composite bonds well to front teeth. Cost is reasonable, and longevity is acceptable for front teeth under lighter chewing forces.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for tooth restoration comparison, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
-
 ## What to Expect During Your Visit
 
 Your dentist will begin by examining your mouth and reviewing your dental history to understand your current situation. This evaluation may include taking X-rays or digital images to get a complete picture of what is happening beneath the surface. Based on these findings, your dentist will explain the recommended treatment approach and walk you through each step of the process.
@@ -135,5 +128,4 @@ Large back teeth? Amalgam or ceramic. Maximum durability? Gold. Have an open con
 - [Gingival Bleeding](/article/bleeding-gums-solutions-complete-guide.html)
 
 - [Timeline for Orthodontic Treatment Duration](/article/timeline-for-orthodontic-treatment-duration.html)
-- [Gingival Retraction: Creating Crown Space](/article/gingival-retraction-creating-crown-space.html)
-- [Understanding Mouth Injuries Treatment for Better](/article/benefits-of-mouth-injuries-treatment.html)
+

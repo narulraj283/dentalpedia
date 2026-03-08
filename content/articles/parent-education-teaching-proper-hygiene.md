@@ -44,7 +44,6 @@ subcategory: Pediatric Overview
 subcategory_slug: overview-peds
 title: Parent Education Teaching Proper Hygiene
 ---
-
 ## Your Role as Your Child's Oral Health Coach
 
 Here's the truth: you're more important than any dentist when it comes to your child's dental health. Your involvement, more than anything else, determines whether your child will have healthy teeth and good brushing habits for life. Kids whose parents are involved in teaching them about oral care brush more often, use better technique, and have significantly fewer cavities. In fact, research shows that parental involvement cuts cavity risk in half.

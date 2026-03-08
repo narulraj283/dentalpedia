@@ -22,14 +22,13 @@ references:
   - "Levine JB, et al. Digital technologies for smile designing and implant treatment planning. Curr Opin Aesthet Dent. 2012;6(2):45-56."
   - "Ahmad I. Digital smile design: computer-aided esthetic analysis and treatment planning. Quintessence Int. 2003;34(4):268-274."
 ---
-
 ## Best Practices for Before and After Smile Documentation
 
-When you're considering cosmetic dental work—whether it's whitening, veneers, or crowns—you want to know exactly what you'll look like afterward. Professional photography helps make this possible. It also gives your dentist a clear record of what was done and why, which is important for quality control and communication with the dental lab creating your new smile. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
+When you're considering cosmetic dental work—whether it's whitening, veneers, or crowns—you want to know exactly what you'll look like afterward. Professional photography helps make this possible. It also gives your dentist a clear record of what was done and why, which is important for quality control and communication with the dental lab creating your new smile.
 
 ## The Standard Photography Package
 
-Professional dental photography should capture your smile from multiple angles. This isn't just one selfie—it's a complete visual record. The American Academy of Cosmetic Dentistry recommends twelve different photos for a complete assessment. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
+Professional dental photography should capture your smile from multiple angles. This isn't just one selfie—it's a complete visual record. The American Academy of Cosmetic Dentistry recommends twelve different photos for a complete assessment.
 
 Start with your full face at rest and smiling, showing how your smile looks in your normal expressions. Then take closer photos of just your teeth and gums, both when you're smiling fully and when your teeth are hidden by your lips. Side profile photos show how your teeth line up with your chin and face profile. Finally, photos looking straight down at your top and bottom teeth show how they align with each other.
 
@@ -108,11 +107,16 @@ Pound E. Esthetic dentures and their prosthodontic and restorative aspects. J Pr
 9. Levine JB, et al. Digital technologies for smile designing and implant treatment planning. Curr Opin Aesthet Dent. 2012;6(2):45-56.
 10. Ahmad I. Digital smile design: computer-aided esthetic analysis and treatment planning. Quintessence Int. 2003;34(4):268-274.
 
+
+Related reading: [Cosmetic Dentistry for Aging Smiles: Rejuvenation](/article/cosmetic-dentistry-for-aging-smiles-rejuvenation.html) and [Gummy Smile Fix: Complete Guide](/article/gummy-smile-fix-complete-guide.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Pound E. Esthetic dentures and their prosthodontic and restorative aspects. Talk to your dentist about how this applies to your situation. Talk to your dentist about what options work best for your situation.
 
-> **Key Takeaway:** When you're considering cosmetic dental work—whether it's whitening, veneers, or crowns—you want to know exactly what you'll look like afterward. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** When you're considering cosmetic dental work—whether it's whitening, veneers, or crowns—you want to know exactly what you'll look like afterward.
 
 ## Related Articles
 

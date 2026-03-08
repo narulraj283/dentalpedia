@@ -20,7 +20,6 @@ references:
   - "DiAngelis AJ, Andreasen JO, Ebeleseder KA, et al. International Association of Dental Traumatology guidelines for the management of traumatic dental injuries: 1. Fractures and luxations of permanent teeth. Dent Traumatol. 2012;28(1):2-12."
   - "Ramos-Jorge ML, Bosco VL, Mota-Velasco G, et al. Relationship between traumatic dental injuries and school performance in children. Pediatr Dent. 2007;29(1):42-48."
 ---
-
 ## Mouth Injuries: Prevention Is Absolutely Worth It
 
 Mouth injuries from sports, falls, car accidents, or fights happen more often than you'd think. About 5-35% of kids and 17-20% of adults experience some form of oral trauma in their lifetime. Here's the important part: prevention is cheap, but treatment is expensive. The smarter your approach now, the more money you save later.
@@ -106,7 +105,7 @@ For more information, see [Risk and Concerns with Surgical Success Rates](/artic
 
 Mouth injuries cost $500-15,000+ to treat depending on severity, with tooth loss being the most expensive ($2,000-6,000 per tooth). Prevention through custom mouthguards ($100-300) prevents the vast majority of sports-related injuries. For adults and kids in contact sports, a mouthguard is one of the smartest investments you can make. Talk to your dentist about whether a custom mouthguard is right for your situation.
 
-> **Key Takeaway:** Mouth injuries from sports, falls, car accidents, or fights happen more often than you'd think.
+> **Key Takeaway:** About 5-35% of kids and 17-20% of adults experience some form of oral trauma in their lifetime. Here's the important part: prevention is cheap, but treatment is expensive.
 
 ## Related Articles
 

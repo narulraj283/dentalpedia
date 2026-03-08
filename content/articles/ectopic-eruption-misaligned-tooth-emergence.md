@@ -19,7 +19,6 @@ references:
   - "Ash MM. Wheeler's Dental Anatomy, Physiology and Occlusion. 8th ed. Saunders; 2003."
   - "Barberia-Leache E, Marques-Martinez C, Agua-Doce JA. Study of ectopic eruption of the permanent first molar. ASDC J Dent Child. 1997;64(4):278-283."
 ---
-
 ## What Is Ectopic Eruption and Why It Matters
 
 Ectopic eruption happens when a tooth erupts in the wrong location or at an unusual angle. Most commonly, it affects first permanent molars and permanent incisors. Instead of coming in straight and in the right position, the tooth comes in tilted, too far forward, too far back, or at an odd angle. While sometimes the tooth self-corrects as it fully erupts, other times it causes problems like damage to the baby tooth above it or creating crowding.
@@ -84,7 +83,7 @@ Ectopic eruption—when teeth come in misaligned or out of position—is usually
 
 Work with your dentist to determine whether your child's ectopic eruption needs treatment or should be monitored. Catching problems early usually means simpler solutions.
 
-> **Key Takeaway:** Ectopic eruption happens when a tooth erupts in the wrong location or at an unusual angle.
+> **Key Takeaway:** Most commonly, it affects first permanent molars and permanent incisors. Instead of coming in straight and in the right position, the tooth comes in tilted, too far forward, too far back, or at an odd angle.
 
 ## Related Articles
 

@@ -20,14 +20,13 @@ references:
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 ---
-
 ## Why Certain Foods Break Your Braces
 
 Brackets are bonded (glued) to your teeth with a special adhesive. When you bite down on hard foods, you're creating huge forces that stress this bond. Normal chewing creates about 200-300 pounds of force spread across your back teeth.
 
-Hard foods concentrate that force right at the bracket, sometimes exceeding what the adhesive can handle. The bracket doesn't just break loose—it can also damage your tooth enamel in the process. For more details, see our guide on [Accelerated Orthodontia](/article/accelerated-orthodontia-fast-track-braces.html).
+Hard foods concentrate that force right at the bracket, sometimes exceeding what the adhesive can handle. The bracket doesn't just break loose—it can also damage your tooth enamel in the process.
 
-If a bracket breaks, you need an emergency appointment to rebond it. That delays your treatment by 4-6 weeks, costs extra money ($150-$300), and frustrates everyone involved. Patients who avoid restricted foods experience 5-10% bracket breakage rates, while those who ignore food restrictions have 20-30% breakage. The math is simple: follow the food rules and keep treatment on schedule. For more details, see our guide on [Accelerated Orthodontics](/article/accelerated-orthodontics-speeding-up-your-treatment.html).
+If a bracket breaks, you need an emergency appointment to rebond it. That delays your treatment by 4-6 weeks, costs extra money ($150-$300), and frustrates everyone involved. Patients who avoid restricted foods experience 5-10% bracket breakage rates, while those who ignore food restrictions have 20-30% breakage. The math is simple: follow the food rules and keep treatment on schedule.
 
 ## The Foods You Must Avoid
 
@@ -79,27 +78,16 @@ Your orthodontist planned out a specific timeline for your treatment, maybe 18-2
 
 The food restrictions aren't punishment—they're protection for your investment. You're paying for braces to get a beautiful straight smile. Choosing braces-friendly foods is how you actually get that beautiful smile instead of one with white spots and delayed treatment. Think of it as protecting your future smile every time you make a food choice.
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+Related reading: [Cost of Invisible Braces Benefits](/article/cost-of-invisible-braces-benefits.html) and [Following Your Orthodontic Instructions Matters](/article/how-to-orthodontic-compliance.html).
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+The food restrictions aren't punishment—they're protection for your investment. You're paying for braces to get a beautiful straight smile. Talk to your dentist about how this applies to your situation.
 
-> **Key Takeaway:** Brackets are bonded (glued) to your teeth with a special adhesive. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** Brackets are bonded (glued) to your teeth with a special adhesive.
 
 ## Related Articles
 

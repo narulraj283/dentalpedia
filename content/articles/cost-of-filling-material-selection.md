@@ -22,7 +22,6 @@ references:
   - "van Dijken JW, Pallesen U. A randomized controlled trial of a low-shrinkage flowable composite and three types of resin-modified glass ionomer cement used for class II cavities. Dent Mater. 2011;27(10):1038-1047."
   - "Drummond JL, King TJ, Bapna MS, Kehoe MJ. Fracture surface analysis of clinically failed restorations. Dent Mater. 2003;19(4):287-292."
 ---
-
 When your dentist fills a cavity, you have choices about what material they use. Silver amalgam is super durable but looks metallic. Tooth-colored composite resin looks natural but doesn't last quite as long. Understanding how long different materials last helps you make cost-effective decisions that consider both immediate expense and lifetime replacement costs.
 
 ## Silver Amalgam Fillings
@@ -91,7 +90,7 @@ Silver amalgam fillings cost $150 to $250 with 80% to 95% survival at 20 years, 
 
 Secondary caries around composite fillings occur in 20% to 30% by 10 years, compared to 5% to 10% for amalgam. Insurance coverage typically favors both materials equally. High-cavity-risk patients benefit from amalgam's longer lifespan reducing replacement frequency. Glass ionomer materials show intermediate longevity at intermediate costs. Talk to your dentist about which material makes sense for your specific situation, considering both appearance and longevity.
 
-> **Key Takeaway:** When your dentist fills a cavity, you have choices about what material they use. Silver amalgam is super durable but looks metallic.
+> **Key Takeaway:** When your dentist fills a cavity, you have choices about what material they use.
 
 ## Related Articles
 

@@ -22,7 +22,6 @@ references:
   - "Mount GJ, Hume WR. Preservation and Restoration of Tooth Structure. 3rd ed. London: Mosby; 2005."
   - "Poggio CE, Dostal M, Schriber S, et al. Clinical outcome of tooth-colored restorations at 5 and 10 years post-insertion. Oper Dent. 2017;42(1):1-10."
 ---
-
 ## You Don't Have to Extract a Chipped Tooth
 
 This is really important: if you have a chipped or broken tooth, you don't automatically need to extract it or get a crown. Depending on the size of the damage, your dentist can often repair it conservatively with bonding or a veneer. You can save your natural tooth.
@@ -89,12 +88,6 @@ A small chip might not look pretty, but it's usually not a dental emergency requ
 
 If the chip involves sharp edges that are irritating your tongue or lip, or if it's causing pain, contact your dentist sooner. But cosmetic chips can usually wait a few days.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about cosmetic tooth repair and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed cosmetic tooth repair, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -103,13 +96,13 @@ Once you've addressed cosmetic tooth repair, maintaining your results requires o
 
 Chipped and broken teeth can usually be repaired conservatively with bonding or ceramic restorations, depending on the damage size. Small chips repair beautifully with bonding in one appointment. Larger damage might need veneers or crowns for long-term durability. Talk to your dentist about repair options before deciding to extract a tooth.
 
-> **Key Takeaway:** Chipped or broken teeth can usually be repaired cosmetically with bonding or ceramic restorations, depending on the size of the damage.
+> **Key Takeaway:** This is really important: if you have a chipped or broken tooth, you don't automatically need to extract it or get a crown.
 
 ## Related Articles
 
 - [Smile Design and Planning](/article/common-misconceptions-about-cosmetic-smile-design.html)
 - [Teeth Whitening Safety: Evidence-Based Analysis of](/article/common-misconceptions-about-teeth-bleaching-safety.html)
-- [Gummy Smile Correction: Etiology, Treatment Modalities,](/article/timeline-for-gummy-smile-fix.html)
+- [Gummy Smile Correction: Etiology, Treatment Modalities](/article/timeline-for-gummy-smile-fix.html)
 - [How Dentists Match Tooth Color: Patient Guide to Shade](/article/teeth-shade-matching-what-you-need-to-know.html)
 - [Why Teeth Bleaching Safety Matters](/article/why-teeth-bleaching-safety-matters.html)
 

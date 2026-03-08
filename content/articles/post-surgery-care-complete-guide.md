@@ -42,7 +42,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Post Surgery Care Complete Guide
 ---
-
 ## Making Your Mouth Stop Bleeding First
 
 Right after your surgery, the most important goal is stopping the bleeding. Before you leave the office, your surgeon will check the surgical area carefully to make sure bleeding has stopped completely. This is the foundation for everything else that follows—you can't heal properly until the bleeding stops.

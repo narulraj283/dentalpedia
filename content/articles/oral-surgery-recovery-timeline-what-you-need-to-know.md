@@ -16,7 +16,6 @@ references:
   - "Phillips JF, Ganske I. Complications Associated With Extraction of Impacted Teeth. J Oral Maxillofac Surg. 2011;69(11):e206-e214."
   - "Rordorf R, Wiest R. Pain Management in Oral Surgery. Schweiz Monatsschr Zahnmed. 2002;112(10):1023-1032."
 ---
-
 ## Immediately After Surgery: The First Few Hours
 
 When you wake up from surgery, your mouth will still be numb from local anesthetic. This numbness lasts six to eight hours and means you won't feel pain yet despite the surgical trauma. Bite gently on the gauze your surgeon provided with continuous firm pressure for thirty to forty-five minutes to control bleeding. Don't repeatedly check whether bleeding has stopped—this disrupts clot formation and restarts bleeding.

@@ -32,7 +32,6 @@ references:
   - title: "Immediate and long-term periodontal effects of different restoration materials"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26823169
 ---
-
 You have several choices for fixing smile problems cosmetically. Learning more about [Benefits of Smile Confidence Boost](/article/benefits-of-smile-confidence-boost.html) can help you understand this better. Each option has different costs, durability, and how much tooth gets removed. Understanding these choices helps you and your dentist pick the best approach for your situation.
 
 ## Bonded Composite: Quick and Reversible
@@ -97,12 +96,6 @@ While veneers and crowns cost more upfront, their durability sometimes makes the
 Before jumping into restorations, follow this sequence: (1) take photos and analyze your smile, (2) try whitening if discoloration exists, (3) consider braces if crowding exists, (4) assess whether gum shaping would help, (5) then plan restorations for remaining problems.
 
 This approach prevents wasting money on restorations that wouldn't be necessary if you'd done less invasive treatments first. Orthodontics done before cosmetic work creates better results. Whitening done before shade-dependent restoration planning saves money.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about cosmetic restoration types and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Conclusion
 

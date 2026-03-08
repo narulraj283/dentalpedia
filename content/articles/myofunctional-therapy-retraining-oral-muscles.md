@@ -28,7 +28,6 @@ references:
   - title: "Long-Term Stability of Malocclusion Correction with Myofunctional Therapy"
     url: https://www.ncbi.nlm.nih.gov/pubmed/23045839
 ---
-
 If your dentist has mentioned tongue thrust, mouth breathing, or abnormal swallowing patterns, you might benefit from myofunctional therapy. This specialized treatment retrains the muscles of your mouth and face to work properly, improving not just your bite, but also your breathing and overall oral health. About 20-80% of children (and many adults) have some form of oral muscle dysfunction. The good news is that these habits can be corrected with targeted exercises and training, which leads to better long-term results from orthodontics and improved breathing.
 
 ## Common Problems With Tongue and Muscle Function
@@ -60,14 +59,6 @@ Here's something many people don't realize: mouth breathing can worsen sleep pro
 Your dentist can screen for myofunctional problems during a regular exam. They might notice tongue thrust during swallowing, mouth breathing patterns, or lip sealing problems. If they recommend myofunctional therapy, it's worth pursuing because studies show that myofunctional therapy is significantly better at preventing relapse than orthodontics alone.
 
 For children, these habits are easier to fix because their brains are more adaptable to learning new patterns. That said, adults can also benefit from myofunctional therapy if they're willing to practice consistently.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about myofunctional therapy: retraining oral muscles and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

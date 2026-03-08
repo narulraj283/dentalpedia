@@ -28,7 +28,6 @@ references:
   - title: "Success Rates and Failures in Regional Anesthesia"
     url: "https://pubmed.ncbi.nlm.nih.gov/18954873/"
 ---
-
 ## Why Blocking One Nerve Can Numb Your Whole Jaw
 
 For complex dental procedures—extractions, implant placement, major periodontal surgery—simple local numbing at the tooth isn't enough. Your surgeon needs to block the entire nerve that supplies sensation to a large area of your mouth. This is called a nerve block.

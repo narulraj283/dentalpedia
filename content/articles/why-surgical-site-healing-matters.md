@@ -32,7 +32,6 @@ references:
   - title: "Biological and regenerative properties of demineralized bone matrix"
     url: "https://pubmed.ncbi.nlm.nih.gov/16987282/"
 ---
-
 After oral surgery—whether tooth extraction, implant placement, or bone grafting—your body launches an intricate healing process. This process unfolds over weeks and months, though most people feel "recovered" within days or weeks. Understanding what's happening under your gums helps you support healing, maintain realistic expectations, and recognize when problems occur.
 
 Your surgical site undergoes remarkable biological changes: inflammation gives way to tissue formation, soft tissue regenerates, bone remodels. Learn more about [Tooth Extraction Recovery Complete](/article/tooth-extraction-recovery-complete-guide.html) for additional guidance. Each phase builds on the previous one. Disrupting this process through improper care can delay healing or cause complications. Supporting healing through proper postoperative care optimizes outcomes.

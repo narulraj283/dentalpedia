@@ -20,7 +20,6 @@ references:
   - Grippo AO, et al. Abfraction, abrasion, biocorrosion, and the enigma of noncarious cervical lesions: a 20-year perspective. Journal of Esthetic and Restorative Dentistry. 2012;24(1):10-23.
   - Vieira A, et al. Dental erosion: classification, causes and effects on enamel and dentin. Journal of Oral Sciences. 2014;56(2):75-82.
 ---
-
 You've probably seen ads claiming they can "repair" or "restore" your tooth enamel. But here's the tough truth: your enamel can't repair itself. Once it's gone, it's gone. The good news? You can stop erosion from getting worse and protect your remaining enamel.
 
 ## Myth: Products Can Repair Lost Enamel
@@ -92,17 +91,11 @@ Another important habit is choosing the right toothbrush and technique. Soft-bri
 
 Most people think harder brushing means cleaner teeth, but it actually causes more harm than good. Two to three minutes of gentle brushing removes plaque effectively without damaging your enamel. If you grind your teeth at night (bruxism), ask your dentist about a night guard—teeth grinding causes the same kind of erosion and wear as aggressive brushing.
 
-## Questions to Ask Your Dentist About Erosion
-
-During your next dental visit, consider asking your dentist specific questions about erosion risk. Ask them to check whether you have any early signs of erosion and where it's occurring. If they find erosion, ask what's most likely causing it based on your habits and medical history. Ask whether you should use a special fluoride toothpaste or rinse as preventive care. If you have acid reflux, ask how to work with your doctor to control it and whether you need additional enamel protection.
-
-Also ask about your brushing technique—your dentist or hygienist can show you the gentlest, most effective way to brush your specific teeth. If you're experiencing tooth sensitivity, ask whether erosion is the cause and what treatments might help. Finally, ask about the safest whitening options for your teeth given your enamel thickness. Some people with significant erosion shouldn't whiten their teeth, so getting personalized advice is important.
-
 ## Conclusion
 
 Enamel doesn't grow back, but you can stop erosion and protect your remaining teeth. The key is identifying what's causing your erosion and stopping that behavior. Fluoride helps protect what you have. Once erosion has caused significant damage, restorations can restore appearance and function, but only if you've actually stopped the erosive process. Prevention is far easier and less expensive than repair.
 
-> **Key Takeaway:** Your enamel can't grow back, but you can stop erosion and protect what you have left.
+> **Key Takeaway:** You've probably seen ads claiming they can "repair" or "restore" your tooth enamel.
 
 ## Related Articles
 

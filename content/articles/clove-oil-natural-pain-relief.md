@@ -38,7 +38,6 @@ subcategory: Oral Health Overview
 subcategory_slug: overview-oral-health
 title: 'Clove Oil for Dental Pain: Clinical Evidence'
 ---
-
 ## What Makes Clove Oil Work for Tooth Pain?
 
 Clove oil has been used for hundreds of years to soothe aching teeth, and there's good science behind why it works. The main healing ingredient is eugenol, which makes up about 70-95% of clove oil. Eugenol works as a natural numbing agent that blocks pain signals from reaching your brain. It also reduces inflammation, which is often what makes tooth pain feel worse. The way it works is similar to over-the-counter topical numbing products you might buy at the pharmacy, but it comes from a natural plant source that many people prefer.
@@ -85,7 +84,7 @@ Versus oral pain relievers like ibuprofen or acetaminophen, clove oil works diff
 
 Clove oil is a time-tested natural remedy that science confirms can help with dental pain and discomfort. The active ingredient eugenol numbs pain, reduces inflammation, and fights bacteria—making it a genuinely helpful tool for managing tooth soreness at home. When used correctly, it's safe for most people and works best as part of your overall oral health approach alongside professional dental care.
 
-> **Key Takeaway:** How clove oil may help reduce dental pain, what the research shows, and tips for using it safely at home.
+> **Key Takeaway:** Clove oil has been used for hundreds of years to soothe aching teeth, and there's good science behind why it works.
 
 ## Related Articles
 

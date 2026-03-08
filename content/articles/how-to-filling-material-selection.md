@@ -24,7 +24,6 @@ references:
   - title: "Aesthetic dentistry: tooth-colored restoration selection criteria"
     url: https://www.ncbi.nlm.nih.gov/pubmed/19654949
 ---
-
 When your dentist says you need a filling, the next question is often: what kind? Learning more about [Anesthesia in Oral Surgery Safety and Options](/article/anesthesia-in-oral-surgery-safety-and-options.html) can help you understand this better. Your dentist might give you options, or might recommend one specific material. Understanding what's available helps you make an informed choice.
 
 ## Composite Resin Fillings: Tooth-Colored and Popular

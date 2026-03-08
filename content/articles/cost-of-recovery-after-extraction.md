@@ -22,7 +22,6 @@ references:
   - "Waite PD. Textbook of Practical Periodontal Surgery. 2nd ed. Hawker Publications; 1992."
   - "Gopal KV. Biostimulation of bone and soft tissues in the oral cavity. Aesthetic Dent Today. 2008;2(2):10-15."
 ---
-
 ## Understanding Extraction Recovery Costs
 
 After your tooth is extracted, your mouth takes time to heal. The healing process actually spans months as bone fills in, but the main recovery period is 10-14 days. During this time, you'll have costs beyond the extraction itself.
@@ -166,7 +165,7 @@ For more information, see [Emergency Management of Oral and Dental Injuries](/ar
 
 Extraction recovery costs $200-$400 for a simple tooth, or $300-$800 if you lose work time. Most of this goes to pain medication ($10-$50), supplies ($5-$15), and dietary changes ($5-$15). The biggest cost is often lost work time. Budget conservatively, follow your dentist's recovery instructions carefully to prevent complications, and plan your recovery time strategically. Talk to your dentist before extraction about what you can expect cost-wise so there are no surprises.
 
-> **Key Takeaway:** Learn what extraction recovery costs and how to budget for the full healing process.
+> **Key Takeaway:** After your tooth is extracted, your mouth takes time to heal.
 
 ## Related Articles
 

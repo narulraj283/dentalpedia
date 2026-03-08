@@ -13,7 +13,6 @@ reviewed: true
 references:
   - "title: 'Kawakita A, Akatsuka Y, Sugiyama R, et al. Shock absorption properties of custom-made and prefabricated mouthguards. Dent Traumatol. 2003;19(4):200-206."
 ---
-
 ## Different Types of Guards and How They Wear
 
 There are three main types of protective guards for your teeth. Learning more about [All Ceramic Veneers Ultra Thin Cosmetic Shells](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html) can help you understand this better. Athletic mouthguards protect your teeth during sports.

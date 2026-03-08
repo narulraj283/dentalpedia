@@ -22,12 +22,11 @@ references:
   - "Umscheid CA, et al. Estimating the proportion of healthcare-associated infections that are reasonably preventable and the related mortality and costs. Infect Control Hosp Epidemiol. 2011;32(2):101-114."
   - "Ohrn K, et al. The effect of a new mouthwash on dental plaque and gingivitis. J Clin Periodontol. 2015;42(3):223-230."
 ---
-
 ## What Makes a Mouthwash a Real Medicine vs. Just for Taste
 
-The FDA separates mouthwashes into two groups: real medicines and cosmetics. Understanding this difference helps you pick the right product for your needs. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+The FDA separates mouthwashes into two groups: real medicines and cosmetics. Understanding this difference helps you pick the right product for your needs.
 
-**Real medicinal mouthwashes** contain proven active ingredients and can claim they fight cavities, reduce gum disease, or kill bacteria. These include chlorhexidine, essential oils, fluoride, and others backed by lots of research. When you see scientific claims, that's what you're looking at. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+**Real medicinal mouthwashes** contain proven active ingredients and can claim they fight cavities, reduce gum disease, or kill bacteria. These include chlorhexidine, essential oils, fluoride, and others backed by lots of research. When you see scientific claims, that's what you're looking at.
 
 **Cosmetic mouthwashes** just make your breath smell fresh or freshen your mouth. They don't fight any diseases and don't need the same evidence. Most drugstore breath-fresheners fall into this category. They're fine for freshening your breath but won't help prevent cavities or gum disease.
 
@@ -156,11 +155,16 @@ Mouthwash works best when matched to your specific needs. Low-cavity, low-gum-di
 
 Stannous compounds are excellent all-around fighters if staining doesn't bother you. Use it right (timing, technique, duration) and reassess every 4 weeks. What works for someone else might not work for you, so be willing to switch if your first choice has too many downsides. Your dentist can help you pick the best option for your specific situation.
 
+
+Related reading: [Evidence-Based Caries Prevention Strategies](/article/timeline-for-cavity-prevention-methods.html) and [How Often Should You Get Dental Cleanings?](/article/maintenance-frequency-how-often-to-clean.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Mouthwash efficacy varies dramatically by active ingredient and clinical indication. Chlorhexidine 0.12% demonstrates strongest evidence (50-70% plaque reduction) but requires management of staining and dysgeusia through short-term use. If you have questions, your dentist can help you understand your options.
 
-> **Key Takeaway:** The FDA separates mouthwashes into two groups: real medicines and cosmetics. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** The FDA separates mouthwashes into two groups: real medicines and cosmetics.
 
 ## Related Articles
 

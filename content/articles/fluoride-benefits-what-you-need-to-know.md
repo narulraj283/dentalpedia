@@ -22,7 +22,6 @@ references:
   - "Kamstra MI, Levy SM, Warren JJ, et al. Primary dentition fluorosis and parental beverage and supplement practices. Community Dent Oral Epidemiol. 2007;35(2):106-114."
   - "Arends J, Christoffersen J. The nature of early caries lesions in enamel. J Dent Res. 1986;65(1):2-11."
 ---
-
 ## What Cavities Really Are and How Fluoride Helps
 
 A cavity starts when acid-producing bacteria in your mouth attack your tooth. The acid dissolves the mineral structure of your tooth, creating a hole. Fluoride prevents this in two ways: it makes your tooth structure more resistant to acid, and it helps your mouth repair early damage before it becomes a cavity.
@@ -77,19 +76,13 @@ Your dentist considers all your fluoride sources when making recommendations, es
 
 Here's the important takeaway: fluoride is a powerful tool, but it works best when combined with good habits. Reducing sugary foods and drinks, brushing twice daily, and flossing remain the foundation of cavity prevention. Fluoride enhances these efforts dramatically, but can't replace them entirely. The combination of good hygiene habits, smart diet choices, and fluoride exposure provides maximum cavity protection.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about fluoride benefits what you need to know and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 Fluoride is one of the most thoroughly researched and proven preventive tools in dentistry. Whether from water, toothpaste, or professional treatments, fluoride significantly reduces cavity risk by strengthening teeth and enhancing natural repair processes. At recommended levels, it's extremely safe with an excellent safety record spanning over 70 years.
 
 Talk with your dentist about which fluoride sources are best for your situation, especially if you have specific risk factors for cavities.
 
-> **Key Takeaway:** Fluoride prevents dental caries through enamel remineralization and bacterial acid reduction, with excellent safety when used at recommended levels.
+> **Key Takeaway:** A cavity starts when acid-producing bacteria in your mouth attack your tooth.
 
 ## Related Articles
 

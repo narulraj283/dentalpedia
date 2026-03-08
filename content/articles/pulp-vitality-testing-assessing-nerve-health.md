@@ -28,7 +28,6 @@ references:
   - title: "Markowitz K. Pretty painful: why does cold hurt teeth? J Can Dent Assoc. 2011;77:c37."
     url: https://pubmed.ncbi.nlm.nih.gov/21513527
 ---
-
 ## How Your Dentist Tests If Your Tooth Nerve Is Alive
 
 When you have tooth pain or your dentist suspects a problem with the nerve inside your tooth (called the pulp), they need to figure out if the nerve is healthy, inflamed, or dead. To do this, your dentist uses several tests to check if your tooth's nerve is responding normally. These tests are called "pulp vitality tests" because they check if the pulp tissue is vital (alive). Your dentist has several ways to test this, and each test gives different information about whether your tooth's nerve is healthy.

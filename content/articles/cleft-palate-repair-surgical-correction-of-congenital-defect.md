@@ -22,7 +22,6 @@ references:
   - Nelligan PC, Gruss JS. New innovations in cleft care. Plast Reconstr Surg. 2016;137(5):860e-870e.
   - Ysunza A, Pamplona MC, Mendoza M, et al. Velopharyngeal insufficiency in non-syndromic cleft patients: prevalence and associated factors. Plast Reconstr Surg. 2014;133(5):1147-1155.
 ---
-
 ## Why Palate Repair Matters for Your Child's Speech
 
 Your child's palate—the roof of the mouth—has two parts: the hard bone in front and the soft tissue in back. The soft palate acts like a door that closes during speech and swallowing to keep air from escaping through the nose. Without a complete palate, your child can't generate the air pressure needed for normal speech sounds, and liquid escapes into the nose during swallowing.
@@ -101,9 +100,10 @@ These improvements in function often boost confidence, even in young children. T
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about cleft palate repair: closing the roof of your mouth or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Palate repair at 12-18 months closes the roof of your child's mouth, enabling normal speech development and eating. About 75-85% of children achieve normal speech with appropriate repair and speech therapy, transforming your child's ability to communicate.
+
+> **Key Takeaway:** Your child's palate—the roof of the mouth—has two parts: the hard bone in front and the soft tissue in back.
 
 ## Related Articles
 

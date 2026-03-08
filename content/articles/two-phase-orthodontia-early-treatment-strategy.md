@@ -32,7 +32,6 @@ references:
   - title: "Long-term outcomes comparing two-phase versus single-phase orthodontic treatment"
     url: https://pubmed.ncbi.nlm.nih.gov/26254275
 ---
-
 ## Introduction
 
 Your child's orthodontist recommends "two-phase treatment"—early intervention now while baby teeth are still present, followed by comprehensive braces later after all permanent teeth erupt. You might wonder: why not just wait until all teeth come in, then do braces once? Two-phase treatment sounds complicated and expensive. This comprehensive guide explains what two-phase treatment actually is, why orthodontists recommend it for certain cases, what each phase accomplishes, realistic costs, and what current research shows about whether the extra treatment truly benefits your child's final results.
@@ -154,5 +153,5 @@ Remember that every person's situation is unique. What works well for one patien
 - [Common Misconceptions About Orthodontic Compliance](/article/common-misconceptions-about-orthodontic-compliance.html)
 
 - [Clear Aligners vs. Traditional Braces - What You](/article/risk-and-concerns-with-clear-aligner-comparison.html)
-- [Bracket Irritation and Oral Ulceration: Prevention,](/article/bracket-irritation-mouth-sores-during-orthodontia.html)
+- [Bracket Irritation and Oral Ulceration: Prevention](/article/bracket-irritation-mouth-sores-during-orthodontia.html)
 

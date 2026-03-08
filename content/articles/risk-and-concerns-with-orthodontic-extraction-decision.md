@@ -43,7 +43,6 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Risk and Concerns with Orthodontic Extraction Decision
 ---
-
 ## Understanding Extraction vs Non-Extraction Treatment
 
 One of the biggest decisions in orthodontics is whether to extract teeth. If you have severe crowding, your orthodontist might recommend extracting 4 healthy teeth (usually premolars) to create space. But extraction is permanent and has real consequences. This guide explains what you need to know to make an informed decision.

@@ -32,7 +32,6 @@ references:
   - title: "Implant-supported dentures as alternative to conventional immediate dentures"
     url: https://www.ncbi.nlm.nih.gov/pubmed/39123456
 ---
-
 ## What Is an Immediate Denture?
 
 An immediate denture is a custom-made replacement for your teeth that you receive the same day your natural teeth are extracted. Instead of waiting weeks without teeth while your dentist makes your denture, you have replacement teeth immediately. Learning more about [Recovery After Tooth Extraction](/article/how-to-tooth-extraction-recovery.html) can help you understand this better.
@@ -90,12 +89,6 @@ For patients who need immediate tooth replacement for esthetic or functional rea
 ## Patient Selection for Immediate Dentures
 
 Immediate dentures work best for patients who have multiple failing teeth being extracted at once. If you're extracting a few scattered teeth, a partial denture might be better. Your dentist will help you understand whether an immediate denture is your best option.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about immediate denture teeth same day as extraction and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

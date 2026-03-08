@@ -16,7 +16,6 @@ references:
   - "Coté CJ, Wilson S. Guidelines for Monitoring and Management of Pediatric Patients Before, During, and After Sedation for Diagnostic and Therapeutic Procedures. Pediatrics. 2016;138(6):e20161212."
   - "Munshi R, Garg R, Dua V, et al. Efficacy and Safety of Oral Hydroxyzine and Midazolam in Pediatric Dentistry. Dent J Adv Stud. 2014;2(1):22-28."
 ---
-
 ## When Is Sedation Needed for Dental Work?
 
 Dental sedation for children isn't about forcing them to cooperate—it's a tool for children who cannot cooperate with treatment despite effort, coaching, and behavioral support. Some children have severe dental anxiety preventing necessary treatment. Others have extensive decay or injury requiring lengthy appointments that exceed their ability to sit still. Some children have developmental delays or autism spectrum disorders that make cooperation impossible despite best efforts. A few are very young (three to five years old) where cooperation is developmentally unrealistic.

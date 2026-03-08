@@ -44,7 +44,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Scaling and Root Planing Non Surgical Gum Treatment
 ---
-
 ## Understanding Scaling and Root Planing
 
 If your dentist has recommended scaling and root planing (often called deep cleaning or non-surgical periodontal therapy), you probably have gum disease. This is a common treatment that can stop the disease, prevent tooth loss, and help your gums heal. Understanding what the procedure involves and why it's important helps you approach treatment with confidence rather than anxiety.

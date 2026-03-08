@@ -45,7 +45,6 @@ subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
 title: Partial Denture Design Clasps and Rests
 ---
-
 ## Understanding How Your Partial Denture Stays in Place
 
 If you're missing some teeth but still have others, a partial denture might be right for you. Unlike complete dentures, which replace all your teeth, a partial denture attaches to your remaining natural teeth using special components that keep it secure and stable. The way your partial is designed determines whether it will feel comfortable, work well when you eat and talk, and protect your remaining teeth for years to come. Good design uses metal clasps (hooks) and rests that hold your denture without damaging your natural teeth. Your dentist plans this design carefully before sending your denture to the lab.

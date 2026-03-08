@@ -32,7 +32,6 @@ references:
   - title: "Ono K, Shibuya Y, Susarla SM, Kallmes DF. Adverse events associated with third molar surgery: a retrospective cohort analysis of 9932 cases. Int J Oral Maxillofac Surg. 2018;47(1):72-76."
     url: https://pubmed.ncbi.nlm.nih.gov/28935485
 ---
-
 ## Simple Extraction vs. Surgical Extraction: What's the Difference?
 
 Your dentist has two main ways to remove a tooth: simple extraction with forceps or surgical extraction with incisions and bone removal. Simple extraction works when your tooth is firmly anchored but has enough crown exposed for your dentist to grip. Surgical extraction becomes necessary when factors prevent simple extraction from being safe.
@@ -62,10 +61,6 @@ Position matters too. Learn more about [Benefits of Extraction Complications](/a
 ## Imaging Helps Your Dentist Decide
 
 Your X-ray shows your dentist how deep your tooth is buried, whether it's fused to bone, root curvature, and distance to your lower jaw nerve. Some dentists order 3D imaging (cone beam CT) for deeply impacted teeth or teeth very close to nerves.
-
-## Questions to Ask Your Dentist
-
-Ask why they recommend surgical versus simple extraction. Ask about estimated surgical time. Ask what complications they anticipate. Ask about your specific tooth position. Understanding your dentist's reasoning helps you feel confident in your treatment plan.
 
 ## What to Expect During Your Visit
 

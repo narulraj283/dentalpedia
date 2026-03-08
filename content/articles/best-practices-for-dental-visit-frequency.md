@@ -22,16 +22,15 @@ references:
   - "Naito T, Suzuki H, Okayasu I, et al. Evaluation of lifetime disease burden and cost-effectiveness of dental caries prevention in Japanese population. Community Dent Oral Epidemiol. 2012;40(3):249-258."
   - "Spolarich AE, Machu MA. Dental hygiene services for patients with diabetes. Access. 2010;24(2):28-34."
 ---
-
 ## Why "Every Six Months" Isn't the Whole Story
 
 For decades, dentists recommended everyone come in every 6 months. It's convenient, it's routine, and many insurance plans cover exactly two cleanings per year. But here's the truth: not everyone needs to see the dentist every 6 months.
 
-Some people could go 18 months without seeing a dentist and be perfectly fine. Others need to come in every 3 months. The real answer depends on your personal risk of getting cavities and gum disease. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+Some people could go 18 months without seeing a dentist and be perfectly fine. Others need to come in every 3 months. The real answer depends on your personal risk of getting cavities and gum disease.
 
 ## Your Individual Risk Level
 
-Your dentist should assess whether you're low, moderate, or high risk based on your history and examination findings. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+Your dentist should assess whether you're low, moderate, or high risk based on your history and examination findings.
 
 **Low-risk patients** are people without cavities in the past 3 years, healthy gums (no pockets deeper than 3 millimeters), good home care habits, no active gum disease history, and no significant risk factors for dental disease. If that's you, you can safely go 12-18 months between visits. Some low-risk patients can stretch to 24 months. Research shows low-risk people don't develop new cavities quickly, so annual or biennial visits catch any problems before they become serious.
 
@@ -107,6 +106,9 @@ A good dentist documents your risk category and recommended visit frequency. If 
 
 Don't just not show up. If you can't make appointments as recommended, talk with your dentist about adjusting the plan or finding barriers you can remove.
 
+
+Related reading: [Remineralizing Toothpaste](/article/remineralizing-toothpaste-strengthening-weakened-enamel.html) and [The Benefits of Fluoride: What to Know](/article/benefits-of-fluoride-benefits.html).
+
 ## Conclusion
 
 : Individualized Frequency Wins
@@ -119,12 +121,12 @@ This personalized approach prevents unnecessary visits for low-risk people while
 
 Ask your dentist what risk category they place you in and why. Ask about the recommended visit frequency and how it might change if you improve your home care or if your risk factors evolve. Being engaged in your preventive care leads to better results.
 
-> **Key Takeaway:** For decades, dentists recommended everyone come in every 6 months.
+> **Key Takeaway:** It's convenient, it's routine, and many insurance plans cover exactly two cleanings per year. But here's the truth: not everyone needs to see the dentist every 6 months.
 
 ## Related Articles
 
 - [Acidic Foods and Enamel Erosion: Prevention Tips](/article/acidic-foods-and-enamel-erosion-prevention-tips.html)
-- [Water as the Ideal Beverage for Oral Health, Hydration,](/article/water-as-the-ideal-beverage-hydration-and-fluoride.html)
+- [Water as the Ideal Beverage for Oral Health, Hydration](/article/water-as-the-ideal-beverage-hydration-and-fluoride.html)
 - [Gum Health Maintenance: Keep Your Gums Strong](/article/how-to-gum-health-maintenance.html)
 - [How Your Dentist Removes Plaque and What It Means](/article/plaque-removal-methods-what-you-need-to-know.html)
 - [Sports Drink Consumption and Dental Erosion in Athletes](/article/sports-drink-consumption-cavity-and-erosion-risks.html)

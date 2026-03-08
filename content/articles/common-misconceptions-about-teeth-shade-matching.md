@@ -22,7 +22,6 @@ references:
   - "Gökçe HS, Kaderoglu H, Gökce SM, et al. In vivo and in vitro color stability of composite resins from microhybrid and nanoparticle systems. J Dent. 2008;36(12):930-938."
   - "Matsumura H, Kawamoto K, Wolff MS, et al. Coloration of rat pulp tissue by three composite resins in vivo. Dent Mater J. 1998;17(3):333-341."
 ---
-
 You probably think shade matching for cosmetic dental work is straightforward—just look at your tooth and match it. Actually, it's surprisingly difficult, and there are several reasons why getting a perfect match is harder than it seems.
 
 ## Can Your Dentist Really Just Look and Match Perfectly?
@@ -81,17 +80,11 @@ Are there any characteristics of my tooth (existing tint, translucency) that mak
 
 These conversations set realistic expectations and give your dentist important information about what matters to you (having it match under natural light, having a bright white smile, maintaining natural appearance, etc.).
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about teeth shade matching and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 Perfect shade matching is impossible due to human color perception limitations, spectrophotometer variability, lighting differences (metamerism), and the fact that both your teeth and restorations change color over time. Realistic expectations of 85-95% match quality under the intended lighting condition significantly improve satisfaction. Your dentist should check match under multiple light sources, verify color gradients match natural anatomy, and discuss that some mild shade change over 5-10 years is normal for both natural teeth and restorations.
 
-> **Key Takeaway:** Why matching tooth color perfectly is harder than it looks and what you should know about shade selection for cosmetic restorations.
+> **Key Takeaway:** You probably think shade matching for cosmetic dental work is straightforward—just look at your tooth and match it.
 
 ## Related Articles
 

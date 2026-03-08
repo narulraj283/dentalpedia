@@ -28,7 +28,6 @@ references:
   - title: "Comparative healing dynamics: modified Widman flap versus other access flap procedures"
     url: https://www.ncbi.nlm.nih.gov/pubmed/22701587
 ---
-
 If you've been told you need gum surgery because your gum disease hasn't responded to regular deep cleaning, your periodontist might recommend a procedure called the modified Widman flap. This name might sound intimidating, but it's actually one of the most conservative surgical approaches available—meaning your dentist preserves as much of your healthy gum tissue as possible while treating the disease underneath. Understanding what this procedure involves and why it helps can ease your concerns and help you prepare for the treatment.
 
 The modified Widman flap got its name from Dr. Edvin Widman, who developed the first version back in 1918. Over the decades, dentists refined the technique, and the version used today—the "modified" version—is actually more conservative and gentle than the original. Modern periodontists prefer this approach because it effectively treats the disease while preserving your gums' blood supply and attachment to your teeth, which are crucial for healing and long-term success.

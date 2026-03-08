@@ -32,7 +32,6 @@ references:
   - title: "Preston JD. The golden proportion revisited. J Esthet Restor Dent. 1993;5(5):247-251."
     url: https://pubmed.ncbi.nlm.nih.gov/8199920
 ---
-
 ## Why Multi-Step Smile Improvement Gets Complicated
 
 Many smile improvement plans involve multiple treatments—maybe orthodontics, gum surgery, tooth whitening, and restorations—happening in sequence. This creates real complexity because each step affects the next ones. When multiple treatments are combined, there are more opportunities for things to go wrong, costs often escalate beyond initial estimates, and treatment timelines get longer.
@@ -87,18 +86,11 @@ This is normal and expected. Your dentist should set clear expectations about wh
 
 If you're seeing multiple dentists (your general dentist, orthodontist, periodontist), they need to communicate and coordinate treatment. Treatment failures often result from poor coordination—the orthodontist doesn't know the periodontist did gum surgery, the general dentist doesn't know the orthodontist is planning tooth movement, etc. You or your dentist should designate one person as the treatment coordinator responsible for overall case management and ensuring everyone's plans integrate properly.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about risks of treatment selection in smile improvement planning and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+Related reading: [Planning Risks in Comprehensive Smile Makeover Cases](/article/risk-and-concerns-with-smile-makeover-planning.html).
 
 
-For more information, see [Why Cosmetic Gum Shaping Matters in Comprehensive Smile](/article/why-cosmetic-gum-shaping-matters.html).
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

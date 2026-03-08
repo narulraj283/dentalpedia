@@ -32,7 +32,6 @@ references:
   - title: "Long-term stability and retention requirements after fixed appliance treatment"
     url: https://pubmed.ncbi.nlm.nih.gov/25599558
 ---
-
 ## Introduction
 
 Why does getting braces take so long? Many patients—especially teenagers juggling school and friends—wonder why orthodontic treatment spans 18 to 36 months or longer. The timeline isn't arbitrary or designed to frustrate you.

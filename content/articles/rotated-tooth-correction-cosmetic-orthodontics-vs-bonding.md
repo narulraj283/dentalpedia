@@ -39,7 +39,6 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: 'Rotated Teeth: Should You Choose Braces or Bonding?'
 ---
-
 ## How Rotated Teeth Affect Your Smile
 
 One twisted or rotated tooth can really stand out and make you self-conscious about smiling. Fortunately, you have three main options to straighten it: orthodontic treatment (braces), cosmetic bonding, or veneers. The best choice depends on how much the tooth is rotated, how much time and money you want to invest, and what results you're hoping to achieve. This guide will help you understand each option so you can make the right decision for your smile.

@@ -1,36 +1,46 @@
 ---
-title: "Gummy Smile Correction: Etiology, Treatment Modalities,"
-slug: timeline-for-gummy-smile-fix
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
+date: 2026-03-05
+excerpt: Comprehensive evaluation of gummy smile etiologies, surgical crown lengthening,
+  lip repositioning techniques, botulinum toxin applications, and.
+read_time: 11 min
+references:
+- title: Rossetti PH, de Oliveira RB, Rossetti LPN. Treatment of gummy smile with
+    botulinum toxin. Aesthetic Plast Surg. 2007;31(4):407-410.
+  url: https://pubmed.ncbi.nlm.nih.gov/17487553
+- title: Gaspar A, Brodsky D, Rezende G, et al. Botulinum toxin for hyperfunctional
+    upper lip-case reports. J Cosmet Dermatol. 2006;5(4):25-29.
+  url: https://pubmed.ncbi.nlm.nih.gov/17172556
+- title: 'Alcalay J. Algorithmically-derived indication for cosmetic surgery: the
+    modified Smile Arc Classification and Analysis. J Cosmet Dermatol. 2012;11(2):118-129.'
+  url: https://pubmed.ncbi.nlm.nih.gov/22607078
+- title: Al-Hayyani A. The aesthetic dentist's perspective on the gummy smile and
+    frame of reference. BMC Oral Health. 2012;12(1):8.
+  url: https://pubmed.ncbi.nlm.nih.gov/22269125
+- title: 'Jain RK, Hegde RN, Jain A. Management of gummy smile: A multidisciplinary
+    approach. J Indian Acad Oral Med Radiol. 2011;23(3):16-21.'
+  url: https://pubmed.ncbi.nlm.nih.gov/21873732
+- title: Kelley ML, Moe SM, Terezides J. Surgical management of the gummy smile. Compend
+    Contin Educ Dent. 2014;35(5):332-337.
+  url: https://pubmed.ncbi.nlm.nih.gov/24876393
+- title: Zade RM, Shademan B. A comprehensive classification of lip lines and proposal
+    of an algorithmic approach to the gummy smile. J Esthet Restor Dent. 2011;23(6):376-388.
+  url: https://pubmed.ncbi.nlm.nih.gov/22151907
+- title: Rubin PA, Chang A, Shields CL. Eyelid necrosis and periocular edema as a
+    complication of botulinum toxin injection. Ophthal Plast Reconstr Surg. 2006;22(4):296-298.
+  url: https://pubmed.ncbi.nlm.nih.gov/16914706
+- title: Dindaroğlu F, Duran GS, Senisik NE. Esthetic smile design in patients with
+    bimaxillary dentoalveolar protrusion treated with extraction and non-extraction
+    protocols. Am J Orthod Dentofacial Orthop. 2015;148(1):17-30.
+  url: https://pubmed.ncbi.nlm.nih.gov/26124028
+reviewed: true
+reviewer_specialty: Cosmetic and Periodontal Surgery
+slug: timeline-for-gummy-smile-fix
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
-excerpt: "Comprehensive evaluation of gummy smile etiologies, surgical crown lengthening, lip repositioning techniques, botulinum toxin applications, and."
-date: 2026-03-05
-read_time: 11 min
-reviewer_specialty: Cosmetic and Periodontal Surgery
-reviewed: true
-references:
-  - title: "Rossetti PH, de Oliveira RB, Rossetti LPN. Treatment of gummy smile with botulinum toxin. Aesthetic Plast Surg. 2007;31(4):407-410."
-    url: https://pubmed.ncbi.nlm.nih.gov/17487553
-  - title: "Gaspar A, Brodsky D, Rezende G, et al. Botulinum toxin for hyperfunctional upper lip-case reports. J Cosmet Dermatol. 2006;5(4):25-29."
-    url: https://pubmed.ncbi.nlm.nih.gov/17172556
-  - title: "Alcalay J. Algorithmically-derived indication for cosmetic surgery: the modified Smile Arc Classification and Analysis. J Cosmet Dermatol. 2012;11(2):118-129."
-    url: https://pubmed.ncbi.nlm.nih.gov/22607078
-  - title: "Al-Hayyani A. The aesthetic dentist's perspective on the gummy smile and frame of reference. BMC Oral Health. 2012;12(1):8."
-    url: https://pubmed.ncbi.nlm.nih.gov/22269125
-  - title: "Jain RK, Hegde RN, Jain A. Management of gummy smile: A multidisciplinary approach. J Indian Acad Oral Med Radiol. 2011;23(3):16-21."
-    url: https://pubmed.ncbi.nlm.nih.gov/21873732
-  - title: "Kelley ML, Moe SM, Terezides J. Surgical management of the gummy smile. Compend Contin Educ Dent. 2014;35(5):332-337."
-    url: https://pubmed.ncbi.nlm.nih.gov/24876393
-  - title: "Zade RM, Shademan B. A comprehensive classification of lip lines and proposal of an algorithmic approach to the gummy smile. J Esthet Restor Dent. 2011;23(6):376-388."
-    url: https://pubmed.ncbi.nlm.nih.gov/22151907
-  - title: "Rubin PA, Chang A, Shields CL. Eyelid necrosis and periocular edema as a complication of botulinum toxin injection. Ophthal Plast Reconstr Surg. 2006;22(4):296-298."
-    url: https://pubmed.ncbi.nlm.nih.gov/16914706
-  - title: "Dindaroğlu F, Duran GS, Senisik NE. Esthetic smile design in patients with bimaxillary dentoalveolar protrusion treated with extraction and non-extraction protocols. Am J Orthod Dentofacial Orthop. 2015;148(1):17-30."
-    url: https://pubmed.ncbi.nlm.nih.gov/26124028
+title: 'Gummy Smile Correction: Etiology, Treatment Modalities'
 ---
-
 ## What Is a Gummy Smile?
 
 A gummy smile happens when you show more than 3 millimeters of gum tissue when you smile. About 10 to 30 percent of people have this, and it can affect how confident you feel about your smile. The good news is that it's fixable, but the right treatment depends on what's causing your gummy smile. That's why your dentist needs to figure out the specific reason before recommending a solution.

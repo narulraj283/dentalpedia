@@ -32,7 +32,6 @@ references:
   - title: "Caliskan MK, et al. Factors affecting the prognosis of traumatized permanent teeth. Dent Traumatol. 1999;15(6):364-372."
     url: https://pubmed.ncbi.nlm.nih.gov/10598098
 ---
-
 ## This Is a True Emergency
 
 A knocked-out tooth is genuinely time-critical in a way that other dental injuries aren't. Every minute matters. You have about 15-30 minutes to get the best outcome, but even a few hours later can still save your tooth. What you do in the first few minutes after the tooth comes out determines whether your tooth survives with vital (healthy) nerves or dies.

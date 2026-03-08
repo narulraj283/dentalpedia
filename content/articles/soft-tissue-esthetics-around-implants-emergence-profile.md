@@ -32,7 +32,6 @@ references:
   - title: "Priest G. Virtual implant placement: factors affecting the esthetic outcome. Clin Oral Implants Res. 2005;16(Suppl 1):106-113."
     url: https://pubmed.ncbi.nlm.nih.gov/16176484
 ---
-
 ## Why Gums Matter for Implants
 
 When you get a dental implant, the gum tissue around it matters as much as the implant itself. If the gum doesn't look right or doesn't seal properly, your implant looks fake or fails. The gum's shape and thickness—called the emergence profile—determine how natural your implant looks and functions.
@@ -62,12 +61,6 @@ Your dentist chooses materials that work with your specific emergence profile ne
 ## When Gum Grafting Is Needed
 
 Sometimes your gum tissue is too thin for a good emergence profile. Your dentist might recommend a gum graft to thicken tissue before implant placement. This takes time but ensures a strong, natural-looking result.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss soft tissue esthetics around implants emergence profile, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

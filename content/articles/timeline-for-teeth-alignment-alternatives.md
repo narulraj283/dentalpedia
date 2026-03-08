@@ -43,12 +43,9 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Comprehensive Overview of Tooth Alignment Modalities
 ---
+Do you want straight teeth but aren't sure if braces or aligners are right for you? Each option works differently, takes different amounts of time, and costs different amounts. Understanding your choices helps you pick the approach that matches your life and goals.
 
 ## Introduction
-
-Crooked teeth affect about half of all people. The good news? Modern orthodontics offers multiple options to straighten your smile.
-
-From traditional braces to invisible aligners to accelerated options, you have choices. Finding the right option depends on your situation, goals, and preferences. This guide compares the main approaches.
 
 ## Traditional Braces
 

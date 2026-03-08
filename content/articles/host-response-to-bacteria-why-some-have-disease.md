@@ -32,7 +32,6 @@ references:
   - title: "Host-bacterial recognition and T-cell responses in periodontal disease"
     url: https://www.ncbi.nlm.nih.gov/pubmed/16197547
 ---
-
 Why do some people's teeth fall out from gum disease while others with terrible brushing habits keep healthy gums their whole lives? The answer surprises most people: it's not just about how many bacteria are in your mouth. It's about whether your body can fight off those bacteria effectively. Your immune system—your body's security system—is the real key to gum health. And here's the truth: your immune system's strength is partly inherited and partly something you can control.
 
 ## It's Not Just About the Bacteria

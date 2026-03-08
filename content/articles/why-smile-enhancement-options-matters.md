@@ -32,7 +32,6 @@ references:
   - title: "Patient Satisfaction and Treatment Selection in Cosmetic Dentistry"
     url: "https://pubmed.ncbi.nlm.nih.gov/34567969"
 ---
-
 When you decide to improve your smile, you've probably realized that options exist—lots of them. From simple whitening that takes an hour to more involved treatments requiring multiple appointments, cosmetic dentistry offers solutions ranging from conservative to comprehensive. Understanding what each option accomplishes, how long results last, and what they cost helps you make an informed decision that matches your goals, timeline, and budget.
 
 The right approach for you depends on what specifically bothers you about your smile. Learn more about [High Smile Line Excessive](/article/high-smile-line-excessive-gum-display.html) for additional guidance. If your main concern is tooth color, whitening might be all you need.

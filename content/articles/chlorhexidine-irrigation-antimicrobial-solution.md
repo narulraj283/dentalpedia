@@ -20,7 +20,6 @@ references:
   - "Haas DA, et al. Safety and efficacy of chlorhexidine solutions in clinical dentistry. Journal of the Canadian Dental Association. 2023;89(7):e1-e10."
   - "Vergara-Buenaventura A, et al. Adverse effects and patient tolerance of subgingival chlorhexidine irrigation. International Journal of Periodontics & Restorative Dentistry. 2023;43(5):667-681."
 ---
-
 If your dentist has recommended chlorhexidine irrigation for your gum disease, you might be wondering what it is and how it helps. This treatment uses an antimicrobial solution to fight bacteria that regular brushing can't reach—below your gumline in deep pockets.
 
 ## What Is Chlorhexidine Irrigation?
@@ -101,15 +100,11 @@ After chlorhexidine irrigation, you'll need regular dental visits to monitor you
 
 Most people benefit from visits every 3-4 months after treatment to stay on top of their gum health.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about chlorhexidine irrigation antimicrobial solution and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
 ## Conclusion
 
 Chlorhexidine irrigation is a proven, safe way to fight gum disease in the hard-to-reach pockets below your gumline. Combined with your good home care, it gives you the best chance of controlling gum disease and keeping your teeth.
 
-> **Key Takeaway:** If your dentist has recommended chlorhexidine irrigation for your gum disease, you might be wondering what it is and how it helps.
+> **Key Takeaway:** This treatment uses an antimicrobial solution to fight bacteria that regular brushing can't reach—below your gumline in deep pockets.
 
 ## Related Articles
 

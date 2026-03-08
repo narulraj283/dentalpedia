@@ -20,7 +20,6 @@ references:
   - "Chapple ILC, Mealey BL, Van Dyke TE, et al. Periodontal health and disease. J Clin Periodontol. 2018;45(S20):S9-S16."
   - "O'Neill GM, Brock P. Efficacy of a sonic scaler and a mechanical curette in supragingival plaque removal. J Clin Periodontol. 1994;21(9):562-568."
 ---
-
 ## What Is Supragingival Calculus?
 
 Supragingival calculus (also called tartar) is the hard, crusty deposit you can see on your teeth above the gum line. Learning more about [Periodontal Disease and Tooth Loss Prevention](/article/periodontal-disease-and-tooth-loss-prevention.html) can help you understand this better. It forms when minerals in your saliva crystallize around bacteria and plaque. This buildup is more common than you might think—it affects 60-90% of adults. The rough texture of tartar creates an ideal home for cavity-causing and gum-disease-causing bacteria.
@@ -87,12 +86,6 @@ People with reduced salivary flow (xerostomia or dry mouth) sometimes develop ta
 
 Normal salivary flow (approximately 1.0 mL/min) represents optimal balance—enough protective minerals and buffering capacity without excessive tartar formation.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about calculus supragingival visible tartar above gums and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed calculus supragingival visible tartar above gums, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -101,7 +94,7 @@ Once you've addressed calculus supragingival visible tartar above gums, maintain
 
 Supragingival tartar forms from salivary minerals and affects 60-90% of adults. Its rough surface harbors bacteria that cause gum disease and contribute to cavity risk. Professional removal by ultrasonic instruments and hand instruments eliminates this buildup every 6 months (or 3-4 months for heavy formers). While home care reduces tartar formation rate by 40-50%, professional removal remains essential because tartar cannot be self-removed.
 
-> **Key Takeaway:** Visible tartar above the gum line forms from salivary minerals and requires professional removal.
+> **Key Takeaway:** Supragingival calculus (also called tartar) is the hard, crusty deposit you can see on your teeth above the gum line.
 
 ## Related Articles
 

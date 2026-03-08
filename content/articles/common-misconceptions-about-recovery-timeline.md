@@ -22,7 +22,6 @@ references:
   - "Arakeri G, Muddaiah S, Setty S. Efficacy of platelet-rich fibrin in the management of mandibular third molars. J Maxillofac Oral Surg. 2012;11(2):142-147."
   - "Diniz-Freitas M, Fernández-Gómez JM, García-García A, Gutierrez-Perez JL. Frequency of reasons for tooth extraction. Quintessence Int. 2003;34(5):378-382."
 ---
-
 ## What's a Realistic Recovery Timeline for Your Procedure?
 
 Many patients expect to bounce back quickly after dental surgery, but realistic recovery timelines vary significantly depending on the procedure. Understanding what to expect helps you plan time off work, arrange help, and know when normal function returns. Let's look at realistic timelines for common procedures.
@@ -87,15 +86,11 @@ Individual variation in healing is substantial. Some people swell minimally, oth
 
 Your dentist can give approximate timelines based on your procedure type, but individual variation means your actual recovery might be slightly faster or slower. Plan for typical timeline but remain flexible based on how you're actually healing.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about recovery timeline and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
 ## Conclusion
 
 Realistic recovery depends on procedure complexity: simple extractions allow return to light work in 3 to 5 days; complex extractions or implant placement require 1 to 2 weeks. Bone healing continues for 8 to 12 weeks beyond when soft tissue heals. Strenuous activity and normal diet resume within 1 to 2 weeks for simple procedures, potentially longer for complex ones. Most complete functional recovery takes 2 to 4 weeks.
 
-> **Key Takeaway:** Understand realistic recovery timelines for different dental procedures so you can plan appropriately and know what to expect.
+> **Key Takeaway:** Many patients expect to bounce back quickly after dental surgery, but realistic recovery timelines vary significantly depending on the procedure.
 
 ## Related Articles
 

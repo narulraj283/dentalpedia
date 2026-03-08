@@ -32,7 +32,6 @@ references:
   - title: "Enamel Surface Conditioning for Bonded Appliance Retention in Pediatric Dentistry"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26405453
 ---
-
 ## What Is a Lingual Arch?
 
 A lingual arch is a hidden dental appliance that helps preserve space for your child's permanent teeth. It's bonded to the inner (tongue-facing) surface of your child's lower back molars, making it completely invisible when they smile. This discreet device prevents back teeth from shifting forward when baby molars are lost too early, which preserves the space needed for adult teeth to erupt properly.
@@ -92,12 +91,6 @@ Lingual arches are about 85-95% effective at maintaining space when properly pla
 ## When Is It Removed?
 
 The lingual arch is removed after the permanent successor tooth has fully erupted and is established in its correct position. Your dentist will remove the appliance gently, taking care not to damage the tooth surface. Any adhesive remnants are removed and the teeth are polished.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about lingual arch hidden space maintainer and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

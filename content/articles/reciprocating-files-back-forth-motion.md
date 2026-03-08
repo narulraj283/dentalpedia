@@ -49,7 +49,6 @@ subcategory: Endodontic Overview
 subcategory_slug: overview-endo
 title: Reciprocating Files Back Forth Motion
 ---
-
 ## How Reciprocating Files Clean Your Root Canal Differently
 
 Modern root canal treatment often uses reciprocating files—instruments that move back-and-forth rather than spinning continuously like older rotary files. This back-and-forth motion (clockwise then counterclockwise) fundamentally changes how the file cleans your root canal. Instead of pushing all the pressure in one direction, the alternating motion distributes stress more evenly along the file, making it less likely to break inside your tooth.
@@ -97,14 +96,6 @@ Root canals performed with reciprocating files achieve success rates comparable 
 Long-term studies showing tooth survival rates 5-10 years after treatment demonstrate excellent outcomes with reciprocating instrumentation. The majority of teeth treated with reciprocating files remain symptom-free and functional many years later, allowing you to keep your natural tooth rather than requiring extraction and replacement.
 
 Understanding that reciprocating files improve treatment safety and efficiency helps you appreciate the modern advances in endodontic technology. Your dentist's choice to use these modern files is a reflection of commitment to providing you the best possible treatment outcome.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about reciprocating files and back-forth motion systems in... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Conclusion
 

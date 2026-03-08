@@ -22,7 +22,6 @@ references:
   - "Morimoto S, Rebello de Sampaio FB, Braga MM, et al. Survival and complication rates of all-ceramic crowns on vital and nonvital teeth: A systematic review and meta-analysis. J Oral Sci. 2012;54(4):313-321."
   - "Hickel R, Roulet JF, Bayne S, et al. FDI World Dental Federation: clinical criteria for the evaluation of direct and indirect restorations—update and clinical examples. Clin Oral Investig. 2016;20(2):165-186."
 ---
-
 ## The Three Main Restoration Types
 
 When you need to repair or improve a tooth cosmetically, you basically have three options: bonding (resin material applied directly to your tooth), veneers (thin ceramic shells that cover just the front), or crowns (caps that cover the entire tooth). Each has different strengths, costs, and longevity. Understanding the differences helps you and your dentist choose the best option for your specific tooth.
@@ -89,12 +88,6 @@ If you grind your teeth or have a heavy bite, crowns are more durable than bondi
 
 Your dentist will consider your bite and habits when recommending which restoration type is most likely to succeed.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about cosmetic restoration types and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed cosmetic restoration types, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -103,7 +96,7 @@ Once you've addressed cosmetic restoration types, maintaining your results requi
 
 Bonding is best for small to moderate cosmetic changes and is the most conservative. Veneers are great for cosmetic front tooth improvements with good longevity. Crowns provide maximum durability and work for any tooth and any structural problem. Your tooth's damage, your aesthetic goals, and your timeline determine which option is best for you.
 
-> **Key Takeaway:** Choosing between bonding, veneers, and crowns depends on how much tooth damage you have and how long you want the restoration to last.
+> **Key Takeaway:** When you need to repair or improve a tooth cosmetically, you basically have three options: bonding (resin material applied directly to your tooth), veneers (thin ceramic shells that cover just the front), or crowns (caps that cover the entire tooth).
 
 ## Related Articles
 

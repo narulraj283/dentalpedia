@@ -22,14 +22,13 @@ references:
   - "Fradeani M. Esthetic Rehabilitation in Fixed Prosthodontics, Vol. 1: Esthetic Analysis: A Systematic Approach to Prosthetic Treatment of the Anterior Dentition. Chicago: Quintessence Publishing; 2004."
   - "Hwang HS, et al. Relationship between maxillary incisor position and smile aesthetics in Korean young adults. Angle Orthod. 2003;73(5):471-477."
 ---
-
 ## How Your Face Shape Affects Your Ideal Smile
 
-Before changing your teeth, your dentist looks at your whole face, not just your teeth. Your face has natural proportions that guide what will look good. Imagine dividing your face into three equal sections: forehead to eyebrows, eyebrows to nose, and nose to chin. If these sections are balanced, your overall appearance looks harmonious. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
+Before changing your teeth, your dentist looks at your whole face, not just your teeth. Your face has natural proportions that guide what will look good. Imagine dividing your face into three equal sections: forehead to eyebrows, eyebrows to nose, and nose to chin. If these sections are balanced, your overall appearance looks harmonious.
 
 Your face width also matters. If you have a narrow face, very wide teeth will look too big. If you have a wide face, narrow teeth will look too small. Your dentist also considers the dark space between your teeth and your lips when you smile.
 
-A little of that dark space (1-2mm) looks natural. Too much dark space makes teeth appear too narrow. No dark space makes teeth look too wide. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
+A little of that dark space (1-2mm) looks natural. Too much dark space makes teeth appear too narrow. No dark space makes teeth look too wide.
 
 Finally, where your front teeth position matters. Teeth pushed forward look fuller; teeth pushed back can make your face look aged or collapsed. This positioning can't be changed with veneers alone—you might need braces or surgery for significant changes.
 
@@ -79,25 +78,14 @@ The sequence of treatment is critical. You can't just do veneers and hope everyt
 
 If you skip steps—like trying veneers before fixing a gummy smile—you'll get disappointing results. Each step prepares for the next one. A team approach with a gum specialist and orthodontist, coordinated by your cosmetic dentist, produces the best results.
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+Related reading: [Smile Makeover Case Selection and Achieving Predictable](/article/smile-makeover-case-selection-predictable-outcomes.html) and [Smile Enhancement Options: What You Need to Know](/article/smile-enhancement-options-what-you-need-to-know.html).
 
 ## Conclusion
 
 Beautiful smile design is systematic and thoughtful. Your dentist considers your face shape, tooth proportions, gum display, and how your entire smile relates to your face. Rather than following rigid rules, good design applies natural principles: logical proportions, harmony between teeth and face, and balanced gum lines. Understanding this comprehensive approach helps you appreciate why your dentist makes specific recommendations and why treatment sequence matters. When your smile is designed with this careful analysis, you get results that look natural and beautiful—not overdone or artificial.
 
-> **Key Takeaway:** Before changing your teeth, your dentist looks at your whole face, not just your teeth. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** Before changing your teeth, your dentist looks at your whole face, not just your teeth.
 
 ## Related Articles
 

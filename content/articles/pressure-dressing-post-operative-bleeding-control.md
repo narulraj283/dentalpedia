@@ -45,7 +45,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Pressure Dressing Post Operative Bleeding Control
 ---
-
 ## Controlling Bleeding After Tooth Extraction: What You Need to Know
 
 If you're having a tooth extracted or undergoing oral surgery, you might worry about bleeding afterward and whether it's normal. This guide explains how your dentist controls bleeding during and after your procedure, what to expect when you go home, and when to be concerned about ongoing bleeding. Understanding the process helps you feel more confident and prepared for your surgery and recovery.

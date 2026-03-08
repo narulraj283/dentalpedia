@@ -14,7 +14,6 @@ references:
   - "Hamp SE, Nyman S, Lindhe J. Periodontal treatment of multirooted teeth. Results after 5 and 6 years. J Clin Periodontol. 1975;2(3):126-135."
   - "Claffey N. Periodontal management of multirooted teeth. Periodontol 2000. 1997;13(1):107-116."
 ---
-
 You've let gum disease progress, and now you're experiencing food catching between tooth roots, tooth movement, or your dentist suggests the roots have "separated." This is advanced gum disease where the bone loss has gone so far that the roots are no longer connected to each other. It's serious, but 
 
 ## What Happens When Roots Separate
@@ -79,17 +78,11 @@ Root separation represents advanced disease. Research shows that even with optim
 
 Understanding this realistic prognosis helps you make informed decisions. If your dentist says a tooth with root separation has uncertain long-term prognosis, they're being honest about what the science shows.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about furcation involvement root separation exposure and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 Root separation from gum disease is serious, and decisions about extraction versus preservation require honest discussion with your dentist. Understand your specific situation, your tooth's realistic long-term outlook, and your options for treatment or replacement. Make your decision based on complete information about what's right for your specific circumstance.
 
-> **Key Takeaway:** You've let gum disease progress, and now you're experiencing food catching between tooth roots, tooth movement, or your dentist suggests the roots.
+> **Key Takeaway:** You've let gum disease progress, and now you're experiencing food catching between tooth roots, tooth movement, or your dentist suggests the roots have "separated." This is advanced gum disease where the bone loss has gone so far that the roots are no longer connected to each other.
 
 ## Related Articles
 

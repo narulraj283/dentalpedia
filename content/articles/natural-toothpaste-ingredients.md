@@ -32,8 +32,7 @@ references:
   - title: "Marinho VC, Worthington HV, Walsh T, et al. Fluoride toothpastes for preventing dental caries in children and adolescents. Cochrane Database Syst Rev. 2019;(3):CD002278."
     url: https://pubmed.ncbi.nlm.nih.gov/30844328
 ---
-
-Natural toothpaste ingredient labels list plants, minerals, and compounds promising better dental health. But which ingredients actually work, and which are just marketing?
+Natural toothpaste sounds healthier than conventional options, but many "natural" ingredients lack actual evidence. Some deliver real benefits (hydroxyapatite, xylitol), while others are just expensive window dressing. Here's which ingredients in your natural toothpaste actually protect your teeth.
 
 ## Hydroxyapatite: The Enamel Mineral
 
@@ -98,14 +97,6 @@ For low-cavity-risk people with healthy gums: hydroxyapatite or calcium carbonat
 For high-cavity-risk people: fluoride toothpastes remain superior for cavity prevention, regardless of product philosophy. Your cavity risk outweighs product preference.
 
 For dentin sensitivity: arginine-containing natural toothpastes offer reasonable options; expect 2-4 weeks before maximum benefit.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about natural toothpaste ingredients: what they do and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

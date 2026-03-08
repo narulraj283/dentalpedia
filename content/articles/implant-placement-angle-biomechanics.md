@@ -30,7 +30,6 @@ references:
   - title: "Implant angulation and long-term marginal bone loss"
     url: https://www.ncbi.nlm.nih.gov/pubmed/24165789
 ---
-
 If you're considering dental implants, you've probably heard different recommendations about how to position them. Your dentist might suggest a straight implant, a tilted one, or even a combination approach like the All-on-4 method. The angle at which your implant is placed isn't just a technical detail—it actually affects how well your implant works over time and how long it lasts. Understanding these differences helps you have better conversations with your dental team about what's best for your situation. Learning more about [Implant Timeline: Healing Stages and Treatment Duration](/article/implant-timeline-healing-stages-and-treatment-duration.html) can help you understand this better.
 
 ## The Ideal Straight Implant Position

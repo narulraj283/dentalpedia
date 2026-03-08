@@ -32,7 +32,6 @@ references:
   - title: "Araujo MW, Hovey KM, Benedek JR, et al. Dental procedures and risk of experiencing adverse pregnancy outcomes and birth defects. J Am Dent Assoc. 2016;147(12):940-947."
     url: https://pubmed.ncbi.nlm.nih.gov/27884237
 ---
-
 Your dental visit involves sharing a small space with your dentist, breathing the same air, and having them place instruments in your mouth. Naturally, you want to know your dentist is taking every precaution to keep you safe from infections. Infection prevention in dentistry is critically important—your dental team works hard to protect you from getting sick through their practice. However, modern dental offices face real challenges in maintaining perfect infection control, and understanding these challenges helps you know what questions to ask your dentist and how to protect yourself as a patient.
 
 ## How Dentists Sterilize Instruments

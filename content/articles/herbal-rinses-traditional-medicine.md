@@ -28,7 +28,6 @@ references:
   - title: "Integration of traditional and contemporary herbal oral care: Evidence-based recommendations"
     url: "https://pubmed.ncbi.nlm.nih.gov/25789012"
 ---
-
 ## Ancient Traditions Around the World
 
 People have been using plants to care for their teeth and gums for thousands of years. In India, Ayurvedic medicine developed detailed techniques using neem and turmeric. Chinese healers created herbal formulas specifically for mouth health.

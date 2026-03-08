@@ -32,7 +32,6 @@ references:
   - title: "Risk factors for alveolar osteitis: a systematic review and meta-analysis"
     url: "https://pubmed.ncbi.nlm.nih.gov/22414433/"
 ---
-
 Dental surgery is generally safe when performed by trained professionals using proper technique. However, complications can occur—even with experienced surgeons, even when everything is done "right." Understanding what complications exist, recognizing their warning signs, and knowing how they're managed empowers you to make informed decisions and seek help quickly if problems develop.
 
 This discussion doesn't aim to scare you away from needed surgery. Learn more about [Wisdom Teeth Do They](/article/wisdom-teeth-do-they-always-need-to-be-removed.html) for additional guidance. Rather, it provides realistic information about potential risks so you can weigh benefits against risks and understand what symptoms warrant calling your surgeon.
@@ -103,12 +102,6 @@ You can help prevent complications by:
 ## Most Complications Are Manageable
 
 This is the important takeaway: most surgical complications, when identified and treated early, resolve without permanent consequences. The key is recognizing warning signs and seeking care promptly rather than hoping problems resolve on their own.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss why surgical complications matters, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

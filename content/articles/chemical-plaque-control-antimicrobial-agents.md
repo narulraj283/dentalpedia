@@ -32,7 +32,6 @@ subcategory: Brushing, Flossing & Hygiene
 subcategory_slug: brushing-flossing
 title: 'Chemical Plaque Control: Antimicrobial Mouth Rinses'
 ---
-
 If you have gum disease, your dentist might recommend an antimicrobial mouth rinse in addition to brushing and flossing. These rinses can help fight bacteria and reduce inflammation. But they're tools to enhance your cleaning routine, not replace it. Understanding your options helps you know what to expect and how to use them effectively.
 
 ## How Plaque Causes Problems
@@ -130,7 +129,7 @@ Ask your dentist which product to buy and where to get it.
 
 Antimicrobial mouth rinses provide helpful adjunctive support for people with gum disease or difficulty with mechanical cleaning. Chlorhexidine is most powerful but has side effects limiting long-term use. Essential oils and stannous compounds are gentler alternatives suitable for longer-term use. These rinses always supplement, never replace, brushing and flossing. Work with your dentist to determine if an antimicrobial rinse makes sense for your specific situation and which product is best.
 
-> **Key Takeaway:** Antimicrobial mouth rinses can help with plaque and gum disease when you struggle with brushing and flossing alone.
+> **Key Takeaway:** If you have gum disease, your dentist might recommend an antimicrobial mouth rinse in addition to brushing and flossing.
 
 ## Related Articles
 
@@ -138,5 +137,5 @@ Antimicrobial mouth rinses provide helpful adjunctive support for people with gu
 - [Optimal Sequence and Timeline for Daily Oral Hygiene](/article/timeline-for-daily-teeth-cleaning.html)
 - [Dental Products Comparison: What Actually Works](/article/dental-products-comparison-what-actually-works.html)
 - [How to Remove Plaque and Keep Your Mouth Clean](/article/timeline-for-plaque-removal-methods.html)
-- [Triclosan in Dentistry - Antimicrobial Properties,](/article/triclosan-broad-spectrum-antibacterial.html)
+- [Triclosan in Dentistry - Antimicrobial Properties](/article/triclosan-broad-spectrum-antibacterial.html)
 

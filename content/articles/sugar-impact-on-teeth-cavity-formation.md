@@ -32,7 +32,6 @@ references:
   - title: "Sheiham A. Dietary effects on dental diseases. Public Health Nutr. 2001;4(2):569-591."
     url: https://pubmed.ncbi.nlm.nih.gov/11683552
 ---
-
 ## The Bacteria That Start Cavities
 
 A specific bacterium called Streptococcus mutans is the main troublemaker when it comes to cavity formation, although it usually works with other bacteria to cause damage. This bacterium has special abilities that make it particularly destructive. It can ferment sugars (especially sucrose) into acids that attack your teeth, and it can survive in very acidic conditions where other bacteria die. This makes it the pioneer organism that starts the cavity formation process. Once the pH in your mouth drops low enough from the acids, other bacteria jump in to help continue the attack.
@@ -90,7 +89,7 @@ Cavities develop through a specific biological process centered on sugar-loving 
 ## Related Articles
 
 - [Oral Hygiene Routine Complete Guide](/article/oral-hygiene-routine-complete-guide.html)
-- [Why Fluoride Benefits Matter - Remineralization,](/article/why-fluoride-benefits-matters.html)
+- [Why Fluoride Benefits Matter - Remineralization](/article/why-fluoride-benefits-matters.html)
 
 - [Water vs. Other Beverages for Teeth](/article/water-best-beverage-for-teeth.html)
 - [Why Cavity Risk Assessment Matters for Personalized](/article/why-cavity-risk-factors-matters.html)

@@ -43,7 +43,6 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Shade Rebound Why Teeth May Darken After Whitening
 ---
-
 ## Introduction
 
 You've had your teeth whitened and they look absolutely brilliant—for about a week. Then you notice they're getting a little darker. After a month, they don't look as white as they did right after treatment.
@@ -127,9 +126,6 @@ Presentation of touch-up treatment intervals as part of long-term maintenance ra
 
 For more information, see [Before and After Smile Documentation](/article/best-practices-for-before-and-after-smile.html).
 
-## Conclusion
-
-Shade rebound is a natural, predictable process where teeth darken after whitening as saliva rehydrates enamel and stain molecules rebuild. While complete prevention isn't possible, you can slow the process through diet choices and good oral hygiene. Periodic touch-up treatments every 6-12 months keep your whitened smile bright long-term without needing major bleaching again.
 
 ## Conclusion
 

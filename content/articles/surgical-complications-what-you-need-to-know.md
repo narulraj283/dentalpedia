@@ -32,7 +32,6 @@ references:
   - title: "Grossi SG, DeLuca S. Management of postoperative bleeding and alveolar osteitis. J Am Dent Assoc. 2011;142 Suppl 1:8S-16S."
     url: https://pubmed.ncbi.nlm.nih.gov/21715400
 ---
-
 ## Introduction
 
 If you're having oral surgery, you're probably wondering what to expect afterward. Good news: most patients have a smooth recovery. But it's smart to understand what's normal and what isn't. This guide shows you what to expect after surgery, how to handle discomfort, and—most importantly—when to call your surgeon if something doesn't feel right. Your job is knowing the difference between regular post-op symptoms and warning signs.
@@ -105,6 +104,9 @@ Permanent numbness is rare but possible. Learn more about [Cleft Lip and Palate]
 ## Follow-Up Appointments
 
 Your surgeon probably scheduled a 1-week check-up. Attend it even if you feel fine—catching problems early makes a big difference. Call sooner if you notice: worsening pain, increasing swelling after day 3, fever, drainage, or numbness not improving after 4-6 weeks.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

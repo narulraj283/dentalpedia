@@ -22,7 +22,6 @@ references:
   - "ten Cate AR. Oral Histology: Development, Structure, and Function. 7th ed. Mosby; 2013."
   - "Amler MH. The timeline of clinical and histologic healing after extraction. Int J Oral Surg. 1969;24(3):379-399."
 ---
-
 ## Simple Extractions: Fast and Affordable
 
 Simple extraction of a fully visible tooth with straight roots costs $75 to $300 per tooth. Front teeth with single straight roots cost toward the lower end ($75 to $150). Bicuspids cost $150 to $250. Molars with multiple roots cost $250 to $400. What's included: anesthesia, tooth removal, basic suturing, and follow-up care.
@@ -103,7 +102,7 @@ Most dental insurance covers 50 to 80 percent of extraction costs for medically 
 
 Simple tooth extraction costs $75 to $300 with quick recovery. Surgical extraction costs $500 to $2,500 with 7 to 10 day recovery. Budget for aftercare supplies, pain medication, and possible complications. Plan for tooth replacement costing $2,000 to $7,000 per tooth.
 
-> **Key Takeaway:** Understand extraction costs from simple to surgical removal, recovery timeline, and complications to watch for.
+> **Key Takeaway:** Simple extraction of a fully visible tooth with straight roots costs $75 to $300 per tooth.
 
 ## Related Articles
 

@@ -28,7 +28,6 @@ references:
   - title: "Veneer preparation depth and impact on underlying tooth vitality"
     url: "https://pubmed.ncbi.nlm.nih.gov/22947635/"
 ---
-
 ## How Long Do Veneers Really Last?
 
 Veneers are one of the most popular cosmetic treatments because they deliver stunning results that look and feel natural. But like any restoration, they don't last forever. Understanding what affects veneer longevity—the material, placement technique, cementation quality, and your habits—helps you make informed decisions and know what to expect. Research shows veneers succeed 85-96% at 10 years when done properly, though some fail earlier due to poor placement, inadequate bonding, or patient factors like grinding or poor oral hygiene.

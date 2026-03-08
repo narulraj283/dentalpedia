@@ -22,7 +22,6 @@ references:
   - "Guseva JS. The effectiveness of clear aligners in orthodontic treatment. J Am Dent Assoc. 2015;146(8):619-621."
   - "Levin L, Sahrmann P, Wenzel A, Genderson T, Sergeyev B. Periodontal conditions in patients treated with clear aligners and fixed appliances: A systematic review. J Dent. 2018;77:1-6."
 ---
-
 ## The Market Landscape
 
 Clear aligner companies have exploded onto the market. Learning more about [Clear Aligner Technology How It Works and Effectiveness](/article/clear-aligner-technology-how-it-works-and-effectiveness.html) can help you understand this better. Invisalign leads with about 65-70% of the professional market, but you also have ClearCorrect, SmartTrack, Byte, Spark, and direct-to-consumer companies like SmileDirect Club and Candid. Choosing between them can feel overwhelming.
@@ -127,7 +126,7 @@ Consider these factors:
 
 Premium professional systems (Invisalign, ClearCorrect) offer superior success rates, better material science, and clinician oversight, justifying higher cost for moderate-complex cases. Direct-to-consumer systems work well for simple cases in highly motivated patients. Choose based on your specific situation, not just price.
 
-> **Key Takeaway:** Comparing major clear aligner brands to help you understand the differences between Invisalign, SmartTrack, and other options available.
+> **Key Takeaway:** Clear aligner companies have exploded onto the market.
 
 ## Related Articles
 

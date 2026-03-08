@@ -32,7 +32,6 @@ references:
   - title: "Biofilm-mineral complex interactions in plaque-calculus transformation"
     url: https://www.ncbi.nlm.nih.gov/pubmed/19889949
 ---
-
 Tartar (also called dental calculus) is hardened plaque that feels rough and can be yellow, brown, or black. It forms when plaque sits on your teeth too long and mineralizes with calcium and phosphate from your saliva. Once it hardens into tartar, you can't remove it with brushing—your dentist has to scrape it off. Understanding how tartar forms and what actually prevents it helps you keep your teeth tartar-free longer between cleanings.
 
 ## How Tartar Forms
@@ -90,12 +89,6 @@ Regular professional cleaning removes both plaque and tartar before they cause g
 Some medications increase tartar formation by reducing salivary flow (antihistamines, some antidepressants, antihypertensives). If you're on medications that cause dry mouth, discuss this with your physician—sometimes alternatives with less xerostomic potential are available.
 
 Systemic conditions affecting saliva or immune function (Sjögren syndrome, diabetes, immunosuppression) increase tartar formation. These patients need extra vigilant plaque removal and possibly more frequent professional cleanings.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about how to tartar prevention and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Conclusion
 

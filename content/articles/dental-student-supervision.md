@@ -20,7 +20,6 @@ references:
   - "Lantz MS, Bebeau MJ. Ethical dimensions of student training in dental institutions. J Dent Educ. 2018;82(7):678-687."
   - "Groenewold A, Smeets R. Quality assurance systems in academic dental clinics across Europe. Eur J Dent Educ. 2019;23(3):201-212."
 ---
-
 ## How Student Supervision Works
 
 Dental school patient clinics operate under carefully structured supervision ensuring that student treatment meets professional standards. Supervision intensity varies with student training level and procedure complexity.
@@ -85,15 +84,12 @@ Expect quality comparable to private practice with extended appointments. Partic
 
 Student clinics have procedures for addressing complications or treatment concerns. Your case is under faculty supervision, and any significant issues trigger faculty involvement. Dispute resolution procedures exist if you're unsatisfied. The school is responsible for outcomes, and quality assurance processes monitor student work carefully. This safety net provides protection comparable to private practice.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about dental student supervision and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed dental student supervision, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 
@@ -101,7 +97,7 @@ Dental student supervision represents a carefully orchestrated system balancing 
 
 Quality monitoring exceeds many private settings. Patient satisfaction is comparable to private practice. Understanding supervision levels and competency requirements enables informed decisions about student clinic treatment.
 
-> **Key Takeaway:** Hierarchical supervision models ensure third/fourth-year dental students deliver quality care under licensed faculty oversight.
+> **Key Takeaway:** Dental school patient clinics operate under carefully structured supervision ensuring that student treatment meets professional standards.
 
 ## Related Articles
 

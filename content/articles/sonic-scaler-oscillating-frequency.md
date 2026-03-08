@@ -32,7 +32,6 @@ references:
   - title: "Azofeifa-Solano JC, Arroyo-Cruz G, Guillén-Sáenz H. Clinical and radiographic evaluation of sonic and ultrasonic scalers in deep periodontal pockets. J Clin Periodontol. 2005;32(11):1200-1206."
     url: https://pubmed.ncbi.nlm.nih.gov/16212571
 ---
-
 ## Introduction
 
 If your dentist has recommended a professional cleaning using a sonic scaler, you might wonder what makes this tool different from traditional cleaning methods. Sonic scalers are advanced instruments that use vibration and water spray to remove tartar and plaque buildup below your gum line—the hardest place to clean on your own. Unlike manual scaling, which requires your dentist to hand-scrape your teeth, sonic scalers work automatically at a specific frequency to gently remove deposits while keeping you comfortable. In this guide, you'll learn how sonic scalers work, why they're gentler than some alternatives, and what to expect during your appointment.

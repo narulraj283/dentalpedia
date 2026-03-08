@@ -32,7 +32,6 @@ references:
   - title: "Boyd RL. Esthetic orthodontics: a review of the current literature. Semin Orthod. 2008;14(4):248-266."
     url: https://pubmed.ncbi.nlm.nih.gov/19081873
 ---
-
 ## Choosing Between Braces and Clear Aligners
 
 If you've been told you need orthodontic treatment to straighten your teeth, you might be wondering which option is right for you: traditional metal braces or clear, removable aligners like Invisalign. The good news is that both work well, but they work differently and suit different situations. Understanding how each option moves your teeth, what to expect during treatment, and how they'll affect your daily life can help you and your orthodontist choose the approach that's best for you. This guide compares the two main orthodontic treatment methods so you can make an informed decision about your smile.

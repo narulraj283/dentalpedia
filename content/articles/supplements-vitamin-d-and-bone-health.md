@@ -32,7 +32,6 @@ references:
   - title: "Rodriguez-Martinez WC, García-Godoy F, Contreras-Bulnes R, et al. Tooth color stability in bleached primary teeth using a natural antioxidant. J Dent Child (Chic). 2010;77(1):42-47."
     url: https://pubmed.ncbi.nlm.nih.gov/20359433
 ---
-
 ## How Your Body Makes and Uses Vitamin D
 
 Vitamin D is actually a hormone—not just a vitamin like C or B vitamins. Your body makes it when sunlight hits your skin, specifically from a precursor compound that converts to vitamin D3. Your liver then modifies this into the storage form called 25-hydroxyvitamin D, which doctors measure to check your vitamin D status. Your kidneys then convert it into the active hormonal form that your cells actually use. This whole process is tightly controlled based on how much calcium your body needs at any given moment.

@@ -14,7 +14,6 @@ references:
   - "Armfield JM. Understanding dental anxiety and phobia: theories and approaches to management. Aust Dent J. 2015;60(4):445-451."
   - "AAPD behavior guidance: systematic desensitization and cognitive behavioral approaches. Pediatr Dent. 2017;39(6):215-222."
 ---
-
 ## Your Anxiety Isn't Their Problem
 
 If your child screams at the dentist and you're feeling guilty, stop. Your child's dental anxiety is not because you did something wrong. Dental anxiety develops through many pathways: some kids are naturally more sensitive to new experiences, some had one scary experience and generalized it, some learned anxiety from watching a parent. Highly anxious children often have calm, supportive parents who did everything "right." This is not your failure.
@@ -93,7 +92,7 @@ Tell-show-do technique, distraction, and coping statements reduce anxiety. Sedat
 
 Talk to your pediatric dentist about a gradual desensitization plan if your child has significant dental anxiety.
 
-> **Key Takeaway:** Strategies to help anxious children overcome dental fear without shame, with sedation options explained.
+> **Key Takeaway:** If your child screams at the dentist and you're feeling guilty, stop.
 
 ## Related Articles
 

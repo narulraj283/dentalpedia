@@ -32,12 +32,11 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Comprehensive Management of Excessive Gingival Display
 ---
-
-If you've always felt self-conscious about showing too much gum when you smile, you're not alone. About one in four people feel the same way. A "gummy smile" (excessive gingival display) happens for different reasons, and fortunately, there are several ways to fix it. The best solution depends on why your smile looks the way it does. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
+If you've always felt self-conscious about showing too much gum when you smile, you're not alone. About one in four people feel the same way. A "gummy smile" (excessive gingival display) happens for different reasons, and fortunately, there are several ways to fix it. The best solution depends on why your smile looks the way it does.
 
 ## Why Does Your Smile Look Gummy?
 
-The first step is figuring out what's causing your gummy smile, because different causes need different solutions. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
+The first step is figuring out what's causing your gummy smile, because different causes need different solutions.
 
 **Hyperactive lip muscles** represent the most common cause (about 40-50% of cases). Your teeth and gums are probably normal, but your upper lip muscles are extra active when you smile. When you're resting, your smile looks perfectly normal. But when you smile big, your lip rises too much, showing lots of gum. This is easily addressed with a non-surgical approach.
 
@@ -129,17 +128,22 @@ Cost varies significantly. Botulinum toxin is less expensive upfront but require
 
 A gummy smile doesn't have to stay a gummy smile. Multiple treatment options exist, ranging from reversible (botulinum toxin) to permanent (surgery). The key is accurate diagnosis of the underlying cause, then selecting the treatment matching your preferences and commitment level. Most people achieve excellent results with modern gummy smile treatments and report significantly increased confidence in their smile.
 
+
+Related reading: [Gummy Smile Fix: What You Need to Know](/article/gummy-smile-fix-what-you-need-to-know.html) and [How to Cosmetic Crown Selection](/article/how-to-cosmetic-crown-selection.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Excessive gingival display management begins with accurate diagnosis of the underlying etiology, enabling targeted treatment with predictable outcomes. Hyperactive lip muscles respond excellently to botulinum toxin injection. If you have questions, your dentist can help you understand your options. About one in four people feel the same way.
 
-> **Key Takeaway:** If you've always felt self-conscious about showing too much gum when you smile, you're not alone. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** If you've always felt self-conscious about showing too much gum when you smile, you're not alone. About one in four people feel the same way.
 
 ## Related Articles
 
 - [Anterior Guidance](/article/anterior-guidance-incisor-controlling-bite.html)
 - [Cosmetic Restoration Options Compared: Porcelain](/article/timeline-for-cosmetic-restoration-types.html)
 - [When Should You Whiten Your Teeth?Timing Whitening with](/article/tooth-whitening-timing-when-to-whiten-during-treatment.html)
-- [Cosmetic Alternatives to Orthodontics: When Veneers,](/article/benefits-of-teeth-alignment-alternatives.html)
+- [Cosmetic Alternatives to Orthodontics: When Veneers](/article/benefits-of-teeth-alignment-alternatives.html)
 - [Whitening Toothpaste, RDA Index, and Abrasive Safety](/article/whitening-toothpaste-abrasive-content-and-safety.html)
 

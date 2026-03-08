@@ -22,10 +22,9 @@ references:
   - "Waite PD. Textbook of Practical Periodontal Surgery. 2nd ed. Hawker Publications; 1992."
   - "Pedersen AM, Belstrøm D. The role of natural salivary defenses in maintaining a healthy oral microbiota. J Dent. 2019;80(Suppl 1):S80-S88."
 ---
-
 ## Understanding Your Recovery Timeline
 
-Dental surgery recovery happens in stages. Each stage has different costs and care requirements. Understanding the timeline helps you plan time off work and budget appropriately.
+Scheduled for dental surgery and wondering how long you'll be out of commission? Recovery happens in predictable stages—knowing what to expect helps you plan time off work and budget for supplies. Most people are back to normal within 2-4 weeks, but the first few days are when you'll feel it most.
 
 ## First 3 Days: Peak Discomfort
 
@@ -132,12 +131,6 @@ Follow activity restrictions even if you feel good—rushing activity can cause 
 
 Manage pain effectively by taking medication regularly, not waiting until pain is severe.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about recovery timeline and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed recovery timeline, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -153,13 +146,13 @@ Most extraction recovery follows a predictable timeline: 3 days of significant d
 
 Understanding this timeline helps you plan appropriately and prepare financially. Budget conservatively—some people heal faster than expected, but a few will have complications extending recovery. Discuss your specific timeline with your dentist based on your procedure complexity and health situation.
 
-> **Key Takeaway:** Understand how long dental surgery recovery takes and what costs occur at each stage of healing.
+> **Key Takeaway:** Scheduled for dental surgery and wondering how long you'll be out of commission?
 
 ## Related Articles
 
-- [Wisdom Teeth Removal: Why It's Done, When to Extract,](/article/timeline-for-wisdom-teeth-extraction.html)
+- [Wisdom Teeth Removal: Why It's Done, When to Extract](/article/timeline-for-wisdom-teeth-extraction.html)
 - [Common Misconceptions About Wisdom Teeth Extraction](/article/common-misconceptions-about-wisdom-teeth-extraction.html)
 - [Complex Extractions: What Patients Need to Know](/article/benefits-of-complex-extractions.html)
-- [Extraction Complication Timeline: Prevention,](/article/timeline-for-extraction-complications.html)
+- [Extraction Complication Timeline: Prevention](/article/timeline-for-extraction-complications.html)
 - [Intrusive Luxation](/article/intrusive-luxation-teeth-pushed-into-bone.html)
 

@@ -32,7 +32,6 @@ references:
   - title: "Pulpal inflammation and pain: pathophysiology and management"
     url: https://www.ncbi.nlm.nih.gov/pubmed/33456789
 ---
-
 ## Enamel: Your Tooth's Protective Shield
 
 The outermost layer of your tooth is enamel, which is the hardest substance in your body. It's actually harder than bone, making it excellent at protecting your teeth from daily wear and tear. Enamel is mostly mineral (calcium and phosphate), which makes it incredibly strong. However, enamel has a weakness: it's not living tissue, so it can't repair itself. Learning more about [How to Prevent Tooth Decay](/article/how-to-tooth-decay-prevention.html) can help you understand this better.
@@ -79,12 +78,6 @@ You can manage sensitivity with a desensitizing toothpaste that blocks the tubul
 
 Your enamel is incredibly hard, but it's also vulnerable to acid and bacteria. Dentin is stronger than bone but weaker than enamel. Your pulp is vital for pain sensation but not necessary for tooth survival. Understanding these layers helps you appreciate why proper dental care matters and why early treatment of cavities is so important.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about how to tooth structure layers and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed how to tooth structure layers, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -100,6 +93,6 @@ Your teeth consist of hard, protective enamel on the outside, softer dentin unde
 - [Understanding Tooth Discoloration](/article/how-to-tooth-color-changes.html)
 - [How to Crown vs Bridge Decision](/article/how-to-crown-vs-bridge-decision.html)
 - [Common Misconceptions About Tooth Color Changes](/article/common-misconceptions-about-tooth-color-changes.html)
-- [Bad Breath Elimination - Halitosis Etiology,](/article/risk-and-concerns-with-bad-breath-elimination.html)
+- [Risk and Concerns with Bad Breath Elimination](/article/risk-and-concerns-with-bad-breath-elimination.html)
 - [Why Tooth Structure Layers Matters](/article/why-tooth-structure-layers-matters.html)
 

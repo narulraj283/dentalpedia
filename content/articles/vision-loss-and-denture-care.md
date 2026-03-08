@@ -31,7 +31,6 @@ subcategory: Geriatric Overview
 subcategory_slug: overview-geriatric
 title: 'Vision Loss and Denture Care: Adaptive Strategies'
 ---
-
 ## Living Well With Dentures and Vision Loss
 
 Vision loss is common with age, affecting about one in three people over 70. When you also wear dentures, vision loss creates unique challenges in keeping your dentures clean and healthy. The good news is that with adaptive strategies, clear communication, and sometimes help from caregivers, people with vision loss can maintain excellent denture care and enjoy comfortable, healthy smiles.

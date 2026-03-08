@@ -28,7 +28,6 @@ references:
   - title: "Long-term Stability of Gum Contouring Outcomes"
     url: "https://pubmed.ncbi.nlm.nih.gov/21976429/"
 ---
-
 ## What Makes a Smile "Gummy"
 
 If your smile shows more gum than tooth, you have what's called a "gummy smile." This means that when you smile, your upper lip rises higher than ideal, exposing an excessive amount of your gum tissue.
@@ -177,6 +176,6 @@ Crown therapy lengthens teeth and improves their appearance. Botox limits upper 
 - [Extraction Complications: Complete Guide](/article/extraction-complications-complete-guide.html)
 - [Herbal Toothpaste: Natural Ingredients and Evidence](/article/herbal-toothpaste-natural-ingredients-and-evidence.html)
 - [Risk and Concerns with Teeth Bleaching Safety](/article/risk-and-concerns-with-teeth-bleaching-safety.html)
-- [Teeth Whitening Safety: Side Effects, Risk Mitigation,](/article/teeth-whitening-safety-side-effects-and-best-practices.html)
+- [Teeth Whitening Safety: Side Effects, Risk Mitigation](/article/teeth-whitening-safety-side-effects-and-best-practices.html)
 - [Getting Veneers: Step-by-Step What to Expect from Start](/article/timeline-for-veneer-installation-steps.html)
 

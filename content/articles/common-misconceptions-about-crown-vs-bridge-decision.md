@@ -22,7 +22,6 @@ references:
   - "Brägger U, Schmid B, Aeschlimann B, et al. Biological and radiological changes at implants supporting fixed partial dentures with synchronous occlusal loading. Clin Oral Implants Res. 2001;12(5):488-496."
   - "Carr AB. Comparison of softtissue (dental implant) and hardtissue (tooth root) ankylosis. Implant Dent. 1996;5(2):125-131."
 ---
-
 ## Three Main Options for Missing Teeth
 
 When you're missing a tooth, you have three main options: a bridge (which uses neighboring teeth as support), an implant (a replacement root with a crown on top), or a partial denture (a removable option). Each has different advantages, costs, and considerations. Your situation determines which is best for you.
@@ -105,12 +104,6 @@ From a long-term replacement perspective, implants might be easier to maintain l
 
 Your dentist has examined your bone, your neighboring teeth, and your overall dental health. Their recommendation is based on factors you might not be considering. If they recommend a bridge instead of an implant (or vice versa), ask why. Their explanation might help you understand your options better.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about crown vs bridge decision and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed crown vs bridge decision, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -121,7 +114,7 @@ Once you've addressed crown vs bridge decision, maintaining your results require
 
 Bridges and implants both work well with similar success rates. Bridges cost less, don't require bone, and use neighboring teeth for support. Implants preserve bone, don't require damaging neighboring teeth, and take longer. Your bone health, budget, and how many teeth are missing determine which option is best for you.
 
-> **Key Takeaway:** Choosing between a crown, bridge, or implant for a missing tooth depends on your bone, your budget, and how many teeth are missing.
+> **Key Takeaway:** When you're missing a tooth, you have three main options: a bridge (which uses neighboring teeth as support), an implant (a replacement root with a crown on top), or a partial denture (a removable option).
 
 ## Related Articles
 

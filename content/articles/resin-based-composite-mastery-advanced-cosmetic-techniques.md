@@ -22,7 +22,6 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Resin Based Composite Mastery Advanced Cosmetic Techniques
 ---
-
 ## Composite Resin: The Cosmetic Revolution in Dentistry
 
 If you have a chipped front tooth, a gap between your teeth, or a discolored tooth, your dentist can likely fix it with composite resin—a tooth-colored plastic material that bonds directly to your tooth. The best part? It can often be done in a single appointment without needing to remove much tooth structure or send your work to a lab. Composite resin has transformed cosmetic dentistry because it allows dentists to create beautiful, natural-looking results right in your mouth.

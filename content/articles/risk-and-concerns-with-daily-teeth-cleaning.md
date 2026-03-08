@@ -32,7 +32,6 @@ references:
   - title: "Turesky S, et al. Reduced plaque formation by the chloromethyl analogue of victamine C. J Periodontol. 1970;41(1):41-43."
     url: https://pubmed.ncbi.nlm.nih.gov/5265468
 ---
-
 ## Basic Brushing Technique
 
 You should brush your teeth at least twice daily for at least 2 minutes each time. Use a soft-bristled toothbrush—hard bristles damage your gums and enamel over time. Electric toothbrushes are more effective at removing plaque than manual brushes for many people, and they're especially helpful if you have reduced manual dexterity or arthritis.

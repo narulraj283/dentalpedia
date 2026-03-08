@@ -32,7 +32,6 @@ references:
   - title: "Pulpal health assessment and treatment in traumatized anterior teeth"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26890660
 ---
-
 Chipped or fractured teeth can be repaired cosmetically depending on how much damage there is. Minor chips are easy fixes. Larger fractures or those exposing the nerve require more complex treatment. Getting treatment quickly gives better results.
 
 ## How Bad Is the Damage?
@@ -135,5 +134,5 @@ Large fractures might need veneers or crowns. Get treated within hours, not days
 - [How Much Tooth Does Your Cosmetic Restoration](/article/tooth-preparation-cosmetic-anatomy.html)
 - [Common Misconceptions About Cosmetic Bonding Process](/article/common-misconceptions-about-cosmetic-bonding-process.html)
 - [Cosmetic Veneer Durability and Longevity Evidence](/article/veneer-durability-facts-complete-guide.html)
-- [Gummy Smile Correction: Etiology, Treatment Modalities,](/article/timeline-for-gummy-smile-fix.html)
+- [Gummy Smile Correction: Etiology, Treatment Modalities](/article/timeline-for-gummy-smile-fix.html)
 

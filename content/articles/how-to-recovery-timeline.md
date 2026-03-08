@@ -32,7 +32,6 @@ references:
   - title: "Clinical and Radiographic Evaluation of Extraction Site Healing"
     url: https://www.ncbi.nlm.nih.gov/pubmed/24556877
 ---
-
 Your extraction isn't the end—it's the beginning of your body's natural healing process. Over the next few weeks and months, your mouth goes through several distinct stages as the socket fills, bone rebuilds, and everything returns to normal. Understanding what happens each week helps you know what's normal healing and what needs professional attention. Learning more about [Recovery After Tooth Extraction](/article/how-to-recovery-after-extraction.html) can help you understand this better.
 
 ## The First Hours: Getting Bleeding Under Control
@@ -87,14 +86,6 @@ Not everyone heals on the same timeline. Age, overall health, smoking status, an
 
 Good nutrition speeds healing. Protein, vitamin C, and zinc all support tissue and bone formation. Excellent oral hygiene helps, too. If you're on certain medications like bisphosphonates (used for bone health), let your dentist know—these can affect healing.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about how to recovery timeline and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
-
 ## Conclusion
 
 Your extraction healing is a marvel of biology that happens automatically. For the first week, your job is protecting the clot and managing discomfort. After that, your body takes over and does most of the work. Following your dentist's instructions during those first critical days dramatically improves your healing. Most complications come from not protecting the clot during week one—after that, things usually progress smoothly without much effort on your part.
@@ -107,5 +98,5 @@ Your extraction healing is a marvel of biology that happens automatically. For t
 - [Anesthesia Types in Oral Surgery](/article/benefits-of-anesthesia-types.html)
 - [Bleeding After Tooth Extraction](/article/bleeding-after-tooth-extraction-when-is-it-excessive.html)
 - [After Wisdom Tooth Extraction: Your Complete Dry Socket](/article/wisdom-tooth-extraction-complications-dry-socket-prevention.html)
-- [Wound Healing After Oral Surgery - Phases,](/article/surgical-site-healing-complete-guide.html)
+- [Wound Healing After Oral Surgery - Phases, Timeline](/article/surgical-site-healing-complete-guide.html)
 

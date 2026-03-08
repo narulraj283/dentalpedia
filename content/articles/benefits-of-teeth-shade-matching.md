@@ -20,16 +20,15 @@ references:
   - "Okubo SR, Kanawati A, Richards MW, Wetzel W. Evaluation of visual and instrumental shade-matching systems. J Dent Res. 1998;77(3):426-433."
   - "Munsell A. Munsell Book of Color. 2nd ed. New York: Munsell Color; 1976."
 ---
-
 ## Matching Tooth Color: The Art and Science Behind Perfect Restorations
 
-When you get a filling, crown, or veneer, making it look exactly like your real teeth is trickier than you might think. It's not just about picking a color from a chart. Dentists use actual color science and specific systems to make sure that new tooth looks so natural that nobody would ever guess it's not your original tooth. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
+When you get a filling, crown, or veneer, making it look exactly like your real teeth is trickier than you might think. It's not just about picking a color from a chart. Dentists use actual color science and specific systems to make sure that new tooth looks so natural that nobody would ever guess it's not your original tooth.
 
 ## Understanding Color: More Than Just "White"
 
 Color is actually three things at once: hue, value, and chroma. Hue is the basic color—your teeth are mostly yellow or yellow-red, never true white. Value is how light or dark a color is.
 
-Your front teeth are naturally bright (high value), while your back teeth are a bit darker. Chroma is how intense or vivid the color is. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
+Your front teeth are naturally bright (high value), while your back teeth are a bit darker. Chroma is how intense or vivid the color is.
 
 Think of it this way: two teeth can be the same yellow hue but different values (one lighter, one darker). Or they can be the same yellow but different chromas (one more vivid yellow, one more muted). Your dentist has to match all three dimensions, not just one. That's why picking a color is more scientific than just eyeballing it.
 
@@ -106,6 +105,9 @@ In: Schwartz RS, editor. Fundamentals of Restorative Dentistry. 3rd ed. Chicago:
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
+
+Related reading: [Enamel Erosion Repair: Restoring Damaged Teeth](/article/how-to-enamel-erosion-repair.html) and [Cost of Teeth Bleaching Safety and Clinical Protocols](/article/cost-of-teeth-bleaching-safety.html).
+
 ## Conclusion
 
 : Matching Is Both Art and Science
@@ -114,7 +116,7 @@ Getting your restoration color to match perfectly is a combination of scientific
 
 ---
 
-> **Key Takeaway:** When you get a filling, crown, or veneer, making it look exactly like your real teeth is trickier than you might think.
+> **Key Takeaway:** It's not just about picking a color from a chart. Dentists use actual color science and specific systems to make sure that new tooth looks so natural that nobody would ever guess it's not your original tooth.
 
 ## Related Articles
 

@@ -20,12 +20,11 @@ references:
   - "Teughels W, Durieux MP, Ugarte-Montano AM, et al. One-stage full-mouth disinfection plus amoxicillin and metronidazole in generalized aggressive periodontitis: preliminary results. J Periodontol. 2002;73(7):741-749."
   - "Baker PJ, Evans RT, Cowan GC, et al. Tetracycline and its derivatives as antimicrobial agents in periodontology. Curr Opin Dent. 1991;1(5):587-595."
 ---
-
 ## When Antibiotics Help Gum Disease
 
-Regular deep cleaning works great for most gum disease patients. But sometimes your gums stay sick even after treatment. When this happens, your dentist might suggest antibiotics to help. About 10-15 percent of patients don't get better with cleaning alone, so antibiotics become an important tool. For more details, see our guide on [Aggressive Periodontitis](/article/aggressive-periodontitis-early-onset-gum-disease.html).
+Regular deep cleaning works great for most gum disease patients. But sometimes your gums stay sick even after treatment. When this happens, your dentist might suggest antibiotics to help. About 10-15 percent of patients don't get better with cleaning alone, so antibiotics become an important tool.
 
-Antibiotics fight gum disease in two ways. First, they kill the harmful bacteria hiding deep in your gum pockets. Second, they lower the total bacteria count in your whole mouth. Your dentist decides whether to give you pills you take by mouth or special medicine placed right into your gum pockets—it depends on how deep your pockets are and which bacteria are causing the problem. For more details, see our guide on [Aggressive vs Chronic](/article/aggressive-vs-chronic-disease-progression-rate.html).
+Antibiotics fight gum disease in two ways. First, they kill the harmful bacteria hiding deep in your gum pockets. Second, they lower the total bacteria count in your whole mouth. Your dentist decides whether to give you pills you take by mouth or special medicine placed right into your gum pockets—it depends on how deep your pockets are and which bacteria are causing the problem.
 
 ## Antibiotics You Take by Mouth
 
@@ -92,6 +91,9 @@ After your deep cleaning, keep taking good care of your teeth at home. Brush twi
 
 Antibiotics are tools that help, but they don't replace your daily brushing and flossing. Home care is the most important thing you can do.
 
+
+Related reading: [Cytokines and Chemokines: Inflammatory Mediators](/article/cytokines-and-chemokines-inflammatory-mediators.html) and [Food Impaction Between Teeth](/article/food-impaction-traumatic-packing-force.html).
+
 ## Conclusion
 
 When regular cleaning doesn't stop gum disease, antibiotics give your gums a fighting chance. The combination of amoxicillin and metronidazole works best for aggressive gum disease. If you're allergic to penicillin, azithromycin is a good alternative. Low-dose doxycycline helps with inflammation if you need long-term support.
@@ -100,7 +102,7 @@ Special medicines placed directly in your deep pockets (Arestin or Atridox) work
 
 Your best defense is still daily brushing, flossing, and regular professional cleanings. Antibiotics are the back-up plan when your mouth needs extra help fighting disease.
 
-> **Key Takeaway:** Regular deep cleaning works great for most gum disease patients. But sometimes your gums stay sick even after treatment.
+> **Key Takeaway:** Regular deep cleaning works great for most gum disease patients.
 
 ## Related Articles
 

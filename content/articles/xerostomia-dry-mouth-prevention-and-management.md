@@ -30,7 +30,6 @@ references:
   - title: "Professional Fluoride Applications in Xerostomia: Protocols and Outcomes"
     url: "https://pubmed.ncbi.nlm.nih.gov/20640959/"
 ---
-
 Dry mouth—the medical term is xerostomia—is more common than you might think. About one in every five people experiences it at some point, and it becomes even more common as we age. If you've noticed your mouth feeling persistently dry, sticky, or uncomfortable, you're not alone.
 
 This condition goes beyond just feeling thirsty. Your saliva does important work: it helps you swallow, taste food, and keeps your teeth healthy. When your mouth stops producing enough saliva, everyday activities like eating and talking become uncomfortable, and your risk of cavities and mouth infections shoots up. The good news is that dry mouth is highly manageable once you understand what's causing it and take action.

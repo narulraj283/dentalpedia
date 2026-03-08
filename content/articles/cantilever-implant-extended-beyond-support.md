@@ -20,7 +20,6 @@ references:
   - "Binon PP. Implants and components: entering the new millennium. Int J Oral Maxillofac Implants. 2000;15(1):33-45."
   - "Brunski JB. Biomechanical factors affecting the bone-dental implant interface. Clin Mater. 1992;10(3):153-201."
 ---
-
 ## Understanding Cantilever Implant Restorations
 
 A cantilever implant restoration replaces multiple missing teeth with replacement teeth extending beyond the implant support. For example, a single implant might support two replacement teeth—one adjacent to the implant and one cantilevered beyond that.
@@ -103,19 +102,14 @@ Beyond regular professional monitoring, your daily habits significantly impact c
 
 Avoid grinding or clenching habits by wearing a night guard if necessary. If you have habits like ice chewing, hard candy chewing, or opening things with your teeth, work to eliminate these. Attend all professional appointments even if you feel no problems. Many implant complications develop silently—bone loss and infection can progress without symptoms until critical, so professional monitoring catches problems early when they're still manageable.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about cantilever implant extended beyond support and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 
 Cantilever implant restorations allow replacing multiple missing teeth with single implant support. Success requires excellent bone quality, appropriate implant dimensions, moderate cantilever extension, and careful case selection. Ten-year success rates of 92-96% in appropriate cases support this treatment option. However, patient selection remains critical—discussing realistic expectations and maintenance requirements with your implant specialist ensures appropriate treatment selection.
 
-> **Key Takeaway:** Implants can support replacement teeth extending beyond the implant with proper planning and patient selection.
+> **Key Takeaway:** A cantilever implant restoration replaces multiple missing teeth with replacement teeth extending beyond the implant support.
 
 ## Related Articles
 

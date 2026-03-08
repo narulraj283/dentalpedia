@@ -32,12 +32,11 @@ subcategory: Implant Planning
 subcategory_slug: implant-planning
 title: 'Augmentation for Implants: Building Missing Bone'
 ---
-
-Dental implants need a solid foundation of bone to work. If you've lost a tooth due to decay or an accident, or if your jaw has shrunk from gum disease, there might not be enough bone for an implant. The solution is bone augmentation—building up the bone before placing the implant. Several different techniques accomplish this depending on where the bone loss is and how severe it is. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
+Dental implants need a solid foundation of bone to work. If you've lost a tooth due to decay or an accident, or if your jaw has shrunk from gum disease, there might not be enough bone for an implant. The solution is bone augmentation—building up the bone before placing the implant. Several different techniques accomplish this depending on where the bone loss is and how severe it is.
 
 ## Bone Graft Material Options
 
-Four main types of bone graft materials exist, each with different advantages. Your own bone harvested from your jaw or hip is the gold standard because it has living cells that build new bone. It works best but requires additional surgery at the donor site. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
+Four main types of bone graft materials exist, each with different advantages. Your own bone harvested from your jaw or hip is the gold standard because it has living cells that build new bone. It works best but requires additional surgery at the donor site.
 
 Bone from a tissue bank comes from deceased donors and is carefully processed to eliminate disease risk. It's excellent for bone building and eliminates the donor site pain. Animal bone, usually from cows, provides a mineral scaffold that your own bone grows into. Synthetic bone substitutes made in laboratories provide similar scaffolding without any animal material.
 
@@ -115,11 +114,12 @@ Ridge splitting can add 3-5 millimeters of horizontal width. Barrier membrane se
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
+
+Related reading: [Why Understanding Complex Extractions Matters](/article/why-complex-extractions-matters.html) and [Tongue Tie Release: What Parents Need to Know](/article/frenulum-removal-frenotomy-and-tongue-tie-release.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
-
-> **Key Takeaway:** Dental implants need a solid foundation of bone to work. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** Maxillary sinus lifts elevate the sinus floor 8-12 millimeters enabling posterior upper implants (95% long-term success).
 
 ## Related Articles
 

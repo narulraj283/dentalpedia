@@ -32,7 +32,6 @@ references:
   - title: "Sato Y, Shimazu H. Elevation of serum C-reactive protein levels is associated with poor wound healing in trauma patients. J Trauma. 1997;42(5):965-969."
     url: https://pubmed.ncbi.nlm.nih.gov/9191686
 ---
-
 ## Understanding Your Surgical Healing Process
 
 After you have oral surgery, your mouth goes through natural healing stages that typically take weeks to complete. In the first few days, your body forms blood clots and starts an inflammatory response to the surgical trauma. From days 3-21, new tissue forms and blood vessels grow into the area. After 3 weeks, tissue remodeling continues for months as scar tissue matures and strengthens.
@@ -97,9 +96,6 @@ Physical activity modification during initial healing phase reduces swelling and
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
-## Conclusion
-
-Surgical healing proceeds through predictable stages when conditions are optimal. You actively support healing through excellent post-operative care, good pre-operative health status (especially blood sugar control if diabetic), and following all instructions. Complications including infection, separation, and vascular problems are largely preventable through meticulous surgical technique and excellent post-operative management.
 
 ## Conclusion
 

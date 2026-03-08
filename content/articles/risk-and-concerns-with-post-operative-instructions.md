@@ -46,7 +46,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Risk and Concerns with Post Operative Instructions
 ---
-
 ## Introduction
 
 After oral surgery, your surgeon gives you specific instructions about rest, diet, medication, and oral hygiene. These instructions aren't suggestions—they're essential to prevent serious healing problems. Following them means the difference between smooth healing and complications like infection, excessive bleeding, or delayed recovery. Understanding why these rules matter helps you stick to them.
@@ -146,9 +145,9 @@ Practitioners must thoroughly document post-operative instructions provided to p
 
 Practitioners should maintain copies of post-operative instruction sheets provided to patients, document any specific concerns identified during post-operative assessment, and maintain records of patient post-operative contacts. If patients report non-compliance or complications, documentation of attempts to provide appropriate care and patient refusal to comply demonstrates appropriate professional care even if outcomes are suboptimal.
 
-## Conclusion
 
-Post-operative instructions prevent serious complications. Follow them exactly even when it seems like overkill. Your surgeon designed them based on what causes problems. Resting, eating soft food, taking medications, avoiding smoking, and gentle oral care let your body heal efficiently and completely.
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

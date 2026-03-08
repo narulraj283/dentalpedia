@@ -18,7 +18,6 @@ references:
   - title: "Papadimitriou A, Gkantidis N. Clinical effectiveness of the Invisalign appliance: A systematic review. Progress in Orthodontics. 2020;21(1):3."
     url: https://pubmed.ncbi.nlm.nih.gov/31997143
 ---
-
 ## Introduction
 
 If you're considering straightening your teeth, you have two main options: traditional braces and clear aligners (like Invisalign). Both work, but they're quite different in approach, timeline, cost, and which cases they handle best. This guide helps you understand both so you can make an informed choice that fits your needs.
@@ -130,6 +129,3 @@ Simple cases can use either; pick based on preferences. Moderate cases require h
 - [Timeline for Bite Problems Explained - Malocclusion](/article/timeline-for-bite-problems-explained.html)
 - [Traditional vs. Invisible Braces—What You Need to Know](/article/traditional-vs-invisible-braces-what-you-need-to-know.html)
 
-- [Cleaning Braces](/article/cleaning-braces-special-techniques-and-tools.html)
-- [Cost of Aligner Wear Schedule](/article/cost-of-aligner-wear-schedule.html)
-- [Cost of Teeth Movement Speed and Acceleration](/article/cost-of-teeth-movement-speed.html)

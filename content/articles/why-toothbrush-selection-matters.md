@@ -28,7 +28,6 @@ references:
   - title: "Bristle diameter and spacing: relationship to plaque removal and gingival recession"
     url: "https://pubmed.ncbi.nlm.nih.gov/18821205/"
 ---
-
 ## Why Your Toothbrush Matters More Than You Think
 
 Your toothbrush is one of the most important tools in your daily fight against cavities and gum disease. Yet most people just grab whatever's on the shelf without thinking about it. Here's the truth: the right toothbrush combined with proper technique removes 70-85% of plaque when you use it correctly. The wrong brush—or the right brush used wrong—might remove only 50% or damage your gums in the process. Let me break down what actually matters.

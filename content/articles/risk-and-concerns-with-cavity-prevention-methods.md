@@ -46,7 +46,6 @@ subcategory: Preventive Overview
 subcategory_slug: overview-prevent
 title: Risk and Concerns with Cavity Prevention Methods
 ---
-
 ## Cavity Prevention Methods - What You Need to Know About the Risks
 
 Dentists work hard to help you prevent cavities, and fluoride, dental sealants, and other prevention methods do help. But like any medical treatment, cavity prevention has real risks and limitations that your dentist should discuss with you. Understanding what can go wrong—and what actually works—helps you make smart choices about your teeth. This guide explains the problems with common cavity prevention methods and what you should know before you or your child receive treatment.

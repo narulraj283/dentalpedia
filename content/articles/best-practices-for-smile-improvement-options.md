@@ -20,7 +20,6 @@ references:
   - "Sarver DM. Principles of cosmetic dentistry in periodontal therapy. Periodontol 2000. 2023;37:48-59."
   - "Wolfart S, Quaas AC, Freitag S, Kropp P, Gerngross P, Kern M. Subjective esthetic perception of maxillary anterior crowns. J Dent Res. 2023;85(12):1133-1139."
 ---
-
 ## The Team Approach Works Better
 
 Dramatic smile transformations require multiple specialties working together. A beautiful restoration on a crooked tooth looks weird. Straight teeth with bad gum contours look incomplete. That's why the best smile makeovers follow a phased sequence: align teeth first, then refine gums, then whiten, then restore. It takes longer but results are exponentially better.
@@ -147,21 +146,6 @@ Kids are usually curious and supportive. If you're doing this for yourself, it m
 When treatment completes, celebrate. New teeth/smile are worth celebrating. Some people take photos at milestones. Some treat themselves. Some tell friends about their transformation.
 
 This celebration period (weeks 1-4 after treatment ends) is psychologically important—you're internalizing the change as permanent and real. Acknowledging the accomplishment solidifies the confidence boost.
-
-## Questions to Ask Your Dentist
-
-During initial planning:
-
-- What's the optimal sequence for my specific concerns?
-- Can we create a detailed timeline with milestones?
-- How much should I expect at each phase?
-- What if I want to stop after phase 2 instead of continuing to phase 3?
-- What's the total cost for the full sequence?
-- Are there payment plan options?
-- How will my smile look during treatment (before final cosmetics)?
-- What maintenance will each phase require?
-- How often will I need appointments?
-- When can I see real results starting to appear?
 
 ## The Commitment
 

@@ -30,7 +30,6 @@ references:
   - title: "Elastomeric vs Elastomeric Wire: Force Decay and Optimal Activation in Bite Correction"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27654321
 ---
-
 Your bite is how your upper and lower teeth come together when you close your mouth. When your bite is off, it can affect how you chew, speak, and smile. The good news is that there are several treatment options available, and your orthodontist can help you choose the best one for your situation.
 
 ## Understanding Your Bite Problem
@@ -43,7 +42,7 @@ Your orthodontist will take X-rays and measurements to understand your specific 
 
 Metal braces are still the most effective way to correct bite problems. They work by applying gentle, constant pressure to move your teeth into the right position over time. Your orthodontist attaches brackets to each tooth and threads a wire through them. The wire guides your teeth as it tightens over months and years.
 
-Your orthodontist will change your wires regularly to apply the right amount of force. In many cases, you'll also wear small rubber bands (called elastics) between your upper and lower teeth. These elastics help move your molars into the correct bite relationship. Most people wearing braces for bite correction can expect treatment to take 2-3 years. Learn more about [Common Myths About How Fast Teeth Move](/article/common-misconceptions-about-teeth-movement-speed.html).
+Your orthodontist will change your wires regularly to apply the right amount of force. In many cases, you'll also wear small rubber bands (called elastics) between your upper and lower teeth. These elastics help move your molars into the correct bite relationship. Most people wearing braces for bite correction can expect treatment to take 2-3 years.
 
 ## Clear Aligners: A More Discreet Option
 
@@ -56,8 +55,6 @@ Clear aligners work best for mild to moderate bite problems. For more severe cas
 If you're still growing, your orthodontist might recommend a functional appliance. These devices hold your lower jaw in a specific position, encouraging it to grow forward or your upper jaw to adjust. Over time, this can correct your bite without needing to move as many teeth.
 
 Common functional appliances include the Herbst appliance, activators, and twin blocks. Some are fixed (meaning they stay in your mouth all the time), and others are removable (you wear them at night and for several hours during the day). These appliances work best in children and early teens who are still growing. When growth is complete, you'll typically need braces to fine-tune your bite.
-
-Learn more about [How Long It Typically Takes to Correct Bite Problems](/article/timeline-for-bite-problems-explained.html).
 
 ## Fixing Different Types of Bite Problems
 
@@ -91,6 +88,9 @@ How long you need treatment depends on your bite problem and which method you ch
 
 Be patient—straightening your bite is a gradual process. The slower movement happens, the healthier it is for your teeth and gums. Rushing the process can damage tooth roots and cause other problems.
 
+
+Related reading: [Adult Orthodontic Treatment Timeline: Conventional](/article/timeline-for-adult-braces-options.html) and [Premolar Extraction in Orthodontia Indication Debate](/article/premolar-extraction-in-orthodontia-indication-debate.html).
+
 ## Conclusion
 
 Don't ignore a bite problem—correcting it now prevents dental issues down the road and improves how you look and function. Talk to your orthodontist about which treatment option makes the most sense for your situation. With modern techniques, you have choices, and there's almost certainly a solution that fits your needs and lifestyle.
@@ -103,7 +103,7 @@ Don't ignore a bite problem—correcting it now prevents dental issues down the 
 
 - [Best Practices for Teeth Straightening Cost](/article/best-practices-for-teeth-straightening-cost.html)
 - [Crossbite: Single and Multiple Tooth Misalignment](/article/crossbite-single-and-multiple-tooth-misalignment.html)
-- [Bracket Irritation and Oral Ulceration: Prevention,](/article/bracket-irritation-mouth-sores-during-orthodontia.html)
+- [Bracket Irritation and Oral Ulceration: Prevention](/article/bracket-irritation-mouth-sores-during-orthodontia.html)
 - [Common Misconceptions About Teeth Movement Process](/article/common-misconceptions-about-teeth-movement-process.html)
 - [Bite Problems Explained: Types and What Causes Them](/article/how-to-bite-problems-explained.html)
 

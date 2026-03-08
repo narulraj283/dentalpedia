@@ -19,7 +19,6 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: Root Canal Sealers - What They Do and Why They Matter
 ---
-
 ## What Happens During Root Canal Treatment
 
 When you need a root canal, your dentist removes the infected nerve tissue from inside your tooth. But removing the nerve isn't enough—your dentist also needs to seal the empty canals so bacteria can't get back in and cause another infection. That's where root canal sealers come in.
@@ -73,14 +72,6 @@ Your dentist also considers where the sealer sets within your root canal. Ideall
 If your sealer fails—meaning the seal breaks down years later—bacteria can recontaminate your tooth. This causes the tooth to become infected again, leading to symptoms like pain, swelling, or abscess formation. If this happens, your dentist might perform root canal retreatment to reopen the tooth, remove the old sealer and filling, and reseal it properly.
 
 Regular [Professional Cleanings and Checkups](/article/complete-guide-to-dental-exams-and-cleanings.html) help catch any problems early before they become serious.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about root canal sealers - what they do and why they matter and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

@@ -18,7 +18,6 @@ references:
   - title: "Fradeani M, Redemagni M, Corradi G. Porcelain veneers: 6- to 12-year evaluation--a retrospective investigation. Int J Periodontics Restorative Dent. 2005;25(1):9-17."
     url: https://pubmed.ncbi.nlm.nih.gov/15736779
 ---
-
 ## Introduction
 
 Getting veneers is a multi-step process that spans several weeks from initial consultation to finished smile. Understanding what happens at each stage helps you prepare mentally and physically, so there are no surprises. This guide walks you through the entire journey.

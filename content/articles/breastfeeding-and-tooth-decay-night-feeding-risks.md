@@ -22,7 +22,6 @@ references:
   - Thitasomakul S, Piwat S, Therebhon M, et al. Risks for early childhood caries analyzed by negative binomial models. J Dent Res. 2009;88(2):137-141.
   - Vachirarojpisan T, Nosrat A, Sithisarn P, Chomkhakhai U. The association between nutritional status and dental caries in deciduous dentition of Thai preschool children. J Public Health Dent. 1996;56(3):197-203.
 ---
-
 Many parents worry that breastfeeding causes tooth decay in babies. It's a valid concern—early childhood caries (decay in young children) is the most common infectious disease in kids under five. But the relationship between breastfeeding and decay is actually more nuanced than you might think. Breast milk itself isn't the villain; rather, how and when babies nurse makes the difference. This article explains the real risks and what you can do to protect your baby's developing teeth.
 
 ## What's in Breast Milk and Why It Matters

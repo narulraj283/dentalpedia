@@ -22,7 +22,6 @@ references:
   - "Richmond S, Andrews M. Orthodontic treatment, its impact on the patient. Angle Orthod. 1992;62(3):175-187."
   - "Weltman B, Vig KW, Fields HW, Shanker S, Kaizar EE. Root resorption associated with orthodontic therapy. Am J Orthod Dentofacial Orthop. 2010;137(4):462-476."
 ---
-
 ## What "Compliance" Really Means for Your Braces or Aligners
 
 When your orthodontist talks about "compliance," they're referring to how well you follow their treatment instructions. But compliance isn't just one thing—there are actually several different habits and behaviors that matter, and some are way more important than others for your success. Understanding what really counts helps you focus your effort where it actually makes a difference.
@@ -87,11 +86,14 @@ Missing one elastics here, a day without retainer wear there, occasional hard ca
 
 If you maintain 75 percent of the recommended compliance consistently, your treatment timeline extends proportionally. Over 24 months of treatment, 75 percent compliance might add 6 months to the timeline. The good news is that you don't need to be perfect—even 80 to 85 percent compliance produces good results. But trying to get by at 50 percent compliance expecting minimal consequences is unrealistic.
 
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
 Orthodontic compliance means following instructions about wearing and caring for your appliances. Elastic band wear is most critical for treatment success, followed by good oral hygiene and consistent aligner wear. Some compliance issues matter far more than others—understand what's most important so you can focus your effort where it counts most.
 
-> **Key Takeaway:** Understand what "compliance" really means for braces and aligners, and which habits actually matter most for your treatment success.
+> **Key Takeaway:** When your orthodontist talks about "compliance," they're referring to how well you follow their treatment instructions.
 
 ## Related Articles
 

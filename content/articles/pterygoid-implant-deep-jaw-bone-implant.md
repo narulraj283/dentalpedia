@@ -44,7 +44,6 @@ subcategory: Implant Overview
 subcategory_slug: overview-implants
 title: 'Pterygoid Implants: Deep Jaw Bone'
 ---
-
 ## When Your Upper Back Jaw Doesn't Have Enough Bone
 
 If you've lost back teeth in your upper jaw and want implants, your dentist has probably mentioned you don't have enough bone to place traditional implants in the back of your mouth. That's because the upper jaw shrinks after tooth loss, and the space where your teeth were becomes narrower. Normally, when there's not enough bone, dentists would perform a sinus lift procedure—surgically lifting the membrane that lines your sinuses and adding bone graft material to create more vertical bone. But there's an alternative: pterygoid implants. These special implants are placed deeper back in your jaw, in an area called the pterygoid region, where there's often plenty of bone available even when the front part of your upper jaw has shrunk significantly.

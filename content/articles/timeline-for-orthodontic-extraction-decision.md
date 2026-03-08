@@ -1,11 +1,11 @@
 ---
+category: General Dentistry
 category_slug: general-dentistry
 excerpt: 'One of the biggest questions patients ask their orthodontist is: "Do I need
   to have teeth pulled?" It''s a serious concern that affects how long you''ll'
 slug: timeline-for-orthodontic-extraction-decision
 title: Timeline for Orthodontic Extraction Decision
 ---
-
 ## Introduction
 
 One of the biggest questions patients ask their orthodontist is: "Do I need to have teeth pulled?" It's a serious concern that affects how long you'll wear braces, what your smile will look like, and how stable your results will be. Your orthodontist weighs many factors to make this decision—it's not simply about crowding. This guide explains how orthodontists decide whether extraction is right for your situation, plus your alternatives if you'd prefer not to remove teeth.

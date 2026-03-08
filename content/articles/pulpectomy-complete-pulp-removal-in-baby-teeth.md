@@ -28,7 +28,6 @@ references:
   - title: "Srinivasan V, Menon MP, Nair MK. Periapical changes following pulpectomy in primary molars: a radiological follow-up study. J Indian Soc Pedod Prev Dent. 1999;17(4):166-171."
     url: https://pubmed.ncbi.nlm.nih.gov/11416568
 ---
-
 ## When Your Child's Baby Tooth Nerve Dies
 
 If your child's baby tooth has a dead nerve from a cavity or injury, your dentist might perform a pulpectomy—completely removing all the dead nerve tissue, cleaning the space, and filling it with special material. This saves the tooth rather than extracting it, which is important because baby teeth hold space for permanent teeth. Losing them too early often causes crowding and permanent tooth problems later.
@@ -64,14 +63,6 @@ Your dentist takes x-rays after treatment and at follow-up visits to confirm: th
 ## When Extraction Might Be Better
 
 Your dentist might recommend extraction instead if: the baby tooth is already very loose and will fall out soon anyway, the root has dissolved significantly, infection is too severe, your child can't cooperate with treatment, or the tooth is too damaged to restore.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about pulpectomy - complete pulp removal in baby teeth and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

@@ -28,7 +28,6 @@ subcategory: Surgical Procedures
 subcategory_slug: overview-surgery
 title: 'Crown Lengthening for Gummy Smile Correction: Surgical'
 ---
-
 ## What Is a Gummy Smile?
 
 If you show more than 3 millimeters of gum when you smile, you might consider it a "gummy smile." About 10-15% of people have this characteristic, but many more feel self-conscious about gum display when smiling. Learning more about [Cosmetic Crown Selection What You Need to Know](/article/cosmetic-crown-selection-what-you-need-to-know.html) can help you understand this better. The good news? Gummy smile correction through surgery is a straightforward procedure with excellent results.
@@ -85,12 +84,6 @@ Gummy smile correction typically costs $1,500-3,000. Sometimes insurance covers 
 
 Botox injections into upper lip muscles can reduce muscle pull, decreasing gingival display without surgery. This costs $200-400 per session but needs repeating every 3-4 months. Orthodontic treatment (pushing teeth up and inward) is another option for certain cases but takes 12-24 months.
 
-## Questions to Ask Your Dentist Before Gummy Smile Surgery
-
-Before committing to crown lengthening surgery, have detailed conversations with your dentist about your specific situation. Ask them to identify which factor is causing your gummy smile—is it excess gum tissue, a short upper lip, a hyperactive smile muscle, or a skeletal jaw issue? This determines whether surgery will effectively address your concern, or whether other approaches (like Botox) might work better. Ask to see before-and-after photos of similar cases to understand realistic results for your smile. Ask specifically about what you should expect immediately after surgery: pain level, swelling, activity restrictions, and healing timeline.
-
-Ask about the specific technique they'll use (scalpel versus laser) and what advantages/disadvantages each has. Ask what potential complications exist and how rare they are. For cost clarity, ask for an exact quote including any follow-up visits, and ask whether your insurance might cover part of the cost. Ask about alternatives: if you're concerned about surgery, ask whether Botox or other non-surgical options might work for your situation. Ask how long surgical results last and what percentage of patients maintain their results.
-
 ## Aftercare Instructions to Optimize Surgical Healing
 
 Your recovery experience and final results depend significantly on following proper aftercare. For the first 24-48 hours after surgery, ice your face for 15-minute intervals every 2 hours to reduce swelling—ice is most effective immediately after surgery. Sleep with your head elevated on 3-4 pillows to minimize swelling and discomfort. Pain management matters: take over-the-counter pain relievers as needed (ibuprofen is particularly helpful for reducing inflammation). Use the prescribed antimicrobial rinse exactly as directed—usually twice daily for one week.
@@ -103,7 +96,7 @@ During the first week, avoid hard, hot, or sticky foods; soft foods like yogurt,
 
 Crown lengthening surgery successfully corrects excessive gingival display, revealing more attractive tooth proportions. Recovery is straightforward with minimal discomfort. Results last long-term in 90-95% of cases. Most people report dramatically improved smile confidence and satisfaction with this procedure.
 
-> **Key Takeaway:** Gummy smile surgery reduces excessive gum display, revealing more of your teeth and creating a more balanced smile.
+> **Key Takeaway:** If you show more than 3 millimeters of gum when you smile, you might consider it a "gummy smile." About 10-15% of people have this characteristic, but many more feel self-conscious about gum display when smiling.
 
 ## Related Articles
 

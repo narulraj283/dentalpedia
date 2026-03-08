@@ -20,7 +20,6 @@ references:
   - "Nieri M, Tinterelli E, Mucchino G, Rotolo RP, Franceschetti G, Pini-Prato GP. Periodontal health in patients with orthodontically treated ectopic eruption combined with alveolar ridge fractures. J Clin Periodontol. 2023;50(8):1070-1079."
   - "Thilander B, Svhed O. Orthodontic relapse at different age periods. Semin Orthod. 2023;29(2):110-125."
 ---
-
 ## Why Retention Isn't Optional
 
 Here's the truth your orthodontist will tell you: braces move your teeth, but without retention, your teeth want to move back. Your periodontal ligament (the tissue anchoring your tooth) and your facial muscles remember where your teeth started. Without something holding your teeth in their new position, 85-100% of teeth relapse—some quickly, some slowly, but they move.
@@ -121,21 +120,6 @@ Plus, you avoided 24-36 months of treatment again, metal brackets again, dietary
 
 **Bonded wire fell off but you didn't notice**: You've lost 50-60% of passive retention overnight. Call your orthodontist immediately. The sooner it's rebonded, the less relapse occurs. Every week without it increases relapse risk by 8-10%.
 
-## Questions to Ask Your Orthodontist
-
-Before getting braces off, clarify:
-
-- Which retainer type do you recommend for my specific situation and why?
-- What's the wear schedule for the first 3-6 months?
-- What's the maintenance protocol after that period?
-- How often will bonded retainers need rebonding?
-- What's the cost for each type of retainer?
-- How much relapse should I expect if I miss retainer wear for a few weeks?
-- Are there any signs of bonded retainer failure I should watch for?
-- How do I floss properly with a bonded retainer?
-- What should I do if my removable retainer stops fitting?
-- Can you show me digital photos of successful long-term cases with each retainer type?
-
 ## The Psychology of Permanent Retention
 
 One thing orthodontists don't always discuss: the psychological shift of permanent retention. Your braces came off. You're done with orthodontics. But you're not entirely "done"—you have a lifelong responsibility for retainer wear.
@@ -147,6 +131,9 @@ The mental reframe that helps: "I'm maintaining my investment in my smile." Ever
 ## The Bottom Line
 
 Retention isn't temporary. It's permanent. Your orthodontist spent 24-36 months moving your teeth into perfect position. A few minutes nightly in a retainer keeps all that work from becoming waste. Think of it as maintenance for your smile—much cheaper than re-treating.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

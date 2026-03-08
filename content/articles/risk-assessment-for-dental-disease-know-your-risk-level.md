@@ -32,7 +32,6 @@ references:
   - title: "Page RC, Eke PI. Case definitions for use in population-based surveillance of periodontitis. J Periodontol. 2007;78(7 Suppl):1385-1398."
     url: https://pubmed.ncbi.nlm.nih.gov/17608611
 ---
-
 ## Your Cavity and Gum Disease Risk Is Personal
 
 One dental patient might drink soda daily, brush sporadically, never floss—and never get a cavity. Another patient brushes meticulously, flosses regularly, avoids sugar—and still gets cavities. This isn't fair, but it's reality. Your personal cavity and gum disease risk depends on many factors beyond just your behavior.
@@ -100,14 +99,6 @@ Understanding inherited risk helps explain why prevention sometimes fails despit
 Knowing your risk level helps your dentist recommend proportionate prevention. Low-risk patients don't benefit from expensive, intensive interventions. High-risk patients need more than standard prevention.
 
 Additionally, knowing your risk helps you understand why your dentist makes certain recommendations. If you're told you need more frequent visits, or you need prescription fluoride, it's because your specific risk profile warrants these measures.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about risk assessment for dental disease - know your risk level and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

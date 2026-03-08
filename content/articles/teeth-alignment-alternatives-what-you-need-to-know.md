@@ -16,7 +16,6 @@ references:
   - title: "Lagravère MO, Flores-Mir C. The treatment effects of Invisalign orthodontic aligners: a systematic review. Journal of the American Dental Association. 2005;136(12):1647-1653."
     url: https://pubmed.ncbi.nlm.nih.gov/16383047
 ---
-
 ## You Have Options for Straightening Your Teeth
 
 If you're considering straightening your teeth, the good news is you have choices. You're not limited to one type of treatment. Clear aligners, traditional braces, self-ligating braces, and ceramic braces all work—they just work differently and suit different people.
@@ -125,6 +124,9 @@ Payment plans are available—orthodontists typically allow you to spread paymen
 ## The Real Difference Between Options
 
 All effective orthodontic treatments straighten teeth. The differences are in invisibility, convenience, compliance requirements, and treatment speed. No one option is objectively "best"—the best one is the one that matches your situation and priorities.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

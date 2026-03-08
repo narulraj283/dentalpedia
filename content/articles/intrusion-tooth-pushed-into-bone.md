@@ -18,7 +18,6 @@ references:
   - title: "Orthodontic repositioning of intruded permanent teeth"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26439738
 ---
-
 A tooth intrusion is a serious type of injury where a tooth is forcefully pushed up into the bone of your jaw. Unlike a knocked-out tooth (avulsion), an intruded tooth remains in your mouth but appears shorter because part of it has been driven inside the socket. This injury requires immediate professional care because the nerve, blood supply, and bone around the tooth are all damaged.
 
 ## How Intrusion Happens
@@ -72,12 +71,6 @@ Intrusion injuries are often accidents that are difficult to prevent completely.
 ## Psychological Impact
 
 Significant facial trauma can be psychologically difficult. The sudden injury, the changed appearance (shorter tooth), the need for multiple appointments and treatment, and uncertainty about the outcome create stress. Mental health support is appropriate if you're struggling with trauma-related anxiety after a significant injury.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about intrusion tooth pushed into bone and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

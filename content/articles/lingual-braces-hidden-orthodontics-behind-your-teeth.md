@@ -32,7 +32,6 @@ references:
   - title: "Post-Treatment Stability and Retention Strategies in Lingual Orthodontics"
     url: https://www.ncbi.nlm.nih.gov/pubmed/28412738
 ---
-
 ## The Evolution of Invisible Braces
 
 Lingual braces have come a long way since their introduction in the 1970s. What started as an experimental concept has evolved into a sophisticated, precisely calibrated orthodontic system. Today's lingual braces use computer-designed custom brackets, digital treatment planning, and advanced bonding techniques that deliver results comparable to conventional braces—without anyone knowing you're in treatment.

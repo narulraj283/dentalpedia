@@ -28,7 +28,6 @@ references:
   - title: "Motivation and Behavior Change in Preventive Dentistry"
     url: https://www.ncbi.nlm.nih.gov/pubmed/52345678
 ---
-
 ## The Three Essentials for Healthy Teeth
 
 Healthy teeth depend on three things you control: brushing, flossing, and diet. Combined with regular professional visits, these simple practices prevent most cavities and gum disease. You've probably heard this before. The challenge isn't knowing what to do—it's actually doing it consistently.

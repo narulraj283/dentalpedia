@@ -22,12 +22,11 @@ references:
   - "Sharma NC, Galustians HJ. Plaque Removal by Proper Brushing. International Dental Journal. 2016;66(3):159-168."
   - "Sowinski JA, Cummins D. Plaque Removal Potential of a Powered Versus Manual Toothbrush. Journal of Periodontal Research. 2008;43(4):395-402."
 ---
-
 ## Why Brushing Technique Matters
 
-Most people brush wrong. Wrong angle, too much force, too fast, skipping areas. Evidence-based brushing removes more plaque, prevents gum recession, and prevents tooth wear. Understanding the "why" behind proper technique—why angle matters, why gentle is better than aggressive, why two minutes beats one—helps you brush better and prevents long-term problems. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+Most people brush wrong. Wrong angle, too much force, too fast, skipping areas. Evidence-based brushing removes more plaque, prevents gum recession, and prevents tooth wear. Understanding the "why" behind proper technique—why angle matters, why gentle is better than aggressive, why two minutes beats one—helps you brush better and prevents long-term problems.
 
-The Modified Bass technique (most recommended) combines how to target the gum line with practical, everyday brushing. When people stick to proven techniques, cavities decrease, gum disease decreases, and serious periodontal disease decreases. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+The Modified Bass technique (most recommended) combines how to target the gum line with practical, everyday brushing. When people stick to proven techniques, cavities decrease, gum disease decreases, and serious periodontal disease decreases.
 
 ## The Right Way: Modified Bass Technique
 
@@ -123,9 +122,10 @@ Evidence-based brushing technique emphasizes the Modified Bass method with 45-de
 
 Systematic brushing order ensures complete coverage of all tooth surfaces. Soft to medium bristles, small brush head size, and toothbrush replacement every 3-4 months optimize effectiveness and safety. Education about these evidence-based techniques, combined with simple tools (timers, pressure sensors), dramatically improves patient compliance and clinical outcomes. Proper brushing technique remains the cornerstone of individual oral health maintenance and the foundation upon which all other plaque removal (flossing, professional cleaning) and prevention efforts are built.
 
-## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Related reading: [Your Guide to Mouth Rinse](/article/benefits-of-mouth-rinse-benefits.html) and [The Right Way to Brush Your Teeth](/article/how-to-teeth-brushing-technique.html).
+
+## Conclusion
 
 > **Key Takeaway:** Staying informed about teeth brushing technique helps you work with your dentist to choose the best path for your oral health. Ask questions at your next visit about what options suit your needs.
 

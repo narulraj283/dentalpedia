@@ -36,7 +36,6 @@ subcategory: Preventive Overview
 subcategory_slug: overview-preventive
 title: 'Herbal Mouthwashes: Clinical Evidence, Efficacy'
 ---
-
 ## Why People Choose Herbal Mouthwashes
 
 For thousands of years, people around the world have used plants to care for their teeth and gums. From neem in India to herbal rinses in Europe, these natural remedies have been passed down through generations. Today, more people are interested in these plant-based options because they want alternatives to conventional mouthwashes. Many of you choose herbal rinses because you're concerned about side effects like staining your teeth or changing how food tastes. You might also prefer them for environmental reasons or because they align with your cultural beliefs about health.

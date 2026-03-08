@@ -32,7 +32,6 @@ references:
   - title: "Patient outcomes and satisfaction with early detection-based caries management protocols"
     url: https://pubmed.ncbi.nlm.nih.gov/27550098
 ---
-
 When your dentist finds a cavity, you probably assume that means you need a filling. But modern dentistry has discovered something revolutionary: many cavities don't need fillings at all. In fact, the best time to treat a cavity is before it becomes a cavity in the traditional sense.
 
 Early detection of cavities—before they've completely eaten through your tooth—opens up completely different treatment options. Instead of drilling and filling, your dentist might simply apply a protective coating to stop the decay process and let your tooth repair itself. This shift from treating advanced cavities to catching and stopping early ones is changing how dentists work and what patients experience in the dental chair.

@@ -30,7 +30,6 @@ references:
   - title: "Predictive Modeling of Periodontitis Progression Using Multilevel Risk Assessment"
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/jcpe.13077
 ---
-
 ## The Journey from Healthy Gums to Gum Disease
 
 Your gums don't go from healthy to diseased overnight. Gum disease progresses through predictable stages, each with specific warning signs. Understanding this progression helps you catch the problem early—before irreversible bone loss occurs. The critical turning point is when inflammation crosses from your gums into the deeper attachment structures. Once that happens, the damage becomes permanent.

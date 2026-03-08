@@ -46,7 +46,6 @@ subcategory: Oral Health Conditions Overview
 subcategory_slug: overview-oral-conditions
 title: Pfapa Syndrome Periodic Fever and Ulcers
 ---
-
 ## What Is PFAPA Syndrome?
 
 PFAPA syndrome—the acronym stands for Periodic Fever, Aphthous ulcers, Pharyngitis, and Adenitis—is a condition that causes your child to have regular episodes of fever, canker sores in the mouth, sore throat, and swollen lymph nodes in the neck. The most striking feature is that these episodes come in a predictable pattern, usually every 4-6 weeks. If your child's symptoms follow this calendar-like cycle, that's actually helpful for diagnosis because it shows this is PFAPA rather than random infections.

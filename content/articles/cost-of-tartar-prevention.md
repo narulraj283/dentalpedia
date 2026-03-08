@@ -22,7 +22,6 @@ references:
   - "Winn DM. Epidemiology of oral and pharyngeal cancers. J Public Health Dent. 2007;67(1):32-37."
   - "Kinane D, Lappin DF. Immune processes in periodontal disease. J Clin Periodontol. 2002;29(s3):198-206."
 ---
-
 ## What Is Tartar and Why It Matters
 
 Tartar—also called dental calculus—is hardened plaque that builds up on your teeth. If you've ever felt that rough coating on your teeth, especially near your gum line, you've felt tartar. Unlike the soft plaque you can brush away, tartar is so hard that your toothbrush can't remove it. About 6 in 10 adults deal with tartar, and it's one of the easiest oral health problems to prevent with the right habits.
@@ -81,7 +80,7 @@ Get appointment reminders through text or email—they increase your follow-up v
 
 Preventing tartar is the smartest investment you can make in your oral health. Whether you spend $400 to $600 per year on prevention or $50,000 to $75,000 on serious gum disease treatment later, the choice is clear. Regular brushing with the right technique, daily use of tartar-fighting toothpaste, professional cleanings every six months, and insurance coverage combine to keep your teeth healthy for life.
 
-> **Key Takeaway:** Simple steps to prevent tartar buildup and keep your teeth healthy for less money than treating advanced gum disease.
+> **Key Takeaway:** Tartar—also called dental calculus—is hardened plaque that builds up on your teeth.
 
 ## Related Articles
 

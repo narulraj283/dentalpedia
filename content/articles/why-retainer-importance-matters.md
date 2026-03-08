@@ -32,7 +32,6 @@ references:
   - title: "Genetically Determined Skeletal Growth and Relapse Risk"
     url: "https://pubmed.ncbi.nlm.nih.gov/34567939"
 ---
-
 Congratulations on finishing your orthodontic treatment! You've invested time, money, and effort to straighten your teeth and achieve your dream smile. Now comes a crucial phase that many people underestimate: retention.
 
 Your retainer is not a temporary device you'll eventually stop wearing. Instead, it's a permanent part of your dental care that keeps your teeth from drifting back to where they started. Understanding why retainers matter and how to use them properly ensures that your beautiful smile lasts a lifetime.

@@ -1,38 +1,48 @@
 ---
-title: "Dental Anesthesia Types and Delivery Methods:"
-slug: timeline-for-anesthesia-types
 category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: "Comprehensive classification of dental anesthesia modalities including mechanism of action, clinical application, efficacy profiles, and appropriate."
 date: 2026-03-05
+excerpt: Comprehensive classification of dental anesthesia modalities including mechanism
+  of action, clinical application, efficacy profiles, and appropriate.
 read_time: 12 min
+references:
+- title: 'Malamed SF. The gow-gates mandibular block: evaluation after 4,275 injections.
+    Oral Surg Oral Med Oral Pathol. 1981;51(5):463-467.'
+  url: https://pubmed.ncbi.nlm.nih.gov/6939102
+- title: 'Cassidy JP, et al. Efficacy and safety of nitrous oxide sedation in dentistry:
+    a systematic review. J Dent. 2016;50:100-110.'
+  url: https://pubmed.ncbi.nlm.nih.gov/26974363
+- title: 'Hersh EV, et al. Anesthetic efficacy and cardiovascular effects of high-concentration
+    epinephrine-containing local anesthetics: a meta-analysis. J Am Dent Assoc. 2013;144(11):1247-1253.'
+  url: https://pubmed.ncbi.nlm.nih.gov/24170994
+- title: Bailey PL, et al. Frequent hypoxemia and apnea after sedation with midazolam
+    and fentanyl. Anesthesiology. 1990;73(5):826-830.
+  url: https://pubmed.ncbi.nlm.nih.gov/2240676
+- title: Käyser SA, et al. Pharmacokinetics of articaine in plasma and saliva after
+    intravenous and local administration. Arch Oral Biol. 2001;46(12):1159-1167.
+  url: https://pubmed.ncbi.nlm.nih.gov/11600255
+- title: 'Covino BG, Vassallo HG. Local anesthetics: mechanisms of action and clinical
+    use. Grune & Stratton; 1976.'
+  url: https://pubmed.ncbi.nlm.nih.gov/1009024
+- title: Chambers DW. Preoperative and postoperative assessment of the anxious patient.
+    Dent Clin North Am. 2003;47(2):185-200.
+  url: https://pubmed.ncbi.nlm.nih.gov/12742398
+- title: ASA Committee on Standards and Practice Parameters. Standards for basic anesthetic
+    monitoring. Anesthesiology. 2015;126(1):71-79.
+  url: https://pubmed.ncbi.nlm.nih.gov/25275319
+- title: Scarparo RK, et al. The impact of different anesthetic techniques on periodontal
+    outcomes during dentoalveolar procedures. Quintessence Int. 2015;46(10):875-882.
+  url: https://pubmed.ncbi.nlm.nih.gov/26259065
+- title: Naitoh H, et al. Efficacy of mandibular block versus infiltration anesthesia
+    in patients with irreversible pulpitis. J Endod. 2006;32(11):1060-1063.
+  url: https://pubmed.ncbi.nlm.nih.gov/17055905
+reviewed: true
 reviewer_specialty: Dental Anesthesia and Pain Management
+slug: timeline-for-anesthesia-types
 subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
-reviewed: true
-references:
-  - title: "Malamed SF. The gow-gates mandibular block: evaluation after 4,275 injections. Oral Surg Oral Med Oral Pathol. 1981;51(5):463-467."
-    url: https://pubmed.ncbi.nlm.nih.gov/6939102
-  - title: "Cassidy JP, et al. Efficacy and safety of nitrous oxide sedation in dentistry: a systematic review. J Dent. 2016;50:100-110."
-    url: https://pubmed.ncbi.nlm.nih.gov/26974363
-  - title: "Hersh EV, et al. Anesthetic efficacy and cardiovascular effects of high-concentration epinephrine-containing local anesthetics: a meta-analysis. J Am Dent Assoc. 2013;144(11):1247-1253."
-    url: https://pubmed.ncbi.nlm.nih.gov/24170994
-  - title: "Bailey PL, et al. Frequent hypoxemia and apnea after sedation with midazolam and fentanyl. Anesthesiology. 1990;73(5):826-830."
-    url: https://pubmed.ncbi.nlm.nih.gov/2240676
-  - title: "Käyser SA, et al. Pharmacokinetics of articaine in plasma and saliva after intravenous and local administration. Arch Oral Biol. 2001;46(12):1159-1167."
-    url: https://pubmed.ncbi.nlm.nih.gov/11600255
-  - title: "Covino BG, Vassallo HG. Local anesthetics: mechanisms of action and clinical use. Grune & Stratton; 1976."
-    url: https://pubmed.ncbi.nlm.nih.gov/1009024
-  - title: "Chambers DW. Preoperative and postoperative assessment of the anxious patient. Dent Clin North Am. 2003;47(2):185-200."
-    url: https://pubmed.ncbi.nlm.nih.gov/12742398
-  - title: "ASA Committee on Standards and Practice Parameters. Standards for basic anesthetic monitoring. Anesthesiology. 2015;126(1):71-79."
-    url: https://pubmed.ncbi.nlm.nih.gov/25275319
-  - title: "Scarparo RK, et al. The impact of different anesthetic techniques on periodontal outcomes during dentoalveolar procedures. Quintessence Int. 2015;46(10):875-882."
-    url: https://pubmed.ncbi.nlm.nih.gov/26259065
-  - title: "Naitoh H, et al. Efficacy of mandibular block versus infiltration anesthesia in patients with irreversible pulpitis. J Endod. 2006;32(11):1060-1063."
-    url: https://pubmed.ncbi.nlm.nih.gov/17055905
+title: Dental Anesthesia Types and Delivery Methods
 ---
-
 ## Understanding Your Anesthesia Options
 
 Your dentist has several ways to keep you numb and comfortable during dental work. Some options are just simple topical gels, while others involve medication delivered by injection or breathing it in. Some patients need anxiety-reducing medication along with numbing, and a few situations require deeper sedation. Understanding your options helps you know what to expect and feel more confident about your appointment. [Learn about dental anxiety in children to help young](/article/dental-anxiety-in-children-overcoming-fear.html) if you have anxious family members.

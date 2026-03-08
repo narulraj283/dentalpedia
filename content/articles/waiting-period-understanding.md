@@ -32,7 +32,6 @@ references:
   - title: "Emergency Dental Conditions and Insurance Coverage Exceptions"
     url: https://pubmed.ncbi.nlm.nih.gov/24578234
 ---
-
 ## What's a Waiting Period and Why Does It Matter?
 
 Getting a new dental insurance plan feels exciting until you find out you can't use most of your coverage right away. That's where waiting periods come in. A waiting period is essentially a built-in delay.

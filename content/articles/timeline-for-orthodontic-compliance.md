@@ -1,38 +1,53 @@
 ---
-title: "Timeline for Orthodontic Compliance: Elastic Wear,"
-slug: timeline-for-orthodontic-compliance
 category: Orthodontics
 category_slug: orthodontics
-excerpt: "Comprehensive guide to measuring and improving orthodontic patient compliance with focus on elastic wear patterns, aligner adherence monitoring, and."
 date: 2026-03-05
+excerpt: Comprehensive guide to measuring and improving orthodontic patient compliance
+  with focus on elastic wear patterns, aligner adherence monitoring, and.
 read_time: 11 min
+references:
+- title: Kocadereli I. Compliance with extraoral appliances in orthodontic treatment.
+    Angle Orthod. 1999;69(5):517-522.
+  url: https://pubmed.ncbi.nlm.nih.gov/10515568
+- title: 'O''Brien K, Wright J, Conboy F, Macfarlane T, Mandall N, Lewis D, Chadwick
+    S. Effectiveness of early orthodontic treatment with the Twin-block appliance:
+    A multicenter, randomized, controlled trial. Part 1: Dental and skeletal effects.
+    Am J Orthod Dentofacial Orthop. 2003;124(3):234-243.'
+  url: https://pubmed.ncbi.nlm.nih.gov/12970657
+- title: 'Papageorgiou SN, Konstantinidis K, Papadopoulou K. Clinical effectiveness
+    of Invisalign system: A systematic review. Prog Orthod. 2016;17(1):1-11.'
+  url: https://pubmed.ncbi.nlm.nih.gov/26852946
+- title: Marzouk ES, Sayed NE, Hassan AH. Evaluation of the effectiveness of two types
+    of elastomeric chains in closed-coil spring application. Angle Orthod. 2014;84(1):137-143.
+  url: https://pubmed.ncbi.nlm.nih.gov/23826799
+- title: Prochaska JO, DiClemente CC. Stages of change in the modification of problem
+    behaviors. Prog Behav Modif. 1992;28:183-218.
+  url: https://pubmed.ncbi.nlm.nih.gov/1579496
+- title: Pacheco MC, Finoti LS, Pereira AC, Machado FC, Fermiano D, Begum S, Figueiredo
+    FW, Nataraj S. Are orthodontically moved teeth more susceptible to caries and
+    gingival inflammation? A systematic review and meta-analysis. Angle Orthod. 2016;86(1):18-31.
+  url: https://pubmed.ncbi.nlm.nih.gov/25978480
+- title: Roberge RJ. Patient compliance issues in the treatment of acute and chronic
+    infections in primary care. Curr Med Res Opin. 2005;21(8):1253-1262.
+  url: https://pubmed.ncbi.nlm.nih.gov/16083536
+- title: 'Flores-Mir C, Major MP, Major PW. Assessment of deleterious oral habits
+    in children and their association with dental and skeletal anomalies: A systematic
+    review. J Dent Child. 2006;73(2):108-118.'
+  url: https://pubmed.ncbi.nlm.nih.gov/16948383
+- title: Al-Nimri K, Suleiman MK, Al-Ajlouni R. Orthodontic treatment outcomes in
+    extraction versus non-extraction protocols. Angle Orthod. 2015;85(2):208-217.
+  url: https://pubmed.ncbi.nlm.nih.gov/25072385
+- title: Chapman JA, Roeder L, May C. Systematic review of the quality of randomized
+    controlled trials for fixed and removable orthodontic appliances. Am J Orthod
+    Dentofacial Orthop. 2011;139(2):e67-e72.
+  url: https://pubmed.ncbi.nlm.nih.gov/21300233
+reviewed: true
 reviewer_specialty: Orthodontics
+slug: timeline-for-orthodontic-compliance
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
-reviewed: true
-references:
-  - title: "Kocadereli I. Compliance with extraoral appliances in orthodontic treatment. Angle Orthod. 1999;69(5):517-522."
-    url: https://pubmed.ncbi.nlm.nih.gov/10515568
-  - title: "O'Brien K, Wright J, Conboy F, Macfarlane T, Mandall N, Lewis D, Chadwick S. Effectiveness of early orthodontic treatment with the Twin-block appliance: A multicenter, randomized, controlled trial. Part 1: Dental and skeletal effects. Am J Orthod Dentofacial Orthop. 2003;124(3):234-243."
-    url: https://pubmed.ncbi.nlm.nih.gov/12970657
-  - title: "Papageorgiou SN, Konstantinidis K, Papadopoulou K. Clinical effectiveness of Invisalign system: A systematic review. Prog Orthod. 2016;17(1):1-11."
-    url: https://pubmed.ncbi.nlm.nih.gov/26852946
-  - title: "Marzouk ES, Sayed NE, Hassan AH. Evaluation of the effectiveness of two types of elastomeric chains in closed-coil spring application. Angle Orthod. 2014;84(1):137-143."
-    url: https://pubmed.ncbi.nlm.nih.gov/23826799
-  - title: "Prochaska JO, DiClemente CC. Stages of change in the modification of problem behaviors. Prog Behav Modif. 1992;28:183-218."
-    url: https://pubmed.ncbi.nlm.nih.gov/1579496
-  - title: "Pacheco MC, Finoti LS, Pereira AC, Machado FC, Fermiano D, Begum S, Figueiredo FW, Nataraj S. Are orthodontically moved teeth more susceptible to caries and gingival inflammation? A systematic review and meta-analysis. Angle Orthod. 2016;86(1):18-31."
-    url: https://pubmed.ncbi.nlm.nih.gov/25978480
-  - title: "Roberge RJ. Patient compliance issues in the treatment of acute and chronic infections in primary care. Curr Med Res Opin. 2005;21(8):1253-1262."
-    url: https://pubmed.ncbi.nlm.nih.gov/16083536
-  - title: "Flores-Mir C, Major MP, Major PW. Assessment of deleterious oral habits in children and their association with dental and skeletal anomalies: A systematic review. J Dent Child. 2006;73(2):108-118."
-    url: https://pubmed.ncbi.nlm.nih.gov/16948383
-  - title: "Al-Nimri K, Suleiman MK, Al-Ajlouni R. Orthodontic treatment outcomes in extraction versus non-extraction protocols. Angle Orthod. 2015;85(2):208-217."
-    url: https://pubmed.ncbi.nlm.nih.gov/25072385
-  - title: "Chapman JA, Roeder L, May C. Systematic review of the quality of randomized controlled trials for fixed and removable orthodontic appliances. Am J Orthod Dentofacial Orthop. 2011;139(2):e67-e72."
-    url: https://pubmed.ncbi.nlm.nih.gov/21300233
+title: 'Timeline for Orthodontic Compliance: Elastic Wear'
 ---
-
 ## Introduction
 
 Here's a truth about braces and aligners: your orthodontist only has you in the chair for about 20-30 minutes every few weeks. The rest depends on you. How well you wear your elastics (rubber bands), keep your aligners in, brush your teeth, and show up for appointments makes the biggest difference in how fast your treatment finishes and how good your results look. Patient compliance is really just doing the things your orthodontist asks—and surprisingly, it has a huge impact on your success.

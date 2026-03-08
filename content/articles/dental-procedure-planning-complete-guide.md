@@ -20,7 +20,6 @@ references:
   - "Manappallil JJ. Clinical Operative Dentistry. 4th ed. New Delhi: Elsevier; 2022."
   - "Glick M, et al. The New American Dental Association Oral Health-Related Quality of Life Instrument. J Am Dent Assoc. 2023;154(2):78-88."
 ---
-
 ## Why Treatment Planning Matters
 
 Good treatment planning is the difference between a fragmented approach ("Let's fix this cavity today") and a strategic one ("Here's how we're going to improve your oral health over the next year"). A good plan prevents surprises, sequences treatment efficiently, and ensures you get the right care in the right order.
@@ -96,21 +95,13 @@ Completing treatment doesn't conclude your dental care. You need ongoing mainten
 
 A patient with controlled gum disease might need cleanings every 3 months indefinitely. A cavity-prone patient might need more frequent fluoride applications. Someone at low risk might need annual cleanings only.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about dental procedure planning complete guide and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
-
 ## Conclusion
 
 Comprehensive treatment planning is systematic: thorough diagnosis, disease control first, restorative treatment second, cosmetic refinement last. Dentists present options and discuss costs and timelines. You participate in the decision-making.
 
 Plans adjust as treatment progresses. Maintenance after treatment ensures long-term success. A good plan makes you a partner in improving your oral health systematically rather than treating isolated problems reactively.
 
-> **Key Takeaway:** Good treatment planning is the difference between a fragmented approach ('Let's fix this cavity today') and a strategic one ('Here's how we're going.
+> **Key Takeaway:** Good treatment planning is the difference between a fragmented approach ("Let's fix this cavity today") and a strategic one ("Here's how we're going to improve your oral health over the next year").
 
 ## Related Articles
 
@@ -118,5 +109,5 @@ Plans adjust as treatment progresses. Maintenance after treatment ensures long-t
 - [A Patient's Guide to Bleeding Gums Solutions](/article/best-practices-for-bleeding-gums-solutions.html)
 - [Treating Mouth and Tooth Injuries: Complete Guide](/article/mouth-injuries-treatment-complete-guide.html)
 - [Dental Crown Longevity](/article/crown-longevity-expected-lifespan.html)
-- [The Critical Role of Saliva in Oral Health: Functions,](/article/timeline-for-saliva-importance.html)
+- [The Critical Role of Saliva in Oral Health: Functions](/article/timeline-for-saliva-importance.html)
 

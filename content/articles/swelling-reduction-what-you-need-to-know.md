@@ -32,7 +32,6 @@ references:
   - title: "Oderji M, Meling T. Prevention and management of complications in orthognathic surgery. Oral and Maxillofacial Surgery Clinics of North America. 2016;28(4):507-519."
     url: https://pubmed.ncbi.nlm.nih.gov/27544569
 ---
-
 ## Your Action Plan to Minimize Post-Operative Swelling
 
 Swelling after oral surgery is inevitable, but you can significantly reduce how much you swell. Studies show that following multiple reduction strategies reduces swelling by 60-75% compared to doing nothing.
@@ -89,12 +88,6 @@ Certain foods reduce inflammation while others increase it.
 ## Activity Restrictions: Rest Is Medicine
 
 Strenuous activity increases blood pressure and blood flow to your head, increasing swelling dramatically. Avoid vigorous exercise, heavy lifting, bending, and sweating activities for the first week.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss swelling reduction what you need to know, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

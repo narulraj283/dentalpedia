@@ -24,14 +24,13 @@ subcategory: Sedation & Pain Management
 subcategory_slug: sedation-pain-management
 title: 'Anxiety Management in Elderly Patients: Safe Sedation'
 ---
-
 ## Dental Anxiety Gets Harder with Age
 
 About 1 in 10 to 1 in 5 older adults feel anxious about dental visits. This is the same percentage as younger people, but older patients have extra challenges. As your body ages, medicines work differently.
 
-You might be taking many medications that could interact with sedation. These differences mean your dentist needs to be extra careful when helping you feel calm. For more details, see our guide on [Conscious Sedation in Dentistry](/article/conscious-sedation-twilight-sleep-benefits.html).
+You might be taking many medications that could interact with sedation. These differences mean your dentist needs to be extra careful when helping you feel calm.
 
-Many older adults avoid the dentist because of anxiety. This is unfortunate because regular dental care becomes even more important as you age. Missing teeth, gum disease, and tooth decay affect your ability to eat, talk clearly, and feel confident. For more details, see our guide on [When Your Child Screams at the Dentist](/article/dental-anxiety-in-children-overcoming-fear.html).
+Many older adults avoid the dentist because of anxiety. This is unfortunate because regular dental care becomes even more important as you age. Missing teeth, gum disease, and tooth decay affect your ability to eat, talk clearly, and feel confident.
 
 ## How Your Body Processes Medicine Differently
 
@@ -152,6 +151,9 @@ Your dentist wants you to feel safe and comfortable. Tell them your fears honest
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
+
+Related reading: [Post Traumatic Stress and Dentistry](/article/post-traumatic-stress-and-dentistry.html) and [Conscious Sedation in Dentistry: Pharmacology, Safety](/article/conscious-sedation-twilight-sleep-benefits.html).
+
 ## Conclusion
 
 Dental anxiety in older adults requires special care because medicine works differently in aging bodies. Your liver processes drugs slowly. Your brain is more sensitive. You might take other medicines that interact dangerously.
@@ -160,7 +162,7 @@ Non-drug methods should be first choice: tell-show-do, gradual exposure, comfort
 
 Honest communication with your dentist about your anxiety, medications, and health conditions allows safe treatment planning. You deserve dental care that keeps you healthy. With thoughtful anxiety management, that care can be calm, safe, and effective.
 
-> **Key Takeaway:** About 1 in 10 to 1 in 5 older adults feel anxious about dental visits.
+> **Key Takeaway:** This is the same percentage as younger people, but older patients have extra challenges. As your body ages, medicines work differently.
 
 ## Related Articles
 

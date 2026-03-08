@@ -16,7 +16,6 @@ references:
   - "Hegedus C, Bistey T, Flora-Nagy E, Koczor M, Borsodi B. Atomic force microscopy study of bleaching effects on enamel. J Dent. 1999;27(7):509-515."
   - "Dahl JE, Pallesen U. Tooth bleaching--a critical review. Crit Rev Oral Biol Med. 2003;14(4):292-304."
 ---
-
 ## Enamel Damage from Excessive Bleaching
 
 Tooth enamel is the hardest substance in your body, but bleaching chemicals can measurably reduce its hardness. Research shows that a single professional bleaching session reduces enamel surface hardness by 7-11%. Multiple sessions create cumulative damage—four sessions (typical for in-office bleaching) produce 15-20% hardness reduction.

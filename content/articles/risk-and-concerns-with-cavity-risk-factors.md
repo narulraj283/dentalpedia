@@ -42,7 +42,6 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: Risk and Concerns with Cavity Risk Factors
 ---
-
 ## Why Your Cavity Risk Might Be Higher (or Lower) Than You Think
 
 Cavities don't just happen randomly. Your individual risk depends on a combination of factors—some you control, some you don't. Understanding what actually affects your cavity risk helps you focus on what you can change and accept what you can't. However, the factors that influence cavity risk are more complex and unpredictable than your dentist's simple "low," "medium," or "high" categorization might suggest.

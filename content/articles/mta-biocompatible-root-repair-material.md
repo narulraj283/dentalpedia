@@ -28,7 +28,6 @@ references:
   - title: "Clinical Success Rates of MTA in Endodontic Treatment"
     url: https://www.ncbi.nlm.nih.gov/pubmed/23045839
 ---
-
 If you've been told you need a root canal or that you have a crack or perforation in a tooth's root, your dentist might recommend a special material called MTA (mineral trioxide aggregate). You might wonder what it is and why it matters, so let's break it down in simple terms. MTA is a repair material that's revolutionized how dentists fix serious problems with teeth. Instead of just sealing the problem, it actually helps your mouth heal and grow new bone and cementum—essentially helping your tooth repair itself from the inside out.
 
 ## What Makes MTA Different

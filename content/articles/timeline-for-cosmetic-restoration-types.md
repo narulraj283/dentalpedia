@@ -39,7 +39,6 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Cosmetic Restoration Options Compared
 ---
-
 ## Your Cosmetic Options Explained
 
 If you want to improve your smile, you have several choices depending on what bothers you and how long you want your results to last. You can try whitening if discoloration is your main concern, bonding for small chips and gaps, veneers for moderate improvements, or crowns for major changes. Each option has different costs, timelines, and how long they last. Let's walk through each one so you can decide what makes sense for you.
@@ -83,12 +82,6 @@ If you're planning several cosmetic improvements, the order matters. Do whitenin
 Pick whitening if you just want to lighten your smile and don't mind repeating treatment every year or so. Choose bonding for small single-tooth problems on a budget, accepting that you'll probably need touch-ups in 5-7 years. Go with veneers if you want beautiful cosmetics with 10-15 year longevity and can accept minimal tooth preparation.
 
 Use inlays/onlays for back tooth cavities where you want superior longevity compared to composite. Reserve crowns for situations with significant tooth damage or after root canal therapy when the tooth truly needs full coverage. Learn more about [Anterior Guidance Incisor Controlling Bite](/article/anterior-guidance-incisor-controlling-bite.html) to understand how tooth position affects your overall bite.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for cosmetic restoration types, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

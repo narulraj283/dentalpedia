@@ -39,7 +39,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Ultrasonic Scaling Effectiveness in Calculus Removal
 ---
-
 ## What Is Ultrasonic Scaling and Why Your Dentist Might Use It
 
 When you go in for a professional cleaning, your dentist or hygienist might use a small, vibrating tool that feels nothing like the old-fashioned scraping sensation you might remember. That tool is called an ultrasonic scaler, and it's become the go-to method for removing buildup from your teeth—especially the stubborn calculus (tartar) that brushing alone can't touch. Instead of using manual hand instruments that require repetitive scraping motions, ultrasonic scalers use rapid vibrations to break apart and remove calculus much more efficiently.

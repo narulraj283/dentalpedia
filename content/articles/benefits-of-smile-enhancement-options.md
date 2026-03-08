@@ -20,16 +20,15 @@ references:
   - Kern M, et al. All-ceramic fixed partial dentures. Curr Opin Cosmetic Dent. 1997;4:69-80.
   - Sorensen JA, et al. Comparative fit of cast and computer-milled full-contour crowns. J Prosthet Dent. 2007;98(2):125-131.
 ---
-
 ## Professional Teeth Whitening: Quick and Dramatic
 
 Professional whitening done in your dentist's office uses stronger bleach than anything you can buy at home, so results happen fast. A single 60-minute appointment typically lightens teeth by five to ten shades on the professional shade guide. That's remarkably fast and dramatic. Your dentist applies protective barriers to your gums, applies the whitening gel to your teeth, lets it work for 15 to 20 minutes, rinses it off, and repeats the process three or four times.
 
-You might experience some temporary sensitivity during or shortly after treatment, but it resolves within 24 to 48 hours. The downside: results typically last three to six months depending on diet and habits (coffee, wine, and tobacco staining fade faster). You'll probably need touch-up appointments annually, costing about 300 to 600 dollars per session. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
+You might experience some temporary sensitivity during or shortly after treatment, but it resolves within 24 to 48 hours. The downside: results typically last three to six months depending on diet and habits (coffee, wine, and tobacco staining fade faster). You'll probably need touch-up appointments annually, costing about 300 to 600 dollars per session.
 
 At-home whitening uses lower concentrations of bleach (10 to 22% carbamide peroxide) that you apply in custom-fitted trays over two to four weeks. Results are less dramatic per week but more gradual, which many people prefer. It costs about 300 to 400 dollars initially, plus 50 to 100 dollars for periodic refill gel.
 
-Results last longer—typically six to twelve months—making it more economical long-term. The tradeoff is patience: you're waiting weeks for the final result instead of getting immediate dramatic whitening. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
+Results last longer—typically six to twelve months—making it more economical long-term. The tradeoff is patience: you're waiting weeks for the final result instead of getting immediate dramatic whitening.
 
 ## Composite Bonding: Quick Fixes for Minor Problems
 
@@ -75,19 +74,8 @@ Smile enhancement isn't just about money—it's about commitment. Whitening resu
 
 Orthodontics requires retainer wear forever. Implants require excellent oral hygiene. You're not just paying for treatment; you're committing to maintenance. But for people who follow through, the rewards—improved appearance, better confidence, better quality of life—absolutely justify it.
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+Related reading: [Understanding Gummy Smile Fix for Better Dental Health](/article/benefits-of-gummy-smile-fix.html) and [Making Short Front Teeth Longer](/article/incisor-lengthening-cosmetic-extension-procedures.html).
 
 ## Conclusion
 
@@ -95,7 +83,7 @@ Smile enhancement offers multiple options at various price points. Professional 
 
 Porcelain veneers provide superior esthetics for front teeth. Orthodontics creates the foundation for optimal results. Strategic sequencing and careful planning ensure you achieve your smile goals efficiently. Your dentist can guide you toward the combination of treatments and timeline that works for your specific situation and goals.
 
-> **Key Takeaway:** Professional whitening done in your dentist's office uses stronger bleach than anything you can buy at home, so results happen fast. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** A single 60-minute appointment typically lightens teeth by five to ten shades on the professional shade guide. That's remarkably fast and dramatic.
 
 ## Related Articles
 

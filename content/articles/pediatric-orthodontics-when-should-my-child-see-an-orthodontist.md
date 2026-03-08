@@ -41,7 +41,6 @@ subcategory: Pediatric Overview
 subcategory_slug: overview-peds
 title: Pediatric Orthodontics When Should My Child See an
 ---
-
 ## When Should Your Child See an Orthodontist?
 
 Most children don't need braces until their permanent teeth come in, but the American Association of Orthodontists recommends that all children have an orthodontic evaluation by age 7. This doesn't mean every 7-year-old needs treatment—many won't need anything at all. The early evaluation lets the orthodontist spot problems early when they might be easier to fix. Some problems in young children can be prevented from getting worse, and early treatment might make later braces treatment shorter or less complicated.

@@ -11,7 +11,6 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 reviewed: true
 ---
-
 ## What Is Tooth Contouring?
 
 Tooth contouring (also called enameloplasty) is selectively removing small amounts of tooth enamel to reshape and smooth teeth. Unlike most dental procedures that add material, this one carefully removes just enough enamel to improve appearance.

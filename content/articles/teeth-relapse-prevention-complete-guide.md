@@ -32,7 +32,6 @@ references:
   - title: "Renkema AM, Sips ET, Bronkhorst E, Kuijpers-Jagtman AM. A survey on orthodontic retention procedures in the Netherlands. Eur J Orthod. 2009;31(4):432-437."
     url: https://pubmed.ncbi.nlm.nih.gov/19487214
 ---
-
 ## Why Your Teeth Want to Go Back: Understanding Relapse
 
 After your braces come off, your teeth have an annoying tendency to drift back toward their original positions. This process, called relapse, happens because the tissues surrounding your teeth have biological "memory" of where they used to be.
@@ -114,6 +113,9 @@ Growing patients completing treatment before growth finishes face additional rel
 Your orthodontic success ultimately depends not on how perfectly your orthodontist moved your teeth during treatment, but on how well YOU maintain retention afterward. The most beautiful treatment results mean nothing if relapse erases them.
 
 Understanding that the first 8 months are critical and committing to long-term retention (ideally indefinitely, minimum 5-10 years) protects your investment. Your retainers are insurance protecting your smile. Wear them consistently, care for them properly, and you'll keep your beautiful smile for life.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

@@ -32,7 +32,6 @@ references:
   - title: "Wertz RA. Skeletal and dental changes accompanying rapid midline diastema closure. Angle Orthod. 1970;40(2):141-152."
     url: https://pubmed.ncbi.nlm.nih.gov/5269197
 ---
-
 ## Why Your Child Might Need Palatal Expansion
 
 Your child's upper jaw is narrower than it should be. This creates a situation called a posterior crossbite, where the upper back teeth bite inside the lower teeth instead of outside where they belong. The good news?
@@ -123,6 +122,6 @@ Palatal expansion during your child's early years (ages 7-12) is one of the best
 
 - [Best Practices for Teeth Movement Process](/article/best-practices-for-teeth-movement-process.html)
 
-- [Bracket Irritation and Oral Ulceration: Prevention,](/article/bracket-irritation-mouth-sores-during-orthodontia.html)
+- [Bracket Irritation and Oral Ulceration: Prevention](/article/bracket-irritation-mouth-sores-during-orthodontia.html)
 - [Cost of Braces Discomfort Relief](/article/cost-of-braces-discomfort-relief.html)
 

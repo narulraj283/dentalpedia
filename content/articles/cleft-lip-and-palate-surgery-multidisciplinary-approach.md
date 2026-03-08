@@ -22,7 +22,6 @@ references:
   - Marazita ML. The evolution of understanding the genetics of cleft lip and palate. J Am Dent Assoc. 2012;143(10):1065-1077.
   - Mace JC, East CA. Otitis media with effusion and the cleft palate patient. Am J Orthod Dentofacial Orthop. 2003;123(2):140-145.
 ---
-
 Learning that your baby has a cleft lip or palate can bring up strong emotions. The good news is that with proper care from a specialized team, children born with clefts can grow up with healthy teeth, clear speech, and normal-looking faces. Treatment takes time and coordination, but it works.
 
 ## Building Your Cleft Team
@@ -137,15 +136,13 @@ Not all providers are equally experienced with cleft care. Look for teams that a
 
 Ask your pediatrician or contact your state's special needs coordinator for referrals. You might need to travel to a major medical center, but the improved outcomes are worth it.
 
-Learn more about [What a Multidisciplinary Cleft Team Provides](/article/cleft-team-multidisciplinary-care-coordination.html).
-
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 
 Cleft lip and palate is completely treatable with the right team. Your child can grow up with a normal-looking face, clear speech, and healthy teeth. The journey takes time and involves multiple surgeries and treatments, but the investment pays off in a lifetime of better function and appearance.
 
-> **Key Takeaway:** Learning that your baby has a cleft lip or palate can bring up strong emotions.
+> **Key Takeaway:** The good news is that with proper care from a specialized team, children born with clefts can grow up with healthy teeth, clear speech, and normal-looking faces. Treatment takes time and coordination, but it works.
 
 ## Related Articles
 
@@ -153,5 +150,5 @@ Cleft lip and palate is completely treatable with the right team. Your child can
 - [Surgical Complications - What Patients Should](/article/surgical-complications-what-you-need-to-know.html)
 - [Managing Pain After Dental Surgery](/article/how-to-pain-management-surgery.html)
 - [Bone Grafting Procedures in Implant Dentistry](/article/how-to-bone-grafting-procedure.html)
-- [Wisdom Teeth Removal: Why It's Done, When to Extract,](/article/timeline-for-wisdom-teeth-extraction.html)
+- [Wisdom Teeth Removal: Why It's Done, When to Extract](/article/timeline-for-wisdom-teeth-extraction.html)
 

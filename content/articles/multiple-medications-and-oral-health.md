@@ -43,7 +43,6 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: How Your Medications Affect Your Teeth and Gums
 ---
-
 If you take multiple medications, you may not realize they could affect your teeth and gums. Adults over sixty-five take an average of 4-5 medications daily, with some managing 10+ prescriptions. These medications can cause dry mouth, gum overgrowth, unusual bleeding, sore mouth, and other dental problems. Understanding how your medications affect your oral health helps you work with your dentist to minimize complications.
 
 ## Dry Mouth from Medications
@@ -105,14 +104,6 @@ Some medications cause canker sores, irritated gums, or patches in your mouth. C
 
 If medication-induced sores develop, tell your dentist immediately. Often, switching to a different medication resolves the problem. In the meantime, antimicrobial rinses, topical pain relievers, and dietary modifications help manage discomfort.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about how your medications affect your teeth and gums and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed how your medications affect your teeth and gums, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference in how long your results last.
@@ -142,6 +133,6 @@ Whether you're exploring treatment for the first time or looking into follow-up 
 - [Understanding Dental Procedure Planning — A](/article/best-practices-for-dental-procedure-planning.html)
 - [Cost of Oral Surgery Recovery Timeline](/article/cost-of-oral-surgery-recovery-timeline.html)
 - [Dental Examinations Explained](/article/dental-examination-types-what-you-need-to-know.html)
-- [Cognitive Decline and Oral Care: Clinical Challenges,](/article/cognitive-decline-oral-care-challenges.html)
+- [Cognitive Decline and Oral Care: Clinical Challenges](/article/cognitive-decline-oral-care-challenges.html)
 - [Professional Fluoride Treatments](/article/fluoride-treatments-benefits-and-application.html)
 

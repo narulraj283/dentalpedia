@@ -32,7 +32,6 @@ references:
   - title: "Cantilever bridge biomechanics and clinical failure mechanisms"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27075033
 ---
-
 If you're missing a tooth, your dentist will likely present you with two main options: a bridge or an implant (which involves a crown). Both can restore your smile and help you chew properly, but they work differently and have different pros and cons. Understanding the differences will help you make the best choice for your situation.
 
 ## What's the Difference Between a Bridge and an Implant Crown?

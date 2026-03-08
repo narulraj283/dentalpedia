@@ -22,7 +22,6 @@ references:
   - "Gkantzios A, et al. Recent advances in digital radiography for dental applications. Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology. 2018;126(6):541-550."
   - "Kassebaum DK, et al. Radiographic interpretation of implant osseointegration: a survey. Journal of Prosthetic Dentistry. 2004;92(2):121-128."
 ---
-
 If you've ever worried about the safety of X-rays at your dental office, you're not alone. Many people wonder whether the radiation is really necessary and whether it could cause harm. The good news is that dental X-rays use very small amounts of radiation and provide important information that helps your dentist catch problems early and treat your teeth properly.
 
 ## How Safe Are Dental X-Rays?
@@ -73,7 +72,7 @@ Most dental offices now use digital X-ray sensors instead of old film. The pictu
 
 Dental X-rays use very small, safe amounts of radiation and provide valuable information that helps your dentist catch problems early when treatment is simpler. Your dentist decides whether you need X-rays based on your personal risk and symptoms, not a fixed schedule. Digital X-rays use even less radiation while giving better images. If you have concerns about radiation, ask your dentist to explain what X-rays they recommend and why—they should only suggest X-rays that will actually change your treatment or help catch problems early. Talk to your dentist about which options are right for your specific situation.
 
-> **Key Takeaway:** Learn what your dentist sees on X-rays, how safe they really are, and which types of imaging help catch tooth problems early.
+> **Key Takeaway:** If you've ever worried about the safety of X-rays at your dental office, you're not alone.
 
 ## Related Articles
 

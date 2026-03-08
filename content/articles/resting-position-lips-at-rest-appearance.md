@@ -21,7 +21,6 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Resting Position Lips at Rest Appearance
 ---
-
 ## What Your Resting Position Says About Your Face
 
 Your lips have a natural resting position when your face is relaxed and you're not consciously engaging your facial muscles. This resting position has a huge impact on how people perceive your appearance. If your lips naturally rest in a way that shows your upper teeth, you have a "high lip line." If your lips cover your teeth when you're relaxed, you have a "low lip line." Some people's lips rest in between.

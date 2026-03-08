@@ -22,7 +22,6 @@ references:
   - "Molly SL. Biomechanics of the restoration of teeth and restorations of the masticatory system. Int J Prosthodont. 2003;16(Suppl 1):4-12."
   - "Misch CE. Dental Implant Prosthetics. 2nd ed. St. Louis: Elsevier; 2014."
 ---
-
 Grinding and clenching your teeth wears down teeth and damages restorations. If you have a night guard, you protect your teeth and save thousands in future repairs. Here's what you need to know about bite force and protection.
 
 ## Normal vs. Excessive Bite Force
@@ -181,12 +180,6 @@ Night guard care extends its life:
 **Storage**: Keep in ventilated case to allow drying
 **Temperature**: Don't expose to high heat (don't leave in hot car)
 **Replacement**: Every 3-5 years
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about bite force and teeth and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

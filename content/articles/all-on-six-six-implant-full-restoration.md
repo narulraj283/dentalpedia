@@ -20,12 +20,11 @@ references:
   - "Thoma DS, et al. Does excess cement on implant-supported restorations cause a biomechanical overload? Periodontology 2000. 2018;76(1):189-200."
   - "Nissan J, et al. Bone resorption around dental implants supporting a fixed or removable prosthesis: a 3-year follow-up clinical study. International Journal of Oral and Maxillofacial Implants. 2011;26(2):294-300."
 ---
-
-All-on-Six is like All-on-Four's bigger, stronger sibling. Instead of using four implants to support your full mouth of teeth, All-on-Six uses six. This might not sound like a huge difference, but it makes a meaningful impact on longevity and how well your teeth hold up over time. All-on-Six is especially good for younger patients, people who chew very hard, and anyone who wants their teeth to last as long as possible with minimal complications. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
+All-on-Six is like All-on-Four's bigger, stronger sibling. Instead of using four implants to support your full mouth of teeth, All-on-Six uses six. This might not sound like a huge difference, but it makes a meaningful impact on longevity and how well your teeth hold up over time. All-on-Six is especially good for younger patients, people who chew very hard, and anyone who wants their teeth to last as long as possible with minimal complications.
 
 ## Why Six Implants Are Better Than Four
 
-Think of your four or six implants as support posts. When you bite down, the force travels through your teeth and framework and gets distributed to these posts. With four posts, each one has to handle more stress. With six posts, that same stress gets split between more supports, so each implant bears less weight. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
+Think of your four or six implants as support posts. When you bite down, the force travels through your teeth and framework and gets distributed to these posts. With four posts, each one has to handle more stress. With six posts, that same stress gets split between more supports, so each implant bears less weight.
 
 Here's the math: if you bite down with 200 pounds of force on a back tooth with All-on-Four, each implant averages 50-70 pounds of stress. With All-on-Six, that same force spreads to six implants, so each one averages only 35-45 pounds. That's about 35-40% less stress per implant. Studies show this difference matters—six-implant cases have less bone shrinkage around the implants (0.3-0.4mm per year instead of 0.5-0.8mm), which means your implants stay healthier and stronger longer.
 
@@ -113,11 +112,15 @@ The surgery is a bit more complex and longer, and the cost is somewhat higher (a
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
+
+Related reading: [Oral Surgical Complications: Classification, Timeline](/article/timeline-for-surgical-complications.html) and [Risk and Concerns with Recovery Timeline](/article/risk-and-concerns-with-recovery-timeline.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about all-on-six: six implant full mouth restoration or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** All-on-Six is like All-on-Four's bigger, stronger sibling. Your dentist can help you understand what steps are right for your specific needs.
+
+> **Key Takeaway:** All-on-Six is like All-on-Four's bigger, stronger sibling. Instead of using four implants to support your full mouth of teeth, All-on-Six uses six.
 
 ## Related Articles
 

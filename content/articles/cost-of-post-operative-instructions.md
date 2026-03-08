@@ -22,7 +22,6 @@ references:
   - "Szab G, Suba Z, Szab J. Extraction trauma and early bone resorption in resorbed maxillae. J Oral Maxillofac Surg. 2005;63(9):1254-1259."
   - "Isidor F. Influence of forces on peri-implant bone. Clin Oral Implants Res. 2006;17(Suppl 2):8-18."
 ---
-
 ## Why Post-Surgery Instructions Matter
 
 After your dental surgery, following your dentist's instructions directly affects how quickly you heal and whether you get complications. Learning more about extraction recovery can help you understand this better. Good instructions prevent problems that cost hundreds or thousands of dollars to fix. Getting clear, written instructions (which might cost your dentist $15-$30 to provide) prevents complications costing $500-$3,000 to treat.
@@ -110,7 +109,7 @@ Following post-operative instructions prevents serious, expensive complications.
 
 Always ask for written instructions if your dentist only provides verbal ones. Read them carefully and call if you have questions. This simple step directly affects your recovery and your wallet.
 
-> **Key Takeaway:** Learn what happens after your dental surgery and what to expect cost-wise during your recovery.
+> **Key Takeaway:** After your dental surgery, following your dentist's instructions directly affects how quickly you heal and whether you get complications.
 
 ## Related Articles
 

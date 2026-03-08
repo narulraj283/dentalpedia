@@ -15,10 +15,9 @@ references:
   - "Rodrigo D, Aracil L, Martin C, Sanz M. Diagnosis of implant stability and its impact on survival. Clin Oral Implants Res. 2010;21(3):255-261."
   - "Meredith N, Book K, Friberg B, Jemt T, Sennerby L. Resonance frequency measurements of implant stability in vivo. Clin Oral Implants Res. 1997;8(3):226-233."
 ---
+After your implant is placed, you'll wait weeks or months before your crown goes on. This isn't stalling—it's letting your implant fuse with your bone. Understanding your specific healing timeline helps you know when you'll actually be able to chew on that new tooth again.
 
 ## Your Implant's Healing Phases
-
-After your implant is placed, it goes through predictable healing phases. Understanding this timeline helps you know what to expect and when your crown can be placed.
 
 **Immediate (Days 1-3):** Your implant is held in place entirely by the initial mechanical fit into bone. Bleeding has stopped, and a clot forms covering the implant. Pain and swelling are most significant during this period. You're wearing a temporary denture or bridge if the implant is visible.
 
@@ -95,15 +94,8 @@ After 6-12 months, your implant should be fully mature and capable of withstandi
 
 Once osseointegration is complete, your implant should remain stable for decades if maintained properly. Annual bone loss of 0.1-0.2mm is normal after the first year. Implants with good bone support can function for 20+ years, and many have been in place for 40+ years.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about when is your implant ready for a crown: the healing timeline and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

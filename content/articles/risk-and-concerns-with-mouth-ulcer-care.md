@@ -44,46 +44,45 @@ subcategory: Oral Health Conditions Overview
 subcategory_slug: overview-oral-conditions
 title: Risk and Concerns with Mouth Ulcer Care
 ---
-
 ## Understanding Mouth Ulcers: When to Worry and How to Treat Them
 
 About 1 in 4 people get canker sores or mouth ulcers at some point. Most are harmless and heal on their own within 1-2 weeks. But some ulcers signal something more serious, and how you treat them matters. This guide explains what you need to know about mouth ulcers and when you should be concerned.
 
 ## How to Spot Normal Ulcers Versus Concerning Ones
 
-Most mouth ulcers are caused by a condition called aphthous stomatitis. These are usually small, have a white or yellowish center with a red ring around them, and hurt when you touch them with your tongue or food. They typically appear in groups of 2-5 ulcers and heal within 7-14 days without scarring.
+Most mouth ulcers are caused by aphthous stomatitis (canker sores). These are usually small with a white or yellowish center and red ring. They hurt when you touch them. They typically appear in groups of 2-5 and heal within 7-14 days without scarring.
 
-But not all mouth ulcers are harmless. If you have an ulcer that doesn't fit this description, you need to be alert. A single ulcer (not part of a cluster), an ulcer that's larger than usual, an ulcer with an uneven or raised edge, an ulcer with persistent bleeding or drainage, or an ulcer in an unusual location could be concerning. Any ulcer that hasn't healed after 3 weeks absolutely needs evaluation by a dentist, even if it doesn't look obviously dangerous. Oral cancer presents as an ulcer in about 30-40% of cases, and early detection changes everything for treatment outcomes.
+But not all mouth ulcers are harmless. Be alert if you have a single ulcer (not part of a group), an unusually large ulcer, an ulcer with uneven edges, persistent bleeding or drainage, or an ulcer in an unusual location. Any ulcer that hasn't healed after 3 weeks needs professional evaluation. Oral cancer presents as an ulcer in about 30-40% of cases. Early detection makes a huge difference in treatment outcomes.
 
-The healing timeline is your second warning signal. If your ulcer isn't significantly improved after one week, or if it's not completely healed after three weeks, don't just wait and hope. Get it checked. You don't need to wait longer to be sure—ulcers that don't heal normally need professional evaluation.
+The healing timeline is your second warning signal. If your ulcer hasn't significantly improved after one week or isn't completely healed after three weeks, get it checked. Don't just wait and hope. Ulcers that don't heal normally need professional evaluation.
 
 ## Why You Need to Be Careful With Steroid Treatments
 
-Your dentist might prescribe a topical steroid cream or rinse to help your ulcer hurt less. These medications work by reducing inflammation, and they can help genuine canker sores heal faster and hurt less. But here's what you need to understand: steroids work best for typical canker sores and can cause serious problems if your ulcer has a different cause.
+Your dentist might prescribe a topical steroid cream or rinse to reduce pain and inflammation. These can help genuine canker sores heal faster and hurt less. But here's what you need to understand: steroids work best for typical canker sores and can cause serious problems if your ulcer has a different cause.
 
-About 15-20% of people using steroid creams on mouth ulcers for extended periods develop a fungal infection called oral candidiasis (yeast infection). This secondary infection makes your ulcer harder to treat and can create a cycle where you need more steroids, which makes the yeast worse. High-strength steroids used for too long can permanently thin your mouth tissue, making it more easily injured and slower to heal in the future.
+About 15-20% of people using steroid creams on mouth ulcers for extended periods develop a fungal infection called oral candidiasis (yeast infection). This secondary infection makes your ulcer harder to treat. A cycle develops where you need more steroids, which makes the yeast worse. High-strength steroids used for too long can permanently thin your mouth tissue. This makes it more easily injured and slower to heal.
 
-Worse, if your ulcer is actually caused by a virus like herpes simplex or by a fungal infection, applying steroids will make that condition much worse by suppressing your immune system. That's why your dentist needs to know what caused your ulcer before prescribing steroids. Steroids should only be used for 7-10 days maximum. If your ulcer isn't significantly better in that time, or if you're still using steroids after two weeks, something else is probably wrong. Tell your dentist immediately.
+If your ulcer is caused by a virus like herpes simplex or a fungal infection, applying steroids will make that condition much worse by suppressing your immune system. Your dentist needs to know what caused your ulcer before prescribing steroids. Use steroids for only 7-10 days maximum. If your ulcer isn't significantly better in that time or you're still using steroids after two weeks, something else is probably wrong. Tell your dentist immediately.
 
 ## Don't Use Home Remedies That Burn Your Mouth
 
-People often try home treatments for mouth ulcers, and many of these are actually harmful. Salt solutions at high concentration, undiluted hydrogen peroxide, or products containing phenol (an old-fashioned ingredient still in some folk remedies) cause chemical burns that are worse than the original ulcer. Your mouth tissue is very sensitive and easily damaged by chemicals that would be okay on skin.
+People often try home treatments for mouth ulcers. Many of these are actually harmful. Salt solutions at high concentration, undiluted hydrogen peroxide, or products containing phenol cause chemical burns worse than the original ulcer. Your mouth tissue is very sensitive and easily damaged by chemicals that would be safe on skin.
 
-Even common products like hydrogen peroxide (even at drugstore strength) can damage your mouth tissue if applied directly to an ulcer without dilution. When people repeatedly apply these burning treatments thinking they're helping, they're actually creating bigger injuries that take longer to heal and have a higher risk of infection. They might also create permanent scarring.
+Even common hydrogen peroxide (even drugstore strength) can damage your mouth tissue if applied directly without dilution. When people repeatedly apply these burning treatments thinking they're helping, they're actually creating bigger injuries that take longer to heal. These injuries have higher infection risk and might create permanent scarring.
 
-If your dentist hasn't recommended a specific treatment, ask before you try anything at home. Stick with salt water rinses only at normal salt concentration (1/2 teaspoon salt in a cup of warm water), soft foods, and avoiding spicy or acidic foods while your ulcer heals. For more on this topic, see our guide on [Oral Herpes: Understanding Outbreaks and Treatment](/article/oral-herpes-simplex-causes-symptoms-and-treatment.html).
+Ask your dentist before trying home treatments. Stick with salt water rinses at normal salt concentration (1/2 teaspoon salt in a cup of warm water), soft foods, and avoiding spicy or acidic foods while healing. For more on this topic, see our guide on [Oral Herpes: Understanding Outbreaks and Treatment](/article/oral-herpes-simplex-causes-symptoms-and-treatment.html).
 
 ## When Your Ulcer Needs a Biopsy
 
-If your ulcer has unusual features, persists too long, or doesn't respond to standard treatment, your dentist will probably recommend a biopsy. This is a simple procedure where they take a small tissue sample to examine under a microscope. This is the only way to definitively know what's causing your ulcer.
+If your ulcer has unusual features, persists too long, or doesn't respond to standard treatment, your dentist will probably recommend a biopsy. This is a simple procedure. The dentist takes a small tissue sample to examine under a microscope. This is the only way to definitively know what's causing your ulcer.
 
-Don't delay getting a biopsy if your dentist recommends one. If something serious is missed in the early stages, waiting even a few weeks makes a significant difference in treatment options and outcomes. Biopsies should happen if you have any ulcer that persists longer than 3 weeks, a single large ulcer with unusual features, an ulcer that bleeds persistently, an ulcer that's not improving with treatment, or an ulcer with swollen lymph nodes in your neck.
+Don't delay if your dentist recommends a biopsy. If something serious is missed early, waiting even a few weeks makes a significant difference in treatment options and outcomes. Get a biopsy if your ulcer persists longer than 3 weeks, you have a single large ulcer with unusual features, your ulcer bleeds persistently, your ulcer isn't improving with treatment, or you have swollen lymph nodes in your neck.
 
 ## When Your Ulcers Keep Coming Back
 
-If you get ulcers repeatedly and they don't respond to standard treatment, your ulcers might be caused by something more serious than just canker sores. Conditions like Behçet's syndrome (a rare disease that causes recurrent ulcers), oral lichen planus, pemphigus, or nutritional deficiencies can all present as mouth ulcers. You might also have underlying infections like persistent herpes simplex virus. [Learn more about controlling recurrent infections](/article/infection-prevention-what-you-need-to-know.html).
+If you get ulcers repeatedly and they don't respond to standard treatment, your ulcers might have a more serious cause than simple canker sores. Conditions like Behçet's syndrome (a rare disease causing recurrent ulcers), oral lichen planus, pemphigus, or nutritional deficiencies can all present as mouth ulcers. You might also have underlying infections like persistent herpes simplex virus. [Learn more about controlling recurrent infections](/article/infection-prevention-what-you-need-to-know.html).
 
-Your dentist should investigate treatment-resistant ulcers systematically. This might include blood tests, evaluation of your nutritional status, review of any medications you're taking (some medications cause mouth ulcers as a side effect), or even biopsy if the clinical features are unusual. Don't accept repeated prescriptions for steroids without investigation into why the ulcers keep coming back.
+Your dentist should investigate treatment-resistant ulcers systematically. This might include blood tests, evaluation of your nutritional status, review of any medications you're taking (some medications cause mouth ulcers as a side effect), or even biopsy. Don't accept repeated prescriptions for steroids without investigation into why the ulcers keep coming back.
 
 ## What You Should Do to Protect Yourself
 

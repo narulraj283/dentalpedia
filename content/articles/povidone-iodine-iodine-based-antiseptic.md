@@ -28,7 +28,6 @@ subcategory: Holistic Overview
 subcategory_slug: overview-holistic
 title: 'Povidone-Iodine: An Antiseptic for Dental Care'
 ---
-
 ## What Is Povidone-Iodine and How Does It Work?
 
 Povidone-iodine (also called PVP-I) is a broad-spectrum antimicrobial agent that kills bacteria, viruses, and fungi. It's been used in medicine and dentistry for decades, and it's one of the most thoroughly studied antimicrobial compounds available. Unlike chlorhexidine (which works slowly) or hydrogen peroxide (which is weak), povidone-iodine acts rapidly—killing most pathogens within 30 seconds of contact.

@@ -22,7 +22,6 @@ references:
   - "Bariş E. The effect of ceramic thickness and shade of the veneer material on the final color of dentin-colored CAD/CAM crowns and veneers. J Prosthet Dent. 2014;112(4):942-950."
   - "Pjetursson BE, Brägger U, Lang NP, Zwahlen M. Comparison of survival and complication rates of tooth-supported fixed dental prostheses (FDPs) and implant-supported prostheses and single crowns (SCs). Clin Oral Implants Res. 2007;18(Suppl 3):97-113."
 ---
-
 A dental crown is like a cap that covers a damaged tooth to make it look and function like new. Crowns can fix severely stained teeth, protect weak teeth, improve the appearance of your smile, or support a bridge. Let's talk about what crowns cost and which type is right for you.
 
 ## Why You Might Need a Crown
@@ -87,7 +86,7 @@ Some dentists offer a slight discount if you're getting multiple crowns at once 
 
 A single cosmetic crown costs $800 to $1,500, with premium options and multiple teeth costing more. Insurance typically covers 50% for restorative reasons, though cosmetic crowns might not be covered. All-ceramic crowns look most natural on front teeth, while metal or porcelain-fused-to-metal works well for back teeth. Crowns last 10 to 15 years with good care, making them a solid long-term investment in your smile. Talk to your dentist about which crown material and lab quality will give you the results you want.
 
-> **Key Takeaway:** Understand cosmetic crown options, costs, and how long they last. Learn about all-ceramic, porcelain, and other crown materials and what affects the price.
+> **Key Takeaway:** A dental crown is like a cap that covers a damaged tooth to make it look and function like new.
 
 ## Related Articles
 

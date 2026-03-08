@@ -20,12 +20,11 @@ references:
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 ---
-
 ## When Teeth Need Surgical Removal
 
-Most tooth extractions are simple—your dentist just uses forceps to lift the tooth out. But some teeth need surgery. This happens when the tooth is impacted (stuck beneath the gum, often wisdom teeth), when the tooth has a severely fractured root that might break into pieces, when the tooth sits very close to an important nerve, or when the tooth is fused to the bone (ankylosed). These situations require careful surgical technique to remove the tooth safely without damaging surrounding structures. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
+Most tooth extractions are simple—your dentist just uses forceps to lift the tooth out. But some teeth need surgery. This happens when the tooth is impacted (stuck beneath the gum, often wisdom teeth), when the tooth has a severely fractured root that might break into pieces, when the tooth sits very close to an important nerve, or when the tooth is fused to the bone (ankylosed). These situations require careful surgical technique to remove the tooth safely without damaging surrounding structures.
 
-An oral surgeon will take special X-rays and sometimes a 3D scan to understand exactly where your tooth sits and what structures surround it. This planning is crucial. The surgeon explains what to expect, how long the procedure takes (typically 30-45 minutes for complex cases), and what risks exist (like temporary nerve numbness or swelling). You give informed consent understanding these risks before proceeding. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
+An oral surgeon will take special X-rays and sometimes a 3D scan to understand exactly where your tooth sits and what structures surround it. This planning is crucial. The surgeon explains what to expect, how long the procedure takes (typically 30-45 minutes for complex cases), and what risks exist (like temporary nerve numbness or swelling). You give informed consent understanding these risks before proceeding.
 
 ## Understanding Tooth Classification Systems
 
@@ -87,11 +86,15 @@ Most surgical extractions go smoothly without complications. Understanding the p
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
+
+Related reading: [Dry Socket Prevention and Treatment](/article/dry-socket-prevention-and-treatment.html) and [Why Bleeding Control Matters in Oral Surgery and Dental](/article/why-bleeding-control-matters.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about complex extractions: what patients need to know or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Most tooth extractions are simple—your dentist just uses forceps to lift the tooth out. Your dentist can help you understand what steps are right for your specific needs.
+
+> **Key Takeaway:** Most tooth extractions are simple—your dentist just uses forceps to lift the tooth out. But some teeth need surgery.
 
 ## Related Articles
 

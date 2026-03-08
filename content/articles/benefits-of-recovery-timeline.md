@@ -20,18 +20,17 @@ references:
   - "Froum SJ, et al. Healing of alveolar bone following ridge augmentation with bone grafts and resorbable barriers. Compend Contin Educ Dent. 1998;19(10):1008-1016."
   - "Turvey TA, et al. Orthognathic Surgery: Principles and Practice. Philadelphia: Saunders; 2010."
 ---
-
 ## Different Procedures, Different Recovery Timelines
 
 Dental surgery recovery depends entirely on what your dentist is doing. Pulling a simple tooth takes one week of healing. Correcting a severe jaw deformity through surgery takes six to twelve months.
 
-Understanding your specific procedure helps you plan time off work, arrange help at home, and know what to expect. Recovery happens in two overlapping phases: acute inflammation (the first two weeks when swelling and pain are the main concern) and tissue remodeling (weeks two through many months when your body gradually fills in and stabilizes the surgical site). For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
+Understanding your specific procedure helps you plan time off work, arrange help at home, and know what to expect. Recovery happens in two overlapping phases: acute inflammation (the first two weeks when swelling and pain are the main concern) and tissue remodeling (weeks two through many months when your body gradually fills in and stabilizes the surgical site).
 
 ## Simple Versus Surgical Wisdom Tooth Extraction
 
 If your wisdom teeth came in straight and have visible crowns and roots, extraction is straightforward. Clinical healing—when you can return to normal eating and activities—takes seven to ten days. Pain and swelling improve quickly.
 
-Most people go back to work the next day if they have a desk job. You can eat soft foods by day three and return to your normal diet by week two. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
+Most people go back to work the next day if they have a desk job. You can eat soft foods by day three and return to your normal diet by week two.
 
 Surgical extraction is different. Your dentist might need to cut bone or split the tooth if it's impacted or positioned awkwardly. This creates more trauma to surrounding tissues, so healing takes longer.
 
@@ -111,11 +110,16 @@ Know your procedure's realistic timeline. Plan work absences accordingly. Arrang
 
 Most importantly, understand that each healing phase serves a purpose. The swelling guides your body where it needs to focus healing energy. Pain that improves gradually is normal healing. Brief setbacks occasionally happen—they're not failures, just part of healing. Stay patient, follow instructions, and trust your body's remarkable capacity to heal. Recovery timelines exist for biological reasons, not inconvenience. Respecting them ensures optimal results and prevents complications.
 
+
+Related reading: [Cost of Pain Management Surgery](/article/cost-of-pain-management-surgery.html) and [Pressure Dressing Post Operative Bleeding Control](/article/pressure-dressing-post-operative-bleeding-control.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Post-operative recovery timelines vary dramatically: simple extractions complete clinical healing in 7-14 days while orthognathic surgery requires 6-12 months full recovery. Wisdom tooth extraction represents intermediate complexity (10-14 days clinical healing, 4-6 weeks full function). If you have questions, your dentist can help you understand your options. Pulling a simple tooth takes one week of healing.
 
-> **Key Takeaway:** Dental surgery recovery depends entirely on what your dentist is doing. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** Dental surgery recovery depends entirely on what your dentist is doing. Pulling a simple tooth takes one week of healing.
 
 ## Related Articles
 

@@ -43,7 +43,6 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Sensitivity After Whitening Management
 ---
-
 ## Introduction
 
 If you've had your teeth whitened or are thinking about it, you might have heard that tooth sensitivity is a common side effect. Many people experience sharp pain or achiness in their teeth during or after whitening treatment. The good news is that this sensitivity is temporary and predictable, and there are proven ways to prevent it or make it much less bothersome. Understanding what causes the sensitivity and what you can do about it helps you make an informed decision about whitening and ensures you get the bright smile you want without excessive discomfort.
@@ -102,9 +101,6 @@ Comprehensive patient education regarding sensitivity risk and management substa
 
 Clear communication regarding prevention and management strategies empowers patients to contribute actively to sensitivity control. Instruction regarding pre-treatment application of desensitizing products, concentration selection considerations, and post-treatment care enhances patient cooperation and improves outcomes. Written instructions detailing sensitivity management steps facilitate compliance and provide reference materials for questions arising between appointments.
 
-## Conclusion
-
-Tooth sensitivity after whitening is common but manageable. With preventive measures like desensitizing gel before treatment, choosing an appropriate bleaching concentration, and using sensitivity relief products during and after treatment, you can minimize discomfort while still achieving the brighter smile you want. Talk to your dentist before whitening about your sensitivity concerns and what strategies make sense for your situation.
 
 ## Conclusion
 

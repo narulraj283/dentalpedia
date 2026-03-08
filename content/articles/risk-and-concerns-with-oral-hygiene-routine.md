@@ -45,7 +45,6 @@ subcategory: Preventive Overview
 subcategory_slug: overview-prevent
 title: Risk and Concerns with Oral Hygiene Routine
 ---
-
 ## Creating an Oral Hygiene Routine That Actually Works
 
 Your daily oral hygiene routine should prevent cavities and gum disease, but many people's routines are ineffective or even damaging. The problem isn't laziness—it's that most people haven't learned what actually works. They grab whatever toothbrush looks nice at the drugstore, brush however they learned growing up, and hope for the best. This guide explains how to create a routine that truly protects your teeth.
@@ -85,14 +84,6 @@ If you use multiple products (toothpaste, mouthwash, sensitivity toothpaste, flu
 Your routine needs to fit your life. If you're busy, a quick but thorough routine is better than a complicated routine you skip. Brush for at least 2 minutes with a soft brush using gentle technique, then floss daily. That's the minimum. Everything else is optional.
 
 Make your routine easier by setting up reminders (set a phone alarm for 2 minutes while you brush), putting your floss in plain sight next to your toothbrush, or doing it at the same time every day. Habit stacking works: if you already shower every morning, brush while you're in the shower. If you watch TV before bed, floss while you watch. Combining it with something you already do makes it more likely to become automatic.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about risk and concerns with oral hygiene routine and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

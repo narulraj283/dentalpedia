@@ -8,7 +8,6 @@ date: 2026-03-05
 read_time: 12 min
 reviewed: true
 ---
-
 ## Shade Matching in Dentistry: Why Perfect Color Match Is Impossible
 
 You selected a shade for your crown in the dental office and it looked perfect. Then you got it delivered and the color doesn't match your other teeth under normal lighting. This frustrating experience happens to many patients because shade matching in dentistry is far more complicated than it appears. Multiple factors—lighting, material properties, and individual variation—make perfect matches nearly impossible.

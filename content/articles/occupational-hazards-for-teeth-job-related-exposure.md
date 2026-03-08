@@ -29,7 +29,6 @@ subcategory: General Dentistry
 subcategory_slug: overview-preventive
 title: Occupational Hazards for Teeth Job Related Exposure
 ---
-
 Depending on where you work, your teeth might face threats you never thought about. Factory workers who inhale acidic fumes, construction workers risking impact injuries, and even healthcare workers facing infection hazards all need special dental protection. Your job can expose your teeth to acid erosion, dust abrasion, mechanical trauma, or biological contamination that goes way beyond normal wear. The good news: knowing your specific workplace hazards helps you protect your smile while you work.
 
 ## Acid Fumes and Chemical Erosion at Work
@@ -71,14 +70,6 @@ Healthcare workers and food handlers encounter bacteria and viruses that could c
 The best occupational dental health comes from combining multiple strategies: proper protective equipment, engineering controls (like ventilation reducing acid vapor), administrative controls (like scheduled breaks), and your own prevention habits. If your workplace doesn't have good protections, ask about them. Employers benefit from healthier, more productive workers. Many occupational hazards can be engineered away—better ventilation, equipment redesign, water access—if someone advocates for change.
 
 Work with your dentist to monitor for occupational damage. Tell your dentist about your specific job hazards. Get more frequent checkups if you have occupational exposure. Your dentist can catch erosion, wear, or damage early and help you prevent progression.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about occupational hazards for teeth—job-related exposure and... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

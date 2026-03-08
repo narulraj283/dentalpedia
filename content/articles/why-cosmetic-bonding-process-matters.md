@@ -30,7 +30,6 @@ references:
   - title: "Clinical Protocols for Enhanced Longevity in Direct Composite Restoration"
     url: https://pubmed.ncbi.nlm.nih.gov/30765345
 ---
-
 Cosmetic bonding has become one of the most versatile and accessible smile improvements in modern dentistry. A single appointment, some tooth-colored composite resin, and skilled hands can fix a chipped tooth, close a gap, improve a tooth's shape, or address minor discoloration. But the longevity and success of bonded restorations depend on understanding the bonding process itself. Bonding isn't simply applying plastic to your tooth—it involves complex chemistry and physics that determine whether your restoration lasts months or decades. Understanding why the bonding process matters helps you appreciate why your dentist takes time with each step and why following post-operative instructions matters.
 
 ## How Adhesive Bonding Actually Works

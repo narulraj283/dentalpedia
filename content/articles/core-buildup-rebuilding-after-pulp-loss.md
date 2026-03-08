@@ -20,7 +20,6 @@ references:
   - "Tasse GM, Raatz R. Bonded Composite Cores Versus Cast Posts and Cores. General Dentistry. 2023;51(6):462-468."
   - "Hedegård B, Helöe B. Studs and Posts as Auxiliary Aids in Prosthodontics. Journal of Prosthetic Dentistry. 2022;14(1):59-67."
 ---
-
 ## Why Your Tooth Needs Support After Root Canal
 
 After root canal treatment, your tooth is more fragile. Learning more about endodontic therapy complete tooth canal treatment can help you understand this better. The nerve and blood vessels that kept the tooth healthy have been removed, and the tooth loses some of its strength.
@@ -75,12 +74,6 @@ One critical part of successful buildup is creating what's called a ferrule—ba
 
 Your dentist will try to position the buildup and plan the crown to maximize this ferrule effect. Sometimes this means slightly extending the buildup taller than the original tooth, creating more natural tooth "collar" for the crown to grip.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about core buildup rebuilding after pulp loss and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed core buildup rebuilding after pulp loss, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -92,7 +85,7 @@ For more information, see [Types of Fillings and Restorations](/article/tooth-re
 
 Core buildup is a crucial step that makes your root canal tooth strong enough to function for many years under a crown. Whether done with or without a post, the goal is the same: create a strong foundation for your crown that will support healthy function for decades. With proper technique and good home care, buildup-supported crowns routinely last 15-20 years or longer.
 
-> **Key Takeaway:** After a root canal, your tooth needs reinforcement to support a crown and last many more years.
+> **Key Takeaway:** After root canal treatment, your tooth is more fragile.
 
 ## Related Articles
 

@@ -32,7 +32,6 @@ references:
   - title: "Pilocarpine and Salagen for Xerostomia Management"
     url: "https://pubmed.ncbi.nlm.nih.gov/34567949"
 ---
-
 You might think of saliva as just a lubricant that keeps your mouth from feeling dry. The truth is far more remarkable. Your saliva is a complex fluid with protective superpowers that defend your teeth from decay, prevent infections, help you digest food, and perform dozens of other crucial functions. When your salivary glands aren't producing enough saliva—a condition called xerostomia or dry mouth—your oral health can deteriorate rapidly, even if you take excellent care of your teeth.
 
 Understanding what saliva does and why dry mouth is so dangerous helps you recognize warning signs and take action before serious damage occurs. Learn more about [Risk and Concerns with](/article/risk-and-concerns-with-mouth-ulcer-care.html) for additional guidance. Whether you're concerned about your own dry mouth or want to understand your oral health better, learning about saliva's critical roles is essential.

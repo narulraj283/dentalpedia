@@ -28,10 +28,9 @@ references:
   - title: "Root Canal Anatomy Navigation"
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/jcpe.12877
 ---
+Root canal treatment involves instruments working deep inside your tooth to clean out infection. Understanding how hand files work—and why your endodontist spends so much time carefully using them—helps you appreciate the meticulous care that goes into saving your tooth.
 
 ## Hand Files in Root Canal Treatment
-
-During root canal treatment, your endodontist uses hand files to clean and shape the root canal. Understanding how these instruments work helps you understand your treatment.
 
 ## What Are Hand Files?
 
@@ -110,9 +109,8 @@ Used files are carefully cleaned to remove all debris and tissue, then sterilize
 
 The instrumentation phase typically takes 30-60 minutes depending on tooth complexity, canal number, and curvature. Some teeth have straight, wide canals that instrument quickly. Others have severely curved, narrow canals that require meticulous, slower work. Your endodontist won't rush this phase—thorough instrumentation is foundation-critical for long-term success. You're actually seeing excellent patient care when your appointment takes longer; it means your endodontist is working methodically rather than hastily.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about hand files manual instrumentation and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

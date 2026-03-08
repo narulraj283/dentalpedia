@@ -32,7 +32,6 @@ references:
   - title: "Cehreli ZC, et al. Repair of a fractured incisor using an adhesive composite resin restoration. Am J Dent. 2003;16(4):269-272."
     url: https://pubmed.ncbi.nlm.nih.gov/14650521
 ---
-
 ## Quick Fixes with Bonding
 
 If you have a small chip or slight wear on a front tooth, bonding is often the fastest and most affordable repair. Your dentist applies tooth-colored resin directly to the damaged area, shapes it, and hardens it with a light. The whole process takes one appointment and costs far less than veneers or crowns. For small damage on front teeth, bonding usually looks good and works well.
@@ -78,14 +77,6 @@ If your tooth was damaged through your own habits (grinding, clenching, chewing 
 ## Cost Considerations
 
 Bonding is least expensive and quickest but requires frequent replacement. Veneers cost more but last longer. Crowns cost most but provide longest durability. Your specific repair needs determine which option makes most sense financially and practically. Discuss cost options with your dentist and understand what's covered by insurance (usually not cosmetic work, but sometimes repair of damaged teeth).
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about your guide to cosmetic tooth repair options and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

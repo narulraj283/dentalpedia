@@ -43,7 +43,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Healing After Oral Surgery - Day-by-Day Expectations
 ---
-
 ## Introduction
 
 Healing after oral surgery follows a predictable pattern, with specific expectations at each stage. Understanding what's normal helps you recognize when things are progressing well and when you should contact your surgeon. This guide walks you through your healing timeline day by day, explains what to eat, how much activity is safe, and what warning signs mean you need professional attention.

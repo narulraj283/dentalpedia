@@ -22,7 +22,6 @@ references:
   - "Plotino G, Buono L, Grande NM, et al. Nonvital tooth bleaching: a review of the literature and clinical observations. J Endod. 2008;34(4):394-407."
   - "Bernardon JK, Sartori N, Ballarin A, et al. Clinical performance of vital bleaching techniques. Oper Dent. 2010;35(1):3-10."
 ---
-
 ## How Teeth Whitening Actually Works
 
 Professional whitening uses hydrogen peroxide or carbamide peroxide to bleach stains deep inside your teeth. The stronger the solution, the faster your teeth lighten. In-office treatments use 15 to 35 percent hydrogen peroxide—the strongest available—while at-home kits use 10 to 22 percent. Even a 1 percent increase in strength makes results about 5 to 10 percent faster.
@@ -87,7 +86,7 @@ If you have intrinsic staining from tetracycline, fluorosis, or systemic conditi
 
 Professional teeth whitening is safe, effective, and affordable when done right. Whether you choose in-office treatments for fast results or at-home trays for budget savings, professional whitening works better and has fewer risks than drugstore products. Plan for touch-up maintenance to keep your results.
 
-> **Key Takeaway:** Learn what you need to know about safe, professional teeth whitening and how to avoid common problems.
+> **Key Takeaway:** Professional whitening uses hydrogen peroxide or carbamide peroxide to bleach stains deep inside your teeth.
 
 ## Related Articles
 

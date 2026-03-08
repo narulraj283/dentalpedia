@@ -20,7 +20,6 @@ references:
   - Paraskevas S, et al. Consensus Report: Adjunctive Therapies in Periodontitis. Journal of Clinical Periodontology. 2018;45(S20):S307-S311.
   - Gluch JI. Patient compliance in periodontal disease control. Periodontology 2000. 2008;36(1):147-156.
 ---
-
 You've probably heard that flossing is essential. You've also probably heard recent news suggesting maybe it isn't? Let's cut through the confusion about whether flossing actually works and how to do it effectively.
 
 ## Myth: Flossing Isn't Scientifically Proven
@@ -104,12 +103,6 @@ Water flossers provide 80-95% plaque removal in accessible areas. Interdental br
 
 Fancier doesn't necessarily mean better. The best tool is the one you'll use consistently.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about flossing benefits and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed flossing benefits, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -118,7 +111,7 @@ Once you've addressed flossing benefits, maintaining your results requires ongoi
 
 Flossing genuinely works for preventing cavities and gum disease. The evidence is solid, though not from the type of studies that make headlines. It works best with proper technique in tight spaces, but multiple tools are effective depending on your spacing. Consistency matters more than perfection—even occasional flossing helps. Finding a tool and technique you'll actually use is more important than insisting on traditional floss if other methods appeal to you more.
 
-> **Key Takeaway:** Flossing works, but you might be doing it wrong—and the device you use depends on your teeth spacing.
+> **Key Takeaway:** You've probably heard that flossing is essential.
 
 ## Related Articles
 

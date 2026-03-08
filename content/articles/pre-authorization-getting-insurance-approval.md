@@ -28,7 +28,6 @@ subcategory: Practice & Insurance Overview
 subcategory_slug: overview-practice
 title: Pre Authorization Getting Insurance Approval
 ---
-
 ## Understanding Pre-Authorization Versus Predetermination
 
 Your dentist wants to do treatment costing $3,000 and needs approval from your insurance company. Before starting, they might submit what's called a "predetermination" or "pre-authorization"—but these terms mean different things, and understanding the distinction protects you financially.

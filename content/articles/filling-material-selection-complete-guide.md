@@ -20,7 +20,6 @@ references:
   - "Manhart J, et al. Longevity of tooth-colored restorations in posterior teeth. Oper Dent. 2004;29(5):504-11."
   - "Pallesen U, van Dijken JW. A randomized controlled 30-year follow-up study of three conventional resin composites. Dent Mater. 2015;31(8):1037-44."
 ---
-
 ## Choosing Your Filling Material
 
 When you need a cavity filled, your dentist will discuss which material to use. You have several options, and each one has pros and cons. Understanding your choices helps you make the best decision for your tooth and your needs.
@@ -151,19 +150,11 @@ The "best" filling material is the one that matches your specific situation. Com
 
 Your dentist can help you weigh the pros and cons for your specific cavity. Don't hesitate to ask questions about why they're recommending a particular material.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about filling material selection complete guide and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
-
 ## Conclusion
 
 You have multiple filling options, each with different strengths and weaknesses. Understanding how long each lasts and what it looks like helps you make the best choice for your tooth and your priorities.
 
-> **Key Takeaway:** When you need a cavity filled, your dentist will discuss which material to use. You have several options, and each one has pros and cons.
+> **Key Takeaway:** When you need a cavity filled, your dentist will discuss which material to use.
 
 ## Related Articles
 

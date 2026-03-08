@@ -20,7 +20,6 @@ references:
   - "Nasr MW, et al. Gummy smile: Causative factors and treatment options. Journal of the Canadian Dental Association. 2018;84:h5."
   - "Polo M. Comment on botulinum toxin type A (Botox) for the neuromuscular correction of excessive gingival display on smiling (gummy smile). American Journal of Orthodontics and Dentofacial Orthopedics. 2005;127(1):13-15."
 ---
-
 You smile and show too much gum—or at least, you think you do. You've heard gummy smile correction requires surgery. Actually, the solution depends on what's causing your gummy smile, and sometimes surgery isn't necessary at all.
 
 ## Myth: All Gummy Smiles Require Surgical Correction
@@ -101,17 +100,13 @@ Prosthodontists bring esthetic expertise to smile design. Oral surgeons handle j
 
 Ask your dentist about their experience with your specific concern. Have they treated many gummy smile cases? What methods do they prefer? Do they have before-and-after photos of similar cases? Seeing actual results on patients with similar anatomy to yours helps set realistic expectations.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about gummy smile fix and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
 ## Conclusion
 
 Gummy smile causes are diverse, and treatment should match the underlying cause. Non-surgical options like Botox effectively treat muscle hyperactivity. Surgical gum contouring suits tissue excess.
 
 Surgical jaw repositioning addresses skeletal issues. Understanding your specific cause helps you choose the most appropriate treatment. Not everyone needs or wants treatment—personal preference matters most.
 
-> **Key Takeaway:** A "gummy smile" has multiple causes, and the fix depends on what's actually happening—some options don't require surgery.
+> **Key Takeaway:** You smile and show too much gum—or at least, you think you do.
 
 ## Related Articles
 

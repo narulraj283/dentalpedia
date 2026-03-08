@@ -17,7 +17,6 @@ references:
   - "Krause TJ, et al. Mechanical complications in fixed orthodontic appliances. Semin Orthod. 2015;21(4):280-292."
   - "Pandis N, et al. External root resorption in patients treated with conventional and self-ligating appliances. Am J Orthod Dentofacial Orthop. 2012;141(1):31-36."
 ---
-
 ## The Appointment Schedule Dilemma
 
 Your orthodontist tells you to come back in six weeks. You're wondering: "Why that long? Can't I come back sooner and finish faster?" The truth is more nuanced. Your appointment frequency directly determines whether your teeth move efficiently, whether treatment takes 24 months or 36 months, and whether you pay for emergency visits. Getting this right matters.
@@ -106,6 +105,9 @@ These timelines assume consistent 6-8 week appointments. If you attend every 10-
 
 
 For more information, see [Teeth Straightening Without Braces: Modern Alternatives](/article/teeth-straightening-without-braces-modern-alternatives.html).
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

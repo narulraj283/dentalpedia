@@ -28,7 +28,6 @@ subcategory: Periodontal Overview
 subcategory_slug: overview-perio
 title: 'Cytokines and Chemokines: Inflammatory Mediators'
 ---
-
 Your immune system fights bacteria in your mouth constantly. But when this immune response goes overboard, it can actually damage your gums and bone. Let's explore the invisible molecular signals that control this inflammatory response and why understanding them matters for your dental health.
 
 ## How Your Body Fights Bacteria
@@ -91,17 +90,11 @@ You can reduce inflammation by controlling bacteria through excellent oral hygie
 
 Smoking dramatically worsens the inflammatory response, increasing IL-1 and TNF-alpha even further. Quitting smoking helps tame your gum inflammation. Stress and poor sleep also amplify inflammatory responses, so managing these factors helps too.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about cytokines and chemokines inflammatory mediators and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 Gum disease involves your immune system overreacting to bacteria. Inflammatory molecules like IL-1, TNF-alpha, and chemokines coordinate an immune response that, while trying to kill bacteria, damages your gums and bone. This excessive inflammatory response can be halted through bacterial control (professional cleaning and excellent home care), which allows anti-inflammatory mechanisms to regain balance. Understanding this inflammation helps explain why good home care and regular professional cleanings are so important—they prevent this destructive inflammatory cascade.
 
-> **Key Takeaway:** Inflammatory signaling molecules drive periodontal destruction through coordinated immune activation.
+> **Key Takeaway:** Your immune system fights bacteria in your mouth constantly.
 
 ## Related Articles
 

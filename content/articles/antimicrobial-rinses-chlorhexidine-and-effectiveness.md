@@ -20,12 +20,11 @@ references:
   - "García-Godoy F, Levine M. Surfactants in oral hygiene products: beneficial or detrimental? What the literature says. J Can Dent Assoc. 2015;81:e17."
   - "Marinello CP, Willi O, Vano M. Stannous fluoride substantivity in supragingival plaque. J Periodontal Res. 1999;34(6):305-311."
 ---
-
 ## Why Mouthwash Matters
 
-Brushing and flossing are your best defenses against tooth disease, but some people struggle to keep their teeth clean enough. Antimicrobial mouthwashes help by killing bacteria your toothbrush might miss. These rinses are especially helpful if you have gum disease, wear braces, or simply want extra protection. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+Brushing and flossing are your best defenses against tooth disease, but some people struggle to keep their teeth clean enough. Antimicrobial mouthwashes help by killing bacteria your toothbrush might miss. These rinses are especially helpful if you have gum disease, wear braces, or simply want extra protection.
 
-Different mouthwashes work in different ways. Some kill bacteria aggressively, others work gently. Some last for hours, others fade quickly. Understanding which rinse works best for your situation helps you choose wisely. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+Different mouthwashes work in different ways. Some kill bacteria aggressively, others work gently. Some last for hours, others fade quickly. Understanding which rinse works best for your situation helps you choose wisely.
 
 ## The Strongest Mouthwash: Chlorhexidine
 
@@ -115,6 +114,9 @@ Povidone-iodine (antiseptic with iodine) kills lots of bacteria but never use it
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
+
+Related reading: [Common Misconceptions About Fluoride Benefits](/article/common-misconceptions-about-fluoride-benefits.html) and [How Often Should You Get Dental Cleanings?](/article/maintenance-frequency-how-often-to-clean.html).
+
 ## Conclusion
 
 Chlorhexidine 0.12% is the strongest bacteria-fighting mouthwash, working best for treating active gum disease or preventing infection after dental work. Use it for 2-4 weeks when needed, accepting the temporary staining.
@@ -123,7 +125,7 @@ For everyday long-term use, switch to gentler rinses like cetylpyridinium chlori
 
 The best approach: use strong medicine when you need it, maintain with gentler options daily, and never forget that brushing and flossing are always your most important tools. Mouthwash helps, but it's the back-up to good home care, not a replacement.
 
-> **Key Takeaway:** Brushing and flossing are your best defenses against tooth disease, but some people struggle to keep their teeth clean enough.
+> **Key Takeaway:** Antimicrobial mouthwashes help by killing bacteria your toothbrush might miss. These rinses are especially helpful if you have gum disease, wear braces, or simply want extra protection.
 
 ## Related Articles
 

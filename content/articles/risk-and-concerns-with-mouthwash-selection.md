@@ -44,7 +44,6 @@ subcategory: Preventive Overview
 subcategory_slug: overview-prevent
 title: Risk and Concerns with Mouthwash Selection
 ---
-
 ## How to Choose the Right Mouthwash for Your Needs
 
 The mouthwash aisle at your pharmacy is overwhelming. There are products for every concern: antimicrobial rinses, fluoride rinses, whitening rinses, sensitivity relief, alcohol-free options. How do you know which one is actually right for you? The truth is that most mouthwash marketing is far ahead of the actual evidence about what works. This guide helps you understand what matters when choosing a mouthwash.
@@ -101,6 +100,9 @@ Clinicians must educate patients that marketing claims do not equate with clinic
 Professional guidance during preventive care visits should establish systematic mouthwash selection protocols that ensure patients receive recommendations appropriate to their individual risk profile, medical history, and clinical needs. Rather than recommending mouthwash as universal routine preventive care, clinicians should identify specific indications: antimicrobial rinses for patients with active periodontal disease or high caries risk, fluoride rinses for high-risk populations without fluoridated water access, alkaline formulations for patients with erosive wear or gingival recession, and chlorhexidine for limited duration post-extraction or post-surgical therapy.
 
 Clinicians should counsel patients to avoid alcohol-containing formulations if xerostomia is present or suspected, to select SLS-free products if mucosal irritation history exists, and to use fluoride rinses only if age-appropriate with proper expectoration capability. Written patient education reinforcing professional mouthwash recommendations and explaining the importance of mechanical oral hygiene over chemical rinsing provides lasting guidance for patients making future product selections independently. Documentation in the medical record of mouthwash counseling protects against liability and ensures continuity of care across practitioners.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

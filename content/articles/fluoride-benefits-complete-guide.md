@@ -22,7 +22,6 @@ references:
   - "Pendrys DG, Katz RV, Morse DE. Risk factors for enamel fluorosis in a nonfluoridated population. Am J Epidemiol. 1994;143(8):808-815."
   - "Caufield PW, Cutter GR, Dasanayake AP. Initial acquisition of mutans streptococci by infants. J Dent Res. 1993;72(1):37-45."
 ---
-
 ## How Fluoride Fights Cavities
 
 Fluoride prevents cavities in two main ways. First, it makes your teeth harder and more resistant to acid attack. When bacteria in your mouth produce acid after you eat sugary foods, that acid tries to dissolve your tooth structure. Fluoride changes the composition of your tooth surface so it's harder to dissolve. It does this by forming a special compound called fluorapatite that's more acid-resistant than your normal tooth material.
@@ -83,7 +82,7 @@ Fluoride is one of dentistry's most important preventive tools. It works by stre
 
 Talk with your dentist about what fluoride sources are right for your specific risk level and situation.
 
-> **Key Takeaway:** Topical and systemic fluoride exposure reduces caries incidence through enamel remineralization and bacterial metabolism inhibition.
+> **Key Takeaway:** Fluoride prevents cavities in two main ways.
 
 ## Related Articles
 

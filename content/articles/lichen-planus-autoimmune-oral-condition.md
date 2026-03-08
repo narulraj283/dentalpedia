@@ -32,7 +32,6 @@ references:
   - title: "Psychosocial factors and quality of life in patients with oral lichen planus"
     url: https://www.ncbi.nlm.nih.gov/pubmed/23234008
 ---
-
 ## What Is Oral Lichen Planus?
 
 Oral lichen planus (OLP) is a chronic autoimmune condition that affects the tissues inside your mouth. Your body's immune system mistakenly attacks cells in your mouth lining, causing inflammation and tissue damage. About 1 in 100 people have this condition, though some cases are mild and go unnoticed.
@@ -91,12 +90,6 @@ Lichen planus is a chronic condition you'll live with long-term, but it's manage
 
 Regular dental checkups become even more important—your dentist monitors your condition and watches for any changes requiring different treatment. Most people adapt well to living with lichen planus and experience periods of remission where symptoms are minimal or absent.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about lichen planus autoimmune oral condition and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed lichen planus autoimmune oral condition, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -105,7 +98,7 @@ Once you've addressed lichen planus autoimmune oral condition, maintaining your 
 
 Oral lichen planus is a chronic autoimmune condition affecting your mouth tissues that's more common than many people realize. While it creates discomfort for some and requires monitoring, effective treatments exist to manage symptoms and maintain quality of life. Regular dental care and prompt reporting of changes ensures early detection of any complications. Understanding your condition and working closely with your dentist creates the best outcome for long-term management.
 
-> **Key Takeaway:** Lichen planus is a chronic mouth condition affecting tissues.
+> **Key Takeaway:** Oral lichen planus (OLP) is a chronic autoimmune condition that affects the tissues inside your mouth.
 
 ## Related Articles
 

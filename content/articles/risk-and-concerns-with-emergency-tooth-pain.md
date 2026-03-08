@@ -44,7 +44,6 @@ subcategory: Emergency Overview
 subcategory_slug: overview-emergency
 title: Risk and Concerns with Emergency Tooth Pain
 ---
-
 ## Understanding Emergency Tooth Pain
 
 When you have a severe toothache, it's natural to feel panic and worry. Your immediate thought is that you need help now, but understanding what's actually happening inside your tooth is the first step toward getting the right treatment. Tooth pain signals that something is wrong, but figuring out exactly what that something is can be tricky. Your tooth could be infected, cracked, or have deep decay. The challenge is that the pain you feel might not be coming from the tooth you think it is, and getting the diagnosis right matters tremendously for your treatment success.

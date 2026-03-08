@@ -20,14 +20,13 @@ references:
   - "Addy M, Moran J. Mechanisms of stain formation on teeth. Eur J Oral Sci. 2002;110(1):12-15."
   - "Graziani F, Gennai S, Corbella S, Turri A, Gabriele M, Letizia Maglione M, Nisi M. Interdental cleaning is fundamental to prevent periodontal disease: consensus based clinical practice recommendations. J Clin Periodontol. 2022;49 Suppl 24:106-116."
 ---
-
 ## Brushing and Cleaning: The Foundation of Oral Health
 
-You've heard it forever: brush your teeth twice a day. But there's actually much more to it than just running a toothbrush over your teeth. The way you brush, the tools you use, and how you clean between your teeth all matter. Let's talk about how to do it right—because done correctly, daily cleaning prevents most tooth decay and gum disease. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+You've heard it forever: brush your teeth twice a day. But there's actually much more to it than just running a toothbrush over your teeth. The way you brush, the tools you use, and how you clean between your teeth all matter. Let's talk about how to do it right—because done correctly, daily cleaning prevents most tooth decay and gum disease.
 
 ## The Right Way to Brush: The Modified Bass Technique
 
-Not all brushing is created equal. The most effective technique is called the modified Bass method. It sounds fancy, but it's actually pretty simple. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+Not all brushing is created equal. The most effective technique is called the modified Bass method. It sounds fancy, but it's actually pretty simple.
 
 Position your toothbrush at a 45-degree angle where your gum meets your tooth. This angle is key because it directs the bristles into the space between your tooth and gum—exactly where harmful bacteria hide. Use gentle, small vibrating motions (about 1-2 millimeters). Move along all your teeth systematically: all the upper front teeth, then upper back teeth, then lower front, then lower back, and finally your chewing surfaces.
 
@@ -91,19 +90,8 @@ Set a routine. Same time every morning and night. Put your toothbrush in a visib
 
 Set phone reminders if you need them. Ask a family member to remind you. These strategies help build the habit so thoroughly that you do it automatically, like brushing your hair.
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+Related reading: [How Often Should You Go to the Dentist? What's Right](/article/dental-visit-frequency-what-you-need-to-know.html) and [The Benefits of Flossing: What to Know](/article/benefits-of-flossing-benefits.html).
 
 ## Conclusion
 
@@ -111,7 +99,7 @@ Daily teeth cleaning prevents most dental problems. The modified Bass technique 
 
 These simple practices, done consistently, mean fewer cavities, healthier gums, and a smile you're proud of. Your dentist can show you the right technique, but ultimately, consistency matters most. Build the habit, and your teeth will thank you.
 
-> **Key Takeaway:** You've heard it forever: brush your teeth twice a day. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** You've heard it forever: brush your teeth twice a day.
 
 ## Related Articles
 

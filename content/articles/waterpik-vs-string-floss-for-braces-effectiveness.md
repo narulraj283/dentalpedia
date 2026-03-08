@@ -32,7 +32,6 @@ references:
   - title: "Post-Orthodontic Enamel Demineralization: Prevention Through Enhanced Plaque Control"
     url: https://pubmed.ncbi.nlm.nih.gov/26748898
 ---
-
 ## The Braces Challenge: Why Flossing Gets So Hard
 
 Braces make flossing incredibly difficult. To properly floss with braces, you must thread string under the main arch wire, navigate through the tooth contact, and pull it out—all while being careful not to bend any brackets or wires. This process takes 45-60 seconds per tooth space when done correctly. Most patients find it so tedious and frustrating that they either stop flossing entirely or never develop the habit. The result is rampant gingivitis (gum disease) during treatment, with approximately 70-80% of braces patients developing significant gum inflammation.

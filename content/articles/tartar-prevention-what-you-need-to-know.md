@@ -20,7 +20,6 @@ references:
   - title: "Rees JS, Addy M. A cross-sectional study of dentine hypersensitivity. Journal of Clinical Periodontology. 2002;29(11):997-1003."
     url: https://pubmed.ncbi.nlm.nih.gov/12472993
 ---
-
 ## What Tartar Actually Is
 
 Tartar (also called calculus) is hardened plaque that's stuck to your teeth. Your mouth naturally creates plaque every day—a sticky film of bacteria—but brushing removes it. If plaque sits on your teeth too long, minerals from your saliva cement it into a hard deposit you can't brush away. That's tartar.
@@ -108,12 +107,6 @@ This is why prevention matters so much—preventing gum disease is easier and ch
 Tartar prevention requires consistent daily effort. The effort is modest (proper brushing, flossing, using the right toothpaste), but it must be consistent. You can't brush perfectly for a month then skip flossing for three months and expect good results.
 
 Understand how often you should replace protective guards, and similarly, think about replacing your daily preventive efforts consistently. Prevention works only when you actually do it.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss tartar prevention what you need to know, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

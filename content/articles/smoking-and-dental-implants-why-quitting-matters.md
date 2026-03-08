@@ -32,7 +32,6 @@ references:
   - title: "Barone A, Covani U. Implant placement in the esthetic zone: a literature review concerning alveolar bone graft and implant health. Implant Dentistry. 2007;16(3):270-283."
     url: https://pubmed.ncbi.nlm.nih.gov/17848876
 ---
-
 ## Smoking and Dental Implants: Why Your Habits Matter
 
 If you're considering getting a dental implant to replace a missing tooth, you might be wondering if your smoking habit will affect the outcome. The honest answer is: yes, it will. Smoking significantly reduces the chance that your implant will be successful. But understanding why helps you make the best decision for your health.
@@ -69,12 +68,6 @@ Even if your implant initially integrates with the bone, smoking can cause long-
 
 If you're a smoker considering an implant, talk to your dentist honestly about your smoking habits. They might recommend waiting until you can quit, using smoking cessation products to help you quit, or getting a different tooth replacement option that's less affected by smoking. Whatever you decide, making an informed decision is important.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss smoking and dental implants why quitting matters, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
-
 ## What to Expect During Your Visit
 
 Your dentist will begin by examining your mouth and reviewing your dental history to understand your current situation. This evaluation may include taking X-rays or digital images to get a complete picture of what is happening beneath the surface. Based on these findings, your dentist will explain the recommended treatment approach and walk you through each step of the process.
@@ -101,5 +94,5 @@ Remember that every person's situation is unique. What works well for one patien
 
 - [Peri Implantitis Gum Disease Around Implants](/article/peri-implantitis-gum-disease-around-implants.html)
 - [Progressive Loading in Dental Implants](/article/progressive-loading-gradual-force.html)
-- [Alveolar Bone Augmentation for Implant Reconstruction:](/article/bone-augmentation-for-implants.html)
+- [Alveolar Bone Augmentation for Implant Reconstruction](/article/bone-augmentation-for-implants.html)
 

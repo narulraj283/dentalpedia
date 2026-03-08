@@ -20,7 +20,6 @@ references:
   - "Agoritsas T, et al. Patient-centered information literacy: developing a framework for understanding informed decision making. J Dent Educ. 2010;74(5):461-67."
   - "Schillinger D, et al. Functional health literacy and the quality of physician-patient communication among diabetes patients. Patient Educ Couns. 2003;52(3):315-23."
 ---
-
 ## How to Find a Good Dentist
 
 You probably Google for dentist reviews just like you'd look up reviews for restaurants or hotels. But dental reviews are trickier because you need to evaluate actual clinical competence, not just whether the experience was pleasant. Here's how to spot quality.
@@ -143,12 +142,6 @@ After your first visit, ask yourself:
 
 Trust your instincts. If something feels off, it might be. Dentistry is a long-term relationship.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about finding quality dentist reviews and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed finding quality dentist reviews, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -157,7 +150,7 @@ Once you've addressed finding quality dentist reviews, maintaining your results 
 
 Finding a good dentist involves checking credentials, reading thoughtful reviews, and trusting your own judgment about whether they communicate well and care about your needs. Take time with this decision—a good dentist is worth the effort to find.
 
-> **Key Takeaway:** Evidence-based criteria for evaluating dentist quality, qualifications, and patient review validity.
+> **Key Takeaway:** You probably Google for dentist reviews just like you'd look up reviews for restaurants or hotels.
 
 ## Related Articles
 

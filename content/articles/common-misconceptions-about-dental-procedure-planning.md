@@ -20,7 +20,6 @@ references:
   - Papapanou PN, et al. Periodontitis: Consensus report of workgroup 2 of the 2017 World Workshop on the Classification of Periodontal and Peri-Implant Diseases and Conditions. Journal of Clinical Periodontology. 2018;45(S20):S162-S170.
   - Preshaw PM, et al. Periodontitis and cardiovascular disease: a systematic review and meta-analysis. Archives of Internal Medicine. 2010;170(3):264-270.
 ---
-
 When you visit the dentist for a procedure, you might wonder: Why does my dentist want to take X-rays? Learning more about [Cavity Formation Process Complete Guide](/article/cavity-formation-process-complete-guide.html) can help you understand this better. Why aren't we jumping straight to treatment? What's all this talk about "risk" and "staging"? Let's clear up some common misunderstandings about how dentists plan dental treatment.
 
 ## Myth 1: My Dentist Wants to Do Surgery When I Really Just Need Simple Care
@@ -69,12 +68,6 @@ The best treatment plan is one you and your dentist create together. This means 
 
 A good dentist isn't pushing you toward expensive treatment just to make money. They're recommending what research shows will work best for your particular situation. If you're uncomfortable with a recommendation, it's absolutely okay to ask for alternatives or get a second opinion.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about dental procedure planning and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed dental procedure planning, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -85,7 +78,7 @@ Once you've addressed dental procedure planning, maintaining your results requir
 
 Good dental treatment planning isn't about one-size-fits-all recommendations or jumping straight to surgery. It's about understanding your individual situation, trying simpler approaches first, and only escalating treatment when necessary. Your dentist uses modern classification systems and evidence-based guidelines to make personalized recommendations that give you the best chance of success.
 
-> **Key Takeaway:** Understand how dentists create personalized treatment plans based on your unique situation, not just rushing into procedures.
+> **Key Takeaway:** When you visit the dentist for a procedure, you might wonder: Why does my dentist want to take X-rays?
 
 ## Related Articles
 

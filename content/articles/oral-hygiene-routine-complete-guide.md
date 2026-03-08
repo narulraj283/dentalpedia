@@ -28,7 +28,6 @@ references:
   - title: "Tongue Cleaning and Oral Microbiota Clinical and Microbiological Aspects"
     url: https://pubmed.ncbi.nlm.nih.gov/20640358
 ---
-
 ## The Correct Brushing Technique
 
 Most people brush ineffectively without realizing it. Effective brushing removes plaque from where it causes most harm: at the gum line and in tooth grooves. Position your toothbrush at about 45 degrees where your tooth meets your gum. Use small, gentle circular motions rather than vigorous back-and-forth scrubbing.

@@ -28,7 +28,6 @@ references:
   - title: "Periodontal implications of cosmetic restorations: mock-up based surgical-restorative planning"
     url: https://www.ncbi.nlm.nih.gov/pubmed/22206271
 ---
-
 When you're considering cosmetic dentistry—veneers, crowns, bonding, or smile makeovers—you're making a commitment based on expectations. Those expectations might differ dramatically from what your dentist intends to create. Smile design mock-ups solve this disconnect by showing you what your smile will actually look like before your dentist modifies any teeth. This visualization tool has transformed cosmetic dentistry outcomes by aligning patient expectations with reality.
 
 ## Why Mock-Ups Matter So Much

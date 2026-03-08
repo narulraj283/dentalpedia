@@ -32,7 +32,6 @@ references:
   - title: "Biological response to different bracket-wire combinations and force systems"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25789456
 ---
-
 ## The Biological Magic Behind Tooth Movement
 
 It might seem impossible that gentle pressure could permanently move teeth, but your body is constantly remodeling the bone supporting your teeth. This is where orthodontics works—by applying sustained, gentle pressure, your orthodontist triggers your body's natural bone-remodeling process. The magic is happening at the microscopic level in the periodontal ligament (PDL), the tissue that holds your tooth to the bone. Learning more about [Twin Block Appliance Correcting Overbite Non-surgically](/article/twin-block-appliance-correcting-overbite-non-surgically.html) can help you understand this better.
@@ -74,12 +73,6 @@ Prevention focuses on light force application within established optimal ranges.
 If movement arrests during treatment, it usually indicates hyalinization or excessive force overwhelming the periodontal ligament. Your orthodontist responds by reducing force, sometimes even removing the wire for a week to allow tissue recovery. Movement typically resumes within 1-2 weeks once the problematic tissue is cleared.
 
 Some patients naturally move teeth slowly compared to their cohort. Slow movement isn't a treatment failure—it's just their individual biology. Patience and consistent treatment eventually reach the goal, sometimes just over a longer timeline.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about how to teeth movement process and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

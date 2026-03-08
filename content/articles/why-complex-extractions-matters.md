@@ -36,7 +36,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Why Understanding Complex Extractions Matters
 ---
-
 When your dentist recommends extracting a tooth, you might assume it's a straightforward procedure—pull the tooth out and you're done. Sometimes that's true. But many extractions are far more complex than they appear, requiring surgical expertise, careful planning, and specialized techniques. Understanding when extractions become "complex" and why that matters helps you appreciate why your dentist might refer you to an oral surgeon, what to expect from a complex extraction, and how to optimize your recovery.
 
 ## What Makes an Extraction Complex

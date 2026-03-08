@@ -32,7 +32,6 @@ references:
   - title: "Jacobson JM, Stratemann S, Gladwin MA. Clinical evaluation of the efficacy of an in-office desensitizing paste. J Am Dent Assoc. 1997;128(3):347-354."
     url: https://pubmed.ncbi.nlm.nih.gov/9101747
 ---
-
 ## How Sugar Attacks Your Teeth
 
 When you eat sugar, bacteria living in your mouth immediately start using it for fuel. They produce acids that attack your tooth enamel within just 1 to 3 minutes. Your saliva naturally fights back, working to neutralize these acids over the next 20 to 60 minutes. This cycle of attack and recovery happens over and over with each meal and snack you eat. Whether you develop cavities depends on how often this acid cycle happens and whether your teeth get enough time to heal between attacks.

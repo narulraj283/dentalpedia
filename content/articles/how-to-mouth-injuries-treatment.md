@@ -20,7 +20,6 @@ references:
   - title: "Soft tissue injuries in oral trauma: assessment and management"
     url: https://www.ncbi.nlm.nih.gov/pubmed/20821919
 ---
-
 A tooth knocked loose, a split lip, or gum damage from sports or accidents needs prompt evaluation. Knowing first aid steps and when to seek emergency care can preserve teeth and tissues.
 
 ## Knocked-Out Tooth (Avulsion)

@@ -32,7 +32,6 @@ references:
   - title: "Follow-Up and Maintenance in Multi-Phase Cosmetic Treatment"
     url: "https://pubmed.ncbi.nlm.nih.gov/34567979"
 ---
-
 Most people who want to improve their smile have multiple concerns—not just one isolated problem. Your teeth might be slightly misaligned AND discolored AND worn. Or you might have spacing issues combined with a gummy smile. When you have multiple smile concerns, a strategic treatment plan that sequences different approaches often produces better overall results than trying to address everything with a single technique.
 
 Smile improvement begins with clear identification of your specific goals, thorough analysis of what contributes to your current smile's appearance, and thoughtful planning of a treatment sequence that addresses each concern appropriately. Learn more about [Common Misconceptions About Teeth](/article/common-misconceptions-about-teeth-whitening-results.html) for additional guidance. This comprehensive approach takes more planning than single-issue treatment, but the results are typically far superior.

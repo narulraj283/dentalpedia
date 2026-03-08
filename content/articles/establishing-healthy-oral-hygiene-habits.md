@@ -20,6 +20,7 @@ references:
   - "Wennström JL, Newman HN, MacNeill SR, et al. Utilisation of professional and personal oral hygiene measures in different populations. Community Dent Health. 1992;9(4):333-342."
   - "Department of Health and Human Services. The Surgeon General's Report on Oral Health. US Government Publishing Office; 2000."
 ---
+You know you should brush twice daily and floss, but somehow life gets in the way. The real problem isn't knowing what to do—it's making it automatic. Here's what actually makes oral hygiene habits stick, and how to build ones that last your whole life.
 
 ## How Habits Actually Form
 
@@ -129,7 +130,7 @@ People who keep good oral hygiene habits for life do a few things:
 
 Good oral hygiene habits aren't about perfection. They're about consistency. You don't need fancy products or complex routines. You need regular brushing with fluoride toothpaste, daily flossing, and strategies that make these habits automatic rather than something you have to force yourself to do. Find what works for your life, link it to habits you already have, and give yourself at least 8-12 weeks before you expect it to feel easy.
 
-> **Key Takeaway:** Evidence-based behavioral strategies for establishing durable oral health practices across lifespan.
+> **Key Takeaway:** You know you should brush twice daily and floss, but somehow life gets in the way.
 
 ## Related Articles
 

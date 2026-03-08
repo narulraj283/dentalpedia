@@ -32,7 +32,6 @@ references:
   - title: "Otis CN. Patient safety and specimen handling. Adv Anat Pathol. 2005;12(5):261-264."
     url: https://pubmed.ncbi.nlm.nih.gov/16118584
 ---
-
 ## Understanding Why Your Biopsy Specimen Matters
 
 When your dentist takes a biopsy from your mouth to diagnose an unusual lesion or growth, that small tissue sample is the beginning of an important journey to getting you answers. The entire process depends on handling that tiny piece of tissue with extreme care—from the moment it's removed until the pathologist examines it under a microscope. Even small mistakes in handling can make diagnosis difficult or unreliable. This guide will help you understand what happens to your biopsy and why each step is so important for getting you the right diagnosis and treatment.

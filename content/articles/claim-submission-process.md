@@ -20,7 +20,6 @@ references:
   - "National Association of Dental Plans. Dental Benefit Plan Administration Standards. NADP Guidelines; 2023."
   - "Federal Trade Commission. Consumer Guide to Dental Insurance Claims. FTC Consumer Advice; 2023."
 ---
-
 If you have dental insurance, understanding how claims work helps you make informed decisions about treatment and know what you'll actually pay. Many patients are surprised by bills after treatment because they didn't understand their coverage. Here's a straightforward guide to how dental insurance claims work.
 
 ## What Happens When Your Dentist Submits a Claim
@@ -142,7 +141,7 @@ Bad dental offices:
 
 Dental insurance claims follow a standard process: your dentist submits detailed information, insurance reviews it, and decides what to pay based on your coverage limits and requirements. Understanding deductibles, coverage percentages, annual maximums, and frequency limits helps you estimate your costs. Getting prior authorization for expensive procedures prevents surprises. If claims are denied, you can often appeal. Verifying coverage before treatment, getting written estimates, and reviewing explanations of benefits ensures there are no surprises about what you'll pay.
 
-> **Key Takeaway:** Understanding how dental insurance claims work helps you maximize your benefits and avoid surprises about your costs.
+> **Key Takeaway:** If you have dental insurance, understanding how claims work helps you make informed decisions about treatment and know what you'll actually pay.
 
 ## Related Articles
 

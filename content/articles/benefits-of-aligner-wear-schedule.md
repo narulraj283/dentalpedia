@@ -20,12 +20,11 @@ references:
   - "Gu J, et al. Efficacy of clear aligners in treating anterior open bite. Angle Orthod. 2021;91(1):44-50."
   - "Castroflorio T, et al. Clear aligner performance in controlling various vertical dimensions of overbite: a systematic review. Am J Orthod Dentofacial Orthop. 2017;151(3):440-454."
 ---
-
 ## Why Your Aligner Wear Schedule Matters So Much
 
-Clear aligners (like Invisalign) work through constant, gentle pressure. Each aligner moves your teeth a tiny, precise amount. For this to work properly, you need to wear them 22+ hours per day and change to a new one every 2 weeks on schedule. This consistency is critical for success. For more details, see our guide on [Accelerated Orthodontia](/article/accelerated-orthodontia-fast-track-braces.html).
+Clear aligners (like Invisalign) work through constant, gentle pressure. Each aligner moves your teeth a tiny, precise amount. For this to work properly, you need to wear them 22+ hours per day and change to a new one every 2 weeks on schedule. This consistency is critical for success.
 
-When you wear aligners as prescribed, your teeth respond predictably. They move into the programmed positions on time. When you don't wear them enough (say, 16-20 hours daily or changing them late), treatment lags behind schedule. Your teeth fall behind where the software predicted they'd be, and everything gets delayed. For more details, see our guide on [Accelerated Orthodontics](/article/accelerated-orthodontics-speeding-up-your-treatment.html).
+When you wear aligners as prescribed, your teeth respond predictably. They move into the programmed positions on time. When you don't wear them enough (say, 16-20 hours daily or changing them late), treatment lags behind schedule. Your teeth fall behind where the software predicted they'd be, and everything gets delayed.
 
 ## Wear Compliance Changes Everything
 
@@ -101,19 +100,8 @@ Clean them daily, change them on time, schedule follow-up appointments. Set phon
 
 Understand that flexibility about the schedule will extend your treatment significantly. Build in that buffer mentally if you can't commit to strict compliance.
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+Related reading: [Invisible Braces: A Complete Patient Guide](/article/benefits-of-invisible-braces-benefits.html) and [Timeline for Bite Problems Explained - Malocclusion](/article/timeline-for-bite-problems-explained.html).
 
 ## Conclusion
 
@@ -121,7 +109,7 @@ Clear aligner treatment success depends fundamentally on consistent wear—22+ h
 
 The technology is only as good as your commitment to wearing the aligners. Align your expectations: commit to consistent wear, integrate it into your routine, and you'll achieve rapid, satisfying results. Cut corners on compliance, and you'll face extended treatment with potential accuracy problems.
 
-> **Key Takeaway:** Clear aligners (like Invisalign) work through constant, gentle pressure. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** Clear aligners (like Invisalign) work through constant, gentle pressure.
 
 ## Related Articles
 

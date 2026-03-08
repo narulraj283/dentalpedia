@@ -22,12 +22,11 @@ references:
   - "Löe H, Silness J. Periodontal disease in pregnancy: Prevalence and severity. Acta Odontol Scand. 1963;21(6):533-551."
   - "Murakami S, Mealey BL, Mariotti A, et al. Dental plaque-induced gingival conditions. J Periodontol. 2018;89(Suppl 1):S17-S27."
 ---
-
 Bleeding gums affect nearly half of adults. In most cases, it's a sign of early gum disease. The good news: early treatment is simple and inexpensive. Ignore it, and treatment gets expensive fast. Here's what you need to know.
 
 ## What Causes Bleeding Gums
 
-**Bacteria buildup** (plaque): When you skip flossing or don't brush well, bacteria accumulate on teeth. Your immune system responds with inflammation. Gums swell and bleed.
+**Bacteria buildup** (plaque): When you skip flossing or don't brush well, bacteria accumulate on teeth. Your immune system responds with inflammation. Gums swell and bleed easily.
 
 **Gum disease**: If bacteria persist, your gums become infected (gingivitis or periodontitis). Infection causes bleeding.
 

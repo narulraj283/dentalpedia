@@ -32,7 +32,6 @@ references:
   - title: "Macena MC, et al. Thumb and finger sucking: differential effects on anterior occlusion. J Dent Child (Chic). 2010;77(2):82-87."
     url: https://pubmed.ncbi.nlm.nih.gov/20684855
 ---
-
 ## When Is Thumb Sucking a Problem?
 
 Thumb sucking is totally normal—70-80% of kids do it. But timing and intensity matter. Knowing when to worry and when to just wait helps you support your child's development without unnecessary stress.
@@ -212,16 +211,6 @@ With early intervention at ages 5-6:
 - Most tooth changes reverse on their own
 - If open bite persists, orthodontic treatment 18-24 months usually completes correction
 
-## Questions to Ask Your Dentist
-
-1. "Is my child's sucking habit a problem?"
-2. "Are teeth already changing?"
-3. "Should we wait or intervene now?"
-4. "What behavioral approaches do you recommend?"
-5. "At what point would a device help?"
-6. "Will the teeth fix themselves?"
-7. "What can I do at home?"
-
 ## The Bottom Line
 
 Thumb sucking is normal and most kids stop naturally. Intervention is wise if your child is still sucking heavily (4-6+ hours daily) after age 5-6. Behavioral approaches work well for motivated kids.
@@ -241,6 +230,3 @@ Remember that every person's situation is unique. What works well for one patien
 - [Space Maintainers for Premature Tooth Loss -](/article/space-maintainer-after-premature-tooth-loss.html)
 - [Space Maintainers for Children](/article/distal-shoe-maintainer-preventing-molar-shift.html)
 
-- [Overcoming Dental Fear in Children](/article/desensitization-gradual-fear-reduction.html)
-- [Toothpaste for Children: Age-Appropriate Fluoride](/article/toothpaste-for-children-age-appropriate-fluoride.html)
-- [Ectopic Canine Eruption](/article/ectopic-canine-misdirected-canine-eruption.html)

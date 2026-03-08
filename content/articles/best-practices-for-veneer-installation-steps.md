@@ -31,7 +31,6 @@ subcategory: Veneers & Laminates
 subcategory_slug: veneers
 title: 'Veneer Installation Protocol: Preparation, Fabrication'
 ---
-
 ## Your Consultation: Getting Started
 
 Your veneer journey starts with a detailed conversation about what you want to improve about your smile. Your dentist will ask about the specific teeth you want to change, whether the issue is color, shape, alignment, or size. They'll take photographs of your smile at rest, smiling naturally, and during a full smile. They'll also check your bite (how your teeth meet), look for any grinding or clenching habits, and assess your overall gum and tooth health.
@@ -129,6 +128,6 @@ Follow-up appointments at one week (checking margins, sensitivity, and bite) and
 - [Best Practices For Teeth Shade Matching](/article/best-practices-for-teeth-shade-matching.html)
 - [Best Practices For Tooth Gap Closure](/article/best-practices-for-tooth-gap-closure.html)
 - [Shade Rebound Why Teeth May Darken After Whitening](/article/shade-rebound-why-teeth-may-darken-after-whitening.html)
-- [Gingival Recontouring Techniques: Crown Lengthening,](/article/timeline-for-cosmetic-gum-shaping.html)
+- [Gingival Recontouring Techniques: Crown Lengthening](/article/timeline-for-cosmetic-gum-shaping.html)
 - [Smile Consultation and Treatment Planning](/article/smile-consultation-planning-treatment.html)
 

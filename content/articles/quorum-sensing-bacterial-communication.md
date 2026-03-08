@@ -30,7 +30,6 @@ references:
   - title: "Davey ME, Costerton JW. Microbial biofilms: from ecology to molecular genetics. Microbiol Rev. 2002;66(3):847-867."
     url: https://pubmed.ncbi.nlm.nih.gov/12209993
 ---
-
 ## How Your Mouth's Bacteria Work Together
 
 Your mouth contains hundreds of different bacteria. While most are harmless, the harmful ones use a clever system to coordinate their attacks on your gums. Think of it like this: a single bacterium attacking your gum is easy for your body to fight off. But when thousands of bacteria work together as a team, using chemical signals to organize their assault, they can overwhelm your immune system. This bacterial teamwork is called "quorum sensing"—and understanding it helps explain why gum disease develops and spreads.

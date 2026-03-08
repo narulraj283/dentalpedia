@@ -46,7 +46,6 @@ subcategory: Orthodontics
 subcategory_slug: overview-ortho
 title: 'Square Archwires in Orthodontics: Torque Expression'
 ---
-
 ## The Final Straightening Tool: Square Wires in Braces
 
 By the time you're in the finishing stages of your orthodontic treatment—typically the last few months—your teeth are mostly straight. But "mostly straight" isn't good enough. Your orthodontist now switches to square archwires to fine-tune the exact angle at which your tooth roots sit in your jaw. This might sound technical, but it's the difference between teeth that look good and teeth that look spectacular and stay straight for life. Square wires are the precision tools that create those final perfect adjustments.
@@ -122,6 +121,3 @@ Square archwires represent the definitive tool for achieving precise root positi
 - [Cost of Bite Correction Methods](/article/cost-of-bite-correction-methods.html)
 - [Canine Positioning: Proper Cusp Tip Location](/article/canine-positioning-proper-cusp-tip-location.html)
 
-- [Clear Aligner Clinical Protocol](/article/best-practices-for-aligner-wear-schedule.html)
-- [Bracket Placement and Exact Positioning: Slot Height,](/article/bracket-placement-exact-positioning.html)
-- [Common Misconceptions About Braces Benefits](/article/common-misconceptions-about-braces-benefits.html)

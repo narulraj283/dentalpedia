@@ -22,7 +22,6 @@ references:
   - "Dunn, W., Moles, D., & Downer, M. (2003). Orthodontic treatment seeking and provision: a national survey. British Dental Journal, 194(12), 635-641."
   - "Naini, F., et al. (2010). The enigma of facial beauty: Esthetics, proportions, deformity, and controversy. Journal of Craniofacial Surgery, 22(3), 914-920."
 ---
-
 ## Why Combining Orthodontics and Cosmetic Dentistry Works Better
 
 If you're considering improving your smile, you might think you need to choose between orthodontic treatment (braces or aligners) to straighten your teeth or cosmetic dentistry (veneers, whitening, bonding) to improve how they look. Actually, many people get the best results by doing both—and doing them in a coordinated way. When orthodontists and cosmetic dentists work together, they can achieve results that neither could accomplish alone.
@@ -53,7 +52,7 @@ Why this order? Because once teeth are aligned properly, your cosmetic dentist c
 
 Today, you have options for how to straighten your teeth. Traditional metal or ceramic braces are highly effective, especially for complex cases. Clear aligner systems (like Invisalign) are less noticeable and can be removed for eating and cleaning. Both work well; the choice depends on your preferences, the complexity of your case, and cost considerations.
 
-For combined orthodontic-cosmetic cases, clear aligners can be advantageous because you can see your smile improving gradually throughout treatment, which is psychologically rewarding. However, traditional braces sometimes provide slightly more precise control, which matters if your alignment is complex. Your orthodontist can advise which system is best suited to your specific situation. Learn more about [Clear Aligner Options](/article/clear-aligner-comparison-what-you-need-to-know.html).
+For combined orthodontic-cosmetic cases, clear aligners can be advantageous because you can see your smile improving gradually throughout treatment, which is psychologically rewarding. However, traditional braces sometimes provide slightly more precise control, which matters if your alignment is complex. Your orthodontist can advise which system is best suited to your specific situation.
 
 ## Cosmetic Refinement After Orthodontics
 
@@ -71,7 +70,7 @@ Your dentist will help you decide which procedures make sense for your goals and
 
 When selecting shades for cosmetic restorations, it's important to wait until after orthodontia is complete and teeth have settled into their final position. Also, consider whitening your natural teeth before choosing restoration shades. This way, your restorations can be matched to your whitened teeth rather than your original tooth color. If you get restorations matched to your original color and then whiten your teeth later, the restorations won't whiten with them and will look discolored.
 
-Your dentist should take detailed photos during shade selection and communicate clearly with the laboratory about your aesthetic goals. Is this restoration supposed to look exactly like a specific adjacent tooth, or should it be slightly whiter to look freshly whitened? These details ensure you get what you want. Learn more about [Shade Matching](/article/color-selection-for-dental-restorations.html).
+Your dentist should take detailed photos during shade selection and communicate clearly with the laboratory about your aesthetic goals. Is this restoration supposed to look exactly like a specific adjacent tooth, or should it be slightly whiter to look freshly whitened? These details ensure you get what you want.
 
 ## Contact Relationships and Functional Considerations
 
@@ -93,11 +92,14 @@ Cosmetic restorations don't need special care beyond normal oral hygiene, but th
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
+
+Related reading: [Gummy Smile Correction: Procedures and Results](/article/gummy-smile-correction-procedures-and-results.html) and [Why Teeth Shade Matching Matters](/article/why-teeth-shade-matching-matters.html).
+
 ## Conclusion
 
 Combining orthodontic treatment with cosmetic dentistry achieves superior smile aesthetics compared to either treatment alone. When properly coordinated, orthodontics establishes optimal tooth position and functional relationships, while cosmetic procedures refine color, shape, and individual tooth characteristics. The result is a smile that looks natural, functions optimally, and makes you confident.
 
-> **Key Takeaway:** If you're considering improving your smile, you might think you need to choose between orthodontic treatment (braces or aligners) to straighten your.
+> **Key Takeaway:** If you're considering improving your smile, you might think you need to choose between orthodontic treatment (braces or aligners) to straighten your teeth or cosmetic dentistry (veneers, whitening, bonding) to improve how they look.
 
 ## Related Articles
 

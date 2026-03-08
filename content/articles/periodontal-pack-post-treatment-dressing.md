@@ -43,7 +43,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Periodontal Pack Post Treatment Dressing
 ---
-
 ## What Is a Periodontal Dressing?
 
 After you've had gum surgery, your dentist may place a special protective dressing over the surgical area. This dressing is a putty-like material that acts like a bandage for your gums, protecting the healing tissues from food, bacteria, and trauma while your mouth heals. Think of it as a temporary covering that keeps the surgical site clean and protected during those critical first days of healing.
@@ -117,5 +116,5 @@ Whether you're exploring treatment for the first time or looking into follow-up 
 - [Timeline for Gum Disease Prevention](/article/timeline-for-gum-disease-prevention.html)
 - [Regenerative Therapy and Growing New Tissue](/article/regenerative-therapy-growing-new-tissue.html)
 
-- [Why Gum Disease Prevention Matters - Protecting Teeth,](/article/why-gum-disease-prevention-matters.html)
+- [Why Gum Disease Prevention Matters - Protecting Teeth](/article/why-gum-disease-prevention-matters.html)
 

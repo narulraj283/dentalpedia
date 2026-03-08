@@ -30,7 +30,6 @@ references:
   - title: "Osteomyelitis development from untreated odontogenic sources"
     url: https://pubmed.ncbi.nlm.nih.gov/24570287
 ---
-
 ## Why Emergency Tooth Pain Matters: Managing Acute Crises and Preventing Serious Complications
 
 Severe dental pain isn't just uncomfortable—it's a sign that something serious is happening and requires prompt professional treatment. Untreated dental infections can spread through your body, potentially causing life-threatening complications. Even "just" pain affects your quality of life, ability to work, and overall well-being. Understanding why prompt emergency dental care matters—the specific complications that develop without treatment—helps you recognize when you need immediate care and why waiting is dangerous.
@@ -86,12 +85,6 @@ Effective emergency dental practice incorporates rapid triage distinguishing tru
 Urgent dental problems including severe pain, significant trauma, or contained abscess require same-day or next-day dental evaluation and intervention. Modern emergency protocols emphasize definitive treatment when possible—endodontic therapy or extraction for symptomatic teeth—rather than symptomatic therapy alone.
 
 Pain management in emergency settings appropriately combines anesthesia administration with definitive treatment. Inhalation analgesia with nitrous oxide, anxiolysis with benzodiazepines in appropriate settings, and local anesthesia all contribute to comfort and cooperation during emergency procedures.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss why emergency tooth pain matters, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

@@ -46,7 +46,6 @@ subcategory: Endodontic Overview
 subcategory_slug: overview-endo
 title: Root Canal Retreatment - When Resin Occurs
 ---
-
 ## What Happens When Your Root Canal Fails?
 
 Sometimes a tooth that received a root canal treatment doesn't heal the way it should. This can happen to about one in ten treated teeth within five years. When this occurs, your dentist might recommend a second procedure called root canal retreatment. Think of it as getting another chance to save your tooth. During retreatment, your dentist will carefully remove the old filling material from inside your tooth, clean out the canal system again, and place fresh filling material to help your tooth heal properly.
@@ -116,6 +115,6 @@ Root canal retreatment gives your previously treated tooth a real second chance 
 - [Root Canal Therapy Success Rate and Long-Term Outcomes](/article/root-canal-therapy-success-rate-and-long-term-outcomes.html)
 - [Warm Gutta-Percha and Softened-Filling Methods](/article/warm-gutta-percha-softened-filling-method.html)
 - [Irrigation Solutions - Medicinal Liquids -](/article/irrigation-solutions-medicinal-liquids.html)
-- [Stainless Steel Endodontic Files: Metallurgy,](/article/stainless-steel-files-traditional-material.html)
+- [Stainless Steel Endodontic Files: Metallurgy](/article/stainless-steel-files-traditional-material.html)
 - [Dead Nerve Tissue: Understanding Pulp Necrosis](/article/necrotic-pulp-dead-nerve-tissue.html)
 

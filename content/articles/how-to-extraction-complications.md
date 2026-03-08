@@ -28,7 +28,6 @@ references:
   - title: "Antibiotic prophylaxis in tooth extractions: indications and evidence"
     url: https://www.ncbi.nlm.nih.gov/pubmed/20561482
 ---
-
 Most tooth extractions go smoothly without significant problems. But like any procedure, complications can happen. Knowing what to expect and what signs indicate a problem helps you take care of yourself properly and know when to call your dentist.
 
 ## Normal vs. Complicated Extraction
@@ -105,14 +104,6 @@ If you're on blood thinners (warfarin, apixaban, etc.), discuss this with your d
 If you have diabetes, healing might be slower. Tight blood sugar control helps healing. Infection risk is also higher.
 
 If you're a smoker, smoking dramatically increases complications. Seriously consider quitting, at least during healing.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about extraction complications and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 

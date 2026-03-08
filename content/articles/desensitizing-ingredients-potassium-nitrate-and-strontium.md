@@ -26,7 +26,6 @@ subcategory: Preventive Overview
 subcategory_slug: overview-prevent
 title: 'Understanding Tooth Sensitivity Relief: How Potassium'
 ---
-
 ## Introduction
 
 Tooth sensitivity—that sharp pain when eating ice cream, drinking hot coffee, or even breathing cold air—affects millions of people. Two active ingredients, potassium nitrate and strontium, are proven to reduce sensitivity. But how do they work, and which one might be better for you? Understanding the science helps you choose the right product and use it effectively.
@@ -132,7 +131,7 @@ Others include fluoride, which strengthens enamel and provides additional protec
 
 Potassium nitrate and strontium are both proven, safe ways to reduce tooth sensitivity. Potassium works by calming the nerve and requires consistent use for 3-4 weeks. Strontium works by physically blocking pain pathways and works faster. Both can be used as toothpaste or professional applications. Combined with addressing the cause of sensitivity (reducing acid exposure, using soft brushes, treating gum disease), these ingredients help most people achieve significant sensitivity relief.
 
-> **Key Takeaway:** Learn how the active ingredients in sensitivity toothpastes work to reduce pain from exposed tooth roots.
+> **Key Takeaway:** Tooth sensitivity—that sharp pain when eating ice cream, drinking hot coffee, or even breathing cold air—affects millions of people.
 
 ## Related Articles
 

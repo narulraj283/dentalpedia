@@ -23,10 +23,9 @@ subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-sedation
 title: Post Sedation Instructions
 ---
+You just woke up from sedation feeling groggy and confused. Before you do anything, read this—sedation affects your judgment and coordination for much longer than you feel affected. The most important rule is simple but crucial: you need someone else driving you home, and you can't make important decisions for 24 hours.
 
 ## Post-Sedation Instructions: Your Guide to Safe Recovery
-
-If you received sedation for your dental procedure, you need to follow specific post-operative instructions for safe and smooth recovery. This guide covers everything you need to know.
 
 ## The Most Important Rule: You Need a Responsible Escort
 
@@ -142,14 +141,6 @@ Contact your dentist if:
 - **Rest is good**—let yourself recover
 - **Side effects are temporary**—they wear off
 - **Call your dentist with any concerns**
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about post-sedation instructions - complete recovery... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

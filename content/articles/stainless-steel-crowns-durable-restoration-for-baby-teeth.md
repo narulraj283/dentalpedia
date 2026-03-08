@@ -45,7 +45,6 @@ subcategory: Pediatric Dentistry
 subcategory_slug: overview-peds
 title: Stainless Steel Crowns as Durable Restorations
 ---
-
 ## Introduction
 
 If your child has extensive decay in a baby molar, your dentist might recommend a stainless steel crown. You might wonder: "Why put a metal crown on a tooth that will fall out anyway?" It's a fair question, but the answer is compelling. Stainless steel crowns are by far the most durable option for severely decayed baby teeth, with success rates over 95%. They keep your child's tooth healthy and functional until it naturally falls out. This guide explains why they're recommended, how they work, and why they're better than other options.
@@ -115,9 +114,6 @@ When a stainless steel crown is properly placed and cemented, complications are 
 
 **Spacing Issues**: Occasionally, primary molar spacing changes after SSC placement. If the crown prevents normal eruption of permanent successors or creates functional interference, the crown may require removal and replacement with a simpler restoration or extraction.
 
-## Conclusion
-
-Stainless steel crowns are the gold-standard treatment for severely decayed baby molars. They have a 95%+ success rate, are incredibly durable, and protect your child's tooth effectively until it naturally falls out. Yes, they look metallic, but their superior durability and function far outweigh any esthetic concerns for a temporary tooth. Your dentist's recommendation for a stainless steel crown is based on solid evidence and is truly in your child's best interest.
 
 ## Conclusion
 

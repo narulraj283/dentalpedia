@@ -49,7 +49,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Recovery After Extraction Complete Guide
 ---
-
 ## What Happens When Your Tooth Is Extracted
 
 When your dentist removes a tooth, your body immediately begins a healing process that will continue for months. Understanding this process helps you care for the extraction site properly and know what to expect as you heal. The healing journey includes predictable phases, each with specific biological events that determine your long-term bone health and whether you'll eventually be able to have an implant or need other tooth replacement.

@@ -22,7 +22,6 @@ references:
   - "Zerman N, Cavalleri G. Traumatic injuries to permanent anterior teeth and their sequelae: a literature review. Dent Traumatol. 1993;9(4):143-152."
   - "Petersson EL, Andreasen JO, Sorensen B. Traumatic injuries of the permanent front teeth in Danish children (aged 7-12). Part I: General characteristics. Acta Odontol Scand. 1997;55(5):294-300."
 ---
-
 Accidents happen—a fall, a sports injury, a bite on something hard—and suddenly you have a chipped or broken tooth. The good news is that cosmetic tooth repair is usually straightforward and affordable. Let's talk about what you're dealing with and what your options are.
 
 ## Types of Tooth Damage
@@ -91,7 +90,7 @@ You can eat normally within a few hours of bonding (after the material fully har
 
 A small chip repaired with bonding costs $150 to $300 and takes one appointment. A cracked tooth needing root canal plus crown costs $1,800 to $3,500 and takes multiple appointments over weeks. A tooth broken below the gum might need extraction and replacement ($2,500 to $6,000). Getting prompt treatment (within hours or days of injury) offers the best chance to save your tooth. Talk to your dentist about saving damaged teeth—extraction and replacement are usually much more expensive than repair.
 
-> **Key Takeaway:** Fix chipped, cracked, or broken teeth. Learn about repair options from simple bonding to crowns, costs, and what works best for your tooth damage.
+> **Key Takeaway:** Accidents happen—a fall, a sports injury, a bite on something hard—and suddenly you have a chipped or broken tooth.
 
 ## Related Articles
 

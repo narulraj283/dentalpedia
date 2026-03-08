@@ -22,14 +22,11 @@ references:
   - "Sanz M, et al. Surgical techniques on implant treatment: consensus report of the Sixth European Workshop on Periodontology. J Clin Periodontol. 2008;35 Suppl 8:204-207."
   - "Darby I, et al. Implant stabilization in grafted and non-grafted extraction sockets: 6-month data. J Periodontol. 2009;80(8):1297-1305."
 ---
-
 ## The First 24 Hours: Critical Recovery Time
 
-**When the numbness wears off (2-4 hours after surgery):**
+Heading into oral surgery? Your first 24 hours afterward matter most—what you do (and don't do) sets the tone for smooth healing. Understanding what to expect when the numbness wears off and how to manage pain and swelling helps you recover faster and prevents complications.
 
-Your mouth will be numb for 4-8 hours. Don't eat or drink while numb because you might bite your cheek or tongue accidentally (happens to 3-5% of people). Once sensation returns, avoid hot foods and drinks—your mouth is still numb-ish and can't sense burns. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
-
-Some oozing of blood-tinged saliva is completely normal for the first 2-4 hours. But if it keeps bleeding steadily, that's a problem. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+Some oozing of blood-tinged saliva is completely normal for the first 2-4 hours. But if it keeps bleeding steadily, that's a problem.
 
 **Controlling bleeding:**
 
@@ -249,11 +246,16 @@ Pain is best controlled with NSAIDs like ibuprofen, not opioids. Bone naturally 
 
 Follow your dentist's instructions carefully, go to all follow-up appointments, and tell your dentist immediately if anything feels wrong. Most people heal smoothly without complications.
 
+
+Related reading: [Understanding Dental Anesthesia: From Local to General](/article/risk-and-concerns-with-anesthesia-types.html) and [Composite Bonding Margins: Blending Techniques](/article/composite-bonding-margins-blending.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Postoperative recovery follows predictable timeline: immediate phase (0-24 hours) focuses on bleeding control and anesthesia monitoring; early phase (days 2-7) emphasizes wound protection and infection prevention; intermediate phase (weeks 2-4) involves activity resumption and pain resolution; late phase extends 6-24 months for complete bone healing and remodeling. If you have questions, your dentist can help you understand your options.
 
-> **Key Takeaway:** Your mouth will be numb for 4-8 hours. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** When the numbness wears off (2-4 hours after surgery):.
 
 ## Related Articles
 

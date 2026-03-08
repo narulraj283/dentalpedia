@@ -28,7 +28,6 @@ references:
   - title: "Andreasen JO, Andreasen FM, Andersson L, eds. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Oxford: Blackwell; 2007."
     url: https://pubmed.ncbi.nlm.nih.gov/
 ---
-
 ## What Is Root Resorption?
 
 Root resorption sounds like something from a science fiction movie—your tooth root actually dissolving. It's a real condition where your body's cells start breaking down your tooth root structure, gradually shortening it. Think of it like your body mistaking your tooth root for something that needs to be removed and activating resorption cells to dissolve it.

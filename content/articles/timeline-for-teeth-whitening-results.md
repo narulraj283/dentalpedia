@@ -32,7 +32,6 @@ references:
   - title: "Klukowska M, Federlin M, Schoon M, et al. Clinical efficacy and safety of a novel whitening technology. American Journal of Dentistry. 2018;31(6):338-344."
     url: https://pubmed.ncbi.nlm.nih.gov/30666316
 ---
-
 ## Professional Teeth Whitening Results: What You'll Actually Get
 
 Teeth whitening is one of the most requested cosmetic treatments, and for good reason—it delivers visible results quickly. But understanding what results are realistic, how long they last, and how to keep your smile bright helps you make smart decisions about this popular treatment.
@@ -106,12 +105,6 @@ The best candidates for whitening are people who:
 - Accept that results fade and maintenance is needed
 - Are willing to modify habits (reducing staining foods/beverages)
 - Have healthy enamel (teeth with thin enamel or previous erosion might not be ideal candidates)
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for teeth whitening results, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## Tips for Long-Term Success
 

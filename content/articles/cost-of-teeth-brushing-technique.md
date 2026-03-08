@@ -20,7 +20,6 @@ references:
   - "Van der Weijden F, Campbell SL, Dörfer CE, et al. Safety of oscillating-rotating electric toothbrushes compared to manual toothbrushes: a systematic review. J Clin Periodontol. 2011;38(7):714-724."
   - "Sanz M, Beighton D, Curtis MA, et al. Role of microbial biofilms in the maintenance of oral health and in the development of dental caries and periodontal diseases. Consensus report of group 1 of the Joint EFP/ORCA workshop on the boundaries between caries and periodontal diseases. J Clin Periodontol. 2017;44(S18):S75-S84."
 ---
-
 ## The Right Technique: Modified Bass Method
 
 The Modified Bass technique is the gold standard for brushing—dentists have used it since the 1950s. Here's exactly how to do it: hold your toothbrush at a 45-degree angle to your gums. Use short, gentle vibrating strokes of about 1 to 2mm. Brush all tooth surfaces—outer, inner, and chewing surfaces—for 2 to 3 minutes twice daily.
@@ -82,7 +81,7 @@ For more information, see [Clinical Approaches to Tartar Prevention and](/articl
 
 Proper brushing technique prevents cavities and gum disease better than anything else you can do at home. Invest in quality soft-bristled brushes, learn the Modified Bass technique from your dentist, and brush for 2 to 3 minutes twice daily. Combine brushing with daily flossing for complete protection. This low-cost regimen prevents thousands of dollars in future dental treatment.
 
-> **Key Takeaway:** Learn the right way to brush your teeth and what tools work best to prevent cavities and gum disease.
+> **Key Takeaway:** The Modified Bass technique is the gold standard for brushing—dentists have used it since the 1950s.
 
 ## Related Articles
 

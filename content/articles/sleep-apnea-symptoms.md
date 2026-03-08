@@ -30,7 +30,6 @@ references:
   - title: "Eckert DJ et al. Phenotypic approaches to obstructive sleep apnea. Associations with obstructive events. Am J Respir Crit Care Med. 2013;188(5):519-529."
     url: https://pubmed.ncbi.nlm.nih.gov/23788760
 ---
-
 ## Recognizing Sleep Apnea Symptoms
 
 Sleep apnea shows up differently in different people. You might think the only symptom is snoring and feeling tired during the day, but that's just the beginning. Some people have sleep apnea without ever snoring, and others feel exhausted even though they slept for eight hours. Understanding the variety of symptoms helps you recognize sleep apnea in yourself or your loved ones—and that early recognition can be life-saving.
@@ -78,14 +77,6 @@ Not everyone feels sleepy during the day when they have sleep apnea. Some people
 **Use the STOP-Bang screening** questions that your doctor or dentist might give you. These simple questions help identify who needs formal sleep testing.
 
 **Get formal sleep testing** if your doctor recommends it. A sleep study measures how often your breathing stops, how low your oxygen drops, and how much your sleep is disrupted. This is the only way to confirm sleep apnea and measure its severity.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about sleep apnea symptoms: recognition and assessment and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

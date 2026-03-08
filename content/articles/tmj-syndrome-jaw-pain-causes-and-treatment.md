@@ -11,7 +11,6 @@ subcategory: TMJ & Sleep Overview
 subcategory_slug: overview-tmj-sleep
 title: 'TMJ Syndrome: Causes, Clinical Presentation'
 ---
-
 ## Introduction
 
 TMJ syndrome (or TMD) affects about 1 in 10 people at some point, making it incredibly common. Despite being prevalent, many people suffer for years without understanding what's happening or knowing that effective treatments exist. This comprehensive guide explains what TMJ syndrome is, what causes it, how it's diagnosed, and what actually works for treatment. Most importantly: 80-90% of people improve dramatically with conservative treatment.
@@ -122,12 +121,6 @@ Specialist referral (oral surgeon, orofacial pain dentist) is appropriate if:
 ## Long-Term Outlook
 
 Most people improve significantly within 2-3 months of consistent treatment. Some need splints and stress management long-term to prevent recurrence. The key: TMD develops from habits and stress, so recovery requires habit change. Surgery is rarely needed—reserve it for documented structural pathology failing 6-12 months of conservative treatment.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss tmj syndrome jaw pain causes and treatment, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

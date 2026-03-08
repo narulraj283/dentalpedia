@@ -32,7 +32,6 @@ references:
   - title: "Fillingim RB, Ohrbach R, Greenspan JD, Knott C, Diatchenko L, Dubner R, et al. Potential psychosocial risk factors for chronic TMD: Descriptive data and empirically identified domains from the OPPERA case-control study. J Pain. 2011;12(11 Suppl):T46-T60."
     url: https://pubmed.ncbi.nlm.nih.gov/22074751
 ---
-
 ## Introduction
 
 Have you ever wondered why you might be able to bite harder now than you could when you were younger? Your bite force—the power of your chewing—changes throughout your life. When you're a young child, your bite is quite gentle because your jaw muscles are still developing.

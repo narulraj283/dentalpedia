@@ -22,14 +22,13 @@ references:
   - "Schultze-Mosgau S, Schultze-Mosgau S, Nkenke E. Combination of intrusive and extrusive periodontal trauma in humans: a case report on tissue reaction. Dent Traumatol. 2000;16(5):293-299."
   - "Bourauel C, Vollmer D, Jäger A. Application of the finite element method to the initial tooth movement during intra-alveolar tooth splitting. J Biomech. 2000;33(8):975-984."
 ---
-
 ## Why Bruising Happens After Tooth Extraction
 
-When your tooth comes out, the blood vessels surrounding it tear. These blood vessels are in the ligament holding your tooth in place, in the bone itself, and in the surrounding tissue. When they tear, red blood cells leak into the tissue spaces, creating bruising (medical term: ecchymosis). The extent of bruising depends entirely on how much trauma happened. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
+When your tooth comes out, the blood vessels surrounding it tear. These blood vessels are in the ligament holding your tooth in place, in the bone itself, and in the surrounding tissue. When they tear, red blood cells leak into the tissue spaces, creating bruising (medical term: ecchymosis). The extent of bruising depends entirely on how much trauma happened.
 
 Simple extractions of single-rooted teeth (like many lower front teeth) cause minimal bleeding and visible bruising in only 10-15% of cases—you might barely notice it. Surgical extractions of impacted wisdom teeth or teeth needing bone removal produce extensive bruising in 60-75% of cases—this is normal and expected. Your surgeon's technique matters: gentle, atraumatic (trauma-free) technique minimizes bruising, while rough extraction techniques cause more.
 
-Additionally, the location affects where bruising appears. Extractions in your upper front area produce bruising on your upper lip and cheek. Extractions in your lower back teeth cause bruising along your jaw angle and neck area because different arteries supply those regions. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
+Additionally, the location affects where bruising appears. Extractions in your upper front area produce bruising on your upper lip and cheek. Extractions in your lower back teeth cause bruising along your jaw angle and neck area because different arteries supply those regions.
 
 ## Who Gets More Bruising?
 
@@ -144,6 +143,9 @@ Ecchymosis follows characteristic color progression: red-purple appearance at 0-
 Prevention through atraumatic technique, operative time minimization, and vascular hemostasis significantly reduces ecchymosis severity. Post-operative management emphasizing ice application, compression, elevation, and activity restriction reduces hemorrhage progression by 20-40%. Patient counseling regarding expected timeline and cosmetic options optimizes patient satisfaction and reduces inappropriate treatment seeking for this self-limited condition.
 
 *Always consult your dentist to determine the best approach for your individual situation.*
+
+
+Related reading: [Why Tooth Extraction Recovery Matters](/article/why-tooth-extraction-recovery-matters.html) and [Risk and Concerns with Pain Management Surgery](/article/risk-and-concerns-with-pain-management-surgery.html).
 
 ## Conclusion
 

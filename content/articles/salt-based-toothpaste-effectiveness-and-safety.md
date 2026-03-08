@@ -47,7 +47,6 @@ subcategory: Holistic Overview
 subcategory_slug: overview-holistic
 title: Salt Based Toothpaste Effectiveness and Safety
 ---
-
 ## Natural Toothpastes: Separating Science From Marketing
 
 More and more people are interested in natural toothpaste alternatives like salt and baking soda. These ingredients have been used for thousands of years, and modern products capitalize on their traditional use. But do they actually work as well as fluoride toothpastes? Are they safe? Here's what the science says.

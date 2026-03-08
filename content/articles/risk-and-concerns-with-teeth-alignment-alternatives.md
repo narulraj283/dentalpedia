@@ -32,7 +32,6 @@ references:
   - title: "Natera RB, Aguila FJ, Valverde LF. Comparison of comfort, arch perimeter and alignment changes between self-ligating and conventional brackets. Angle Orthod. 2013;83(2):228-235."
     url: https://pubmed.ncbi.nlm.nih.gov/22928678
 ---
-
 ## At-Home Teeth Aligners: Why Professional Orthodontists Matter
 
 You've probably seen advertisements for at-home teeth aligner kits. They promise straight teeth without visits to an orthodontist, and they seem more affordable. But the reality is much more complicated and potentially dangerous. Teeth straightening requires much more than moving teeth into a straight line—it involves complex bite relationships and careful force application. Without professional supervision, at-home systems can cause problems that cost far more to fix than the savings you thought you were getting.
@@ -118,43 +117,10 @@ Conclusion: Professional Supervision as Risk Mitigation
 
 The apparent simplicity of teeth straightening masks the profound complexity of achieving proper bite correction that is stable, functional, and sustainable over a lifetime. At-home aligner systems and cosmetic-only approaches bypass the essential professional decision-making and monitoring that characterizes evidence-based orthodontic treatment. The long-term consequences—TMJ problems, periodontal damage, root resorption, relapse, and complications requiring expensive corrective treatment—make unsupervised orthodontics a false economy. Patients deserve informed counseling about these risks and the clinical advantages of professional orthodontic care.
 
-## How Forces Applied Wrong Can Damage Your Teeth
-
-## Relapse: Your Teeth Shifting Back
-
-## Jaw Joint Problems From Improper Bite Correction
-
-## Gum and Bone Damage From Improper Forces
-
 ## At-Home Aligner Dangers: Inadequate Anchorage Control and Unwanted Side Effects
 
-## Incomplete Treatment and Bite Relationship Consequences
 
-## Temporomandibular Joint Complications from Partial Orthodontic Correction
-
-## Long-Term Periodontal Consequences of Improper Alignment
-
-## Root Resorption: Invisible Damage from Improper Force Application
-
-## Relapse and Long-Term Stability Issues Following Inadequate Treatment
-
-## Clinical Recommendations and Risk Counseling
-
-Conclusion: Professional Supervision as Risk Mitigation
-
-## Conclusion: Professional Supervision Prevents Expensive Problems
-
-The upfront cost savings from at-home aligners often becomes expensive once you factor in complications. Root resorption, jaw joint problems, relapsed teeth, and periodontal damage can each require significant treatment to address. Many people end up paying far more total than if they'd pursued professional treatment initially.
-
-Professional orthodontists aren't trying to charge you more for no reason. The monitoring, planning, and adjustment they provide prevents problems that cost thousands to correct later. For most people, working with an orthodontist—even if you need to find a payment plan or modify the treatment scope—provides better value than cheap at-home systems.
-
-- [Traditional Metal Braces: Brackets and Wires Explained](/article/traditional-metal-braces-brackets-and-wires-explained.html)
-- [Adult Braces Options: Complete Guide](/article/adult-braces-options-complete-guide.html)
-- [Braces Food Restrictions: Complete Guide](/article/braces-food-restrictions-complete-guide.html)
-
-Krishnan's cellular and molecular research on orthodontic force demonstrated that the biological response to tooth movement is highly individual and dependent on precise force characteristics—magnitude, direction, duration, and interval of application. Forces applied too vigorously create areas of pressure that exceed the vascularity of the periodontal ligament (PDL), resulting in sterile necrosis and accelerated bone resorption. Conversely, forces applied intermittently without proper mechanical optimization may cause excessive inflammation and hyalinization. Professional orthodontists adjust force characteristics continuously throughout treatment based on observed movement patterns. At-home systems cannot replicate this individualized response monitoring.
-
-The absence of professional oversight also means that aligner trays continue applying force even when biological limits are reached. A patient might experience pain and progression of root resorption—warning signs of excessive force—yet continue treatment without intervention because no professional is monitoring their progress. By the time damage becomes apparent on radiographs, irreversible root shortening may have occurred, fundamentally compromising the long-term viability of those teeth.
+Related reading: [Bite Correction Methods and Malocclusion Treatment: A](/article/benefits-of-bite-correction-methods.html) and [Rapid Palatal Expander - Speed and Safety](/article/rapid-palatal-expander-speed-and-safety.html).
 
 ## Conclusion
 

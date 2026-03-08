@@ -28,7 +28,6 @@ references:
   - title: "Rotation stability and relapse prevention: fixed bonded retainer protocols"
     url: https://www.ncbi.nlm.nih.gov/pubmed/22264903
 ---
-
 If one or more of your front teeth are rotated—twisted or turned to the side—you're definitely not alone. About one in three people with orthodontic issues has rotated teeth, making it one of the most common problems orthodontists treat. The good news is that rotated front teeth respond well to braces, though they require some special attention to get them straight and keep them straight. Understanding why rotations happen and how they're corrected helps you appreciate why your orthodontist might dedicate extra time to this particular aspect of your treatment. Learning more about [Timeline for Teeth Straightening Cost](/article/timeline-for-teeth-straightening-cost.html) can help you understand this better.
 
 ## Why Rotations Happen
@@ -90,6 +89,9 @@ This is why rotation relapse (teeth moving back toward rotation after braces) is
 After your braces come off, you'll probably get a fixed bonded retainer on the back of your front teeth. This small wire keeps your teeth from rotating back to their original position. You can't see it, it doesn't affect eating or speaking, and it stays in place indefinitely.
 
 You'll also get removable retainers (like a Hawley retainer or clear retainer) to maintain all your other tooth movements. The combination of fixed bonded retention plus removable retention gives you the best chance of keeping your teeth perfectly aligned long-term.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

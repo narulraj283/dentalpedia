@@ -31,16 +31,15 @@ subcategory: Athletic Performance
 subcategory_slug: athletic-performance
 title: 'Athletic Drink Acidity: Effects on Dental Erosion'
 ---
-
 If you're a serious athlete, your teeth are at risk from something unexpected: sports drinks. Athletes who drink sports drinks, energy drinks, or energy gels during training are damaging their teeth without realizing it. The acid in these drinks dissolves tooth enamel over time.
 
-Between 36-85% of elite athletes have tooth erosion—that's way higher than in non-athletes. Understanding how sports drinks damage teeth and what you can do about it is important if you want to keep your teeth healthy while staying hydrated. For more details, see our guide on [Athletic Mouthguard Selection](/article/athletic-mouthguard-custom-vs-stock.html).
+Between 36-85% of elite athletes have tooth erosion—that's way higher than in non-athletes. Understanding how sports drinks damage teeth and what you can do about it is important if you want to keep your teeth healthy while staying hydrated.
 
 ## How Acidic Are Sports Drinks?
 
 Most sports drinks are surprisingly acidic. Gatorade ranges from pH 2.9-3.3 (pH 7 is neutral, and lower numbers are more acidic). Powerade is pH 2.75.
 
-Energy drinks like Red Bull and Monster are even worse—pH 3.3 and 2.7 respectively. For comparison, cola is pH 2.5-2.7. So many sports drinks are nearly as acidic as soda. For more details, see our guide on [Sports Dentistry](/article/dental-care-schedule-around-competition.html).
+Energy drinks like Red Bull and Monster are even worse—pH 3.3 and 2.7 respectively. For comparison, cola is pH 2.5-2.7. So many sports drinks are nearly as acidic as soda.
 
 For context, milk is pH 6.5-6.8, and plain water is pH 7.0. The critical pH level for tooth erosion is around 5.5—below that, acid starts dissolving tooth enamel. Most sports drinks are way below that level.
 
@@ -100,25 +99,12 @@ Sports drinks (pH 2.7-3.3) are nearly as acidic as soda and cause tooth erosion 
 
 Water alone is adequate for exercise under 90 minutes; sports drinks are only necessary for endurance training. Drinking quickly, avoiding sipping, rinsing with water, and delaying toothbrushing reduce erosion risk. Fluoride application and professional monitoring are appropriate for high-risk athletes. Staying hydrated with water and choosing sports drinks only when truly needed protects your teeth long-term.
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+Related reading: [Sports and Dental Care: Scheduling Treatment Around](/article/dental-care-schedule-around-competition.html) and [Custom Mouthguards for Athletes](/article/mouth-guard-fitting-in-athletes.html).
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
-
-> **Key Takeaway:** If you're a serious athlete, your teeth are at risk from something unexpected: sports drinks. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** Water alone is adequate for exercise under 90 minutes; sports drinks are only necessary for endurance training.
 
 ## Related Articles
 

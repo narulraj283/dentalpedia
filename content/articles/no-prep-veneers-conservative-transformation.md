@@ -18,7 +18,6 @@ references:
   - title: "Conservative Adhesive Dentistry: No-Prep Veneers and Tooth Structure Preservation"
     url: https://www.ncbi.nlm.nih.gov/pubmed/32173293
 ---
-
 ## Transform Your Smile Without Removing Tooth Structure
 
 If you've been considering veneers to improve your smile but worried about having your teeth shaved down, there's good news. No-prep veneers offer a newer approach that can dramatically improve your smile while keeping your natural teeth intact. Instead of removing tooth structure, these veneers are bonded to the front of your teeth, creating beautiful cosmetic results without permanent changes to your tooth structure.

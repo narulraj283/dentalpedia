@@ -22,7 +22,6 @@ references:
   - "Kinane DF, Stathopoulou PG, Papapanou PN. Periodontal diseases. Nat Rev Dis Primers. 2017;3:17066."
   - "Worthington HV, MacDonald L, Poklepovic Pericic T, et al. Home use of interdental cleaning devices, in addition to toothbrushing, for preventing and controlling periodontal diseases and dental caries. Cochrane Database Syst Rev. 2019;4:CD012018."
 ---
-
 Flossing is one of the cheapest, most cost-effective dental preventive measures available—yet most people don't do it regularly. Understanding how much money flossing saves you through prevented cavities and gum disease might be the motivation you need to make it a habit.
 
 ## Flossing Supply Costs Are Tiny
@@ -91,7 +90,7 @@ Traditional floss costs $15 to $30 yearly; water-based cleaners cost $30 to $60 
 
 Professional flossing instruction enables proper technique increasing effectiveness. Special populations including elderly and orthodontic patients benefit from alternative interdental cleaning devices. Systemic health benefits through periodontal disease prevention provide additional indirect cost savings. Flossing represents one of dentistry's most cost-effective preventive interventions. Talk to your dentist about your individual flossing routine and which interdental cleaning method works best for your specific situation.
 
-> **Key Takeaway:** Learn why flossing prevents expensive cavities and gum disease. Understand flossing costs versus the treatment costs it prevents.
+> **Key Takeaway:** Flossing is one of the cheapest, most cost-effective dental preventive measures available—yet most people don't do it regularly.
 
 ## Related Articles
 

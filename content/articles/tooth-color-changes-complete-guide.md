@@ -11,6 +11,7 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 reviewed: true
 ---
+Your teeth are discolored, but is it a surface stain from coffee, or deep discoloration from aging or medication? Treatment depends entirely on what type of staining you have. Surface stains respond beautifully to whitening; deep stains often need different approaches entirely.
 
 ## Two Types of Tooth Discoloration
 

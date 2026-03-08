@@ -20,12 +20,11 @@ references:
   - "Tredwin CJ, et al. Hydrogen peroxide tooth whitening (bleaching) products: Review of adverse effects and safety issues. Br Dent J. 2006;200(7):371-376."
   - "Joiner A, et al. Whitening toothpastes: A review of the literature. J Dent. 2008;36(Supplement 1):S48-S54."
 ---
-
 ## Why Teeth Change Color Over Time
 
-Tooth discoloration happens two ways. Intrinsic discoloration (inside the tooth) results from dentin (the inner layer) darkening with age, from staining from medications, or from blood breakdown products in dead teeth. Extrinsic discoloration (surface stains) comes from coffee, tea, red wine, tobacco, or chlorhexidine mouthwash. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
+Tooth discoloration happens two ways. Intrinsic discoloration (inside the tooth) results from dentin (the inner layer) darkening with age, from staining from medications, or from blood breakdown products in dead teeth. Extrinsic discoloration (surface stains) comes from coffee, tea, red wine, tobacco, or chlorhexidine mouthwash.
 
-Tetracycline antibiotic used during tooth development (ages 0-12) creates gray-yellow permanent discoloration that resists whitening. Age-related yellowing happens because dentin naturally darkens and enamel (the transparent outer layer) gets thinner, allowing darker dentin to show through. Teeth naturally get yellower as you age. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
+Tetracycline antibiotic used during tooth development (ages 0-12) creates gray-yellow permanent discoloration that resists whitening. Age-related yellowing happens because dentin naturally darkens and enamel (the transparent outer layer) gets thinner, allowing darker dentin to show through. Teeth naturally get yellower as you age.
 
 Your dentist uses shade guides to establish baseline color—most people are in the A3-C3 range. Light yellows whiten most predictably. Gray and brown shades respond less dramatically. Knowing your baseline shade predicts realistic outcomes.
 
@@ -143,16 +142,6 @@ Maintenance whitening (one professional treatment every 6-12 months or at-home t
 
 **Internal staining in dead teeth:** Sometimes internal bleaching doesn't work—some discoloration simply resists treatment. After 3-6 months of trying, accept the result and consider crown/veneer instead of continuing treatment.
 
-## Questions to Ask Your Dentist
-
-- "What's my baseline shade, and what's realistically achievable for my tooth color?"
-- "What sensitivity should I expect, and what can I do preventively?"
-- "Will my restorations match after I whiten, or do they need replacement?"
-- "What's your recommendation for my specific situation—professional, at-home, or combination?"
-- "If I experience severe sensitivity, can I contact you between appointments?"
-- "What maintenance schedule do you recommend for my lifestyle?"
-- "Are there any reasons professional whitening isn't appropriate for me?"
-
 ## Safety Discussion
 
 Research confirms that professional whitening as practiced in dentistry is safe. Enamel doesn't permanently damage. Tissues don't sustain long-term injury.
@@ -160,6 +149,9 @@ Research confirms that professional whitening as practiced in dentistry is safe.
 Hydrogen peroxide at concentrations used doesn't cause systemic toxicity. Over-the-counter products are less effective and slower but also safe. The only real safety concerns are sensitivity (uncomfortable but temporary) and over-aggressive home use (stretching treatment beyond reasonable limits).
 
 **Related articles:** Is teeth whitening safe | Professional vs over-the-counter whitening | Teeth staining causes and prevention
+
+
+Related reading: [Cosmetic Veneer Installation](/article/cost-of-veneer-installation-steps.html) and [Teeth Color Improvement: Complete Guide](/article/teeth-color-improvement-complete-guide.html).
 
 ## Conclusion
 

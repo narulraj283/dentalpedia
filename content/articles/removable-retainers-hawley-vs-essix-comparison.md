@@ -22,7 +22,6 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Removable Retainers Hawley vs Essix Comparison
 ---
-
 ## Why Your Teeth Want to Move Back: The Relapse Problem
 
 After your orthodontist removes your braces, you might think your teeth are done moving. But here's the truth: your teeth have an natural tendency to move back toward their original positions. This is called relapse, and it happens to almost everyone unless you actively prevent it. Your teeth's supporting tissues (especially the periodontal ligament and jaw bone) still remember where your teeth were before braces, and they're trying to pull them back there.

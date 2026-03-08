@@ -32,7 +32,6 @@ references:
   - title: "Kern M, Barloi A, Yang B. Surface conditioning of zirconia implant abutments. Int J Oral Maxillofac Implants. 2009;24(4):711-718."
     url: https://pubmed.ncbi.nlm.nih.gov/19865612
 ---
-
 ## Why Your Dentist Places a Temporary Crown
 
 When you need a crown or bridge, your tooth gets prepared (shaped and reduced) during the first appointment. Your permanent crown isn't ready yet—your dentist sends the specifications to a lab, which takes 1-2 weeks. During that waiting period, your prepared tooth is vulnerable. That's why your dentist places a temporary crown: to protect your tooth while you wait for the permanent one.
@@ -127,9 +126,8 @@ Use of ultrasonic instruments set to low frequency (around 20 kHz) with light co
 
 Clinical records should document the provisional restoration material selected, fabrication method employed, seating date, planned delivery date, any complications or adjustments made, and removal observations. This documentation creates a record of the provisional phase and provides information valuable if complications occur or if the case is referred to another provider.
 
-## Conclusion
 
-Your temporary crown serves critical functions while you wait for your permanent one: protecting your prepared tooth from damage and bacteria, keeping you comfortable, and letting you test how your new tooth looks and functions. Caring for it gently ensures it stays in place and protects your tooth effectively. When your permanent crown arrives, your dentist removes the temporary and cements the permanent crown, which should fit beautifully based on the work done with the temporary. See our article on [All-on-Four Implants](/article/all-on-four-implants-fixed-restoration-for-full-mouth.html) for permanent restoration options.
+Related reading: [Same-Day Dentures: Getting Teeth the Day Your Teeth Are](/article/immediate-denture-teeth-same-day-as-extraction.html).
 
 ## Conclusion
 

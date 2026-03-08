@@ -32,7 +32,6 @@ references:
   - title: "Goodman JK, Dederding JP, McArthur WP. Dental stains and their etiologies. J Dent Hyg. 2000;74(2):84-94."
     url: https://pubmed.ncbi.nlm.nih.gov/11108286
 ---
-
 ## Introduction
 
 What you eat and drink can stain your teeth—and it's not just about sugar. Some foods and beverages contain color-causing compounds that stick to your enamel and can even penetrate beneath the surface. The good news is that understanding which foods cause the most staining and how staining happens can help you protect your teeth. This guide explains which foods and drinks are the worst offenders and what you can do about it.
@@ -88,12 +87,6 @@ After the acid exposure ends, your saliva gradually remineralizes and hardens yo
 **Use fluoride**: Daily fluoride (through fluoride toothpaste, gel, or rinse) hardens your enamel and makes it less porous, reducing both acid penetration and stain penetration.
 
 **Get professional cleanings more often**: If you consume staining foods and drinks regularly, ask your dentist about getting a professional cleaning every 3-4 months instead of the standard 6 months. This prevents heavy stain buildup.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss staining foods dietary impact on color, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

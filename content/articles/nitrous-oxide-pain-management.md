@@ -18,7 +18,6 @@ references:
   - title: "Pain Reduction Through Multimodal Sedation in Dentistry"
     url: https://www.ncbi.nlm.nih.gov/pubmed/29134567
 ---
-
 ## Laughing Gas for Pain Relief: More Than Just Numbness
 
 You might think local anesthetic is enough to handle pain during dental work—and often it is. But sometimes, even with proper numbing, you can still feel discomfort. That's where laughing gas becomes valuable.

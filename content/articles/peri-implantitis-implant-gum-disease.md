@@ -46,7 +46,6 @@ subcategory: Implant Overview
 subcategory_slug: overview-implants
 title: Peri Implantitis Implant Gum Disease
 ---
-
 ## What Happens When Bacteria Colonize Your Implant
 
 Peri-implantitis affects approximately 13 to 56 percent of implant patients, depending on how long they've had their implant and how carefully it's been maintained. The disease represents one of the biggest complications in modern implant dentistry. Unlike natural teeth, which have a periodontal ligament (a shock-absorbing structure between tooth and bone), implants have direct bone-to-implant contact. This unique anatomy creates both advantages and vulnerabilities when disease develops.

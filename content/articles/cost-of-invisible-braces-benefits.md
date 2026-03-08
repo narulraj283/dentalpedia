@@ -20,7 +20,6 @@ references:
   - "Boyd RL, Miller RJ, Vlaskalic V. The Invisalign system in adult orthodontics: aesthetics, function, and treatment response. J Calif Dent Assoc. 2000;28(5):372-378."
   - "Feltjens J, Bos A, de Croon de Graaff J, et al. Clear aligner treatment produces adequate orthodontic tooth movement. J Clin Orthod. 2018;52(3):130-138."
 ---
-
 ## Why Clear Aligners (Invisalign) Might Be Your Best Orthodontic Option
 
 If you've thought about straightening your teeth but cringed at the idea of metal braces, clear aligners are a game-changer. They're nearly invisible, you can eat whatever you want, you can brush and floss normally, and they work just as well as traditional braces for most people. The cost is comparable to braces, but the quality-of-life difference is huge. Let's explore whether clear aligners make sense for you and your budget.
@@ -97,7 +96,7 @@ Many offices offer discounts for cash payment (10-15% off) or discounts if you p
 
 Clear aligner therapy costs $3,500-8,000, the same as traditional braces, but offers major lifestyle advantages: invisible appearance, normal eating and hygiene, and fewer dental visits. If your orthodontic problem is moderate or simpler, aligners work beautifully. They're especially great for working professionals and adults who care about appearance. Talk to your orthodontist about whether aligners are right for your specific situation.
 
-> **Key Takeaway:** If you've thought about straightening your teeth but cringed at the idea of metal braces, clear aligners are a game-changer.
+> **Key Takeaway:** They're nearly invisible, you can eat whatever you want, you can brush and floss normally, and they work just as well as traditional braces for most people. The cost is comparable to braces, but the quality-of-life difference is huge.
 
 ## Related Articles
 

@@ -32,7 +32,6 @@ references:
   - title: "Smoking effects on extraction socket healing and complication rates"
     url: "https://pubmed.ncbi.nlm.nih.gov/22278571/"
 ---
-
 Getting a tooth extracted is a quick office procedure—you're in and out in 30 minutes. But proper recovery is where the real work happens. Following post-extraction instructions isn't optional or overly cautious—it directly prevents pain, infection, and complications that can extend your recovery by weeks. Understanding what's happening in your mouth during recovery helps you know what's normal and when something requires professional attention.
 
 ## The First 24 Hours: When Most Complications Happen
@@ -148,5 +147,5 @@ Proper extraction recovery requires following post-operative instructions carefu
 - [Pre-Surgery Preparation: Complete Guide](/article/pre-surgery-preparation-complete-guide.html)
 - [Wisdom Teeth Extraction: What You Need to Know](/article/wisdom-teeth-extraction-what-you-need-to-know.html)
 
-- [Oral Surgical Complications: Classification, Timeline,](/article/timeline-for-surgical-complications.html)
+- [Oral Surgical Complications: Classification, Timeline](/article/timeline-for-surgical-complications.html)
 

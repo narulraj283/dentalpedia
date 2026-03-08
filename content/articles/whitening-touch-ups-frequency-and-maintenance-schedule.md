@@ -28,7 +28,6 @@ references:
   - title: "Compliance and behavioral factors affecting long-term whitening results"
     url: https://pubmed.ncbi.nlm.nih.gov/24695325
 ---
-
 ## Why Your Whitening Results Don't Last Forever
 
 Here's the honest truth: whitening results fade. You can't whiten your teeth once and expect them to stay perfectly white forever. Understanding why this happens helps you plan realistic maintenance.
@@ -72,12 +71,6 @@ Your saliva composition also matters. Some people's saliva naturally stains less
 ## Is Professional Whitening Worth It If Results Don't Last?
 
 Many people ask this exact question. "Why spend hundreds on professional whitening if I need touch-ups every 6 months?" The answer: because maintenance is cheaper than the initial treatment, and having bright teeth most of the time beats having never-brightened teeth. The initial professional treatment might cost $500-800. Touch-up treatments cost $100-300 or $30-50 per gel syringe for home use. Long-term, getting dramatic initial results and maintaining them is more practical than living with unchanged teeth.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss whitening touch ups frequency and maintenance schedule, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

@@ -32,7 +32,6 @@ references:
   - title: "Maintenance protocols and repair strategies for composite restorations"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26813123
 ---
-
 Cosmetic bonding is one of the easiest and least expensive ways to fix small tooth problems. Your dentist applies a tooth-colored composite resin to fill chips, close small gaps, cover discoloration, or improve tooth shape. Unlike veneers or crowns, bonding is quick, reversible, and removes little or no tooth structure. With modern materials and skilled technique, bonded teeth look completely natural.
 
 ## What Materials Are Used and How They're Selected

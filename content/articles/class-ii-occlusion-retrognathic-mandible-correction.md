@@ -20,7 +20,6 @@ references:
   - "Baccetti T, Franchi L, McNamara JA Jr. Growth in the untreated Class II subject. Semin Orthod. 2000;6(1):7-25."
   - "Okeson JP. Management of Temporomandibular Disorders and Occlusion. 8th ed. Mosby; 2020."
 ---
-
 ## What Is a Class II Bite With a Set-Back Jaw?
 
 A Class II bite with a "retrognathic mandible" is a fancy way of saying your lower jaw is positioned too far back. If you look in the mirror, you might notice that your upper teeth stick out noticeably in front of your lower teeth, or your face might look like you have a "weak" chin. This happens because your lower jaw is shorter than normal or positioned further back than it should be, creating an imbalance with your upper jaw.
@@ -79,7 +78,7 @@ The emotional and functional benefits of correcting a severe Class II bite are s
 
 A Class II bite caused by a set-back lower jaw can be corrected through several approaches depending on your age and the severity of the problem. Whether through growth-guided treatment in children, camouflage with braces in mild cases, or orthognathic surgery in severe cases, modern orthodontics can help you achieve a balanced bite and improved facial appearance.
 
-> **Key Takeaway:** Learn about Class II bites caused by a set-back lower jaw and how orthodontists correct this common bite problem.
+> **Key Takeaway:** A Class II bite with a "retrognathic mandible" is a fancy way of saying your lower jaw is positioned too far back.
 
 ## Related Articles
 

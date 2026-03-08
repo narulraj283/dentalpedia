@@ -22,7 +22,6 @@ references:
   - Monasterio FO, Ford MD. Lip height after cleft repair. Plast Reconstr Surg. 1991;88(2):201-206.
   - Marsh JL, Grames LM, Hortis-Dzierzbicki S. Late corrections of cleft lip/palate deformities. Cleft Palate Craniofac J. 1989;26(4):344-354.
 ---
-
 ## Why Cleft Lip Repair Matters
 
 When a baby has a cleft lip, it creates a gap in the lip that disrupts the facial muscle responsible for smiling and facial expression. The orbicularis oris muscle—which normally forms a continuous circle around your mouth—is separated by the cleft. Beyond appearance, the cleft affects how the nose looks and how the facial muscles work together. Early surgical repair reconstructs this muscle continuity, restores facial symmetry, and sets the foundation for normal speech and eating.
@@ -93,9 +92,10 @@ The psychological impact of early, high-quality repair cannot be overstated: chi
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about cleft lip repair: surgery and recovery expectations or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Cleft lip repair at 8-12 weeks of age reconstructs the facial muscle and achieves excellent appearance in 75-85% of cases, with optional revision surgery around age 4-6 for final refinement. Early specialized treatment leads to the best long-term outcomes.
+
+> **Key Takeaway:** When a baby has a cleft lip, it creates a gap in the lip that disrupts the facial muscle responsible for smiling and facial expression.
 
 ## Related Articles
 

@@ -32,10 +32,9 @@ references:
   - title: "Nanda R, Burstone CJ. Retention and Stability in Orthodontics. WB Saunders; 2010. Chapters on Long-term Retention and Biomechanics. 234-289."
     url: https://pubmed.ncbi.nlm.nih.gov/21234567
 ---
+Your braces just came off and your teeth look amazing. But here's the tough truth: without your retainer, those teeth will gradually shift back to where they started. Most people who get braces again after years of straight teeth? They stopped wearing their retainer.
 
 ## Why Your Retainer Is More Important Than You Think
-
-You've finished braces or aligners—exciting! Your teeth are straight now, right? Actually, they're not done moving.
 
 Without a retainer, your teeth will shift back toward their original positions. This happens to almost everyone who stops wearing a retainer. Understanding why retainers matter helps you commit to wearing yours consistently.
 
@@ -78,14 +77,6 @@ Beyond finances, wearing braces again is time-consuming and uncomfortable. Most 
 ## Caring for Your Removable Retainer
 
 If you have a removable retainer, keep it clean by rinsing it daily and brushing gently with a soft toothbrush. Store it in a protective case, never wrapped in napkins (you might accidentally throw it away). Avoid putting it in pockets where it might get crushed. If it breaks, contact your orthodontist immediately—continuing without it risks relapse.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about risk and concerns with retainer importance in orthodontics and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

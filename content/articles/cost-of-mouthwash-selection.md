@@ -20,7 +20,6 @@ references:
   - "Gunsolley JC. A Meta-Analysis of Six-Month Studies of Antiplaque/Antigingivitis Rinses. J Am Dent Assoc. 2006;137(12):1649-1657."
   - "Tartaglia GM, Franchelli E, Fossati G, Marinoni E, Dioguardi MS, Gallo S. Therapeutic Efficacy and Cost Effectiveness of Mouthrinses in Controlling Oral Biofilm. Dent Mater Rev. 2019;38(5):e23."
 ---
-
 ## Choosing the Right Mouthwash for Your Needs
 
 There are about a million mouthwash brands on the shelf, and they're not all the same. Some are cosmetic (just make your breath fresh for 30 minutes). Others actually prevent cavities or gum disease. Let's break down which ones work and which are worth your money.
@@ -98,10 +97,6 @@ A patient using fluoride daily: $32-64 per year, cavity prevention, safe long-te
 
 The math: Any of these rinses prevent 1-2 cavities per year (worth $150-400 in filling costs prevented) and reduce gum disease treatment needs 15-25% (worth $500-1,500 prevented). Annual rinse cost of $32-150 gives you 3-30 times return on investment.
 
-## Questions to Ask Your Dentist About Mouthwash
-
-Before purchasing mouthwash, ask your dentist which type makes the most sense for your specific oral health needs. If you have gum disease, ask whether a prescription chlorhexidine rinse might be more effective than over-the-counter options. Ask about the right concentration of fluoride for your cavity risk level and whether alcohol-free formulas work as well as traditional ones. If you have dry mouth, your dentist can recommend rinses that won't worsen the problem. Ask how long you should use medicated rinses and whether you need to rotate between products for the best results.
-
 ## Getting the Most Value From Your Mouthwash
 
 To maximize the benefit of whichever mouthwash you choose, use it at the right time in your routine. Many dentists recommend rinsing at a different time than brushing—for example, after lunch—to spread fluoride exposure throughout the day. Follow the directions on timing: most rinses need 30 to 60 seconds of swishing to be effective.
@@ -114,7 +109,7 @@ Choose mouthwash based on your specific needs, not marketing. Prescription chlor
 
 Fluoride prevents cavities. Generic brands work as well as expensive brands. Talk to your dentist about which one is right for your situation.
 
-> **Key Takeaway:** There are about a million mouthwash brands on the shelf, and they're not all the same.
+> **Key Takeaway:** Some are cosmetic (just make your breath fresh for 30 minutes). Others actually prevent cavities or gum disease.
 
 ## Related Articles
 

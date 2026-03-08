@@ -18,7 +18,6 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: Sealant Maintenance Durability and Replacement
 ---
-
 ## How Long Your Sealants Actually Last
 
 Dental sealants are great cavity prevention, but they don't stay on forever. About 85-95% of sealants remain at least partially intact after one year, and 70-85% stay completely intact after two years. By 10 years, about 50-60% remain completely intact.
@@ -79,14 +78,6 @@ You can help your sealants last by:
 - Not chewing on objects like ice or pens
 - Brushing gently but thoroughly
 - Maintaining regular dental visits
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about dental sealants - how long they last and when you need... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

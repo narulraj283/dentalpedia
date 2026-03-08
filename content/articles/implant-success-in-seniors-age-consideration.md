@@ -28,7 +28,6 @@ references:
   - title: "Peri-implantitis in elderly populations: prevention and management"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26388595
 ---
-
 If you're an older adult considering dental implants, you might wonder if your age makes you ineligible. The good news is that being older doesn't prevent you from getting implants. Research shows that healthy older adults get the same success with implants as younger patients. What matters isn't how many birthdays you've had—it's your overall health, bone quality, and willingness to care for your implants. Learning more about [Maintaining Your Implants for Lifelong Success](/article/implant-maintenance-long-term-care-and-cleaning.html) can help you understand this better.
 
 ## How Age Affects Your Bone Healing
@@ -68,12 +67,6 @@ Gum disease around implants is less common than around natural teeth, but it can
 ## The Real Benefits Beyond Teeth
 
 Getting implants at any age brings benefits beyond just eating better. Many older adults tell us they feel more confident, enjoy food more, speak more clearly, and feel better overall. Looking in the mirror and liking your smile again is powerful. You'll likely eat foods you've been avoiding and feel more comfortable in social situations. These improvements in quality of life are real and meaningful.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about implant success in seniors age consideration and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

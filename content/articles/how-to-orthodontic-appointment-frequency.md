@@ -28,7 +28,6 @@ references:
   - title: "Patient Satisfaction and Appointment Frequency in Orthodontic Treatment"
     url: "https://www.ncbi.nlm.nih.gov/pubmed/28470226"
 ---
-
 One of the first questions patients ask their orthodontist is, "How often will I need to come in?" The answer depends on what type of braces you're getting and where you are in your treatment. Your appointment schedule is actually based on the science of how teeth move, and the right timing helps you get the best results in the least amount of time. Learning more about [Benefits of Regular Braces Checkups](/article/how-to-braces-benefits.html) can help you understand this better.
 
 ## Why Appointment Timing Matters

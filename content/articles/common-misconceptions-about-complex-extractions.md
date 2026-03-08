@@ -22,7 +22,6 @@ references:
   - "Botticelli D, Berglundh T, Lindhe J. Hard-tissue alterations following immediate implant placement in extraction sockets: An experimental study in dogs. J Clin Periodontol. 2004;31(10):820-828."
   - "Liss A, Grosgogeat B, Salmon B, et al. Complications of immediate implant therapy: Systematic review. Implant Dent. 2015;24(1):75-82."
 ---
-
 ## What Makes an Extraction "Complex"?
 
 When you have a tooth removed, sometimes it comes out easily with just standard extraction tools. Other times, the tooth is stuck in the bone, has curved roots, is impacted (stuck under the gum), or has other complications. Those are complex extractions, and they require a surgical approach.
@@ -83,19 +82,14 @@ Your surgeon might estimate extraction difficulty based on X-rays or CT scans. I
 
 The best complex extraction outcome is preventing complications in the first place. Following post-operative instructions prevents infection and dry socket. Maintaining oral hygiene prevents tooth infections that might require complex extraction later. Regular dental visits catch problems early before they become complicated.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about complex extractions and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 
 Complex extractions require careful surgical technique to minimize bone loss and preserve your jawline. Modern techniques have made complex extractions routine and recovery is usually straightforward. If your surgeon recommends extraction, ask them about socket preservation to minimize bone loss, especially if you're planning implants later.
 
-> **Key Takeaway:** Complex tooth extractions require careful surgical technique to minimize bone loss and preserve your jawline—it's not just pulling teeth out.
+> **Key Takeaway:** When you have a tooth removed, sometimes it comes out easily with just standard extraction tools.
 
 ## Related Articles
 

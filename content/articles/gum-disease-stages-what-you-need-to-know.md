@@ -28,7 +28,6 @@ references:
   - title: "Systemic Manifestations of Untreated Periodontitis: A Clinical Review"
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/jcpe.12842
 ---
-
 ## Recognizing Gum Disease: What Actually Matters
 
 More than half of American adults over 30 have gum disease, but most don't realize it. You could have it right now and not know. Understanding the stages helps you catch it early, when it's still fixable, before you lose teeth. This guide explains what happens at each stage, what you'll experience, and when you absolutely need professional help.
@@ -108,10 +107,6 @@ Act immediately if you notice:
 After treatment, you'll need supportive periodontal therapy appointments every 3-6 months. These aren't optional. Patients attending 80% of recommended appointments keep 80-90% of their treatment gains over 5+ years. Those skipping appointments experience significant relapse and disease progression.
 
 Periodontitis is chronic—it needs ongoing management like diabetes or hypertension. Your home care, regular appointments, and management of risk factors (smoking, stress, diabetes) determine your long-term outcome.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about gum disease stages what you need to know and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
 
 ## Conclusion
 

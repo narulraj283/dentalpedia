@@ -1,28 +1,41 @@
 ---
-title: "Cognitive Behavioral Therapy for Dental Anxiety:"
-slug: cognitive-behavioral-therapy-for-dental-fear
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: How therapy can help you overcome dental fear and anxiety, what treatment involves, and whether it really works.
 date: 2026-03-05
+excerpt: How therapy can help you overcome dental fear and anxiety, what treatment
+  involves, and whether it really works.
 read_time: 10 min
+references:
+- 'Rief, W., et al. (2017). Cognitive-behavioral therapy for dental anxiety: An efficacy
+  trial. Journal of Dental Research, 96(10), 1114-1121.'
+- Doerr, P., et al. (2007). Oral health-related quality of life as a predictor of
+  dental anxiety. Community Dentistry and Oral Epidemiology, 35(5), 370-376.
+- Berggren, U., Carlsson, S., Linde, A., & Nordström, G. (2000). Psychometric properties
+  and epidemiology of the Dental Anxiety Scale in an adult Swedish population. Community
+  Dentistry and Oral Epidemiology, 25(4), 284-290.
+- Gatchel, R., et al. (2016). The prevalence of anxiety and depression disorders in
+  the United States. The Journal of Behavioral Health Services & Research, 42(3),
+  223-236.
+- 'Armfield, J., Spencer, A., & Stewart, J. (2006). Dental fear in Australia: who''s
+  afraid of the dentist? Australian Dental Journal, 54(4), 306-314.'
+- Posner, M., et al. (2011). Interventions to reduce dental anxiety in children. Cochrane
+  Database of Systematic Reviews, 12, CD005230.
+- 'Kvale, G., Berggren, U., & Milgrom, P. (2004). Dental fear in adults: A behavioral
+  analysis. Journal of Anxiety Disorders, 18(3), 325-343.'
+- Armfield, J. (2010). How do children's dental anxiety levels change? Journal of
+  Dental Research, 91(8), 784-790.
+- Sadegh-Zadeh, K., Zand, Z., & Jamshidi, Z. (2022). Efficacy of virtual reality exposure
+  therapy versus traditional CBT for dental phobia. Journal of Clinical and Diagnostic
+  Research, 16(1), ZC52-ZC58.
+- Spence, S., Sharpe, L., & Newton-John, T. (2007). Psychosocial approaches in the
+  management of chronic pain. Journal of Pain, 8(3), 235-242.
+reviewed: true
 reviewer_specialty: Behavioral Dentistry
+slug: cognitive-behavioral-therapy-for-dental-fear
 subcategory: General Overview
 subcategory_slug: overview-general
-reviewed: true
-references:
-  - "Rief, W., et al. (2017). Cognitive-behavioral therapy for dental anxiety: An efficacy trial. Journal of Dental Research, 96(10), 1114-1121."
-  - "Doerr, P., et al. (2007). Oral health-related quality of life as a predictor of dental anxiety. Community Dentistry and Oral Epidemiology, 35(5), 370-376."
-  - "Berggren, U., Carlsson, S., Linde, A., & Nordström, G. (2000). Psychometric properties and epidemiology of the Dental Anxiety Scale in an adult Swedish population. Community Dentistry and Oral Epidemiology, 25(4), 284-290."
-  - "Gatchel, R., et al. (2016). The prevalence of anxiety and depression disorders in the United States. The Journal of Behavioral Health Services & Research, 42(3), 223-236."
-  - "Armfield, J., Spencer, A., & Stewart, J. (2006). Dental fear in Australia: who's afraid of the dentist? Australian Dental Journal, 54(4), 306-314."
-  - "Posner, M., et al. (2011). Interventions to reduce dental anxiety in children. Cochrane Database of Systematic Reviews, 12, CD005230."
-  - "Kvale, G., Berggren, U., & Milgrom, P. (2004). Dental fear in adults: A behavioral analysis. Journal of Anxiety Disorders, 18(3), 325-343."
-  - "Armfield, J. (2010). How do children's dental anxiety levels change? Journal of Dental Research, 91(8), 784-790."
-  - "Sadegh-Zadeh, K., Zand, Z., & Jamshidi, Z. (2022). Efficacy of virtual reality exposure therapy versus traditional CBT for dental phobia. Journal of Clinical and Diagnostic Research, 16(1), ZC52-ZC58."
-  - "Spence, S., Sharpe, L., & Newton-John, T. (2007). Psychosocial approaches in the management of chronic pain. Journal of Pain, 8(3), 235-242."
+title: Cognitive Behavioral Therapy for Dental Anxiety
 ---
-
 ## How Common Is Dental Anxiety, Really?
 
 If you're nervous about going to the dentist, you're not alone—not even close. About 9-15% of adults experience meaningful dental anxiety, and about 3-6% have genuine dental phobia. That means roughly 1 in 10 people experiences real fear or avoidance around dental care. Women are slightly more likely to experience dental anxiety than men, and younger adults tend to report more anxiety than older adults, though fear of the dentist can strike at any age.
@@ -85,7 +98,7 @@ If you do use medication for dental appointments, talk to your dentist and docto
 
 Dental anxiety is real, common, and very treatable. Cognitive behavioral therapy works for most people, combining gradual exposure to dental situations, challenging anxiety-driven thoughts, and learning relaxation techniques. With the right support from a knowledgeable dentist and ideally a therapist trained in dental anxiety, you can significantly reduce your fear and finally get the dental care you need.
 
-> **Key Takeaway:** How therapy can help you overcome dental fear and anxiety, what treatment involves, and whether it really works.
+> **Key Takeaway:** If you're nervous about going to the dentist, you're not alone—not even close.
 
 ## Related Articles
 

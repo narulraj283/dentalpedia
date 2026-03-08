@@ -32,7 +32,6 @@ references:
   - title: "Genetic and constitutional factors influencing baseline tooth color variation"
     url: "https://pubmed.ncbi.nlm.nih.gov/22133554/"
 ---
-
 Your teeth naturally change color throughout your life. Some color changes are completely normal. Others are harmless but cosmetically concerning. And a few color changes signal underlying problems requiring professional attention. Understanding what causes teeth to change color helps you know when to seek treatment and what options exist to address discoloration.
 
 ## Normal Age-Related Color Changes

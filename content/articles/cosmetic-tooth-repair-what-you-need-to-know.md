@@ -22,7 +22,6 @@ references:
   - "Frankenberger R, Tay FR. Self-etch adhesive systems: selecting when and where they are indicated. J Adhes Dent. 2005;7(4):275-291."
   - "Browning WD, Cho SD, Nakornchai C. Patient satisfaction with esthetic restorations. Oper Dent. 2005;30(4):398-404."
 ---
-
 Whether you've chipped a tooth, have discolored spots, or suffered damage, modern cosmetic dentistry can restore your smile. Learning more about [Cosmetic Dentistry for Aged Teeth Age Related Changes](/article/cosmetic-dentistry-for-aged-teeth-age-related-changes.html) can help you understand this better. There are several ways to repair your teeth, from simple bonding to veneers. This guide explains what's available, how much it costs, and how long repairs typically last.
 
 ## Common Tooth Problems
@@ -144,18 +143,6 @@ Several factors change the price of cosmetic repair:
 ## Paying for Treatment
 
 Most practices offer payment plans spread over 12-36 months. You might pay $100-$250 monthly instead of everything upfront. Some dentists offer discounts for paying in cash.
-
-## Questions to Ask Your Dentist
-
-- Will this match my other teeth?
-- How long will this last?
-- What if I need a replacement?
-- Do you guarantee your work?
-- Can I see before-and-after photos?
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about cosmetic tooth repair what you need to know and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
 
 ## Conclusion
 

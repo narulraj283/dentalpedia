@@ -1,11 +1,11 @@
 ---
+category: General Dentistry
 category_slug: general-dentistry
 excerpt: A mouth ulcer (also called a canker sore) is a small, painful crater in the
   soft tissue inside your mouth. Usually they're white or yellowish in the
 slug: timeline-for-mouth-ulcer-care
 title: Timeline for Mouth Ulcer Care
 ---
-
 ## What Is a Mouth Ulcer?
 
 A mouth ulcer (also called a canker sore) is a small, painful crater in the soft tissue inside your mouth. Usually they're white or yellowish in the center with a red, inflamed border. They can appear on your inner cheeks, lips, tongue, or under your tongue. Most are just a couple millimeters across, but some get bigger. They're annoying and painful but almost never serious.
@@ -66,12 +66,6 @@ The care you provide at home plays a huge role in achieving the best possible re
 Following your dentist's specific instructions after any procedure helps ensure smooth healing and lasting results. This might include taking prescribed medications, avoiding certain foods temporarily, or using a special rinse. Sticking closely to these guidelines gives your body the best chance to heal properly and helps prevent complications.
 
 Regular follow-up appointments allow your dentist to monitor your progress and catch any developing issues early. Even when everything feels fine, these check-ups serve as important safeguards for your oral health. Think of them as routine maintenance that helps protect the investment you've made in your smile and overall well-being.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for mouth ulcer care, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations for your care.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome for your oral health.
 
 ## Protecting Your Oral Health Long-Term
 

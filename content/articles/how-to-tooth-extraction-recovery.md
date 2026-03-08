@@ -32,7 +32,6 @@ references:
   - title: "Nutritional considerations during oral surgical wound healing"
     url: https://www.ncbi.nlm.nih.gov/pubmed/28349827
 ---
-
 ## The First 24 Hours: Bleeding and Clot Formation
 
 Immediately after your tooth is extracted, bleeding is normal and expected. Bite gently on the gauze your dentist places in the socket for 10-15 minutes. This helps form a blood clot, which is absolutely essential for healing.
@@ -97,5 +96,5 @@ Most tooth extractions heal uneventfully within 7-10 days if you follow your den
 - [Bone Grafting: Restoring Lost Jaw Structure](/article/bone-grafting-restoring-lost-jaw-structure.html)
 - [Risk and Concerns with Surgical Success Rates](/article/risk-and-concerns-with-surgical-success-rates.html)
 - [Surgical Recovery Timeline—What You Need to Know](/article/recovery-timeline-what-you-need-to-know.html)
-- [Surgical Tooth Extraction: Indications, Classification,](/article/timeline-for-surgical-teeth-removal.html)
+- [Surgical Tooth Extraction: Indications, Classification](/article/timeline-for-surgical-teeth-removal.html)
 

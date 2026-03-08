@@ -46,7 +46,6 @@ subcategory: Holistic Overview
 subcategory_slug: overview-holistic
 title: Probiotics for Oral Health
 ---
-
 ## Your Mouth's Complex Ecosystem
 
 Your mouth contains hundreds of different bacterial species living in a delicate balance. Most of these bacteria are friendly and actually protect your oral health. Your mouth is the second most diverse bacterial ecosystem in your entire body—second only to your digestive system. When bacteria are in balance, your mouth stays healthy. When harmful bacteria start to outnumber the good ones (called dysbiosis), cavities and gum disease develop.
@@ -106,6 +105,6 @@ Probiotics show promise in laboratory studies but deliver only modest benefits i
 - [Herbal Rinses and Natural Mouthwash Options](/article/herbal-rinses-traditional-medicine.html)
 - [Acupuncture for Dental Pain: Traditional Medicine](/article/acupuncture-for-dental-pain-traditional-medicine.html)
 - [Energetic Tooth Connection](/article/energetic-tooth-connection-meridian-theory.html)
-- [Peppermint in Dentistry—Clinical Evidence,](/article/peppermint-soothing-herb.html)
+- [Peppermint Soothing Herb](/article/peppermint-soothing-herb.html)
 - [Povidone Iodine Iodine Based Antiseptic](/article/povidone-iodine-iodine-based-antiseptic.html)
 

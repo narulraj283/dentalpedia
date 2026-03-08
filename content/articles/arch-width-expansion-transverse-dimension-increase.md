@@ -20,12 +20,11 @@ references:
   - "Lagravère, M. O., Heo, G., Major, P. W., Flores-Mir, C. (2010). Meta-analysis of immediate nasal airway volumetric changes after rapid maxillary expansion. Angle Orthod. 80(5):1008-1017."
   - "Ngan, P., Hagg, U., Yiu, C., Chiu, A. (1997). Soft tissue and dentoalveolar changes associated with twin-block functional appliance therapy. Am J Orthod Dentofacial Orthop. 111(3):285-293."
 ---
-
-Some people have upper jaws that are too narrow, causing crowded teeth and bite problems. To fix this, orthodontists use expansion treatments that widen the arch. There are different ways to expand the upper jaw, and each works differently depending on your age and how much expansion you need. Understanding these options helps you make informed decisions with your orthodontist about what's right for your situation. For more details, see our guide on [Accelerated Orthodontia](/article/accelerated-orthodontia-fast-track-braces.html).
+Some people have upper jaws that are too narrow, causing crowded teeth and bite problems. To fix this, orthodontists use expansion treatments that widen the arch. There are different ways to expand the upper jaw, and each works differently depending on your age and how much expansion you need. Understanding these options helps you make informed decisions with your orthodontist about what's right for your situation.
 
 ## Making The Palate Wider Fast: Rapid Palatal Expansion (RPE)
 
-Rapid palatal expansion (RPE) is the most common way to widen an upper jaw in kids and early adolescents. The device is placed against the roof of your mouth and you turn a screw twice each day to gradually push it wider. Each turn is tiny—just one quarter millimeter—but added up, the jaw widens about 2-3 millimeters per week. This means visible widening happens relatively quickly, often within just a few weeks. For more details, see our guide on [Accelerated Orthodontics](/article/accelerated-orthodontics-speeding-up-your-treatment.html).
+Rapid palatal expansion (RPE) is the most common way to widen an upper jaw in kids and early adolescents. The device is placed against the roof of your mouth and you turn a screw twice each day to gradually push it wider. Each turn is tiny—just one quarter millimeter—but added up, the jaw widens about 2-3 millimeters per week. This means visible widening happens relatively quickly, often within just a few weeks.
 
 This approach actually opens the suture—that's the line down the middle of the roof of your mouth where your bones join. In kids with flexible bones, this opening creates real skeletal expansion. The whole jaw gets wider, not just the teeth. After about a week of turning the screw, the patient wears the device without turning it to let bone fill in the space. This bone-filling period is critical because it stabilizes the expansion and makes the widening permanent.
 
@@ -91,11 +90,15 @@ Widening a narrow upper jaw works very differently depending on age and skeletal
 
 The amount of expansion you get depends on how much is real bone widening versus teeth moving. After expansion, relapse is common and long-term retention must be maintained. Expansion can also improve airway space as a beneficial side effect. Early intervention during childhood or early adolescence offers the best outcomes with traditional expansion methods, while adult expansion offers effective alternatives through surgical options.
 
+
+Related reading: [Your Guide to Orthodontic Appointment Frequency](/article/benefits-of-orthodontic-appointment-frequency.html) and [Ceramic Braces: Tooth-Colored Aesthetics and Efficiency](/article/ceramic-braces-tooth-colored-aesthetics-and-efficiency.html).
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
-
-> **Key Takeaway:** Some people have upper jaws that are too narrow, causing crowded teeth and bite problems. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** Teenagers get mixed results because their bones are starting to fuse, with decreasing skeletal response and increasing dental tipping.
 
 ## Related Articles
 

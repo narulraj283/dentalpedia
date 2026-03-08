@@ -46,7 +46,6 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: Risk and Concerns with Filling Material Selection
 ---
-
 ## Choosing the Right Filling Material for Your Tooth
 
 When your dentist finds a cavity, they need to choose what material to use to fix it. You might wonder if the choice really matters—and the answer is yes, it does. Different filling materials have different strengths, weaknesses, looks, and longevity. Understanding your options helps you make an informed decision alongside your dentist about what's best for your specific tooth and situation. Each material has legitimate benefits and drawbacks that should factor into your choice.
@@ -78,14 +77,6 @@ Glass ionomer fillings release small amounts of fluoride, which provides some ca
 ## Choosing Your Filling Material
 
 The best filling material depends on your specific tooth and situation. Back teeth that do heavy chewing work better with amalgam because it lasts longer. Front teeth where appearance matters work better with composite. Small fillings can use either material. If you have allergies to specific materials (confirmed by actual testing, not just suspicion), tell your dentist so they can use appropriate alternatives.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about risk and concerns with filling material selection:... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

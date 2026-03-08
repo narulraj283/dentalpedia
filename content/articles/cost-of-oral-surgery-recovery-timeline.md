@@ -20,7 +20,6 @@ references:
   - "Monaco G, Staffolani C, Gontarz M, D'Orto B, Guerra M, Cosci F. Efficacy of Low-Level Laser Therapy for Bone Healing After Jaw Surgery. J Craniomaxillofac Surg. 2012;40(8):e327-e332."
   - "Aframian DJ, Lalla RV, Peterson DE. Management of Dental Patients Taking Common Medications for Systemic Conditions. Dent Clin North Am. 2002;46(4):701-713."
 ---
-
 ## What to Expect During Oral Surgery Recovery
 
 Recovery from oral surgery like tooth extraction or implant placement takes time. Understanding what happens when helps you plan time off work and manage expectations. The good news: most people feel mostly back to normal within 1-2 weeks, though complete healing takes 2-3 months.
@@ -121,12 +120,12 @@ Attend every follow-up appointment even if you feel fine—your surgeon needs to
 
 Oral surgery recovery takes 1-2 weeks for initial healing and 2-3 months for complete healing. Pain and swelling are worst the first 2-3 days, then improve rapidly. Follow post-op instructions exactly to avoid expensive complications like infection or dry socket. Talk to your surgeon about timeline expectations for your specific procedure.
 
-> **Key Takeaway:** Recovery from oral surgery like tooth extraction or implant placement takes time.
+> **Key Takeaway:** Understanding what happens when helps you plan time off work and manage expectations. The good news: most people feel mostly back to normal within 1-2 weeks, though complete healing takes 2-3 months.
 
 ## Related Articles
 
 - [Cost of Infection Prevention](/article/cost-of-infection-prevention.html)
-- [Dental Filling Material Selection: Properties,](/article/timeline-for-filling-material-selection.html)
+- [Dental Filling Material Selection: Properties](/article/timeline-for-filling-material-selection.html)
 - [Enamel Erosion Repair: Complete Guide to Management and](/article/enamel-erosion-repair-complete-guide.html)
 - [Dental X-Rays](/article/dental-x-rays-safety-types-and-what-they-reveal.html)
 - [Oral Surgery Recovery Timeline](/article/benefits-of-oral-surgery-recovery-timeline.html)

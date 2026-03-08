@@ -33,7 +33,6 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/26391980
 
 ---
-
 ## Your Teeth Can Repair Themselves—If You Act Fast
 
 Your tooth enamel is the hardest substance in your body, but it's not invincible. Every day, acids in your mouth (from food, drinks, and bacteria) slowly dissolve the mineral layer that protects your teeth. This process is called demineralization, and it happens to everyone.

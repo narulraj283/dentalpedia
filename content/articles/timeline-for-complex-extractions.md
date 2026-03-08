@@ -1,34 +1,44 @@
 ---
-title: "Complex Tooth Extraction Timeline: Surgical Planning,"
-slug: timeline-for-complex-extractions
 category: Oral and Maxillofacial Surgery
 category_slug: oral-surgery
-excerpt: "Complex extractions spanning weeks to months involve comprehensive pre-operative assessment, bone removal technique, multi-phase healing, and..."
 date: 2026-03-05
+excerpt: Complex extractions spanning weeks to months involve comprehensive pre-operative
+  assessment, bone removal technique, multi-phase healing, and...
 read_time: 11 min
+references:
+- title: Bouloux GF, Steed MB, Perciaccante VJ. Complications of Exodontia. Oral Maxillofac
+    Surg Clin North Am. 2011;23(3):377-388.
+  url: https://pubmed.ncbi.nlm.nih.gov/21821148
+- title: 'Blondeau F, Daniel NG. Extraction socket healing and subsequent implant
+    placement: a literature review of the knowledge gained over the last decade. J
+    Can Dent Assoc. 2007;73(1):25-30.'
+  url: https://pubmed.ncbi.nlm.nih.gov/17295531
+- title: 'Ritter AV, Suflita M, Doyle S. Bone Density of the Mandible: Implications
+    for Clinical Decision-Making. Gen Dent. 2009;57(3):198-205.'
+  url: https://pubmed.ncbi.nlm.nih.gov/19819818
+- title: Rotstein I, Simon JHS. Diagnosis, Prognosis and Treatment of the Root-Resorbed
+    Tooth. J Am Dent Assoc. 2006;137(10):1394-1402.
+  url: https://pubmed.ncbi.nlm.nih.gov/17032533
+- title: Klinge B, Petersson A. Radiographic bone loss, endotoxins andoster implants.
+    J Clin Periodontol. 1990;17(7):467-472.
+  url: https://pubmed.ncbi.nlm.nih.gov/2212102
+- title: 'Tözüm TF, Demiralp B. Pathologic tooth migration: its relationship with
+    periodontal disease and juvenile periodontitis. Int J Periodontics Restorative
+    Dent. 2005;25(6):565-573.'
+  url: https://pubmed.ncbi.nlm.nih.gov/16350993
+- title: Cernea CR, Ferraz AR, Neves W, Hojaij FC, Pontes P, Kulcsar MAV. Injuries
+    to the spinal accessory nerve during neck dissections. Head Neck. 1997;19(2):139-145.
+  url: https://pubmed.ncbi.nlm.nih.gov/9059874
+- title: 'Seibel W. Osteitis and Osteomyelitis: Incidence, Prevention, and Management.
+    Compend Contin Educ Dent. 1990;11(3):150-158.'
+  url: https://pubmed.ncbi.nlm.nih.gov/2125359
+reviewed: true
 reviewer_specialty: Oral and Maxillofacial Surgery
+slug: timeline-for-complex-extractions
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
-reviewed: true
-references:
-  - title: "Bouloux GF, Steed MB, Perciaccante VJ. Complications of Exodontia. Oral Maxillofac Surg Clin North Am. 2011;23(3):377-388."
-    url: https://pubmed.ncbi.nlm.nih.gov/21821148
-  - title: "Blondeau F, Daniel NG. Extraction socket healing and subsequent implant placement: a literature review of the knowledge gained over the last decade. J Can Dent Assoc. 2007;73(1):25-30."
-    url: https://pubmed.ncbi.nlm.nih.gov/17295531
-  - title: "Ritter AV, Suflita M, Doyle S. Bone Density of the Mandible: Implications for Clinical Decision-Making. Gen Dent. 2009;57(3):198-205."
-    url: https://pubmed.ncbi.nlm.nih.gov/19819818
-  - title: "Rotstein I, Simon JHS. Diagnosis, Prognosis and Treatment of the Root-Resorbed Tooth. J Am Dent Assoc. 2006;137(10):1394-1402."
-    url: https://pubmed.ncbi.nlm.nih.gov/17032533
-  - title: "Klinge B, Petersson A. Radiographic bone loss, endotoxins andoster implants. J Clin Periodontol. 1990;17(7):467-472."
-    url: https://pubmed.ncbi.nlm.nih.gov/2212102
-  - title: "Tözüm TF, Demiralp B. Pathologic tooth migration: its relationship with periodontal disease and juvenile periodontitis. Int J Periodontics Restorative Dent. 2005;25(6):565-573."
-    url: https://pubmed.ncbi.nlm.nih.gov/16350993
-  - title: "Cernea CR, Ferraz AR, Neves W, Hojaij FC, Pontes P, Kulcsar MAV. Injuries to the spinal accessory nerve during neck dissections. Head Neck. 1997;19(2):139-145."
-    url: https://pubmed.ncbi.nlm.nih.gov/9059874
-  - title: "Seibel W. Osteitis and Osteomyelitis: Incidence, Prevention, and Management. Compend Contin Educ Dent. 1990;11(3):150-158."
-    url: https://pubmed.ncbi.nlm.nih.gov/2125359
+title: 'Complex Tooth Extraction Timeline: Surgical Planning'
 ---
-
 ## Before Your Extraction Surgery
 
 Complex tooth extractions require careful planning before you even sit in the surgical chair. Your surgeon will order special imaging (CBCT scans) to see exactly how your tooth is positioned and if it's near any important nerves or sinuses. This imaging typically happens 1-2 weeks before your surgery.
@@ -81,12 +91,6 @@ Temporary numbness is more common (about 0.4-2% of routine extractions), while p
 After surgery, take pain medication as prescribed for the first few days. Sleep with your head elevated to reduce swelling. Stick to soft, cool foods—ice cream, yogurt, and smoothies are your friends.
 
 Avoid hot foods, crunchy things, and anything you have to chew hard. Don't use straws because the suction can disturb your healing socket. Very gently rinse with warm salt water starting the day after surgery (just let it fall out of your mouth, don't swish vigorously). Keep the area as clean as possible while being gentle.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for complex extractions, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

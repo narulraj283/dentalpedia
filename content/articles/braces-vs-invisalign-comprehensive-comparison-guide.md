@@ -22,7 +22,6 @@ references:
   - Fowler PD, Cotmore JM, Chew MY, Liao Y. The patient experience of Invisalign: a qualitative study. Angle Orthod. 2016;86(5):840-848.
   - Elkholy F, Mikhaiel B. Three-dimensional assessment of the effects of clear aligner therapy. Prog Orthod. 2016;17(1):3.
 ---
-
 Deciding between traditional braces and clear aligners (like Invisalign) is one of the biggest choices you'll make when starting orthodontic treatment. Both options can straighten your teeth, but they work very differently, have different costs, and suit different situations. This guide compares them side by side so you understand what each option really offers and which might be better for your specific needs.
 
 ## How Each System Moves Your Teeth
@@ -98,12 +97,6 @@ If you're missing teeth, extraction spaces, or have severe bone loss, braces are
 ## Long-Term Stability
 
 Both braces and aligners produce stable results if you wear your retention properly. The real difference in long-term stability comes down to retention compliance, not which active treatment you choose. However, braces tend to produce slightly more stable results in complex cases because the final positioning is more precise.
-
-## Questions to Ask Your Orthodontist
-
-Before choosing, ask: Based on my specific teeth and bite, which option do you recommend and why? What's the realistic timeline for my case with each option? What's the failure rate in your practice for each treatment type?
-
-If aligners don't work for me, can we switch to braces? How important is compliance for my case? What happens if I don't wear aligners as directed?
 
 ## Making Your Choice
 

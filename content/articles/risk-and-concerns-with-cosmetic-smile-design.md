@@ -32,7 +32,6 @@ references:
   - title: "Gillen RJ, et al. An analysis of selected normative tooth proportions. Int J Prosthodont. 1994;7(5):410-417."
     url: https://pubmed.ncbi.nlm.nih.gov/7993639
 ---
-
 ## The Basics of Smile Design
 
 A smile isn't just about your teeth—it's about how your teeth, lips, gums, and face work together. When your dentist talks about smile design, they're considering many factors: the shape of your face, the position of your lips when you smile, how much gum shows, the color and position of your teeth, and how light reflects off your teeth and lips.

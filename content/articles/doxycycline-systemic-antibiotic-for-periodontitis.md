@@ -20,7 +20,6 @@ references:
   - "Persson R, et al. Host response characteristics and microbial profile in subjects with aggressive periodontitis treated with low-dose doxycycline. Journal of Dental Research. 2014;93(2):158-167."
   - "Gendron R, et al. Antimicrobial and anti-inflammatory effects of subantimicrobial-dose doxycycline: Current knowledge and future perspectives. Journal of Periodontology. 2013;84(8):1105-1117."
 ---
-
 ## What Is Doxycycline and Why Your Dentist Might Recommend It
 
 If you have gum disease that's not responding well to normal cleaning and brushing, your dentist might recommend an antibiotic called doxycycline. This isn't just a regular antibiotic that kills bacteria—it actually works in several different ways to help your gums heal and stop getting worse. Doxycycline has been used safely for decades and is one of the tools your dentist uses to fight serious gum problems.
@@ -83,7 +82,7 @@ Remember that doxycycline works best as part of a complete plan that includes pr
 
 To understand your gum disease better, learn about [Periodontal Disease and How to Prevent Tooth Loss](/article/periodontal-disease-and-tooth-loss-prevention.html). It's also helpful to know [The Timeline for How Gum Disease Progresses](/article/timeline-for-gum-disease-stages.html) so you can catch problems early. Understanding [Your Periodontal Ligament and How Teeth Are Attached](/article/periodontal-ligament-tooth-attachment-system.html) helps you appreciate why gum disease is so serious.
 
-> **Key Takeaway:** Low-dose doxycycline provides adjunctive antimicrobial and anti-inflammatory benefits in periodontal disease management.
+> **Key Takeaway:** If you have gum disease that's not responding well to normal cleaning and brushing, your dentist might recommend an antibiotic called doxycycline.
 
 ## Related Articles
 

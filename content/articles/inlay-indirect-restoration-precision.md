@@ -32,7 +32,6 @@ references:
   - title: "Shade matching and esthetic outcomes in ceramic inlay restorations"
     url: https://www.ncbi.nlm.nih.gov/pubmed/29360262
 ---
-
 If your dentist has told you that you need a "large filling," they might suggest an inlay instead. An inlay is a type of restoration that's custom-made in a laboratory and then cemented into your tooth. Think of it as a sophisticated alternative to a regular filling—it's stronger, lasts longer, and looks better. Your tooth is preserved as much as possible, which means you keep more of your natural tooth structure.
 
 ## What Exactly Is an Inlay?
@@ -75,16 +74,8 @@ Inlays cost more than regular fillings—typically two to three times as much de
 
 Your inlay requires no special care beyond normal dental hygiene. Brush twice daily with a soft-bristled toothbrush, floss daily, and see your dentist regularly. Avoid chewing on hard objects like ice or hard candy, just as you would with your natural teeth. If you grind your teeth at night, tell your dentist—they might recommend a night guard to protect your inlay.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about inlay indirect restoration precision and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
-
-
-For more information, see [Management of Recurrent Oral Ulcers and Aphthous](/article/best-practices-for-mouth-ulcer-care.html) and [Timeline for Cavity Diagnosis Process and Caries](/article/timeline-for-cavity-diagnosis-process.html).
+Related reading: [Crown vs Bridge Decision](/article/crown-vs-bridge-decision-complete-guide.html) and [Choosing the Right Pain Relief for Dental](/article/pain-relief-methods-what-you-need-to-know.html).
 
 ## Conclusion
 

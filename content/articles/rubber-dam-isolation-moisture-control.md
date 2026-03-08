@@ -39,7 +39,6 @@ subcategory: Endodontic Overview
 subcategory_slug: overview-endo
 title: Rubber Dam Isolation Moisture Control
 ---
-
 ## What Is a Rubber Dam and Why Does Your Dentist Use It?
 
 If you've had a root canal or other deep dental work, you might have encountered a rubber dam—a thin latex or latex-free sheet with a hole in it, held in place by a clamp. It probably felt strange or even claustrophobic at first. But this simple device is actually one of the most important tools in dentistry. It protects your mouth from harmful chemicals, keeps your tooth dry so your dentist can work effectively, and ultimately makes your treatment faster and more successful.

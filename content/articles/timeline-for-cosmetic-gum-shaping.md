@@ -1,34 +1,44 @@
 ---
-title: "Gingival Recontouring Techniques: Crown Lengthening,"
-slug: timeline-for-cosmetic-gum-shaping
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: "Gingival esthetic correction through crown lengthening, gingivectomy, and laser contouring addresses excessive gingival display while preserving..."
 date: 2026-03-05
+excerpt: Gingival esthetic correction through crown lengthening, gingivectomy, and
+  laser contouring addresses excessive gingival display while preserving...
 read_time: 10 min
+references:
+- title: Gargiulo AW, Wentz FM, Orban B. Dimensions and relations of the dentogingival
+    junction in humans. J Periodontol. 1961;32(4):261-267.
+  url: https://pubmed.ncbi.nlm.nih.gov/13882816
+- title: Joshi MR. Anatomical, anthropometrical measurements of oro-facial structures.
+    J Indian Dent Assoc. 1977;49(9):309-314.
+  url: https://pubmed.ncbi.nlm.nih.gov/271999
+- title: 'Coslet JG, Vanarsdall RL, Weisgold AS. Esthetics: the alpha and omega of
+    restorative dentistry. Periodontol 2000. 1998;17(1):9-20.'
+  url: https://pubmed.ncbi.nlm.nih.gov/10337312
+- title: Levine RA, McGuire MK. The diagnosis and treatment of the high lip line.
+    J Esthet Dent. 1997;9(1):23-32.
+  url: https://pubmed.ncbi.nlm.nih.gov/9893375
+- title: Porchala F, Gomez-Roman G, Sancho-Puchol M, Carrillo JM. Infraalveolar changes
+    in alveolar crest height and ridge width using a minimally invasive technique
+    in a canine model. Int J Oral Maxillofac Implants. 2005;20(1):78-85.
+  url: https://pubmed.ncbi.nlm.nih.gov/15747680
+- title: Minozzi F, Franceschetti G, Canciani E, Santini C. Histomorphometric study
+    of soft and hard tissues following osseous and soft tissue grafting procedures.
+    Int J Periodontics Restorative Dent. 2008;28(3):231-237.
+  url: https://pubmed.ncbi.nlm.nih.gov/18622031
+- title: 'Wennstrom JL, Lindhe J. Role of attached gingiva for maintenance of periodontal
+    health: a study in the canine. J Clin Periodontol. 1983;10(3):257-269.'
+  url: https://pubmed.ncbi.nlm.nih.gov/6577203
+- title: 'American Academy of Periodontology. Glossary of Periodontal Terms. 4th ed.
+    Chicago: AAP; 2001.'
+  url: https://pubmed.ncbi.nlm.nih.gov/11191287
+reviewed: true
 reviewer_specialty: Cosmetic Dentistry
+slug: timeline-for-cosmetic-gum-shaping
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
-reviewed: true
-references:
-  - title: "Gargiulo AW, Wentz FM, Orban B. Dimensions and relations of the dentogingival junction in humans. J Periodontol. 1961;32(4):261-267."
-    url: https://pubmed.ncbi.nlm.nih.gov/13882816
-  - title: "Joshi MR. Anatomical, anthropometrical measurements of oro-facial structures. J Indian Dent Assoc. 1977;49(9):309-314."
-    url: https://pubmed.ncbi.nlm.nih.gov/271999
-  - title: "Coslet JG, Vanarsdall RL, Weisgold AS. Esthetics: the alpha and omega of restorative dentistry. Periodontol 2000. 1998;17(1):9-20."
-    url: https://pubmed.ncbi.nlm.nih.gov/10337312
-  - title: "Levine RA, McGuire MK. The diagnosis and treatment of the high lip line. J Esthet Dent. 1997;9(1):23-32."
-    url: https://pubmed.ncbi.nlm.nih.gov/9893375
-  - title: "Porchala F, Gomez-Roman G, Sancho-Puchol M, Carrillo JM. Infraalveolar changes in alveolar crest height and ridge width using a minimally invasive technique in a canine model. Int J Oral Maxillofac Implants. 2005;20(1):78-85."
-    url: https://pubmed.ncbi.nlm.nih.gov/15747680
-  - title: "Minozzi F, Franceschetti G, Canciani E, Santini C. Histomorphometric study of soft and hard tissues following osseous and soft tissue grafting procedures. Int J Periodontics Restorative Dent. 2008;28(3):231-237."
-    url: https://pubmed.ncbi.nlm.nih.gov/18622031
-  - title: "Wennstrom JL, Lindhe J. Role of attached gingiva for maintenance of periodontal health: a study in the canine. J Clin Periodontol. 1983;10(3):257-269."
-    url: https://pubmed.ncbi.nlm.nih.gov/6577203
-  - title: "American Academy of Periodontology. Glossary of Periodontal Terms. 4th ed. Chicago: AAP; 2001."
-    url: https://pubmed.ncbi.nlm.nih.gov/11191287
+title: 'Gingival Recontouring Techniques: Crown Lengthening'
 ---
-
 ## The "Gummy Smile" Problem
 
 If you show a lot of gum when you smile—more than about 3 millimeters—you might be considering gum shaping. A "gummy smile" can make you feel self-conscious, even though your teeth are perfectly healthy. The good news is that gum shaping is a straightforward surgical procedure that can dramatically improve your smile. Two main approaches exist: removing excess gum tissue itself, or removing bone to expose more tooth structure. Your periodontist (gum specialist) will examine you and recommend which approach makes sense for your situation.

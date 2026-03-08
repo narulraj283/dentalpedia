@@ -19,7 +19,6 @@ references:
   - "Freitas MR, Beltrão RT, Janson G, Henriques JF. Postretention Relapse of Dental Movements in Class I Extraction Cases. Angle Orthod. 2007;77(5):733-738."
   - "Wasserstein A. Relapse of Orthodontic Correction in Cases Treated With Extractions: A Systematic Literature Review. Am J Orthod Dentofacial Orthop. 2006;129(5):622-641."
 ---
-
 ## Extraction vs. Non-Extraction: Which Is Right for Your Situation?
 
 When your orthodontist mentions extracting teeth, it can feel shocking. Why remove healthy teeth? But extraction is sometimes the right choice and sometimes not. Understanding the cost and outcome differences helps you make the right decision for your situation.
@@ -138,7 +137,7 @@ You can also seek a second opinion from another orthodontist if you're uncertain
 
 Extraction versus non-extraction is a personal choice, but understand the trade-offs. Extraction might cost $300-800 less upfront, finishes sooner, and has lower retreatment rates. Non-extraction costs $300-800 more upfront and has higher retreatment risk (meaning potential $1,500-3,500 extra costs). Ask your orthodontist which approach is right for your specific situation.
 
-> **Key Takeaway:** When your orthodontist mentions extracting teeth, it can feel shocking. Why remove healthy teeth?
+> **Key Takeaway:** When your orthodontist mentions extracting teeth, it can feel shocking.
 
 ## Related Articles
 

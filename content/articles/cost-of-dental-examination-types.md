@@ -22,7 +22,6 @@ references:
   - "Kakodkar P, Mulay S. A congenitally missing maxillary central incisor. J Indian Soc Periodontol. 2012;16(4):654-658."
   - "Inglehart MR, Bagramian RA. Oral health-related quality of life. Chicago: Quintessence; 2002."
 ---
-
 When you visit the dentist, you'll probably have different types of exams depending on your situation. Your first visit is different from a regular six-month checkup, and what you pay varies too. Understanding these different exam types helps you know what to expect and whether your insurance will cover the costs.
 
 ## Your First Dental Exam (Comprehensive Exam)
@@ -65,17 +64,13 @@ Most dental insurance covers preventive exams at 100%—meaning no copayment. Ho
 
 If your dentist refers you to a specialist—like a periodontist for gum disease or an endodontist for a complicated tooth problem—expect a specialist exam to cost $150 to $400. Specialists often order additional X-rays or testing (adding $100 to $300) because they're evaluating complex cases. While specialist exams cost more, they're essential for treatment planning when problems are serious. Getting an expert opinion upfront prevents expensive mistakes down the road.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about dental examination types and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
 ## Conclusion
 
 Your first dental exam costs $100 to $250 and provides your dentist with a complete health picture. Regular follow-up exams cost $50 to $150 and take less time because your dentist is just checking for changes. X-rays add $15 to $280 depending on how many your dentist recommends.
 
 Insurance usually covers preventive exams at 100%, though some plans limit how many you can get per year. Specialized exams with experts cost $150 to $400 but are necessary for complex dental problems. Your dentist decides what exams you need based on your personal risk—not everyone needs the same thing. Talk to your dentist about why they're recommending specific exams and what they expect to find.
 
-> **Key Takeaway:** Learn about the different types of dental exams and why your dentist recommends them. Find out what each exam costs and whether your insurance covers it.
+> **Key Takeaway:** When you visit the dentist, you'll probably have different types of exams depending on your situation.
 
 ## Related Articles
 

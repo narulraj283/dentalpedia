@@ -28,7 +28,6 @@ references:
   - title: "Guided surgery systems and surgical accuracy: precision enhancement in implant placement"
     url: https://www.ncbi.nlm.nih.gov/pubmed/28557788
 ---
-
 When your dentist recommends tooth extraction or implant surgery, you probably worry about pain, swelling, and recovery. Modern dental surgery has evolved dramatically. Minimally invasive techniques reduce trauma to your bone and gums during surgery, translating directly to less pain and faster healing. Understanding what minimally invasive surgery means helps you appreciate the difference it makes in your surgical experience.
 
 ## The Philosophy Behind Minimally Invasive Surgery
@@ -78,12 +77,6 @@ Pain management becomes simpler with minimally invasive approaches. Learning mor
 If your dentist or surgeon recommends tooth extraction or implant placement, ask whether minimally invasive approaches are possible for your specific situation. Many cases can be completed flaplessly using modern visualization and surgical tools.
 
 However, some situations genuinely require traditional flapped approaches for safety—severe impactions, deeply buried teeth, or complex anatomy. Your surgeon's judgment about which approach is appropriate matters more than routine minimally invasive use.
-
-## Questions to Ask Your Oral Surgeon
-
-Ask your surgeon: "Can my extraction be done flaplessly?" "What techniques will you use to preserve bone?" "What should I expect regarding swelling and recovery?" "Is piezoelectric surgery available?" These questions identify whether your surgeon uses modern minimally invasive approaches.
-
-Surgeons embracing minimally invasive philosophy invest in specialized instruments and training—they're worth finding. Your recovery experience will reflect their technical sophistication.
 
 ## The Reality of Recovery
 

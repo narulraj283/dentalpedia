@@ -20,7 +20,6 @@ references:
   - "Watts A, Addy M. Tooth discolouration and staining: a review of the literature. Br Dent J. 2001;190(6):309-316."
   - "Salazar-Leal ME, García-Godoy F. Enamel microabrasion: an alternative for removal of superficial stains and mild fluorosis spots. Quintessence Int. 2000;31(2):91-98."
 ---
-
 Microabrasion is a minimally invasive dental procedure that removes superficial discolorations, white spots, and minor enamel defects without drilling or extensive tooth preparation. It's a great option when you have cosmetic concerns affecting just the tooth surface.
 
 ## What Microabrasion Treats
@@ -129,15 +128,11 @@ Microabrasion costs $200-400 per tooth (less than bonding or crowns). Comparing 
 
 For superficial cosmetic concerns, microabrasion's low cost and minimal tooth removal make it excellent value. For extensive or deeper defects, other options provide better long-term results despite higher initial cost.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about enamel microabrasion surface defect removal and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
 ## Conclusion
 
 Microabrasion is an excellent minimally invasive technique for removing superficial enamel discolorations, white spots, and minor defects. Combined with proper maintenance and fluoride use, results last years without removing significant tooth structure. If you have minor cosmetic concerns affecting just tooth surfaces, discuss microabrasion with your dentist. For more extensive defects, combining microabrasion with other cosmetic procedures provides comprehensive improvement. Talk to your dentist about which options are right for your specific situation.
 
-> **Key Takeaway:** Microabrasion is a minimally invasive dental procedure that removes superficial discolorations, white spots, and minor enamel defects without.
+> **Key Takeaway:** Microabrasion is a minimally invasive dental procedure that removes superficial discolorations, white spots, and minor enamel defects without drilling or extensive tooth preparation.
 
 ## Related Articles
 

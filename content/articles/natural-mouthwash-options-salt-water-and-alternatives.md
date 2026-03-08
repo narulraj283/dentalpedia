@@ -32,7 +32,6 @@ references:
   - title: "Palombo EA. Phytochemistry of genus Eucalyptus: antiproliferative, antimicrobial and antifungal activities. Phytotherapy Res. 2011;25(7):953-967."
     url: https://pubmed.ncbi.nlm.nih.gov/21108461
 ---
-
 If you're looking for a gentle way to support your mouth health, natural mouthwash options offer alternatives to commercial products. From simple salt water to herbal formulations, these rinses can help manage minor mouth issues and keep your gums healthy. But which ones actually work?
 
 ## Salt Water Rinses: The Simplest Solution
@@ -84,14 +83,6 @@ Be cautious with dosing. More isn't better with herbs. Using excessively concent
 Natural mouthwashes support your health but shouldn't replace professional care. If you're experiencing persistent bad breath, gum bleeding, or mouth pain lasting more than a few days, see your dentist. These could signal problems requiring treatment beyond home rinses.
 
 If you have gum disease or active cavities, natural mouthwashes alone won't resolve them. They work best as part of comprehensive care including proper brushing, flossing, and regular professional cleanings.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about natural mouthwash options: salt water and beyond and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

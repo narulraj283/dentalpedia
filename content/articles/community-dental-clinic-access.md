@@ -22,7 +22,6 @@ references:
   - "Medicaid dental coverage variations by state: impact analysis. Health Policy. 2020;124(8):847-855."
   - "Dental volunteer program outcomes and long-term patient care. Community Dentistry and Oral Epidemiology. 2019;47(5):425-432."
 ---
-
 About 41 million Americans don't have dental insurance, and many more postpone dental care because of cost. If you're struggling to afford dental treatment, there are real options: community health centers, dental schools, and free clinics can provide quality care at a fraction of private practice costs.
 
 ## Federally Qualified Health Centers (FQHCs)
@@ -91,11 +90,14 @@ Going to an unfamiliar dental office can feel stressful, so preparation helps. I
 
 Bring a list of medications you're taking and any health conditions you have. If you have significant dental anxiety, tell the staff when you arrive or call ahead—many clinics can accommodate anxious patients. Be prepared to discuss financial constraints honestly: most community clinic staff are trained to help you access necessary care within your budget. If you need translation services, ask when you call ahead to ensure an interpreter is available. Don't expect your first visit to include all the treatment you need—usually the first appointment focuses on emergency care and assessment. Ask at the end of your appointment what their recommendations are and what order treatment should happen in, so you understand the plan going forward.
 
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
 Community dental clinics, FQHCs, dental schools, and free clinics provide real alternatives for affordable dental care. Quality is generally comparable to private practice, with the tradeoff being longer wait times and potentially longer appointments. Finding these resources requires some research, but they can save you thousands of dollars in dental costs.
 
-> **Key Takeaway:** Find affordable dental care through community clinics, federally qualified health centers, and dental schools.
+> **Key Takeaway:** About 41 million Americans don't have dental insurance, and many more postpone dental care because of cost.
 
 ## Related Articles
 

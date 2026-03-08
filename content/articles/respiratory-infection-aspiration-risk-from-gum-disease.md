@@ -21,7 +21,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: 'Gum Disease and Lung Health: Why Your Mouth Affects'
 ---
-
 ## The Surprising Link Between Your Gums and Your Lungs
 
 You might not realize that your mouth and your lungs are connected—not just by your throat and breathing passages, but also through your bloodstream. When you have gum disease, bacteria from your infected gums don't stay confined to your mouth. Some of these bacteria get into your saliva and can be aspirated (breathed) into your lungs. Others enter your bloodstream through your inflamed gums and travel throughout your body, including to your lungs. This is why gum disease isn't just a mouth problem—it's a whole-body health issue.

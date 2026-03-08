@@ -32,7 +32,6 @@ references:
   - title: "Da Silva MM, et al. Clinical and esthetic evaluation of composite bonded veneers. J Esthet Dent. 2015;27(6):360-367."
     url: https://pubmed.ncbi.nlm.nih.gov/26637125
 ---
-
 ## Two Types of Tooth Stains
 
 Your teeth can stain in two different ways, and understanding which type you have helps determine the best treatment for your situation.

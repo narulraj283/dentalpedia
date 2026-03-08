@@ -22,14 +22,13 @@ references:
   - "van der Geld P, Oosterveld P, Kuijpers-Jagtman AM. Smile esthetics: a photographic assessment in children and adults. Angle Orthod. 2007;77(5):759-765."
   - "Al-Abdallah MN, Buschang PH, Foley J. Buccal corridor negative space and smile esthetics in three different vertical skeletal patterns. Angle Orthod. 2013;83(4):639-647."
 ---
-
 ## What Are Buccal Corridors?
 
 Buccal corridors are the dark spaces you see along the sides of your smile—the gap between your back teeth and the inner edges of your cheeks when you smile. It's negative space (empty space) that's visible when you show your teeth. The width of these corridors varies from person to person.
 
-Some people have very narrow corridors (almost no visible gap), while others have wide ones (lots of empty space). This affects whether your smile looks "full" and toothy or "narrow" and restrained. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
+Some people have very narrow corridors (almost no visible gap), while others have wide ones (lots of empty space). This affects whether your smile looks "full" and toothy or "narrow" and restrained.
 
-**Narrow corridors** (less than 2-3mm) show lots of tooth—your smile looks broad and full. **Wide corridors** (more than 4-5mm) show significant empty space—your smile looks narrower. **Intermediate corridors** (2-4mm) are in the middle range. Different ethnicities naturally have different corridor widths. Asian populations typically have wider corridors (4-6mm), while Caucasian populations average narrower corridors (2-4mm). This is just normal variation. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
+**Narrow corridors** (less than 2-3mm) show lots of tooth—your smile looks broad and full. **Wide corridors** (more than 4-5mm) show significant empty space—your smile looks narrower. **Intermediate corridors** (2-4mm) are in the middle range. Different ethnicities naturally have different corridor widths. Asian populations typically have wider corridors (4-6mm), while Caucasian populations average narrower corridors (2-4mm). This is just normal variation.
 
 Your **smile arc** (how your front teeth align with your lower lip during smiling) relates to corridor width. When you smile broadly showing lots of front teeth (broad smile arc), corridors are naturally narrower. When you smile more conservatively showing just a bit of front teeth (narrow smile arc), corridors appear wider. These components work together to create your overall smile appearance.
 
@@ -146,6 +145,9 @@ Assessment should integrate corridor dimensions within comprehensive smile analy
 Orthodontic posterior expansion effectively reduces corridor width by 1-2mm per 3-4mm of arch expansion; this represents the primary modality when orthodontic treatment is planned for other reasons. Surgical advancement, soft tissue grafting, and restorative modifications provide alternative approaches for non-orthodontic cases or when expansion is contraindicated.
 
 Digital smile design technology enables treatment visualization and patient collaboration in outcome specification. Mixed treatment approaches combining multiple modalities frequently optimize outcomes more effectively than single interventions. Treatment prioritization should balance patient concerns, treatment goals, and clinical feasibility rather than pursuit of arbitrary esthetic standards.
+
+
+Related reading: [Creating Your Best Smile: Lips, Teeth, and Proportions](/article/lip-lines-and-smile-arc-aesthetic-proportions-explained.html) and [Cost of Tooth Gap Closure](/article/cost-of-tooth-gap-closure.html).
 
 ## Conclusion
 

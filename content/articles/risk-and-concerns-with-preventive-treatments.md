@@ -45,7 +45,6 @@ subcategory: Preventive Overview
 subcategory_slug: overview-prevent
 title: Risk and Concerns with Preventive Treatments
 ---
-
 ## Why Your Preventive Treatments Matter
 
 You've probably heard your dentist talk about preventing tooth decay and gum disease. Treatments like fluoride applications, dental sealants, professional cleanings, and antimicrobial rinses are important tools for keeping your teeth healthy. But like all medical treatments, they come with some things you should know about. Understanding the risks helps you make smart choices about your dental care and know what to expect.

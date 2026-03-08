@@ -20,7 +20,6 @@ references:
   - "Ogaard B. (2023). White spot lesions during orthodontic treatment: mechanisms, mitigation strategies, and management. Journal of Dental Research. 88(3):214-219."
   - "West NX, Hughes JA, Addy M. (2023). Erosion of deciduous and permanent dental hard tissues in the same child. A case report. Journal of Dentistry. 29(4):251-255."
 ---
-
 ## Not All Food Restrictions Are Created Equal
 
 Your orthodontist will probably give you a list of foods to avoid, but they're not all equally important. Some foods actually damage your braces or teeth (critical restrictions), while others are just advisory—meaning you can eat them if you're careful. Understanding the difference helps you navigate eating with braces way more easily and improves your chances of following the rules.
@@ -101,7 +100,7 @@ Each bracket repair adds time to your overall treatment because your teeth aren'
 
 Food restrictions are real and important, but you don't need to eat boring food for the entire time you have braces. The critical restrictions (avoiding sticky and hard foods) are non-negotiable. But you can eat plenty of normal foods as long as you're smart about limiting snacks and acidic drinks. Most restrictions come down to being thoughtful rather than suffering through bland meals.
 
-> **Key Takeaway:** Your orthodontist will probably give you a list of foods to avoid, but they're not all equally important.
+> **Key Takeaway:** Some foods actually damage your braces or teeth (critical restrictions), while others are just advisory—meaning you can eat them if you're careful. Understanding the difference helps you navigate eating with braces way more easily and improves your chances of following the rules.
 
 ## Related Articles
 

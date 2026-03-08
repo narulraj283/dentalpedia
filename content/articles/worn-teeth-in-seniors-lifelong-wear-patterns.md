@@ -30,7 +30,6 @@ references:
   - title: "Occlusal Wear Patterns and Vertical Dimension Changes Over Decades"
     url: "https://pubmed.ncbi.nlm.nih.gov/20574471/"
 ---
-
 ## A Lifetime of Wear Accumulates
 
 If you're a senior and your teeth look shorter than you remember, or your bite feels different, you're experiencing normal age-related wear. Your teeth have been chewing, grinding, and exposed to acids for 60, 70, or 80+ years. It's like anything else that gets used heavily for decades—it wears down. About 78% of people over 65 have noticeable wear on their back teeth. The good news is that something can be done about it.

@@ -20,7 +20,6 @@ references:
   - Zyulina GA, et al. The occurrence of dry socket: incidence and classification. Journal of Oral and Maxillofacial Surgery. 2015;73(7):1311-1317.
   - Kolokythas A. Alveolar osteitis: a comprehensive review of concepts and controversies. International Journal of Dentistry. 2010;2010:249073.
 ---
-
 If you're facing a tooth extraction, you might worry about complications. Good news: serious complications are actually pretty rare. But understanding the risk factors helps you know what to expect and how to prevent problems.
 
 ## Myth: Extraction Complications Are Completely Unpredictable
@@ -69,12 +68,6 @@ Before your extraction, your dentist should explain: what the procedure will inv
 
 Ask about arrangements for someone to drive you home (anesthesia impairs judgment and reaction time), time off work (usually 24-48 hours for simple extractions, a few days for complex ones), and any dietary restrictions.
 
-## Questions to Ask Your Dentist Before Extraction
-
-Before your extraction appointment, come prepared with questions that help you understand your specific risk. Ask your dentist whether this is a simple or complex extraction, what complications are most likely given your health status, and whether preventive steps (like antibiotics or additional techniques) apply to your situation. Ask whether you'll receive IV sedation or local anesthesia, how long recovery typically takes for your specific case, and what pain management options are available afterward.
-
-If you're considering an implant later, ask about ridge preservation to maintain jaw bone structure. Ask about cost factors—will there be additional charges for bone grafting or other techniques? Ask whether you should arrange someone to drive you home and exactly when you can return to work or exercise. Understanding these details beforehand reduces anxiety and helps you prepare properly.
-
 ## After Your Extraction: What's Normal?
 
 **Normal:** bleeding for 24 hours, some swelling peaking at 48 hours, mild discomfort for a few days, slight bruising. Your mouth might taste slightly metallic or bloody for a few days, and you might feel stiffness when opening your mouth wide. Slight tingling or temporary numbness around the extraction area is normal if the tooth was difficult to remove.
@@ -97,7 +90,7 @@ Complete healing takes 3-6 months for the bone to fully regenerate, though the s
 
 Extraction complications are uncommon and usually manageable. Knowing your personal risk factors helps you and your dentist prevent problems. Following post-extraction instructions carefully—especially regarding smoking, rinsing, and diet—makes a huge difference. Modern extraction techniques and careful planning minimize most risks.
 
-> **Key Takeaway:** Tooth extraction complications happen in some cases, but knowing the risk factors helps you prepare and prevent problems.
+> **Key Takeaway:** If you're facing a tooth extraction, you might worry about complications.
 
 ## Related Articles
 

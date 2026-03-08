@@ -22,7 +22,6 @@ references:
   - "Nyle-Danzl M, Eaton KA. Comparing conventional, electric, and water-jet interdental cleaning methods. Dent Update. 2009;36(10):614-623."
   - "Wunderlich RC, Applebaum BJ. Efficacy of interdental brush design in removing plaque. J Dent. 2000;28(8):539-545."
 ---
-
 ## The Best Flossing Technique: C-Shaped vs Sawing Motions
 
 Not all flossing techniques work equally well. The C-shaped technique—where you curve the floss against the tooth surface and move it vertically up and down—removes about 30 to 40 percent more plaque than the sawing motion (moving floss back and forth horizontally). This difference matters because more plaque removal means better disease prevention.
@@ -87,7 +86,7 @@ The ideal flossing method is the one you'll use every single day with reasonably
 
 Talk with your dentist about which method will work best for your specific situation. They can help you choose the tool that fits your anatomy and your lifestyle so you'll actually stick with daily flossing.
 
-> **Key Takeaway:** Not all flossing techniques work equally well. The C-shaped technique—where you curve the floss against the tooth surface and move it vertically up.
+> **Key Takeaway:** Not all flossing techniques work equally well.
 
 ## Related Articles
 

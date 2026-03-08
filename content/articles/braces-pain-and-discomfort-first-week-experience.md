@@ -37,7 +37,6 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: 'Braces Pain and Discomfort: First Week Experience'
 ---
-
 So you're about to get braces, or you just got them placed, and you're wondering how bad the pain is going to be. It's natural to worry. The truth is that about 60 to 90% of patients feel some discomfort in the first few days, but most people find it's far less terrible than they feared. This article walks you through exactly what to expect during that crucial first week and shows you how to manage the soreness so it doesn't slow you down.
 
 ## What You'll Actually Feel This Week
@@ -71,14 +70,6 @@ Soft food is your friend right now. When your teeth are sore, chewing hard foods
 Gentle brushing is important, but be extra careful. Use a soft-bristled toothbrush and brush gently. If traditional brushing hurts too much during the first few days, try using a water irrigator (like a WaterPik) on a low setting—it cleans your teeth without the pressure of bristles. By day 3 or 4, you should be able to go back to normal brushing.
 
 Warm salt water rinses (1 teaspoon salt in 8 ounces of warm water) feel soothing and help reduce inflammation. Rinse 3 to 4 times a day, especially after eating.
-
-## Questions to Ask Your Orthodontist
-
-Make sure you understand your orthodontist's plan for your first week. Ask specifically which size wire they're using and why. A gentler approach using smaller wires at first creates much less pain than jumping straight to larger wires. Also ask about what you should do if the pain is severe, and at what point you should call the office. Most soreness is normal, but extreme swelling or pain that doesn't improve with medication should be reported.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
-
-on-mouth-sores-during-orthodontia.html) | [Braces Food Restrictions: What You Need to Know](/article/braces-food-restrictions-what-you-need-to-know.html)
 
 ## Pharmacological Pain Management During First Week
 
@@ -122,6 +113,12 @@ First-week orthodontic pain represents normal physiological response to mechanic
 
 
 For more information, see [Understanding Braces Discomfort Relief for Better](/article/benefits-of-braces-discomfort-relief.html).
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
+
+Related reading: [Why Bite Correction Methods Matter for Long-Term Dental](/article/why-bite-correction-methods-matters.html).
 
 ## Conclusion
 

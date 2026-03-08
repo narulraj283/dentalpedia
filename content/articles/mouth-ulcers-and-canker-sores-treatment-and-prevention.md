@@ -32,7 +32,6 @@ references:
   - title: "Baccaglini L, Lalla RV. Current management of oral mucositis in patients receiving cancer therapy. Curr Opin Otolaryngol Head Neck Surg. 2006;14(3):136-141."
     url: https://pubmed.ncbi.nlm.nih.gov/16772509
 ---
-
 Canker sores are like your mouth's overreaction to minor injuries. A small cut from food or aggressive brushing should heal within a day, but in susceptible people, the immune system attacks the area and keeps it inflamed, turning a tiny injury into a painful ulcer lasting weeks. Understanding why you get canker sores—whether from nutritional deficiency, sensitivity to toothpaste chemicals, stress, or dietary triggers—transforms prevention from guesswork to targeted action. This detailed guide covers both immediate relief and long-term prevention strategies that actually work.
 
 ## Why Some People Get Frequent Canker Sores

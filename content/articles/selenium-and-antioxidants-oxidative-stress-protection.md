@@ -43,7 +43,6 @@ subcategory: Nutrition Overview
 subcategory_slug: overview-nutrition
 title: Selenium and Antioxidants Oxidative Stress Protection
 ---
-
 ## Introduction
 
 You probably don't think much about oxidative stress and antioxidants in your mouth, but they're actually quite important for keeping your gums and teeth healthy. Your mouth naturally produces compounds called free radicals as part of normal immune function, especially when fighting the bacteria that cause gum disease. When too many free radicals build up and you don't have enough antioxidants to neutralize them, your gums can become inflamed and damaged. This is where selenium comes in—it's a trace mineral that helps your body produce powerful antioxidant enzymes. Learning about selenium and antioxidants can help you understand why certain foods support healthy gums.
@@ -79,14 +78,6 @@ If you're a smoker, you're creating extra free radicals in your mouth every time
 ## Why This Matters for Your Gums
 
 Your gums have their own immune system that protects against the bacteria trying to attack them. When oxidative stress overwhelms your antioxidant defenses, your gums lose the battle, and gum disease progresses. When your antioxidant defenses are strong, your gums can fight off bacteria more effectively, and your immune system causes less collateral damage to your own tissue. It's not complicated—keeping your antioxidant levels up through proper nutrition is like giving your gums extra protection against damage.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about selenium and antioxidants - oxidative stress protection... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

@@ -22,26 +22,25 @@ references:
   - "Marquezan M, Osório A, Sant'Anna E, et al. Does low level laser therapy increase the rate of orthodontic tooth movement? A systematic review. Lasers Med Sci. 2016;31(5):881-889."
   - "Ata-Ali J, Ata-Ali F. Complications associated with self-ligation in orthodontics: A systematic review. J Orthod. 2015;42(2):137-146."
 ---
-
-During braces, you need to avoid sticky and hard foods that damage brackets. Food restrictions seem inconvenient, but avoiding a $400 bracket replacement makes compliance worthwhile. Here's what you can and can't eat—plus budget-friendly alternatives. Maintaining good [Oral Health Habits](/article/oral-health-habits-complete-guide.html) and proper diet helps ensure successful [Braces Treatment](/article/cost-of-bite-correction-methods.html).
+During braces, avoid sticky and hard foods that damage brackets. Food restrictions seem inconvenient, but avoiding a $400 bracket replacement makes following the rules worthwhile. Here's what you can and can't eat, plus budget-friendly alternatives. Maintaining good [Oral Health Habits](/article/oral-health-habits-complete-guide.html) and proper diet helps ensure successful [Braces Treatment](/article/cost-of-bite-correction-methods.html).
 
 ## Why Food Restrictions Matter
 
 ### Bracket Damage Costs
 
-**Bracket debonding** (breaking off):
+**Brackets breaking off**:
 - Cost per bracket replacement: $50-$150
-- Number of brackets that break: 4-8 over 24-month treatment (in non-compliant patients)
+- Number of brackets that break: 4-8 over 24-month treatment (in patients who don't follow rules)
 - Total cost: $200-$1,200
 
-**Archwire displacement**:
+**Wire moves out of place**:
 - Cost to fix: $50-$100 per visit
-- Emergency appointment needed
+- You need an emergency appointment
 
-**Lost time**:
-- Treatment delays: 2-4 months total if multiple bracket failures
-- Extends treatment duration
-- Extends total cost due to longer care
+**Wasted time**:
+- Treatment delays: 2-4 months total if you break multiple brackets
+- Your braces stay on longer
+- Longer care costs more money
 
 **Bottom line**: Bracket replacements cost $200-$1,200 and extend treatment timeline
 
@@ -51,13 +50,13 @@ During braces, you need to avoid sticky and hard foods that damage brackets. Foo
 
 ### Sticky Foods
 
-**Why they're dangerous**: Stick to brackets and pull them off teeth, or wrap around wires causing displacement
+**Why they're dangerous**: They stick to brackets and pull them off teeth, or wrap around wires and move it out of place
 
 **Foods to avoid**:
 - Caramel and taffy
 - Chewing gum (even sugar-free; it's still sticky)
 - Dried fruit (raisins, apricots, etc.)
-- Jelly and preserves
+- Jelly and jam
 - Marshmallows
 - Licorice
 - Cotton candy
@@ -78,12 +77,12 @@ During braces, you need to avoid sticky and hard foods that damage brackets. Foo
 - Ice (never chew ice)
 - Hard pretzels
 - Hard cookies (biscotti, etc.)
-- Apples and raw carrots (unless cut into small pieces and softened)
+- Apples and raw carrots (unless cut into small pieces)
 - Whole corn kernels
 
 ### Crunchy Foods
 
-**Why they're risky**: Put stress on brackets; may displace
+**Why they're risky**: They put stress on brackets and might move them
 
 **Foods to be careful with** (soften when possible):
 - Raw vegetables (slice thin, cook if possible)
@@ -91,7 +90,7 @@ During braces, you need to avoid sticky and hard foods that damage brackets. Foo
 - Certain fruits (cut small)
 - Toast (soften with butter or dip)
 
-**Strategy**: If you love these foods, soften them slightly or cut smaller to reduce risk
+**Strategy**: If you like these foods, make them softer or cut them smaller to reduce risk
 
 ## Foods You CAN Eat
 
@@ -143,9 +142,9 @@ During braces, you need to avoid sticky and hard foods that damage brackets. Foo
 
 **Average family diet annual cost**: $3,000-$5,000
 
-**Dietary modification during 24-month treatment**:
-- Slight increase from processed/softer alternatives: 5-10% ($150-$500 total over 2 years)
-- Offset by avoiding expensive restaurant meals/snacks you can't eat: -2-5% ($60-$250)
+**Food changes during 24-month treatment**:
+- Slight increase from processed or softer alternatives: 5-10% ($150-$500 total over 2 years)
+- You save money by not buying expensive restaurant meals or snacks you can't eat: -2-5% ($60-$250)
 - Net cost increase: 0-5% ($0-$250 total over 2 years)
 
 **Alternative calculation**:
@@ -155,9 +154,9 @@ During braces, you need to avoid sticky and hard foods that damage brackets. Foo
   - Nuts ($5/lb) → Soft cheese ($6/lb, similar)
   - Popcorn ($4/box) → Softer snacks ($4/box)
 
-**Bottom line**: Food cost increase is negligible ($0-$250 over entire treatment)
+**Bottom line**: Food cost increase is small ($0-$250 over entire treatment)
 
-**Compared to bracket replacement cost**: $200-$1,200 and treatment delays
+**Compared to bracket replacement cost**: $200-$1,200 and extra time in braces
 
 ## Making the Transition
 
@@ -166,19 +165,19 @@ During braces, you need to avoid sticky and hard foods that damage brackets. Foo
 **Challenges**: Missing certain foods, extra meal planning
 
 **Strategy**:
-1. Accept that this is temporary (24-30 months)
-2. Focus on allowed foods you enjoy
-3. Get creative with softer versions
+1. Remember this is temporary (24-30 months)
+2. Focus on foods you can eat
+3. Get creative with softer versions of your favorite foods
 
 **Timeline**: Most people adapt within 2-4 weeks
 
 ### Weeks 3-4: New Normal
 
-**What happens**: Soft foods feel normal; you stop thinking about it
+**What happens**: Soft foods become normal; you stop thinking about the restrictions
 
-**Many people report**: Improved diet quality (less junk, more nutritious)
+**Many people report**: Their diet improves (less junk food, more nutrition)
 
-**Some even report**: Continuing soft-food preference after braces due to digestive ease
+**Some even report**: They continue to prefer soft foods after braces because they're easier to digest
 
 ## Eating at School/Work/Social Events
 
@@ -189,7 +188,7 @@ During braces, you need to avoid sticky and hard foods that damage brackets. Foo
 - Yogurt or cottage cheese
 - Soft fruit (banana, applesauce)
 - Cookies or soft treats
-- Avoid hard items that tempt you
+- Don't pack hard items that tempt you
 
 **Cost**: Same as normal lunch
 
@@ -203,12 +202,12 @@ During braces, you need to avoid sticky and hard foods that damage brackets. Foo
 - Ice cream places
 
 **Order soft items**:
-- Instead of chicken wings → grilled chicken breast
-- Instead of popcorn → soft pretzels
-- Instead of hard tacos → burritos
-- Instead of crispy fries → mashed potatoes
+- Choose grilled chicken breast instead of chicken wings
+- Choose soft pretzels instead of popcorn
+- Choose burritos instead of hard tacos
+- Choose mashed potatoes instead of crispy fries
 
-**Cost**: Actually often cheaper because soft options are less expensive
+**Cost**: Actually often cheaper because soft options cost less
 
 ### Social Events
 
@@ -231,10 +230,10 @@ During braces, you need to avoid sticky and hard foods that damage brackets. Foo
 
 ### Vegetables and Fiber
 
-**Soft vegetable options** have equal or greater nutrition:
-- Cooked vegetables: Better nutrient bioavailability than raw
-- Applesauce: Same as apples
-- Soft vegetables provide adequate fiber
+**Soft vegetable options have equal or better nutrition**:
+- Cooked vegetables: Your body absorbs more nutrients than from raw vegetables
+- Applesauce: Same nutrition as apples
+- Soft vegetables give you enough fiber
 
 ### Calcium and Bone Health
 
@@ -244,9 +243,9 @@ During braces, you need to avoid sticky and hard foods that damage brackets. Foo
 
 ### Overall Nutrition
 
-**Bottom line**: Soft diet is completely nutritionally adequate; no supplements needed
+**Bottom line**: A soft diet gives your body all the nutrition it needs. You don't need supplements.
 
-**Possible benefits**: Some people report better digestion with softer foods
+**Possible benefits**: Some people say they digest softer foods better
 
 ## Special Situations
 
@@ -265,20 +264,20 @@ During braces, you need to avoid sticky and hard foods that damage brackets. Foo
 **Challenges**: Limited restaurant options, unfamiliar foods
 
 **Strategy**:
-- Research restaurant options in advance
-- Bring emergency soft snacks (applesauce pouches, granola bars)
+- Look up restaurant options before you travel
+- Bring soft snacks as backup (applesauce pouches, granola bars)
 - Ask hotels about food requests
-- Soft foods available everywhere: eggs, bread, pasta, cooked vegetables
+- Soft foods are available everywhere: eggs, bread, pasta, cooked vegetables
 
 ### Eating While Focused (Studying, Working)
 
-**Challenges**: Snacking on crunchy foods during concentration
+**Challenges**: You want to snack on crunchy foods while you work
 
 **Solutions**:
 - Replace crunchy snacks with soft alternatives
-- Yogurt, pudding, cookies available for desk snacking
-- Herbal teas instead of crunchy snacks
-- Banana instead of apple
+- Keep yogurt, pudding, or cookies at your desk
+- Drink herbal teas instead of eating crunchy snacks
+- Eat a banana instead of an apple
 
 ## Timeline and Expectations
 
@@ -296,51 +295,52 @@ During braces, you need to avoid sticky and hard foods that damage brackets. Foo
 
 ### Months 12-24
 
-**Pattern**: Compliance strong; soft foods feel completely normal
+**Pattern**: Most people follow the rules well; soft foods feel completely normal
 
-**Many people forget they're on restrictions**
+**Many people forget they even have food restrictions**
 
 ## Bracket Compliance Motivation
 
-**If you're tempted to break the rules, remember**:
+**If you want to break the rules, remember this**:
 
-**Cost of one sticky candy breakage**:
+**Cost of eating one sticky candy**:
 - Bracket replacement: $50-$150
 - Emergency appointment: $75-$150
 - Time out of your day: 30 minutes to 1 hour
-- Extended treatment timeline: potentially 2-4 weeks
+- Your braces stay on longer: possibly 2-4 weeks extra
 
-**Cost of avoiding one sticky candy**: $0, prevention
+**Cost of not eating one sticky candy**: $0
 
-**The math**: Preventing one bracket breakage saves $125-$300 and 2-4 weeks of treatment
+**The math**: Avoiding one sticky candy saves $125-$300 and 2-4 weeks in braces
 
 ## Family Support
 
-**Tell family**:
+**Tell your family**:
 - What foods you can't eat
-- Why restrictions matter (bracket cost, timeline)
-- What alternatives you enjoy
+- Why restrictions matter (bracket cost, extra time in braces)
+- What food alternatives you enjoy
 
 **Benefits**:
-- Family helps keep restricted foods out of house
+- Your family helps keep forbidden foods out of the house
 - They understand your dietary needs
-- Social support improves compliance
+- Their support helps you stick to the rules
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 
-Food restrictions during braces prevent bracket damage costing $200-$1,200 and treatment delays. Avoiding sticky and hard foods costs nothing (behavioral compliance) or 0-5% diet cost increase ($0-$250 total). Soft-food alternatives are nutritionally adequate and often healthier.
+Food restrictions during braces prevent bracket damage costing $200-$1,200 and extra time in treatment. Avoiding sticky and hard foods costs nothing (just a behavioral change) or increases your food cost by 0-5% ($0-$250 total). Soft food alternatives have all the nutrition you need and are often healthier.
 
-Most people adapt within 2-4 weeks. Dietary compliance saves far more than it costs in prevented bracket replacements and treatment extensions. While restrictions feel limiting initially, they become routine quickly. The 24-30 months of dietary modifications prevent thousands in costs and extend treatment by months.
+Most people get used to the restrictions within 2-4 weeks. Following dietary rules saves far more money than it costs by preventing bracket repairs and extra treatment time. While restrictions feel limiting at first, they become normal quickly. The 24-30 months of food restrictions prevent thousands in costs and keep treatment on schedule.
 
-> ## Related Articles You May Find Helpful
+> > **Key Takeaway:** Food restrictions prevent $200-$1,200 in bracket replacements and 2-4 month treatment delays. Avoiding sticky and hard foods costs $0 (compliance only) and adapts within 2-4 weeks. Soft-food alternatives are nutritionally adequate. The temporary dietary modifications save far more than they cost in prevented complications. Talk to your orthodontist about strategies for eating at school, work, and social events while maintaining compliance.
+
+## Related Articles You May Find Helpful
 
 - [Why Braces Food Restrictions Matters](/article/why-braces-food-restrictions-matters.html)
 - [Herbst Appliance Fixed Mandibular Advancement](/article/herbst-appliance-fixed-mandibular-advancement.html)
 - [Wire Sequence Progression Of Wires](/article/wire-sequence-progression-of-wires.html)
 
-> **Key Takeaway:** Food restrictions prevent $200-$1,200 in bracket replacements and 2-4 month treatment delays. Avoiding sticky and hard foods costs $0 (compliance only) and adapts within 2-4 weeks. Soft-food alternatives are nutritionally adequate. The temporary dietary modifications save far more than they cost in prevented complications. Talk to your orthodontist about strategies for eating at school, work, and social events while maintaining compliance.
 
 ## Related Articles
 

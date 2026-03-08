@@ -17,7 +17,6 @@ references:
   - "Richter AH, Estes SA, Sonderstrom CM. Periodontal health of patients with fixed appliance therapy. Am J Orthod Dentofacial Orthop. 1998;114(3):349-356."
   - "Cheung PT, Cooke MS. Consensus conference on dietary guidance in orthodontic practice. Br Dent J. 2015;218(9):489-494."
 ---
-
 ## Introduction
 
 Getting braces is exciting but requires dietary adjustments. Certain foods can damage brackets or wires, requiring emergency dental visits. The good news: you don't have to eat boring foods. You just need to be smart about what you choose and how you eat. Understanding why certain foods are problematic helps you make good decisions while protecting your braces and keeping your treatment on schedule.
@@ -173,19 +172,14 @@ You can eat well while protecting your braces—it just requires planning.
 
 The standard answer: 24-36 months of full braces wear. After braces are removed, you can eat anything. Many people find that after months of careful eating, they've developed better habits that stick around anyway!
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about dietary restrictions with braces foods to avoid and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 
 Eating with braces requires avoiding hard, sticky, and chewy foods that can damage brackets and delay treatment. However, plenty of delicious foods work with braces. Smart choices—cutting foods into pieces, choosing soft options, eating carefully—let you eat well and maintain treatment progress. Patients who follow dietary restrictions have shorter treatment times, fewer emergency appointments, and better long-term results.
 
-> **Key Takeaway:** Guide to safe eating during orthodontic treatment and foods that can damage braces.
+> **Key Takeaway:** Getting braces is exciting but requires dietary adjustments.
 
 ## Related Articles
 

@@ -22,12 +22,11 @@ references:
   - "McNamara JA Jr. Orthodontics and your health. Semin Orthod. 1997;3(1):3-11."
   - "Nahas AZ, et al. Factors affecting the success and stability of rapid maxillary expansion: a literature review. J World Fed Orthod. 2016;5(3):67-75."
 ---
-
 ## Why Adults Are Getting Braces
 
-Many adults think braces are just for kids. That's not true anymore. About 20% of people getting braces today are adults. Adult braces deliver real benefits beyond just making your smile straighter—they improve your oral health, help you chew better, and boost your confidence. For more details, see our guide on [Accelerated Orthodontia](/article/accelerated-orthodontia-fast-track-braces.html).
+Many adults think braces are just for kids. That's not true anymore. About 20% of people getting braces today are adults. Adult braces deliver real benefits beyond just making your smile straighter—they improve your oral health, help you chew better, and boost your confidence.
 
-Teeth can move throughout your life. Adult bone moves teeth slightly slower than kids' bone, but it works perfectly fine. Orthodontists routinely treat patients in their 50s, 60s, and beyond with excellent results. The old idea that "braces are for children" is outdated. For more details, see our guide on [Accelerated Orthodontics](/article/accelerated-orthodontics-speeding-up-your-treatment.html).
+Teeth can move throughout your life. Adult bone moves teeth slightly slower than kids' bone, but it works perfectly fine. Orthodontists routinely treat patients in their 50s, 60s, and beyond with excellent results. The old idea that "braces are for children" is outdated.
 
 ## Straight Teeth Are Easier to Clean
 
@@ -87,25 +86,14 @@ Most other conditions are manageable. Your orthodontist will evaluate whether br
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+Related reading: [Clear Aligner Technology](/article/clear-aligner-technology-how-it-works-and-effectiveness.html) and [Preventing Orthodontic Relapse - Retention Protocols](/article/benefits-of-teeth-relapse-prevention.html).
 
 ## Conclusion
 
 Adult braces deliver multiple benefits: improved oral hygiene access, reduced gum disease risk, better chewing, ideal setup for future restorations, and genuine confidence improvement. Modern invisible options make discreet treatment possible. While teeth move slightly slower in adults, treatment succeeds reliably with appropriate force levels and lifetime retention wear. If you've delayed orthodontics because you thought you were too old or self-conscious, consider talking to an orthodontist. The health and quality-of-life benefits often exceed appearance improvement alone.
 
-> **Key Takeaway:** Many adults think braces are just for kids. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** Many adults think braces are just for kids.
 
 ## Related Articles
 

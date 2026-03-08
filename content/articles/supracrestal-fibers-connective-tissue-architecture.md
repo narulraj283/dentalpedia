@@ -32,7 +32,6 @@ references:
   - title: "Nyman S, Lindhe J, Ericsson I. The capacity of reduced periodontal tissues to support a graft. J Clin Periodontol. 1975;2(3):173-180."
     url: https://pubmed.ncbi.nlm.nih.gov/1058315
 ---
-
 ## The Fiber Network That Holds Your Teeth
 
 Your teeth are held in place by more than just bone. There's a sophisticated network of collagen fiber bundles running from your tooth roots to your gums that act like the tooth's "suspenders." These fibers are called supracrestal fibers, and they're organized into four different groups, each with a specific job. Together, they provide mechanical attachment, resist chewing forces, and maintain the seal between your tooth and gum. Understanding this structure is important for knowing why gum disease is so serious and what keeps your teeth stable throughout your life.

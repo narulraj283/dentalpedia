@@ -20,6 +20,7 @@ references:
   - "Armfield JM, et al. Typical patterns of dental anxiety acquisition in Australian children. J Dent Res. 2006;85(7):654-58."
   - "Nakai Y, et al. Home-based maternal instruction on oral health and caries reduction in young children. Pediatr Dent. 2010;32(5):417-22."
 ---
+Your child's first dental visit is coming, and you're probably a bit nervous about how they'll react. The good news? What you do before that appointment dramatically influences whether it goes well or becomes a fear-reinforcing nightmare. Here's how to prepare your child to actually enjoy (or at least tolerate) seeing the dentist.
 
 ## Understanding Your Child's Anxiety
 
@@ -147,7 +148,7 @@ Talk to the dentist about what happened and plan differently next time.
 
 Preparation is powerful. Research shows that kids who have anxiety-reducing preparation before their first dental visit have much better experiences. Your calm presence, positive language, and willingness to manage your own anxiety create the foundation for your child to develop lifelong healthy attitudes about dental care.
 
-> **Key Takeaway:** Evidence-based preparation strategies reducing anxiety and optimizing cooperation for successful pediatric dental experiences.
+> **Key Takeaway:** Your child's first dental visit is coming, and you're probably a bit nervous about how they'll react.
 
 ## Related Articles
 

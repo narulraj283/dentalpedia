@@ -32,7 +32,6 @@ references:
   - title: "Long-term stability of adult orthodontic treatment: Retention protocols"
     url: https://www.ncbi.nlm.nih.gov/pubmed/15993266
 ---
-
 It's never too late to straighten your teeth. Today, about 1 in 4 orthodontic patients are adults, and the options available are better than ever. Whether you want straighter teeth for better health, a more confident smile, or improved jaw function, you have several excellent choices. Your age doesn't limit what's possible—it just means you need a slightly different approach than teenagers do.
 
 ## How Adult Teeth Straightening Differs from Kids' Braces

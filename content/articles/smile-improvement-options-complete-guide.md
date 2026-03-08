@@ -46,7 +46,6 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Smile Improvement Options - A Complete Guide
 ---
-
 ## Your Smile Improvement Options
 
 There are many ways to improve your smile depending on what bothers you. Your dentist can start with the most conservative options and work toward more involved treatments if needed. This approach preserves your teeth and lets you see if simpler improvements work for you before doing anything permanent.

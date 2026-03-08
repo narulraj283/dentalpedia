@@ -28,7 +28,6 @@ references:
   - title: "Biological Width and Esthetic Considerations in Surgery"
     url: "https://pubmed.ncbi.nlm.nih.gov/12661932/"
 ---
-
 ## Reshaping Your Gums for a Perfect Smile
 
 Your gum line is like the frame of a picture—it can dramatically affect how your smile looks. Even if your teeth are perfectly white and straight, an uneven, unattractive gum line can diminish your overall smile.

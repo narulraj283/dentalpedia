@@ -21,7 +21,6 @@ references:
   - "Adair SM. Fluoride and the prevention of tooth decay. J Am Dent Assoc. 2006;137(3):373-378."
   - "Kassebaum NJ, Bernabe E, Dahiya M, et al. Global burden of untreated caries: a systematic review and metaregression. J Dent Res. 2015;94(5):650-658."
 ---
-
 ## How High-Strength Varnish Protects Baby Teeth
 
 Baby teeth are just as vulnerable to cavities as permanent teeth, and cavities in baby teeth can affect developing permanent teeth underneath. High-strength fluoride varnish provides intensive protection for baby teeth, preventing the pain and infection that come with childhood cavities.
@@ -100,7 +99,7 @@ High-strength pediatric fluoride varnish provides intensive cavity prevention fo
 
 Your pediatric dentist determines whether high-strength varnish is appropriate for your child based on their individual cavity risk assessment.
 
-> **Key Takeaway:** Baby teeth are just as vulnerable to cavities as permanent teeth, and cavities in baby teeth can affect developing permanent teeth underneath.
+> **Key Takeaway:** High-strength fluoride varnish provides intensive protection for baby teeth, preventing the pain and infection that come with childhood cavities.
 
 ## Related Articles
 

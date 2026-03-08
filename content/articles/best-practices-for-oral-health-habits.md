@@ -22,12 +22,11 @@ references:
   - "Reuland-Bosma W, et al. Associations between dry mouth and periodontal disease. J Periodontol. 2011;82(7):1012-1019."
   - "Sabbah W, et al. Social gradients in oral and general health. J Dent Res. 2009;88(3):275-279."
 ---
-
 ## Your Saliva: Your Mouth's First Line of Defense
 
-You might think saliva is just spit, but it's actually a powerful defense system. Saliva buffers acids, kills bacteria, and helps repair early tooth damage. Your mouth needs normal saliva flow (about 0.3-0.4 mL per minute) to stay healthy. When saliva drops below 0.1 mL per minute, oral diseases spike dramatically. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+You might think saliva is just spit, but it's actually a powerful defense system. Saliva buffers acids, kills bacteria, and helps repair early tooth damage. Your mouth needs normal saliva flow (about 0.3-0.4 mL per minute) to stay healthy. When saliva drops below 0.1 mL per minute, oral diseases spike dramatically.
 
-Saliva does three amazing things: it neutralizes acids within 30 minutes, it kills germs with special proteins, and it repairs small enamel damage. If your saliva can't buffer acids well (this happens with stress, poor diet, or sleep problems), your cavity risk jumps 10-20 times higher. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+Saliva does three amazing things: it neutralizes acids within 30 minutes, it kills germs with special proteins, and it repairs small enamel damage. If your saliva can't buffer acids well (this happens with stress, poor diet, or sleep problems), your cavity risk jumps 10-20 times higher.
 
 If your mouth feels dry, tell your dentist. You can boost saliva by:
 - Chewing sugarless gum (mechanical stimulation)
@@ -186,11 +185,16 @@ Perfect oral health goes beyond brushing and flossing. Your saliva, diet, smokin
 
 Quitting smoking makes gum disease 2-4 times better and restores implant success rates to 95%. Managing stress and sleeping 7-9 hours nightly reduces gum inflammation 25-35%. Exercise 150 minutes weekly adds another 15-25% improvement. When you address all these factors together, you'll see dramatic improvements in your mouth health.
 
+
+Related reading: [Risk and Concerns with Mouth Rinse Benefits](/article/risk-and-concerns-with-mouth-rinse-benefits.html) and [Water vs. Other Beverages for Teeth](/article/water-best-beverage-for-teeth.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Optimal oral health requires addressing systemic and behavioral factors beyond mechanical plaque control. Salivary flow and buffer capacity establish host defense baseline—xerostomia patients require enhanced prevention. If you have questions, your dentist can help you understand your options.
 
-> **Key Takeaway:** You might think saliva is just spit, but it's actually a powerful defense system. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** You might think saliva is just spit, but it's actually a powerful defense system.
 
 ## Related Articles
 

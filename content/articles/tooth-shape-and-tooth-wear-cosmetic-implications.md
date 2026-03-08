@@ -32,7 +32,6 @@ references:
   - title: "Kokich VO, Kiyak HA, Shapiro PA. Comparing the perception of dentists and lay people to altered dental esthetics. J Esthet Dent. 1999;11(6):311-324."
     url: https://pubmed.ncbi.nlm.nih.gov/10816743
 ---
-
 ## Different Tooth Shapes, Different Looks
 
 Teeth come in different natural shapes, and your tooth shape is one of the things that makes your smile uniquely yours. Some people have naturally square-shaped teeth, others have more pointed or rounded shapes. These differences aren't just cosmetic—they affect how your teeth work and how they look as you age.
@@ -145,6 +144,3 @@ Tooth morphology significantly influences both esthetics and function. Progressi
 - [Full Mouth Makeover: Restoring Your Smile and Function](/article/full-mouth-rehabilitation-comprehensive-cosmetic-approach.html)
 - [White Fillings for a Beautiful Smile](/article/resin-based-composite-mastery-advanced-cosmetic-techniques.html)
 
-- [Risk and Concerns with Teeth Bleaching Safety](/article/risk-and-concerns-with-teeth-bleaching-safety.html)
-- [Veneer Installation Steps: Complete Clinical Guide](/article/veneer-installation-steps-complete-guide.html)
-- [Cosmetic Dentistry for Aging Smiles: Rejuvenation](/article/cosmetic-dentistry-for-aging-smiles-rejuvenation.html)

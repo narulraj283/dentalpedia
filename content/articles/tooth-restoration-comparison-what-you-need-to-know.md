@@ -32,7 +32,6 @@ references:
   - title: "Beazoglou T, Eklund S, Hefferman J, et al. Economic impact of regulating amalgam and resin-based composite restorations. Public Health Rep. 2007;122(5):657-663."
     url: https://pubmed.ncbi.nlm.nih.gov/17877312
 ---
-
 ## Types of Fillings and Restorations: What You Need to Know
 
 When your dentist finds a cavity or needs to replace a damaged filling, you'll face choices about what material to use. Understanding these options helps you make informed decisions about your treatment. This guide explains the most common restoration materials, their pros and cons, costs, and longevity.
@@ -146,19 +145,6 @@ Costs vary by dentist, location, and complexity.
 **Multiple Teeth:** Consider coordinating restoration materials across teeth for consistent appearance.
 
 **Color Matching:** Your dentist can shade composite to match your exact tooth color. Ceramic crowns and inlays provide superior color stability long-term.
-
-## Questions to Ask Your Dentist
-
-1. **What size is my cavity?** (Influences which materials are appropriate)
-2. **What restoration material do you recommend and why?** (Get specific reasoning)
-3. **How long will this restoration typically last?** (Understanding longevity helps budget)
-4. **Will this restoration match my natural tooth color?** (Esthetic priority assessment)
-5. **What is the cost?** (Understand financial commitment)
-6. **What happens if this restoration fails?** (Know repair vs. replacement options)
-7. **Do you expect any sensitivity after placement?** (Prepare for post-operative experience)
-8. **How should I care for this restoration?** (Longevity depends on maintenance)
-9. **Will I need to restrict eating immediately after?** (Know activity limitations)
-10. **How often will I need follow-up appointments?** (Understand monitoring schedule)
 
 ## Maintenance for Long-Lasting Restorations
 

@@ -49,7 +49,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Periodontal Disease and Tooth Loss Prevention
 ---
-
 ## The Path from Disease to Tooth Loss
 
 Gum disease is the leading cause of tooth loss in adults over 35—it beats out cavities. What's scary is that most people don't realize they have gum disease until significant damage is already done. Without treatment, gum disease gradually destroys the bone holding your teeth, causing loosening and eventually tooth loss. The good news is that treatment and maintenance can save about 85 to 90 percent of teeth affected by gum disease.

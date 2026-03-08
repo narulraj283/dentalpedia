@@ -45,7 +45,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Risk and Concerns with Swelling Reduction
 ---
-
 ## Why You'll Swell After Surgery (And Why That's Actually Normal)
 
 Swelling after oral surgery is your body doing exactly what it should do. When your dentist performs surgery, you get inflammation—it's an automatic healing response. Your blood vessels leak fluid into tissues, immune cells rush to the area, and your face puffs up. This is normal, temporary, and means healing is happening.

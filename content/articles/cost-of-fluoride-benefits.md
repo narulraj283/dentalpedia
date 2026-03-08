@@ -20,7 +20,6 @@ references:
   - "Centers for Disease Control and Prevention. Surveillance for dental caries, dental sealants, tooth retention, edentulism, and enamel fluorosis—United States, 1988-1994. MMWR CDC Surveill Summ. 2005;54(3):1-44."
   - "Fejerskov O, Nyvad B, Kidd E. Dental Caries: The Disease and Its Clinical Management. 3rd ed. Wiley-Blackwell; 2015."
 ---
-
 ## Why Fluoride Is Worth the Investment
 
 When it comes to preventing cavities, fluoride is one of dentistry's greatest success stories. Since water fluoridation started back in the 1940s, millions of cavities have been prevented worldwide. For you and your family, fluoride is one of the smartest preventive investments you can make. Studies show that fluoride reduces cavities by 35-50%, which means fewer cavities, fewer fillings, and more money staying in your pocket.
@@ -79,7 +78,7 @@ You might have heard concerns about fluoride safety. The truth is, fluoride at t
 
 Professional fluoride treatments are an investment that pays for itself many times over. At just $30-150 per session, fluoride prevents 70-80% of potential cavities that could cost you thousands to repair. Whether you choose professional treatments, home products, or community water fluoride, the cost-benefit math is clear: spend a little now on prevention, or spend a lot later on treatment. Talk to your dentist about which fluoride options are right for your specific situation.
 
-> **Key Takeaway:** When it comes to preventing cavities, fluoride is one of dentistry's greatest success stories.
+> **Key Takeaway:** Since water fluoridation started back in the 1940s, millions of cavities have been prevented worldwide. For you and your family, fluoride is one of the smartest preventive investments you can make.
 
 ## Related Articles
 

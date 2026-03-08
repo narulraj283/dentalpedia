@@ -20,7 +20,6 @@ references:
   - "McCullough KJ, Constantino RJ. Bone density changes of the anterior mandible after orthodontic treatment. Am J Orthod Dentofacial Orthop. 2003;123(2):135-143."
   - "Opperman LA, Adler JL. Tissue response to orthodontic tooth movement. Semin Orthod. 1998;4(2):109-119."
 ---
-
 ## How Braces Actually Move Your Teeth
 
 Braces work by applying gentle, consistent pressure to your teeth, which gradually moves them through your jaw bone. Learning more about [Cost of Teeth Movement Speed](/article/cost-of-teeth-movement-speed.html) can help you understand this better. Here's what happens: when a bracket applies force to your tooth, it creates pressure on one side and tension on the opposite side. Your body responds by breaking down bone on the pressure side and building new bone on the tension side. This remodeling allows your tooth to slowly migrate into its new position.
@@ -75,11 +74,14 @@ Your orthodontist can't change your individual biology, but they can optimize fo
 
 Tooth movement is a biological process that takes time. You can't rush biology without damage. Light continuous forces optimized to your tooth types deliver the best results in the fastest reasonable timeline. Keeping appointments, maintaining appliances, and following instructions all contribute to efficient treatment. Understanding that bone remodeling takes months, not weeks, helps set realistic expectations for your treatment duration.
 
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
 Your teeth move through a biological process of bone remodeling in response to orthodontic pressure. Understanding this process helps explain why treatment takes the time it does and why compliance matters. Light continuous forces, regular appointments, and maintenance of your appliances keep your treatment on track and moving efficiently toward your goal.
 
-> **Key Takeaway:** Understand how braces move your teeth and what affects the speed and success of your treatment.
+> **Key Takeaway:** Braces work by applying gentle, consistent pressure to your teeth, which gradually moves them through your jaw bone.
 
 ## Related Articles
 

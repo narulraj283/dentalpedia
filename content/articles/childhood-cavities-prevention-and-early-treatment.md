@@ -20,7 +20,6 @@ references:
   - "Chadwick BL, et al. Dietary counseling for childhood caries prevention: Systematic review and meta-analysis. Pediatric Dentistry Reviews. 2023;45(1):34-51."
   - "Ismail AI, et al. Dental caries in early childhood: Policy recommendations and prevention strategies. Journal of Public Health Dentistry. 2023;83(1):e26-e47."
 ---
-
 Childhood cavities affect about 23% of children ages 2-5 and up to half of school-age children in some communities. The good news: cavities in baby teeth are highly preventable through strategies you can implement at home and with your dentist's help. Catching early damage before it becomes a full cavity is even better. Here's what you need to know about keeping your child's teeth cavity-free.
 
 ## Why Baby Teeth Matter
@@ -100,19 +99,14 @@ If a cavity does develop, modern tooth-colored composite fillings work great in 
 
 For low-risk children: annual dental visits are adequate. For children who've had cavities or show early decay signs: every 3-4 months is better, allowing your dentist to catch problems early and provide fluoride treatments.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about childhood cavities prevention and early treatment and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 
 Childhood cavities are highly preventable through parent-supervised brushing with fluoride toothpaste, limiting sugar frequency to mealtimes, eliminating bedtime bottles with anything but water, professional sealants on back teeth, and appropriate professional fluoride treatments. When cavities do develop, early detection and treatment prevent pain and complicated problems. Starting these habits in infancy establishes cavity-prevention practices that last into adulthood.
 
-> **Key Takeaway:** Childhood cavities are preventable through fluoride, sealants, diet changes, and parent-supervised brushing starting in infancy.
+> **Key Takeaway:** Childhood cavities affect about 23% of children ages 2-5 and up to half of school-age children in some communities.
 
 ## Related Articles
 

@@ -48,7 +48,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Risk and Concerns with Recovery Timeline
 ---
-
 ## Understanding Recovery Times After Dental Surgery
 
 Every person heals differently. After dental surgery, some people feel better in a week while others need more time. Understanding what affects how fast you heal helps you plan your recovery and know what's normal. If you know the factors that influence your healing, you won't worry unnecessarily if your recovery takes a bit longer.
@@ -88,14 +87,6 @@ During recovery, make sure you're eating adequate protein—not just soft foods,
 Your body does much of its healing work during sleep. If you're not sleeping well during recovery, your healing slows. For more on specific recovery complications, see our article on [post-extraction care](/articles/risk-and-concerns-with-recovery-after-extraction/).
 
 Try to get 7 to 9 hours nightly, and sleep with your head elevated if swelling is an issue. Stress hormones suppress immune function and delay healing. Try to keep stress low during recovery—avoid stressful situations if possible, and practice relaxation techniques like deep breathing.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about risk and concerns with recovery timeline variability in... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

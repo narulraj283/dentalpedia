@@ -32,7 +32,6 @@ references:
   - title: "Biastan M, Brandi GA. Local hemostatic agents in dentistry and maxillofacial surgery. Compend Contin Educ Dent. 2019;40(7):e1-e8."
     url: https://pubmed.ncbi.nlm.nih.gov/31456622
 ---
-
 ## Post-Operative Bleeding Control After Dental Surgery
 
 Bleeding is normal after tooth extraction or other dental surgery. Your body's natural clotting system stops most bleeding within minutes. But if bleeding continues heavily or returns hours after your procedure, you need to know how to manage it and when to contact your dentist. This guide explains what happens, how bleeding is controlled, and what to do if problems develop.
@@ -132,14 +131,6 @@ Contact your dentist if:
 - You develop fever (sign of infection, not just bleeding)
 
 These situations require professional evaluation and possible intervention.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about post-operative bleeding control and hemostasis management and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Conclusion
 

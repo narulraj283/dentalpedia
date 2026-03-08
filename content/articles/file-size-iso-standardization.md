@@ -20,7 +20,6 @@ references:
   - "Sattapan B, Nervo GJ, Palamara JEA, et al. Defects in rotary nickel-titanium files: stress concentration, fatigue and fracture. Endod Dent Traumatol. 2000;16(6):250-259."
   - "Strindberg LZ. The dependence of the results of pulp therapy on certain factors. An analytic study based on radiographic and clinical follow-up examination. Acta Odontol Scand. 1956;14(Suppl 21):1-175."
 ---
-
 ## Why Standard Sizes Matter
 
 Dentists all over the world use root canal files, and they all need to work basically the same way. To make sure everyone uses the same equipment and gets the same results, there's an international standard that defines file sizes. This standard is called ISO (International Organization for Standardization).
@@ -100,12 +99,6 @@ Motorized files get weaker each time they're used. After about 4 to 6 uses, they
 
 For severely calcified roots, your dentist might use files even smaller than the standard #6 size. These ultra-tiny files (called microfiles) are extremely flexible and can navigate spaces other files can't. They require extra care but are sometimes necessary for difficult cases.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about file size iso standardization and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed file size iso standardization, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -114,7 +107,7 @@ Once you've addressed file size iso standardization, maintaining your results re
 
 The ISO standardization system makes root canal treatment predictable and safe. Every file has a specific size, color, and job. Your dentist chooses which files to use based on your tooth's unique shape and size. Understanding this system helps you appreciate the precision and care that goes into root canal treatment.
 
-> **Key Takeaway:** Dentists all over the world use root canal files, and they all need to work basically the same way.
+> **Key Takeaway:** To make sure everyone uses the same equipment and gets the same results, there's an international standard that defines file sizes. This standard is called ISO (International Organization for Standardization).
 
 ## Related Articles
 

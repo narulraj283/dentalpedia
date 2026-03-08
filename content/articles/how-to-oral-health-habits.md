@@ -28,7 +28,6 @@ references:
   - title: "Motivation and Compliance in Oral Health Behavior Change"
     url: "https://www.ncbi.nlm.nih.gov/pubmed/28109129"
 ---
-
 Your oral health is a lifelong project, not something you fix and forget. The good news is that healthy teeth come from daily habits combined with smart choices about food and avoiding harmful substances. Research shows that people who stick with consistent oral care routines and professional cleanings have significantly fewer cavities and gum problems over their lifetime. Building these habits now pays dividends for decades to come.
 
 ## Master Your Toothbrushing Technique
@@ -37,7 +36,7 @@ Brushing twice daily is your foundation, but how you brush matters as much as ho
 
 Time is essential—brush for at least two minutes each time. Most people brush for less than a minute, which leaves plaque behind on all your tooth surfaces. If you struggle with time, set a two-minute timer or use an electric toothbrush with a built-in timer. Electric toothbrushes that oscillate (vibrate rapidly) remove about 11% more plaque than manual brushing and reduce gum inflammation by 6%, making them especially helpful if you have limited dexterity or just want extra cleaning power.
 
-Choose soft-bristled brushes that won't damage your gums, and replace your brush every three months or when bristles start to fray. Use fluoride toothpaste with the right concentration for your age—children need lower amounts than adults to prevent fluorosis (discoloration of developing teeth), while adults benefit from standard adult concentrations. Fluoride hardens your enamel and helps prevent decay, so this choice directly impacts cavity risk. Learn more about [Best Practices for Mouth Cleaning Tools](/article/best-practices-for-mouth-cleaning-tools.html).
+Choose soft-bristled brushes that won't damage your gums, and replace your brush every three months or when bristles start to fray. Use fluoride toothpaste with the right concentration for your age—children need lower amounts than adults to prevent fluorosis (discoloration of developing teeth), while adults benefit from standard adult concentrations. Fluoride hardens your enamel and helps prevent decay, so this choice directly impacts cavity risk.
 
 ## Don't Skip the Spaces Between Teeth
 
@@ -59,7 +58,7 @@ Acidic drinks—especially soda, energy drinks, and sports drinks—directly ero
 
 Saliva protects your teeth in multiple ways: it buffers acid, fights bacteria, and helps rebuild tooth surface that's been damaged. People with reduced saliva from medications, dry mouth conditions, or medical treatments have much higher cavity risk and need extra fluoride protection. If you take anticholinergic medications, antidepressants, or antihistamines, let your dentist know because these commonly cause dry mouth.
 
-If you have dry mouth symptoms, try sugar-free gum containing xylitol, which both stimulates your remaining saliva and fights cavity-causing bacteria. For severe dry mouth from radiation therapy, Sjögren's syndrome, or other conditions, your dentist might recommend prescription fluoride gels (stronger than regular toothpaste) or saliva substitutes. These options cost more but provide essential protection for people with compromised saliva. Drinking plenty of water and limiting caffeine helps preserve your saliva too. Learn more about [Saliva Importance](/article/how-to-saliva-importance.html).
+If you have dry mouth symptoms, try sugar-free gum containing xylitol, which both stimulates your remaining saliva and fights cavity-causing bacteria. For severe dry mouth from radiation therapy, Sjögren's syndrome, or other conditions, your dentist might recommend prescription fluoride gels (stronger than regular toothpaste) or saliva substitutes. These options cost more but provide essential protection for people with compromised saliva. Drinking plenty of water and limiting caffeine helps preserve your saliva too.
 
 ## Stop Using Tobacco
 
@@ -73,11 +72,15 @@ Motivation makes the difference between people who keep their teeth and people w
 
 Understanding your personal risk—whether you have a history of cavities, gum disease, or early signs your dentist sees—helps you stay motivated better than generic warnings about dental disease. Seeing your own plaque or bleeding points, and then watching them improve after you step up your routine, strengthens your commitment in ways that scare tactics never do. Work with your dentist to establish a professional checkup schedule that matches your risk level. Higher-risk people benefit from visits every 3-4 months, while lower-risk people may do well on twice-yearly visits.
 
+
+Related reading: [Evidenced-Based Tooth Brushing Technique and Oral](/article/best-practices-for-teeth-brushing-technique.html) and [Lifelong Oral Health](/article/dental-health-habits-for-lifelong-teeth.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about building optimal oral health habits for lifelong dental or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Strong oral health comes from consistent daily habits combined with smart dietary choices and professional monitoring. Proper brushing, daily interdental cleaning, limiting frequent sugar and acid exposure, and quitting tobacco protect your teeth far more effectively than any product or treatment.
+
+> **Key Takeaway:** Your oral health is a lifelong project, not something you fix and forget.
 
 ## Related Articles
 

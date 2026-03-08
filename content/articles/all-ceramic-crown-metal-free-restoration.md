@@ -20,18 +20,17 @@ references:
   - "Zhang Y, Kelly JR. Dental ceramics for restoration and metal veneering. Dent Clin North Am. 2017;61(4):797-819."
   - "Edelhoff D, Sorensen JA. Enameloplasty and characterization of enamel and dentin for adhesive restorations. J Esthet Restor Dent. 2002;14(3):159-172."
 ---
-
 ## From Metal-Based to All-Ceramic Crowns
 
 For decades, dentists placed crowns with a metal core covered by porcelain. This approach had real limitations. The metal showed as a dark line at the gumline, the metal base blocked light transmission making the crown look dull and artificial, metal could corrode (occasionally causing gum discoloration), and some people had allergic reactions.
 
-Modern all-ceramic crowns eliminate these problems entirely. They're made from tooth-colored ceramic from the inside out, allowing light to pass through just like natural teeth, and they're biocompatible (your body recognizes them as non-threatening). The jump from metal-ceramic crowns to all-ceramic crowns represents genuine progress in both esthetics and function. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+Modern all-ceramic crowns eliminate these problems entirely. They're made from tooth-colored ceramic from the inside out, allowing light to pass through just like natural teeth, and they're biocompatible (your body recognizes them as non-threatening). The jump from metal-ceramic crowns to all-ceramic crowns represents genuine progress in both esthetics and function.
 
 ## Types of All-Ceramic Crowns and How They Differ
 
 Zirconia crowns are the strongest all-ceramic option available. Zirconia is a crystalline material that's incredibly hard—about 900-1200 megapascals (that's science-speak for hardness). It's actually stronger than tooth dentin.
 
-Because of this exceptional strength, zirconia excels in the back of your mouth (molars and premolars) where chewing forces are highest. The downside is that zirconia is opaque (not transparent), so it looks less natural than other ceramics. Newer versions with improved translucency are better, but it's still not as tooth-like as other options. For more details, see our guide on [Bad Breath Elimination](/article/bad-breath-elimination-complete-guide.html).
+Because of this exceptional strength, zirconia excels in the back of your mouth (molars and premolars) where chewing forces are highest. The downside is that zirconia is opaque (not transparent), so it looks less natural than other ceramics. Newer versions with improved translucency are better, but it's still not as tooth-like as other options.
 
 Lithium disilicate crowns strike an excellent balance. They're reasonably strong (360-400 megapascals—strong enough for anterior teeth, usually fine even for premolars), and they're highly translucent so they look very natural. This makes them ideal for front teeth where esthetics are critical. They're more delicate than zirconia, but extensive clinical research shows they rarely fracture with normal use.
 
@@ -104,11 +103,15 @@ Avoid very hard foods (nuts, hard candy, ice)—not unique to ceramic crowns, bu
 
 Maintain excellent oral hygiene around the crown (regular brushing and flossing, just like natural teeth). Get professional cleanings every 6 months. All-ceramic crowns integrate seamlessly into your mouth and function like natural teeth. With proper care, expect 15-25+ years of service before replacement becomes necessary.
 
+
+Related reading: [Biological Dentistry: Biocompatible Materials](/article/biological-dentistry-biocompatible-materials.html) and [Common Misconceptions About Dental Procedure Planning](/article/common-misconceptions-about-dental-procedure-planning.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about all-ceramic crowns: metal-free restoration solutions or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** For decades, dentists placed crowns with a metal core covered by porcelain. Your dentist can help you understand what steps are right for your specific needs.
+
+> **Key Takeaway:** For decades, dentists placed crowns with a metal core covered by porcelain. This approach had real limitations.
 
 ## Related Articles
 

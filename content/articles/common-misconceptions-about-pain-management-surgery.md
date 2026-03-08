@@ -22,7 +22,6 @@ references:
   - "Roberts G, Scully C, Shotts R. Oral and dental aspects of HIV infection: part 1: more common lesions. Br Dent J. 2000;188(4):207-210."
   - "Rood JP, Nooraldeen AL. The radiological prediction of inferior alveolar nerve injury during third molar surgery. Br J Oral Maxillofac Surg. 1992;30(1):6-11."
 ---
-
 ## Staying Comfortable During Dental Surgery
 
 The thought of oral surgery can feel intimidating, especially the pain-related concerns. Learning more about [Timeline for Recovery Timeline](/article/timeline-for-recovery-timeline.html) can help you understand this better. The good news is that modern pain management and anesthesia make dental surgery much more comfortable than many people expect. Let's explore what actually happens to keep you comfortable during your procedure and address common misconceptions about pain control.
@@ -93,7 +92,7 @@ Very occasionally, patients experience a vasovagal response (fainting response) 
 
 Modern anesthesia and pain management make dental surgery comfortable. Local anesthesia numbs the area completely, preventing pain during your procedure. Post-operative discomfort is expected but manageable with appropriate pain medication. You'll feel sensations during surgery, but these aren't painful.
 
-> **Key Takeaway:** Learn how your dentist keeps you comfortable during oral surgery and what to expect regarding anesthesia and pain control.
+> **Key Takeaway:** The thought of oral surgery can feel intimidating, especially the pain-related concerns.
 
 ## Related Articles
 

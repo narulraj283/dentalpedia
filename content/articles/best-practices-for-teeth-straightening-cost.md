@@ -20,7 +20,6 @@ references:
   - "Huang H, You Y, Ye Q, Zheng X. Clinical efficacy and cost-effectiveness of different orthodontic treatments. Prog Orthod. 2020;21(1):33."
   - "Alves M, Baratieri C, Nojima MCG, de Souza JP, Nojima LI. Cost-effectiveness analysis of different orthodontic treatments. Am J Orthod Dentofacial Orthop. 2016;150(4):566-576."
 ---
-
 ## What Braces Cost and How to Afford Them
 
 If you've thought about getting braces but worried about cost, you're not alone. It's a significant investment. Understanding what different systems cost and what financing options exist can help you make an informed decision and find a path to treatment that fits your budget.

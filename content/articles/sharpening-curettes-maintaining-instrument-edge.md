@@ -45,7 +45,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Sharpening Curettes Maintaining Instrument Edge
 ---
-
 ## What Are Curettes and Why Sharpness Matters
 
 When your dental hygienist works on your teeth during cleaning, they use special tools called curettes. These instruments help remove plaque and buildup from below your gum line—areas you can't reach with your toothbrush. A sharp curette makes the job easier and more comfortable for you.
@@ -85,14 +84,6 @@ Beyond sharpening, your dental team protects curettes to prevent unnecessary wea
 Sharp curettes make a real difference in your dental experience. Your hygienist can remove stubborn plaque and calculus more effectively with minimal pressure—meaning less discomfort for you during your appointment. Sharp instruments cause less trauma to your tooth surfaces and gum tissues, promoting better healing and healthier gums.
 
 The reduced pressure required also means your hygienist doesn't experience the muscle fatigue that comes with using dull tools for hours each day. Everyone wins when instruments are sharp. Learn more about your gum health by reading about [Scaling and Root Planing](/article/scaling-and-root-planing-non-surgical-gum-treatment.html) and the importance of [Proper Gum Disease Prevention](/article/gum-disease-prevention-complete-guide.html).
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about sharpening curettes: maintaining instrument edge and... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

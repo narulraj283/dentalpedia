@@ -28,7 +28,6 @@ references:
   - title: "Prosthetic treatment timeline: crown fabrication and adjustment phases"
     url: https://www.ncbi.nlm.nih.gov/pubmed/22264903
 ---
-
 One of the most common questions patients ask about implants is "How long will this take?" The honest answer is that it depends on your situation, but understanding the stages helps you plan realistically. From the day you decide to get an implant through getting your final tooth, the journey typically takes 6-18 months. Let's walk through what happens at each stage.
 
 ## Before Surgery: Planning and Preparation (2-4 weeks)

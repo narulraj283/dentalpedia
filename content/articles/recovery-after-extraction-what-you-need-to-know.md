@@ -32,7 +32,6 @@ references:
   - title: "Sweet JB, Butler DP. The relationship of smoking to delayed healing of extraction sockets in non-diabetic and diabetic patients. Journal of Oral and Maxillofacial Surgery. 1979;37(5):320-322."
     url: https://pubmed.ncbi.nlm.nih.gov/287189
 ---
-
 ## Your First Day After Extraction
 
 Your first few hours after extraction are critical. The anesthetic will wear off, and you'll start feeling sensations in your mouth again. Bite gently on the gauze for 30-45 minutes to apply pressure that helps stop bleeding. Change the gauze if it becomes saturated. Some oozing is normal, but if bleeding continues heavily after 45 minutes, contact your dentist.

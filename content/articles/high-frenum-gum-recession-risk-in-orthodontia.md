@@ -34,7 +34,6 @@ subcategory: Pediatric Overview
 subcategory_slug: overview-pediatric
 title: 'High Frenum: Gum Recession Risk'
 ---
-
 Between your upper front teeth, there's a small piece of tissue called the frenum that connects your lip to your gum. In some people, this frenum is positioned higher or is thicker than normal. If you're getting braces, your orthodontist might talk about whether your frenum could cause problems as your front teeth move forward. This is important because a high frenum can sometimes contribute to gum recession—where your gum line moves down and exposes more of your tooth root.
 
 ## Understanding Your Frenum and Your Gums
@@ -87,6 +86,9 @@ Long-term periodontal health remains generally excellent following appropriately
 ## Summary
 
 High frenum attachment in pediatric and adolescent orthodontic patients represents an important anatomical consideration requiring pretreatment assessment and frequently prophylactic surgical intervention. The combination of high frenum attachment, thin gingival biotype, and reduced alveolar bone thickness creates substantial gingival recession risk during anterior orthodontic tooth movement. Early identification through clinical and radiographic evaluation enables implementation of preventive strategies including force reduction, frenectomy, and surgical tissue augmentation. Careful monitoring throughout treatment with force adjustment based on clinical gingival response reduces iatrogenic recession and promotes long-term periodontal stability. Collaborative management involving pediatric dentist, orthodontist, and periodontist when appropriate ensures optimal outcomes balancing orthodontic correction with periodontal health preservation.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

@@ -32,7 +32,6 @@ references:
   - title: "Trombelli L, Farina R, Silva CO, Tatakis DN. Plaque-induced gingivitis: case definition and diagnostic considerations. J Clin Periodontol. 2018;45(Suppl 20):S44-S67."
     url: https://pubmed.ncbi.nlm.nih.gov/29926479
 ---
-
 ## Introduction
 
 Plaque—that sticky, colorless film on your teeth—is home to millions of bacteria that produce acid and toxins. This buildup causes cavities and gum disease, making plaque removal your most important daily defense against dental problems. The good news is that you have many effective tools and techniques to remove plaque, from simple brushing to advanced dental care. Understanding how plaque forms and what removes it helps you maintain a truly clean mouth.

@@ -32,7 +32,6 @@ references:
   - title: "Medicolegal Considerations in Trigeminal Nerve Injury Cases: Documentation and Prevention"
     url: https://www.ncbi.nlm.nih.gov/pubmed/24567521
 ---
-
 ## What Is the Lingual Nerve?
 
 The lingual nerve provides sensation to the front two-thirds of your tongue, the floor of your mouth beneath your tongue, and the inside of your lower jaw. It's a sensory nerve only—meaning it carries feeling, not movement. This nerve runs close to your wisdom teeth, which is why it's at risk during wisdom teeth removal.
@@ -122,12 +121,6 @@ If numbness persists beyond 12 months, most patients report good adaptation. You
 
 The lingual nerve carries taste sensation from the front two-thirds of your tongue (via chorda tympani, a branch of a different nerve). If you experience taste changes along with numbness, these usually recover together over 6-12 months.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about lingual nerve tongue numbness from injury and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed lingual nerve tongue numbness from injury, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -138,7 +131,7 @@ Once you've addressed lingual nerve tongue numbness from injury, maintaining you
 
 Lingual nerve injury is an uncommon but recognized complication of oral surgery. Most injuries are temporary, with 85-95% of patients experiencing complete or near-complete recovery within 12 months. During recovery, protect your tongue from accidental injury and be patient with the healing process. If numbness persists beyond 12 months or causes significant symptoms, discuss options with your surgeon, including possible specialist referral. Understanding that recovery takes time and that most cases resolve spontaneously helps you maintain perspective and cope with this temporary complication.
 
-> **Key Takeaway:** If your tongue feels numb after dental surgery, you may have a lingual nerve injury. Learn why it happens, what to expect, and how recovery works.
+> **Key Takeaway:** The lingual nerve provides sensation to the front two-thirds of your tongue, the floor of your mouth beneath your tongue, and the inside of your lower jaw.
 
 ## Related Articles
 

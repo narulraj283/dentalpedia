@@ -32,7 +32,6 @@ references:
   - title: "Combination retention protocols: fixed and removable appliances for optimal stability"
     url: "https://pubmed.ncbi.nlm.nih.gov/23658518/"
 ---
-
 Congratulations—you finished orthodontic treatment and your teeth look amazing. Now comes the part nobody wants to hear: you still need to wear a retainer for years, possibly for life. It's the most important step after braces, but it's also the one patients are most likely to skip. Understanding why your teeth want to shift back and choosing the right retainer strategy is what separates a lasting straight smile from one that slowly drifts backward.
 
 ## Why Teeth Naturally Shift Back After Braces

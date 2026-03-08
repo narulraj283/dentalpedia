@@ -28,7 +28,6 @@ references:
   - title: "Post-Extraction Socket Healing and Complications Management"
     url: "https://pubmed.ncbi.nlm.nih.gov/28905933/"
 ---
-
 Following your post-operative instructions after dental surgery makes the difference between smooth healing and serious complications. Studies show that patients who carefully follow post-operative instructions have 30 to 50% fewer complications than those who ignore the directions. Your dentist gives you specific instructions because each one prevents a particular problem and helps your mouth heal properly.
 
 The first week after surgery is especially critical. Learn more about [Atrophic Ridge Reconstruction Severe](/article/atrophic-ridge-reconstruction-severe-bone-loss-repair.html) for additional guidance. What you do—and don't do—during this time sets the stage for your entire recovery. This includes how you manage bleeding, reduce swelling, keep your surgical site clean, handle pain, and know when to contact your dentist if something goes wrong. The good news is that following instructions is straightforward once you understand why each one matters.

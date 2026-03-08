@@ -20,7 +20,6 @@ references:
   - "Owman-Moll P, Kurol J, Lundgren D. (2023). The effects of a four-fold increased force magnitude on tooth movement during palatal expansion. European Journal of Orthodontics. 18(1):23-30."
   - "Vig KW. (2023). The diagnosis of orthodontic problems. In: Baumrind S, Korn EL. (Eds). Dissipative structures and the unfolding of biological form. American Journal of Physical Anthropology. 16(1):12-45."
 ---
-
 ## Braces Do Way More Than Make Your Smile Pretty
 
 A lot of people think braces are just about looks. But if you ask your orthodontist, they'll tell you there's so much more going on. Braces actually help your mouth work better. About 35-40% of people have bite problems, and fixing them improves your life in ways that aren't visible in the mirror.
@@ -87,7 +86,7 @@ The psychological benefits matter too. When you feel good about your smile and d
 
 Braces are about much more than cosmetics. They improve how your teeth work together, reduce your risk of gum disease, improve your breathing, and can even reduce jaw pain. Whether you're 12 or 45, braces can give you a healthier mouth and better function for life.
 
-> **Key Takeaway:** Braces do much more than straighten your teeth—they improve how you chew, speak, and breathe, reducing your risk of gum disease and jaw problems.
+> **Key Takeaway:** A lot of people think braces are just about looks.
 
 ## Related Articles
 

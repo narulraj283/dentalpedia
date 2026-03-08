@@ -22,14 +22,13 @@ references:
   - "Meunier FJ, Bartolds PM. Mineral Composition of Subgingival Calculus. Journal of Dental Research. 1991;70(4):809-814."
   - "Ciancio SG. Antimicrobial Approaches to Oral Disease Control. Journal of the American Dental Association. 2001;132(3):8-15."
 ---
-
 ## Tartar: Understanding the Problem
 
 Tartar (calculus) is plaque that's hardened with minerals. Plaque (the sticky bacterial film) is normal—it forms on everyone's teeth. But when plaque sits on teeth long enough, minerals from saliva cause it to harden into tartar.
 
-Once tartar forms, you can't brush it off—only a dentist can remove it. Tartar has a rough surface that traps even more plaque. Worse, tartar below the gum line causes gum disease and tooth loss. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+Once tartar forms, you can't brush it off—only a dentist can remove it. Tartar has a rough surface that traps even more plaque. Worse, tartar below the gum line causes gum disease and tooth loss.
 
-The good news: you can prevent tartar from forming in the first place by removing plaque before it mineralizes. This is much easier than trying to remove tartar later. Understanding how tartar forms and what stops it helps you take control. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+The good news: you can prevent tartar from forming in the first place by removing plaque before it mineralizes. This is much easier than trying to remove tartar later. Understanding how tartar forms and what stops it helps you take control.
 
 ## The Timeline: From Plaque to Tartar
 
@@ -130,11 +129,12 @@ Plaque hardens into tartar within 24-72 hours—that's your prevention window. R
 
 Hidden tartar (below the gum line) causes gum disease. Tartar-control toothpastes with pyrophosphates and zinc citrate reduce visible tartar 20-60%. Professional cleaning removes tartar and prevents gum disease, with frequency based on how fast you form tartar (every 2-3 months for fast formers, 6-12 months for normal). The foundation is good home care (twice-daily brushing and daily flossing), tartar-control toothpaste, and smoking cessation, with professional cleaning as an important backup.
 
+
+Related reading: [Why Choosing the Right Mouthwash Matters for Oral](/article/why-mouthwash-selection-matters.html) and [Enamel Erosion: Management, Remineralization](/article/timeline-for-enamel-erosion-repair.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
-
-> **Key Takeaway:** Tartar (calculus) is plaque that's hardened with minerals. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** Remove plaque with brushing and flossing within 24 hours and you prevent most tartar.
 
 ## Related Articles
 

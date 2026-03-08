@@ -22,14 +22,13 @@ references:
   - "Page RC, et al. The pathogenesis of human periodontitis: an introduction. Periodontology 2000. 1997;14(1):9-11."
   - "Seymour GJ, et al. Disease mechanisms of periodontitis. Journal of Periodontology. 2016;87(7):791-801."
 ---
-
 ## The New Classification System
 
-Dentists recently updated how they classify gum disease. Instead of calling it "aggressive versus chronic," they now use a "grading" system based on how fast the disease progresses. This is a better way to predict how serious your disease is and how aggressively to treat it. For more details, see our guide on [Aggressive Periodontitis](/article/aggressive-periodontitis-early-onset-gum-disease.html).
+Dentists recently updated how they classify gum disease. Instead of calling it "aggressive versus chronic," they now use a "grading" system based on how fast the disease progresses. This is a better way to predict how serious your disease is and how aggressively to treat it.
 
 The new system has three grades:
 
-**Grade A (Slow Progression)**: Bone loss of less than 0.5mm per year. Most of your teeth show minimal bleeding when probed, and overall gum disease progresses slowly over years or decades. This is the mildest form and requires standard treatment (cleaning, good home care, regular checkups). For more details, see our guide on [Alcohol and Periodontitis](/article/alcohol-and-periodontitis-increased-risk.html).
+**Grade A (Slow Progression)**: Bone loss of less than 0.5mm per year. Most of your teeth show minimal bleeding when probed, and overall gum disease progresses slowly over years or decades. This is the mildest form and requires standard treatment (cleaning, good home care, regular checkups).
 
 **Grade B (Moderate Progression)**: Bone loss of 0.5-2mm per year. This is intermediate between slow and rapid. Some bleeding occurs, and disease progresses noticeably over years. Treatment includes scaling, possibly medication, and more frequent monitoring.
 
@@ -120,11 +119,15 @@ Oral hygiene absolutely matters. While you can't brush away a genetic tendency t
 
 The key insight: Your grade reflects your current disease trajectory, but multiple factors contribute to that trajectory. Modifying the ones you can control might shift your grade over time or at minimum slow progression within your grade.
 
+
+Related reading: [Periodontal Pack Post Treatment Dressing](/article/periodontal-pack-post-treatment-dressing.html) and [Periodontal Disease Staging and Grading Framework](/article/timeline-for-gum-disease-stages.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about aggressive vs chronic: disease progression rate or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Dentists recently updated how they classify gum disease. Your dentist can help you understand what steps are right for your specific needs.
+
+> **Key Takeaway:** Understand 2018 classification grading system—Grade A slow, Grade B moderate, Grade C rapid progression with bone loss calculations and treatment.
 
 ## Related Articles
 

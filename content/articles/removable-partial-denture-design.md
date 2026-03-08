@@ -21,7 +21,6 @@ subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
 title: How Your Partial Denture Is Designed to Fit Your Mouth
 ---
-
 ## How Dentists Categorize Your Missing Teeth
 
 Before your dentist even starts designing your denture, they classify your tooth loss using a system developed almost 100 years ago that's still the standard today. This system, called Kennedy Classification, helps dentists decide what kind of denture design will work best for you. Your missing teeth might be in the back of your mouth on one or both sides, in the front, or scattered throughout. Each situation needs a different approach.

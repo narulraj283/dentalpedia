@@ -32,7 +32,6 @@ references:
   - title: "Chiche GJ, Pinault A. Esthetic Dentistry: Biological and Clinical Considerations. St. Louis: Mosby; 1994."
     url: https://pubmed.ncbi.nlm.nih.gov/7715260
 ---
-
 ## Understanding Smile Design Principles
 
 Creating an attractive smile is both art and science. Your dentist uses proven design principles to guide treatment decisions. The goal isn't perfect symmetry—real smiles have character and subtle differences that make them look natural. Instead, your dentist applies evidence-based principles about tooth proportions, gum positioning, and how your teeth relate to your lips and face to create a smile that's harmonious and beautiful.

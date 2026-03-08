@@ -1,28 +1,40 @@
 ---
-title: "Traditional vs. Invisible Braces: Clinical Efficacy,"
-slug: best-practices-for-traditional-vs-invisible-braces
 category: Orthodontics
 category_slug: orthodontics
-excerpt: "Traditional braces use stainless steel or ceramic brackets glued directly to your teeth with wires running through them."
 date: 2026-03-05
+excerpt: Traditional braces use stainless steel or ceramic brackets glued directly
+  to your teeth with wires running through them.
 read_time: 10 min
+references:
+- Proffit WR, Fields HW, Sarver DM. Contemporary Orthodontics. 6th ed. Elsevier; 2018.
+- 'Buschang PH, Carrillo R. The timing of orthodontic treatment: early and interceptive
+  treatment. Dent Clin North Am. 2016;60(2):445-466.'
+- 'Thiruvenkatachari B, Pavithranand A, Rajlakshmi R, et al. Comparison of rapid and
+  slow maxillary expansion with psychological acceptance and dental outcomes: a randomized
+  controlled trial. Am J Orthod Dentofacial Orthop. 2006;129(4):470-479.'
+- Kravitz ND, Kusnoto B, Agran B, et al. Influence of aligners on the periodontal
+  health of approximal sites. Angle Orthod. 2009;79(3):430-436.
+- 'Boyd RL. Esthetic orthodontics: contemporary issues in periodontal and implant
+  dentistry. Periodontol 2000. 2000;27(1):94-104.'
+- Bowman SJ. The effect of translucency on the degree of composite resin polymerization.
+  J Dent Res. 1988;67(12):1549-1552.
+- Djeu G, Shelton C, Maganzini A. Outcome assessment of Invisalign and traditional
+  fixed appliances using the Peer Assessment Rating index. Am J Orthod Dentofacial
+  Orthop. 2005;128(3):292-298.
+- Schuster S, Eliades G, Zinelis S, et al. Structural conformation and leaching behavior
+  of in vitro aged and retrieved invisible orthodontic aligners. Am J Orthod Dentofacial
+  Orthop. 2004;127(4):42-49.
+- Gravina MA, Brunharo IH, Canavarro C, et al. Efficacy of patient compliance indices
+  in predicting treatment success with fixed appliances. Angle Orthod. 2013;83(2):206-211.
+- Jones ML, Richmond S. An assessment of facial convexity and its relationship to
+  vertical skeletal and dental measures. Am J Orthod. 1985;88(5):410-418.
+reviewed: true
 reviewer_specialty: Orthodontics
+slug: best-practices-for-traditional-vs-invisible-braces
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
-reviewed: true
-references:
-  - "Proffit WR, Fields HW, Sarver DM. Contemporary Orthodontics. 6th ed. Elsevier; 2018."
-  - "Buschang PH, Carrillo R. The timing of orthodontic treatment: early and interceptive treatment. Dent Clin North Am. 2016;60(2):445-466."
-  - "Thiruvenkatachari B, Pavithranand A, Rajlakshmi R, et al. Comparison of rapid and slow maxillary expansion with psychological acceptance and dental outcomes: a randomized controlled trial. Am J Orthod Dentofacial Orthop. 2006;129(4):470-479."
-  - "Kravitz ND, Kusnoto B, Agran B, et al. Influence of aligners on the periodontal health of approximal sites. Angle Orthod. 2009;79(3):430-436."
-  - "Boyd RL. Esthetic orthodontics: contemporary issues in periodontal and implant dentistry. Periodontol 2000. 2000;27(1):94-104."
-  - "Bowman SJ. The effect of translucency on the degree of composite resin polymerization. J Dent Res. 1988;67(12):1549-1552."
-  - "Djeu G, Shelton C, Maganzini A. Outcome assessment of Invisalign and traditional fixed appliances using the Peer Assessment Rating index. Am J Orthod Dentofacial Orthop. 2005;128(3):292-298."
-  - "Schuster S, Eliades G, Zinelis S, et al. Structural conformation and leaching behavior of in vitro aged and retrieved invisible orthodontic aligners. Am J Orthod Dentofacial Orthop. 2004;127(4):42-49."
-  - "Gravina MA, Brunharo IH, Canavarro C, et al. Efficacy of patient compliance indices in predicting treatment success with fixed appliances. Angle Orthod. 2013;83(2):206-211."
-  - "Jones ML, Richmond S. An assessment of facial convexity and its relationship to vertical skeletal and dental measures. Am J Orthod. 1985;88(5):410-418."
+title: 'Traditional vs. Invisible Braces: Clinical Efficacy'
 ---
-
 ## How Traditional Braces Work
 
 Traditional braces use stainless steel or ceramic brackets glued directly to your teeth with wires running through them. The wires apply gentle, carefully controlled pressure to move your teeth millimeter by millimeter into better positions. The real advantage of braces is that your orthodontist can move each tooth in three dimensions—left, right, forward, backward, and rotated—with extremely precise control.

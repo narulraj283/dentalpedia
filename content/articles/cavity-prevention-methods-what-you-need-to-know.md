@@ -20,7 +20,6 @@ references:
   - "Ekstrand KR, Ricketts DN, Kidd EA. Reproducibility and accuracy of three methods for assessment of demineralized and remineralized caries lesions in vitro. Caries Res. 1997;31(3):224-231."
   - "Duckworth R. The teeth and systemic disease. Dent Update. 2003;30(1):6-13."
 ---
-
 ## Three Pillars of Cavity Prevention
 
 Cavity prevention succeeds through three approaches working together: applying fluoride to strengthen teeth and enhance repair, modifying diet to reduce acid attacks, and removing plaque to prevent cavity-causing bacteria from thriving.
@@ -121,15 +120,11 @@ Prevention succeeds when it becomes automatic rather than something you have to 
 
 The most successful prevention happens when people stop thinking of it as an obligation and view it as normal self-care like washing hands or showering.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about cavity prevention methods what you need to know and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
 ## Conclusion
 
 Cavity prevention combining fluoride toothpaste, dietary modification, and daily plaque removal reduces cavity risk 70-85%. Customizing prevention intensity to individual risk ensures appropriate resource allocation. Building prevention into automatic habits increases long-term compliance. Professional consultation enables evidence-based prevention matching your specific needs. Consistent daily habits combined with professional support enable cavity-free health for most people.
 
-> **Key Takeaway:** Proven cavity prevention strategies combining fluoride, diet modification, and daily care reduce cavity risk 70-85%.
+> **Key Takeaway:** Cavity prevention succeeds through three approaches working together: applying fluoride to strengthen teeth and enhance repair, modifying diet to reduce acid attacks, and removing plaque to prevent cavity-causing bacteria from thriving.
 
 ## Related Articles
 

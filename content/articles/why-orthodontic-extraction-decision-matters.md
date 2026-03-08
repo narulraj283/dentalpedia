@@ -28,7 +28,6 @@ references:
   - title: "Patient Satisfaction and Esthetic Outcomes: Extraction versus Non-Extraction Decisions"
     url: "https://pubmed.ncbi.nlm.nih.gov/26505920/"
 ---
-
 When you're facing orthodontic treatment, one of the most important decisions your orthodontist will make is whether to extract any teeth to create space for straightening. This isn't a simple yes or no question—it requires careful evaluation of your specific situation. Understanding how your orthodontist makes this decision helps you feel confident about your treatment plan and what to expect during your journey to a straighter smile.
 
 The choice between extracting teeth and using other spacing techniques fundamentally shapes your entire treatment experience. Learn more about [Timeline for Braces Benefits](/article/timeline-for-braces-benefits.html) for additional guidance. It affects how long you'll wear braces, what your final smile will look like, how stable your results will be over time, and your overall dental health. Your orthodontist weighs multiple factors—the severity of your crowding, your facial shape and profile, your age, and the health of your gums and bone—to determine the best approach for you.

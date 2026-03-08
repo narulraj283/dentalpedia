@@ -28,7 +28,6 @@ references:
   - title: "Retention outcomes following active movement: relapse prevention strategies"
     url: https://www.ncbi.nlm.nih.gov/pubmed/22264903
 ---
-
 When you get braces, one of the movements your orthodontist needs to achieve is moving teeth forward and backward. This isn't about tilting—it's about actually moving the entire tooth, including its root, forward or back in your jawbone. Getting your front teeth at the right forward-and-back position is crucial for both how you look and how your bite works. Understanding how your orthodontist accomplishes this helps you appreciate the engineering that goes into straightening teeth. Learning more about [Braces Benefits: What You Should Know](/article/best-practices-for-braces-benefits.html) can help you understand this better.
 
 ## Why Forward-and-Back Positioning Matters

@@ -32,7 +32,6 @@ references:
   - title: "Surgical technique modifications to minimize nerve injury risk"
     url: https://www.ncbi.nlm.nih.gov/pubmed/29360262
 ---
-
 If you're having jaw surgery, you may have heard about nerve injury risk. The main nerve supplying sensation to your lower jaw is the inferior alveolar nerve (IAN). While serious nerve injuries are uncommon, understanding the risks helps you make informed decisions and recognize problems if they occur. This guide explains what you need to know about nerve injury, how surgeons minimize risk, and what happens if injury does occur. Learning more about [Risk and Concerns with Pain Management Surgery](/article/risk-and-concerns-with-pain-management-surgery.html) can help you understand this better.
 
 ## Where Is This Nerve and What Does It Do
@@ -95,9 +94,7 @@ Your surgeon should thoroughly discuss nerve injury risk—both temporary and pe
 
 ## Neurosensory Disturbance Classification
 
-Traumatic nerve injuries produce variable neurosensory manifestations classified according to clinical and electrophysiological characteristics. Paresthesia—abnormal sensation including tingling, "pins and needles," or burning—indicates preserved nerve fiber conduction despite functional impairment. Paresthesia typically resolves within weeks to months as nerve function recovers. Dysesthesia—painful abnormal sensation or pain elicited by normally non-painful stimuli—indicates greater injury severity with potential for persistent symptoms.
-
-Complete sensory loss (anesthesia) indicates significant axonal damage with minimal regenerative capacity. Complete anesthesia affects function of lower lip, chin, and buccal tissues, substantially impacting patients' daily activities including eating, speech, and social confidence. Psychologically, complete anesthesia creates more significant disability compared to transient paresthesia.
+Nerve injuries show different symptoms. Paresthesia (tingling, pins and needles) means the nerve is healing. It usually goes away within weeks or months. Dysesthesia (painful unusual sensation) means more nerve damage. Pain from normally non-painful things (like touching your lip) is harder to treat. Complete numbness (anesthesia) means serious nerve damage. The area completely loses feeling. Numbness affects eating, drinking, and confidence. Complete numbness is rare but more serious than tingling.
 
 Neuropathic pain following nerve injury affects approximately 20-30% of patients with traumatic nerve injuries. Neuropathic pain may manifest as burning sensation, allodynia (pain from normally innocuous stimuli), or spontaneous pain. Neuropathic pain often proves more difficult to manage than sensory loss and may persist despite peripheral nerve regeneration. Comprehensive pain management strategies including medication trials and psychological support prove essential.
 
@@ -174,8 +171,6 @@ Inferior alveolar nerve injury represents a significant complication of mandibul
 Comprehensive neurosensory assessment establishes injury baseline and guides management. While many injuries resolve spontaneously within 3-6 months, persistent sensory disturbance affects substantial patient populations. Microsurgical repair merits consideration for complete nerve transection with persistent deficits. Thorough informed consent enables appropriate patient understanding of risk and potential consequences.
 
 ## Conclusion
-
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
 
 > **Key Takeaway:** Nerve injury during jaw surgery is uncommon but possible. Modern surgical techniques and imaging substantially reduce risk. Most nerve injuries resolve spontaneously within 6-12 months, though some result in persistent mild symptoms. Understanding your personal risk and recovery expectations helps you make informed decisions and manage recovery realistically.
 

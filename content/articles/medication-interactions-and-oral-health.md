@@ -30,7 +30,6 @@ references:
   - title: "Corticosteroid Use and Oral Candidiasis in Long-Term Therapy"
     url: https://www.ncbi.nlm.nih.gov/pubmed/20086395
 ---
-
 Many medications needed for your overall health can create unexpected side effects in your mouth. Dry mouth, gum swelling, increased cavity risk, and oral infections are among the problems medications can cause. If you take any regular medications, your dentist needs to know about them. Understanding these medication effects helps you prepare for dental treatment and adjust your home care to maintain oral health despite the side effects.
 
 ## Dry Mouth: The Most Common Medication Side Effect
@@ -75,12 +74,6 @@ Comprehensive medication history is essential preventive dentistry. Tell your de
 
 Your dentist flags significant interactions and consults with your physician when appropriate. This professional communication improves your overall care and ensures your physicians understand dental implications of your medical treatment.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about medication interactions and oral health and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 Medications affect your oral health through multiple mechanisms: some cause dry mouth and increased cavity risk, others cause gum swelling, some increase bleeding risk, and some increase infection susceptibility. Knowing your medication list and understanding these effects allows you to work with your dentist and physician to minimize complications. More frequent professional care, modified home care techniques, and possible medication adjustments can mitigate medication side effects and maintain your oral health despite necessary medical treatment.
@@ -91,6 +84,6 @@ Medications affect your oral health through multiple mechanisms: some cause dry 
 
 - [Tooth Structure: Why the Layers Matter](/article/why-tooth-structure-layers-matters.html)
 
-- [Tooth Structure and Composition: Understanding Enamel,](/article/benefits-of-tooth-structure-layers.html)
+- [Tooth Structure and Composition: Understanding Enamel](/article/benefits-of-tooth-structure-layers.html)
 - [Risk and Concerns with Filling Material Selection](/article/risk-and-concerns-with-filling-material-selection.html)
 

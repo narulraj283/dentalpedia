@@ -30,7 +30,6 @@ references:
   - title: "Krishnan V, Davidovitch Z. Cellular, Molecular, and Tissue-Level Reactions to Orthodontic Force. American Journal of Orthodontics and Dentofacial Orthopedics. 2006;129(4):469.e1-469.e32."
     url: https://pubmed.ncbi.nlm.nih.gov/16627175
 ---
-
 ## Introduction
 
 Your teeth don't seem like they should move—they feel solid and permanent. Yet with gentle, sustained pressure from braces, your teeth gradually move through bone to new positions. This seems almost magical, but it's actually a well-orchestrated biological process involving your body's bone-remodeling system. Understanding how this process works helps explain why braces take time, why you feel discomfort after adjustments, and why proper force is so important. Your body is doing the real work of moving your teeth; the braces just guide the process.

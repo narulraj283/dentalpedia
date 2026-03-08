@@ -29,7 +29,6 @@ subcategory: Endodontic Overview
 subcategory_slug: overview-endo
 title: 'Endodontic Surgery: Apicoectomy and Periapical'
 ---
-
 When a tooth's root canal treatment doesn't completely resolve an infection, surgery might be necessary to save the tooth. Learning more about [Root Canal Therapy Complete Pulp Removal](/article/root-canal-therapy-complete-pulp-removal.html) can help you understand this better. Endodontic surgery (apicoectomy) removes the infected root tip and seals it permanently. Understanding this procedure helps you make informed decisions about keeping an infected tooth.
 
 ## When Surgery Becomes Necessary
@@ -148,13 +147,13 @@ Endodontic surgery saves teeth that standard root canal treatment can't resolve.
 
 If you've had root canal treatment failure or persistent symptoms, discuss whether surgical options might save your tooth. The alternative—extraction and replacement—costs more and requires more extensive treatment. Talk to your endodontist about which options are right for your specific situation.
 
-> **Key Takeaway:** Surgical management of persistent periapical pathology when conventional root canal therapy fails.
+> **Key Takeaway:** When a tooth's root canal treatment doesn't completely resolve an infection, surgery might be necessary to save the tooth.
 
 ## Related Articles
 
 - [Perforated Pulp Chamber: Root Canal Emergency](/article/perforated-pulp-chamber-root-canal-emergency.html)
 - [Apical Periodontitis: Understanding Bone Loss and](/article/apical-periodontitis-bone-loss-around-root-tip.html)
-- [Stainless Steel Endodontic Files: Metallurgy,](/article/stainless-steel-files-traditional-material.html)
+- [Stainless Steel Endodontic Files: Metallurgy](/article/stainless-steel-files-traditional-material.html)
 - [Irreversible Pulpitis - Tooth Requires Root Canal](/article/irreversible-pulpitis-tooth-requires-root-canal.html)
 - [Root Canal Length: Why Dentists Measure Twice Before](/article/working-length-determination-apex-location.html)
 

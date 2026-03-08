@@ -28,7 +28,6 @@ references:
   - title: "GBR Outcomes in Atrophic Ridges"
     url: "https://pubmed.ncbi.nlm.nih.gov/21284580/"
 ---
-
 ## Why Your Body Doesn't Naturally Regrow Bone
 
 When you lose a tooth, your body faces an unexpected problem. Without the root stimulating your jawbone, that bone simply dissolves. Your body's healing system doesn't know it should replace that bone. Instead, it does what it's designed to do in most situations—it fills the gap with whatever grows fastest and easiest.

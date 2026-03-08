@@ -19,7 +19,6 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: 'Implant Crowns - Screw vs Cement: Which Is Right for You?'
 ---
-
 ## Understanding Your Implant Crown Options
 
 If you're getting a dental implant to replace a missing tooth, your dentist must decide how to attach the crown to the implant. You have two main choices: screw-retained (held with a tiny screw) or cement-retained (glued on like natural teeth). Each method has benefits and drawbacks depending on where your implant is and your specific needs.
@@ -61,14 +60,6 @@ Your bone health and gum condition matter too. Thin gums or gum disease history 
 ## Making Your Choice
 
 Talk with your dentist about which they recommend for your specific situation and why. Ask about their experience preventing complications. Understanding the reasoning helps you feel confident about the choice.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about implant crowns - screw vs cement: which is right for you? and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

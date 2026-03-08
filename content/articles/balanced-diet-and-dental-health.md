@@ -21,12 +21,11 @@ references:
   - "Ismail AI, et al. Sugar consumption and dental caries: a systematic review of evidence. J Am Dent Res. 2017;148(10):S38-S50."
   - "Corbyn M. The tooth of the matter: Why diet affects oral health. Nat Med. 2016;22(7):706-708."
 ---
-
 ## Building Your Teeth with Nutrients
 
-Your teeth are made of minerals, primarily calcium and phosphorus. If you don't get enough of these minerals, your teeth don't form properly and are weaker. But this isn't just about baby teeth—your mouth depends on these minerals throughout life for strength and repair. For more details, see our guide on [Acidic Foods](/article/acidic-foods-erosion-from-citrus-and-soda.html).
+Your teeth are made of minerals, primarily calcium and phosphorus. If you don't get enough of these minerals, your teeth don't form properly and are weaker. But this isn't just about baby teeth—your mouth depends on these minerals throughout life for strength and repair.
 
-**Calcium** makes up 36% of tooth enamel. Adults need 1000-1200 mg daily. Sources: dairy products (milk has 300 mg per cup), leafy greens (kale 150 mg per cup, collards 270 mg), sardines with bones (325 mg per 3 oz), fortified cereals (300-1000 mg per serving). For more details, see our guide on [Antioxidants and Oral Inflammation](/article/antioxidants-fighting-oral-inflammation.html).
+**Calcium** makes up 36% of tooth enamel. Adults need 1000-1200 mg daily. Sources: dairy products (milk has 300 mg per cup), leafy greens (kale 150 mg per cup, collards 270 mg), sardines with bones (325 mg per 3 oz), fortified cereals (300-1000 mg per serving).
 
 **Phosphorus** works with calcium in a 2:1 ratio for optimal mineralization. You need 700-1000 mg daily. It's abundant in fish, poultry, nuts, and seeds. Deficiency is rare in developed countries.
 
@@ -126,25 +125,14 @@ Calcium, phosphorus, and vitamin D form tooth mineral structure. Vitamin A maint
 
 Protective foods include cheese, nuts, vegetables, and water. Mediterranean dietary pattern reduces gum disease. Enamel pits, gum bleeding, and tongue changes can signal nutritional deficiency. Specific dietary goals (eliminate sugary beverages, add cheese to lunch) work better than vague advice. Special populations (athletes, acid reflux, vegetarians) need modified guidance. Dietary counseling integrated into dental practice improves both oral and systemic health outcomes.
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+Related reading: [Refined vs Complex Carbohydrates and Tooth Decay](/article/refined-carbs-vs-complex-carbs-decay-risk.html) and [Vitamins and Tooth Remineralization](/article/vitamins-and-tooth-remineralization.html).
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Calcium, phosphorus, and vitamin D form tooth mineral structure. Vitamin A maintains salivary glands. Talk to your dentist about how balanced Diet and Dental Health applies to your specific situation.
 
-> **Key Takeaway:** Your teeth are made of minerals, primarily calcium and phosphorus. Your dentist can help you understand what steps are right for your specific needs.
+> **Key Takeaway:** Calcium, phosphorus, and vitamin D form tooth mineral structure.
 
 ## Related Articles
 

@@ -46,7 +46,6 @@ subcategory: Pediatric Overview
 subcategory_slug: overview-peds
 title: Pacifier Use Timing and Malocclusion Risk
 ---
-
 ## Understanding Pacifier Risk Windows
 
 When you use a pacifier and when you stop it makes a tremendous difference in whether your child will develop bite problems. The age of your child is much more important than many parents realize. Babies in their first two years can use pacifiers with minimal risk of dental problems because their primary teeth are still coming in and their jaws are very flexible. The critical threshold occurs at age 3 years—if your child stops using a pacifier by age 3, they have a 90 to 95 percent chance of avoiding bite problems entirely.

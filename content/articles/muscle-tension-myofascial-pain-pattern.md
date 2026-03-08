@@ -32,7 +32,6 @@ references:
   - title: "Yiannakopoulou EC. Botulinum toxin and temporomandibular disorders: a systematic review. J Oral Maxillofac Surg. 2016;74(8):1684.e1-1684.e10."
     url: https://pubmed.ncbi.nlm.nih.gov/26989097
 ---
-
 If you've ever had your dentist press on your jaw muscles and a sharp pain shot to a completely different part of your head or teeth, you might have myofascial pain. This common condition affects about 30-40% of people who experience jaw problems. The tricky part is that the pain often shows up somewhere other than where the actual problem is. For example, tight muscles in your jaw can feel like a toothache, or they might make your temples hurt. Understanding what's really going on helps you avoid unnecessary dental work and find the right treatment.
 
 ## What Are Trigger Points and Why Do They Hurt?

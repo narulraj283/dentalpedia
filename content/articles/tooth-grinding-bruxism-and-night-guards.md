@@ -32,7 +32,6 @@ references:
   - title: "Molina OF, dos Santos J, Nelson SJ, et al. Placebo and pharmacological treatment of bruxism. Cranio. 1999;17(4):290-295."
     url: https://pubmed.ncbi.nlm.nih.gov/10949571
 ---
-
 ## Understanding Bruxism
 
 Bruxism is involuntary grinding, clenching, or forceful jaw movements that occur outside normal chewing. This parafunctional habit generates abnormal mechanical loads on dental structures and the temporomandibular joint. Bruxism affects 8% to 31% of the population depending on definition and diagnostic method.
@@ -166,6 +165,3 @@ Remember that every person's situation is unique. What works well for one patien
 - [Sleep Quality and Oral Health](/article/sleep-quality-and-oral-health-apnea-and-inflammation.html)
 - [Daytime Sleepiness Causes: Sleep Apnea and Dentistry](/article/daytime-sleepiness-causes.html)
 
-- [Temporomandibular Joint Arthroscopy: Surgical Technique](/article/tmj-arthroscopy-procedure.html)
-- [Temporomandibular Joint Anatomy: Structure, Ligaments,](/article/tmj-anatomy-joint-structure-and-function.html)
-- [TMJ Syndrome: Causes, Clinical Presentation](/article/tmj-syndrome-jaw-pain-causes-and-treatment.html)

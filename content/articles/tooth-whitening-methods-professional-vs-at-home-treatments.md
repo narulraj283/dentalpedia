@@ -44,7 +44,6 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: 'Tooth Whitening Options Compared: Which Works Best'
 ---
-
 ## Your Whitening Options
 
 Tooth whitening is one of the most popular cosmetic procedures because it's effective and gives you visible results quickly. However, you have several options, each with different tradeoffs in terms of cost, speed, and results. Understanding these options helps you choose what's best for your budget and lifestyle.
@@ -80,12 +79,6 @@ Many people do both: professional office whitening for immediate dramatic result
 ## Safety: What You Should Know
 
 Tooth sensitivity is common with whitening (15-65% of people experience it), but it's temporary and goes away after treatment stops. Gum irritation can happen if gel overflows, but protecting your gums prevents this. Don't whiten if you have untreated cavities—the treatment won't work and can cause problems. If you have existing fillings, crowns, or veneers, whitening won't change their color, so you might need to replace them later to match your newly whitened teeth. [When Should You Whiten Your Teeth?Timing Whitening with](/article/tooth-whitening-timing-when-to-whiten-during-treatment.html).
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss tooth whitening methods professional vs at home treatments, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

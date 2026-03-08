@@ -30,7 +30,6 @@ references:
   - title: "Surgical flap design and soft tissue management"
     url: https://www.ncbi.nlm.nih.gov/pubmed/17490471
 ---
-
 If a tooth can't erupt naturally, surgical removal becomes necessary. About 9 out of 10 people will have at least one impacted tooth in their lifetime. Whether it's a wisdom tooth, canine, or molar, your surgeon needs a clear plan before operating. Modern 3D imaging, careful surgical techniques, and good post-operative care make tooth extraction safe and predictable.
 
 ## How Your Surgeon Rates Tooth Impaction
@@ -78,12 +77,6 @@ Bite down firmly on gauze for 30-60 minutes to stop bleeding. Use ice for the fi
 ## Recovery Timeline
 
 Most people feel well enough for normal activities by 5-7 days. Wait 1-2 weeks before exercising or doing strenuous activities to avoid bleeding. Your stitches come out at 7-10 days. Some permanent slight bone resorption is normal—it's just your jaw reshaping after tooth loss. X-rays show complete bony fill within 3-6 months.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about impacted tooth extraction surgical removal procedures and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Protecting Your Results Long-Term
 

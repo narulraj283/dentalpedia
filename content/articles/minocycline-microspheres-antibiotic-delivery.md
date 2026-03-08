@@ -28,7 +28,6 @@ references:
   - title: "Systematic review and meta-analysis of local antibiotic therapy for periodontal pockets"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25819656
 ---
-
 If your periodontist mentioned minocycline microspheres as treatment for gum disease, you're wondering whether this is a real treatment or an unnecessary add-on. The answer is nuanced: for specific cases of aggressive gum disease that isn't responding well to standard treatment, minocycline can provide meaningful improvement. For most gum disease cases, it's unnecessary.
 
 ## How Gum Disease Develops and Why Treatment Fails
@@ -96,6 +95,9 @@ After minocycline therapy, your part is crucial. Excellent home care (brushing a
 After minocycline therapy, your periodontist likely recommends more frequent professional cleanings—typically every 3-4 months rather than the standard 6 months. This increased frequency maintains suppressed bacterial levels that minocycline created. Your periodontist might recommend antimicrobial rinses or additional professional antimicrobial applications to support the benefits minocycline provided.
 
 Long-term antibiotic use is avoided despite apparent benefits because of resistance development concerns. Using minocycline as a supplementary one-time therapy followed by maintenance creates benefit without driving widespread resistance. This approach balances patient benefit against the public health concern of antibiotic resistance, which affects everyone.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

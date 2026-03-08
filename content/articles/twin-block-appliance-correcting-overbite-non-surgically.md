@@ -32,7 +32,6 @@ references:
   - title: "Skeletal and dental changes in Class II Division 1 treated with Twin Block"
     url: https://pubmed.ncbi.nlm.nih.gov/23916844
 ---
-
 ## Introduction
 
 If your orthodontist mentioned Twin Block as a treatment option, you might be wondering what this device is and how it works. Twin Block is a removable functional appliance designed to correct Class II bite problems—where your upper teeth stick out too far ahead of your lower teeth—without requiring jaw surgery. Developed in the 1980s, it's one of the most thoroughly researched and widely used functional appliances for adolescents. The Twin Block works by encouraging your lower jaw to grow forward and adapt to a new position, capitalizing on your growing years to create lasting change. Understanding how Twin Block works, what to expect during treatment, and what results you can achieve will help you decide whether this approach fits your situation.
@@ -112,5 +111,5 @@ Remember that every person's situation is unique. What works well for one patien
 - [Best Practices for Teeth Straightening Cost](/article/best-practices-for-teeth-straightening-cost.html)
 
 - [Bracket Removal and Adhesive Cleanup](/article/bracket-removal-adhesive-cleanup.html)
-- [Bracket Placement and Exact Positioning: Slot Height,](/article/bracket-placement-exact-positioning.html)
+- [Bracket Placement and Exact Positioning: Slot Height](/article/bracket-placement-exact-positioning.html)
 

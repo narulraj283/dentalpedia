@@ -20,7 +20,6 @@ references:
   - "Steidler NE, et al. The effect of periodontal treatment on Candida species. J Periodontol. 1978;49(11):560-64."
   - "Tarnow D, et al. Clinical demonstration of increased attached gingiva following free gingival graft therapy. J Periodontol. 1976;47(6):352-57."
 ---
-
 ## What Is Flap Surgery and When Do You Need It?
 
 When you have severe gum disease, regular cleaning sometimes isn't enough. Your dentist or periodontist might recommend flap surgery to deeply clean the roots of your teeth and examine the bone underneath your gums. Think of it as gently folding back your gum tissue to access hard-to-reach areas—similar to opening a book to see the pages inside. This procedure helps your dentist see exactly what they're dealing with and gives them the best chance to save your teeth.
@@ -85,7 +84,7 @@ Flap surgery gives your dentist access to deep areas where disease hides, allowi
 
 Talk to your dentist about whether flap surgery is right for you and what you can realistically expect from the procedure. Understanding the process helps you prepare mentally and emotionally for what's ahead.
 
-> **Key Takeaway:** Surgical flap design, osseous defect management, and healing outcomes in advanced periodontal disease treatment.
+> **Key Takeaway:** When you have severe gum disease, regular cleaning sometimes isn't enough.
 
 ## Related Articles
 

@@ -20,14 +20,13 @@ references:
   - "Wang HL, Karamichos D. Enhancing periodontal wound healing with growth factors. Periodontol 2000. 2014;64(1):238-255."
   - "Garaicoa-Pazmino C, Cionca N, Giannopolou C, et al. Smoking as a predictive indicator for implant and prosthetic failure. Clin Oral Implants Res. 2019;30(8):765-776."
 ---
-
 ## What Happens After a Tooth Is Pulled: Healing and Recovery
 
-When you have a tooth extracted, your mouth doesn't just fill in the hole with scar tissue. Instead, your body goes through a sophisticated healing process over 3-6 months that rebuilds bone and soft tissue where the tooth was. Understanding this process helps you know what to expect after extraction and make good decisions about replacing that tooth with an implant or other restoration. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
+When you have a tooth extracted, your mouth doesn't just fill in the hole with scar tissue. Instead, your body goes through a sophisticated healing process over 3-6 months that rebuilds bone and soft tissue where the tooth was. Understanding this process helps you know what to expect after extraction and make good decisions about replacing that tooth with an implant or other restoration.
 
 ## The Healing Timeline After Extraction
 
-Your mouth heals in phases, and understanding each phase helps you know what's normal. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
+Your mouth heals in phases, and understanding each phase helps you know what's normal.
 
 **First day after extraction**: A blood clot forms in the socket. This clot is your body's bandage—it protects the open wound and triggers the healing process. Inflammation is normal and actually necessary for healing to happen. Your mouth will probably swell, bruise, and hurt.
 
@@ -137,6 +136,9 @@ Smoking: If you do, avoid it for at least 72 hours, longer if possible.
 
 10. Garaicoa-Pazmino C, Cionca N, Giannopolou C, et al. Smoking as a predictive indicator for implant and prosthetic failure. Clin Oral Implants Res. 2019;30(8):765-776.
 
+
+Related reading: [General Oral Surgery Recovery Timeline and Functional](/article/timeline-for-recovery-timeline.html) and [Oral Surgery Recovery](/article/oral-surgery-recovery-timeline-complete-guide.html).
+
 ## Conclusion
 
 : Proper Healing Sets Up Your Next Steps
@@ -145,7 +147,7 @@ Whether you're getting an implant, a bridge, a partial denture, or leaving the s
 
 ---
 
-> **Key Takeaway:** When you have a tooth extracted, your mouth doesn't just fill in the hole with scar tissue.
+> **Key Takeaway:** Instead, your body goes through a sophisticated healing process over 3-6 months that rebuilds bone and soft tissue where the tooth was. Understanding this process helps you know what to expect after extraction and make good decisions about replacing that tooth with an implant or other restoration.
 
 ## Related Articles
 
@@ -153,5 +155,5 @@ Whether you're getting an implant, a bridge, a partial denture, or leaving the s
 - [Cost of Swelling Reduction and Postoperative](/article/cost-of-swelling-reduction.html)
 - [Why Oral Surgery Recovery Timeline Matters](/article/why-oral-surgery-recovery-timeline-matters.html)
 - [Surgical Drainage and Abscess Treatment](/article/surgical-drainage-abscess-treatment.html)
-- [Surgical Tooth Extraction: Indications, Classification,](/article/timeline-for-surgical-teeth-removal.html)
+- [Surgical Tooth Extraction: Indications, Classification](/article/timeline-for-surgical-teeth-removal.html)
 

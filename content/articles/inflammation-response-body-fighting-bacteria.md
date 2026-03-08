@@ -32,7 +32,6 @@ references:
   - title: "Antimicrobial effector mechanisms of oral immune cells"
     url: https://www.ncbi.nlm.nih.gov/pubmed/29360262
 ---
-
 Your mouth is under constant bacterial attack, yet you rarely develop infections. That's because your body maintains sophisticated defenses—chemical antimicrobials, physical barriers, and immune cells—that protect you constantly. When these defenses work well, you stay healthy. When they fail or bacteria overwhelm them, you develop gum disease. Understanding how this battle works helps you appreciate what you're doing when you brush your teeth and why professional cleaning matters.
 
 ## Your Mouth's First Line of Defense
@@ -41,13 +40,13 @@ Saliva is your mouth's hero. It washes away bacteria constantly. It contains ant
 
 Your saliva buffers acids that bacteria produce. Without adequate saliva, you develop rampant cavities and infections—even with perfect brushing. That's why people with dry mouth need special care.
 
-Your gum tissues provide a physical barrier against bacterial invasion. The junction between gum and tooth creates a special compartment where serum (blood fluid) continuously flows, bringing immune cells and protective proteins. This gingival crevicular fluid creates a hostile environment for bacteria trying to invade deeper tissues.
+Your gum tissues provide a physical barrier. The junction between gum and tooth has a special area where blood fluid constantly flows, bringing immune cells and protective proteins. This fluid creates a hostile environment for bacteria.
 
-Your oral epithelium—the lining of your mouth—has resident immune cells constantly patrolling for invaders. These specialized cells detect bacteria immediately and activate your immune system. This constant surveillance prevents most bacterial attempts to establish infection.
+Your mouth's lining has immune cells constantly patrolling for invaders. These cells detect bacteria immediately and activate your immune system. This constant patrol prevents most bacteria from causing infection.
 
 ## Your Immune System Recognizes Invaders
 
-When dangerous bacteria first appear, your innate immune system activates. Special receptor proteins on immune cells recognize specific bacterial patterns—like bacterial cell walls or flagella. These pattern recognition receptors act like security guards, identifying which organisms are threatening and which are harmless.
+When dangerous bacteria appear, your immune system activates. Your immune cells recognize specific bacterial patterns—like cell walls or tails. These recognition systems act like security guards, identifying which bacteria are harmful and which are harmless.
 
 Your immune cells produce signaling molecules (cytokines) that recruit more immune cells to the infection site. These chemicals activate inflammation, increasing blood flow and bringing immune cells in massive numbers. This response starts within hours of bacterial exposure—fast enough to prevent most infections from establishing.
 
@@ -186,8 +185,6 @@ Host inflammatory response to oral bacterial pathogens involves coordinated acti
 Resolution mechanisms involving specialized pro-resolving mediators promote return to homeostasis. Bacterial virulence factors enable partial immune evasion prolonging infection. Balance between protective immunity and inflammatory destruction determines whether oral infection resolves or progresses to destructive periodontal disease.
 
 ## Conclusion
-
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
 
 > **Key Takeaway:** Your immune system battles bacteria constantly through multiple sophisticated mechanisms. Your role is to support this system through good hygiene, appropriate diet, stress management, and professional care. Prevention is far easier than dealing with chronic inflammation and tissue destruction.
 

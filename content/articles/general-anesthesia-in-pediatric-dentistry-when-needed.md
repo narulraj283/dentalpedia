@@ -17,7 +17,6 @@ subcategory: Pediatric Overview
 subcategory_slug: overview-pediatric
 title: 'General Anesthesia for Dental Work in Children: When'
 ---
-
 Your child needs extensive dental work done—multiple cavities, extractions, or a special procedure. Your dentist suggests general anesthesia so your child can sleep through it and all the work gets done in one visit. You might be nervous about anesthesia. Understanding why it's recommended and how it's done helps you feel more comfortable with the decision.
 
 ## Why General Anesthesia Might Be Needed
@@ -92,7 +91,7 @@ After your child recovers from the procedure, focus shifts to prevention. The de
 
 General anesthesia for dental treatment in children can be safe and beneficial when appropriately indicated. Your child's comfort and safety are paramount. Work with your dentist to understand whether anesthesia is truly necessary for your child's specific situation and what to expect throughout the process.
 
-> **Key Takeaway:** Your child needs extensive dental work done—multiple cavities, extractions, or a special procedure.
+> **Key Takeaway:** Your dentist suggests general anesthesia so your child can sleep through it and all the work gets done in one visit. You might be nervous about anesthesia.
 
 ## Related Articles
 

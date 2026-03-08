@@ -22,7 +22,6 @@ references:
   - "Tappel C, Saxer UP, Mueller G. New methods for optimal oral hygiene. In: Lang NP, Karring T, Lindhe J, eds. Proceedings of the European Workshop on Mechanical Plaque Removal. Quintessence; 1998:143-155."
   - "Dörfer CE, Staehle HJ, Wolff D, Eschrich K, Clubb N, Picolos DK. Three months of daily use of an oscillating-rotating electric toothbrush compared to a traditional manual toothbrush: a plaque and gingivitis study. J Clin Dent. 2004;15(4):106-111."
 ---
-
 ## Manual Toothbrushes: Budget-Friendly Basics
 
 A standard manual toothbrush costs $2 to $8 per brush. Replace every 3 to 4 months when bristles fray and lose cleaning power. That's $8 to $32 annually for brushes. Add $5 to $10 monthly toothpaste ($60 to $120 yearly), and total daily care costs about $70 to $150 annually.
@@ -81,12 +80,6 @@ If you want best outcomes: buy quality electric toothbrush ($150 to $250) with s
 
 This approach provides 15 to 25 percent better plaque removal and likely prevents cavities worth $1,000 to $2,500 annually through improved cleaning effectiveness.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about toothbrush selection and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed toothbrush selection, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -95,7 +88,7 @@ Once you've addressed toothbrush selection, maintaining your results requires on
 
 Manual soft-bristle brushes cost $15 to $40 yearly and work well with proper technique. Electric brushes cost $150 to $300 upfront plus $32 to $80 yearly in head replacements and provide 15 to 25 percent better plaque removal. Choose based on your budget and whether you struggle with manual brushing technique or dexterity.
 
-> **Key Takeaway:** A standard manual toothbrush costs $2 to $8 per brush. Replace every 3 to 4 months when bristles fray and lose cleaning power.
+> **Key Takeaway:** A standard manual toothbrush costs $2 to $8 per brush.
 
 ## Related Articles
 

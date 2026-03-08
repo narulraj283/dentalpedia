@@ -42,7 +42,6 @@ subcategory: Practice & Insurance Overview
 subcategory_slug: overview-practice
 title: Patient Rights in Dentistry
 ---
-
 ## Your Basic Rights as a Dental Patient
 
 You have important rights as a dental patient. These rights protect you, give you control over your treatment decisions, and keep your personal information private. Laws and dental ethics codes give you these protections. Whether you're getting a regular cleaning, a crown, or a complex procedure, you should understand your rights before treatment starts. Knowing what you're entitled to helps you feel confident asking questions and making good decisions about your dental care.

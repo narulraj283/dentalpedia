@@ -20,7 +20,6 @@ references:
   - title: "Host immune response modulation in periodontal health"
     url: https://www.ncbi.nlm.nih.gov/pubmed/19934519
 ---
-
 Healthy gums are the foundation of healthy teeth. Your gums hold teeth in place, protect the root surface, and seal out bacteria. When gums fail, teeth eventually follow. Maintaining gum health requires daily habits and regular professional attention.
 
 ## Daily Gum Care Routine
@@ -120,6 +119,6 @@ Gum health is largely under your control through daily habits and regular profes
 - [Risk and Concerns with Preventive Treatments](/article/risk-and-concerns-with-preventive-treatments.html)
 - [How to Prevent Tartar Buildup on Your Teeth](/article/how-to-tartar-prevention.html)
 - [Common Misconceptions About Dental Visit Frequency](/article/common-misconceptions-about-dental-visit-frequency.html)
-- [Caries Risk Assessment and Key Vulnerability Factors:](/article/timeline-for-cavity-risk-factors.html)
+- [Caries Risk Assessment and Key Vulnerability Factors](/article/timeline-for-cavity-risk-factors.html)
 - [Alcohol-Free Mouthwash Benefits and Clinical Selection](/article/alcohol-free-mouthwash-benefits-oral-health-and-safety.html)
 

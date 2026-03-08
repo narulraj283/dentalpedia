@@ -42,7 +42,6 @@ subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
 title: Overlay Full Cuspal Coverage
 ---
-
 ## What Are Overlay Restorations?
 
 An overlay restoration is a tooth-colored covering that protects the biting surfaces of your teeth without removing a lot of tooth structure. It's different from a crown because your dentist only needs to prepare the chewing surface—the sides of your tooth stay completely natural. Think of it as a protective cap that covers just the top and corners of your tooth while leaving the walls untouched. This makes overlays a great choice when you want maximum protection with minimal tooth removal.

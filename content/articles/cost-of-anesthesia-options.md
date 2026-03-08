@@ -22,7 +22,6 @@ references:
   - "Vucic N, Steyaert A, Wyns B, et al. Anesthesia for oral surgery: a systematic review. J Oral Maxillofac Surg. 2018;76(5):1015-1028."
   - "Jastak JT, Donaldson D. Prevalence of penicillin allergy in oral surgery patients. J Oral Surg. 1987;45(5):391-395."
 ---
-
 Nervous about dental work? Anesthesia helps you stay comfortable. Whether you need local numbing, sedation, or sleep, there's an option for your comfort level and procedure. Here's what each costs and how it works.
 
 ## Local Anesthesia (The Numbing Shot)
@@ -164,17 +163,6 @@ Tell your dentist about:
 **IV sedation**: Takes 1-2 minutes. Effects last 1-2 hours. Don't drive for 24 hours.
 
 **General anesthesia**: Takes a few minutes. Effects last several hours. Don't drive for 24 hours; may feel groggy all day.
-
-## Questions to Ask Your Dentist
-
-- Do you recommend anesthesia for my procedure?
-- What are my options?
-- What does each cost?
-- Will insurance cover it?
-- What do I do before and after?
-- Do I need someone to drive me home?
-- What are the side effects?
-- What if I'm still nervous?
 
 ## Conclusion
 

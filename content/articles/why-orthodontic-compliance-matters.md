@@ -28,7 +28,6 @@ references:
   - title: "Long-Term Relapse in Orthodontics: Impact of Patient Compliance with Retention"
     url: "https://pubmed.ncbi.nlm.nih.gov/25265850/"
 ---
-
 ## Getting the Most From Your Braces: Compliance Is Key
 
 Your orthodontist can be brilliant, and your braces can be the most advanced technology available, but if you're not following instructions, your results will suffer. Compliance—following recommendations about appointments, appliance care, diet, oral hygiene, and retention—directly determines whether you finish treatment on schedule with perfect results or end up with extended treatment, damaged teeth, or teeth that relapse. Understanding what orthodontists mean by compliance and why each component matters helps you get the most from your investment.

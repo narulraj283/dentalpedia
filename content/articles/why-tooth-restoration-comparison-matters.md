@@ -30,7 +30,6 @@ references:
   - title: "Microleakage in Class II composite restorations with different layering techniques and cavity wall treatments"
     url: "https://pubmed.ncbi.nlm.nih.gov/21170381/"
 ---
-
 Your dentist says you need a restoration (something to fill or cover that cavity or damaged tooth area). But what kind? Should you get a simple filling, an inlay, or a full crown? The options can seem confusing, and the choice significantly affects how long your restoration lasts, how much it costs, and how much tooth structure remains.
 
 Understanding what each restoration is best for, how long each type typically lasts, and what factors drive the decision helps you make an informed choice with your dentist. Learn more about [Cantilever Bridge Unusual Support](/article/cantilever-bridge-unusual-support.html) for additional guidance.

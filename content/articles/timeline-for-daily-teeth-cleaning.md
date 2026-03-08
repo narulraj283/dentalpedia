@@ -32,7 +32,6 @@ references:
   - title: "Sambunjak D, Nickerson JW, Poklepovic Pericic T. Flossing for the management of periodontal diseases and dental caries in adults. Cochrane Database Syst Rev. 2011;12:CD008829."
     url: https://pubmed.ncbi.nlm.nih.gov/22161442
 ---
-
 ## The Foundation: Daily Brushing and Flossing
 
 You've probably heard "brush twice a day and floss daily" your whole life, and there's a good reason—it works. Daily brushing and flossing remove plaque biofilm before it hardens into tartar (calculus), which your hygienist then scrapes off during cleanings. Your teeth and gums are healthier when plaque never accumulates in the first place. The good news: you don't need complicated routines or fancy products. You need the right technique and consistency.

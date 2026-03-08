@@ -22,7 +22,6 @@ references:
   - "Ong, E., et al. (2000). Root resorption during orthodontic treatment in Asian subjects: a longitudinal study. American Journal of Orthodontics and Dentofacial Orthopedics, 118(5), 511-520."
   - "Linge, B., & Linge, L. (1983). Patient factors in orthodontics. British Dental Journal, 154(1), 8-11."
 ---
-
 ## Myth: Adults Can't Successfully Have Orthodontic Treatment
 
 Many adults believe that once they're past their teenage years, orthodontic treatment no longer works or isn't worth trying. This is completely false. Research shows that adults achieve successful orthodontic outcomes as often as teenagers do—about 88-92% of adults achieve their treatment goals compared to 85-90% of teens. Your body's ability to move teeth in response to orthodontic force doesn't stop at age 18 or 25 or even 50.
@@ -91,7 +90,7 @@ Discuss cost and financing options with your orthodontist. Many offer flexible p
 
 Adult orthodontia is effective, safe, and increasingly common. Modern treatment options let adults achieve the straight teeth they want without extensive time commitment or obvious appearance. If you've been considering braces as an adult, don't let myths prevent you from exploring what's possible.
 
-> **Key Takeaway:** What adults need to know about braces and orthodontic treatment, debunking common myths and explaining what really works for adult teeth.
+> **Key Takeaway:** Many adults believe that once they're past their teenage years, orthodontic treatment no longer works or isn't worth trying.
 
 ## Related Articles
 

@@ -32,12 +32,9 @@ references:
   - title: "Duration and Healing Predictors in Recurrent Aphthous Stomatitis"
     url: https://pubmed.ncbi.nlm.nih.gov/27634537
 ---
+That painful mouth sore might heal on its own eventually, but it doesn't have to hurt this long. Most ulcers can be treated to speed healing and cut pain in half. But knowing when a sore is harmless versus when it signals something serious is critical—some mouth ulcers indicate disease that needs professional evaluation.
 
 ## Mouth Sores and Ulcers: When to Worry and How to Treat Them
-
-Most people get mouth ulcers at some point—those painful, annoying sores that make eating and talking miserable. About 1 in 5 people experience them regularly. The good news?
-
-Most mouth ulcers are harmless and heal on their own. The better news? Knowing what type of ulcer you have and how to treat it properly can cut healing time in half and eliminate most of the pain. Understanding which sores need medical attention versus which ones just need patience is critical, because occasionally a mouth ulcer can signal something serious that needs professional evaluation.
 
 ## Types of Mouth Ulcers and What Causes Them
 

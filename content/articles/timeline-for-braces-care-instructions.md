@@ -32,7 +32,6 @@ references:
   - title: "Ultmann JS, Brubaker ML. A case report of laparoscopic cholecystectomy during pregnancy. Obstet Gynecol Surv. 1993;48(1):41-43."
     url: https://pubmed.ncbi.nlm.nih.gov/8464799
 ---
-
 ## Keeping Your Teeth Clean with Braces
 
 Keeping your teeth and braces clean is the most important part of successful orthodontic treatment. With brackets and wires covering your teeth, cleaning becomes more challenging, but it's absolutely essential. Poor cleaning during braces can cause permanent staining (white spot lesions) and gum disease. Learning the right techniques from the start makes the job much easier and protects your teeth throughout treatment.
@@ -103,5 +102,5 @@ Successful braces care requires daily brushing and flossing with proper techniqu
 
 - [Traditional Metal Braces Treatment Process and Patient](/article/traditional-metal-braces-process-and-care.html)
 - [Risk and Concerns with Teeth Relapse Prevention](/article/risk-and-concerns-with-teeth-relapse-prevention.html)
-- [Bite Correction Timelines: Overbite, Underbite,](/article/timeline-for-bite-correction-methods.html)
+- [Bite Correction Timelines: Overbite, Underbite](/article/timeline-for-bite-correction-methods.html)
 

@@ -32,7 +32,6 @@ references:
   - title: "Maspero C, et al. Aligner-related complications in the anterior region: a systematic review. J Clin Med. 2021;10(13):2845."
     url: https://pubmed.ncbi.nlm.nih.gov/34208947
 ---
-
 ## Clear Aligners vs. Traditional Braces - What You Should Know
 
 Clear aligners like Invisalign have revolutionized orthodontics by offering a discreet alternative to traditional metal braces. The appeal is obvious: nobody can see your braces, you can remove them to eat and clean your teeth, and appointments are simpler. However, clear aligners carry significant limitations that marketing doesn't emphasize. Understanding what clear aligners can and can't do—compared to traditional braces—helps you make an informed choice rather than picking based on esthetics alone.
@@ -78,14 +77,6 @@ Extended treatment increases cumulative risks for root resorption, periodontal d
 Clear aligner therapy permits better oral hygiene than fixed braces because you can remove aligners for cleaning. However, the daily removal and insertion cycle causes repeated minor gingival trauma. Improper insertion—forcing aligners over interdental papillae—causes gum recession. The attachment materials create biofilm retention sites complicating flossing.
 
 Studies show clear aligner patients experience elevated periodontal inflammation compared to untreated individuals. For patients with periodontal disease predisposition, monitoring becomes essential during treatment.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about clear aligners vs. traditional braces - what you should know and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

@@ -28,7 +28,6 @@ references:
   - title: "Clinical evaluation of natural whitening products and enamel effects"
     url: https://pubmed.ncbi.nlm.nih.gov/25950651
 ---
-
 ## How Whitening Powders Actually Work
 
 You've probably seen whitening powders advertised as natural solutions—charcoal pastes, baking soda blends, and herbal formulas promising a brighter smile. These products claim to lighten teeth through two main approaches: physically scrubbing away surface stains and chemically bleaching discoloration. But how well do they actually work, and are they safe?

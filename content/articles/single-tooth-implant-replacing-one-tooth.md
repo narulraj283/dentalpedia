@@ -46,7 +46,6 @@ subcategory: Implant Overview
 subcategory_slug: overview-implants
 title: Single Tooth Implant Replacing One Tooth
 ---
-
 ## Why Implants Work Better Than Other Solutions
 
 When you lose a tooth, replacing it used to mean choosing between removable dentures (that can slip around and feel uncomfortable) or a fixed bridge (which requires grinding down your healthy adjacent teeth). A single-tooth implant offers a third option that's superior to both. Your implant dentist inserts a small artificial root directly into your jawbone in the space where your tooth was lost.

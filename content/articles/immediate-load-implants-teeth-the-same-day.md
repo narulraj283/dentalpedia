@@ -30,7 +30,6 @@ references:
   - title: "Biological and biomechanical responses to immediately loaded bridged implants: Three-dimensional analysis"
     url: https://www.ncbi.nlm.nih.gov/pubmed/19645518
 ---
-
 If you've lost all or most of your teeth, you probably wish you could get them back immediately. With same-day implants, that dream is now a reality. Instead of waiting months for your teeth, you can walk out of the oral surgery office with a complete, fixed set of teeth in just one day. This breakthrough in implant technology combines advanced planning, precision surgery, and smart materials to give you results that work like your own teeth.
 
 ## How Same-Day Implants Changed Everything

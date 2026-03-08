@@ -30,7 +30,6 @@ references:
   - title: "Adaptation to Increased Vertical Dimension: Neuromuscular and Psychological Factors"
     url: https://pubmed.ncbi.nlm.nih.gov/25509812
 ---
-
 ## What Is Vertical Dimension?
 
 Have you ever looked at old photos of yourself and noticed your face seemed taller? Or perhaps you've observed that some people look significantly older than their actual age, with a collapsed, pinched appearance to the lower face? These changes often relate to something dentists call "vertical dimension"—essentially the height of your lower face when your teeth are closed together.

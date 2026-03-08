@@ -32,7 +32,6 @@ references:
   - title: "Fedi PF, Vernino AR, Gray JL. The Periodontal Syllabus. 6th ed. Lippincott Williams & Wilkins; 2016."
     url: https://pubmed.ncbi.nlm.nih.gov/27350254
 ---
-
 ## Introduction
 
 When you visit your dentist and find out you need several dental treatments, you might wonder: "Where do we even start?" Your dentist doesn't just jump in and do everything at once. Instead, they make a careful treatment plan that tackles problems in a specific order—kind of like building a house. You have to have a solid foundation before you can put up walls. In dentistry, your dentist addresses urgent problems first, then gets your gums healthy, then does restorative work, and finally tackles cosmetic or replacement tooth work. Understanding how your dentist plans your treatment can help you feel confident and prepared.
@@ -80,12 +79,6 @@ Your dentist wants you to understand the treatment, the risks, the success rate,
 ## Financial Planning and Insurance
 
 Your dentist's office will help you figure out what insurance will cover and what you'll need to pay out of pocket. They might submit your treatment plan to your insurance company to get a pre-authorization. They can also discuss payment options or payment plans if the treatment is expensive. Many dental offices offer flexible financing to help you get the treatment you need.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for dental procedure planning, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

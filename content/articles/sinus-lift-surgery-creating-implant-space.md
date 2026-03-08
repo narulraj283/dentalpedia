@@ -30,7 +30,6 @@ references:
   - title: "Wenny R, Wuest L, Khoury F, et al. Clinical considerations for sinus floor elevation. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2005;100(3):369-377."
     url: https://pubmed.ncbi.nlm.nih.gov/16122668
 ---
-
 ## What Is Sinus Lift Surgery?
 
 If you're missing back teeth in your upper jaw and want dental implants, you might hear your dentist mention a "sinus lift" procedure. This surgery sounds intimidating, but it's actually a straightforward way to create enough bone for your implants to work properly.

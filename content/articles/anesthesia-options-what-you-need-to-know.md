@@ -20,12 +20,11 @@ references:
   - "Dershewitz RA. Twenty things you did not know about pediatric resuscitation. Pediatrics. 2000;106(Suppl):1380-1390."
   - "Malamed SF. Medical Emergencies in the Dental Office. Mosby; 2015."
 ---
-
-Understanding what to expect from anesthesia during dental procedures helps you feel less nervous and more in control. This guide walks you through what happens before your procedure, what you'll feel during it, and how to care for yourself afterward. It's really about partnership between you and your dentist—the better you understand what's happening, the more comfortable and confident you'll feel. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
+Understanding what to expect from anesthesia during dental procedures helps you feel less nervous and more in control. This guide walks you through what happens before your procedure, what you'll feel during it, and how to care for yourself afterward. It's really about partnership between you and your dentist—the better you understand what's happening, the more comfortable and confident you'll feel.
 
 ## Before Your Procedure: What to Expect and How to Prepare
 
-**Medical History and Medications**: Before any procedure involving anesthesia, you will be asked detailed questions about your medical history, current medications, allergies, and prior experiences with anesthesia. Be completely honest about: prior adverse reactions to anesthesia (even if you're unsure what caused the reaction), medications you take (including supplements and over-the-counter drugs), and medical conditions like heart disease, diabetes, or high blood pressure. This information helps your surgeon select the safest anesthetic approach for your unique situation. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
+**Medical History and Medications**: Before any procedure involving anesthesia, you will be asked detailed questions about your medical history, current medications, allergies, and prior experiences with anesthesia. Be completely honest about: prior adverse reactions to anesthesia (even if you're unsure what caused the reaction), medications you take (including supplements and over-the-counter drugs), and medical conditions like heart disease, diabetes, or high blood pressure. This information helps your surgeon select the safest anesthetic approach for your unique situation.
 
 **Preoperative Instructions**: For procedures involving sedation (but not simple local anesthesia), you will be instructed to fast before treatment. Typical fasting guidelines (NPO status—nothing by mouth) are: no food or liquids for 2-3 hours before mild sedation, or 6-8 hours before IV conscious sedation. This fasting reduces aspiration risk (if sedation deepens unexpectedly and stomach contents enter the airway). Follow these instructions exactly—arriving without proper fasting may require rescheduling your procedure.
 
@@ -123,11 +122,18 @@ If you are anxious about dental procedures and anesthesia:
 
 The best dental experiences happen when you and your team work together. Understand your anesthesia options, ask questions, communicate openly during your procedure (raise your hand if you need a break), and follow post-operative instructions carefully. Your dentist and team genuinely care about making sure you're comfortable and safe. Modern anesthesia is incredibly safe when you're informed, cooperative, and know what to expect. Trust the process, speak up if something doesn't feel right, and remember that good communication is the key to a positive experience.
 
+
+Related reading: [Bone Grafting: Restoring Lost Jaw Structure](/article/bone-grafting-restoring-lost-jaw-structure.html) and [Common Misconceptions About Post-Operative Instructions](/article/common-misconceptions-about-post-operative-instructions.html).
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about anesthesia options: what you need to know or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Understanding what to expect from anesthesia during dental procedures helps you feel less nervous and more in control. Your dentist can help you understand what steps are right for your specific needs.
+
+> **Key Takeaway:** Patient-focused guide to anesthesia options, what to expect before during and after, communication strategies, and recovery management.
 
 ## Related Articles
 

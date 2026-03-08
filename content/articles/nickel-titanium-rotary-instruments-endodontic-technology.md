@@ -32,7 +32,6 @@ reviewer_specialty: Endodontics
 slug: nickel-titanium-rotary-instruments-endodontic-technology
 title: Nickel Titanium Rotary Instruments Endodontic Technology
 ---
-
 ## The Revolution in Root Canal Technology
 
 Root canal treatment has changed dramatically over the past couple of decades, largely due to advancements in the instruments endodontists use. Modern nickel-titanium rotary instruments represent one of the biggest breakthroughs in dental technology. If you're facing root canal treatment, understanding this technology helps you appreciate why your endodontist is using modern equipment and how it benefits your treatment.

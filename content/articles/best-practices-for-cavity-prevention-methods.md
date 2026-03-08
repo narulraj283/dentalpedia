@@ -20,12 +20,11 @@ references:
   - "Tellez M, Wolff MS, Pitts NB. Is非-operative management of caries lesions effective? Dent Clin North Am. 2016;60(1):87-101."
   - "Featherstone JD. The caries balance: contributing factors and early detection. J Calif Dent Assoc. 2003;31(2):129-133."
 ---
-
-Preventing cavities isn't complicated, but it does require knowing what actually works. The best prevention strategies target multiple things at once: controlling the bacteria in your mouth, reducing sugar exposure, using fluoride smartly, and cleaning your teeth the right way. If you do these things, you can reduce your cavity risk by 40-80% depending on how high your risk was to begin with. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+Preventing cavities isn't complicated, but it does require knowing what actually works. The best prevention strategies target multiple things at once: controlling the bacteria in your mouth, reducing sugar exposure, using fluoride smartly, and cleaning your teeth the right way. If you do these things, you can reduce your cavity risk by 40-80% depending on how high your risk was to begin with.
 
 ## Fluoride: The MVP of Cavity Prevention
 
-Fluoride is the most proven cavity-fighter we have. It works in three ways: it makes your enamel harder and more acid-resistant, it helps repair early damage (remineralization), and it actually slows down the bacteria that cause cavities. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+Fluoride is the most proven cavity-fighter we have. It works in three ways: it makes your enamel harder and more acid-resistant, it helps repair early damage (remineralization), and it actually slows down the bacteria that cause cavities.
 
 Most people get fluoride from their drinking water (if their city adds it) and from toothpaste. The water fluoride reduces cavities by about 25% in kids and 15% in adults. That's just from drinking it. Fluoride toothpaste (the regular kind) reduces cavities another 24% in kids if you use it twice a day.
 
@@ -89,25 +88,16 @@ This is way cheaper and easier than getting a filling later, so it's definitely 
 
 ---
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+Related reading: [Water Flossers vs. String Floss](/article/oral-irrigators-do-water-flossers-really-work.html) and [Why Dental Visit Frequency Matters - Evidence-Based](/article/why-dental-visit-frequency-matters.html).
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+This is way cheaper and easier than getting a filling later, so it's definitely worth the effort. Your dentist can provide personalized recommendations based on your specific needs.
 
-> **Key Takeaway:** Preventing cavities isn't complicated, but it does require knowing what actually works. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** Preventing cavities isn't complicated, but it does require knowing what actually works.
 
 ## Related Articles
 

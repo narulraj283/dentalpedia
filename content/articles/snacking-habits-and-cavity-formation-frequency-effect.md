@@ -32,7 +32,6 @@ references:
   - title: "Sohn W, Burt BA, Sowers MR. Carbonated soft drinks and dental caries in the primary dentition. Journal of Dental Research. 2006;85(3):262-266."
     url: https://pubmed.ncbi.nlm.nih.gov/16498075
 ---
-
 ## Introduction
 
 Your diet affects your cavity risk, but not in the way you might think. Most people focus on the amount of sugar they eat, but research shows something surprising: how often you snack matters much more than how much you snack. You can eat the same amount of candy at lunch or spread it throughout the day—the second option causes way more cavities because your mouth can't recover between attacks. Understanding this simple fact can help you make changes that actually prevent cavities without feeling deprived.
@@ -94,12 +93,6 @@ Xylitol is special—bacteria can't ferment it, so it doesn't cause acid attacks
 ## Kids Need This Too
 
 Young children get cavities rapidly from snacking because their teeth are still developing and enamel is thinner. If you have kids, limiting snacks to set times prevents serious cavity problems. Early childhood caries (cavities in baby teeth) can lead to systemic infections and problems with permanent teeth development.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss snacking habits and cavity formation frequency effect, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

@@ -30,7 +30,6 @@ references:
   - title: "Fatigue Resistance of Restorative Materials Under Cyclic Occlusal Loading"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27654321
 ---
-
 Your bite is incredibly powerful. Your back molars can bite down with a force of 900 pounds or more—that's like having a 400-pound weight pressing on each molar every time you chew. Understanding your bite force is important because it affects how long your teeth last and how long your fillings and crowns survive.
 
 ## How Strong Is Your Bite?

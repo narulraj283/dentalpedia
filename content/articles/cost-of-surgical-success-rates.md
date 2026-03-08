@@ -22,7 +22,6 @@ references:
   - "Tealdo T, Bevilacqua M, Menini M, et al. Immediate versus delayed loading of dental implants: A 24-month prospective study. International Journal of Prosthodontics. 2019;28(4):380-388."
   - "Esposito M, Hirsch JM, Lekholm U, et al. Biological factors contributing to failures of osseointegrated oral implants. European Journal of Oral Sciences. 2020;106(1):527-551."
 ---
-
 ## Why Success Rates Matter to Your Wallet
 
 Success rates directly impact your total costs. Learning more about quality vs cost can help you understand this better. A 95% success procedure costing $1,200 is potentially cheaper long-term than an 85% success procedure costing $800, because the 85% procedure fails more often requiring replacement.
@@ -164,10 +163,6 @@ Severe relapse requiring retreatment ($3,000-$8,000) affects about 10-15% of peo
 
 Proper retention prevents expensive relapse.
 
-## Questions to Ask Your Surgeon
-
-Before any oral surgery procedure, ask your surgeon about their personal success rates for the specific procedure you need. Ask how many times they've performed this procedure and what complications they've seen. Find out what happens financially if the procedure fails—does their office offer any warranty or reduced-cost retreatment? Ask about factors that could lower your personal success rate, such as smoking or uncontrolled diabetes, and what you can do to improve your odds. Understanding both the statistical success rates and your individual risk factors helps you make the most informed decision about your treatment.
-
 ## Protecting Your Investment in Dental Surgery
 
 After investing in dental surgery, protect your results by following all aftercare instructions precisely. Attend every scheduled follow-up appointment so your surgeon can catch potential problems early when they're easier and cheaper to fix. If you received dental implants, commit to professional cleanings every three to four months—this maintenance schedule dramatically reduces peri-implantitis risk.
@@ -177,19 +172,22 @@ If you had bone grafting, avoid putting pressure on the area during the critical
 
 For more information, see [Wound Healing Biology After Oral Surgery](/article/benefits-of-surgical-site-healing.html) and [Postoperative Swelling Management: Mechanisms,](/article/common-misconceptions-about-swelling-reduction.html).
 
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
 Success rates matter financially. Higher-success procedures often cost more upfront but cost less long-term through fewer failures and replacements. Experienced surgeons have higher success rates justifying premium fees.
 
 Quality materials (premium implants, autogenous bone) have higher success rates worth the extra cost. Prevention-focused approaches (maintaining implants, using retainers) prevent expensive failures. Choose treatment based on total cost including likely replacement costs, not just initial price. Your dentist should discuss success rates with each treatment option so you can make informed decisions.
 
-> **Key Takeaway:** Understand why success rates matter and how they affect your treatment decisions and costs.
+> **Key Takeaway:** Success rates directly impact your total costs.
 
 ## Related Articles
 
 - [Understanding Post-Surgery Care for Better Dental](/article/benefits-of-post-surgery-care.html)
-- [Wisdom Teeth Extraction: Evidence-Based Indications,](/article/benefits-of-wisdom-teeth-extraction.html)
+- [Wisdom Teeth Extraction: Evidence-Based Indications](/article/benefits-of-wisdom-teeth-extraction.html)
 - [Post-Surgical Swelling Management and](/article/risk-and-concerns-with-swelling-reduction.html)
 - [Risk and Concerns with Post-Surgical Care in Oral](/article/risk-and-concerns-with-post-surgery-care.html)
-- [Complex Tooth Extraction Timeline: Surgical Planning,](/article/timeline-for-complex-extractions.html)
+- [Complex Tooth Extraction Timeline: Surgical Planning](/article/timeline-for-complex-extractions.html)
 

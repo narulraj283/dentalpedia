@@ -20,7 +20,6 @@ references:
   - "König KG. (2023). Clinical outcomes of specific preventive measures in the management of the caries disease process. In: Fejerskov O, Kidd EA. (Eds.), Dental caries: The disease and its clinical management. Oxford: Blackwell Munksgaard. p. 234-260."
   - "Ismail AI. (2023). Clinical judgment and quantitative evidence in decision making. Journal of Dental Education. 68(6):1495-1500."
 ---
-
 ## Cavity Risk Isn't Just About What You Eat
 
 Many people think cavities are primarily about diet. While diet does matter, it's actually not the main factor determining who gets cavities. Biofilm control—how well you keep your teeth clean—is much more important. In fact, how well you brush and floss accounts for more than 50% of your cavity risk, while diet accounts for only about 20-30%.
@@ -91,7 +90,7 @@ It's like having a higher natural cavity risk is like being on a ski slope that'
 
 Your cavity risk comes from multiple factors including biofilm control, diet, saliva, previous cavities, and the bacteria in your mouth. Biofilm control is the most important factor you can change. Even if you have high natural risk, better prevention strategies can keep you cavity-free.
 
-> **Key Takeaway:** Many people think cavities are primarily about diet. While diet does matter, it's actually not the main factor determining who gets cavities.
+> **Key Takeaway:** Many people think cavities are primarily about diet.
 
 ## Related Articles
 

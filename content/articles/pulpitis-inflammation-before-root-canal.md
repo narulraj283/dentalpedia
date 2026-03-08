@@ -30,7 +30,6 @@ references:
   - title: "Seltzer S, Bender IB. The Dental Pulp: Biologic Considerations in Dental Procedures. 2nd ed. Philadelphia: JB Lippincott; 1975."
     url: https://pubmed.ncbi.nlm.nih.gov/1058529
 ---
-
 ## What Is Pulpitis and Why It Matters
 
 Pulpitis is inflammation of the nerve and blood vessels inside your tooth (the pulp) caused by bacteria from cavities or tooth injuries. When bacteria slowly penetrate a cavity into the sensitive nerve tissue inside, your body's immune system fights back with inflammation. This inflammation is actually what causes your tooth pain—the body's response to the infection. Understanding pulpitis helps you know why your tooth hurts and what treatment you might need.
@@ -93,16 +92,6 @@ Preventing pulpitis is far easier than treating it. Brush twice daily, floss dai
 ## Why Early Treatment Matters
 
 Catching problems early makes all the difference. A cavity detected and treated early can be simply filled, preventing pulpitis altogether. A tooth with early reversible pulpitis can often be saved with proper treatment. A tooth with irreversible pulpitis needs root canal therapy, which is successful and saves the tooth, but it's a more involved and expensive procedure than filling a cavity. Prevention and early treatment prevent progression to irreversible pulpitis.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about pulpitis - inflammation before root canal and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 

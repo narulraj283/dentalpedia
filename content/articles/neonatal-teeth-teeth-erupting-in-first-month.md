@@ -40,7 +40,6 @@ subcategory: Pediatric Overview
 subcategory_slug: overview-peds
 title: Baby Teeth Erupting in Your Newborn's First Month
 ---
-
 ## What Are Neonatal Teeth?
 
 Neonatal teeth are baby teeth that erupt in your newborn's mouth during the first month of life—a rare but completely natural occurrence. While most babies don't get their first teeth until around 6 months old, some babies are born with teeth or develop them within the first few weeks. Neonatal teeth occur in about 1 in 2,000 to 1 in 30,000 babies, depending on ethnic background. The lower front teeth are the most commonly affected, appearing in about 80% of cases. Your baby isn't alone if this happens—it's just an early version of normal development.

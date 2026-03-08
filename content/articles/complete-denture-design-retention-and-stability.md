@@ -22,7 +22,6 @@ references:
   - "Thompson et al. Interridge Distance and Vertical Dimension Measurement Accuracy. Prosthodontics International, 2023;41(3):203-216."
   - "Bidra et al. Current Evidence on Denture Retention and Clinical Longevity. Journal of Prosthetic Dentistry, 2024;131(1):45-62."
 ---
-
 If you're getting complete dentures (false teeth for your whole upper or lower arch), you want them to stay in place and feel comfortable. Denture retention (how well they stick) and stability (how much they move during chewing) determine whether you'll be happy with them. Good retention requires proper design, accurate fitting, and understanding how dentures work.
 
 ## How Dentures Stay In Place
@@ -69,19 +68,11 @@ Dentures last 5-7 years typically before needing replacement due to material wea
 
 Common denture problems include: fungal infection (candidiasis, occurring in 25-35% of denture wearers—prevent by removing dentures at night), broken dentures, or denture stomatitis (inflammation from poor denture cleanliness). All are preventable or treatable with proper care.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about complete denture design retention and stability and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
-
 ## Conclusion
 
 Denture retention and stability depend on proper design, accurate jaw measurements, appropriate border molding, and correct vertical dimension. Upper dentures typically retain better than lower dentures due to greater surface area. Expect 8-12 weeks for basic adaptation and up to 12 months for full adjustment. Relines every 1-2 years maintain fit as your jaw shape changes. With proper care, dentures are functional and comfortable, though they won't feel identical to natural teeth.
 
-> **Key Takeaway:** Learn how dentures stay in place and what determines whether they fit well and feel comfortable.
+> **Key Takeaway:** If you're getting complete dentures (false teeth for your whole upper or lower arch), you want them to stay in place and feel comfortable.
 
 ## Related Articles
 

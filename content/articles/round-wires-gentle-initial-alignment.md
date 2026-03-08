@@ -40,7 +40,6 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Round Wires Gentle Initial Alignment
 ---
-
 ## Why Your First Wire Is Small and Flexible
 
 When you get braces, your orthodontist doesn't install a big, stiff wire. Instead, they start with a small, flexible wire that looks almost too thin to accomplish anything. This is intentional. The first wire's job is to gently move severely crowded or rotated teeth into a rough line, not to perfect everything. Understanding why this approach works helps you appreciate what your orthodontist is doing at each appointment.

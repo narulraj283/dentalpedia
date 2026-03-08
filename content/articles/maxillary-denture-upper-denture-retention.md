@@ -28,7 +28,6 @@ references:
   - title: "Patient adaptation and neuromuscular control in maxillary denture retention establishment"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25012345
 ---
-
 If your upper denture feels loose or slips when you talk or eat, you're not alone. Many denture wearers struggle with retention and stability. The good news is that a properly fitting denture should stay securely in place through normal daily activities. Whether your denture is brand new or you've been wearing one for years, understanding how dentures stay in place can help you work with your dentist to achieve the best possible fit. Your upper denture relies on several factors working together to create a good seal, and improving any of these can dramatically improve how your denture performs.
 
 ## How Your Upper Denture Stays in Place

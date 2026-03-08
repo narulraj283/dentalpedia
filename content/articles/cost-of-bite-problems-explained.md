@@ -34,7 +34,6 @@ references:
   three different functional appliances in the treatment of Class II division 1 malocclusion.
   Eur J Orthod. 2001;23(5):489-500.
 ---
-
 Most people have bite problems. Learning more about [Why Braces Food Restrictions Matters](/article/why-braces-food-restrictions-matters.html) can help you understand this better. Crooked teeth, crowding, or misaligned bites affect 50-60% of the population. Here's the real cost of leaving them untreated and why early correction saves money.
 
 ## What Counts as a Bite Problem
@@ -203,25 +202,12 @@ Most insurance plans provide some orthodontic benefit:
 **With complications** (untreated):
 - Cavities, gum disease, TMJ treatment: $2,000-$37,000+
 
-## Questions to Ask Your Orthodontist
-
-- Does my bite problem need treatment, or is it just cosmetic?
-- What complications could develop if untreated?
-- What's the estimated cost and timeline?
-- Will insurance help?
-- Are payment plans available?
-- What's the benefit of early treatment (for children)?
-- How much could I save by treating now vs. waiting?
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about bite problems explained and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed bite problems explained, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

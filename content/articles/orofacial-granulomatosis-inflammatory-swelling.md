@@ -16,7 +16,6 @@ references:
   - "Schlosser BJ, Mirowski GW. Orofacial Granulomatosis and Related Disorders. Dermatol Clin. 2007;25(4):571-582."
   - "Zakrzewska JM, Chan ES, Thornhill MH. Cinnamon as a Source of Allergen in Orofacial Granulomatosis. Br Dent J. 2005;198(6):355-358."
 ---
-
 ## What Is Orofacial Granulomatosis?
 
 Orofacial granulomatosis is a condition where your mouth and lip tissues become persistently swollen due to chronic inflammation. Your lips may become noticeably enlarged, your gums may be swollen and red, and the swelling can become disfiguring if severe. The inside of your mouth feels firm and thick rather than normal and soft. The swelling is usually painless unless secondary ulcers develop from the tissue becoming so swollen it breaks down.
@@ -97,7 +96,7 @@ The right approach depends on your individual needs, overall health, and what yo
 
 Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
 
-> **Key Takeaway:** Orofacial granulomatosis causes persistent mouth and lip swelling from granulomatous inflammation. Some cases are triggered by specific allergens (cinnamon is well-documented), others are associated with systemic disease (Crohn's disease, sarcoidosis), and some remain idiopathic. Intralesional steroid injections help in most cases. Identify and eliminate triggers if possible. Systemic disease must be evaluated and treated if present. Prognosis is variable but most people can achieve reasonable symptom control.
+> **Key Takeaway:** Orofacial granulomatosis is a condition where your mouth and lip tissues become persistently swollen due to chronic inflammation.
 
 ## Related Articles
 

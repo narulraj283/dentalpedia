@@ -20,12 +20,11 @@ references:
   - "Cunningham LM. The Importance of Annual Maximum Review. Dent Econ. 2021;111(2):45-53."
   - "Sullivan DR. Financial Planning and Dental Insurance Coordination. Prac Mgmt Notes. 2020;28(3):112-126."
 ---
-
-Dental insurance annual maximums sound straightforward until you actually need significant dental work. Suddenly, your $1,000 limit seems tiny when you need a root canal ($1,200), crown ($1,500), and scaling ($500). Understanding how annual maximums work, why they've barely changed in 50 years, and how to strategically plan treatment helps you make informed financial decisions about your dental care. For more details, see our guide on [Deductibles and Copays](/article/deductibles-and-copays-understanding-costs.html).
+Dental insurance annual maximums sound straightforward until you actually need significant dental work. Suddenly, your $1,000 limit seems tiny when you need a root canal ($1,200), crown ($1,500), and scaling ($500). Understanding how annual maximums work, why they've barely changed in 50 years, and how to strategically plan treatment helps you make informed financial decisions about your dental care.
 
 ## How Annual Maximums Actually Work
 
-Your **annual maximum** is the total dollar amount your insurance will pay toward covered dental services in one benefit year, typically January 1 through December 31. Once you hit that limit, you're responsible for all remaining costs at 100% out-of-pocket. There's no more coverage until the new benefit year begins. For more details, see our guide on [Dental Insurance Navigation](/article/dental-insurance-navigation.html).
+Your **annual maximum** is the total dollar amount your insurance will pay toward covered dental services in one benefit year, typically January 1 through December 31. Once you hit that limit, you're responsible for all remaining costs at 100% out-of-pocket. There's no more coverage until the new benefit year begins.
 
 Most plans reset benefits every calendar year, though some employers use different fiscal years. Check your benefits paperwork for your specific dates—missing this detail costs money if you schedule treatment in the wrong year.
 
@@ -101,11 +100,15 @@ The fundamental reality: dental insurance annual maximums don't provide comprehe
 
 Strategic planning—maximizing preventive care early in benefit year, splitting large treatments across years, supplementing with FSA/HSA, understanding plan specifics, and maintaining realistic expectations—helps navigate these limitations. Having honest conversations with your dentist about costs, priorities, and available options allows you to make informed decisions aligned with your financial capacity and dental health values.
 
+
+Related reading: [Dental Schools and Training](/article/dental-schools-and-training.html) and [Submitting Insurance Claims - Process Overview](/article/submitting-insurance-claims-process-overview.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about annual maximum benefits: understanding dental insurance or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Dental insurance annual maximums sound straightforward until you actually need significant dental work. Your dentist can help you understand what steps are right for your specific needs.
+
+> **Key Takeaway:** How annual maximums function, historical context of benefit stagnation, strategic treatment planning, and supplementation strategies to optimize coverage.
 
 ## Related Articles
 

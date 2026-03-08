@@ -22,12 +22,11 @@ references:
   - "Offenbacher S. Periodontal diseases: pathogenesis. Annals of Periodontology. 1996;1(1):821-878."
   - "Prasad P, et al. Comparative effectiveness of chlorhexidine and herbal mouthrinses. Journal of Indian Society of Periodontology. 2016;20(2):145-151."
 ---
-
-Finding the right mouthwash for your situation saves money and actually makes a difference. Problem is, with hundreds of products on the shelves, most people either grab whatever's cheapest or assume all mouthwash is basically the same. Here's how to match a rinse to what you actually need. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+Finding the right mouthwash for your situation saves money and actually makes a difference. Problem is, with hundreds of products on the shelves, most people either grab whatever's cheapest or assume all mouthwash is basically the same. Here's how to match a rinse to what you actually need.
 
 ## Picking the Right Rinse for Gum Problems
 
-If your gums bleed when you brush or your dentist says you have gingivitis, you need something that actually fights bacteria. Chlorhexidine 0.12% is the strongest option—it cuts plaque by 60-85% and reduces inflammation dramatically. But it causes staining in about half of users and can make food taste weird. Use it for 4-6 weeks to control the problem, then switch to something gentler. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+If your gums bleed when you brush or your dentist says you have gingivitis, you need something that actually fights bacteria. Chlorhexidine 0.12% is the strongest option—it cuts plaque by 60-85% and reduces inflammation dramatically. But it causes staining in about half of users and can make food taste weird. Use it for 4-6 weeks to control the problem, then switch to something gentler.
 
 Think of the chlorhexidine phase as intensive care. You're using the strongest tool to knock back the infection and inflammation quickly. Once inflammation is under control (your gums stop bleeding, swelling goes down, pockets become shallower), you transition to maintenance therapy.
 
@@ -109,11 +108,15 @@ Sensitive teeth? Potassium nitrate for 2-4 weeks minimum for results. Dry mouth?
 
 Look for the ADA Seal to know you're getting something evidence-based. Remember that mouthwash supports brushing and flossing, not replaces them. The best rinse is the one matched to your specific need that you'll actually use consistently. Ask your dentist which product they recommend for your situation—they often have samples and know which brands taste best to their patients.
 
+
+Related reading: [Fluoride Rinse Protocols](/article/fluoride-rinse-daily-rinse-vs-weekly-prescription.html) and [Mouth Rinse Benefits: Complete Guide](/article/mouth-rinse-benefits-complete-guide.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about your guide to mouthwash selection or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Finding the right mouthwash for your situation saves money and actually makes a difference. Your dentist can help you understand what steps are right for your specific needs.
+
+> **Key Takeaway:** Finding the right mouthwash for your situation saves money and actually makes a difference.
 
 ## Related Articles
 

@@ -32,7 +32,6 @@ references:
   - title: "Diagnostic Accuracy of Percussion and Palpation in Endodontic Diagnosis"
     url: https://pubmed.ncbi.nlm.nih.gov/19593849
 ---
-
 ## Sudden Tooth Pain: When a Root Canal Might Be Needed
 
 Spontaneous tooth pain—pain occurring without any obvious trigger—is one of the most reliable signs that a root canal might be needed. This pain typically appears in a tooth that's either recently had a cavity, has been recently treated, or sometimes seems to appear out of nowhere from a tooth that looked fine.

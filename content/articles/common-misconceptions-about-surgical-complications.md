@@ -20,7 +20,6 @@ references:
   - "Krafft TC, Hickel R. Abutment tooth complications from removable partial dentures. Compend Contin Educ Dent. 2001;22(7):545-553."
   - "Carmichael FA, McGowan DA. Incidence of nerve damage following third molar removal: a comparative study of different surgical techniques. J Oral Maxillofac Surg. 1992;50(11):1177-1179."
 ---
-
 If you're facing tooth extraction or oral surgery, you probably have questions and maybe some concerns about what could go wrong. The good news is that oral surgery complications happen less often than you might think, and most are easily managed. Let's look at what the actual risks are and how your dentist can prevent or handle them.
 
 ## Are Surgical Complications Really That Rare?
@@ -81,7 +80,7 @@ True permanent nerve damage is very rare. When it does happen (and we're talking
 
 While surgical complications can happen, they're generally uncommon, manageable, and usually temporary. The best approach is understanding realistic risks, following your dentist's pre- and post-operative instructions carefully, and staying in touch with your surgical team if anything concerns you. Most people heal beautifully and go back to normal function within a couple of weeks.
 
-> **Key Takeaway:** Understanding surgical risks and what actually happens after oral surgery helps you prepare better and know when to call your dentist.
+> **Key Takeaway:** If you're facing tooth extraction or oral surgery, you probably have questions and maybe some concerns about what could go wrong.
 
 ## Related Articles
 

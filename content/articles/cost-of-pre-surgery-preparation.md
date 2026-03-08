@@ -22,7 +22,6 @@ references:
   - "Ren L, Ng T, Mansur H, et al. Retrospective analysis of 122 patients with perioperative complications related to third molar extraction. Br Dent J. 2017;222(9):711-716."
   - "Miloro M, Peterson LJ. Peterson's Principles of Oral and Maxillofacial Surgery. 3rd ed. People's Medical Publishing House; 2012."
 ---
-
 ## Why Pre-Surgery Preparation Matters
 
 Before your dental surgery, your dentist needs to evaluate your health and plan your care carefully. Learning more about what to expect surgery can help you understand this better. This preparation prevents complications and helps your surgery go smoothly. Pre-op evaluation costs $50-$150 but prevents complications costing $500-$3,000.
@@ -121,22 +120,14 @@ Arrange time off work: Let your employer know you'll need 3-7 days off depending
 
 Prepare your recovery space: Set up a comfortable place where you can rest with your head elevated. Have your phone, TV remote, tablet, or books within reach. You won't feel like moving around much those first few days.
 
-## Questions to Ask Your Dentist
 
-When you visit your dentist, ask about pre surgery preparation and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
-
-
-For more information, see [Salivary Gland Surgery](/article/salivary-gland-surgery-removal-and-reconstruction.html) and [Post-Surgical Swelling Management and](/article/risk-and-concerns-with-swelling-reduction.html).
+Related reading: [Risk and Concerns with Oral Surgery Recovery Timeline](/article/risk-and-concerns-with-oral-surgery-recovery-timeline.html) and [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html).
 
 ## Conclusion
 
 Plan to spend $50-$500 on pre-surgery preparation depending on your health situation and surgery complexity. This preparation prevents serious complications and ensures your surgery goes smoothly. Don't skip this step—it's your insurance against complications. Your dentist will explain what preparation you need specifically and what costs to expect.
 
-> **Key Takeaway:** Learn what happens before dental surgery and how to prepare, including costs and what to expect.
+> **Key Takeaway:** Before your dental surgery, your dentist needs to evaluate your health and plan your care carefully.
 
 ## Related Articles
 

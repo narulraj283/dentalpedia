@@ -30,7 +30,6 @@ references:
   - title: "Remote Oral Assessment: Limitations and Future Directions in Teledentistry"
     url: https://pubmed.ncbi.nlm.nih.gov/31056298
 ---
-
 ## Welcome to Teledentistry
 
 Imagine being able to describe your dental concern to your dentist without leaving home, getting preliminary feedback quickly, and knowing whether you need an urgent appointment or can wait for routine scheduling. That's what virtual dental consultations offer. Using your computer or smartphone, you can connect with your dentist to discuss dental problems, share photos of your teeth, and get professional guidance about next steps.

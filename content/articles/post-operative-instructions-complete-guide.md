@@ -22,7 +22,6 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Post-Operative Instructions After Oral Surgery
 ---
-
 ## Complete Guide to Post-Operative Care After Oral Surgery
 
 Your success after dental surgery depends largely on what you do in the first week at home. This guide covers everything you need to know about caring for your mouth and managing discomfort as your surgical site heals.
@@ -103,14 +102,6 @@ Contact your dentist if:
 - Months 2-6: Bone healing continues
 - 6-12 months: Complete integration
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about post-operative instructions after oral surgery and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed post-operative instructions after oral surgery, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference in how long your results last.
@@ -126,14 +117,6 @@ If your dentist recommends treatment related to post-operative instructions afte
 Your dentist will explain each step before it happens so there are no surprises. If you feel nervous, let your dental team know. They can offer options to help you relax, including breaks during longer procedures. Many patients find that the anticipation is worse than the actual experience.
 
 After your appointment, your dentist will give you clear instructions for at-home care. Following these instructions closely gives you the best chance of a smooth recovery and great results.
-
-## When to Call Your Dentist
-
-After any dental procedure, it helps to know the difference between normal healing and something that needs attention. Some discomfort, mild swelling, and light bleeding are expected during the first day or two. These symptoms should gradually improve, not get worse.
-
-Contact your dentist right away if you notice heavy bleeding that doesn't stop with gentle pressure, increasing pain after the first two or three days, fever above 101 degrees, unusual swelling that keeps growing, or a bad taste in your mouth that doesn't go away with gentle rinsing. These could be signs of infection or other complications that need professional attention.
-
-Don't wait to reach out if something feels off. Your dental team would rather hear from you early than have a small problem turn into a bigger one. Most offices have after-hours instructions for urgent situations, so make sure you have that information before you leave your appointment.
 
 ## Tips for a Smooth Recovery
 

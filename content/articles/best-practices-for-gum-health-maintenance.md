@@ -22,12 +22,11 @@ references:
   - "O'Leary TJ, Drake RB, Naylor JE. The Plaque Control Record. J Periodontol. 2021;43(1):38-42."
   - "Socransky SS, Haffajee AD. Periodontal Microbial Ecology. Periodontol 2000. 2022;38:135-187."
 ---
-
-If you've been treated for gum disease, you're probably wondering what comes next. The good news is that after treatment, most people can keep their teeth if they follow a maintenance plan. But here's the thing: maintenance has to become a lifelong commitment. The teeth you save depend on what you do now. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+If you've been treated for gum disease, you're probably wondering what comes next. The good news is that after treatment, most people can keep their teeth if they follow a maintenance plan. But here's the thing: maintenance has to become a lifelong commitment. The teeth you save depend on what you do now.
 
 ## What Maintenance Really Means
 
-After gum disease treatment, you'll transition to "supportive periodontal therapy" or SPT. This fancy term basically means regular professional monitoring and cleaning tailored specifically to you. It's not the same as regular six-month cleanings for people without gum disease. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+After gum disease treatment, you'll transition to "supportive periodontal therapy" or SPT. This fancy term basically means regular professional monitoring and cleaning tailored specifically to you. It's not the same as regular six-month cleanings for people without gum disease.
 
 Your dentist determines how often you need to come back based on your individual situation. Some people need visits every four to six weeks. Others do fine coming every six months. Your risk level determines your schedule.
 
@@ -107,19 +106,8 @@ The investment you make now in maintenance prevents the much bigger problem of t
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+Related reading: [Halitosis Resolution Timeline: Oral Hygiene](/article/timeline-for-bad-breath-elimination.html) and [Water vs. Other Beverages for Teeth](/article/water-best-beverage-for-teeth.html).
 
 ## Conclusion
 

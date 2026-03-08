@@ -20,7 +20,6 @@ references:
   - Ten Cate JM. Review on fluoride, with special emphasis on calcium fluoride mechanisms in caries prevention. Archives of Oral Biology. 1999;44(12):1049-1055.
   - Cochrane NJ, et al. Quantifying fluoride concentration in plaque and enamel in relation to protection against caries. Journal of Dental Research. 2016;95(12):1357-1364.
 ---
-
 Fluoride seems controversial these days. Is it safe or toxic? Do we really need it? Is more fluoride always better? Let's look at what research actually shows about fluoride and cavity prevention.
 
 ## Myth: Fluoride Is Toxic and Dangerous
@@ -91,12 +90,6 @@ Stannous fluoride (0.4%, in certain products) has antimicrobial properties beyon
 
 Stannous can cause slight staining and taste issues in some people, which is why sodium fluoride is more common.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about fluoride benefits and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed fluoride benefits, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -105,7 +98,7 @@ Once you've addressed fluoride benefits, maintaining your results requires ongoi
 
 Fluoride is a safe, effective cavity-prevention tool, but it works best as part of a comprehensive approach including good oral hygiene, sensible diet, and professional care. Recommended fluoride levels vary by age to prevent fluorosis while maximizing cavity prevention. More fluoride isn't always better—recommended concentrations are optimal. For high-risk cavity patients, fluoride should definitely be part of your strategy. For low-risk patients, good habits matter more than fluoride supplementation.
 
-> **Key Takeaway:** Fluoride is safe and effective for preventing cavities—but more fluoride isn't always better, and it's not a substitute for other healthy habits.
+> **Key Takeaway:** Fluoride seems controversial these days. Is it safe or toxic?
 
 ## Related Articles
 

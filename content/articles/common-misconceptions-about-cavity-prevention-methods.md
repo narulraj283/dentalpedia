@@ -20,7 +20,6 @@ references:
   - "Gängler P, Sperling U, Hoffmann T, et al. (2023). Evaluation of plaque pH changes following rinsing with stannous fluoride solutions. Caries Research. 29(4):306-312."
   - "Sudjalim TR, Woods MG, Manton DJ. (2023). Prevention of white spot lesions in orthodontic practice: a contemporary review. Australian Dental Journal. 51(4):284-289."
 ---
-
 ## Brushing Alone Isn't Enough
 
 Here's the truth about brushing: it's important, but it's not enough by itself to prevent all cavities. Brushing removes plaque and some bacteria from your teeth, which is good. But it only reduces your cavity risk by about 35-45% if you're at low risk to begin with.
@@ -90,7 +89,7 @@ If you follow prevention strategies that aren't intense enough for your actual r
 
 Preventing cavities requires multiple strategies working together. Brushing and flossing are the foundation, but most people need fluoride and dietary awareness too. For higher-risk patients, additional interventions like sealants, professional fluoride treatments, and more frequent cleanings make the difference between success and failure.
 
-> **Key Takeaway:** Here's the truth about brushing: it's important, but it's not enough by itself to prevent all cavities.
+> **Key Takeaway:** Brushing removes plaque and some bacteria from your teeth, which is good. But it only reduces your cavity risk by about 35-45% if you're at low risk to begin with.
 
 ## Related Articles
 

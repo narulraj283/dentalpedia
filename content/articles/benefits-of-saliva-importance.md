@@ -20,14 +20,13 @@ references:
   - "Hara K, et al. Effect of antimicrobial compounds on caries. In: Newman MG, et al., eds. Carranza's Clinical Periodontology. 12th ed. Philadelphia: Mosby; 2015."
   - "Behrman SJ, et al. Medications and oral disease: a reference guide for oral health providers. J Am Dent Assoc. 1997;128:1481-1494."
 ---
-
 ## Saliva: Your Mouth's Best Friend
 
-Your saliva is far more important than you probably realize. It's not just "spit." Your body produces about one to one and a half liters of saliva every single day, and this fluid does five critical jobs that keep your mouth—and indirectly your overall health—working properly. Without adequate saliva, your teeth would decay rapidly, infections would spread easily, and eating and swallowing would become difficult. Understanding what saliva does helps you appreciate how precious it is, especially if health issues or medications threaten your saliva production. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+Your saliva is far more important than you probably realize. It's not just "spit." Your body produces about one to one and a half liters of saliva every single day, and this fluid does five critical jobs that keep your mouth—and indirectly your overall health—working properly. Without adequate saliva, your teeth would decay rapidly, infections would spread easily, and eating and swallowing would become difficult. Understanding what saliva does helps you appreciate how precious it is, especially if health issues or medications threaten your saliva production.
 
 ## Five Ways Saliva Protects Your Teeth and Mouth
 
-First, saliva buffers acids. When you eat something acidic or when cavity-causing bacteria produce acid as they metabolize sugar, your saliva contains chemical buffers (bicarbonate and phosphate) that neutralize that acid and restore your mouth to a healthy pH. This happens automatically and continuously. When saliva can't do its job, acids stay in your mouth longer, and cavities develop much more easily—about five to ten times more easily in people with severely reduced saliva. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+First, saliva buffers acids. When you eat something acidic or when cavity-causing bacteria produce acid as they metabolize sugar, your saliva contains chemical buffers (bicarbonate and phosphate) that neutralize that acid and restore your mouth to a healthy pH. This happens automatically and continuously. When saliva can't do its job, acids stay in your mouth longer, and cavities develop much more easily—about five to ten times more easily in people with severely reduced saliva.
 
 Second, saliva lubricates. The natural moisture lets you chew comfortably, swallow safely, and speak clearly. Without it, eating becomes painful, swallowing becomes difficult, and your mouth feels constantly dry and uncomfortable.
 
@@ -85,11 +84,16 @@ Saliva works around the clock protecting your teeth from cavities, your tissues 
 
 Dry mouth is treatable, and early intervention prevents serious complications. Your saliva is basically your mouth's superhero, keeping things healthy and comfortable automatically. Appreciate it, protect it, and seek help if anything threatens it.
 
+
+Related reading: [Plaque Staining Revealing Biofilm Location](/article/plaque-staining-revealing-biofilm-location.html) and [Flossing Guide: Techniques and Frequency](/article/flossing-guide-techniques-and-frequency.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Saliva performs five essential functions: buffering oral acids (preventing caries), lubricating (permitting comfortable function), antimicrobial protection (controlling infections), remineralization (strengthening teeth), and digestion initiation. If you have questions, your dentist can help you understand your options.
 
-> **Key Takeaway:** Your saliva is far more important than you probably realize. Your dentist can help you understand what steps are right for your specific needs.
+
+
+> **Key Takeaway:** Your saliva is far more important than you probably realize.
 
 ## Related Articles
 

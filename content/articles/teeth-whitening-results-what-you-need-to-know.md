@@ -32,7 +32,6 @@ references:
   - title: "Attin T, Hellwig E, Wiegand A, et al. Whitening strips (bleaching) - mode of action, effectiveness and side-effects. Operative Dentistry. 2006;31(1):25-30."
     url: https://pubmed.ncbi.nlm.nih.gov/16453255
 ---
-
 ## Introduction
 
 When you're considering teeth whitening, you probably want to know: How fast will I see results? How long will they last? What do I need to do to maintain them? This guide gives you straightforward answers about timelines, what to expect at each stage, and realistic strategies for keeping your smile bright.
@@ -102,12 +101,6 @@ Start with fluoride conditioning for 2-4 weeks before whitening—this strengthe
 After whitening, avoid pigmented foods and drinks for 48 hours while your enamel is still porous and vulnerable. Your teeth are more susceptible to staining immediately post-treatment.
 
 Use fluoride rinse twice daily for the first 2 weeks post-whitening. This helps remineralize your enamel and extends result longevity.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss teeth whitening results what you need to know, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## Tips for Long-Term Success
 

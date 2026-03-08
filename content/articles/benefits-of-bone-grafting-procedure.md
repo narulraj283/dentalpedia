@@ -20,12 +20,11 @@ references:
   - "Kasrai, L., Lalonde, O., & Chan, E. (2012). Vertical ridge augmentation using particulate bone grafts and titanium-reinforced membranes. Journal of Oral and Implant Surgery, 38(4), 401-410."
   - "Horwitz, J., Zuabi, O., & Peled, M. (2007). A clinical evaluation of a hydroxyapatite/poly-L-lactic acid composite material as a bone graft in the augmentation of the anterior maxilla. Journal of Periodontology, 78(2), 315-321."
 ---
-
 ## When You Don't Have Enough Bone
 
-Implants need bone to anchor into, just like tree roots need soil. If you've lost a tooth and waited too long, or if you had gum disease, the bone shrinks away. Without bone, you can't get implants. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
+Implants need bone to anchor into, just like tree roots need soil. If you've lost a tooth and waited too long, or if you had gum disease, the bone shrinks away. Without bone, you can't get implants.
 
-This is where bone grafting comes in. It's a procedure that rebuilds your bone so you can get implants. It transforms what seemed impossible into possible. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
+This is where bone grafting comes in. It's a procedure that rebuilds your bone so you can get implants. It transforms what seemed impossible into possible.
 
 ## From No Implants to Implants
 
@@ -123,27 +122,15 @@ Bone grafting saves teeth threatened by gum disease and improves denture fit for
 
 If you're missing teeth or planning extraction, ask your dentist about bone grafting. It might make the difference between dentures and implants—or between losing and keeping a tooth.
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
-
-*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+Related reading: [Cost of Pre-Surgery Preparation in Oral Surgery](/article/cost-of-pre-surgery-preparation.html) and [Graft Harvesting](/article/graft-harvesting-soft-tissue-source-selection.html).
 
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about your guide to bone grafting for implant placement and ridge or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Implants need bone to anchor into, just like tree roots need soil. Your dentist can help you understand what steps are right for your specific needs.
+
+> **Key Takeaway:** Implants need bone to anchor into, just like tree roots need soil.
 
 ## Related Articles
 

@@ -32,7 +32,6 @@ references:
   - title: "Post-Frenectomy Rehabilitation and Oral Motor Re-education in Infants"
     url: https://www.ncbi.nlm.nih.gov/pubmed/28901234
 ---
-
 ## What Is Lip Tie?
 
 Lip tie occurs when the tissue connecting your baby's upper lip to their gums (called the labial frenum) is too thick, too tight, or positioned too far forward. This tissue attachment restricts your baby's upper lip movement, which can interfere with breastfeeding, bottle feeding, or normal feeding development.
@@ -183,7 +182,7 @@ Cost for frenectomy (if not covered) ranges from $300-800 depending on facility 
 
 Lip tie is a condition where upper lip attachment restricts movement, potentially interfering with feeding. Not all anatomical lip ties require treatment—many babies feed normally despite restricted anatomy. Conservative management (positioning, lactation support) should precede surgery when possible. When frenectomy is indicated, modern procedures are quick, safe, and effective. Working with a multidisciplinary team ensures comprehensive evaluation and optimal outcomes for your baby's feeding and development.
 
-> **Key Takeaway:** Lip tie can restrict lip movement and affect feeding.
+> **Key Takeaway:** Lip tie occurs when the tissue connecting your baby's upper lip to their gums (called the labial frenum) is too thick, too tight, or positioned too far forward.
 
 ## Related Articles
 

@@ -19,7 +19,6 @@ subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
 title: Dental Sedation for Anxious Kids - Options and Safety
 ---
-
 ## What Is Sedation and Why Kids Need It
 
 Dental sedation helps children who are afraid of the dentist get the treatment they need. Sedation creates a calm, relaxed state so kids can cooperate during treatment. Some kids are so anxious about dentistry that they avoid treatment until problems become serious. Sedation helps these kids get necessary care while minimizing their fear.
@@ -74,14 +73,6 @@ Your dentist will make recommendations based on your child's specific situation,
 ## Cost and Insurance
 
 Sedation costs more than non-sedated treatment because it requires extra training, equipment, and monitoring. However, sedation often allows the dentist to complete necessary treatment in fewer appointments. Insurance coverage varies—ask your insurance company about their policy.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about dental sedation for anxious kids - options and safety and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

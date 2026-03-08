@@ -20,14 +20,13 @@ references:
   - "Selwitz RH, Ismail AI, Pitts NB. Dental caries. Lancet. 2023;369(9555):51-59."
   - "Zero DT, Fontana M. Establishing the prevalence, extent, and characteristics of dental erosion. Adv Dent Res. 2020;32(1):17-25."
 ---
-
 ## Stop Decay Before It Starts
 
-The best dental care is the kind that prevents problems in the first place. Preventing cavities and gum disease beats treating them—it's faster, cheaper, and way less stressful. Research shows that structured prevention cuts decay risk by 60-85% in people who stick with it. Here's what actually works, explained in plain language. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+The best dental care is the kind that prevents problems in the first place. Preventing cavities and gum disease beats treating them—it's faster, cheaper, and way less stressful. Research shows that structured prevention cuts decay risk by 60-85% in people who stick with it. Here's what actually works, explained in plain language.
 
 ## Know Your Risk Level
 
-Your dentist isn't just being cautious when they assess your decay risk. Some folks naturally have higher risk due to diet, brushing habits, or even medications. Understanding where you fall helps your dentist create a plan that makes sense for you. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+Your dentist isn't just being cautious when they assess your decay risk. Some folks naturally have higher risk due to diet, brushing habits, or even medications. Understanding where you fall helps your dentist create a plan that makes sense for you.
 
 **Low risk?** You have great brushing habits, don't snack on sugary foods much, and have healthy gums. You're probably fine with checkups every 12 months.
 
@@ -101,26 +100,14 @@ Meanwhile, preventive fluoride treatments cost $30-50. Sealants cost $30-50 per 
 
 Consider this: $600 annually for preventive care (two cleanings, two fluoride treatments, 8-12 sealants if a child). Over 10 years, that's $6,000. Compare that to one patient who skips prevention: one cavity ($200), progresses to root canal ($2,500), tooth fails and needs extraction + implant ($4,000), plus years of complications. Total: $6,700 for one tooth, and they might have six affected teeth. The choice between prevention and treatment isn't about money—it's about quality of life, time spent in the dentist's chair, and not losing teeth.
 
-## Questions to Ask Your Dentist
 
-Before leaving your preventive appointment, clarify these points:
-
-- What's my specific decay risk based on my history and current habits?
-- Which preventive measures are essential for me versus optional?
-- Should I use prescription-strength fluoride, or is toothpaste sufficient?
-- Are sealants recommended for my back teeth?
-- How often should I return for checkups and cleaning?
-- Are there any dietary changes that would significantly help my prevention?
-- If I have dry mouth, what's the best treatment for my situation?
-- What are the earliest signs of decay I should watch for between visits?
-- Is my toothbrushing technique correct, or should I adjust my method?
-- Should I consider additional preventive products beyond toothpaste and floss?
+Related reading: [Common Misconceptions About Mouthwash Selection](/article/common-misconceptions-about-mouthwash-selection.html) and [Cost of Cavity Prevention Methods](/article/cost-of-cavity-prevention-methods.html).
 
 ## Conclusion
 
 Prevention—through fluoride, sealants, smart eating, excellent home care, and regular checkups—stops cavities before they develop. Understanding your personal risk level and following a customized prevention plan is far more effective (and cheaper) than treating problems after they occur.
 
-> **Key Takeaway:** Stop cavities with proven prevention: fluoride, sealants, good brushing, smart eating, and routine checkups tailored to your personal risk level.
+> **Key Takeaway:** The best dental care is the kind that prevents problems in the first place.
 
 ## Related Articles
 

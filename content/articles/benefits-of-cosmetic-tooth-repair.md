@@ -20,14 +20,13 @@ references:
   - "Kokich VG. Esthetics: the orthodontic-restorative connection. Semin Orthod. 1996;2(1):21-30."
   - "Naoum S. An overview of the surface pretreatment of porcelain and zirconia: The current knowledge. Saudi Dent J. 2010;22(2):71-78."
 ---
-
 ## When Teeth Break: You Have Options
 
-A chipped or broken front tooth feels like a crisis—and emotionally, it kind of is. Your front teeth are visible, and suddenly your smile looks different. The good news? Modern dentistry offers several ways to fix this, and many of them are faster and less invasive than you'd expect. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
+A chipped or broken front tooth feels like a crisis—and emotionally, it kind of is. Your front teeth are visible, and suddenly your smile looks different. The good news? Modern dentistry offers several ways to fix this, and many of them are faster and less invasive than you'd expect.
 
 ## Understanding How Bad the Damage Is
 
-Not all tooth chips are the same. Dentists use something called the Ellis classification to describe the damage. This helps your dentist figure out the best way to fix it. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
+Not all tooth chips are the same. Dentists use something called the Ellis classification to describe the damage. This helps your dentist figure out the best way to fix it.
 
 If only the hard outer enamel is chipped, that's the mildest form of damage. You probably won't have pain. Your dentist can smooth it and maybe add a little bonded composite if needed.
 
@@ -85,19 +84,8 @@ The great news is that broken teeth, when properly repaired, work just fine for 
 
 The timeline for different repairs varies: bonding might last 5-7 years before needing refresh, reattached pieces often last 5+ years, and veneers typically last 10-20 years. Over time, you might need some touchup work, but that's normal.
 
-## Questions to Ask Your Dentist
 
-Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
-
-- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
-- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
-- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
-- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
-- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
-
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
-
-Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+Related reading: [Smile Enhancement Options: Complete Guide for Dentists](/article/smile-enhancement-options-complete-guide.html) and [Integrated Orthodontic-Cosmetic Treatment: Sequencing](/article/combined-ortho-and-cosmetic-approach-best-results.html).
 
 ## Conclusion
 

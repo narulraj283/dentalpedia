@@ -20,14 +20,13 @@ references:
   - "Iwakura, M., Yasuno, Y., Shimura, M., & Sakuma, S. (2015). Transient halitosis—predicting factors and characteristics. Journal of Dental Research, 73(6), 1421-1430."
   - "Tangerman, A. (2018). Halitology: a review of the scientific literature on oral malodor. Journal of Breath Research, 6(2), 027119."
 ---
-
 ## What Causes Bad Breath?
 
 Bad breath—the medical term is halitosis—affects about 1 in 4 people. It's more than just embarrassing. It can actually affect your relationships, your confidence at work, and how you feel about yourself.
 
-The good news? Getting rid of bad breath provides real benefits to your health and quality of life. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+The good news? Getting rid of bad breath provides real benefits to your health and quality of life.
 
-Bad breath usually comes from bacteria in your mouth or gums. Sometimes it signals an issue with your digestive system or another health problem. Your dentist can help figure out what's causing it and fix it. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+Bad breath usually comes from bacteria in your mouth or gums. Sometimes it signals an issue with your digestive system or another health problem. Your dentist can help figure out what's causing it and fix it.
 
 ## Healthier Gums Mean Better Breath
 
@@ -117,11 +116,15 @@ Common causes like dry mouth, poor brushing technique, and tobacco use are contr
 
 Most importantly, treating bad breath often motivates you to keep better oral care habits for life. If you're struggling with bad breath, talk to your dentist. Getting treatment isn't just about smelling better—it's about living better. The investment in fixing your breath pays off in confidence, relationships, and long-term oral health.
 
+
+Related reading: [Lichen Planus: Understanding Your Mouth Condition](/article/lichen-planus-autoimmune-oral-condition.html) and [Common Misconceptions About Oral Surgery Recovery](/article/common-misconceptions-about-oral-surgery-recovery-timeline.html).
+
 ## Conclusion
 
-Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+Whether you're just learning about halitosis treatment and bad breath elimination: what or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
 
-> **Key Takeaway:** Bad breath—the medical term is halitosis—affects about 1 in 4 people. Your dentist can help you understand what steps are right for your specific needs.
+
+> **Key Takeaway:** Bad breath—the medical term is halitosis—affects about 1 in 4 people. It's more than just embarrassing.
 
 ## Related Articles
 

@@ -20,7 +20,6 @@ references:
   - "Cury PR, Rebello de Oliveira AR, de Faria MD. Relationship between the level of alveolar crestal bone and gingival inflammatory status. J Clin Periodontol. 2006;33(8):574-580."
   - "Bartold PM, Marshall RI, Haynes DR. Periodontitis and rheumatoid arthritis: emerging therapeutic opportunities. Nat Rev Rheum. 2005;1(4):218-229."
 ---
-
 When you look at your teeth, you can see what's above the gum line, but the structure below is equally important. The bone supporting your teeth can gradually shrink and recede, a condition called crestal bone loss. This bone loss is one of the clearest signs of gum disease and is a major concern that needs to be addressed. Let's explore what causes it, how dentists detect it, and what you can do about it.
 
 ## What Is Crestal Bone Loss?
@@ -81,7 +80,7 @@ Stress management, adequate sleep, and a healthy diet all support your immune sy
 
 Crestal bone loss is a serious consequence of gum disease, but it's often preventable with good home care and regular professional attention. When it does occur, early detection and aggressive treatment can stop progression and sometimes allow some bone recovery. The key is catching it early and committing to consistent professional care and excellent home maintenance. Your teeth depend on healthy bone—protecting that bone should be a priority.
 
-> **Key Takeaway:** Pathophysiology of alveolar crest resorption, diagnostic imaging, and therapeutic intervention strategies.
+> **Key Takeaway:** When you look at your teeth, you can see what's above the gum line, but the structure below is equally important.
 
 ## Related Articles
 

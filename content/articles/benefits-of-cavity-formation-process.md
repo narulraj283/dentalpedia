@@ -20,16 +20,15 @@ references:
 subcategory: General Overview
 subcategory_slug: overview-general
 ---
-
 ## The Recipe for Cavities: Three Ingredients
 
 Cavities don't just happen randomly. A dentist named Paul Keyes figured out in the 1960s that cavities need three specific things at the same time. Think of it like baking a cake—you need eggs, flour, and sugar, or it won't work.
 
-For cavities, you need: (1) bacteria in your mouth that produce acid, (2) sugar or other carbohydrates for those bacteria to eat, and (3) a tooth that's susceptible to damage. If you eliminate any one of these three, you won't get cavities. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+For cavities, you need: (1) bacteria in your mouth that produce acid, (2) sugar or other carbohydrates for those bacteria to eat, and (3) a tooth that's susceptible to damage. If you eliminate any one of these three, you won't get cavities.
 
 But there's a twist: time matters too. You can't get a cavity instantly. It takes sustained exposure over time for the damage to accumulate.
 
-Plus, your saliva and fluoride work against cavities, so they're kind of like your body's shield against the attack. The real equation is: cavity risk = (bacteria × sugar × susceptible tooth × time) minus (your protective factors like saliva and fluoride). For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
+Plus, your saliva and fluoride work against cavities, so they're kind of like your body's shield against the attack. The real equation is: cavity risk = (bacteria × sugar × susceptible tooth × time) minus (your protective factors like saliva and fluoride).
 
 ## How Bacteria Make Acid That Attacks Your Teeth
 
@@ -79,17 +78,20 @@ Understanding your personal risk factors—maybe you have dry mouth, or maybe yo
 
 Cavity formation is the result of bacterial acid beating your body's defenses. You prevent cavities by: (1) limiting how often bacteria get sugar to ferment, (2) boosting your saliva's repair efforts through fluoride and good hydration, (3) removing plaque regularly through brushing and flossing, and (4) visiting the dentist for professional help. Understanding this process helps you make smarter decisions about food and oral hygiene.
 
+
+Related reading: [Managing Tooth Sensitivity: Why Your Teeth Hurt](/article/hydrodynamic-theory-sensitivity-explanation.html) and [Cavities Explained](/article/tooth-decay-prevention-causes-and-treatment.html).
+
 ## Conclusion
 
 Cavities form through a predictable process: bacteria ferment sugar, create acid, and dissolve your tooth structure. You prevent cavities by limiting how often bacteria get sugar, supporting your saliva and fluoride defenses, removing plaque regularly, and getting professional help tailored to your risk level. The good news is that cavity formation is highly preventable when you understand what causes it.
 
-> **Key Takeaway:** Cavities form when bacteria produce acid that damages your teeth. Understanding this process explains why prevention strategies work so well.
+> **Key Takeaway:** Cavities don't just happen randomly. A dentist named Paul Keyes figured out in the 1960s that cavities need three specific things at the same time.
 
 ## Related Articles
 
 - [Bad Breath Elimination: Complete Guide](/article/bad-breath-elimination-complete-guide.html)
 - [Mouth Injuries: What You Need to Know](/article/mouth-injuries-treatment-what-you-need-to-know.html)
 - [CBCT Imaging: Advanced 3D X-Ray Technology](/article/cbct-imaging-advanced-3d-x-ray-technology.html)
-- [Cognitive Decline and Oral Care: Clinical Challenges,](/article/cognitive-decline-oral-care-challenges.html)
+- [Cognitive Decline and Oral Care: Clinical Challenges](/article/cognitive-decline-oral-care-challenges.html)
 - [Acute Dental Pain Management and Emergency Endodontic](/article/best-practices-for-emergency-tooth-pain.html)
 

@@ -14,7 +14,6 @@ references:
   - "Tufekci E, Naveh RS, Chigurupati R, Forth P. Prevalence of white spot lesions during orthodontic treatment with fixed appliances. Angle Orthod. 2011;81(2):206-210."
   - "Chapman JL, Acheson DW, Higgs JD. White spot lesion formation and remineralization in orthodontics: a systematic review. J Orthod. 2010;37(4):209-218."
 ---
-
 ## The Problem Everyone Gets During Braces: White Spots
 
 White spots appear on the teeth of 15-85% of people wearing braces—that's a huge range, and the difference comes down to how well you care for your teeth. Learning more about [Deep Bite Correction Overlapping Front Teeth](/article/deep-bite-correction-overlapping-front-teeth.html) can help you understand this better. These chalky white patches usually appear around the bracket edges, especially near the gum line, and they represent permanent damage to your enamel caused by cavity-forming bacteria.
@@ -71,7 +70,7 @@ Limiting sugar and acidic beverage exposure to meal times prevents the constant 
 
 Talk to your orthodontist about creating a white spot prevention plan tailored to your individual risk factors and what options are available at your practice.
 
-> **Key Takeaway:** How to prevent permanent white spot lesions on your teeth while wearing braces.
+> **Key Takeaway:** White spots appear on the teeth of 15-85% of people wearing braces—that's a huge range, and the difference comes down to how well you care for your teeth.
 
 ## Related Articles
 

@@ -32,7 +32,6 @@ references:
   - title: "Patient satisfaction and esthetic perception in gummy smile treatment outcomes"
     url: https://www.ncbi.nlm.nih.gov/pubmed/24713296
 ---
-
 If you show a lot of gum when you smile, you're not alone. About 1 in 10 people experience what's commonly called a "gummy smile." The good news? There are several treatment options available to help you achieve the smile you want. Your gummy smile might be caused by different factors—your jaw shape, where your teeth sit, or how your upper lip moves when you smile. Understanding what's causing your specific situation is the first step toward choosing the right solution.
 
 ## What Causes a Gummy Smile?
@@ -90,7 +89,7 @@ Your gummy smile doesn't have to be a concern anymore. Modern dentistry offers s
 
 ## Related Articles
 
-- [Gingival Recontouring Techniques: Crown Lengthening,](/article/timeline-for-cosmetic-gum-shaping.html)
+- [Gingival Recontouring Techniques: Crown Lengthening](/article/timeline-for-cosmetic-gum-shaping.html)
 - [Veneer Installation Protocol](/article/best-practices-for-veneer-installation-steps.html)
 - [Cosmetic Tooth Repair: Complete Guide](/article/cosmetic-tooth-repair-complete-guide.html)
 - [Cosmetic Bonding for Diastemas](/article/cosmetic-bonding-for-gaps-between-teeth.html)

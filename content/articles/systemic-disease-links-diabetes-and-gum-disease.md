@@ -32,7 +32,6 @@ references:
   - title: "Mealey BL, Oates TW. Diabetes mellitus and periodontal diseases. Journal of Periodontology. 2006;77(8):1289-1303."
     url: https://pubmed.ncbi.nlm.nih.gov/16881798
 ---
-
 ## Why Your Blood Sugar and Gum Health Are Connected
 
 If you have diabetes, you've probably heard that it affects your whole body—but did you know your gums are on that list? The relationship between diabetes and gum disease goes both ways: high blood sugar damages your gums, and gum disease can make your blood sugar harder to control. It's like a two-way street where problems in one direction make problems in the other worse.

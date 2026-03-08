@@ -14,7 +14,6 @@ references:
   - "Shillingburg HT, Hobo S, Whitsett LD, et al. Fundamentals of Fixed Prosthodontics. 4th ed. Quintessence; 2012:145-198."
   - "Burke FJ, Fleming GJ, Lynch E. Restoration of the endodontically treated tooth. Dent Update. 2002;29(7):347-354."
 ---
-
 You've been told you need a crown, and your dentist mentioned something about a "core buildup" or "foundation buildup." You might be wondering: what is that, and why do I need it? The short answer is this: a core buildup is like creating a foundation for a house. You wouldn't build a house directly on crumbling earth, right? The same principle applies to your teeth. If your tooth has lost a lot of structure from decay, old fillings, or root canal treatment, building up a strong foundation first makes your crown last 20-30 years instead of 5-10.
 
 ## What is a Core Buildup and Why You Might Need One
@@ -79,7 +78,7 @@ The investment in a quality buildup and crown at the beginning pays dividends in
 
 A core buildup is essentially insurance for your crown's longevity. It provides the solid foundation that allows your crown to function perfectly and last decades. Yes, it adds to the overall cost of crown treatment, but it's a worthwhile investment that prevents much more expensive problems down the road. Your dentist will explain your specific situation and recommend the best approach for your tooth.
 
-> **Key Takeaway:** Learn what a core buildup is and why your dentist recommends it before placing a crown. A strong foundation ensures your crown lasts for decades.
+> **Key Takeaway:** You've been told you need a crown, and your dentist mentioned something about a "core buildup" or "foundation buildup." You might be wondering: what is that, and why do I need it?
 
 ## Related Articles
 
@@ -87,5 +86,5 @@ A core buildup is essentially insurance for your crown's longevity. It provides 
 - [Common Misconceptions About Crown vs Bridge Decision](/article/common-misconceptions-about-crown-vs-bridge-decision.html)
 - [Essential Questions for Treatment Plan Review Before](/article/treatment-plan-review-questions.html)
 - [Why Early Cavity Detection Matters in Modern Dentistry](/article/why-cavity-diagnosis-process-matters.html)
-- [Cognitive Behavioral Therapy for Dental Anxiety:](/article/cognitive-behavioral-therapy-for-dental-fear.html)
+- [Cognitive Behavioral Therapy for Dental Anxiety](/article/cognitive-behavioral-therapy-for-dental-fear.html)
 

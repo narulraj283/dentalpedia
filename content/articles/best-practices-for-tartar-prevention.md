@@ -20,14 +20,13 @@ references:
   - "Van der Weijden FA, et al. Effective oral plaque control: is the manual or electric toothbrush superior? Br Dent J. 2015;218(3):143-146."
   - "Kashani HH, et al. Relationship between salivary characteristics and common denture-associated oral diseases. J Prosthet Dent. 2012;108(5):325-333."
 ---
-
 ## How Tartar Forms: The Bacterial Process
 
-Tartar (dental calculus) starts as bacterial plaque—slimy biofilm communities growing on your teeth. Biofilm forms within 4 hours of brushing and becomes fully established within 24-48 hours. Once it solidifies into tartar, brushing alone can't remove it; only professional scraping helps. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
+Tartar (dental calculus) starts as bacterial plaque—slimy biofilm communities growing on your teeth. Biofilm forms within 4 hours of brushing and becomes fully established within 24-48 hours. Once it solidifies into tartar, brushing alone can't remove it; only professional scraping helps.
 
 Tartar forms when your saliva's minerals (calcium and phosphate) harden the plaque. This happens over 48-72 hours and is permanent. Below the gumline, tartar forms from blood proteins rather than saliva.
 
-This subgingival tartar sticks harder and is more damaging—it harbors disease-causing bacteria. About 15-20% of people are heavy tartar formers (buildup in 2-4 weeks), 50-60% are normal formers (4-12 weeks), and 20-30% are light formers (rarely see tartar). This variation is mainly genetic and chemical, not behavioral. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+This subgingival tartar sticks harder and is more damaging—it harbors disease-causing bacteria. About 15-20% of people are heavy tartar formers (buildup in 2-4 weeks), 50-60% are normal formers (4-12 weeks), and 20-30% are light formers (rarely see tartar). This variation is mainly genetic and chemical, not behavioral.
 
 ## Brushing: The Foundation of Prevention
 
@@ -149,11 +148,8 @@ When you visit for cleaning, your dentist might use ultrasonic scaling (vibratin
 
 If you have sensitivity to ultrasonic vibrations or discomfort, mention it. Your dentist can adjust power settings, use local anesthetic, or use alternative techniques. Comfortable, thorough cleaning has better outcomes than rapid cleanup leaving you dreading next visit.
 
-## Questions to Ask Your Dentist
 
-"Am I a heavy, normal, or light tartar former?" "Based on my formation rate, what's the ideal recall interval for me?" "Are there specific techniques I should use given my tooth anatomy or recession risk?" "What's the single most impactful thing I could change in my home care?" "Do I need any antimicrobial rinses or supplementary care?" "How should I know if gum disease is developing despite my efforts?"
-
-**Related articles:** How to brush your teeth correctly | Why flossing matters | Gum disease prevention basics
+Related reading: [Tartar Control Toothpaste: Ingredients, Mechanisms](/article/tartar-control-toothpaste-ingredients-and-effectiveness.html) and [Alcohol-Free Mouthwash Benefits and Clinical Selection](/article/alcohol-free-mouthwash-benefits-oral-health-and-safety.html).
 
 ## Conclusion
 

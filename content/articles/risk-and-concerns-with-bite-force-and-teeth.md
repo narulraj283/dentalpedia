@@ -42,7 +42,6 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: Risk and Concerns with Bite Force and Teeth
 ---
-
 ## How Bite Force Affects Your Teeth: Understanding Damage and Protection
 
 Your teeth work harder than you might realize. Every time you chew, bite, or clench, your teeth experience forces that could potentially damage them if they become too strong. Most people think teeth need to handle only eating, but habits like grinding your teeth at night or clenching your jaw during stress can cause serious problems over time. Understanding how bite force works and what damages your teeth is the first step toward protecting your smile.
@@ -111,13 +110,16 @@ If you have dental implants, grinding and clenching become even more concerning.
 
 This direct force transfer means implants in people with untreated grinding habits fail at much higher rates than implants in people without grinding problems. Some research suggests that people with active bruxism have two to three times higher implant failure rates. If you need dental implants and you grind your teeth, you absolutely must discuss this with your dentist and wear a nightguard consistently.
 
-For people with crowns, bridges, or other restorations, grinding can damage the restoration or the tooth underneath it. Your dentist needs to know about your grinding habit when planning any restorations, because they may recommend stronger materials or design the restoration differently to better distribute biting forces. Learn more about [How Different Bite Problems Affect Your Overall Mouth](/article/risk-and-concerns-with-bite-problems-explained.html). Learn more about protecting your bite with restorations to understand how to maintain restorations with parafunction.
+For people with crowns, bridges, or other restorations, grinding can damage the restoration or the tooth underneath it. Your dentist needs to know about your grinding habit when planning any restorations, because they may recommend stronger materials or design the restoration differently to better distribute biting forces. Learn more about protecting your bite with restorations to understand how to maintain restorations with parafunction.
 
 ## Sleep Apnea and Grinding: An Important Connection
 
 Recent research has discovered that grinding and clenching are often connected to sleep apnea, a serious sleep disorder where your breathing stops and starts repeatedly during sleep. About half of people with sleep apnea also grind their teeth, and many people with grinding problems have undiagnosed sleep apnea. This connection suggests that grinding might actually be your body's way of trying to open your airway during sleep.
 
 If you grind your teeth severely, ask your doctor about sleep apnea screening. Sleep apnea is serious and requires treatment, but the good news is that treating your sleep apnea might actually reduce or eliminate your grinding problem. Testing for sleep apnea is straightforward and could help explain your grinding habit while improving your overall health.
+
+
+Related reading: [Common Misconceptions About Filling Material Selection](/article/common-misconceptions-about-filling-material-selection.html).
 
 ## Conclusion
 

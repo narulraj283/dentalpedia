@@ -18,7 +18,6 @@ references:
   - title: "Moynihan PJ, Kelly SA. Effect on caries of restricting sugars intake: systematic review to inform WHO guidelines. Journal of Dental Research. 2014;93(1):8-18."
     url: https://pubmed.ncbi.nlm.nih.gov/24165943
 ---
-
 ## Introduction
 
 Cavities are one of the most common health problems, but here's the good news: they're completely preventable. Unlike many dental issues that sneak up on you, cavities are something you can stop before they ever start. This guide walks you through proven prevention methods that work—using fluoride, protective sealants, making smart choices about what you eat and drink, and keeping your mouth's natural defense system strong. Whether you're a parent protecting your child's smile or looking to keep your own teeth cavity-free, these evidence-based strategies will help you succeed.

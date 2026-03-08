@@ -32,7 +32,6 @@ references:
   - title: "Backes JR, Bentley JC, Politi JR, et al. The effectiveness of preoperative instruction and postoperative telephone contact on reducing postoperative pain after spinal surgery. Spine. 2012;37(18):E1128-E1135."
     url: https://pubmed.ncbi.nlm.nih.gov/22648048
 ---
-
 ## What Pain to Expect After Oral Surgery
 
 Understanding what's normal helps you manage pain effectively and know when to call your dentist. After most dental surgical procedures, you can expect some degree of discomfort—this is completely normal and means your body is healing. Simple tooth extractions usually produce mild-to-moderate pain that peaks within the first 12 to 24 hours, then gradually improves. More complex surgeries like wisdom tooth removal cause more significant pain, often peaking at 24 to 48 hours.

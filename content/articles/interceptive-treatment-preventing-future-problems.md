@@ -18,7 +18,6 @@ references:
   - title: "Palatal expansion and early jaw development"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26439738
 ---
-
 If your orthodontist suggests your child start braces in elementary school, don't be surprised—and don't assume it means problems are more severe than you thought. Early orthodontic treatment, also called interceptive treatment or Phase One, can actually prevent serious problems from developing. Starting early often means shorter, simpler treatment later, saving time and sometimes money overall.
 
 ## What Is Interceptive Orthodontic Treatment?

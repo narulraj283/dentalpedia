@@ -32,7 +32,6 @@ references:
   - title: "Khurana R, et al. Digital smile design and its multidisciplinary approach: A clinical review. J Prosthet Dent Implant. 2017;5(2):77-83."
     url: https://pubmed.ncbi.nlm.nih.gov/29376049
 ---
-
 ## Understanding Your Crown Options
 
 When you're considering a cosmetic crown, your dentist needs to explain the materials available and what each one means for your tooth. A crown is a cap that covers your entire tooth after it's prepared (shaped down). There are several material choices, and each has pros and cons. The challenge is balancing how good your crown looks with how long it will last and how strong it needs to be. Your tooth location (front or back), your bite force, and whether you grind your teeth all matter when choosing the right material for you.

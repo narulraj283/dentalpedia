@@ -32,7 +32,6 @@ references:
   - title: "Friedman S. Prognosis of initial endodontic therapy. Endod Top. 2002;2(1):59-88."
     url: https://pubmed.ncbi.nlm.nih.gov/17119402
 ---
-
 Inside your tooth is living tissue—the pulp—containing blood vessels and nerves that keep your tooth vital. When this tissue dies, your tooth becomes "necrotic." Understanding what causes this and how it's treated helps you make informed decisions about your dental health.
 
 ## What Is Pulp Necrosis?
@@ -96,14 +95,6 @@ A small periapical abscess on a front tooth has 92-95% success probability. A la
 ## Prevention
 
 Preventing pulp necrosis starts with controlling cavities through brushing, flossing, and regular professional care. Protecting your teeth from trauma through mouthguards during sports helps prevent traumatic necrosis. Dental work should use water cooling during preparation to prevent thermal injury.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about dead nerve tissue: pulp necrosis and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

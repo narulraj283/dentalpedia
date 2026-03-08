@@ -45,7 +45,6 @@ subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Periodontal Ligament Tooth Attachment System
 ---
-
 ## What Is the Periodontal Ligament?
 
 The periodontal ligament (PDL) is a specialized connective tissue that holds your tooth in its socket. It's a narrow space—usually less than half a millimeter thick in healthy teeth—between the tooth root and the bone of your jaw. Despite its small size, the PDL performs multiple critical functions: it anchors your tooth in bone while allowing some movement, provides feedback about how hard you're biting, and repairs itself after injury with remarkable efficiency.

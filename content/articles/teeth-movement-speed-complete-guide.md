@@ -32,7 +32,6 @@ references:
   - title: "Iwasaki LR, Haack JE, Nickel JC, Gonzales C, Deslauriers D. Human tooth movement in response to continuous stress and cyclic loading. Proc Finn Dent Soc. 1992;88(Suppl 1):199-205."
     url: https://pubmed.ncbi.nlm.nih.gov/1508896
 ---
-
 ## What Controls How Fast Your Teeth Move
 
 The rate at which your teeth move during orthodontic treatment varies significantly depending on many interdependent biological, mechanical, and systemic factors. Understanding these factors helps you understand your treatment timeline and set realistic expectations.
@@ -102,12 +101,6 @@ Teeth in surgically treated regions move 2-3 times faster during this period. Ho
 Experienced clinicians integrate multiple variables to predict timelines. A teenager with ideal bone, excellent compliance, and no confounding medications might complete comprehensive treatment in 18-24 months. An older adult on systemic medications with compromised periodontium might require 30-36 months for similar treatment scope.
 
 Regular assessment during treatment allows clinicians to adjust expectations. If movement exceeds predictions, earlier completion becomes feasible. If movement stagnates, modifications diagnose and correct the issue.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss teeth movement speed complete guide, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

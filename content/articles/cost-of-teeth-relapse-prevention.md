@@ -20,7 +20,6 @@ references:
   - "Haas AJ. Retention and relapse: A review of causes and treatment. Am J Orthod. 1980;77(4):380-391."
   - "Seo YJ, Jiang JH, Koh KS, et al. Factors affecting the relapse of anterior tooth alignment after fixed appliance therapy. Angle Orthod. 2016;76(6):954-960."
 ---
-
 ## Why Teeth Want to Shift Back
 
 After your braces come off, your teeth want to return to their original positions. This is called relapse, and it happens to 80 to 90 percent of patients without retention. Here's why: your periodontal ligament—the fibers holding your tooth to your bone—remembers the original position. When you remove the braces, these fibers gradually try to pull teeth back toward their starting location.
@@ -75,11 +74,14 @@ Visit your orthodontist every 6 to 12 months during the first few years after de
 
 Professional monitoring is especially important during the first 6 to 12 months when relapse risk is highest. After 2 to 3 years of stable retention, you might reduce visits to once yearly. Long-term monitoring ensures your investment in braces stays protected.
 
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
 Retainers are non-negotiable if you want to keep your teeth straight. Bonded retainers cost $100 to $200 and work permanently but require occasional repairs. Removable retainers cost $100 to $300 and require nightly wear but are convenient for eating. Plan for lifetime retention costs of $1,500 to $3,000 to protect your $3,000 to $7,000 orthodontic investment.
 
-> **Key Takeaway:** Learn why retainers are essential after braces and how to keep your teeth straight for life.
+> **Key Takeaway:** After your braces come off, your teeth want to return to their original positions.
 
 ## Related Articles
 

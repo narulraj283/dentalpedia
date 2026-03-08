@@ -42,7 +42,6 @@ subcategory: Nutrition Overview
 subcategory_slug: overview-nutrition
 title: Refined vs Complex Carbohydrates and Tooth Decay
 ---
-
 ## Your Teeth and the Sugar Problem
 
 You probably know that sugar is bad for your teeth, but here's something that might surprise you: eating 100 grams of sugar all at once is actually less harmful to your teeth than spreading that same 100 grams throughout the day in small snacks. Weird, right? It's not about how much sugar you eat—it's about how often your teeth are exposed to it. Your mouth has natural defense systems, and understanding how these work can help you make better food choices.

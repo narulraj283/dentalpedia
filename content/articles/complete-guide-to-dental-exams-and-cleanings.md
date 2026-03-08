@@ -22,7 +22,6 @@ references:
   - "Cagetti et al. Dental Sealants: A Systematic Review and Meta-Analysis. Journal of Dental Research, 2022;101(2):146-162."
   - "Jensen et al. Oral Health Risk Assessment and Evidence-Based Treatment Planning. American Journal of Dentistry, 2023;36(5):241-259."
 ---
-
 Regular dental exams and cleanings are your primary defense against cavities and gum disease. But you might wonder what your dentist is actually looking for during an exam and why professional cleaning is necessary when you brush at home. Let's walk through a typical appointment.
 
 ## The Examination: What Your Dentist Checks
@@ -77,12 +76,6 @@ Your hygiene at home is more important than professional cleanings. Brush twice 
 
 Professional exams and cleanings combined with your home care prevent about 41-58% of future dental disease. Early detection increases treatment success—detecting incipient cavities (before they become visible cavities) increases successful conservative treatment and decreases restoration cost by 40-55%.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about complete guide to dental exams and cleanings and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed complete guide to dental exams and cleanings, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -91,7 +84,7 @@ Once you've addressed complete guide to dental exams and cleanings, maintaining 
 
 Regular dental exams detect early pathology through visual inspection, tactile evaluation, and radiographic imaging. Professional cleanings remove calculus and reduce bacterial load by 99.8%. Fluoride application and sealants provide additional protection for high-risk patients. Combined with excellent home care, this comprehensive preventive approach keeps your teeth healthy and minimizes future treatment needs.
 
-> **Key Takeaway:** Understand what your dentist checks during exams and how professional cleanings prevent disease.
+> **Key Takeaway:** Regular dental exams and cleanings are your primary defense against cavities and gum disease.
 
 ## Related Articles
 

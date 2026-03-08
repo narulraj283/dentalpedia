@@ -32,7 +32,6 @@ references:
   - title: "Goldstein RE. Change Your Smile. 4th ed. Chicago: Quintessence Publishing; 2011."
     url: https://pubmed.ncbi.nlm.nih.gov/21591555
 ---
-
 ## Why Your Smile Matters
 
 Did you know that your smile is one of the first things people notice about you? Research shows that your smile affects how others see you and, more importantly, how you see yourself. When you're happy with your smile, you're more confident in social situations, more willing to show your teeth when you laugh, and more likely to feel good about yourself overall. Cosmetic dentistry—treatment designed to improve how your teeth look—can help you build this confidence by addressing things like tooth color, spacing, or alignment that have been bothering you.
@@ -60,12 +59,6 @@ The best cosmetic dental outcomes happen when you and your dentist communicate o
 This helps you make sure the plan aligns with your goals. Your dentist should also explain what's realistic to expect—cosmetic treatment improves your appearance significantly, but won't create a perfectly symmetrical, flawless smile. That's actually a good thing: natural smiles have character and individuality.
 
 The most satisfied patients are those treated by experienced dentists who took time to understand their preferences and kept them informed throughout treatment. Cost matters less than communication quality and expertise. Choose a dentist who listens to you and answers your questions thoroughly.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss smile confidence building through dentistry, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

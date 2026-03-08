@@ -20,7 +20,6 @@ references:
   - "Siqueira FC, Zanatta RF, Navarro MFL, et al. Comparative analysis of analogue and digital workflows on the accuracy of implant-supported crowns. J Prosthodont. 2018;27(8):719-725."
   - "Leu SY, Yen TW. The accuracy of optical scanning systems on implant abutments. J Dent Res. 2015;94(12):1659-1667."
 ---
-
 ## Why Traditional Impression Materials Fall Short
 
 If you've ever had a dental crown made, you know the experience: your dentist packs a tray of gooey putty into your mouth and asks you to hold it there while it hardens. That putty is an impression material—alginate, polyether, or polyvinyl siloxane—and they all have problems. These materials shrink as they set and dry. Polyether shrinks by up to 0.8 percent, alginate shrinks even more (1 to 2.5 percent), and even the "better" polyvinyl siloxane shrinks by 0.1 to 0.3 percent. That might sound tiny, but when your crown is made from a shrunk impression, it won't fit as well.
@@ -99,7 +98,7 @@ When your dentist first gets a scanner, appointments might take a few extra minu
 
 Digital scanning is the future of dentistry. It eliminates the gagging, discomfort, and unpredictability of putty trays. Your crowns fit better, get made faster, and are less likely to need redoing. The technology keeps improving, and it's becoming the standard at most modern dental practices. If your dentist offers digital scanning, take them up on it—you'll have a much more pleasant experience and a better-fitting restoration.
 
-> **Key Takeaway:** If you've ever had a dental crown made, you know the experience: your dentist packs a tray of gooey putty into your mouth and asks you to hold it.
+> **Key Takeaway:** If you've ever had a dental crown made, you know the experience: your dentist packs a tray of gooey putty into your mouth and asks you to hold it there while it hardens.
 
 ## Related Articles
 

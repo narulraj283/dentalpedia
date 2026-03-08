@@ -30,7 +30,6 @@ references:
   - title: "Cleidocranial Dysplasia and Premature Eruption: Diagnostic Features and Clinical Implications"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26854859
 ---
-
 Most babies get their first teeth around six months. But occasionally, parents discover their newborn has teeth—either at birth (natal teeth) or within the first month (neonatal teeth). Is this a problem? Do these teeth need removal?
 
 ## What Are Neonatal Teeth?
@@ -98,14 +97,6 @@ Most neonatal eruption represents simple developmental acceleration without unde
 The long-term prognosis is excellent whether you retain or extract neonatal teeth. Normal primary dentition develops on schedule. Permanent teeth erupt at typical timing. The neonatal eruption episode doesn't typically create lasting effects on subsequent dental development or function.
 
 Most parents view the neonatal tooth period as an unusual but manageable variation in their infant's development. With appropriate support and pediatric dental guidance, feeding and comfort challenges resolve.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about neonatal teeth: teeth erupting too early and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
-
-Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 ## Protecting Your Results Long-Term
 

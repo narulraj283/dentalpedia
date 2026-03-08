@@ -43,7 +43,6 @@ subcategory: Preventive Overview
 subcategory_slug: overview-prevent
 title: Calculus Prevention Through Plaque Management
 ---
-
 ## Introduction
 
 Tartar (calculus) is hardened plaque that forms on teeth. It harbors bacteria, irritates gums, and leads to gum disease. While you need professional cleaning to remove existing tartar, preventing new tartar formation is easier and cheaper. Smart prevention can reduce how often you need cleaning.
@@ -112,12 +111,6 @@ Quitting is the single best intervention. **Certain medications**: Antihistamine
 
 Check out [Staining-foods-dietary-impact-on-color](/article/staining-foods-dietary-impact-on-color.html), [Dry-brushing-benefits-and-technique-explanation](/article/dry-brushing-benefits-and-technique-explanation.html), and [Demineralization-and-remineralization-how-cavity-preven](/article/demineralization-and-remineralization-how-cavity-prevention-works.html).
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for tartar prevention, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
-
 ## What to Expect During Your Visit
 
 Your dentist will begin by examining your mouth and reviewing your dental history to understand your current situation. This evaluation may include taking X-rays or digital images to get a complete picture of what is happening beneath the surface. Based on these findings, your dentist will explain the recommended treatment approach and walk you through each step of the process.
@@ -145,6 +138,3 @@ Combined with professional cleaning at intervals appropriate for your individual
 - [Gum Health Maintenance: What Patients Need to Know](/article/benefits-of-gum-health-maintenance.html)
 - [Risk and Concerns with Toothbrush Selection](/article/risk-and-concerns-with-toothbrush-selection.html)
 
-- [Foods and Beverages That Stain Teeth: Dietary Impact on](/article/staining-foods-dietary-impact-on-color.html)
-- [Dry Brushing: Benefits and Technique Explanation](/article/dry-brushing-benefits-and-technique-explanation.html)
-- [How Cavities Form and How Fluoride Stops Them: The](/article/demineralization-and-remineralization-how-cavity-prevention-works.html)

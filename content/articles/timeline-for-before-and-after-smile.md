@@ -1,38 +1,47 @@
 ---
-title: "Comprehensive Smile Makeover Timeline: Whitening,"
-slug: timeline-for-before-and-after-smile
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: "Evidence-based treatment sequencing and timeline for complete smile transformation integrating tooth whitening, porcelain veneers, orthodontic."
 date: 2026-03-05
+excerpt: Evidence-based treatment sequencing and timeline for complete smile transformation
+  integrating tooth whitening, porcelain veneers, orthodontic.
 read_time: 12 min
+references:
+- title: Goldstein RE. Esthetic rehabilitation in fixed prosthodontics. Dent Clin
+    North Am. 2011;55(2):315-326.
+  url: https://pubmed.ncbi.nlm.nih.gov/21463838
+- title: 'Blatz MB, et al. Clinical success of crowns and fixed partial dentures on
+    implants: a meta-analysis. Int J Oral Maxillofac Implants. 2013;28(4):896-906.'
+  url: https://pubmed.ncbi.nlm.nih.gov/23879079
+- title: Tam LE, McComb D. Outcomes of prime-and-bond systems. J Can Dent Assoc. 2001;67(10):588-596.
+  url: https://pubmed.ncbi.nlm.nih.gov/11760318
+- title: Kugel G, Petkevis J, Basaraba N. Dramatic consumer perceptions after two
+    weeks of tooth whitening treatment. J Esthet Restor Dent. 2006;18(1):11-20.
+  url: https://pubmed.ncbi.nlm.nih.gov/16457707
+- title: 'Duraffourd F, et al. Anterior composite resin bonded restorations: clinical
+    procedures for esthetic improvement. Pract Periodontics Aesthet Dent. 1998;10(5):565-577.'
+  url: https://pubmed.ncbi.nlm.nih.gov/10218072
+- title: Heithersay GS, et al. Life expectancy of porcelain veneers. Int J Prosthodont.
+    1999;12(6):537-542.
+  url: https://pubmed.ncbi.nlm.nih.gov/10709398
+- title: Cochran DL, et al. The radiographic classification and treatment of implant
+    failures. Int J Oral Maxillofac Implants. 1997;12(3):303-310.
+  url: https://pubmed.ncbi.nlm.nih.gov/9197098
+- title: Beckwith FR, et al. An evaluation of factors affecting the length of orthodontic
+    treatment. Am J Orthod Dentofacial Orthop. 1999;115(4):439-447.
+  url: https://pubmed.ncbi.nlm.nih.gov/10202297
+- title: Giannini M, et al. Clinical effectiveness and tooth sensitivity of in-office
+    bleaching gel. Am J Dent. 2010;23(3):137-142.
+  url: https://pubmed.ncbi.nlm.nih.gov/21028911
+- title: Blatz MB. Long-term clinical outcomes of cosmetic restorations. Quintessence
+    Int. 2018;49(8):629-639.
+  url: https://pubmed.ncbi.nlm.nih.gov/30097702
+reviewed: true
 reviewer_specialty: Cosmetic and Restorative Dentistry
+slug: timeline-for-before-and-after-smile
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
-reviewed: true
-references:
-  - title: "Goldstein RE. Esthetic rehabilitation in fixed prosthodontics. Dent Clin North Am. 2011;55(2):315-326."
-    url: https://pubmed.ncbi.nlm.nih.gov/21463838
-  - title: "Blatz MB, et al. Clinical success of crowns and fixed partial dentures on implants: a meta-analysis. Int J Oral Maxillofac Implants. 2013;28(4):896-906."
-    url: https://pubmed.ncbi.nlm.nih.gov/23879079
-  - title: "Tam LE, McComb D. Outcomes of prime-and-bond systems. J Can Dent Assoc. 2001;67(10):588-596."
-    url: https://pubmed.ncbi.nlm.nih.gov/11760318
-  - title: "Kugel G, Petkevis J, Basaraba N. Dramatic consumer perceptions after two weeks of tooth whitening treatment. J Esthet Restor Dent. 2006;18(1):11-20."
-    url: https://pubmed.ncbi.nlm.nih.gov/16457707
-  - title: "Duraffourd F, et al. Anterior composite resin bonded restorations: clinical procedures for esthetic improvement. Pract Periodontics Aesthet Dent. 1998;10(5):565-577."
-    url: https://pubmed.ncbi.nlm.nih.gov/10218072
-  - title: "Heithersay GS, et al. Life expectancy of porcelain veneers. Int J Prosthodont. 1999;12(6):537-542."
-    url: https://pubmed.ncbi.nlm.nih.gov/10709398
-  - title: "Cochran DL, et al. The radiographic classification and treatment of implant failures. Int J Oral Maxillofac Implants. 1997;12(3):303-310."
-    url: https://pubmed.ncbi.nlm.nih.gov/9197098
-  - title: "Beckwith FR, et al. An evaluation of factors affecting the length of orthodontic treatment. Am J Orthod Dentofacial Orthop. 1999;115(4):439-447."
-    url: https://pubmed.ncbi.nlm.nih.gov/10202297
-  - title: "Giannini M, et al. Clinical effectiveness and tooth sensitivity of in-office bleaching gel. Am J Dent. 2010;23(3):137-142."
-    url: https://pubmed.ncbi.nlm.nih.gov/21028911
-  - title: "Blatz MB. Long-term clinical outcomes of cosmetic restorations. Quintessence Int. 2018;49(8):629-639."
-    url: https://pubmed.ncbi.nlm.nih.gov/30097702
+title: 'Comprehensive Smile Makeover Timeline: Whitening'
 ---
-
 ## Creating Your Dream Smile
 
 A complete smile makeover combines several procedures to transform how your teeth look—straightening, whitening, and reshaping all happen in a specific order for best results. Depending on how much work you need, a smile makeover takes anywhere from 4 to 9 months. The key is doing things in the right sequence so you don't undo earlier work. For example, you should whiten your teeth before placing veneers so the veneer color matches your whitened teeth. If you straighten first, then whiten later, your new restoration won't match. [Learn about tooth color variations and matching](/article/tooth-color-gradation-natural-variations-and-matching.html) to understand your color options.
@@ -84,12 +93,6 @@ If you're missing teeth, implants take longer. A single implant takes 4 to 6 mon
 ## Maintaining Your New Smile
 
 Porcelain veneers last 10 to 20 years with proper care. Brush and floss normally, avoid biting hard objects with your front teeth, and see your dentist every 6 months. Your tooth color will slightly relapse after whitening—do touch-up whitening every 6 to 12 months to maintain your shade.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for before and after smile, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 

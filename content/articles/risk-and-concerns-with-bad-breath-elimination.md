@@ -43,7 +43,6 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: Risk and Concerns with Bad Breath Elimination
 ---
-
 ## Getting Rid of Bad Breath: Understanding Causes and Finding Solutions
 
 Bad breath affects about 1 in 4 people at some point, and it can really hurt your confidence in social situations. The good news is that most bad breath comes from sources your dentist can help you fix. The smell usually comes from bacteria in your mouth, especially on your tongue and between your teeth.

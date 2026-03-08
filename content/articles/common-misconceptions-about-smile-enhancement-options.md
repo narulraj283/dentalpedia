@@ -22,7 +22,6 @@ references:
   - "Aquilino SA, Caplan DJ. Relationship between crown placement and the survival of endodontically treated teeth. J Prosthet Dent. 2002;87(3):256-263."
   - "Tredwin CJ, Scully C, Bagan-Sebastian JV. Drug-induced disorders of the teeth. J Dent Res. 2005;84(7):596-602."
 ---
-
 ## Choosing the Right Cosmetic Dental Option for Your Smile
 
 When your dentist recommends cosmetic treatment options, you might not understand the differences between bonding, veneers, crowns, and whitening. Each approach has different longevity, costs, and applications. Let's explore which approach works best for different concerns so you can make informed decisions about your smile.
@@ -93,17 +92,11 @@ When your dentist recommends cosmetic options, ask these questions: What are you
 
 Understanding these factors helps you choose the approach matching your needs. Document your goals in writing so your dentist understands exactly what matters to you. Before committing to treatment, ask to see before-and-after photos of similar cases your dentist has completed.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about smile enhancement options and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 Cosmetic options span from whitening (temporary, affordable) to bonding (moderate cost and longevity) to veneers (longer-lasting) to crowns (longest-lasting but most invasive). Choose based on your specific goals, how long you want results to last, and your budget. More conservative options often work well for cosmetic concerns. Your dentist can discuss which option best matches your priorities.
 
-> **Key Takeaway:** Learn about different cosmetic dental options and which approach might work best for improving your specific smile concerns.
+> **Key Takeaway:** When your dentist recommends cosmetic treatment options, you might not understand the differences between bonding, veneers, crowns, and whitening.
 
 ## Related Articles
 

@@ -19,7 +19,6 @@ subcategory: Infections & Abscesses
 subcategory_slug: infections-abscess
 title: 'Noma: A Serious Infection That Requires Immediate Care'
 ---
-
 ## Noma: A Serious Infection That Requires Immediate Care
 
 Noma is a rare but devastating mouth infection that affects malnourished children, particularly in developing countries. While it's uncommon in developed nations with adequate nutrition and healthcare, healthcare providers worldwide need to recognize it because early treatment can be lifesaving. If you recognize symptoms in a child or live in an at-risk region, understanding noma can prompt urgent care that prevents catastrophic consequences.
@@ -136,6 +135,9 @@ The emotional and social burden of surviving noma extends far beyond the initial
 If you're a healthcare provider or work in an affected region, early recognition of oral infections is critical. If you're a parent in an at-risk area and your child develops severe gum disease with foul-smelling breath and facial swelling, seek urgent medical care.
 
 If you're in a developed country, noma is extraordinarily rare and unlikely to affect you. But knowing it exists helps appreciate how profound the difference is between healthcare-privileged and healthcare-deprived populations.
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 

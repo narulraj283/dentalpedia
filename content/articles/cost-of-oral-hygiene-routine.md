@@ -17,7 +17,6 @@ references:
   - "Claydon N. Current Concepts in Toothbrushing and Interdental Cleaning. Periodontol 2000. 2008;48(1):10-22."
   - "Axelsson P, Lindhe J. Effect of Functional Electric Toothbrushes on Plaque and Gingivitis. J Clin Periodontol. 1978;5(1):13-18."
 ---
-
 ## Building a Routine That Works for Your Mouth
 
 Your daily oral hygiene routine is the foundation of healthy teeth and gums. The good news? It doesn't have to be expensive or complicated. A solid routine costs about $100-250 per year and prevents 40-60% of cavities and gum disease. Let's talk about what actually works and how to do it affordably.
@@ -100,17 +99,11 @@ Similarly, acidic foods and drinks (citrus, soda, wine) soften your enamel tempo
 
 Hard and sticky foods also impact your routine. Hard foods can break teeth and damage gums, while sticky foods hide in crevices longer, feeding cavity-causing bacteria. Choosing softer options reduces these risks. Calcium-rich foods (dairy, leafy greens) strengthen teeth, and crunchy fruits and vegetables (apples, carrots) naturally clean tooth surfaces while eating.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about oral hygiene routine and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Conclusion
 
 A complete daily oral hygiene routine costs $100-250 yearly and prevents 40-60% of cavities and gum disease. Proper brushing, daily interdental cleaning, and professional checkups establish disease prevention foundation. The investment pays for itself many times over through avoided treatment. Talk to your dentist about building the right routine for your specific situation.
 
-> **Key Takeaway:** Your daily oral hygiene routine is the foundation of healthy teeth and gums. The good news? It doesn't have to be expensive or complicated.
+> **Key Takeaway:** Your daily oral hygiene routine is the foundation of healthy teeth and gums.
 
 ## Related Articles
 

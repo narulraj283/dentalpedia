@@ -32,7 +32,6 @@ references:
   - title: "Combination therapy: Fluoride trays with professional applications in intensive protocols"
     url: https://www.ncbi.nlm.nih.gov/pubmed/20504411
 ---
-
 Custom fluoride trays are personalized dental tools that deliver strong fluoride directly to your teeth. If you're at high risk for cavities, get a lot of new cavities, or have dry mouth, these trays can make a real difference. They're more powerful than over-the-counter products and work much faster to stop cavities before they start.
 
 ## How Custom Trays Are Made

@@ -22,7 +22,6 @@ references:
   - "Iizuka T, Smolka W. Alveolar ridge healing after tooth extraction with and without bone graft. Implant Dentistry. 2018;8(2):147-156."
   - "Roberts WE, Goodacre CJ, Heijl L. Osseointegration and Alveolar Bone Loss. Implant Dentistry. 2021;32(2):213-231."
 ---
-
 ## How Your Mouth Heals After Surgery
 
 Your body heals in predictable stages. Learning more about healing normal vs warning can help you understand this better. Understanding these stages helps you know what's normal and what's a problem.
@@ -177,12 +176,6 @@ Usually included in surgical fee:
 
 Attend these appointments—they catch problems early.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about surgical site healing and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed surgical site healing, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -190,13 +183,16 @@ Once you've addressed surgical site healing, maintaining your results requires o
 
 For more information, see [Augmentation for Implants: Building Missing Bone](/article/augmentation-for-implants-building-missing-bone.html) and [Common Misconceptions About Infection Prevention](/article/common-misconceptions-about-infection-prevention.html).
 
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
 Socket healing progresses through predictable stages: acute (days 0-3), early (days 4-14), functional (weeks 2-6), and internal bone (months 2-12). Direct healing costs are minimal ($15-$50 first week). Supporting healing costs $50-$100 in medications and dietary adjustment.
 
 Prevention and early intervention prevent $300-$1,000 in complication costs. Follow your dentist's instructions, attend follow-ups, and call immediately if you notice warning signs. Most people heal without problems when they follow guidelines.
 
-> **Key Takeaway:** Understand how your mouth heals after dental surgery and what you can do to support healing.
+> **Key Takeaway:** Your body heals in predictable stages. Learning more about healing normal vs warning can help you understand this better.
 
 ## Related Articles
 

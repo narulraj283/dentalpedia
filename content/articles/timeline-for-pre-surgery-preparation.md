@@ -43,111 +43,74 @@ subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Pre-Surgical Preparation and Patient Optimization
 ---
-
 ## Preparing for Your Tooth Extraction Surgery
 
 Getting ready for mouth surgery properly makes the whole experience better and helps you recover faster. Your dentist needs to know about your health history, medications, and any worries you have. Being well-prepared reduces anxiety, helps prevent complications, and means you know exactly what to expect. This guide explains everything you need to know to prepare for successful surgery.
 
-## Timing of Pre-Surgical Evaluation
+## When to Schedule Your Pre-Surgery Visit
 
-### Initial Consultation
-Pre-operative evaluation should occur sufficiently before the scheduled surgical date to allow time for:
-- Comprehensive medical history review
-- Identification of medical conditions requiring management
-- Consultation with patient's primary care physician or medical specialists if indicated
-- Lab work or diagnostic studies if needed
-- Medication adjustments or clarifications
+Schedule your first visit 1-2 weeks before surgery for healthy patients. Medically complex patients need earlier visits.
 
-**Recommended Timeline:**
-1-2 weeks before elective surgery for healthy patients; earlier evaluation for medically compromised patients or complex surgical procedures.
+**What Happens at Pre-Surgery Visit:**
+- Your dentist reviews your full medical history
+- They check for conditions that affect surgery
+- They discuss your medications
+- You get a chance to ask questions
 
-### Pre-Operative Appointment
-Scheduling a dedicated pre-operative visit (distinct from surgical procedure day) allows thorough preparation, patient education, and discussion of any remaining concerns.
+## Important Medical Conditions
 
-## Medical History Assessment
+Tell your dentist about any of these health problems:
 
-### Comprehensive Medical Review
+**Heart Problems:**
+- High blood pressure
+- Heart disease
+- Irregular heartbeat
+- Recent heart attack or stent
+- Heart failure
 
-**Critical Medical Conditions Requiring Special Attention:**
+**Lung Problems:**
+- Asthma
+- Emphysema (COPD)
+- Sleep apnea
+- Recent cough/cold
 
-**Cardiovascular:**
-- Hypertension (increases perioperative bleeding and hemodynamic complications)
-- Coronary artery disease (increased MI risk perioperatively)
-- Atrial fibrillation (stroke risk; anticoagulation management essential)
-- Heart failure (decompensation risk with fluid overload)
-- Recent cardiac events or interventions (<6 months: increased perioperative risk)
-
-**Pulmonary:**
-- Asthma (perioperative bronchospasm risk)
-- Chronic obstructive pulmonary disease (respiratory depression risk, difficulty managing airways)
-- Sleep apnea (respiratory depression risk with sedation/anesthesia)
-- Recent respiratory infections (avoid elective procedures until resolution)
-
-**Endocrine:**
-- Diabetes mellitus (impaired healing, infection risk, perioperative glucose management)
-- Thyroid disorder (medication interactions, hypothermia/hyperthermia risk)
-
-**Renal/Hepatic:**
-- Chronic kidney disease (medication dosing adjustments needed)
-- Cirrhosis (coagulopathy, poor healing)
-- Hepatitis C (infection control precautions)
-
-**Hematologic:**
-- Bleeding disorders (increased perioperative bleeding)
-- Sickle cell disease (tissue necrosis risk, special precautions)
-- Thrombophilia (clotting risk)
-
-**Infectious:**
-- Hepatitis B or C (infection control precautions)
-- HIV/AIDS (immunosuppression affects healing and infection risk)
-- Tuberculosis (respiratory precautions if active disease)
+**Other Important Conditions:**
+- Diabetes
+- Thyroid disease
+- Kidney disease
+- Liver disease
+- Hepatitis
+- HIV/AIDS
+- Bleeding disorders
+- History of infections
 
 ### Allergy Documentation
 
 **Drug Allergies:**
-Document specific allergic reactions (rash, anaphylaxis, etc.), not just "allergy." This distinguishes true allergies from adverse effects or intolerances. Clarify:
-- Is penicillin allergy true IgE-mediated reaction or rash?
-- Are NSAIDs contraindicated or just previously ineffective?
+Tell your dentist exactly what happens when you take the medicine. Is it a rash, swelling, trouble breathing, or just upset stomach?
 
 **Material Allergies:**
-- Latex (requires latex-free operatory)
-- Nickel (affects implant selection if applicable)
-- Adhesive materials
+- Latex
+- Nickel (if you have implants planned)
+- Glue/adhesive materials
 
-## Medication Management
+## Blood Thinning Medication
 
-### Anticoagulation Management
+**Warfarin and Other Blood Thinners:**
+Usually you continue taking your blood thinner before surgery. Stopping it can cause clots. Your dentist will ask you to check your blood work 1 day before surgery.
 
-**Warfarin (Coumadin):**
-Warfarin inhibits vitamin K-dependent clotting factors. Pre-operative management depends on surgical extent and bleeding risk.
+For simple extractions: Keep taking your medicine. Your dentist has tools to control bleeding.
 
-**Management Strategy:**
-- Continue warfarin as prescribed in most cases
-- Check INR within 24 hours of surgery (target 2-3 for most procedures)
-- If INR >4, consider dose adjustment before surgery
-- For minor extractions (minimal bleeding expected): Continue warfarin; use topical hemostatic agents
-- For complex surgical procedures: Consult with prescribing physician regarding perioperative management
-
-**Antiplatelet Agents (Aspirin, Clopidogrel, Ticagrelor):**
-Platelet aggregation inhibitors increase bleeding risk. Management varies by indication and surgical complexity.
+For complex surgery: Your doctor and dentist talk together about whether to adjust your dose.
 
 **Aspirin:**
-- Continue aspirin before and after surgery for most oral procedures
-- Risk of bleeding is minimal with aspirin monotherapy; benefit of continued antiplatelet effect usually outweighs bleeding risk
+Usually keep taking aspirin before surgery. Bleeding risk is low, and stopping aspirin can be risky.
 
-**Clopidogrel (Plavix), Ticagrelor (Brilinta):**
-- Continuation usually recommended unless otherwise directed by cardiologist
-- Abrupt discontinuation increases thrombotic event risk (stent thrombosis, MI)
-- Most oral surgeries manageable with continued antiplatelet therapy
-- Use topical hemostatic agents liberally
+**Newer Blood Thinners (Apixaban, Dabigatran, Rivaroxaban):**
+- For simple surgery: Keep taking them
+- For complex surgery: Ask your doctor if timing needs adjustment
 
-**Direct Oral Anticoagulants (DOAC: Apixaban, Dabigatran, Edoxaban, Rivaroxaban):**
-These newer agents have rapid onset and offset compared to warfarin.
-
-**Management:**
-- For minor surgical procedures: Continue DOAC; use topical hemostatic agents
-- For complex procedures: Timing of dose omission should be coordinated with prescribing physician
-- Document pharmacist or physician consultation regarding perioperative management
+Most people keep taking their blood thinner for oral surgery.
 
 ### Bisphosphonate Management
 

@@ -16,7 +16,6 @@ references:
   - "Stone HH, Haejim C. Infectious Complications Following Oral Surgery. J Oral Surg. 1980;38(6):409-415."
   - "Edlich RF, Rodeheaver GT, Morgan RF, et al. Principles of Emergency Wound Management. Ann Emerg Med. 1988;17(12):1284-1302."
 ---
-
 ## Mouth Injuries Happen: Here's What To Do
 
 Mouth cuts and injuries occur from falls, sports impacts, accidental biting your cheek, or dental procedures. The good news: your mouth's excellent blood supply actually helps these wounds heal faster than similar injuries elsewhere on your body. Most mouth injuries heal well with conservative care. Understanding what to do immediately and what to watch for helps ensure your injury heals properly.

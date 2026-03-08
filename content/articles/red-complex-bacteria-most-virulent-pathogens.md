@@ -32,7 +32,6 @@ references:
   - title: "Tribble GD, Lamont RJ. Bacterial invasion of epithelial cells and spreading: a key virulence mechanism of Porphyromonas gingivalis. Critical Reviews in Oral Biology and Medicine. 2003;14(3):217-224."
     url: https://pubmed.ncbi.nlm.nih.gov/12764077
 ---
-
 ## The Three Worst Bacteria for Your Gums
 
 Your mouth contains thousands of different bacteria. Most of them are harmless or even beneficial, but some can cause serious damage to your gums. Scientists have identified three particular bacteria that work together and cause the most severe gum disease. These bacteria are called the "red complex" because of how they cluster together in disease.

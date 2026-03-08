@@ -19,7 +19,6 @@ references:
   - "Frazier-Bowers SA, Koehler KS, Orraca FM, et al. Primary failure of eruption: Further characterization and reported linkage to chromosome 18q. Am J Orthod Dentofacial Orthop. 2007;131(5):578-589."
   - "Smyth E, Sacerdoti R. Canine impaction and ectopic eruption. In: Handbook of Pediatric Dentistry. 4th ed. Elsevier; 2013. p. 245-258."
 ---
-
 ## When Your Child's Canine Tooth Erupts in the Wrong Place
 
 Sometimes, a child's canine tooth (the pointed tooth next to the front teeth) erupts in the wrong location instead of coming in where it should. Learning more about [Baby Teeth Development and Eruption Timeline](/article/baby-teeth-development-and-eruption-timeline.html) can help you understand this better. This is called ectopic canine eruption, and it happens in about 2-3% of children. If your child's canine is coming in on the roof of the mouth, on the side of the mouth, or any place other than where it should be, early intervention prevents serious problems.
@@ -64,12 +63,6 @@ If the ectopic canine is severely damaged or positioned so it can never erupt pr
 
 The best approach to ectopic canine eruption is early detection through regular dental care. Keep your child's regular appointments during the mixed dentition years (ages 6-13) so your dentist can monitor tooth development and catch problems early. Digital X-rays help your dentist see where teeth are developing and intervene when needed.
 
-## Questions to Ask Your Dentist
-
-When you visit your dentist, ask about ectopic canine misdirected canine eruption and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
-
-You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed ectopic canine misdirected canine eruption, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
@@ -80,7 +73,7 @@ Ectopic canine eruption is manageable when caught early. If you notice your chil
 
 Work with your dentist and orthodontist to determine the best treatment plan for your child's specific situation.
 
-> **Key Takeaway:** Sometimes, a child's canine tooth (the pointed tooth next to the front teeth) erupts in the wrong location instead of coming in where it should.
+> **Key Takeaway:** Learning more about [Baby Teeth Development and Eruption Timeline](/article/baby-teeth-development-and-eruption-timeline.html) can help you understand this better. This is called ectopic canine eruption, and it happens in about 2-3% of children.
 
 ## Related Articles
 

@@ -29,12 +29,11 @@ subcategory: Periodontal Surgery
 subcategory_slug: periodontal-surgery
 title: 'Apically Positioned Flap Surgery: Pocket Elimination'
 ---
-
 ## What This Surgery Does
 
-When gum disease creates pockets deeper than 4-5mm, even thorough brushing and professional cleaning can't stop the disease. The deep pockets harbor bacteria that keep causing problems. Periodontal surgery solves this by repositioning the gum tissue to create shallower pockets. For more details, see our guide on [Aggressive Periodontitis](/article/aggressive-periodontitis-early-onset-gum-disease.html).
+When gum disease creates pockets deeper than 4-5mm, even thorough brushing and professional cleaning can't stop the disease. The deep pockets harbor bacteria that keep causing problems. Periodontal surgery solves this by repositioning the gum tissue to create shallower pockets.
 
-The apically positioned flap is one method that works well. Unlike some surgical approaches that remove bone, this method lifts the gum tissue and moves it to a lower position—essentially making your gums shorter but eliminating the deep pockets where disease hides. For more details, see our guide on [Aggressive vs Chronic](/article/aggressive-vs-chronic-disease-progression-rate.html).
+The apically positioned flap is one method that works well. Unlike some surgical approaches that remove bone, this method lifts the gum tissue and moves it to a lower position—essentially making your gums shorter but eliminating the deep pockets where disease hides.
 
 The goal: reduce pocket depth to 3mm or less where bacteria can't establish deep disease.
 
@@ -150,6 +149,9 @@ Poor maintenance predicts relapse. Good maintenance predicts long-term stability
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
+
+Related reading: [Doxycycline: Systemic Antibiotic for Periodontitis](/article/doxycycline-systemic-antibiotic-for-periodontitis.html) and [Crestal Bone Loss: Periodontal Etiology and Clinical](/article/crestal-bone-loss-topmost-bone-resorption.html).
+
 ## Conclusion
 
 Apically positioned flap surgery eliminates deep gum pockets by repositioning flap tissue lower, allowing biological width to reestablish and pockets to resolve. Success rates of 85-95 percent achieving shallow pockets demonstrate effectiveness.
@@ -160,7 +162,7 @@ The procedure preserves bone height better than aggressive bone-removal surgery,
 
 Meticulous home care and regular professional maintenance determine long-term success. With good care, results remain stable for decades.
 
-> **Key Takeaway:** When gum disease creates pockets deeper than 4-5mm, even thorough brushing and professional cleaning can't stop the disease.
+> **Key Takeaway:** The deep pockets harbor bacteria that keep causing problems. Periodontal surgery solves this by repositioning the gum tissue to create shallower pockets.
 
 ## Related Articles
 

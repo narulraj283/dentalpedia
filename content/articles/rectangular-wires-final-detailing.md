@@ -43,7 +43,6 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Rectangular Wires Final Detailing
 ---
-
 ## When Straight Wires Become Rectangular: The Finishing Phase
 
 During the first part of your braces treatment, your orthodontist uses thin, round wires to move your teeth into roughly the correct position. These round wires work well for moving teeth forward, backward, and side-to-side. But once your teeth are close to their final positions, your orthodontist needs more precise control.

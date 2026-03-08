@@ -28,7 +28,6 @@ references:
   - title: "Long-Term Outcomes of Habit Elimination"
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/jcpe.12877
 ---
-
 ## Breaking Oral Habits: Thumb Sucking and Tongue Thrust
 
 Children naturally suck thumbs—it's developmentally normal until age 4-5. After that, continued habits affect tooth and bite development. Similarly, tongue thrust (pushing the tongue forward during swallowing) can create bite problems. Understanding these habits and effective breaking strategies helps parents and dentists support healthy development.

@@ -36,7 +36,6 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Why Managing Orthodontic Discomfort Matters
 ---
-
 ## Why Managing Orthodontic Discomfort Matters for Treatment Compliance
 
 Pain with braces is one of the top reasons people consider quitting treatment. Many people think pain is just something you have to accept, but that's not true. Orthodontic pain is manageable, and addressing it improves your treatment experience, helps you stick with your braces, and actually improves your treatment outcomes. Understanding pain management options helps you make better decisions about your treatment.
@@ -138,5 +137,5 @@ Orthodontic pain significantly impacts compliance, quality of life, and treatmen
 - [Benefits of Teeth Relapse Prevention](/article/benefits-of-teeth-relapse-prevention.html)
 
 - [Gum Recession From Braces: Risk Factors and Prevention](/article/gum-recession-from-braces-risk-factors-and-prevention.html)
-- [Bite Correction Timelines: Overbite, Underbite,](/article/timeline-for-bite-correction-methods.html)
+- [Bite Correction Timelines: Overbite, Underbite](/article/timeline-for-bite-correction-methods.html)
 

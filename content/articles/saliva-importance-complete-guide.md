@@ -43,7 +43,6 @@ subcategory: General Overview
 subcategory_slug: overview-general
 title: 'Why Saliva Matters: Your Mouth''s Built-In Protection System'
 ---
-
 ## Your Mouth Produces More Than a Gallon of Saliva Daily
 
 Your mouth produces roughly 1.5 liters (more than 50 ounces) of saliva every single day. That's a lot of fluid you probably never think about. Yet saliva is one of your body's most remarkable substances. It's far more than just moisture in your mouth—it's a sophisticated biological system that fights bacteria, prevents cavities, helps you digest food, and maintains your comfort while eating and speaking.
@@ -163,6 +162,6 @@ Saliva is your mouth's most important natural defense system. Its complex mixtur
 - [Best Practices for Pain Relief Methods](/article/best-practices-for-pain-relief-methods.html)
 - [Crown vs. Bridge Decision: Complete Guide](/article/crown-vs-bridge-decision-complete-guide.html)
 
-- [Dental Filling Material Selection: Properties,](/article/timeline-for-filling-material-selection.html)
+- [Dental Filling Material Selection: Properties](/article/timeline-for-filling-material-selection.html)
 - [Tooth Color Changes - Diagnosis, Classification, and](/article/benefits-of-tooth-color-changes.html)
 

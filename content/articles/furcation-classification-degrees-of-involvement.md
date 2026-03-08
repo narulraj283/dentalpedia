@@ -14,8 +14,7 @@ references:
   - "Glickman I. Clinical Periodontology. 4th ed. WB Saunders; 1972:384-412."
   - "Hamp SE, Nyman S, Lindhe J. Periodontal treatment of multirooted teeth. Results after 5 and 6 years. J Clin Periodontol. 1975;2(3):126-135."
 ---
-
-Your dentist mentions "furcation involvement" when discussing your gum disease. Learning more about [Periodontal Disease and Tooth Loss Prevention](/article/periodontal-disease-and-tooth-loss-prevention.html) can help you understand this better. What does that mean?
+Back teeth with multiple roots can develop a particularly aggressive form of gum disease where bone is lost where the roots split apart. If your dentist mentioned "furcation involvement," it means your gum disease has reached this dangerous area. Understanding this term and what it means for your tooth's future helps you make informed decisions about treatment.
 
 Basically, back teeth have multiple roots, and where those roots split apart is called the furcation. When gum disease damages the bone in that area, it's called furcation involvement. Understanding this term helps you know why your dentist recommends certain treatments and why this type of gum disease needs more careful management.
 
@@ -91,11 +90,14 @@ Nonsurgical scaling and root planing (the initial treatment for mild furcation) 
 
 These costs might seem high, but consider that losing teeth to untreated furcation disease requires much more expensive replacement with implants ($3000-6000 per tooth) or bridges ($2000-5000). Prevention through aggressive early treatment saves money long-term.
 
+
+Related reading: [Calculus Subgingival: Below-Gum Buildup and Periodontal](/article/calculus-subgingival-below-gum-buildup.html).
+
 ## Conclusion
 
 Furcation involvement is a serious form of gum disease that affects teeth with multiple roots. The degree of involvement determines treatment options and your tooth's long-term prognosis. Early diagnosis and intensive treatment give the best chance of saving the tooth. Talk to your dentist about which treatment options are right for your specific situation.
 
-> **Key Takeaway:** Your dentist mentions 'furcation involvement' when discussing your gum disease. What does that mean?
+> **Key Takeaway:** Back teeth with multiple roots can develop a particularly aggressive form of gum disease where bone is lost where the roots split apart.
 
 ## Related Articles
 

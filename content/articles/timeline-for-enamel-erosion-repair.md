@@ -46,7 +46,6 @@ subcategory: Preventive Overview
 subcategory_slug: overview-prevent
 title: 'Enamel Erosion: Management, Remineralization'
 ---
-
 ## Introduction
 
 Enamel erosion is different from cavities. With cavities, bacteria produce acid that creates a hole. With erosion, acid from food and drinks (or stomach acid) dissolves your tooth surface directly.
@@ -92,12 +91,6 @@ If erosion is severe, your dentist will work with remineralization for 4-8 weeks
 ## Long-Term Prevention
 
 Once your erosion is under control, you need to prevent it from coming back. This means permanent changes to diet and habits: avoid sipping acidic drinks throughout the day, control your acid reflux if you have it, use a night guard if you grind your teeth, and continue using fluoride products. Some people also benefit from using xylitol products (xylitol-containing gum or lozenges) to stimulate saliva, which buffers acid naturally.
-
-## Questions to Ask Your Dentist
-
-When you visit your dentist to discuss timeline for enamel erosion repair, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
-
-It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
 ## What to Expect During Your Visit
 
