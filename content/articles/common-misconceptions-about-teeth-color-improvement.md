@@ -21,6 +21,7 @@ references:
   - "Kwon YH, Saint-Pierre CJ, Philips KM. The effect of bleaching on resin composite bonding. J Prosthet Dent. 2004;91(2):144-149."
   - "Tredwin CJ, Scully C, Boon L. Hydrogen peroxide exposure and diffusion through human coronal dentine. J Dent. 2006;34(8):594-599."
   - "Dodds MWJ, Johnson DA, Yeh CK. Health-associated aspects of saliva. J Dent Res. 2005;84(2):97-106."
+last_reviewed: 2026-04-01
 ---
 Teeth whitening is one of the most popular cosmetic treatments, but lots of people have unrealistic expectations about what it can achieve. Let's look at what's realistic and what's hype.
 

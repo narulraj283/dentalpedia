@@ -10,6 +10,7 @@ reviewer_specialty: Orthodontics
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 reviewed: true
+last_reviewed: 2026-04-01
 ---
 You've just gotten your braces off, and your smile looks absolutely perfect. Your teeth are beautifully straight, your bite is corrected, and you're thrilled with the results. But you've probably heard warnings about teeth shifting back.
 

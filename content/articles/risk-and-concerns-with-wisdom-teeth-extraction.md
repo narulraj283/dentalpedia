@@ -45,6 +45,7 @@ slug: risk-and-concerns-with-wisdom-teeth-extraction
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Risk and Concerns with Wisdom Teeth Extraction
+last_reviewed: 2026-04-01
 ---
 ## Why Do Wisdom Teeth Come Out?
 

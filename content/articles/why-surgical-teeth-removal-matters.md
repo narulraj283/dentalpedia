@@ -31,6 +31,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/23265203/"
   - title: "Quality of life impact following tooth extraction and prosthetic replacement"
     url: "https://pubmed.ncbi.nlm.nih.gov/20420924/"
+last_reviewed: 2026-04-01
 ---
 Deciding whether to keep or remove a tooth is one of the most important decisions you and your dentist will make together. While we try to save every tooth when possible, sometimes extracting a tooth is actually the best choice for your long-term health. Understanding when extraction makes sense, what happens if you keep a failing tooth, and how to move forward after extraction helps you make informed decisions about your dental health.
 

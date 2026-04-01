@@ -31,6 +31,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/19834957"
   - title: "Long-term outcomes of periodontal treatment by disease stage"
     url: "https://pubmed.ncbi.nlm.nih.gov/27587530"
+last_reviewed: 2026-04-01
 ---
 ## Bleeding Gums Are Your Mouth Sending You a Message
 

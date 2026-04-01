@@ -21,6 +21,7 @@ references:
   - "Miller AJ, Vargervik K, Chierici G. Sequential neuromuscular and skeletal changes following repositioning of the mandible. Am J Orthod. 1983;84(4):342-349."
   - "Cordray FE. Centric relation: Definition, determinants, and the disputed midrange option. J Esthet Dent. 1998;10(6):300-307."
   - "Boucher CO, Renner RP. Prosthodontic Treatment for Edentulous Patients. 12th ed. Mosby; 2005."
+last_reviewed: 2026-04-01
 ---
 If you're getting dentures, bridges, or other tooth restorations, your dentist might mention "centric relation." This is an important concept in dentistry, especially for people replacing teeth. Understanding centric relation helps explain why your dentist is making specific choices about how your new teeth will bite together.
 

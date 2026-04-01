@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/24289564
   - title: "Multidisciplinary management of cleft palate: surgical, speech, and orthodontic considerations"
     url: https://pubmed.ncbi.nlm.nih.gov/25301478
+last_reviewed: 2026-04-01
 ---
 ## Understanding the Velopharyngeal System and Speech
 

@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/31567890
   - title: "Patient Compliance in Phased Treatment Implementation"
     url: https://pubmed.ncbi.nlm.nih.gov/28901234
+last_reviewed: 2026-04-01
 ---
 ## Why Dental Procedure Planning Matters for Successful Treatment
 

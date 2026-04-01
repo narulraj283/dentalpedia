@@ -10,6 +10,7 @@ reviewer_specialty: Cosmetic and General Dentistry
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 reviewed: true
+last_reviewed: 2026-04-01
 ---
 ## When Discoloration Is Just Cosmetic
 

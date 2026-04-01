@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/15978241
   - title: "Thornton JB, Hennon DK. Pediatric dental prevention and behavioral management. Dent Clin North Am. 2005;49(4):647-660."
     url: https://pubmed.ncbi.nlm.nih.gov/16051375
+last_reviewed: 2026-04-01
 ---
 ## Keeping Your Teeth Healthy Through Preventive Care
 

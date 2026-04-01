@@ -19,6 +19,7 @@ references:
   - "Levin L, et al. Patient compliance and side effects of clear aligners and fixed appliances: a prospective study. Angle Orthod. 2016;86(4):675-681."
   - "Papadimitriou A, et al. Clinical effectiveness of two types of fixed appliances treating Class II Division 1 malocclusions. A randomized clinical trial. Am J Orthod Dentofacial Orthop. 2006;129(5):597-605."
   - "Papageorgiou SN, et al. Long-term stability of Class II Division 1 malocclusion treatment. A systematic review and meta-analysis. Am J Orthod Dentofacial Orthop. 2015;147(4):427-440."
+last_reviewed: 2026-04-01
 ---
 ## The 22-Hour Rule Is Not Optional
 

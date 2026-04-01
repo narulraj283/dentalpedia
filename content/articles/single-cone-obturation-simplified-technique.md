@@ -42,6 +42,7 @@ slug: single-cone-obturation-simplified-technique
 subcategory: Endodontic Overview
 subcategory_slug: overview-endo
 title: Single Cone Obturation Simplified Technique
+last_reviewed: 2026-04-01
 ---
 ## Understanding Root Canals and Why They Need Filling
 

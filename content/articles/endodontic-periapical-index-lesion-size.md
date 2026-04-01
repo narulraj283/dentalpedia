@@ -19,6 +19,7 @@ references:
   - "Orstavik D. Time-course and risk analysis of the healing process after endodontic surgery. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 1998;85(5):552-563."
   - "Strbac GD, Schneckenberg B, Folwaczny M, et al. Comparison of digital volume tomography and analog radiography in assessing periapical changes after endodontic surgery. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2012;113(4):e24-e27."
   - "Caliskan MK. Apical extrusion of intracanal medicaments: a review. Endod Dent Traumatol. 2002;18(3):128-139."
+last_reviewed: 2026-04-01
 ---
 When you have a tooth infection at its root tip, your dentist uses X-rays to see the problem and measure how much bone has been destroyed. Tracking these measurements over time helps your dentist determine whether your root canal treatment is working. Understanding how your dentist assesses and monitors these infections helps you understand your treatment progress.
 

@@ -21,6 +21,7 @@ references:
   - "Chapple ILC, Bouchard P, Cagetti MG, et al. Interaction of lifestyle, behaviour or systemic diseases with dental caries and periodontal diseases: Consensus report of group 2 of the joint EFP/ORCA workshop on the boundaries between caries and periodontal diseases. J Clin Periodontol. 2017;44(Suppl 18):S39-S51."
   - "Löe H, Silness J. Periodontal disease in pregnancy: Prevalence and severity. Acta Odontol Scand. 1963;21(6):533-551."
   - "Murakami S, Mealey BL, Mariotti A, et al. Dental plaque-induced gingival conditions. J Periodontol. 2018;89(Suppl 1):S17-S27."
+last_reviewed: 2026-04-01
 ---
 Bleeding gums affect nearly half of adults. In most cases, it's a sign of early gum disease. The good news: early treatment is simple and inexpensive. Ignore it, and treatment gets expensive fast. Here's what you need to know.
 

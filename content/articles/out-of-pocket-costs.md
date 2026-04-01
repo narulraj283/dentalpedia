@@ -18,6 +18,7 @@ slug: out-of-pocket-costs
 subcategory: Practice & Insurance Overview
 subcategory_slug: overview-practice
 title: Out of Pocket Costs
+last_reviewed: 2026-04-01
 ---
 Dental costs can feel shocking compared to what insurance covers. You might have insurance, but it doesn't cover as much as medical insurance. Here's how to navigate insurance, maximize your benefits, and find strategies to afford dental care without financial stress.
 

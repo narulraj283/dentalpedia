@@ -45,6 +45,7 @@ slug: timeline-for-enamel-erosion-repair
 subcategory: Preventive Overview
 subcategory_slug: overview-prevent
 title: 'Enamel Erosion: Management, Remineralization'
+last_reviewed: 2026-04-01
 ---
 ## Introduction
 

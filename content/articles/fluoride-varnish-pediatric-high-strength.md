@@ -20,6 +20,7 @@ references:
   - "Featherstone JD. Prevention and reversal of dental caries: role of low level fluoride. Community Dent Oral Epidemiol. 1999;27(1):31-40."
   - "Adair SM. Fluoride and the prevention of tooth decay. J Am Dent Assoc. 2006;137(3):373-378."
   - "Kassebaum NJ, Bernabe E, Dahiya M, et al. Global burden of untreated caries: a systematic review and metaregression. J Dent Res. 2015;94(5):650-658."
+last_reviewed: 2026-04-01
 ---
 ## How High-Strength Varnish Protects Baby Teeth
 

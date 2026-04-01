@@ -21,6 +21,7 @@ references:
   - "Sisk AL, Grover BJ. Comparison of the effects of a single-dose preoperative versus intraoperative subcutaneous injection of dexamethasone on the incidence and severity of postoperative facial edema. Journal of Oral and Maxillofacial Surgery. 2021;49(3):216-219."
   - "Reutzow G. Mechanisms and management of perioperative edema: A comprehensive review. Molecular Medicine Reports. 2020;11(4):2263-2271."
   - "Montgomery MT, Hogg JP, Roberts DL, et al. The use of glucocorticosteroids to lessen the inflammatory sequelae following orthognathic surgery: Review of the literature and preliminary report. Journal of Oral and Maxillofacial Surgery. 2019;48(2):179-187."
+last_reviewed: 2026-04-01
 ---
 ## Why Swelling Happens
 

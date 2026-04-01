@@ -18,6 +18,7 @@ slug: sealer-cementing-root-canal-system
 subcategory: General Overview
 subcategory_slug: overview-general
 title: Root Canal Sealers - What They Do and Why They Matter
+last_reviewed: 2026-04-01
 ---
 ## What Happens During Root Canal Treatment
 

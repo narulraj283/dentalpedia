@@ -21,6 +21,7 @@ references:
   - "Ramfjord SP. Periodontal Disease Index (PDI). J Periodontol. 2019;36(8):581-591."
   - "Jeffcoat MK, Reddy MS. Radiographic Methods for the Detection of Progressive Alveolar Bone Loss. J Periodontol. 2020;61(10):590-594."
   - "Socransky SS, Haffajee AD. The Bacterial Etiology of Destructive Periodontal Diseases. J Periodontol. 2020;65(5):372-381."
+last_reviewed: 2026-04-01
 ---
 If your dentist has mentioned that you have gum disease, you might be wondering what that really means and whether it's serious. Gum disease isn't just one condition—it exists in stages, ranging from minor inflammation to serious bone loss. Understanding what stage you're at helps you know what to expect and what treatment options are available.
 

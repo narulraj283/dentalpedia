@@ -21,6 +21,7 @@ references:
   - "Staggers JA Jr. Comparative costs of orthodontic treatment. J Clin Orthod. 1996;30(10):552-558."
   - "American Association of Orthodontists. Orthodontic treatment cost survey. AAO; 2022."
   - "Levin L, Sadet O, Gheradini N. Home-use cosmetic products and complications. Clin Cosmet Investig Dent. 2012;4:29-33."
+last_reviewed: 2026-04-01
 ---
 Orthodontic treatment costs are a major concern when you're considering braces or aligners. Learning more about [Benefits of Invisible Braces Benefits](/article/benefits-of-invisible-braces-benefits.html) can help you understand this better. Let's break down what you're actually paying for and why costs vary so much.
 

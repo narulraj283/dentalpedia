@@ -44,6 +44,7 @@ slug: periodontal-ligament-tooth-attachment-system
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Periodontal Ligament Tooth Attachment System
+last_reviewed: 2026-04-01
 ---
 ## What Is the Periodontal Ligament?
 

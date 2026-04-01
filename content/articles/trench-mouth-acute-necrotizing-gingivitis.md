@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/26008476
   - title: "Systemic antibiotics versus antimicrobial rinses alone in ANUG management"
     url: https://pubmed.ncbi.nlm.nih.gov/23206236
+last_reviewed: 2026-04-01
 ---
 ## Understanding Trench Mouth: A Severe but Treatable Gum Infection
 

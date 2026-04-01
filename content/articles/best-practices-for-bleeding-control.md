@@ -21,6 +21,7 @@ references:
   - "Srivastava KC, et al. Curcumin, a major component of food spice turmeric (Curcuma longa) inhibits aggregation and alters eicosanoid metabolism in human blood platelets. Prostaglandins Leukot Essent Fatty Acids. 1995;52(4):223-227."
   - "Bodner L, et al. Incidence of alveolar osteitis following surgical removal of impacted third molars. Acta Otolaryngol. 2003;123(2):201-204."
   - "Cieslik W, et al. Electrocautery in oral and maxillofacial surgery. J Oral Maxillofac Surg. 2008;66(12):2487-2491."
+last_reviewed: 2026-04-01
 ---
 ## Best Practices for Bleeding Control in Oral Surgery
 

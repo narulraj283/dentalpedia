@@ -45,6 +45,7 @@ slug: porcelain-etching-veneer-bonding
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Porcelain Etching Veneer Bonding
+last_reviewed: 2026-04-01
 ---
 ## Making Strong Bonds Between Porcelain and Teeth
 

@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/22973524
   - title: "Helmet regulations and mandates reduce sports-related head and dental trauma"
     url: https://pubmed.ncbi.nlm.nih.gov/27405741
+last_reviewed: 2026-04-01
 ---
 ## Protecting Your Teeth During Sports
 

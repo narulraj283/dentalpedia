@@ -21,6 +21,7 @@ references:
   - "Naoum SJ, Chandler NP. Resin-modified glass-ionomer cements in pediatric restorations. International Journal of Pediatric Dentistry. 2022;32(5):389-401."
   - "Featherstone JDB. Prevention and reversal of dental caries. Journal of Dental Research. 2023;102(4):361-368."
   - "Swift EJ, Perdigao J, Heymann HO. Bonding to enamel and dentin: A brief history and state of the art. Quintessence International. 2022;46(2):79-91."
+last_reviewed: 2026-04-01
 ---
 ## What Are Tooth-Colored Fillings?
 

@@ -29,6 +29,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/26037623/"
   - title: "Occlusal Wear Patterns and Vertical Dimension Changes Over Decades"
     url: "https://pubmed.ncbi.nlm.nih.gov/20574471/"
+last_reviewed: 2026-04-01
 ---
 ## A Lifetime of Wear Accumulates
 

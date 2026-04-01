@@ -21,6 +21,7 @@ references:
   - "Bouloux GF, Steed MB, Perciaccante VJ. Complications of third molar surgery. Oral Maxillofac Surg Clin North Am. 2007;19(1):117-128."
   - "Buhite RJ, Lanzador-Rodriguez C. Surgical extraction of impacted teeth. Dent Clin North Am. 2019;63(1):97-113."
   - "Park SY, Kim YI, Min KS, et al. Incidence and risk factors of post-operative complications after surgical extraction of impacted maxillary canines. J Dent Anesth Pain Med. 2018;18(3):165-172."
+last_reviewed: 2026-04-01
 ---
 Not all tooth extractions are simple. Some teeth are stuck (impacted), heavily damaged, or in tough positions, and they require surgical removal by a specialist. Understanding what makes an extraction complex and what it will cost helps you prepare both emotionally and financially.
 

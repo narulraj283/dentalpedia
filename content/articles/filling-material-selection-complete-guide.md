@@ -19,6 +19,7 @@ references:
   - "Powers JM, Sakaguchi RL. Craig's Restorative Dental Materials. 13th ed. Mosby; 2012."
   - "Manhart J, et al. Longevity of tooth-colored restorations in posterior teeth. Oper Dent. 2004;29(5):504-11."
   - "Pallesen U, van Dijken JW. A randomized controlled 30-year follow-up study of three conventional resin composites. Dent Mater. 2015;31(8):1037-44."
+last_reviewed: 2026-04-01
 ---
 ## Choosing Your Filling Material
 

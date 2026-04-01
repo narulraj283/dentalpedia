@@ -21,6 +21,7 @@ references:
   - "Blatz MB, Sadan A, Kern M. Clinical long-term behavior and failure rates of non-retentive all-ceramic crowns. J Dent Res. 2006;85(1):42-47."
   - "Valenti M, Valenti A. Retrospective evaluation of 267 zirconia monolithic crowns. J Esthet Restor Dent. 2009;21(1):47-56."
   - "Kohal RJ, Klaus G. A long-term observation of the AFT alumina oxide coated zirconia implants. J Oral Implantol. 2004;30(3):191-200."
+last_reviewed: 2026-04-01
 ---
 ## What's a Crown and Why Does Material Matter?
 

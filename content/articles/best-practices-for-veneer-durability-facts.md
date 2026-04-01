@@ -32,6 +32,7 @@ slug: best-practices-for-veneer-durability-facts
 subcategory: Veneers & Laminates
 subcategory_slug: veneers
 title: 'Veneer Durability and Longevity: Clinical Outcomes'
+last_reviewed: 2026-04-01
 ---
 ## Direct Composite Veneer Longevity and Failure Mechanisms
 

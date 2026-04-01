@@ -39,6 +39,7 @@ slug: pregnancy-and-dental-care-safety-and-timing
 subcategory: General Overview
 subcategory_slug: overview-general
 title: Pregnancy and Dental Care Safety and Timing
+last_reviewed: 2026-04-01
 ---
 ## Your Oral Health Matters During Pregnancy
 

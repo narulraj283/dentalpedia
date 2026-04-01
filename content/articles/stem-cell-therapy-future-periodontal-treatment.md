@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/27640639
   - title: "Feng F, Akiyama K, Liu X, et al. Utility of PDLSCs for regeneration of complex periodontal tissues in 3D modeling and tissue engineering: proceedings of the international association for dental research special sessions. J Dent Res. 2010;89(10):1143-1152."
     url: https://pubmed.ncbi.nlm.nih.gov/20739698
+last_reviewed: 2026-04-01
 ---
 ## Introduction
 

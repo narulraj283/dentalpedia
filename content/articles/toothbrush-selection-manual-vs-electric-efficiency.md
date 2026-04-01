@@ -43,6 +43,7 @@ slug: toothbrush-selection-manual-vs-electric-efficiency
 subcategory: Brushing, Flossing & Hygiene
 subcategory_slug: brushing-flossing
 title: 'Manual vs Electric Toothbrushes: Efficiency'
+last_reviewed: 2026-04-01
 ---
 ## Introduction
 

@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/19577160
   - title: "Natera RB, Aguila FJ, Valverde LF. Comparison of comfort, arch perimeter and alignment changes between self-ligating and conventional brackets. Angle Orthod. 2013;83(2):228-235."
     url: https://pubmed.ncbi.nlm.nih.gov/22928678
+last_reviewed: 2026-04-01
 ---
 ## At-Home Teeth Aligners: Why Professional Orthodontists Matter
 

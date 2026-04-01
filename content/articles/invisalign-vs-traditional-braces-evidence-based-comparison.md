@@ -17,6 +17,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/28883831
   - title: "Bite correction efficacy: traditional versus clear aligners"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26439738
+last_reviewed: 2026-04-01
 ---
 Both Invisalign and traditional braces straighten teeth and correct bite problems—but they do it very differently. Choosing between them means understanding how each works, their advantages and disadvantages, and how your lifestyle fits with each option. There's no universally "better" choice—the best option depends on your specific situation.
 

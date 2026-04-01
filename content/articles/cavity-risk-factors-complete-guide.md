@@ -21,6 +21,7 @@ references:
   - "Tostes MA, et al. Association between dental caries and systemic diseases. J Dent Res. 2012;91(3):219-225."
   - "Schwendicke F, Bottenberg P, Dorfer CE, et al. Horizontal transmission of caries-associated microorganisms in families. J Dent Res. 2014;93(9):871-878."
   - "Tellez M, Gomez J, Pretty IA, et al. Evidence on existing oral health promotion activities. J Dent Res. 2014;93(10):927-934."
+last_reviewed: 2026-04-01
 ---
 About 91% of adults have had at least one cavity in their lifetime. Cavities are incredibly common, but the good news is they're also preventable. Understanding what causes cavities gives you the knowledge you need to protect your teeth. This guide walks you through the main risk factors—some you can control and others you can't—and practical steps you can take to reduce your cavity risk.
 

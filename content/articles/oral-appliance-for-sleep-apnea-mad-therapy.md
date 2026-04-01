@@ -27,6 +27,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/36789012
   - title: "Sleep Medicine and Dental Professional Collaboration in OSA Treatment"
     url: https://www.ncbi.nlm.nih.gov/pubmed/37890123
+last_reviewed: 2026-04-01
 ---
 ## A Dental Solution for Sleep Apnea
 

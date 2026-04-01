@@ -27,6 +27,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/26098765
   - title: "Patient compliance with recommended brushing duration and technique: real-world assessment and behavioral modification"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25087654
+last_reviewed: 2026-04-01
 ---
 You probably learned to brush your teeth as a child, but there's a good chance you're not doing it the most effective way. Brushing is your first line of defense against cavities and gum disease, but the technique matters more than many people realize. Hard bristles and aggressive scrubbing don't translate to cleaner teeth—in fact, they often cause damage. The right technique uses moderate pressure, the correct bristle angle, and sufficient time to reach all tooth surfaces. By adjusting your brushing method, you can dramatically improve your plaque removal while protecting your gums and enamel.
 

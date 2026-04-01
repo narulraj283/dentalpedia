@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/26353262
   - title: "Vitamin D Deficiency and Implant Failure: A Clinical Case-Control Study"
     url: https://pubmed.ncbi.nlm.nih.gov/27098701
+last_reviewed: 2026-04-01
 ---
 ## The Dynamic Duo: Vitamin D and Calcium for Your Teeth
 

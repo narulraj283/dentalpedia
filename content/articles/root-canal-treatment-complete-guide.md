@@ -32,6 +32,7 @@ slug: root-canal-treatment-complete-guide
 subcategory: Endodontic Overview
 subcategory_slug: overview-endo
 title: Root Canal Treatment Complete Guide
+last_reviewed: 2026-04-01
 ---
 ## What Is Root Canal Treatment - What You Need to Know to Save Your Tooth?
 

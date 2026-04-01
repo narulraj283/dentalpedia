@@ -44,6 +44,7 @@ slug: tartar-control-toothpaste-ingredients-and-effectiveness
 subcategory: Preventive Overview
 subcategory_slug: overview-prevent
 title: 'Tartar Control Toothpaste: Ingredients, Mechanisms'
+last_reviewed: 2026-04-01
 ---
 ## How Tartar Forms and Why Control Matters
 

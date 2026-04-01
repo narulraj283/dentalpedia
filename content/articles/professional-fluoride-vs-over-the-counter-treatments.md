@@ -38,6 +38,7 @@ slug: professional-fluoride-vs-over-the-counter-treatments
 subcategory: Brushing, Flossing & Hygiene
 subcategory_slug: brushing-flossing
 title: Professional Fluoride vs Over-the-Counter Treatments
+last_reviewed: 2026-04-01
 ---
 ## Why Fluoride Strength Matters
 

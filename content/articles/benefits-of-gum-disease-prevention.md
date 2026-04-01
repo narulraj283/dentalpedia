@@ -43,6 +43,7 @@ references:
     authors: "Beck JD, Offenbacher S"
     year: 2008
     publication: "Periodontology 2000"
+last_reviewed: 2026-04-01
 ---
 Gum disease is incredibly common—about 1 in 10 people have serious gum disease. But here's the good news: it's preventable. Even people who have had gum disease can prevent it from coming back if they know what to do.
 

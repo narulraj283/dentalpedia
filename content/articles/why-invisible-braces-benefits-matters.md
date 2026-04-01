@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/27834673
   - title: "Digital Scanning and Fabrication Accuracy in Customized Aligner Manufacturing"
     url: https://pubmed.ncbi.nlm.nih.gov/29451826
+last_reviewed: 2026-04-01
 ---
 ## Clear Aligners Are Changing How People Get Straighter Teeth
 

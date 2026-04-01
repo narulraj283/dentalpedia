@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/19362200
   - title: "Patient satisfaction and color stability with professional whitening treatments"
     url: https://pubmed.ncbi.nlm.nih.gov/20598150
+last_reviewed: 2026-04-01
 ---
 ## Understanding Color Relapse
 

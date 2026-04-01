@@ -27,6 +27,7 @@ slug: emergency-tooth-pain-complete-guide
 subcategory: General Overview
 subcategory_slug: overview-general
 title: 'Emergency Tooth Pain: Complete Guide to Causes, Diagnosis'
+last_reviewed: 2026-04-01
 ---
 Tooth pain can be one of the worst experiences—it interferes with eating, sleeping, and your ability to concentrate at work or school. Understanding what's causing your pain and how to get relief is the first step toward feeling better. This guide helps you recognize different types of tooth pain and understand what your dentist will do to help you.
 

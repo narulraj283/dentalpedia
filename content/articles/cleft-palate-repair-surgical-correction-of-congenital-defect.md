@@ -21,6 +21,7 @@ references:
   - Maegawa J, Iizuka T, Muraoka M, et al. The effect of early repair on speech outcomes in cleft palate. Cleft Palate Craniofac J. 2003;40(3):255-260.
   - Nelligan PC, Gruss JS. New innovations in cleft care. Plast Reconstr Surg. 2016;137(5):860e-870e.
   - Ysunza A, Pamplona MC, Mendoza M, et al. Velopharyngeal insufficiency in non-syndromic cleft patients: prevalence and associated factors. Plast Reconstr Surg. 2014;133(5):1147-1155.
+last_reviewed: 2026-04-01
 ---
 ## Why Palate Repair Matters for Your Child's Speech
 

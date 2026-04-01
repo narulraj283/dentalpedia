@@ -17,6 +17,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/15666884
   - title: "Amler MH. The time sequence of tissue regeneration in human extraction wounds. Oral Surgery, Oral Medicine, Oral Pathology. 1969;27(3):309-318."
     url: https://pubmed.ncbi.nlm.nih.gov/5251474
+last_reviewed: 2026-04-01
 ---
 ## Introduction
 

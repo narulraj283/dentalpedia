@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/10825871
   - title: "Fradeani M. Esthetic rehabilitation in fixed prosthodontics. Quintessence Publishing; 2004."
     url: https://pubmed.ncbi.nlm.nih.gov/15382841
+last_reviewed: 2026-04-01
 ---
 ## Is Your Smile Makeover Right for You?
 

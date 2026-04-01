@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/36890123
   - title: "Long-term enamel quality after orthodontic treatment"
     url: https://www.ncbi.nlm.nih.gov/pubmed/37901234
+last_reviewed: 2026-04-01
 ---
 ## What Can Go Wrong With Bracket Application
 

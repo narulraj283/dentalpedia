@@ -27,6 +27,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/16905671/"
   - title: "Third molar removal in young patients: timing recommendations and outcomes"
     url: "https://pubmed.ncbi.nlm.nih.gov/16618928/"
+last_reviewed: 2026-04-01
 ---
 ## Wisdom Teeth: When Extraction Is Actually Necessary
 

@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/16097227
   - title: "Gravina MA, Brunharo VP, Canavarro C, Artese F. Maxillary skeletal and dental changes with the Herbst appliance: A comparison with other appliances. Am J Orthod Dentofacial Orthop. 2015;147(5):568-577."
     url: https://pubmed.ncbi.nlm.nih.gov/25920205
+last_reviewed: 2026-04-01
 ---
 ## Introduction
 

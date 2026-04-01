@@ -47,6 +47,7 @@ references:
   authors: Jeffcoat MK, Geurs NC, Reddy MS, Cliver SP, Goldenberg RL, Hauth JC
   year: 2000
   publication: Journal of Periodontology
+last_reviewed: 2026-04-01
 ---
 Your dentist talks about gum disease in stages—from gingivitis (reversible early stage) all the way to advanced periodontitis (serious disease requiring complex treatment). Understanding these stages helps you understand your own dental health and what your dentist is recommending. The good news is that early stages are totally fixable, but later stages require more involved treatment.
 

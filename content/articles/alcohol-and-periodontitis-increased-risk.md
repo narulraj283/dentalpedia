@@ -21,6 +21,7 @@ references:
   - "Ylöstalo PV, et al. The role of alcohol drinking in relation to risk of recurrent periodontitis. Journal of Clinical Periodontology. 2003;30(1):1-8."
   - "Naidoo S, et al. Systematic review of alcohol-related gum disease. Journal of the American Dental Association. 2012;143(1):41-48."
   - "Tezal M, et al. Infection, inflammation, and alveolar bone loss. Journal of Dental Research. 2005;84(1):29-32."
+last_reviewed: 2026-04-01
 ---
 ## How Alcohol Weakens Your Gum Defense
 

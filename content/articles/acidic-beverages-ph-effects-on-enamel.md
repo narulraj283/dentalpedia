@@ -19,6 +19,7 @@ references:
   - "Attin T, Siegel S, Becker K, et al. Impact of modified acidic soft drinks on enamel erosion. Oral Diseases. 2005;11(1):7-12."
   - "Zero DT. Etiology of dental erosion—extrinsic factors. European Journal of Oral Sciences. 1996;104(2):162-177."
   - "Lussi A, Kohler N, Zero D, et al. A systematic review of the prevalence and incidence of dental erosion. Oral Surgery, Oral Medicine, and Oral Pathology, Oral Radiology. 2014;117(4):e421-e427."
+last_reviewed: 2026-04-01
 ---
 ## Why Some Drinks Damage Teeth
 

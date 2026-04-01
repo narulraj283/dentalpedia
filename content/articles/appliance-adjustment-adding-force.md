@@ -27,6 +27,7 @@ slug: appliance-adjustment-adding-force
 subcategory: Treatment Mechanics
 subcategory_slug: treatment-mechanics
 title: Appliance Adjustment and Force Application in Orthodontics
+last_reviewed: 2026-04-01
 ---
 ## Why Force Matters in Braces
 

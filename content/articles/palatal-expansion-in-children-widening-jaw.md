@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/15520690
   - title: "Wertz RA. Skeletal and dental changes accompanying rapid midline diastema closure. Angle Orthod. 1970;40(2):141-152."
     url: https://pubmed.ncbi.nlm.nih.gov/5269197
+last_reviewed: 2026-04-01
 ---
 ## Why Your Child Might Need Palatal Expansion
 

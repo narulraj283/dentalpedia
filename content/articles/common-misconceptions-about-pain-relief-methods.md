@@ -21,6 +21,7 @@ references:
   - "Kaelin DL, Kovach SJ, Sears ED. Current advances in pain management. Hand Clin. 2015;31(1):1-9."
   - "Ahmed SI, Oswald TM, Kirton OC. Multimodal analgesia for acute postoperative and trauma-related pain. Surg Clin North Am. 2016;96(5):1011-1030."
   - "Macintyre PE. Safety and efficacy of NSAIDs in the perioperative period. Drugs. 2011;71(15):1959-1971."
+last_reviewed: 2026-04-01
 ---
 ## Finding the Right Approach to Dental Pain Relief
 

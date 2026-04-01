@@ -45,6 +45,7 @@ slug: sugar-free-gum-effectiveness-saliva-stimulation-benefits
 subcategory: Preventive Overview
 subcategory_slug: overview-prevent
 title: Sugar-Free Gum Effectiveness - Saliva Stimulation
+last_reviewed: 2026-04-01
 ---
 ## Xylitol: The Game Changer for Cavity Prevention
 

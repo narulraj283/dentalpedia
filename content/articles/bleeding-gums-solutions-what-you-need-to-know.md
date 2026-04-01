@@ -25,6 +25,7 @@ slug: bleeding-gums-solutions-what-you-need-to-know
 subcategory: General Overview
 subcategory_slug: overview-general
 title: 'Gingival Hemorrhage: Etiology, Clinical Evaluation'
+last_reviewed: 2026-04-01
 ---
 ## Why Your Gums Matter
 

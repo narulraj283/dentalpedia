@@ -19,6 +19,7 @@ references:
   - "Seneviratne CJ, Wang Y, Jin L, Abiko Y, Machado de Oliveira D. Proteases and collagenolytic activities in Candida albicans and oral Candida species. Oral Diseases. 2008;14(6):500-508."
   - "Socransky SS, Haffajee AD. Periodontal microbial ecology. Periodontology 2000. 2005;38:135-187."
   - "Darveau RP. Oral microbial communities: biofilms, interactions, and genetic diversity. Periodontology 2000. 2010;52(1):11-25."
+last_reviewed: 2026-04-01
 ---
 ## What Exactly Is Dental Biofilm?
 

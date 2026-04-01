@@ -19,6 +19,7 @@ references:
   - "Messner AH, et al. Ankyloglossia: Consensus review by the American Academy of Pediatrics. Pediatrics. 2020;145(6):e20190993."
   - "Yaster M, et al. Sucking problems in infants: diagnosis and treatment. Pediatr Dent Rev. 2016;1(3):189-197."
   - "Klasco R, et al. Frenectomy as a treatment for ankyloglossia: effectiveness and complications. Pediatr Dent J. 2015;25(4):312-318."
+last_reviewed: 2026-04-01
 ---
 Tongue-tie—called ankyloglossia by dentists—affects about 4-11 out of every 100 newborns, making it quite common. Despite how frequently it occurs, doctors and dentists don't always agree on when to treat it. Understanding what tongue-tie is, how it affects feeding and speech, and what treatment options exist helps parents make informed decisions about their child's care.
 

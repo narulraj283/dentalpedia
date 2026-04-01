@@ -46,6 +46,7 @@ slug: peppermint-soothing-herb
 subcategory: Holistic Overview
 subcategory_slug: overview-holistic
 title: Peppermint Soothing Herb
+last_reviewed: 2026-04-01
 ---
 ## Why People Love Peppermint for Oral Care
 

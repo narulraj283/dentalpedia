@@ -40,6 +40,7 @@ slug: phobia-origin-exploration
 subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
 title: Dental Phobia Origins and Contributing Factors
+last_reviewed: 2026-04-01
 ---
 ## Understanding Dental Phobia as Real Anxiety
 

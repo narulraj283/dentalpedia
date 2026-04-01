@@ -18,6 +18,7 @@ slug: secondary-dentin-age-related-changes
 subcategory: General Overview
 subcategory_slug: overview-general
 title: Secondary Dentin Age Related Changes
+last_reviewed: 2026-04-01
 ---
 ## Your Teeth Change Throughout Your Life
 

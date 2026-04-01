@@ -10,6 +10,7 @@ slug: tmj-syndrome-jaw-pain-causes-and-treatment
 subcategory: TMJ & Sleep Overview
 subcategory_slug: overview-tmj-sleep
 title: 'TMJ Syndrome: Causes, Clinical Presentation'
+last_reviewed: 2026-04-01
 ---
 ## Introduction
 

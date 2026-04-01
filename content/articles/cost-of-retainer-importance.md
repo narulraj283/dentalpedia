@@ -21,6 +21,7 @@ references:
   - "Zachrisson BU. Third-generation MBT: changes and evolution. J Clin Orthod. 2016;50(1):43-57."
   - "Nanda R, editor. Retention and Stability in Orthodontics. Saunders/Elsevier; 2010."
   - "Kandasamy S, Woods MG. Long-term periodontal health of orthognathic surgery patients. Aust Dent J. 2013;58(3):350-357."
+last_reviewed: 2026-04-01
 ---
 ## Why Retainers Matter
 

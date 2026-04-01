@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/17138709
   - title: "American Dental Association. ADA Seal of Acceptance program requirements. J Am Dent Assoc. 2016;147(1):42-45."
     url: https://pubmed.ncbi.nlm.nih.gov/26700294
+last_reviewed: 2026-04-01
 ---
 ## Introduction
 

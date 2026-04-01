@@ -19,6 +19,7 @@ references:
   - "Culp L, McLaren EA. Layering techniques for a natural molar esthetic result. J Cosmet Dent. 2000;16(1):32-41."
   - "Nahm MA, Schönherr B. A systematic examination of the color and appearance of teeth. In: Schönherr B, Nahm MA, eds. Tooth Color Selection. 3rd ed. Quintessence Publishing; 2019."
   - "O'Brien WJ. Dental Materials and Their Selection. 4th ed. Quintessence Publishing; 2008."
+last_reviewed: 2026-04-01
 ---
 ## Why Color Matching Matters
 

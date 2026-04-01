@@ -19,6 +19,7 @@ references:
   - "Jensen OT, Cottam JR, Ringeman JF, et al. The tilted implant approach in completely edentulous patients. J Oral Implantol. 2008;34(3):141-151."
   - "Tallarico M, Meloni F, Xhanari E, et al. Straight vs tilted implants in maxillary All-on-4. Int J Oral Maxillofac Implants. 2016;31(2):291-309."
   - "Branemark PI. Osseointegration and its experimental background. J Prosthet Dent. 1983;50(3):399-410."
+last_reviewed: 2026-04-01
 ---
 ## A Game-Changer for Edentulous Patients
 

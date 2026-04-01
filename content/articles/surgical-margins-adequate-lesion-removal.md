@@ -17,6 +17,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/16257260
   - title: "Epstein JB, Feldman R, Dolor RJ, Sciubba J. The utility of toluidine blue application as a diagnostic aid in patients with oral epithelial dysplasia and carcinoma. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2003;96(3):325-329."
     url: https://pubmed.ncbi.nlm.nih.gov/12973489
+last_reviewed: 2026-04-01
 ---
 ## Introduction
 

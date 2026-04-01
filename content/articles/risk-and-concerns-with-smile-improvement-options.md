@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/9586184
   - title: "Preston JD. The golden proportion revisited. J Esthet Restor Dent. 1993;5(5):247-251."
     url: https://pubmed.ncbi.nlm.nih.gov/8199920
+last_reviewed: 2026-04-01
 ---
 ## Why Multi-Step Smile Improvement Gets Complicated
 

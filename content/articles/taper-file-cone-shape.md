@@ -6,6 +6,7 @@ excerpt: If your dentist needs to do a root canal, you might hear them talk abou
 slug: taper-file-cone-shape
 title: Taper File Cone Shape
 date: 2026-03-05
+last_reviewed: 2026-04-01
 ---
 ## Understanding File Taper and Why It Matters
 

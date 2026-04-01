@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/1564203
   - title: "Lund H, Gréve G, Semb G. Treatment efficiency of Class II correction in one phase of orthodontic treatment. Am J Orthod Dentofacial Orthop. 2012;142(5):636-645."
     url: https://pubmed.ncbi.nlm.nih.gov/23116509
+last_reviewed: 2026-04-01
 ---
 ## How Orthodontic Treatment Actually Works
 

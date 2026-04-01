@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/23050185
   - title: "Blatz MB, et al. Restoration longevity in prosthodontics. J Prosthodont. 2011;20(2):91-96."
     url: https://pubmed.ncbi.nlm.nih.gov/21342349
+last_reviewed: 2026-04-01
 ---
 ## Bonding: Fast and Reversible, But Less Durable
 

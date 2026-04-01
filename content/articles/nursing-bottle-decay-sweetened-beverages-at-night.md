@@ -28,6 +28,7 @@ slug: nursing-bottle-decay-sweetened-beverages-at-night
 subcategory: Pediatric Dentistry
 subcategory_slug: overview-pediatric
 title: Nursing Bottle Decay Sweetened Beverages at Night
+last_reviewed: 2026-04-01
 ---
 If your baby or toddler uses a bedtime bottle, you might think you're doing everything right—especially if it contains milk or formula. But here's what many parents don't realize: putting your child to sleep with anything other than water in that bottle can cause serious tooth decay that damages baby teeth before they're even fully in. We call this "nursing bottle decay," and it's incredibly common. The good news? It's completely preventable with a few simple changes to your child's bedtime routine.
 

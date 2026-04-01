@@ -21,6 +21,7 @@ references:
   - "Secondary caries under veneer margins: etiology and prevention. Caries Research. 2019;53(5):574-583."
   - "Shade matching and color stability over time. Journal of Esthetic Dentistry. 2020;32(1):88-96."
   - "Patient satisfaction and veneer replacement rates. Clinical Cosmetic and Investigational Dentistry. 2021;13:89-98."
+last_reviewed: 2026-04-01
 ---
 Veneers look fantastic and make people feel great about their smiles. But you've probably heard that veneers are "permanent" and last forever. The reality is more nuanced. Let's talk about what actually determines veneer longevity and when you might need them replaced.
 

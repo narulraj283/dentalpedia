@@ -21,6 +21,7 @@ references:
   - "Brunton PA, Ghassemi A, Gill DS. Aesthetic applications of resin-based composites in prosthodontics. Dent Update. 2005;32(4):236-246."
   - "van de Sande FH, Opdam NJ, Rodolpho PA, et al. Patient-centered outcomes of dental restorations. A systematic review. J Dent. 2014;42(9):1008-1017."
   - "Demarco FF, Collares K, Coelho-de-Souza FH, et al. Anterior composite restorations: A systematic review on long-term survival and reasons for failure. Dent Mater. 2015;31(10):1214-1224."
+last_reviewed: 2026-04-01
 ---
 ## What Your Dentist Does First
 

@@ -29,6 +29,7 @@ references:
   systematic review. J Oral Rehabil. 2014;41(4):301-309.
 - 'Young DA, Featherstone JD, Roth JR. Curing the silent epidemic: caries management
   in the 21st century and beyond. J Dent Educ. 2007;71(10):1339-1350.'
+last_reviewed: 2026-04-01
 ---
 Not everyone gets cavities at the same rate. Learning more about [Cost of Cavity Prevention Methods](/article/cost-of-cavity-prevention-methods.html) can help you understand this better. Some people brush twice a day and never see a cavity, while others seem to get them constantly.
 

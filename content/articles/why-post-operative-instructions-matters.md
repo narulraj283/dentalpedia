@@ -27,6 +27,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/26505920/"
   - title: "Post-Extraction Socket Healing and Complications Management"
     url: "https://pubmed.ncbi.nlm.nih.gov/28905933/"
+last_reviewed: 2026-04-01
 ---
 Following your post-operative instructions after dental surgery makes the difference between smooth healing and serious problems. Studies show that patients who carefully follow post-operative instructions have 30 to 50% fewer problems than those who ignore the directions. Your dentist gives you specific instructions because each one prevents a particular problem and helps your mouth heal properly.
 

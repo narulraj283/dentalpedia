@@ -29,6 +29,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/25432809
   - title: "Quantitative light-induced fluorescence for monitoring remineralization therapy in early caries lesions"
     url: https://www.ncbi.nlm.nih.gov/pubmed/29381293
+last_reviewed: 2026-04-01
 ---
 Finding cavities early is much better than finding them late. When your dentist catches a cavity in its earliest stages, they can often treat it without drilling. That's why modern dentistry uses multiple methods to detect cavities—not just looking at your teeth.
 

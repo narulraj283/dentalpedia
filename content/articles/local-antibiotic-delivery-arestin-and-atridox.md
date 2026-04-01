@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/11062527
   - title: "Clinical Evaluation of Periodontal Parameters after Subgingival Delivery of Doxycycline and Minocycline"
     url: https://www.ncbi.nlm.nih.gov/pubmed/19206330
+last_reviewed: 2026-04-01
 ---
 ## What Are Arestin and Atridox?
 

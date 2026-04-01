@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/18356871
   - title: "Sarita PT, Kreulen CM, Witter DJ, Creugers NH. Prosthodontic and psychosocial aspects of removable dentures. J Oral Rehabil. 2003;30(3):271-287."
     url: https://pubmed.ncbi.nlm.nih.gov/12588498
+last_reviewed: 2026-04-01
 ---
 ## Getting Used to Your New Dentures Takes Time
 

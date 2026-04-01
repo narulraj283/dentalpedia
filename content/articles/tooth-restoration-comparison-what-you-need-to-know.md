@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/16997900
   - title: "Beazoglou T, Eklund S, Hefferman J, et al. Economic impact of regulating amalgam and resin-based composite restorations. Public Health Rep. 2007;122(5):657-663."
     url: https://pubmed.ncbi.nlm.nih.gov/17877312
+last_reviewed: 2026-04-01
 ---
 ## Understanding the Basics
 

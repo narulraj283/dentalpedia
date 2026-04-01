@@ -21,6 +21,7 @@ references:
   - "Walls AW, Murray JJ, Wallhaus GJ. The durability of porcelain veneers in a general practice. Community Dent Oral Epidemiol. 1992;20(1):18-21."
   - "Smidt A, Nasser Z, Zandbank S, et al. Long-term clinical performance of porcelain veneers bonded to teeth with a modified resin luting cement. J Prosthet Dent. 2009;102(4):228-234."
   - "Edelhoff D, Soro C, Squier SB. EdgeTone Technology: A Systematic Approach to Esthetic Crown and Veneer Fabrication. Quintessence Publishing; 2011."
+last_reviewed: 2026-04-01
 ---
 If you're considering veneers to improve your smile, you've probably heard the terms "porcelain veneers" and "ceramic veneers" used interchangeably. Here's the truth: they're essentially the same thing. Both are made of ceramic material and offer outstanding results that last for many years. Understanding the different types helps you work with your dentist to choose the best option for your specific situation.
 

@@ -13,6 +13,7 @@ reviewed: true
 references:
   - "Proffit WR, Fields HW, Sarver DM. Contemporary Orthodontics. 6th ed. St. Louis: Mosby Elsevier; 2018."
   - "Burstone CJ. The mechanics of the segmented arch technique. Angle Orthod. 1966;36(2):99-120."
+last_reviewed: 2026-04-01
 ---
 ## What Is a Deep Bite?
 

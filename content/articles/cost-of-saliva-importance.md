@@ -21,6 +21,7 @@ references:
   - "Millsop JW, Wang EA, Fazel N. Systemic drugs with antimuscarinic properties: review and renal considerations. Am J Med Sci. 2014;347(5):378-382."
   - "Maiorino MI, Chiodini P, Bellastella G, et al. Insulins and oral agents for type 2 diabetes treatment: systematic review of randomized controlled trials. Eur Rev Med Pharmacol Sci. 2015;19(18):3584-3606."
   - "Saliva Substitutes and Stimulants for Dry Mouth. Agency for Healthcare Research and Quality. 2016. https://www.ahrq.gov"
+last_reviewed: 2026-04-01
 ---
 ## Why Your Saliva Matters
 

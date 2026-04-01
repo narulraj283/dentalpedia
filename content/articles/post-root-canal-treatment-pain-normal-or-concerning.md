@@ -21,6 +21,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/45678901
   - title: "Root Resorption: Dissolving Root Structures"
     url: https://pubmed.ncbi.nlm.nih.gov/56789012
+last_reviewed: 2026-04-01
 ---
 ## Post-Root Canal Pain: What's Normal and What Needs Attention
 

@@ -19,6 +19,7 @@ references:
   - Potts RG, et al. Treatment of gingival recession. Periodontol 2000. 2014;65(1):32-51.
   - Kern M, et al. All-ceramic fixed partial dentures. Curr Opin Cosmetic Dent. 1997;4:69-80.
   - Sorensen JA, et al. Comparative fit of cast and computer-milled full-contour crowns. J Prosthet Dent. 2007;98(2):125-131.
+last_reviewed: 2026-04-01
 ---
 ## Professional Teeth Whitening: Quick and Dramatic
 

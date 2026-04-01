@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/1095736
   - title: "Mjor IA. Pulp-dentin biology: relationship and biological significance. Int Endod J. 2009;42(2):95-109."
     url: https://pubmed.ncbi.nlm.nih.gov/19134033
+last_reviewed: 2026-04-01
 ---
 ## Your Tooth Has Four Layers
 

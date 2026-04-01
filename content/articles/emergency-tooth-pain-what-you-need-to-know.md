@@ -21,6 +21,7 @@ references:
   - "Cohen S. Pathways of the Pulp. 10th ed. Elsevier; 2011."
   - "Nair PNR. Pathogenesis of apical periodontitis and the causes of endodontic failures. Crit Rev Oral Biol Med. 2004;15(6):348-381."
   - "Hargreaves KM, Goodis HE. Seltzer and Bender's Dental Pulp. Quintessence Publishing; 2002."
+last_reviewed: 2026-04-01
 ---
 Tooth pain that requires emergency treatment is different from routine tooth sensitivity or minor discomfort. Knowing when you have a true emergency helps you get the right care at the right time. This guide helps you recognize serious tooth problems and understand what happens when you seek emergency dental treatment.
 

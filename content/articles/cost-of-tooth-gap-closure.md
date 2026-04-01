@@ -21,6 +21,7 @@ references:
   - "Roberson TM, Heymann HO, Swift EJ. Sturdevant's Art and Science of Operative Dentistry. 5th ed. Mosby; 2006."
   - "Magne P, Belser UC. Bonded porcelain restorations in the anterior dentition. Quintessence Int. 1997;28(3):156-165."
   - "Chiarugi G, Zema M, Chiarugi D, Ferrari M. Composite resins for anterior restoration. Pract Proced Aesthet Dent. 2005;17(10):647-654."
+last_reviewed: 2026-04-01
 ---
 ## What Your Gap Closure Options Are
 

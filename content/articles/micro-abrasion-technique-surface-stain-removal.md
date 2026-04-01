@@ -29,6 +29,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/22015627
   - title: "Remineralization Potential Following Microabrasion and Fluoride Application"
     url: https://www.ncbi.nlm.nih.gov/pubmed/17395786
+last_reviewed: 2026-04-01
 ---
 If you have white or brown spots on your front teeth from fluorosis, microabrasion can help. It's a gentle technique that removes surface stains that whitening can't fix. Unlike veneers, it only removes the stained layer and saves your natural tooth structure.
 

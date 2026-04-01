@@ -38,6 +38,7 @@ slug: timeline-for-complex-extractions
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: 'Complex Tooth Extraction Timeline: Surgical Planning'
+last_reviewed: 2026-04-01
 ---
 ## Before Your Extraction Surgery
 

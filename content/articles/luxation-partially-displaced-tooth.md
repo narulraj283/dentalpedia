@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/12949649
   - title: "Long-Term Prognosis and Sequelae of Luxation Injuries in Permanent Dentition"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27001271
+last_reviewed: 2026-04-01
 ---
 ## What Is Luxation?
 

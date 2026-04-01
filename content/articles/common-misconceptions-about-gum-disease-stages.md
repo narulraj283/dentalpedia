@@ -19,6 +19,7 @@ references:
   - Papapanou PN, et al. Periodontitis: Consensus report of workgroup 2 of the 2017 World Workshop on the Classification of Periodontal and Peri-Implant Diseases and Conditions. Journal of Clinical Periodontology. 2018;45(S20):S162-S170.
   - Heitz-Mayfield LJ, et al. Consensus statements and recommended clinical procedures regarding implant disease epidemiology and diagnosis. International Journal of Oral Implantology. 2015;8(4):10-26.
   - Suvan J, et al. Consensus Report: Periodontal and Peri-Implant Diseases. Journal of Clinical Periodontology. 2018;45(S20):S1-S4.
+last_reviewed: 2026-04-01
 ---
 Your dentist mentions "stage 2 periodontitis" and you're confused about what that means and how serious it is. Learning more about gum health maintenance what you should know can help you understand this better. Gum disease classification is actually more detailed than you might realize, and understanding the stages helps you understand your actual risk and prognosis.
 

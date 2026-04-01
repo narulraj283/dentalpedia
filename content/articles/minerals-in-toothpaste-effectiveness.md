@@ -29,6 +29,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/22015632
   - title: "Clinical Efficacy of Novel Toothpaste Technologies: Systematic Review"
     url: https://www.ncbi.nlm.nih.gov/pubmed/17395791
+last_reviewed: 2026-04-01
 ---
 You've probably noticed shelves full of toothpastes claiming to contain special minerals that protect your teeth better than regular paste. Some promise nano-particles, others highlight calcium or other minerals, and some mention things you've never heard of. These products cost more—sometimes two to three times the price of ordinary toothpaste. But do they actually work better? The honest answer: probably not, and you might be wasting money.
 

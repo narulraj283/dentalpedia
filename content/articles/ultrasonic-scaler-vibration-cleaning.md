@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/25301478
   - title: "Sustained antimicrobial activity following ultrasonic biofilm disruption"
     url: https://pubmed.ncbi.nlm.nih.gov/26234567
+last_reviewed: 2026-04-01
 ---
 ## Introduction
 

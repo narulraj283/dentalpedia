@@ -19,6 +19,7 @@ references:
   - "Larsen MJ, Nyvad B. Enamel erosion by some soft drinks and orange juices relative to their pH, buffering effect and contents of calcium phosphate. Caries Research. 1997;31(3):231-234."
   - "Schlueter N, Jaeggi T, Lussi A. Is dental erosion really a problem? Advances in Dental Research. 2012;24(2):68-71."
   - "Lussi A, Jaeggi T. Erosion—diagnosis and risk factors. Clinical Oral Investigations. 2008;12(1):5-13."
+last_reviewed: 2026-04-01
 ---
 ## Understanding Tooth Wear
 

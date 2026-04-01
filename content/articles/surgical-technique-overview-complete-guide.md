@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/27476160
   - title: "Moradi Majd N, Grondahl K, Flygare L. Accuracy of cone beam computed tomography (CBCT) for linear measurements of jaw bone. BMC Med Imaging. 2015;15:29."
     url: https://pubmed.ncbi.nlm.nih.gov/26142413
+last_reviewed: 2026-04-01
 ---
 ## Introduction
 

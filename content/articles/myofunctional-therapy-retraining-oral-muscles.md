@@ -27,6 +27,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/20180403
   - title: "Long-Term Stability of Malocclusion Correction with Myofunctional Therapy"
     url: https://www.ncbi.nlm.nih.gov/pubmed/23045839
+last_reviewed: 2026-04-01
 ---
 If your dentist has mentioned tongue thrust, mouth breathing, or abnormal swallowing patterns, you might benefit from myofunctional therapy. This specialized treatment retrains the muscles of your mouth and face to work properly, improving not just your bite, but also your breathing and overall oral health. About 20-80% of children (and many adults) have some form of oral muscle dysfunction. The good news is that these habits can be corrected with targeted exercises and training, which leads to better long-term results from orthodontics and improved breathing.
 

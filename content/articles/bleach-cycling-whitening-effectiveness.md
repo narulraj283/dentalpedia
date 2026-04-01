@@ -29,6 +29,7 @@ slug: bleach-cycling-whitening-effectiveness
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: 'Bleach Cycling in Tooth Whitening: Clinical Efficacy'
+last_reviewed: 2026-04-01
 ---
 ## Why Whitening Demand Is Booming
 

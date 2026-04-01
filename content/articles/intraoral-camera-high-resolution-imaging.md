@@ -18,6 +18,7 @@ slug: intraoral-camera-high-resolution-imaging
 subcategory: Dental Technology
 subcategory_slug: dental-technology
 title: 'High-Resolution Intraoral Imaging: Seeing Your Teeth'
+last_reviewed: 2026-04-01
 ---
 During your dental visit, your dentist might use a tiny camera called an intraoral camera to take detailed pictures of your teeth. The images appear on a monitor right in front of you, showing teeth at magnifications 20-50 times larger than actual size. This high-resolution imaging allows your dentist to spot problems earlier and helps you understand what your dentist sees when examining your mouth.
 

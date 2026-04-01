@@ -32,6 +32,7 @@ slug: composite-bonding-margins-blending
 subcategory: General Overview
 subcategory_slug: overview-general
 title: 'Composite Bonding Margins: Blending Techniques'
+last_reviewed: 2026-04-01
 ---
 When your dentist places a composite (tooth-colored) filling on a front tooth, the goal is making it invisible—so invisible you can't tell where your tooth ends and the filling begins. This takes technique and skill. Let's talk about what makes margins blend invisibly and how dentists achieve this.
 

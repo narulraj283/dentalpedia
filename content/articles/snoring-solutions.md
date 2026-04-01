@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/12377836
   - title: "Chung F, Yegneswaran B, Liao P, Chung SA, Vairavanathan S, Islam S, Khajehdehi A, Shapiro CM. STOP-Bang questionnaire: a practical tool for screening of obstructive sleep apnea. Anesthesiology. 2008;108(5):812-821."
     url: https://pubmed.ncbi.nlm.nih.gov/18431116
+last_reviewed: 2026-04-01
 ---
 ## Why You Snore and How to Stop
 

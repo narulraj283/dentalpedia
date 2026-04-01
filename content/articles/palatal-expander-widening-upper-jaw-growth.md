@@ -43,6 +43,7 @@ slug: palatal-expander-widening-upper-jaw-growth
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Palatal Expander Widening Upper Jaw Growth
+last_reviewed: 2026-04-01
 ---
 ## Understanding Why Your Upper Jaw Might Be Too Narrow
 

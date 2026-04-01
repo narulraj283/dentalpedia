@@ -27,6 +27,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/29345678"
   - title: "Integration of traditional and contemporary herbal oral care: Evidence-based recommendations"
     url: "https://pubmed.ncbi.nlm.nih.gov/25789012"
+last_reviewed: 2026-04-01
 ---
 ## Ancient Traditions Around the World
 

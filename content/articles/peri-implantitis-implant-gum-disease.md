@@ -45,6 +45,7 @@ slug: peri-implantitis-implant-gum-disease
 subcategory: Implant Overview
 subcategory_slug: overview-implants
 title: Peri Implantitis Implant Gum Disease
+last_reviewed: 2026-04-01
 ---
 ## What Happens When Bacteria Colonize Your Implant
 

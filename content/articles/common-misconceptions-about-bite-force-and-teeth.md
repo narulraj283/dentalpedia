@@ -19,6 +19,7 @@ references:
   - "Piotrowski BT, et al. Wear of enamel and composite resins in a novel simple-sliding-geometry. J Dent Res. 2003;82(4):267-273."
   - "Becker IM, et al. In vitro cuspal deformation and fracture resistance of teeth restored with bonded veneer and crown restorations. Quintessence Int. 2009;40(4):271-279."
   - "Sato H, et al. A method to measure occlusal contact force distribution. J Dent Res. 1997;76(10):1625-1631."
+last_reviewed: 2026-04-01
 ---
 ## How Much Bite Force Is Normal?
 

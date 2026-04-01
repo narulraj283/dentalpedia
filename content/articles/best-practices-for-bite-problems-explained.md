@@ -21,6 +21,7 @@ references:
   - "Tulloch JFC, et al. Effectiveness of conventional orthodontic treatment of Class II Division 1 malocclusion. Angle Orthod. 1997;67(6):429-434."
   - "Franchi L, et al. Predictability of skeletal changes induced by functional appliances in Class II malocclusion. Am J Orthod Dentofacial Orthop. 2003;123(2):114-123."
   - "Baccetti T, Franchi L, McNamara JA Jr. Cephalometric variables related to the timing of different stages of the dentition. Angle Orthod. 1997;67(2):231-242."
+last_reviewed: 2026-04-01
 ---
 ## Best Practices for Bite Problems Explained
 

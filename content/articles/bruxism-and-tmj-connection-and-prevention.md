@@ -35,6 +35,7 @@ slug: bruxism-and-tmj-connection-and-prevention
 subcategory: General Overview
 subcategory_slug: overview-general
 title: 'Bruxism and TMJ: Connection, Biomechanical Impact'
+last_reviewed: 2026-04-01
 ---
 ## What Is Sleep Bruxism?
 

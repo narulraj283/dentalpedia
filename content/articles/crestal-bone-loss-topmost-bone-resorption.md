@@ -19,6 +19,7 @@ references:
   - "Armitage GC. Development of a classification system for periodontal diseases and conditions. Ann Periodontol. 1999;4(1):1-6."
   - "Cury PR, Rebello de Oliveira AR, de Faria MD. Relationship between the level of alveolar crestal bone and gingival inflammatory status. J Clin Periodontol. 2006;33(8):574-580."
   - "Bartold PM, Marshall RI, Haynes DR. Periodontitis and rheumatoid arthritis: emerging therapeutic opportunities. Nat Rev Rheum. 2005;1(4):218-229."
+last_reviewed: 2026-04-01
 ---
 When you look at your teeth, you can see what's above the gum line, but the structure below is equally important. The bone supporting your teeth can gradually shrink and recede, a condition called crestal bone loss. This bone loss is one of the clearest signs of gum disease and is a major concern that needs to be addressed. Let's explore what causes it, how dentists detect it, and what you can do about it.
 

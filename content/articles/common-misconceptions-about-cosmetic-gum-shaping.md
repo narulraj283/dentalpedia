@@ -21,6 +21,7 @@ references:
   - "Azevedo B, Zhang Y, Sarikaya M. Ceramic and composite wear models. Crit Rev Oral Biol Med. 2002;13(2):146-161."
   - "Cohen RE. Position paper: Periodontal maintenance therapy. Using the evidence base to clarify the terminology, define the procedures, and identify the evidence gaps. J Periodontol. 2003;74(1):120-143."
   - "Tenenbaum H, Schalek R. Fine structure of 30-kilo-Joule-pulsed CO2 laser incisions in gingival tissue. J Periodontol. 1992;63(11):900-905."
+last_reviewed: 2026-04-01
 ---
 ## What Is a "Gummy Smile"?
 

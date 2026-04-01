@@ -19,6 +19,7 @@ references:
   - "Naik S, Tredwin CJ, Scully C. Hydrogen peroxide wash and teeth bleaching: review of safety and efficacy. Int Dent J. 2006;56(1):33-40."
   - "Tredwin CJ, Naik S, Lewis N, Scully C. Hydrogen peroxide tooth-whitening (bleaching) products: review of adverse effects and safety issues. Br Dent J. 2006;200(7):371-376."
   - "Tuloglu N, Bayrak S, Tunc ES, Oray B. Effect of different bleaching products on enamel microhardness and gingival irritation in children. Pediatr Dent. 2015;37(3):233-237."
+last_reviewed: 2026-04-01
 ---
 ## The Trade-Off: Whiter Teeth vs. Sensitivity
 

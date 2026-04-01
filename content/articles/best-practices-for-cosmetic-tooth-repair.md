@@ -21,6 +21,7 @@ references:
   - "Abu-Mostafa NA, De Munck J, Perdigao J, et al. Effectiveness of pre-treatment of bonded surfaces. J Adhes Dent. 2008;10(5):363-372."
   - "Schreier PH. Class IV composite restorations: Technique sensitive decisions. Int J Periodontics Restorative Dent. 1995;15(4):348-363."
   - "Hafez R, Ahmed D, Yousry M. Prevalence and etiology of non-carious cervical lesions. Quintessence Int. 2008;39(4):e15-e22."
+last_reviewed: 2026-04-01
 ---
 ## Tooth Damage Happens—Here's How to Fix It
 

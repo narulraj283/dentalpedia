@@ -19,6 +19,7 @@ references:
   - "Okada H, Murakami S. Cytokine expression in periodontal health and disease. Crit Rev Oral Biol Med. 1998;9(2):248-266."
   - "Wennström J, Lindhe J. Some effects of enamel matrix proteins on wound healing in the dento-gingival region. J Clin Periodontol. 2002;29(10):848-854."
   - "Kim DM, Neiva RF. Periodontal soft tissue non-root coverage procedures: a systematic review from the AAP regeneration workshop. J Periodontol. 2015;86(2 Suppl):S56-S72."
+last_reviewed: 2026-04-01
 ---
 Some other option dental practitioners claim that specific teeth connect to internal organs through energy pathways, and that dental disease in certain teeth indicates problems with corresponding organs. While these ideas are interesting philosophically, modern scientific research hasn't confirmed these tooth-organ relationships. Knowing what science shows helps you separate fact from fiction when evaluating dental treatments.
 

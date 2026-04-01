@@ -27,6 +27,7 @@ references:
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/jcpe.12865
   - title: "Gingival Recession Prevention Strategies"
     url: https://pubmed.ncbi.nlm.nih.gov/26711152/
+last_reviewed: 2026-04-01
 ---
 ## Gum Recession: Progression and Solutions
 

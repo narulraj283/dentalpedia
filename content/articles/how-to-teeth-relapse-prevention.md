@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/17229046
   - title: "Retention time requirements and permanent versus temporary retention protocols"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26789012
+last_reviewed: 2026-04-01
 ---
 ## Why Your Teeth Want to Move Back
 

@@ -19,6 +19,7 @@ references:
   - "Craig SL, Chu EH. Silver diamine fluoride and arrest of caries in primary teeth: A systematic review. JDR Clin Trans Res. 2018;3(1):76-85."
   - "Young DA, Featherstone JD, Roth JR, et al. Caries Management by Risk Assessment: consensus-based clinical practice guideline. J Am Dent Assoc. 2016;147(10):797-809."
   - "Weyant RJ, Vestergaard TH, McGaghie WC, et al. Pit and fissure sealants as a model for evidence-based clinical practice. J Dent Educ. 2002;66(10):1151-1159."
+last_reviewed: 2026-04-01
 ---
 ## Preventing Cavities: The Practical Guide to Keeping Teeth Healthy
 

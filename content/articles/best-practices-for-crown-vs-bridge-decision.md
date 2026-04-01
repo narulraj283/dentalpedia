@@ -21,6 +21,7 @@ references:
   - "Sándor GK, Rittenberg BN. The use of frozen-dried bone allografts in maxillofacial surgery and periodontics. J Can Dent Assoc. 1992;58(6):487-494."
   - "Tan K, Pjetursson BE, Lang NP, et al. A systematic review of the survival and complication rates of fixed partial dentures (bridges) after an observation period of at least 5 years. Clin Oral Implants Res. 2008;19(2):131-141."
   - "Durey K, Nixon PJ, Chan MF. Restoring the extracted tooth socket: Biological and technical considerations. Br Dent J. 2012;212(7):337-343."
+last_reviewed: 2026-04-01
 ---
 ## Understanding Your Options When a Tooth Is Missing
 

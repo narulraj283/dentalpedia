@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/26890556
   - title: "Early childhood caries etiology and risk factors in primary dentition"
     url: https://pubmed.ncbi.nlm.nih.gov/27550098
+last_reviewed: 2026-04-01
 ---
 Your dentist probably told you that sugar causes cavities. That's technically true, but the real story of how cavities form is much more interesting—and understanding it can help you prevent decay far more effectively than simply avoiding candy. Cavities result from a complex process involving bacteria, acid, your diet, and your saliva. When you understand the actual process of how decay happens, you can target your prevention efforts at the specific steps that matter most for your individual situation. This knowledge transforms generic prevention advice into personalized strategies that actually work.
 

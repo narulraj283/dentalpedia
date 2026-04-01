@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/19889949
   - title: "Sectioning strategies and atraumatic extraction of multi-rooted teeth"
     url: https://www.ncbi.nlm.nih.gov/pubmed/17092344
+last_reviewed: 2026-04-01
 ---
 Sometimes teeth can't be removed with simple pliers-like forceps. They need surgical extraction—which sounds scary but is actually a routine procedure. Whether your tooth is trapped in bone, severely decayed, broken below the gum line, or compromised by gum disease, surgical extraction is performed every day by dentists and oral surgeons. Understanding when surgical removal is necessary and what to expect helps you feel confident about your treatment plan.
 

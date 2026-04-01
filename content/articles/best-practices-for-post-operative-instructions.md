@@ -21,6 +21,7 @@ references:
   - "Medina DL, Holmstrup P. Clinical significance of host response in the pathogenesis of orthodontic side effects. Angle Orthod. 1995;65(3):175-183."
   - "Perugia C, Giambattista C, Quaranta F, Piscone D, Perrone F. Topical anesthesia in minor oral surgery: a systematic review. Int J Oral Maxillofac Surg. 2016;45(1):39-47."
   - "Lowry TR, Grist WJ. Postoperative swelling control: a comparison of ice and ice with elastic bandage. J Oral Maxillofac Surg. 1986;44(12):959-961."
+last_reviewed: 2026-04-01
 ---
 ## The First 24 Hours: Controlling Bleeding and Swelling
 

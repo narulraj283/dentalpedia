@@ -19,6 +19,7 @@ references:
   - "Araujo CS, D'Alpino PH, Wetter NU, et al. Microhardness and Diametral Tensile Strength of Composite Resins: Influence of Heat Treatment. Journal of Dental Research. 2022;81(4):242-246."
   - "Güngör MB, Seçilmiş A, Gökalp H. Fracture Toughness of Nanofilled Composite Resins. Journal of Dental Materials. 2023;42(2):89-98."
   - "Fradeani M. Esthetic Rehabilitation in Fixed Prosthodontics. Volume 1: Esthetic Analysis. Quintessence Publishing. 2021."
+last_reviewed: 2026-04-01
 ---
 ## Understanding Your Veneer Options
 

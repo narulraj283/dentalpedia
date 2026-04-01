@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/26175215
   - title: "Xerostomia management: Role of fluoride and antimicrobial rinses"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25348281
+last_reviewed: 2026-04-01
 ---
 Walk into any drugstore and you'll find hundreds of mouth rinses with bold claims and big price tags. The confusing truth? Not all rinses do what they promise, and expensive doesn't always mean effective.
 

@@ -30,6 +30,7 @@ slug: athletic-drink-acidity-effects
 subcategory: Athletic Performance
 subcategory_slug: athletic-performance
 title: 'Athletic Drink Acidity: Effects on Dental Erosion'
+last_reviewed: 2026-04-01
 ---
 If you're a serious athlete, your teeth are at risk from something unexpected: sports drinks. Athletes who drink sports drinks, energy drinks, or energy gels during training are damaging their teeth without realizing it. The acid in these drinks dissolves tooth enamel over time.
 

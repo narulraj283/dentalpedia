@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/23849399
   - title: "Treatment protocols for halitosis: Evidence-based recommendations"
     url: https://pubmed.ncbi.nlm.nih.gov/28052659
+last_reviewed: 2026-04-01
 ---
 ## Why Treating Bad Breath Matters More Than Social Embarrassment
 

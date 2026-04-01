@@ -21,6 +21,7 @@ references:
   - "Twetman S, Keller MK. Fluoride and non-fluoride chemotherapeutic agents for managing dental caries. Curr Oral Health Rep. 2016;3(2):139-146."
   - "Esteves-Oliveira M, Zezell DM, Meister J, et al. CO2 laser (10.6 microm) parameters for caries prevention in dental enamel. Caries Res. 2011;45(2):158-168."
   - "Bowen WH. The Vipeholm Dental Caries Study: Reflections on misinterpretation. J Dent Res. 2016;95(10):1076-1078."
+last_reviewed: 2026-04-01
 ---
 ## Why Preventive Care Saves Money
 

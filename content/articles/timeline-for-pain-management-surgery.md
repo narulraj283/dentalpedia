@@ -44,6 +44,7 @@ slug: timeline-for-pain-management-surgery
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: 'Managing Pain After Dental Surgery: What to Expect'
+last_reviewed: 2026-04-01
 ---
 ## Introduction
 

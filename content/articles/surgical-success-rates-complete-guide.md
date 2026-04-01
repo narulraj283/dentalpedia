@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/22711219
   - title: "Falci SG, de Magalhaes CS, Kuba K, et al. The impact of mandibular third molar surgery on short-term quality of life. Braz Dent J. 2012;23(4):387-392."
     url: https://pubmed.ncbi.nlm.nih.gov/23207857
+last_reviewed: 2026-04-01
 ---
 ## Introduction
 

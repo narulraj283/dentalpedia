@@ -17,6 +17,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/30978901
   - title: "Long-Term Outcomes of Anxious Patients Treated with Nitrous Oxide Sedation"
     url: https://www.ncbi.nlm.nih.gov/pubmed/32190123
+last_reviewed: 2026-04-01
 ---
 ## Understanding the Basics
 

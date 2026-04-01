@@ -21,6 +21,7 @@ references:
   - "Ades AG, et al. Chewing ability and gingival health outcomes with clear aligners versus fixed appliances. Am J Orthod Dentofacial Orthop. 2019;156(3):323-331."
   - "Paschos K, et al. Cariogenicity of foods and substances for orthodontic patients. Aust Dent J. 2007;52(3):193-199."
   - "Boersma JG, et al. Bracket and adhesive remnants after fixed appliance removal. Am J Orthod Dentofacial Orthop. 2005;128(4):475-481."
+last_reviewed: 2026-04-01
 ---
 Braces are excellent for creating a beautiful smile and fixing bite problems, but they come with a significant challenge: cavities become much more likely. In fact, some patients develop white spot lesions (early cavities that look like white marks on teeth) right under their brackets. This doesn't have to happen to you—prevention is highly effective—but you need to understand the risks and take active steps to protect your teeth during orthodontic treatment.
 

@@ -21,6 +21,7 @@ references:
   - "Franceschi S, et al. The role of smoking and drinking in cervical neoplasia: a joint analysis of studies from four continents. International Journal of Cancer. 2008;122(3):604-610."
   - "Roesch-Dietlen F, et al. Alcohol and oral cancer. Oral Oncology. 2016;53(Suppl 1):e11."
   - "Salaspuro M. Acetaldehyde and gastric cancer. Journal of Digestive Diseases. 2011;12(2):75-76."
+last_reviewed: 2026-04-01
 ---
 ## How Alcohol Damages Your Mouth
 

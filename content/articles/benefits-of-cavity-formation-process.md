@@ -19,6 +19,7 @@ references:
   - "Arends J, Christoffersen J. Nature and role of loosely bound fluoride in caries prevention. J Dent Res. 1989;68(12):1649-1652."
 subcategory: General Overview
 subcategory_slug: overview-general
+last_reviewed: 2026-04-01
 ---
 ## The Recipe for Cavities: Three Ingredients
 

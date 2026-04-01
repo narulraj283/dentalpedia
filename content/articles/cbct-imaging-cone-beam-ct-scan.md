@@ -21,6 +21,7 @@ references:
   - "Rebel GC, Baart JA, Coumou-de Vries AM. Cone Beam Computed Tomography in Dental Practice. Quintessence Publishing; 2009."
   - "Tyndall DA, Runge ME. Prevention of dental radiation injuries. J Am Dent Assoc. 1999;130(3):409-415."
   - "Ritter L, Lutz J, Neugebauer J, et al. Evaluation of quality of reformatted images from two cone-beam computed-tomographic systems. J Dent. 2008;36(2):138-145."
+last_reviewed: 2026-04-01
 ---
 If your dentist mentioned a CBCT scan, you might wonder what it is and whether you really need it. CBCT (cone beam computed tomography) is a specialized 3D imaging tool that shows your teeth, jaw, and bone in much greater detail than traditional dental X-rays. This guide explains how it works, when it's useful, and what you should know before having one.
 

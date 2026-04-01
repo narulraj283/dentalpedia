@@ -39,6 +39,7 @@ slug: round-wires-gentle-initial-alignment
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Round Wires Gentle Initial Alignment
+last_reviewed: 2026-04-01
 ---
 ## Why Your First Wire Is Small and Flexible
 

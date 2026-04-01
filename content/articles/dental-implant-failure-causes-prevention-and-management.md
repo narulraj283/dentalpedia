@@ -13,6 +13,7 @@ reviewed: true
 references:
   - "Derks J, Hauser B. Peri-implant diseases: diagnosis and management. Clin Oral Implants Res. 2015;26(S11):1-7."
   - "Chrcanovic BR, Kisch J, Albrektsson T, Wennerberg A. Factors Influencing Early Dental Implant Failures. J Dent Res. 2016;95(9):995-1002."
+last_reviewed: 2026-04-01
 ---
 ## The Success Rate Reality
 

@@ -19,6 +19,7 @@ references:
   - "Esposito M, Grusovin MG, Willings M, Coulthard P, Worthington HV. The effectiveness of immediate, early, and conventional loading of dental implants: a Cochrane systematic review of randomized controlled clinical trials. Int J Oral Maxillofac Implants. 2007;22(6):893-904."
   - "Binon PP. Implants and components: entering the new millennium. Int J Oral Maxillofac Implants. 2000;15(1):33-45."
   - "Brunski JB. Biomechanical factors affecting the bone-dental implant interface. Clin Mater. 1992;10(3):153-201."
+last_reviewed: 2026-04-01
 ---
 ## Understanding Cantilever Implant Restorations
 

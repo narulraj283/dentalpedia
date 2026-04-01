@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/25379903
   - title: "Local anesthesia techniques and nerve block protocols for surgical oral procedures"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25566589
+last_reviewed: 2026-04-01
 ---
 Some teeth require surgery to remove. Simple extractions—pulling out teeth that are fully visible—are straightforward. Complex extractions involve teeth that are partially or completely buried under bone, have curved roots, or are positioned at difficult angles. When a tooth is complex, your dentist may refer you to an oral surgeon who specializes in these cases.
 

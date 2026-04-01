@@ -21,6 +21,7 @@ references:
   - O'Neill T, Bryars JH. Assessment of orofacial dysfunction in children with cleft lip and palate. Arch Dis Child. 1993;69(3):366-371.
   - Abidin RF, Teaford MF. Use of fluoride toothpaste for young children. Pediatr Dent. 1997;19(6):416-417.
   - Peter JC, Cohen MA, Boydston K. International survey of cleft team assessment and protocol for feeding and swallowing. Cleft Palate Craniofac J. 2010;47(2):158-166.
+last_reviewed: 2026-04-01
 ---
 ## Why Cleft Palate Feeding Is Different
 

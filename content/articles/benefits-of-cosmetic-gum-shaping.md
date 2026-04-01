@@ -19,6 +19,7 @@ references:
   - "Peck S, Peck L, Kataja M. The gingival smile line. Angle Orthod. 1992;62(2):91-100."
   - "Polo M. Comment on application of botulinum toxin to the masticatory muscles for management of bruxism and associated jaw pain. J Oral Maxillofac Surg. 2008;66(8):1644-1645."
   - "Ericsson I, Lindhe J. Recession in sites with inadequate oral hygiene. A 5-year follow-up study. J Clin Periodontol. 1984;11(9):619-627."
+last_reviewed: 2026-04-01
 ---
 ## What Is a "Gummy Smile" Anyway?
 

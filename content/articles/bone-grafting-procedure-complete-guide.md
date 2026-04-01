@@ -19,6 +19,7 @@ references:
   - "Pjetursson BE, et al. A systematic review of the success of sinus floor elevation and survival of implants inserted in combination with sinus floor elevation. J Clin Periodontol. 2008;35(8 Suppl):216-240."
   - "Donos N, et al. Bone level alterations at implant-supported crowns compared with implant-supported fixed partial dentures. Clin Oral Implants Res. 2008;19(3):298-307."
   - "Marx RE, et al. Bone grafting, bone graft substitutes and platelet therapies in implant dentistry. Int J Oral Maxillofac Implants. 2011;26(Suppl):104-128."
+last_reviewed: 2026-04-01
 ---
 ## Types of Bone Grafting Procedures
 

@@ -27,6 +27,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/23876175
   - title: "Peri-implantitis in elderly populations: prevention and management"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26388595
+last_reviewed: 2026-04-01
 ---
 If you're an older adult considering dental implants, you might wonder if your age makes you ineligible. The good news is that being older doesn't prevent you from getting implants. Research shows that healthy older adults get the same success with implants as younger patients. What matters isn't how many birthdays you've had—it's your overall health, bone quality, and willingness to care for your implants. Learning more about [Maintaining Your Implants for Lifelong Success](/article/implant-maintenance-long-term-care-and-cleaning.html) can help you understand this better.
 

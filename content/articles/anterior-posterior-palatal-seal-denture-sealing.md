@@ -19,6 +19,7 @@ references:
   - "Loney RW, et al. Assessment of palatal seal dimensions in denture patients. J Dent Res. 1997;76(4):876-882."
   - "Naert I, et al. Implant therapy for palatal defects. J Prosthodont. 2001;10(3):189-198."
   - "Kelly AE, et al. Dynamic palatal seal evaluation. J Prosthet Dent. 2004;92(1):42-48."
+last_reviewed: 2026-04-01
 ---
 If you wear an upper denture, the difference between one that stays in place and one that drops embarrassingly is often determined by a small area at the back of your denture base called the posterior palatal seal (PPS). This often-misunderstood component is absolutely critical to denture success. Understanding how it works and why your dentist pays such careful attention to it helps explain why meticulous technique matters so much during denture fabrication.
 

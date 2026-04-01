@@ -19,6 +19,7 @@ references:
   - "Benetti AR, da Anunciação AIF, Raveli DB, Raveli SB. Fixed appliance bracket debonding force: evaluation of different techniques and their effects on enamel. Dent Press J Orthod. 2013;18(5):74-81."
   - "Scheie AA, Arneberg P, Krogstad O. Effect of orthodontic treatment on prevalence of Streptococcus mutans and lactobacilli. Scand J Dent Res. 1992;100(5):237-241."
   - "Magness WB, Morrison DL. Bracket breakage rates and the effects of dietary modification on such breakage rates. Angle Orthod. 1987;57(3):194-205."
+last_reviewed: 2026-04-01
 ---
 You've probably heard the list of foods you can't eat with braces: no nuts, no gum, no hard candy. But here's the thing—about 40% of all bracket breakage happens because people eat the wrong foods. Each broken bracket adds another 2 weeks to your treatment time.
 

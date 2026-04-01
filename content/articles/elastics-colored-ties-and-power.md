@@ -25,6 +25,7 @@ slug: elastics-colored-ties-and-power
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: 'Orthodontic Elastics: Force Delivery, Properties'
+last_reviewed: 2026-04-01
 ---
 ## Understanding Orthodontic Elastics and Rubber Bands
 

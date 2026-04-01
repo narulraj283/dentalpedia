@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/24960262/
   - title: "Patient Satisfaction in Smile Corrections"
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/jcpe.12847
+last_reviewed: 2026-04-01
 ---
 ## Everything About Fixing Gummy Smile
 

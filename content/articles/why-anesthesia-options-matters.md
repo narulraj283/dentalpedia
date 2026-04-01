@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/29383241
   - title: "Patient-centered anesthesia selection: Autonomy and informed consent"
     url: https://pubmed.ncbi.nlm.nih.gov/24589062
+last_reviewed: 2026-04-01
 ---
 ## Why This Matters for Your Health
 
