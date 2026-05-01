@@ -13,6 +13,7 @@ reviewed: true
 references:
   - "Wolford LM, Cottrell DA, Henry CH. Dentofacial deformity: surgical and orthodontic correction. 2nd ed. Mosby; 2011."
   - "Arnett GW, Jelic JS, Kim J, et al. Soft tissue cephalometric analysis for orthognathic surgery. J Oral Maxillofac Surg. 1999;57(1):48-54."
+last_reviewed: 2026-05-01
 ---
 Jaw surgery already feels like a big commitment—and now your surgeon is suggesting adding chin augmentation? You might think you'll end up with an artificially enhanced look, but the reality is the opposite. Combining chin augmentation with jaw surgery creates facial proportions that look naturally balanced, achieving a result jaw surgery alone couldn't accomplish.
 

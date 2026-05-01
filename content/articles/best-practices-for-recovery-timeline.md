@@ -19,6 +19,7 @@ references:
   - "Schropp L, Wenzel A, Kostopoulos L, Karring T. Bone healing and soft tissue contour changes following single-tooth extraction: a clinical and radiographic 12-month prospective study. Int J Periodontics Restorative Dent. 2023;43(2):145-157."
   - "Irinakis T. Effectiveness of Injectable Platelet-Rich Fibrin (PRF) on postoperative hemostasis and swelling in extraction sites and following implant placement. J Oral Implantol. 2023;49(6):512-520."
   - "Jambhekar SS, Kerkar RA, Layangealag SP. Clinical and radiographic evaluation of bone resorption following tooth extraction. J Indian Soc Periodontol. 2023;27(3):245-252."
+last_reviewed: 2026-05-01
 ---
 ## Day 1: Clot Formation and Initial Swelling
 

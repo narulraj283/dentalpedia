@@ -21,6 +21,7 @@ references:
   - "Sardenberg F, et al. Oral health-related quality of life in adolescents with malocclusion. Eur J Orthod. 2014;36(5):562-568."
   - "Rusanen J, et al. Occlusal characteristics in diagnosed obstructive sleep apnea. Eur J Orthod. 2016;38(1):85-90."
   - "Peres KG, et al. Dental misalignment: the relationship with dental caries and socioeconomic status in school-age children. Angle Orthod. 2009;79(3):398-403."
+last_reviewed: 2026-05-01
 ---
 Most people think braces are just about creating a picture-perfect smile, but the benefits run far deeper. Properly aligned teeth improve how you chew, how you speak, your long-term dental health, and even your mental health. The transformation extends well beyond aesthetics—it's about function, health, and confidence that lasts a lifetime.
 

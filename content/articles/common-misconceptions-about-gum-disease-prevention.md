@@ -19,7 +19,7 @@ references:
   - Preshaw PM, et al. Cardiovascular disease and periodontitis: a systematic review and meta-analysis. Archives of Internal Medicine. 2010;170(3):264-270.
   - Kinane DF, et al. Periodontal diseases and health. Journal of Periodontology. 2017;88(1):3-6.
   - Borrell LN, et al. Socioeconomic factors and periodontitis in US adults and adolescents. Journal of Periodontology. 2005;76(3):289-298.
-last_reviewed: 2026-04-01
+last_reviewed: 2026-05-01
 ---
 About 4 out of 10 American adults have some form of gum disease. But there's a lot of confusion about how it starts and how to prevent it. Here's what actually causes gum disease and what you can do about it.
 

@@ -27,6 +27,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/19593621
   - title: "Systemic manifestations and periodontal disease severity: moderate periodontitis as progression threshold"
     url: https://www.ncbi.nlm.nih.gov/pubmed/20923599
+last_reviewed: 2026-05-01
 ---
 If your dentist has told you that you have moderate gum disease (periodontitis), you're not alone. This common condition affects millions of adults, but the good news is that when caught at this stage, your dentist can help you save your teeth and prevent serious complications. Understanding what moderate gum disease means and what causes it empowers you to work with your dental team to address it effectively.
 

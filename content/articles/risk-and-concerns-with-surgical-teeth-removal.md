@@ -45,6 +45,7 @@ slug: risk-and-concerns-with-surgical-teeth-removal
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Risk and Concerns with Surgical Teeth Removal
+last_reviewed: 2026-05-01
 ---
 ## Why Some Tooth Extractions Are Simple and Others Are Complex
 

@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/11001206
   - title: "Rostock MW et al. Sleep-related bruxism and sleep position. Sleep Breath. 2010;14(4):311-316."
     url: https://pubmed.ncbi.nlm.nih.gov/20676960
+last_reviewed: 2026-05-01
 ---
 ## How Your Sleep Position Affects Your Jaw
 

@@ -47,6 +47,7 @@ slug: risk-and-concerns-with-oral-surgery-recovery-timeline
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Risk and Concerns with Oral Surgery Recovery Timeline
+last_reviewed: 2026-05-01
 ---
 ## Recovery After Oral Surgery: Understanding Your Healing Timeline
 

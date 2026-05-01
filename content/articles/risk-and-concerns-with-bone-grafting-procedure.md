@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/8270969
   - title: "Langer B, Langer L. Overdenture prosthodontics. Vol 1. Quintessence Publishing; 1988."
     url: https://pubmed.ncbi.nlm.nih.gov/
+last_reviewed: 2026-05-01
 ---
 ## What You Need to Know About Bone Grafting for Dental Implants
 

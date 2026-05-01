@@ -19,6 +19,7 @@ references:
   - "Shumway D, Forney BA. Systematic review of patient satisfaction in dental school clinics. J Dent Educ. 2020;84(5):523-535."
   - "Lantz MS, Bebeau MJ. Ethical dimensions of student training in dental institutions. J Dent Educ. 2018;82(7):678-687."
   - "Groenewold A, Smeets R. Quality assurance systems in academic dental clinics across Europe. Eur J Dent Educ. 2019;23(3):201-212."
+last_reviewed: 2026-05-01
 ---
 ## How Student Supervision Works
 

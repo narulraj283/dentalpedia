@@ -31,6 +31,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/21029446/"
   - title: "Risk factors for alveolar osteitis: a systematic review and meta-analysis"
     url: "https://pubmed.ncbi.nlm.nih.gov/22414433/"
+last_reviewed: 2026-05-01
 ---
 Dental surgery is generally safe when performed by trained professionals using proper technique. However, problems can occur—even with experienced surgeons, even when everything is done "right." Understanding what problems exist, recognizing their warning signs. Knowing how they're managed empowers you to make informed decisions and seek help quickly if problems develop.
 

@@ -19,6 +19,7 @@ references:
   - "Deli R, et al. Relationship of Class II molar relationship to vertical facial dimensions and anterior overbite. Am J Orthod Dentofacial Orthop. 2005;128(3):359-365."
   - "Pithon MM, et al. Anterior open bite and posterior crossbite are morphological risk indicators for TMD. Braz Oral Res. 2017;31:e63."
   - "Proffit WR. The etiology of orthodontic problems. In: Contemporary Orthodontics. 5th ed. St. Louis: Mosby Elsevier; 2013."
+last_reviewed: 2026-05-01
 ---
 ## Understanding Common Bite Problems
 

@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/10993381
   - title: "Saadoun AP, Touati B. Current aesthetic implant dentistry. Pract Periodontics Aesthet Dent. 1999;11(6):739-748; quiz 750."
     url: https://pubmed.ncbi.nlm.nih.gov/10695779
+last_reviewed: 2026-05-01
 ---
 ## Understanding Tissue-Level Implants
 

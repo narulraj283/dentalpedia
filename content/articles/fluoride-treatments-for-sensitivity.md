@@ -30,6 +30,7 @@ slug: fluoride-treatments-for-sensitivity
 subcategory: Cleanings & Exams
 subcategory_slug: cleanings-exams
 title: Professional Fluoride Treatments
+last_reviewed: 2026-05-01
 ---
 ## Why Exposed Tooth Roots Cause Sensitivity
 

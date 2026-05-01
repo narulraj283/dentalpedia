@@ -27,6 +27,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/23402277/"
   - title: "Anxiety Assessment and Pain Perception in Dental Treatment"
     url: "https://pubmed.ncbi.nlm.nih.gov/20178489/"
+last_reviewed: 2026-05-01
 ---
 ## Your Brain Can Help You Relax
 

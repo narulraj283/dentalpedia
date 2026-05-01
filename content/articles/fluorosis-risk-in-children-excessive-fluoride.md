@@ -33,6 +33,7 @@ slug: fluorosis-risk-in-children-excessive-fluoride
 subcategory: Pediatric Overview
 subcategory_slug: overview-peds
 title: 'Dental Fluorosis in Children: Etiology, Risk Factors'
+last_reviewed: 2026-05-01
 ---
 ## What Dental Fluorosis Really Is
 

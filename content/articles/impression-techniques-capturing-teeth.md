@@ -27,6 +27,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/23876171
   - title: "Digital impression technology in implant prosthodontics: workflow optimization and clinical outcomes"
     url: https://www.ncbi.nlm.nih.gov/pubmed/22264903
+last_reviewed: 2026-05-01
 ---
 When your dentist says they need to "take an impression," you're getting a negative mold of your teeth and gums. This mold is sent to a lab where technicians create your restoration—a crown, bridge, denture, or implant tooth—based on your exact tooth shape and position. The accuracy of this impression directly affects how well your final restoration fits. Your dentist chooses different impression materials depending on what they're making, and understanding why helps you appreciate why the process takes a few minutes. Learning more about [Tooth Restoration Comparison: What You Need to Know](/article/tooth-restoration-comparison-what-you-need-to-know.html) can help you understand this better.
 

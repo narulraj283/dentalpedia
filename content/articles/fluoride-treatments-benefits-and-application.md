@@ -29,6 +29,7 @@ slug: fluoride-treatments-benefits-and-application
 subcategory: General Overview
 subcategory_slug: overview-general
 title: 'Professional Fluoride Treatments: Mechanisms, Benefits'
+last_reviewed: 2026-05-01
 ---
 ## What Professional Fluoride Treatments Do
 

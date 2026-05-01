@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/33901234
   - title: "Long-term esthetic outcomes of various diastema closure techniques"
     url: https://www.ncbi.nlm.nih.gov/pubmed/34012345
+last_reviewed: 2026-05-01
 ---
 ## Why Gaps Develop Between Teeth
 

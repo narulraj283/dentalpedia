@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/23234008
   - title: "Patient compliance factors and treatment efficiency during leveling phase"
     url: https://www.ncbi.nlm.nih.gov/pubmed/24992413
+last_reviewed: 2026-05-01
 ---
 ## What Is the Leveling Phase?
 

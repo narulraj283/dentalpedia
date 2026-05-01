@@ -19,6 +19,7 @@ references:
   - "Reybrouck G. Absorbable Sutures. Scandinavian Journal of Plastic Surgery. 1995;29(3):185-189."
   - "Tagliaferro MS. Types of Sutures and Hemostasis in Dentistry. Compendium of Continuing Education in Dentistry. 2004;25(9):667-672."
   - "von Fraunhofer JA, Storey E. Resistance of Suture Materials to Oral Bacteria. Journal of Dental Research. 1989;68(4):623-627."
+last_reviewed: 2026-05-01
 ---
 ## What Are Dissolving Stitches?
 

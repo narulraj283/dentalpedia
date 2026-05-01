@@ -21,6 +21,7 @@ references:
   - "Al-Wahadni AM, Al-Wahadni AK, Al-Kahtani MF. Marginal and internal gaps of two porcelain veneer systems. J Prosthet Dent. 1999;82(5):535-542."
   - "Muroff FI. The use of a custom composite veneer as a temporary restoration during the fabrication of porcelain veneers. J Prosthet Dent. 1997;77(4):383-385."
   - "Monticelli F, Tay FR, Landuyt KL, et al. Enamel bonding in restorative dentistry. Oper Dent. 2007;32(1):1-16."
+last_reviewed: 2026-05-01
 ---
 ## Getting Veneers: The Complete Process Explained
 

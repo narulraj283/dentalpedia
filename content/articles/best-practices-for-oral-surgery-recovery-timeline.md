@@ -21,6 +21,7 @@ references:
   - "Esposito M, et al. Timing of implant placement after tooth extraction: immediate, immediate-delayed or delayed implants? A Cochrane systematic review. Eur J Oral Implantol. 2013;6(4):365-376."
   - "Sanz M, et al. Surgical techniques on implant treatment: consensus report of the Sixth European Workshop on Periodontology. J Clin Periodontol. 2008;35 Suppl 8:204-207."
   - "Darby I, et al. Implant stabilization in grafted and non-grafted extraction sockets: 6-month data. J Periodontol. 2009;80(8):1297-1305."
+last_reviewed: 2026-05-01
 ---
 ## The First 24 Hours: Critical Recovery Time
 

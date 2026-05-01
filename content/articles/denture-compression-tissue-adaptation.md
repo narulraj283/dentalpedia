@@ -21,6 +21,7 @@ references:
   - "Tanner ACR, et al. Microbial succession and denture-induced tissue changes under compressive forces. J Prosthet Dent. 2021;125(2):247-255."
   - "Emami E, et al. Relationship between residual ridge morphology and denture retention: a clinical study. J Prosthodont. 2020;29(7):581-588."
   - "Heydecke G, et al. Patient satisfaction with complete dentures and implant-retained prostheses: a review and meta-analysis. J Prosthet Dent. 2021;126(4):456-467."
+last_reviewed: 2026-05-01
 ---
 When you first get dentures, your mouth needs time to adjust. The denture applies pressure to your gums in a new way, and your tissues gradually compress and adapt. Understanding what's happening during this adjustment period helps you know what to expect.
 

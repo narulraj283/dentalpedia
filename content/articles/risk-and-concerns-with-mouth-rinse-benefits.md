@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/17138709
   - title: "Rotstein I, Friedman S. Noncarious cervical root surface resorption: classification, etiology, diagnosis, and treatment. J Am Dent Assoc. 1991;122(2):47-52."
     url: https://pubmed.ncbi.nlm.nih.gov/2005320
+last_reviewed: 2026-05-01
 ---
 ## Should You Use Mouthwash? What Research Really Shows
 

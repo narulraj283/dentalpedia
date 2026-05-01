@@ -42,6 +42,7 @@ slug: timeline-for-bite-correction-methods
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: 'Bite Correction Timelines: Overbite, Underbite'
+last_reviewed: 2026-05-01
 ---
 ## Introduction
 

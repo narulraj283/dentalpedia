@@ -28,6 +28,7 @@ slug: apically-positioned-flap-creating-shallow-pockets
 subcategory: Periodontal Surgery
 subcategory_slug: periodontal-surgery
 title: 'Apically Positioned Flap Surgery: Pocket Elimination'
+last_reviewed: 2026-05-01
 ---
 ## What This Surgery Does
 

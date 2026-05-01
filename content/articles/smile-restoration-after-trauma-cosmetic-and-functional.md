@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/1477866
   - title: "Demarco FF, Collares K, Coulthard LR, et al. Longevity of aesthetic restorations and factors that influence retention rates of direct restorations. J Esthetic Restor Dent. 2013;25(1):72-85."
     url: https://pubmed.ncbi.nlm.nih.gov/23351080
+last_reviewed: 2026-05-01
 ---
 ## Recovering Your Smile After a Tooth Injury
 

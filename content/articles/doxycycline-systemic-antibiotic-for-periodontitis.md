@@ -19,6 +19,7 @@ references:
   - "Walker C, et al. Long-term use of low-dose doxycycline does not lead to the development of antimicrobial resistance. Journal of Periodontology. 2015;86(4):562-570."
   - "Persson R, et al. Host response characteristics and microbial profile in subjects with aggressive periodontitis treated with low-dose doxycycline. Journal of Dental Research. 2014;93(2):158-167."
   - "Gendron R, et al. Antimicrobial and anti-inflammatory effects of subantimicrobial-dose doxycycline: Current knowledge and future perspectives. Journal of Periodontology. 2013;84(8):1105-1117."
+last_reviewed: 2026-05-01
 ---
 ## What Is Doxycycline and Why Your Dentist Might Recommend It
 

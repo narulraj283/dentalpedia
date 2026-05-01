@@ -21,6 +21,7 @@ references:
   - "Buzalaf MA, Levy SM. Fluoride intake of children: getting the information we need. J Dent Res. 2011;90(5):552-560."
   - "Stecksén-Blicks C, Sjöström I, Twetman S. Caries-preventive effectiveness of a sodium fluoride mouthrinse in schoolchildren with different levels of plaque control. Swed Dent J. 2000;24(3):89-94."
   - "Marinho VC, Higgins JP, Sheiham A, et al. Combinations of topical fluoride (toothpastes, rinses, gels, varnishes) versus single topical fluoride for preventing dental caries in children and adolescents. Cochrane Database Syst Rev. 2004;(1):CD002781."
+last_reviewed: 2026-05-01
 ---
 ## Critical Years for Fluoride in Children
 

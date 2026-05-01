@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/17065354
   - title: "Feres M, Vianna ME, Teles FR, et al. Microbial systems associated with the various forms of root canal-associated infections. J Clin Microbiol. 2013;51(9):3082-3090."
     url: https://pubmed.ncbi.nlm.nih.gov/23761154
+last_reviewed: 2026-05-01
 ---
 ## Why Infection Control Matters
 

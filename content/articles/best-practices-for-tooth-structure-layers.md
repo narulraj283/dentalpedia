@@ -21,6 +21,7 @@ references:
   - "Grossi SG, Genco RJ. Periodontal disease and incidence of coronary heart disease: a meta-analysis. J Dent Res. 1998;77(8):1547-1554."
   - "Linde J. Biology of the dental pulp complex. Periodontol 2000. 1997;13(1):7-20."
   - "Schroeder HE. Oral Structural Biology. Thieme; 1991."
+last_reviewed: 2026-05-01
 ---
 ## The Outer Layer: Enamel
 

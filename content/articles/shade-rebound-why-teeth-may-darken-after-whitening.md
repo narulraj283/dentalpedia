@@ -42,6 +42,7 @@ slug: shade-rebound-why-teeth-may-darken-after-whitening
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Shade Rebound Why Teeth May Darken After Whitening
+last_reviewed: 2026-05-01
 ---
 ## Introduction
 

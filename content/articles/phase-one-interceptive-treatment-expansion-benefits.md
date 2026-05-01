@@ -6,7 +6,7 @@ excerpt: Phase One treatment, also called interceptive treatment, happens when y
 slug: phase-one-interceptive-treatment-expansion-benefits
 title: Phase One Interceptive Treatment Expansion Benefits
 date: 2026-03-05
-last_reviewed: 2026-04-01
+last_reviewed: 2026-05-01
 ---
 ## What Is Phase One Orthodontic Treatment?
 

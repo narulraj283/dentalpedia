@@ -44,7 +44,7 @@ slug: risk-and-concerns-with-gum-disease-prevention
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Risk and Concerns with Gum Disease Prevention
-last_reviewed: 2026-04-01
+last_reviewed: 2026-05-01
 ---
 ## Introduction
 

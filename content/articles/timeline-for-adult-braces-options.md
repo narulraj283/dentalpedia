@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/9844209
   - title: "Eustaquio R, et al. Lingual orthodontics: a systematic review. Am J Orthod Dentofacial Orthop. 2006;129(6):831.e1-831.e10."
     url: https://pubmed.ncbi.nlm.nih.gov/16769513
+last_reviewed: 2026-05-01
 ---
 ## How Long Does Adult Braces Treatment Really Take?
 

@@ -19,6 +19,7 @@ references:
   - "Tomer BS, et al. Anterior open bite: a multifactorial problem. Am J Orthod Dentofacial Orthop. 2005;128(4):434-443."
   - "Dua HS, Kumar A. Adult anterior open bite management. J Indian Orthod Soc. 2012;46(4):392-399."
   - "Kelly AE, et al. Long-term stability of anterior open bite treatment. Angle Orthod. 2009;79(1):60-66."
+last_reviewed: 2026-05-01
 ---
 An anterior open bite—where your front teeth don't touch when your mouth is closed—represents one of orthodontics' most challenging problems. Not only is it difficult to fix, but it frequently comes back after treatment. Understanding what causes your specific open bite, whether bone problems or habits are responsible, helps your orthodontist design treatment that actually sticks around long-term.
 

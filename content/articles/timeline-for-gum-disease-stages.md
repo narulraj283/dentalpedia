@@ -42,6 +42,7 @@ slug: timeline-for-gum-disease-stages
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Periodontal Disease Staging and Grading Framework
+last_reviewed: 2026-05-01
 ---
 ## Understanding Gum Disease Stages
 

@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/1098272
   - title: "Cotrim-Ferreira FA, Garone-Netto N, Lima-Arsati YB. Cosmetic rehabilitation: diastema closure techniques. Dent Today. 2004;23(6):84-87."
     url: https://pubmed.ncbi.nlm.nih.gov/15285284
+last_reviewed: 2026-05-01
 ---
 ## Understanding Tooth Gaps (Diastema)
 

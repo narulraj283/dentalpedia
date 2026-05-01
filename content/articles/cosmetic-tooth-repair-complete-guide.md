@@ -19,6 +19,7 @@ references:
   - "da Costa NP, Lambert D, Gouin F, et al. Marginal integrity of bonded enamel restoration and dentin replacement materials. Dent Mater. 2016;22(2):155-164."
   - "Soares CJ, Esteves GC, Carvalho Filho R, et al. Fracture strength and stress distribution in large resin composite restorations restored with different techniques. Oper Dent. 2017;42(5):E164-E173."
   - "Goharian V, Mortazavi V, Goharian E, et al. Evaluation of microleakage around bonded and cemented margins of composite restorations. J Dent. 2015;12(11):759-766."
+last_reviewed: 2026-05-01
 ---
 ## Tooth Fracture Types
 

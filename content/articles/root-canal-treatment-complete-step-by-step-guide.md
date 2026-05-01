@@ -36,6 +36,7 @@ slug: root-canal-treatment-complete-step-by-step-guide
 subcategory: Endodontic Overview
 subcategory_slug: overview-endo
 title: Root Canal Treatment - Complete Step-by-Step Guide
+last_reviewed: 2026-05-01
 ---
 ## Before Your Appointment: Planning and Assessment
 

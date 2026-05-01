@@ -21,7 +21,7 @@ references:
   - "Ferracane JL. Resin composite—State of the art. Dent Mater. 2011;27(1):29-38."
   - "van Dijken JW, Pallesen U. A randomized controlled trial of a low-shrinkage flowable composite and three types of resin-modified glass ionomer cement used for class II cavities. Dent Mater. 2011;27(10):1038-1047."
   - "Drummond JL, King TJ, Bapna MS, Kehoe MJ. Fracture surface analysis of clinically failed restorations. Dent Mater. 2003;19(4):287-292."
-last_reviewed: 2026-04-01
+last_reviewed: 2026-05-01
 ---
 When your dentist fills a cavity, you have choices about what material they use. Silver amalgam is super durable but looks metallic. Tooth-colored composite resin looks natural but doesn't last quite as long. Understanding how long different materials last helps you make cost-effective decisions that consider both immediate expense and lifetime replacement costs.
 

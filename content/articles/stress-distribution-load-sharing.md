@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/3160841
   - title: "Pessoa RS, Vaz LG, Marcantonio E Jr, et al. Influence of implant connection type on the biomechanical environment: radiographic and finite element analyses. Clin Oral Implants Res. 2010;21(10):1138-1145."
     url: https://pubmed.ncbi.nlm.nih.gov/20662838
+last_reviewed: 2026-05-01
 ---
 ## Introduction
 

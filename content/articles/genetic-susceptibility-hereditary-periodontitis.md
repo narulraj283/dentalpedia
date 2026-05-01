@@ -13,6 +13,7 @@ reviewed: true
 references:
   - "Kornman KS, Crane A, Wang HY, et al. The interleukin-1 genotype as a severity factor in adult periodontal disease. J Clin Periodontol. 1997;24(1):72-77."
   - "Kinane DF. Causation and pathogenesis of periodontal disease. Periodontol 2000. 2001;25:8-20."
+last_reviewed: 2026-05-01
 ---
 You brush and floss perfectly, yet you seem to develop gum disease faster and more severely than your friends who don't take care of their teeth as well. Unfair, right? The answer might be genetics.
 

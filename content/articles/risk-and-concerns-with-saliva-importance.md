@@ -42,6 +42,7 @@ slug: risk-and-concerns-with-saliva-importance
 subcategory: General Dentistry
 subcategory_slug: overview-general
 title: Risk and Concerns with Saliva Importance
+last_reviewed: 2026-05-01
 ---
 ## What Does Saliva Do for You?
 

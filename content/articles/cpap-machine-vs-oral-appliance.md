@@ -19,6 +19,7 @@ references:
   - "Fleury B, Rakotonanahary D, Petelle B, Meyer B, Lebrun T, Bonnet C, et al. Mandibular advancement titration for obstructive sleep apnea: optimization of the procedure by combining clinical and functional assessment. Chest. 2004;125(4):1279-1288."
   - "Schwartz JC, Bennett ML, Cauley RT, Blaisdell LL. Efficacy of continuous positive airway pressure with supplemental pressure relief (C-Flex) in improving CPAP compliance in patients with obstructive sleep apnea. Respir Med. 2006;100(7):1154-1163."
   - "Eckert DJ, White DP, Jordan AS, Malhotra A, Wellman A. Defining phenotypic causes of obstructive sleep apnea: identification of novel therapeutic targets. Am J Respir Crit Care Med. 2013;188(8):996-1004."
+last_reviewed: 2026-05-01
 ---
 If you've been diagnosed with sleep apnea, you've probably heard about CPAP machines and oral appliances as treatment options. Both can help you breathe better at night and feel more rested during the day, but they work in very different ways. This guide will help you understand how each option works, their strengths and weaknesses, and how to choose what's right for you.
 

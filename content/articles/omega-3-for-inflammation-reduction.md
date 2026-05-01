@@ -28,7 +28,7 @@ slug: omega-3-for-inflammation-reduction
 subcategory: Nutrition Overview
 subcategory_slug: overview-nutrition
 title: Omega 3 for Inflammation Reduction
-last_reviewed: 2026-04-01
+last_reviewed: 2026-05-01
 ---
 If you have gum disease, one of the smartest things you can do—beyond brushing and flossing—is eat more fatty fish. Omega-3 fatty acids from fish actually reduce inflammation in your gums and help slow bone loss. They're one of the few nutritional interventions with solid scientific evidence behind them. You don't need supplements if you're willing to eat salmon, sardines, or mackerel a few times a week.
 

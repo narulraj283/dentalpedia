@@ -42,6 +42,7 @@ slug: periodontal-pack-post-treatment-dressing
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Periodontal Pack Post Treatment Dressing
+last_reviewed: 2026-05-01
 ---
 ## What Is a Periodontal Dressing?
 

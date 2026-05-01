@@ -19,6 +19,7 @@ references:
   - "Kassebaum NJ, Bernabé E, Dahiya M, et al. Global burden of untreated caries: a systematic review and metaregression. J Dent Res. 2015;94(5):650-658."
   - "Bader JD, Shugars DA. The evidence supporting replacing missing teeth. J Am Dent Assoc. 2006;137(4):494-506."
   - "Nyvad B, Baelum V. Hypothesis on the role of restoratives in the management of caries lesions. Adv Dent Res. 1997;11(1):139-147."
+last_reviewed: 2026-05-01
 ---
 Your dentist uses several tools and techniques to figure out if you have a cavity. Some of these tools are simple, and some are pretty high-tech. The goal is to catch cavities early so they can be fixed with something small before they become a big problem.
 

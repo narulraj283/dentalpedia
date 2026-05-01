@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/8923706
   - title: "Stoltenberg JL, Osborn JB, Pihlstrom BL, Aeppli DM, Wolff LF, Fischer GE. Association between smoking, bleeding on probing, and periodontal pocket depth. Journal of Periodontology. 1993;64(12):1313-1319."
     url: https://pubmed.ncbi.nlm.nih.gov/8106949
+last_reviewed: 2026-05-01
 ---
 ## Introduction
 

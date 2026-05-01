@@ -45,6 +45,7 @@ slug: risk-and-concerns-with-filling-material-selection
 subcategory: General Overview
 subcategory_slug: overview-general
 title: Risk and Concerns with Filling Material Selection
+last_reviewed: 2026-05-01
 ---
 ## Choosing the Right Filling Material for Your Tooth
 

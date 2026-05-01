@@ -32,6 +32,7 @@ references:
   url: https://www.ncbi.nlm.nih.gov/pubmed/29080230
 - title: Safety profile and systemic effects of therapeutic laser application in dentistry
   url: https://www.ncbi.nlm.nih.gov/pubmed/23234008
+last_reviewed: 2026-05-01
 ---
 ## Introduction
 

@@ -47,6 +47,7 @@ slug: timeline-for-orthodontic-compliance
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: 'Timeline for Orthodontic Compliance: Elastic Wear'
+last_reviewed: 2026-05-01
 ---
 ## Introduction
 

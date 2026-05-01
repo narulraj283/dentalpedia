@@ -19,6 +19,7 @@ references:
   - "Alston RC, Stebbing GR, Fowler RS. The prevalence of frenum diastemas. J Dent. 1972;1(1):29-31."
   - "Johnson DL. Diastema closure and relapse. J Prosthet Dent. 1975;33(2):175-186."
   - "Cloarec M, Cloarec F, Rouleau P, Lemaire JJ, Blondeau F. Treatment of anterior diastema by esthetic restoration: clinical observations and finite element analysis. J Prosthet Dent. 1999;82(1):24-30."
+last_reviewed: 2026-05-01
 ---
 ## Closing the Gap: Your Options for Tooth Spacing
 

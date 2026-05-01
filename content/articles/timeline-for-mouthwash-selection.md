@@ -6,6 +6,7 @@ excerpt: When you walk into a store, you'll see dozens of mouthwash options. Mos
 slug: timeline-for-mouthwash-selection
 title: Timeline for Mouthwash Selection
 date: 2026-03-05
+last_reviewed: 2026-05-01
 ---
 ## Cosmetic vs. Therapeutic Mouthwash
 

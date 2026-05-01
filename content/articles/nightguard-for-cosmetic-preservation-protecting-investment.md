@@ -26,6 +26,7 @@ reviewed: true
 reviewer_specialty: Cosmetic Dentistry
 slug: nightguard-for-cosmetic-preservation-protecting-investment
 title: Nightguard for Cosmetic Preservation Protecting Investment
+last_reviewed: 2026-05-01
 ---
 ## Why Your Beautiful Smile Needs Protection
 

@@ -19,6 +19,7 @@ references:
   - "Yesilsoy C, Whitaker E, Cleveland DB, et al. Antimicrobial and antifungal activity of tetracycline, minocycline, doxycycline, tetracycline HCl, and doxycycline HCl against oral pathogens. Oral Surg Oral Med Oral Pathol. 1995;79(6):655-660."
   - "Sjogren U, Figdor D, Persson S, Sundqvist G. Microbiologic analysis of teeth with failed endodontic treatment and the outcome of retreatment. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 1990;71(5):603-610."
   - "Seltzer S, Bender IB, Ziontz M. The dynamics of periapical inflammation in endodontic therapy. Oral Surg Oral Med Oral Pathol. 1963;16(1):846-871."
+last_reviewed: 2026-05-01
 ---
 When you have a tooth infection that becomes severe, it's a true dental emergency that needs immediate attention. Your dentist treats this by draining the infection, removing the infected pulp (the nerve tissue inside your tooth), and giving you antibiotics to help your body fight the bacteria. This article explains what happens during a serious tooth infection and how dentists manage it to protect your health.
 

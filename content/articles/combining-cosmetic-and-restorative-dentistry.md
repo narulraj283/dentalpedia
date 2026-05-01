@@ -35,6 +35,7 @@ slug: combining-cosmetic-and-restorative-dentistry
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: 'Restorative-Cosmetic Integration: Treatment Planning'
+last_reviewed: 2026-05-01
 ---
 ## When You Need Both Repair and Cosmetic Work
 

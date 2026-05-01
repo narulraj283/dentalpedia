@@ -41,6 +41,7 @@ slug: perforated-pulp-chamber-root-canal-emergency
 subcategory: Endodontic Overview
 subcategory_slug: overview-endo
 title: Perforated Pulp Chamber Root Canal Emergency
+last_reviewed: 2026-05-01
 ---
 ## What Is a Perforated Pulp Chamber?
 

@@ -32,6 +32,7 @@ slug: bevel-and-finish-line-placement-cosmetic-margins
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: 'Bevel and Finish Line Placement: Cosmetic Margins'
+last_reviewed: 2026-05-01
 ---
 ## How Margin Design Affects Your Restoration
 

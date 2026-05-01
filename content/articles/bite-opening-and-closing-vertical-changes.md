@@ -19,6 +19,7 @@ references:
   - "Melsen B, Verna C. Permanent deformation of the form of tooth contact areas of erupted teeth. Angle Orthodontist. 2000;70(4):289-298."
   - "Hellsing E. On the etiology of open bite—a biomechanical perspective. American Journal of Orthodontics and Dentofacial Orthopedics. 2006;129(3):362-370."
   - "Rickets RM. A foundation for cephalometric communication. American Journal of Orthodontics. 1960;46(5):330-357."
+last_reviewed: 2026-05-01
 ---
 ## Understanding Vertical Bite Problems
 

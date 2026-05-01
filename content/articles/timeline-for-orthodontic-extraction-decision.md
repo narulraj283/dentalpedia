@@ -6,6 +6,7 @@ excerpt: 'One of the biggest questions patients ask their orthodontist is: "Do I
 slug: timeline-for-orthodontic-extraction-decision
 title: Timeline for Orthodontic Extraction Decision
 date: 2026-03-05
+last_reviewed: 2026-05-01
 ---
 ## Introduction
 

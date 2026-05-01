@@ -21,6 +21,7 @@ references:
   - "Walsh KA, Glenwright HD. The effect of abrasive dentifrice on the wear of composite restorations. J Dent. 1984;12(1):47-51."
   - "Hellwig E, Lussi A. Oral hygiene products and practice. Periodontol 2000. 2014;68(1):92-119."
   - "Lippert F, Parker DM, Jandt KD. Gold standard comparison of the efficacy of a novel silica-based and a conventional fluoride toothpaste to prevent erosion and abrasion. Clin Oral Investig. 2004;8(2):52-58."
+last_reviewed: 2026-05-01
 ---
 ## Why Some People Choose Fluoride-Free Toothpaste
 

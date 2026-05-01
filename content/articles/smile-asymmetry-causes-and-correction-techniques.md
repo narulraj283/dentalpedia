@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/5273251
   - title: "Desai S, Upadhyay M, Nanda R. Dynamic smile analysis: changes with age. Am J Orthod Dentofacial Orthop. 2009;136(3):310.e1-310.e10."
     url: https://pubmed.ncbi.nlm.nih.gov/19732661
+last_reviewed: 2026-05-01
 ---
 ## Smile Asymmetry: Why Your Smile Isn't Perfectly Balanced
 

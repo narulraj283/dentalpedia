@@ -48,6 +48,7 @@ slug: multiple-implants-bridges-and-full-mouth-reconstruction
 subcategory: Implant Overview
 subcategory_slug: overview-implants
 title: 'Full-Mouth Implants: Replacing All Your Teeth'
+last_reviewed: 2026-05-01
 ---
 If you've lost most or all of your teeth, implants can change your life. Instead of wearing dentures that shift and need adhesive, modern implants allow your dentist to create a fixed bridge anchored by implants. This guide explains how it works, your options, and what to expect.
 

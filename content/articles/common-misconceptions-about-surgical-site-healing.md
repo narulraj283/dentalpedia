@@ -32,6 +32,7 @@ slug: common-misconceptions-about-surgical-site-healing
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: 'Surgical Site Healing in Oral Surgery: Physiology'
+last_reviewed: 2026-05-01
 ---
 When you have dental surgery, you might wonder exactly what's happening as your body heals. Understanding the healing process helps you know what's normal and when to call your dentist. Let's walk through the stages and what to expect.
 

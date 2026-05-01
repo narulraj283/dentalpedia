@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/16244076
   - title: "Long-term outcomes and relapse in aligner-treated patients"
     url: https://pubmed.ncbi.nlm.nih.gov/15297791
+last_reviewed: 2026-05-01
 ---
 ## Why 22 Hours Matters (It's Not Arbitrary)
 

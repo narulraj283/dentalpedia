@@ -6,6 +6,7 @@ excerpt: A mouth ulcer (also called a canker sore) is a small, painful crater in
 slug: timeline-for-mouth-ulcer-care
 title: Timeline for Mouth Ulcer Care
 date: 2026-03-05
+last_reviewed: 2026-05-01
 ---
 ## What Is a Mouth Ulcer?
 

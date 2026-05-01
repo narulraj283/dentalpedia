@@ -20,6 +20,7 @@ references:
   - "American Academy of Pediatrics et al. Bright Futures: Guidelines for Health Supervision of Infants, Children, and Adolescents. 4th ed. AAP; 2017."
   - "Domejean S, et al. Risk Assessment and Management in Early Childhood Caries Prevention. Part II: Determining the Risk for Early Childhood Caries. J Dent Child (Chic). 2018;85(1):8-13."
   - "Anil S, et al. Early childhood caries: Prevalence, risk factors, and prevention. Front Pediatr. 2017;5:157."
+last_reviewed: 2026-05-01
 ---
 ## What Is Bottle Decay and How Common Is It?
 

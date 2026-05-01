@@ -21,6 +21,7 @@ references:
   - Dorf DS, Curran AE. Comprehensive Cleft Care. McGraw-Hill; 1991.
   - Monasterio FO, Ford MD. Lip height after cleft repair. Plast Reconstr Surg. 1991;88(2):201-206.
   - Marsh JL, Grames LM, Hortis-Dzierzbicki S. Late corrections of cleft lip/palate deformities. Cleft Palate Craniofac J. 1989;26(4):344-354.
+last_reviewed: 2026-05-01
 ---
 ## Why Cleft Lip Repair Matters
 

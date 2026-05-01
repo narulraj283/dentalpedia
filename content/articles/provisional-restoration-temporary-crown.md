@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/11950018
   - title: "Lehmann F, Kern M, Schädlich G, Sperlich S. Cementation of computer-milled crowns and inlays. Clin Oral Investig. 2010;14(3):381-386."
     url: https://pubmed.ncbi.nlm.nih.gov/19597833
+last_reviewed: 2026-05-01
 ---
 ## What Is a Temporary Crown and Why You Need One
 

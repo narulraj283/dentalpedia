@@ -44,6 +44,7 @@ slug: primary-tooth-shedding-normal-exfoliation-timeline
 subcategory: Pediatric Overview
 subcategory_slug: overview-peds
 title: Primary Tooth Shedding Normal Exfoliation Timeline
+last_reviewed: 2026-05-01
 ---
 ## Understanding How Baby Teeth Fall Out: The Natural Process
 

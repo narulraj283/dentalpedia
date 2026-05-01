@@ -21,6 +21,7 @@ references:
   - "Yalcin F, et al. The effect of a new herbal mouthrinse on oral health status. Journal of Periodontology. 2005;76(12):2166-2173."
   - "Offenbacher S. Periodontal diseases: pathogenesis. Annals of Periodontology. 1996;1(1):821-878."
   - "Prasad P, et al. Comparative effectiveness of chlorhexidine and herbal mouthrinses. Journal of Indian Society of Periodontology. 2016;20(2):145-151."
+last_reviewed: 2026-05-01
 ---
 Finding the right mouthwash for your situation saves money and actually makes a difference. Problem is, with hundreds of products on the shelves, most people either grab whatever's cheapest or assume all mouthwash is basically the same. Here's how to match a rinse to what you actually need.
 

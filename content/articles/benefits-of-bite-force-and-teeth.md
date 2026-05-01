@@ -19,6 +19,7 @@ references:
   - "Jemt, T., Ahlberg, A. W., Gunne, J., et al. (2000). Implant treatment in the edentulous maxilla: A 5-year follow-up report on patients with different degrees of bone loss prior to implant therapy. International Journal of Oral & Maxillofacial Implants, 15(2), 155-166."
   - "Ash, M. M., & Nelson, S. J. (2003). Wheeler's dental anatomy, physiology, and occlusion (8th ed.). Saunders. Chapter 12: Physiology of mastication."
   - "Bhat, M., & Engebretsen, L. (2013). The global burden of musculoskeletal injuries: challenge and opportunities. Injury, 44(1), 1-4."
+last_reviewed: 2026-05-01
 ---
 ## What's Bite Force?
 

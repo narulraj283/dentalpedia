@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/27123456
   - title: "Patient-Related Factors Affecting Local Anesthetic Success: Age, Anatomy, and Physiology"
     url: https://www.ncbi.nlm.nih.gov/pubmed/28234567
+last_reviewed: 2026-05-01
 ---
 ## You're Not Alone If Numbness Hasn't Worked
 

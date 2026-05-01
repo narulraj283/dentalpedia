@@ -13,6 +13,7 @@ reviewed: true
 references:
   - "Coachman C, Calamita M, Coachman F. Smile and esthetics. Semin Orthod. 2013;19(4):255-269."
   - "Rufenacht CR. Fundamentals of Esthetics. Quintessence; 1990:67-134."
+last_reviewed: 2026-05-01
 ---
 Your teeth have multiple problems: some are stained, some are chipped, some are missing, and your bite feels off. Learning more about [Cosmetic Dentistry for Aged Teeth Age Related Changes](/article/cosmetic-dentistry-for-aged-teeth-age-related-changes.html) can help you understand this better. You don't need separate fixes for each problem—you need a comprehensive smile makeover that addresses everything together.
 

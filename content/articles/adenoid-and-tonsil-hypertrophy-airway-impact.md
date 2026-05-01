@@ -19,6 +19,7 @@ references:
   - "Iber C, Ancoli-Israel S, Chesson AL, et al. The AASM Manual for the Scoring of Sleep and Associated Events: Rules, Terminology and Technical Specifications. American Academy of Sleep Medicine. 2007."
   - "Zettergren-Wijk L, Forsberg CM, Linder-Aronson S. Changes in dentofacial morphology after adenotonsillectomy in young children with obstructive sleep apnea—a 5-year follow-up study. The Angle Orthodontist. 2006;76(4):624-629."
   - "Hasegawa M, Asano T, Yamada S, et al. Rapid maxillary expansion combined with adenotonsillectomy in children with obstructive sleep apnea. Journal of Oral and Maxillofacial Surgery. 2012;70(8):1978-1987."
+last_reviewed: 2026-05-01
 ---
 ## What Are Adenoids and Tonsils?
 

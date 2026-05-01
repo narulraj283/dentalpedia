@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/27641835/
   - title: "Long-Term Stability of Relined Dentures"
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/jcpe.12877
+last_reviewed: 2026-05-01
 ---
 ## Hard Relines: Restoring Your Denture Fit
 

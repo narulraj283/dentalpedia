@@ -33,6 +33,7 @@ slug: bracket-bonding-adhesive-placement
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: 'Bracket Bonding: Adhesive Selection, Surface Preparation'
+last_reviewed: 2026-05-01
 ---
 One of the most crucial moments in your braces journey is when your orthodontist first bonds (glues) the brackets to your teeth. This step determines whether your brackets will stay securely attached through your entire treatment or pop off prematurely. When brackets fail, it means repeated trips to the orthodontist, added costs, and delayed treatment. Understanding how the bonding process works helps you care for your teeth properly and appreciate why your orthodontist takes this procedure so seriously.
 

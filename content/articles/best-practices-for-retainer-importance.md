@@ -19,6 +19,7 @@ references:
   - "Siqueira DF, De Oliveira AES, Flores-Mir C, Carozza D, Normando D. How much relapse is expected after fixed appliance therapy? A systematic review. Am J Orthod Dentofacial Orthop. 2024;165(2):163-177."
   - "Nieri M, Tinterelli E, Mucchino G, Rotolo RP, Franceschetti G, Pini-Prato GP. Periodontal health in patients with orthodontically treated ectopic eruption combined with alveolar ridge fractures. J Clin Periodontol. 2023;50(8):1070-1079."
   - "Thilander B, Svhed O. Orthodontic relapse at different age periods. Semin Orthod. 2023;29(2):110-125."
+last_reviewed: 2026-05-01
 ---
 ## Why Retention Isn't Optional
 

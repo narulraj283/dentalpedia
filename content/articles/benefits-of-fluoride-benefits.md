@@ -43,6 +43,7 @@ references:
     authors: "Twetman S"
     year: 2003
     publication: "Acta Odontologica Scandinavica"
+last_reviewed: 2026-05-01
 ---
 Fluoride gets a lot of attention—some people love it, some worry about it. But the science is really clear: fluoride prevents cavities, and it's been doing so successfully for over 80 years. Let's talk about how it works, what concentrations are safe, and how to use it correctly.
 

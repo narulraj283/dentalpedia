@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/16185871
   - title: "Swift EJ, Perdigão J, Heymann HO. Bonding to enamel and dentin: a brief history and state of the science. Quintessence Int. 1995;26(2):95-110."
     url: https://pubmed.ncbi.nlm.nih.gov/7568916
+last_reviewed: 2026-05-01
 ---
 ## What Is Composite Bonding?
 

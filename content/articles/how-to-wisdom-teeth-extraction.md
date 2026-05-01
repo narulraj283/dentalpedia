@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/36901234
   - title: "Cost-effectiveness of prophylactic extraction versus extraction on demand"
     url: https://www.ncbi.nlm.nih.gov/pubmed/37012345
+last_reviewed: 2026-05-01
 ---
 ## Do You Actually Need Your Wisdom Teeth Removed?
 

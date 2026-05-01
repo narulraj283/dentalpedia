@@ -21,6 +21,7 @@ references:
   - "Quirynen M, et al. The role of periodontitis in systemic health. J Dent Res. 2019;98(6):620-627."
   - "Zimmer S, et al. Electric toothbrush use and periodontitis: A meta-analysis. J Clin Periodontol. 2015;42(12):1188-1197."
   - "Ganss C, et al. Toothbrushing abrasion of erosively softened dentine after application of fluoride rinses. Eur J Oral Sci. 1999;107(3):177-183."
+last_reviewed: 2026-05-01
 ---
 ## Understanding Plaque and Why Cleaning Matters
 

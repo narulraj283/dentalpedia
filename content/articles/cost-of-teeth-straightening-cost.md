@@ -19,6 +19,7 @@ references:
   - "Scheu AF. Biologic basis of orthodontic therapy. Angle Orthod. 1952;22(1):1-12."
   - "Kloehn SJ. Orthodontics: Force or persuasion. Angle Orthod. 1953;23(1):56-70."
   - "Keim RG, Gottlieb EL, Nelson AH, Vogels DS. 2008 JCO study of orthodontic diagnosis and treatment procedures. J Clin Orthod. 2008;42(12):625-635."
+last_reviewed: 2026-05-01
 ---
 ## Metal Braces Costs and Factors
 

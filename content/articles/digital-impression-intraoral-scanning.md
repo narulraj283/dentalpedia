@@ -17,6 +17,7 @@ references:
   - "Araujo RE, Souza RC, da Silva JX, et al. Digital impressions in prosthodontics: A systematic review. J Prosthet Dent. 2018;119(1):11-19."
   - "Dawood A, Marti Marti B, Setchell D, et al. Digital scan accuracy and its clinical significance. J Dent. 2014;42(4):399-405."
   - "Wasserman A. Digital scanning and milling in dentistry. CDA Journal. 2018;46(7):389-397."
+last_reviewed: 2026-05-01
 ---
 ## Introduction
 

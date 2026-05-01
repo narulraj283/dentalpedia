@@ -21,6 +21,7 @@ references:
   - "Otto T, De Nisco S. Computer-aided direct ceramic restorations: A systematic review. J Esthet Restor Dent. 2007;19(6):308-318."
   - "Blatz MB, Chiche G, Holst S, Sadan A. Influence of surface treatment and simulated aging on bond strengths of luting agents to zirconia. Quintessence Int. 2007;38(9):745-753."
   - "Wassell RW, Walls AW, Steele JG. Crowns and other extra-coronal restorations: Longevity and complications. Clin Evid. 2002;(8):651-681."
+last_reviewed: 2026-05-01
 ---
 ## Understanding Your Restoration Options
 

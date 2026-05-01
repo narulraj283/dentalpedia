@@ -16,6 +16,7 @@ references:
   - "thumb-sucking-impact-delayed-weaning-effects"
   - "dietary-counseling-reducing-cavity-risk-in-kids"
   - "baby-teeth-development-and-eruption-timeline"
+last_reviewed: 2026-05-01
 ---
 ## Introduction
 

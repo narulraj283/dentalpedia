@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/16870048
   - title: "Clinical evaluation of natural whitening products and enamel effects"
     url: https://pubmed.ncbi.nlm.nih.gov/25950651
+last_reviewed: 2026-05-01
 ---
 ## How Whitening Powders Actually Work
 

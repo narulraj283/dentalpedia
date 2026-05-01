@@ -21,6 +21,7 @@ references:
   - "Humphrey SP, Williamson RT. A review of saliva: normal composition, flow, and function. J Prosthet Dent. 2001;85(2):162-169."
   - "Walsh LJ. The current status of laser applications in dentistry. Aust Dent J. 2003;48(3):146-155."
   - "Navazesh M, Kumar SK. Measuring salivary flow: challenges and opportunities. J Am Dent Assoc. 2008;139(Suppl):35S-40S."
+last_reviewed: 2026-05-01
 ---
 ## Why Your Saliva Matters More Than You Think
 

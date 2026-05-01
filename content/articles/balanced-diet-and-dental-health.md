@@ -20,6 +20,7 @@ references:
   - "Stephan RM. Intra-oral hydrogen-ion concentrations associated with dental caries activity. J Dent Res. 1944;23(4):257-266."
   - "Ismail AI, et al. Sugar consumption and dental caries: a systematic review of evidence. J Am Dent Res. 2017;148(10):S38-S50."
   - "Corbyn M. The tooth of the matter: Why diet affects oral health. Nat Med. 2016;22(7):706-708."
+last_reviewed: 2026-05-01
 ---
 ## Building Your Teeth with Nutrients
 

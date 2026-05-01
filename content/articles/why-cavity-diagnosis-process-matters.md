@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/26890556
   - title: "Patient outcomes and satisfaction with early detection-based caries management protocols"
     url: https://pubmed.ncbi.nlm.nih.gov/27550098
+last_reviewed: 2026-05-01
 ---
 When your dentist finds a cavity, you probably assume that means you need a filling. But modern dentistry has discovered something revolutionary: many cavities don't need fillings at all. In fact, the best time to treat a cavity is before it becomes a cavity in the traditional sense.
 

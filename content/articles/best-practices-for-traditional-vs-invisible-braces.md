@@ -34,6 +34,7 @@ slug: best-practices-for-traditional-vs-invisible-braces
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: 'Traditional vs. Invisible Braces: Clinical Efficacy'
+last_reviewed: 2026-05-01
 ---
 ## How Traditional Braces Work
 

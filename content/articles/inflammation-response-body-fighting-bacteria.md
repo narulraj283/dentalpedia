@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/30255851
   - title: "Antimicrobial effector mechanisms of oral immune cells"
     url: https://www.ncbi.nlm.nih.gov/pubmed/29360262
+last_reviewed: 2026-05-01
 ---
 Your mouth is under constant bacterial attack, yet you rarely develop infections. That's because your body maintains sophisticated defenses—chemical antimicrobials, physical barriers, and immune cells—that protect you constantly. When these defenses work well, you stay healthy. When they fail or bacteria overwhelm them, you develop gum disease. Understanding how this battle works helps you appreciate what you're doing when you brush your teeth and why expert cleaning matters.
 

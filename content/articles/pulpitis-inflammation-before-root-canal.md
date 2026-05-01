@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/18635871
   - title: "Seltzer S, Bender IB. The Dental Pulp: Biologic Considerations in Dental Procedures. 2nd ed. Philadelphia: JB Lippincott; 1975."
     url: https://pubmed.ncbi.nlm.nih.gov/1058529
+last_reviewed: 2026-05-01
 ---
 ## What Is Pulpitis and Why It Matters
 

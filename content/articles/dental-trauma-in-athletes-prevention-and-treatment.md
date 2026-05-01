@@ -19,6 +19,7 @@ references:
   - "Gupta N, Marya CM, Grewal H, Chaudhry K. A clinical study of immediate and delayed operative management of crown-root fractures. J Oral Maxillofac Surg. 2019;67(2):368-373."
   - "Diangelis AJ, Andreasen JO, Eberl DP, et al. Guidelines for the management of traumatic dental injuries. Dent Traumatol. 2012;28(2):88-112."
   - "Malmgren B. Long-term complications of large coronal fractures and root fractures. Dent Traumatol. 2014;30(1):37-44."
+last_reviewed: 2026-05-01
 ---
 ## How Common Is Sports-Related Dental Trauma?
 

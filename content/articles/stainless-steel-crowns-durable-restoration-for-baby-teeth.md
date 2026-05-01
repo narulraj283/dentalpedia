@@ -44,6 +44,7 @@ slug: stainless-steel-crowns-durable-restoration-for-baby-teeth
 subcategory: Pediatric Dentistry
 subcategory_slug: overview-peds
 title: Stainless Steel Crowns as Durable Restorations
+last_reviewed: 2026-05-01
 ---
 ## Introduction
 

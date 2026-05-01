@@ -42,6 +42,7 @@ slug: timeline-for-anesthesia-types
 subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
 title: Dental Anesthesia Types and Delivery Methods
+last_reviewed: 2026-05-01
 ---
 ## Understanding Your Anesthesia Options
 

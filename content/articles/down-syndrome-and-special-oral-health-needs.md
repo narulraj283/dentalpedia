@@ -19,6 +19,7 @@ references:
   - "Suri G, et al. Dental care and oral health for individuals with Down syndrome. Special Care in Dentistry. 2014;34(2):76-84."
   - "Figueiredo RB, et al. Hypodontia and delayed eruption in Down syndrome. Journal of Clinical Pediatric Dentistry. 2015;39(1):45-52."
   - "Cardoso CL, et al. Prevalence of dental caries in individuals with Down syndrome. International Journal of Paediatric Dentistry. 2013;23(3):216-224."
+last_reviewed: 2026-05-01
 ---
 ## Understanding Dental Health With Down Syndrome
 

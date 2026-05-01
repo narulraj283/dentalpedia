@@ -21,6 +21,7 @@ references:
   - "Seligman DA, Pullinger AG. Association of psychological and occlusal factors in masticatory muscle pain. J Prosthet Dent. 1991;65(3):443-453."
   - "Molly SL. Biomechanics of the restoration of teeth and restorations of the masticatory system. Int J Prosthodont. 2003;16(Suppl 1):4-12."
   - "Misch CE. Dental Implant Prosthetics. 2nd ed. St. Louis: Elsevier; 2014."
+last_reviewed: 2026-05-01
 ---
 Grinding and clenching your teeth wears down teeth and damages restorations. If you have a night guard, you protect your teeth and save thousands in future repairs. Here's what you need to know about bite force and protection.
 

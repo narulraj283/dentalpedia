@@ -19,6 +19,7 @@ references:
   - "Tonetti MS, Greenwell H, Kornman KS. Staging and grading of periodontitis: Framework and proposal of a new classification and case definition. J Periodontol. 2018;89 Suppl 1:S159-S172."
   - "Teughels W, Durieux MP, Ugarte-Montano AM, et al. One-stage full-mouth disinfection plus amoxicillin and metronidazole in generalized aggressive periodontitis: preliminary results. J Periodontol. 2002;73(7):741-749."
   - "Baker PJ, Evans RT, Cowan GC, et al. Tetracycline and its derivatives as antimicrobial agents in periodontology. Curr Opin Dent. 1991;1(5):587-595."
+last_reviewed: 2026-05-01
 ---
 ## When Antibiotics Help Gum Disease
 

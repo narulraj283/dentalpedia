@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/19889949
   - title: "Retention protocols and relapse prevention following aligner therapy"
     url: https://www.ncbi.nlm.nih.gov/pubmed/17092344
+last_reviewed: 2026-05-01
 ---
 Not everyone wants traditional braces. If you're looking for straighter teeth, you actually have multiple options—from clear aligners that are almost invisible to invisible braces bonded behind your teeth, to even cosmetic solutions for minor alignment issues. The right choice depends on how severe your alignment problem is, your lifestyle, and what matters most to you (speed, invisibility, cost). Learning more about [Why Retainers Matter After Braces](/article/how-to-retainer-importance.html) can help you understand this better.
 

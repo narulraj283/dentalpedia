@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/26935472
   - title: "Patient Education and Informed Mouthwash Selection in Dental Practice"
     url: https://pubmed.ncbi.nlm.nih.gov/27634537
+last_reviewed: 2026-05-01
 ---
 ## Choosing the Right Mouthwash for Your Needs
 

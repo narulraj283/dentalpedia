@@ -44,6 +44,7 @@ slug: risk-and-concerns-with-preventive-treatments
 subcategory: Preventive Overview
 subcategory_slug: overview-prevent
 title: Risk and Concerns with Preventive Treatments
+last_reviewed: 2026-05-01
 ---
 ## Why Your Preventive Treatments Matter
 

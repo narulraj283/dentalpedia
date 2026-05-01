@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/8072405
   - title: "Baart JA, Brand HS, Heymans PH, Pauwels R. Comparison of intra-oral and cone beam computed tomography imaging: a quantitative assessment of bone-resorbed sites of the jaw. Dentomaxillofac Radiol. 2016;45(6):20150269."
     url: https://pubmed.ncbi.nlm.nih.gov/27019198
+last_reviewed: 2026-05-01
 ---
 ## How Your Dentist's Surgical Approach Affects Your Recovery
 

@@ -19,6 +19,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/27043159
   - title: "Powered toothbrush technologies and plaque removal efficacy"
     url: https://www.ncbi.nlm.nih.gov/pubmed/28658980
+last_reviewed: 2026-05-01
 ---
 Walk into a pharmacy and you'll find seemingly endless options: electric toothbrushes, water flossers, interdental brushes, sonic toothbrushes, and more. How do you know what's actually useful versus marketing hype?
 

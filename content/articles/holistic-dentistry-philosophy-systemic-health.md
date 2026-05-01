@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/21914066
   - title: "Integration of systemic and oral health in comprehensive patient care"
     url: https://www.ncbi.nlm.nih.gov/pubmed/23388888
+last_reviewed: 2026-05-01
 ---
 Holistic dentistry looks at your whole body's health, not just your teeth. The idea is simple: what happens in your mouth affects the rest of your body, and what's happening in your body affects your mouth. This connection is real and backed by scientific research. However, it's important to know which claims are proven facts and which are just marketing hype. This guide will help you understand the real, proven connections between your oral health and your body's health, so you can make smart decisions about your care.
 

@@ -19,6 +19,7 @@ references:
   - "Coachman C, Calamita MA. Digital smile design: a tool for treatment planning and communication in esthetic dentistry. Quintessence Dent Technol. 2012;35:94-102."
   - "Frush JP, Fisher RD. The dynesthetic interpretation of the dentogenic concept. J Prosthet Dent. 1957;7(1):82-89."
   - "Levin EI. Dental esthetics and the golden proportion. J Prosthet Dent. 1978;40(3):244-252."
+last_reviewed: 2026-05-01
 ---
 Planning a smile makeover is exciting! You probably have questions about how long results will last, whether you need multiple visits, and what's really involved. Let's clear up some common misconceptions so you know exactly what to expect when you're ready to transform your smile.
 

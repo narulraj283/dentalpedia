@@ -41,6 +41,7 @@ slug: root-planing-smoothing-root-surfaces
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Root Planing Smoothing Root Surfaces
+last_reviewed: 2026-05-01
 ---
 ## What Is Root Planing and Why Do You Need It?
 

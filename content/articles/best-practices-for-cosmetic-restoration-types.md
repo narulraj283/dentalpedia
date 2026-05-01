@@ -21,6 +21,7 @@ references:
   - "Blatz MB, Sadan A, Kern M. Clinical long-term behavior and failure rates of non-retentive all-ceramic crowns. J Dent Res. 2006;85(1):42-47."
   - "Gresnigt MM, Ozcan M. Esthetic rehabilitation of anterior teeth with minimum invasive composite restorations. Eur J Esthet Dent. 2010;5(2):228-249."
   - "Korkut L, Yener B, Ozcan M. Resin veneers on a composite-restored tooth: Case report with 5-year clinical follow-up. Quintessence Int. 2008;39(4):e15-e22."
+last_reviewed: 2026-05-01
 ---
 ## Your Options for Fixing Cosmetic Tooth Problems
 

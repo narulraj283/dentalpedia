@@ -19,6 +19,7 @@ references:
   - "Pogrel MA. Complications of third molar surgery. Oral Maxillofac Surg Clin North Am. 2003;15(1):177-186."
   - "Mravak-Stipetić M, et al. Healing potential of connective tissue following minor oral surgery. Coll Antropol. 2014;38(2):415-420."
   - "Tobias JS, Hochhauser D. Cancer and its management. Blackwell Scientific Publications. 2015."
+last_reviewed: 2026-05-01
 ---
 ## The Critical First 24 Hours
 

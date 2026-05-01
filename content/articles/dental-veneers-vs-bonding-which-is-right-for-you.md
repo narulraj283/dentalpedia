@@ -19,6 +19,7 @@ references:
   - "Kramer N, García-Godoy F, Reinhardt JW. Clinical performance of adhesive restorations. Oper Dent. 2006;31(5):537-545."
   - "Dumfahrt H, Schäffer H. Porcelain veneers: a review of offended sound tooth preparations. Int J Prosthodont. 2000;13(1):9-20."
   - "Fradeani M, Redemagni M, Corrado M. Esthetic rehabilitation of anterior teeth with porcelain laminate veneers. Quintessence Int. 1998;29(1):5-21."
+last_reviewed: 2026-05-01
 ---
 ## The Two Main Options
 

@@ -25,6 +25,7 @@ slug: extraction-complications-what-you-need-to-know
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: 'Extraction Complications: Patient Guide to Recognition'
+last_reviewed: 2026-05-01
 ---
 ## What to Expect After Your Tooth Is Removed
 

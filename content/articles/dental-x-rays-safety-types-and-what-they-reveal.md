@@ -21,6 +21,7 @@ references:
   - "Scarfe WC, et al. Clinical applications of cone-beam computed tomography in dental practice. Journal of the Canadian Dental Association. 2006;72(1):75-80."
   - "Gkantzios A, et al. Recent advances in digital radiography for dental applications. Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology. 2018;126(6):541-550."
   - "Kassebaum DK, et al. Radiographic interpretation of implant osseointegration: a survey. Journal of Prosthetic Dentistry. 2004;92(2):121-128."
+last_reviewed: 2026-05-01
 ---
 If you've ever worried about the safety of X-rays at your dental office, you're not alone. Many people wonder whether the radiation is really necessary and whether it could cause harm. The good news is that dental X-rays use very small amounts of radiation and provide important information that helps your dentist catch problems early and treat your teeth properly.
 

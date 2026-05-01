@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/6363471
   - title: "Inglehart MR, Bagramian RA. Oral Health-Related Quality of Life. Chicago: Quintessence Publishing; 2002."
     url: https://pubmed.ncbi.nlm.nih.gov/12199641
+last_reviewed: 2026-05-01
 ---
 ## Your Smile Enhancement Options
 

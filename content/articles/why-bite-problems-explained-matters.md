@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/24318850
   - title: "Mixed dentition guidance and its role in preventing severe malocclusion"
     url: https://pubmed.ncbi.nlm.nih.gov/23880562
+last_reviewed: 2026-05-01
 ---
 ## Why Understanding Bite Problems Matters for Prevention and Growth Modification
 

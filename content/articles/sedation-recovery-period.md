@@ -28,6 +28,7 @@ slug: sedation-recovery-period
 subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
 title: Sedation Recovery Period
+last_reviewed: 2026-05-01
 ---
 ## Introduction
 

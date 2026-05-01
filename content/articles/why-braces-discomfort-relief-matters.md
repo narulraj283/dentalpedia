@@ -35,6 +35,7 @@ slug: why-braces-discomfort-relief-matters
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Why Managing Orthodontic Discomfort Matters
+last_reviewed: 2026-05-01
 ---
 ## Why Managing Orthodontic Discomfort Matters for Treatment Compliance
 

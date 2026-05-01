@@ -31,6 +31,7 @@ slug: chemical-plaque-control-antimicrobial-agents
 subcategory: Brushing, Flossing & Hygiene
 subcategory_slug: brushing-flossing
 title: 'Chemical Plaque Control: Antimicrobial Mouth Rinses'
+last_reviewed: 2026-05-01
 ---
 If you have gum disease, your dentist might recommend an antimicrobial mouth rinse in addition to brushing and flossing. These rinses can help fight bacteria and reduce inflammation. But they're tools to enhance your cleaning routine, not replace it. Understanding your options helps you know what to expect and how to use them effectively.
 

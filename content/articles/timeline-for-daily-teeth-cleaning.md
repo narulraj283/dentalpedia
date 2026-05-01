@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/31039273
   - title: "Sambunjak D, Nickerson JW, Poklepovic Pericic T. Flossing for the management of periodontal diseases and dental caries in adults. Cochrane Database Syst Rev. 2011;12:CD008829."
     url: https://pubmed.ncbi.nlm.nih.gov/22161442
+last_reviewed: 2026-05-01
 ---
 ## The Foundation: Daily Brushing and Flossing
 

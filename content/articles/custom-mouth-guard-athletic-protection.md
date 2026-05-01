@@ -21,6 +21,7 @@ references:
   - "Needleman HL. Nontraumatic dental emergencies in sports medicine. Current Sports Medicine Reports. 2012;11(3):127-134."
   - "Perunski S, Soporowski N, Bahler C. Effectiveness of mouthguards in football: a prospective study. Dental Traumatology. 2004;20(1):39-46."
   - "Garon MW, Merkle A, Wright JM. Mouth protectors: do they protect? Journal of the American Dental Association. 1986;112(6):663-667."
+last_reviewed: 2026-05-01
 ---
 If you participate in sports, you've probably heard about mouth guards. But did you know that 10 to 39 percent of all dental injuries happen during sports? Many of these injuries are preventable with proper mouth protection. Let's explore why mouth guards matter and which type provides the best protection.
 

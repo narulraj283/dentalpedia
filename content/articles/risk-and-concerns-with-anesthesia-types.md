@@ -17,6 +17,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/16732
   - title: "Dionne RA, et al. Guidelines for the use of conscious sedation. J Oral Maxillofac Surg. 2016;74(12):2343-2354."
     url: https://pubmed.ncbi.nlm.nih.gov/27515597
+last_reviewed: 2026-05-01
 ---
 ## What to Expect
 

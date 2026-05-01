@@ -21,6 +21,7 @@ references:
   - "Fehrmann WA. Planning and sequencing prosthodontic care. J Prosthet Dent. 2008;100(2):73-84."
   - "Cutter CS. Single-unit implant restorations: a literature review. J Prosthet Dent. 2003;90(2):121-136."
   - "Radfar N, Chee WW. Veneer and no-prep restorations for the anterior dentition: a clinical overview. J Contemp Dent Pract. 2002;3(3):49-58."
+last_reviewed: 2026-05-01
 ---
 When your dentist creates a treatment plan, they're not just listing all the work you need. They're strategically sequencing procedures in an order that makes biological sense and helps you get the best results. Understanding how treatment planning works helps you make informed decisions and budget for the total cost rather than being surprised by unexpected expenses.
 

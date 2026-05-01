@@ -19,6 +19,7 @@ slug: reparative-dentin-tooth-response-to-injury
 subcategory: Endodontic Overview
 subcategory_slug: overview-endo
 title: Reparative Dentin Tooth Response to Injury
+last_reviewed: 2026-05-01
 ---
 ## Your Tooth's Built-In Healing System
 

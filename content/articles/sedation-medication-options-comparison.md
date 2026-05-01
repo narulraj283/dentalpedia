@@ -18,7 +18,7 @@ slug: sedation-medication-options-comparison
 subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
 title: Sedation Medications - How Different Drugs Work
-last_reviewed: 2026-04-01
+last_reviewed: 2026-05-01
 ---
 ## How Different Sedation Drugs Work
 

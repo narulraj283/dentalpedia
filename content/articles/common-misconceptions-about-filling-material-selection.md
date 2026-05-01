@@ -19,6 +19,7 @@ references:
   - Pallesen U, et al. Longevity of posterior composite restorations and factors affecting their survival. Journal of Contemporary Dental Practice. 2010;11(2):32-40.
   - Sakaguchi RL. Review of the current status and research of high-viscosity bulk-fill resin composites. Dental Materials Journal. 2014;33(2):109-120.
   - Heintze SD, et al. Resin composite materials for direct placement restorations. Journal of the Academy of General Dentistry. 2015;63(1):16-30.
+last_reviewed: 2026-05-01
 ---
 You need a filling. Your dentist mentions composite or amalgam, and suddenly you're wondering: Which one is better? Are amalgam fillings actually toxic? Will the white filling last as long as the silver one? Let's sort through the confusion.
 

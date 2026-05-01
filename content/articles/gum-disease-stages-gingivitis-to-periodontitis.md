@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/18657200/
   - title: "Predictive Modeling of Periodontitis Progression Using Multilevel Risk Assessment"
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/jcpe.13077
+last_reviewed: 2026-05-01
 ---
 ## The Journey from Healthy Gums to Gum Disease
 

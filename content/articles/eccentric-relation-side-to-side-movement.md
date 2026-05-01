@@ -27,6 +27,7 @@ slug: eccentric-relation-side-to-side-movement
 subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
 title: 'Eccentric Relation: Clinical Assessment and Management'
+last_reviewed: 2026-05-01
 ---
 ## Understanding How Your Jaw Moves Side to Side
 

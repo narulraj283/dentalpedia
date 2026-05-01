@@ -31,6 +31,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/27551668/"
   - title: "Comparison of conventional brackets versus clear aligners: biological response"
     url: "https://pubmed.ncbi.nlm.nih.gov/31597898/"
+last_reviewed: 2026-05-01
 ---
 Teeth don't move by magic during orthodontic treatment. Your orthodontist is actually triggering a sophisticated biological process that involves your body remodeling bone to allow teeth to shift. Understanding how teeth move helps you appreciate why treatment takes months, not weeks, and why following your orthodontist's instructions matters.
 

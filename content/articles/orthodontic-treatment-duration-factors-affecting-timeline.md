@@ -10,6 +10,7 @@ reviewer_specialty: Orthodontics
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 reviewed: true
+last_reviewed: 2026-05-01
 ---
 One of your first questions about braces is probably "How long will I need to wear them?" The answer isn't simple because many factors influence your specific treatment duration. This guide explains what determines your treatment timeline so you can understand what to expect.
 

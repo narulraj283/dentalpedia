@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/24736705
   - title: "Material Selection and Clinical Success: Direct vs Indirect Minimal Prep Restorations"
     url: https://pubmed.ncbi.nlm.nih.gov/25509812
+last_reviewed: 2026-05-01
 ---
 ## Understanding Ultra-Thin Veneers
 

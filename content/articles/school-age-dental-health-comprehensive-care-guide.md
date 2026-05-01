@@ -24,6 +24,7 @@ slug: school-age-dental-health-comprehensive-care-guide
 subcategory: Pediatric Overview
 subcategory_slug: overview-peds
 title: Your Dental Health During School Years
+last_reviewed: 2026-05-01
 ---
 ## Introduction
 

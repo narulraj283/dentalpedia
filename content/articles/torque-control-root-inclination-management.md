@@ -44,6 +44,7 @@ slug: torque-control-root-inclination-management
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Torque Control and Root Inclination Management
+last_reviewed: 2026-05-01
 ---
 ## Introduction
 

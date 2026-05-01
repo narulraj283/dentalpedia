@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/26549197/
   - title: "Psychological factors influencing recovery after oral surgery"
     url: https://pubmed.ncbi.nlm.nih.gov/21357945/
+last_reviewed: 2026-05-01
 ---
 ## Why Do Wisdom Teeth Need to Come Out?
 

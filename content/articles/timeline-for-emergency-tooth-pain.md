@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/26580160
   - title: "Torabinejad M, Fouad AF. Endodontic treatment of teeth with open apices. Endod Top. 2005;12(1):4-15."
     url: https://pubmed.ncbi.nlm.nih.gov/16487182
+last_reviewed: 2026-05-01
 ---
 ## Introduction
 

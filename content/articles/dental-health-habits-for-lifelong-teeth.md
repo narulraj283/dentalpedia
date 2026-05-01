@@ -13,6 +13,7 @@ reviewed: true
 references:
   - "Bollen CML, Letelier G, Bobetsis YA. Effects of flossing on bleeding when combined with tooth brushing: a systematic review of randomized controlled trials. J Am Dent Assoc. 2012;143(8):829-836."
   - "Watt RG, Listl S, Piotrowski WJ, Padilla P. Social determinants of oral health: implementing the Ottawa Charter. Community Dent Oral Epidemiol. 2018;46(1):1-7."
+last_reviewed: 2026-05-01
 ---
 ## The Startling Success Rate
 

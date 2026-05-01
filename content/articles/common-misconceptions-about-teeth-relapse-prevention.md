@@ -21,6 +21,7 @@ references:
   - "Daubresse JC, Marini G, Jacquet A. The rotated permanent mandibular canine: incidence, complications and prevention. Orthod Fr. 2006;77(2):241-254."
   - "Riedel RA. Retention and relapse. In: Graber TM, Vanarsdall RL, Vig KWL, eds. Orthodontics. 5th ed. Elsevier; 2011."
   - "Bondemark L, Ericsson S. Incisor position change and root resorption 1 year after discontinuation of fixed orthodontic appliances. Angle Orthod. 2001;71(1):25-32."
+last_reviewed: 2026-05-01
 ---
 You've worn braces for 2-3 years, your teeth look great, and now your orthodontist says you need retainers "permanently." You're probably thinking "permanently" can't really mean that. But it does, and here's why.
 

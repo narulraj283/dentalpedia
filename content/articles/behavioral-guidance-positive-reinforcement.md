@@ -19,6 +19,7 @@ references:
   - "Linn G, et al. The effect of the tell-show-do technique on children's anxiety during the delivery of restorative care. J Dent Child. 1987;54(3):157-161."
   - "Shaw AJ. The effect of distraction on children's behavior during administration of local anesthesia. ASDC J Dent Child. 1975;42(1):8-11."
   - "Tornese G, et al. The effect of music therapy on children's anxiety during the delivery of local anesthesia for dental treatment. J Dent Child. 2007;74(2):98-102."
+last_reviewed: 2026-05-01
 ---
 ## Why How Dentists Handle Kids Matters
 

@@ -44,6 +44,7 @@ slug: risk-and-concerns-with-swelling-reduction
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Risk and Concerns with Swelling Reduction
+last_reviewed: 2026-05-01
 ---
 ## Why You'll Swell After Surgery (And Why That's Actually Normal)
 

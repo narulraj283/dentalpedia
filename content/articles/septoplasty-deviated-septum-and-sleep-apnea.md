@@ -42,6 +42,7 @@ slug: septoplasty-deviated-septum-and-sleep-apnea
 subcategory: TMJ & Sleep Overview
 subcategory_slug: overview-tmj-sleep
 title: Septoplasty Deviated Septum and Sleep Apnea
+last_reviewed: 2026-05-01
 ---
 ## Introduction
 

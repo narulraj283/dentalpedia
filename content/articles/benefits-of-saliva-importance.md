@@ -19,6 +19,7 @@ references:
   - "Sreebny LM, et al. Xerostomia in the management of Sjogren's syndrome. Curr Opin Rheumatol. 1998;10(6):489-497."
   - "Hara K, et al. Effect of antimicrobial compounds on caries. In: Newman MG, et al., eds. Carranza's Clinical Periodontology. 12th ed. Philadelphia: Mosby; 2015."
   - "Behrman SJ, et al. Medications and oral disease: a reference guide for oral health providers. J Am Dent Assoc. 1997;128:1481-1494."
+last_reviewed: 2026-05-01
 ---
 ## Saliva: Your Mouth's Best Friend
 

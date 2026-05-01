@@ -13,6 +13,7 @@ reviewed: true
 references:
   - "Jerjes W, Upile T, Kaftan H, et al. Long-term evaluation of esthetic outcomes and patient satisfaction following cosmetic dentistry. J Cosmet Dent. 2007;23(2):38-46."
   - "Johnson M, Paulsen A. Self-esteem changes following aesthetic dental treatment: clinical trial. Eur J Dent Esthet. 2008;18(3):162-171."
+last_reviewed: 2026-05-01
 ---
 ## Your Smile Affects Your Whole Life
 

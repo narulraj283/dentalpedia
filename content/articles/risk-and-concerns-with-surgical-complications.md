@@ -43,6 +43,7 @@ slug: risk-and-concerns-with-surgical-complications
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Risk and Concerns with Surgical Complications
+last_reviewed: 2026-05-01
 ---
 ## Possible Problems After Dental Surgery
 
