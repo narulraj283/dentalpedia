@@ -27,6 +27,7 @@ slug: denture-border-molding-custom-fit
 subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
 title: What Is Border Molding and Why Your Dentist Does It
+last_reviewed: 2026-06-01
 ---
 You might hear your dentist mention "border molding" when discussing your dentures, but what does this actually mean? Learning more about [Denture Adjustment and Fitting the Initial Process](/article/denture-adjustment-and-fitting-the-initial-process.html) can help you understand this better. Border molding is an important step in making sure your dentures fit properly and stay stable. Understanding what it is and why it matters helps you appreciate the detail that goes into creating good-fitting dentures.
 

@@ -42,6 +42,7 @@ slug: professional-cleanings-what-they-remove-that-home-care-cant
 subcategory: Brushing, Flossing & Hygiene
 subcategory_slug: brushing-flossing
 title: Professional Cleanings What They Remove That Home Care Cant
+last_reviewed: 2026-06-01
 ---
 ## Why Professional Cleanings Matter
 

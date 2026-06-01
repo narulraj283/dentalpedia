@@ -18,7 +18,7 @@ slug: sclerotic-dentin-blocked-tubules
 subcategory: General Overview
 subcategory_slug: overview-general
 title: Sclerotic Dentin - Understanding Hardened Tooth Structure
-last_reviewed: 2026-04-01
+last_reviewed: 2026-06-01
 ---
 ## Your Teeth Change As You Age
 

@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/598745
   - title: "Dodson TB. The role of risk assessment in clinical decision making for impacted third molars. J Oral Maxillofac Surg. 2012;70(9 Suppl 1):S8-S14."
     url: https://pubmed.ncbi.nlm.nih.gov/22916701
+last_reviewed: 2026-06-01
 ---
 ## Introduction
 

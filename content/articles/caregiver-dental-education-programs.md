@@ -19,6 +19,7 @@ references:
   - "MacEntee MI, Donnelly LA. Quality-of-life measures and health outcomes in older adults with xerostomia. Gerodontology. 2013;30(2):117-124."
   - "Ramsay SE, Whincup PH, Watt RG, Tsakos G, Papapanou PN, Oliveira C, et al. Periodontal disease, tooth loss, and mortality in older adults. Arch Intern Med. 2010;170(6):507-508."
   - "Naito T, Nakade M, Kondo K, Yokoyama T, Oshiki R. Effect of an oral health education program for the caregivers of elderly patients. J Gerodontol. 2013;29(3):240-248."
+last_reviewed: 2026-06-01
 ---
 ## Why Caregiver Education Matters
 

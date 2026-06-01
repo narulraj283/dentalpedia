@@ -13,6 +13,7 @@ reviewed: true
 references:
   - "Offenbacher S, Beck JD, Lieff S, Slade G. Role of periodontitis in systemic disease. Dent Clin North Am. 2005;49(3):505-525."
   - "Offenbacher S, Katz V, Fertik G, et al. Periodontal infection as a possible risk factor for preterm low birth weight. J Periodontol. 1996;67(10 Suppl):1103-1113."
+last_reviewed: 2026-06-01
 ---
 ## Pregnancy Changes Your Mouth
 

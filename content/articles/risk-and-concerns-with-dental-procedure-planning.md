@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/3522637
   - title: "Robinson PJ. Which radiographic projections of the tooth and implant are most useful for the clinician? Dent Clin North Am. 1998;42(4):561-585."
     url: https://pubmed.ncbi.nlm.nih.gov/9850141
+last_reviewed: 2026-06-01
 ---
 ## Getting a Treatment Plan
 

@@ -21,7 +21,7 @@ references:
   - "Haigh RD, et al. Alcohol consumption and oral health outcomes. Alcohol Alcohol. 2017;52(5):569-576."
   - "Reuland-Bosma W, et al. Associations between dry mouth and periodontal disease. J Periodontol. 2011;82(7):1012-1019."
   - "Sabbah W, et al. Social gradients in oral and general health. J Dent Res. 2009;88(3):275-279."
-last_reviewed: 2026-05-01
+last_reviewed: 2026-06-01
 ---
 ## Your Saliva: Your Mouth's First Line of Defense
 

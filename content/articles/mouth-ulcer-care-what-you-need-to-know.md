@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/11151843
   - title: "Vincent SD, Lilly GE. Clinical, historic, and therapeutic features of aphthous stomatitis. Literature review and open clinical trial employing steroids. Oral Surg Oral Med Oral Pathol. 1992;74(1):79-86."
     url: https://pubmed.ncbi.nlm.nih.gov/1408040
+last_reviewed: 2026-06-01
 ---
 About one in five people get mouth ulcers at some point, and they're rarely serious—but they can be incredibly annoying. The pain seems disproportionate to the small size, eating becomes difficult, and you can't stop your tongue from touching it even though it hurts. Most ulcers heal in 1-2 weeks on their own, but there are smart strategies to speed healing and reduce pain. Your first step is identifying what type of ulcer you have, because that determines your best treatment approach.
 

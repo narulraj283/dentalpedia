@@ -40,6 +40,7 @@ slug: professional-whitening-cost-investment
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: 'Professional Whitening Cost: Investment vs Over-the-Counter'
+last_reviewed: 2026-06-01
 ---
 ## Three Whitening Options: How They Compare
 

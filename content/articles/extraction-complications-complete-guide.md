@@ -19,6 +19,7 @@ references:
   - "Pederson GW. Oral Surgery. 3rd ed. Mosby; 1988."
   - "Chiapasco M, Crescentini M. Impact of extraction technique on spontaneous bone resorption and implant primary stability. J Oral Maxillofac Surg. 2009;67(6):1218-1226."
   - "Chaushu S, Vered M, Nissan J. Medicament regimen for alveolar osteitis: a preliminary double-blind study. J Am Dent Assoc. 2002;133(12):1651-1656."
+last_reviewed: 2026-06-01
 ---
 ## Understanding Problems That Can Happen During Extraction
 

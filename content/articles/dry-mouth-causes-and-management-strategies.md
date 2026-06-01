@@ -19,6 +19,7 @@ references:
   - "Mainguet P, et al. Pilocarpine for radiation-induced xerostomia in patients with head and neck cancer: A systematic review. Journal of Cancer Survivorship. 2015;9(2):268-278."
   - "Furness S, et al. Interventions for the management of dry mouth: Non-pharmacological interventions. Cochrane Database of Systematic Reviews. 2013;(8):CD009603."
   - "Visvanathan R, et al. Managing xerostomia: A review of therapeutic interventions. Journal of the American Dental Association. 2015;146(8):567-576."
+last_reviewed: 2026-06-01
 ---
 ## Why Your Mouth Feels Dry: Common Causes
 

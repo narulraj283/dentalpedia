@@ -20,6 +20,7 @@ references:
   - "Slade GD, et al. Halitosis correlations with inflammatory markers and microbial counts. J Dent Res. 2003;82(8):623-628."
   - "Rosenberg M, et al. Halitosis assessment and treatment. Periodontol 2000. 2011;55(1):93-106."
   - "Winkel EG, et al. Halitosis. In: Clinical Practice of the Dental Hygienist. 12th ed. Wolters Kluwer; 2016."
+last_reviewed: 2026-06-01
 ---
 ## How Common Is Bad Breath?
 

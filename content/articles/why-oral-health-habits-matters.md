@@ -31,7 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/26935472
   - title: "Quality of Life Impact of Preventable Oral Disease From Inadequate Habits"
     url: https://pubmed.ncbi.nlm.nih.gov/27634537
-last_reviewed: 2026-04-01
+last_reviewed: 2026-06-01
 ---
 ## Daily Habits That Protect Your Teeth for Life
 

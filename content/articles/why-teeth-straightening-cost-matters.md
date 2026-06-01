@@ -31,7 +31,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/22133554/"
   - title: "Long-term cost analysis including retention and follow-up care expenses"
     url: "https://pubmed.ncbi.nlm.nih.gov/23658518/"
-last_reviewed: 2026-04-01
+last_reviewed: 2026-06-01
 ---
 Orthodontic treatment costs thousands of dollars—typically $3,000–$8,000 for full braces treatment in the United States. That's a significant financial commitment for most families. Understanding what factors drive these costs, comparing different options fairly, and evaluating whether the cost matches the value helps you make an informed decision that fits your budget and priorities.
 

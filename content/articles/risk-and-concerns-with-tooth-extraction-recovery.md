@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/8617001
   - title: "Conti AC, Freitas RS, Conti PCR, Custodio W. Clinical effect of buccal fat pad removal on third molar extraction socket healing. J Oral Maxillofac Surg. 2010;68(3):528-534."
     url: https://pubmed.ncbi.nlm.nih.gov/20116705
+last_reviewed: 2026-06-01
 ---
 ## What to Expect After Your Tooth Extraction
 

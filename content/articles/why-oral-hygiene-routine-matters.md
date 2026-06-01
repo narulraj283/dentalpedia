@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/26935472
   - title: "Interdental Biofilm Persistence and Daily Routine Requirements"
     url: https://pubmed.ncbi.nlm.nih.gov/27634537
+last_reviewed: 2026-06-01
 ---
 ## Your Daily Brushing and Flossing Routine Actually Works—If You Do It Right
 

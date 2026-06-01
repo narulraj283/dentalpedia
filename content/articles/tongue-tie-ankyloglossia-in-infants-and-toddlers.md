@@ -11,7 +11,7 @@ slug: tongue-tie-ankyloglossia-in-infants-and-toddlers
 subcategory: Pediatric Overview
 subcategory_slug: overview-peds
 title: 'Tongue-Tie in Babies and Toddlers: Early Detection'
-last_reviewed: 2026-05-01
+last_reviewed: 2026-06-01
 ---
 ## Recognizing Tongue-Tie Early
 

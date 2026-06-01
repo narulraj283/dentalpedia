@@ -31,6 +31,7 @@ references:
     url: "https://www.ncbi.nlm.nih.gov/pubmed"
   - title: "Zucchelli G, Mele M, Stefanini M, et al. Patient morbidity associated with subepithelial connective tissue graft harvesting. J Periodontol. 2010;81(8):1171-1177."
     url: "https://www.ncbi.nlm.nih.gov/pubmed"
+last_reviewed: 2026-06-01
 ---
 ## When You Need a Soft Tissue Graft
 

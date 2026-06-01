@@ -21,6 +21,7 @@ references:
   - "Hiroi T, et al. Effects of hydrogen peroxide from bacterial metabolism on gum health. Journal of Periodontology. 2003;74(12):1781-1786."
   - "Syrjälä AM, et al. Determinants of health-related quality of life in primary care patients. European Journal of Oral Sciences. 2007;115(2):127-133."
   - "Petersen PE, et al. Global oral health of equality and effectiveness-strengths and limitations of quantitative outcome studies. Community Dentistry and Oral Epidemiology. 2005;33(2):81-92."
+last_reviewed: 2026-06-01
 ---
 Wondering if you're doing enough to protect your teeth, or are you tired of complicated oral health routines? Here's the good news: preventing dental problems is way simpler than fixing them once they happen, and you don't need expensive gadgets or confusing protocols. Four basic habits, done consistently, prevent 80-90% of cavities and gum disease.
 

@@ -16,6 +16,7 @@ references:
   - "Eggensperger NM, Smolka W, Iizuka T. Changing incidence and pattern of jaw fractures. Oral Surg Oral Med Oral Pathol. 2008;105(3):325-329."
   - "Deng Y, Yang J, Chen R, et al. Computer-assisted design for jaw reconstruction. J Craniofac Surg. 2012;23(1):81-85."
   - "Phillips C, Essick G, Bran L, Proffit WR. Sequelae and complications of jaw surgery. Contemporary Orthodontics. 2012."
+last_reviewed: 2026-06-01
 ---
 ## When Your Bite Needs More Than Braces
 

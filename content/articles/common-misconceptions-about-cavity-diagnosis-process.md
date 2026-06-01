@@ -19,6 +19,7 @@ references:
   - "Kühnisch J, Söchtig F, Pitts NB. (2023). Infrared light transillumination to assess interproximal caries: Performance at different thresholds and relationships with clinical and radiographic findings. Journal of Dental Research. 86(1):44-48."
   - "Pretty IA, Hall AF, Foreman PC, Buchalla W, Lennon AM. (2023). An automatic dental caries assessment system for interproximal surfaces using reflectance at 656 nm. Journal of Biomedical Optics. 10(6):064025."
   - "Lussi A, Hellwig E. (2023). Performance of a new laser fluorescence device for the detection of occlusal caries in vitro. Journal of Dental Research. 85(1):52-55."
+last_reviewed: 2026-06-01
 ---
 ## How Dentists Actually Find Cavities
 

@@ -19,6 +19,7 @@ references:
   - "Ahlgren, J., & Laurin, C. (1971). Neuromuscular dysfunction of masticatory system in patients with bite problems. The Angle Orthodontist, 41(4), 249-258."
   - "Southard, T. E., & Behrents, R. G. (2003). Longitudinal changes of the mandible and dentoalveolar structures. American Journal of Orthodontics and Dentofacial Orthopedics, 124(2), 182-190."
   - "Bourauel, C., Fiorellini, J. P., & Ngan, P. (2014). Biomechanical responses to orthopedic loading. Seminars in Orthodontics, 20(1), 39-51."
+last_reviewed: 2026-06-01
 ---
 ## Different Bite Problems, Different Fixes
 

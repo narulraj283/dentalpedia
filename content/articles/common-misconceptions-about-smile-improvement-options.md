@@ -21,6 +21,7 @@ references:
   - "Philipp H, Fiore-Donno G. Esthetic assessment of anterior single crowns in healthy individuals. Journal of Dentistry. 2004;32(5):397-403."
   - "Stange K. Smile design for life: Digital planning for a lifetime of esthetics. J Esthet Restor Dent. 2016;28(1):S1-S2."
   - "Christensen GJ. Restorative dentistry: Esthetic advancements. J Am Dent Assoc. 2011;142(8):938-944."
+last_reviewed: 2026-06-01
 ---
 ## Comprehensive Smile Improvement: Using Multiple Approaches Together
 

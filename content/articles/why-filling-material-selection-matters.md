@@ -27,7 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/26352651
   - title: "Retention rates and bulk fracture resistance of posterior composites"
     url: https://pubmed.ncbi.nlm.nih.gov/26193724
-last_reviewed: 2026-04-01
+last_reviewed: 2026-06-01
 ---
 ## Why Your Filling Material Choice Actually Matters
 

@@ -25,6 +25,7 @@ slug: anesthesia-types-complete-guide
 subcategory: Anesthesia Management
 subcategory_slug: anesthesia-management
 title: 'Anesthesia Types: A Complete Guide to Classification'
+last_reviewed: 2026-06-01
 ---
 Anesthesia is the foundation of modern dentistry—it lets dentists perform procedures painlessly while keeping patients safe and comfortable. How dentists deliver anesthesia has changed dramatically over the past 100 years, from simple injections to computer-controlled systems. Understanding how anesthesia works and the different types available helps you know what to expect during your dental visit.
 

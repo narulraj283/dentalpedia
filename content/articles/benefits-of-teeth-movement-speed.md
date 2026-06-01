@@ -19,6 +19,7 @@ references:
   - "Sobouti F, Khatami SH, Izadi P, et al. Effectiveness of photobiomodulation on orthodontic tooth movement: A systematic review. J Dent (Tehran). 2020;17(2):108-119."
   - "Davidovitch Z. Tooth movement. Crit Rev Oral Biol Med. 1991;2(4):411-450."
   - "Nimeri G, Kau CH, Abou-Rabboa M, et al. Acceleration of tooth movement during orthodontic treatment--a frontier in biologic research. Front Oral Biol. 2016;18:163-171."
+last_reviewed: 2026-06-01
 ---
 ## Can You Speed Up Braces? What Really Works
 

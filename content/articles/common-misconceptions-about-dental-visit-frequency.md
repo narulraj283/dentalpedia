@@ -19,6 +19,7 @@ references:
   - Hirschfeld L, et al. Radiographic and clinical findings in long-term periodontal disease progression. Journal of Periodontology. 1992;63(4):322-330.
   - Preshaw PM. Periodontal disease and cardiovascular disease: a systematic review and meta-analysis. Archives of Internal Medicine. 2010;170(3):264-270.
   - Papapanou PN. Epidemiology of periodontal diseases. Journal of Clinical Periodontology. 2014;41(S15):7-10.
+last_reviewed: 2026-06-01
 ---
 "See your dentist twice a year!" It's advice you've probably heard your whole life. Learning more about [Oral Health Habits Complete Guide](/article/oral-health-habits-complete-guide.html) can help you understand this better. But does every single person actually need to visit the dentist every six months? The answer is: it depends on you.
 

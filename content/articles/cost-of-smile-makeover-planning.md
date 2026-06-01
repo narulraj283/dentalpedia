@@ -21,6 +21,7 @@ references:
   - "Lemoine PL, Dindarloo A, Philbert RE. Digital Technology in Cosmetic Dentistry Planning. Cosmetic Dentistry Today. 2021;29(5):88-96."
   - "Okada D, Iwai T, Kang S-H, et al. Digital Smile Design Process and Milling Procedures. Oral Surgery, Oral Medicine, Oral Pathology. 2020;132(4):421-432."
   - "McBride KC. Management of the Failing Dentition with a Combination of Biological and Technical Advances. Dental Clinics of North America. 2019;63(2):197-209."
+last_reviewed: 2026-06-01
 ---
 ## What Is a Smile Makeover?
 

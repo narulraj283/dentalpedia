@@ -28,6 +28,7 @@ slug: acidic-foods-erosion-from-citrus-and-soda
 subcategory: Harmful Foods & Beverages
 subcategory_slug: harmful-foods
 title: 'Acidic Foods: Erosion from Citrus'
+last_reviewed: 2026-06-01
 ---
 ## How Citric Acid Damages Teeth
 

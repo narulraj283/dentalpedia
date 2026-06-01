@@ -27,7 +27,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/23876171
   - title: "Stress distribution in single versus multiple implant configurations under functional load"
     url: https://www.ncbi.nlm.nih.gov/pubmed/22264903
-last_reviewed: 2026-04-01
+last_reviewed: 2026-06-01
 ---
 You might think that if you got a dental implant and it integrated successfully with your bone, you're home free. But there's actually one more critical factor for long-term success: you have to use your implant. Sounds obvious, but many patients accidentally sabotage their implants by avoiding them during eating and chewing. Understanding why your implant needs normal use helps you appreciate that your bite matters just as much as successful surgery. Learning more about [Implant Cosmetics: Abutment and Crown Selection](/article/implant-cosmetics-abutment-and-crown-selection.html) can help you understand this better.
 

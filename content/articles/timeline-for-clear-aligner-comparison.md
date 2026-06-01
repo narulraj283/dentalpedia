@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/21299392
   - title: "Campbell PM. The dilemma of Class II correction: extraction vs non-extraction. Angle Orthod. 2007;77(6):890-891."
     url: https://pubmed.ncbi.nlm.nih.gov/18004925
+last_reviewed: 2026-06-01
 ---
 ## Getting Started with Clear Aligners
 

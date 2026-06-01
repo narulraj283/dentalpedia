@@ -6,6 +6,7 @@ excerpt: Mouthwash is a supplement to brushing and flossing—not a replacement.
 slug: timeline-for-mouth-rinse-benefits
 title: Timeline for Mouth Rinse Benefits
 date: 2026-03-05
+last_reviewed: 2026-06-01
 ---
 ## Why Your Dentist Recommends Rinse
 

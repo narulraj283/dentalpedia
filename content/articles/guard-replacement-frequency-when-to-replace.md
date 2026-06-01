@@ -12,6 +12,7 @@ subcategory_slug: overview-prevent
 reviewed: true
 references:
   - "title: 'Kawakita A, Akatsuka Y, Sugiyama R, et al. Shock absorption properties of custom-made and prefabricated mouthguards. Dent Traumatol. 2003;19(4):200-206."
+last_reviewed: 2026-06-01
 ---
 ## Different Types of Guards and How They Wear
 

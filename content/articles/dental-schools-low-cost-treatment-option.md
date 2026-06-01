@@ -19,6 +19,7 @@ references:
   - "Nathe CN, Dougherty T. Evidence-based practice in dental schools: impact on patient care quality. J Dent Hyg. 2016;90(2):87-94."
   - "Shumway D, Forney BA. Systematic review of patient satisfaction in dental school clinics. J Dent Educ. 2020;84(5):523-535."
   - "Lantz MS, Bebeau MJ. Ethical dimensions of student training in dental institutions. J Dent Educ. 2018;82(7):678-687."
+last_reviewed: 2026-06-01
 ---
 ## Why Dental Schools Offer Treatment at Lower Cost
 

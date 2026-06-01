@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/9810912
   - title: "Ritter R, Pommrich L. Zur Frage der Zahnverlagerung (Transposition). Dtsch Zahnärztl Z. 1960;15:150-158."
     url: https://pubmed.ncbi.nlm.nih.gov/13825920
+last_reviewed: 2026-06-01
 ---
 ## Introduction
 

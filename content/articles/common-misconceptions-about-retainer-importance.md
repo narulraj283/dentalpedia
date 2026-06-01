@@ -19,6 +19,7 @@ references:
   - "Renkema AM, Sips ET, Bronkhorst E, Kuijpers-Jagtman AM. A survey on orthodontic retention procedures in the Netherlands. European Journal of Orthodontics. 2009;31(4):432-437."
   - "Ades AG, Joondeph DR, Little RM, Chapuis G. A long-term study of the relationship of third molars to changes in the mandibular dental arch. American Journal of Orthodontics and Dentofacial Orthopedics. 1990;97(4):323-335."
   - "Konik M, Daskalogiannakis J, Sioson KT, Huget EF. Long-term stability of the transverse maxillary expansion using the quad helix appliance. American Journal of Orthodontics and Dentofacial Orthopedics. 1997;112(5):567-572."
+last_reviewed: 2026-06-01
 ---
 ## Why Your Retainer Is as Important as Your Braces
 

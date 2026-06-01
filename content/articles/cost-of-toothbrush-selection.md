@@ -21,6 +21,7 @@ references:
   - "Jönsson B, Lindberg P, Öhrn K. Efficacy of an oscillating toothbrush compared to a conventional toothbrush for plaque removal. J Clin Periodontol. 2006;33(1):58-63."
   - "Tappel C, Saxer UP, Mueller G. New methods for optimal oral hygiene. In: Lang NP, Karring T, Lindhe J, eds. Proceedings of the European Workshop on Mechanical Plaque Removal. Quintessence; 1998:143-155."
   - "Dörfer CE, Staehle HJ, Wolff D, Eschrich K, Clubb N, Picolos DK. Three months of daily use of an oscillating-rotating electric toothbrush compared to a traditional manual toothbrush: a plaque and gingivitis study. J Clin Dent. 2004;15(4):106-111."
+last_reviewed: 2026-06-01
 ---
 ## Manual Toothbrushes: Budget-Friendly Basics
 

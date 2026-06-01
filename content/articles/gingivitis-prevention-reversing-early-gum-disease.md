@@ -19,7 +19,7 @@ references:
   - "Lindhe J, Ranva H. The effect of plaque on the periodontal tissues of dogs without attached gingiva. J Periodontol. 1975;46(6):371-380."
   - "Greenwell H. Position paper: the role of supra- and subgingival irrigation in the treatment of periodontal diseases. J Periodontol. 2001;72(7):888-895."
   - "Sharma NC, Galustians HJ, Qaqish J, et al. Efficacy of a herbal-derived miswak chewing stick on the microbial flora of the oral cavity: A randomized, blinded, placebo-controlled trial. Prev Med. 2004;38(6):764-768."
-last_reviewed: 2026-04-01
+last_reviewed: 2026-06-01
 ---
 ## Understanding Gingivitis: The Good News About Reversibility
 

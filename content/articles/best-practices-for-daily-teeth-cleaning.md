@@ -21,6 +21,7 @@ references:
   - "Clayson J, Horsley S, Philipp B, et al. A new clinical method of evaluating interdental plaque-removing efficacy. J Periodontol. 1999;70(3):228-237."
   - "Graziani F, Palazzi K, Baccini M, et al. Six months of automated, home-based oral hygiene with an oscillating-rotating toothbrush delays the progression of periodontitis. J Periodontol. 2007;78(12):2282-2291."
   - "Fones AC. Mouth Hygiene: A Practical Manual of Mouth Hygiene and Prevention of Dental Disease. 4th ed. Philadelphia: Lea & Febiger; 1934."
+last_reviewed: 2026-06-01
 ---
 ## Why Daily Cleaning Matters: The Science
 

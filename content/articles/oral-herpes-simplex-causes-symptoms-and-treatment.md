@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/7735794
   - title: "Treatment of herpes simplex infection evidence-based review"
     url: https://pubmed.ncbi.nlm.nih.gov/18541823
+last_reviewed: 2026-06-01
 ---
 ## What is Oral Herpes?
 

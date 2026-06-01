@@ -21,6 +21,7 @@ references:
   - "Quintas V, et al. Effect of chlorhexidine on oral biofilm formation. J Periodontol. 2011;82(12):1740-1746."
   - "Pizzo G, et al. Staining and antimicrobial effects of chlorhexidine. J Periodontol. 2008;79(9):1589-1594."
   - "Asadoorian J, et al. Antiseptic rinses: Clinical efficacy, adverse effects and recommendations for use. Dent Clin North Am. 2020;64(2):353-370."
+last_reviewed: 2026-06-01
 ---
 ## Why You Need More Than Just Brushing and Flossing
 

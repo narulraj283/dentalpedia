@@ -18,6 +18,7 @@ slug: sedation-dentistry-for-children-options-and-safety
 subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
 title: Dental Sedation for Anxious Kids - Options and Safety
+last_reviewed: 2026-06-01
 ---
 ## What Is Sedation and Why Kids Need It
 

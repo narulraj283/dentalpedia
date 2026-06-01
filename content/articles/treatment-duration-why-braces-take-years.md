@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/26154524
   - title: "Long-term stability and retention requirements after fixed appliance treatment"
     url: https://pubmed.ncbi.nlm.nih.gov/25599558
+last_reviewed: 2026-06-01
 ---
 ## Introduction
 

@@ -19,6 +19,7 @@ references:
   - "Pjetursson BE, et al. Bone augmentation at implant sites: a systematic review. Clin Oral Implants Res. 2008;19(Suppl 2):137-147."
   - "Chiapasco M, et al. Regenerative procedures for bone tissue repair in dentistry. Periodontol 2000. 2006;40:168-184."
   - "Miloro M, editor. Peterson's Principles of Oral and Maxillofacial Surgery. 3rd ed. Shelton, CT: People's Medical Publishing House; 2019."
+last_reviewed: 2026-06-01
 ---
 ## Why Bone Grafting Becomes Necessary
 

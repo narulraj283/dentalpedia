@@ -19,7 +19,7 @@ references:
   - "Duque MS, dos Santos JC, Gontijo I. Hyalinization zone in orthodontics: Role and clinical repercussions. Dental Press J Orthod. 2019;24(3):47-54."
   - "Yoshida N, Koga Y, Kobayashi Y. Short-term response of the pulpal blood flow to continuous orthodontic force. Am J Orthod Dentofacial Orthop. 2001;119(2):113-118."
   - "Reznikov N, Steuwer A, Franceschi S, et al. Phase evolution during bone remodeling at the ultrastructural level. J Bone Miner Res. 2021;36(12):2334-2349."
-last_reviewed: 2026-04-01
+last_reviewed: 2026-06-01
 ---
 ## What Makes Teeth Actually Move
 

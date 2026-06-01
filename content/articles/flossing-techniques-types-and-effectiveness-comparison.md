@@ -21,6 +21,7 @@ references:
   - "Christoffersson M, Stenman U, Teger I, et al. Efficacy of powered toothbrush and irrigator for supragingival plaque removal. Swed Dent J. 2003;27(4):129-137."
   - "Nyle-Danzl M, Eaton KA. Comparing conventional, electric, and water-jet interdental cleaning methods. Dent Update. 2009;36(10):614-623."
   - "Wunderlich RC, Applebaum BJ. Efficacy of interdental brush design in removing plaque. J Dent. 2000;28(8):539-545."
+last_reviewed: 2026-06-01
 ---
 ## The Best Flossing Technique: C-Shaped vs Sawing Motions
 

@@ -21,6 +21,7 @@ references:
   - "Maijer R, Smith DC. Comparison of the periodontal and microbiological effects of four periodontally sound practices. Journal of Periodontology. 1986;57(1):23-27."
   - "Chen J, et al. Efficiency of clear aligners in controlling orthodontic tooth movement. Journal of Dental Research. 2019;98(4):406-413."
   - "Flores-Mir C, et al. Effectiveness of interceptive orthodontic treatment with functional appliances on skeletal anterior open bite. American Journal of Orthodontics and Dentofacial Orthopedics. 2007;131(3):301-310."
+last_reviewed: 2026-06-01
 ---
 If you're thinking about straightening your teeth but dread the idea of metal braces, you're not alone. Clear aligners—those invisible braces you might have heard about—have changed orthodontics completely. Instead of the wires and brackets your parents probably had, you get custom-made plastic trays that move your teeth gradually. Here's what you actually need to know about how they work, whether they're right for you, and what to realistically expect.
 

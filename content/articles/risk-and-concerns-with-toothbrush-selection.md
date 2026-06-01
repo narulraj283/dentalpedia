@@ -29,7 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/9639255
   - title: "Turesky S, Glickman I, Crevasse L, Brunelle JA. In vivo investigation of some factors related to gingival abrasion. J Dent Res. 1961;40(4):693-701."
     url: https://pubmed.ncbi.nlm.nih.gov/13702373
-last_reviewed: 2026-05-01
+last_reviewed: 2026-06-01
 ---
 ## Picking the Right Toothbrush Actually Matters
 

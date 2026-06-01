@@ -19,6 +19,7 @@ references:
   - "Frazelle MR, Munro CL. Unwanted effects of oral hygiene products/practices. Periodontology 2000. 2012;48:139-153."
   - "Joanna Briggs Institute. Evidence Summary: Charcoal-based oral care products. JBI Database of Systematic Reviews and Implementation Reports. 2023."
   - "Van der Weijden GA, et al. Mechanical plaque removal with a toothbrush. In: Newman MG, et al., eds. Clinical Practice of the Dental Hygienist. 13th ed. 2022:322-344."
+last_reviewed: 2026-06-01
 ---
 Charcoal toothpaste has exploded in popularity online and in stores, with claims about whitening teeth, detoxifying your mouth, and fighting bacteria. But despite the hype and impressive marketing, the scientific evidence tells a different story. Before you switch to charcoal toothpaste, here's what you need to know about what actually works—and what might harm your teeth.
 

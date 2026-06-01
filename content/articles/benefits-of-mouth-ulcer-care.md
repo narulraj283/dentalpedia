@@ -21,6 +21,7 @@ references:
   - "Olson JC, et al. Aphthous stomatitis: Review of literature and diagnostic workup. Oral Surgery Oral Medicine Oral Pathology. 2015;120(6):e203-e209."
   - "Scully C, et al. Management of recurrent oral ulceration. American Journal of Dentistry. 2003;16(3):194-200."
   - "Ship JA, et al. Recurrent aphthous ulcers. Oral Surgery Oral Medicine Oral Pathology Oral Radiology and Endodontology. 2007;103(6):e61-e72."
+last_reviewed: 2026-06-01
 ---
 Those painful sores that pop up inside your mouth and make eating miserable—canker sores, or "aphthous ulcers" if you want the medical term—happen to about 20% of people at some point. They're incredibly annoying but usually not serious. Here's how to recognize what you have, treat it effectively, and prevent them from coming back.
 

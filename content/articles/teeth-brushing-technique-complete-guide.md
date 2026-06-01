@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/23078419
   - title: "Ramfjord SP, et al. The modified Stillman brushing technique. J Periodontol. 1966;37(2):142-145."
     url: https://pubmed.ncbi.nlm.nih.gov/5221140
+last_reviewed: 2026-06-01
 ---
 ## How Proper Brushing Prevents Tooth Decay and Gum Disease
 

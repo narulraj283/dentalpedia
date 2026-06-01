@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/23167894
   - title: "Replacement frequency and cost-effectiveness of porcelain versus composite veneers"
     url: https://pubmed.ncbi.nlm.nih.gov/24289564
+last_reviewed: 2026-06-01
 ---
 ## How Long Do Veneers Really Last?
 

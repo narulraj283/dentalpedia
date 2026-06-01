@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/20534739
   - title: "Long-term stability of adult orthodontic treatment outcomes"
     url: https://pubmed.ncbi.nlm.nih.gov/23339505
+last_reviewed: 2026-06-01
 ---
 ## It's Never Too Late for Braces
 

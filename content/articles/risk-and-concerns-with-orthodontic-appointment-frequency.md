@@ -43,7 +43,7 @@ slug: risk-and-concerns-with-orthodontic-appointment-frequency
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Risk and Concerns with Orthodontic Appointment Frequency
-last_reviewed: 2026-04-01
+last_reviewed: 2026-06-01
 ---
 ## Scheduling Orthodontic Appointments: Finding the Right Frequency
 

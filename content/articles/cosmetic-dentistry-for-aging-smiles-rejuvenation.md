@@ -19,6 +19,7 @@ references:
   - "Sachs HA, Farnoush A, Cheung R, et al. Current status of free and attached gingiva in humans. J Periodontol. 2016;59(12):771-784."
   - "Grover G, Yadav R, Kumar S. Esthetic rehabilitation of aged patients with anterior tooth wear. J Indian Prosthodont Soc. 2018;18(1):67-73."
   - "Misch CE, Perel ML. Implant suprastructure design. Dent Clin North Am. 2014;48(3):561-573."
+last_reviewed: 2026-06-01
 ---
 ## The Aging Smile: Common Changes
 

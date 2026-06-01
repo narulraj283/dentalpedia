@@ -29,7 +29,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/22015630
   - title: "Antimicrobial Peptides and Proteins in Milk Inhibiting Cariogenic Bacteria"
     url: https://www.ncbi.nlm.nih.gov/pubmed/17395789
-last_reviewed: 2026-05-01
+last_reviewed: 2026-06-01
 ---
 Is milk actually good for your teeth, or does it cause cavities? It's a fair question, and the answer might surprise you. Milk contains a natural sugar called lactose that bacteria in your mouth can feed on, potentially creating acid.
 

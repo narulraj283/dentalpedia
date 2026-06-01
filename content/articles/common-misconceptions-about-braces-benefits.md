@@ -19,6 +19,7 @@ references:
   - "Proffit WR, Henry JL, Larson BE. (2022). A follow-up of untreated adults with dentofacial anomalies. American Journal of Orthodontics. 109(4):362-368."
   - "Owman-Moll P, Kurol J, Lundgren D. (2023). The effects of a four-fold increased force magnitude on tooth movement during palatal expansion. European Journal of Orthodontics. 18(1):23-30."
   - "Vig KW. (2023). The diagnosis of orthodontic problems. In: Baumrind S, Korn EL. (Eds). Dissipative structures and the unfolding of biological form. American Journal of Physical Anthropology. 16(1):12-45."
+last_reviewed: 2026-06-01
 ---
 ## Braces Do Way More Than Make Your Smile Pretty
 

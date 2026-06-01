@@ -41,6 +41,7 @@ slug: scaling-technique-instrumentation-methods
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Scaling Technique Instrumentation Methods
+last_reviewed: 2026-06-01
 ---
 ## Understanding the Tools Your Hygienist Uses
 

@@ -21,6 +21,7 @@ references:
   - "Botticelli D, Berglundh T, Lindhe J. Hard-tissue alterations following immediate implant placement in extraction sites. J Clin Periodontol. 2004;31(10):820-828."
   - "Tarnow DP, Magner AW, Fletcher P. The effect of the distance from the contact point to the crest of bone on the presence or absence of the interproximal dental papilla. J Periodontol. 1992;63(12):995-996."
   - "Muñoz F, Alarcón MA, Muñoz CA, Uribarri PA. Esthetics in dental implant treatment. Implant Dent. 2002;11(4):305-313."
+last_reviewed: 2026-06-01
 ---
 ## What Happens During Recovery: A Timeline You Should Know
 

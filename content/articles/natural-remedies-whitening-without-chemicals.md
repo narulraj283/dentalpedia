@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/10619966
   - title: "Hasson H, Ismail AI, Neiva G. Home-use whitening gels with carbamide peroxide: a systematic review of clinical efficacy and safety. J Am Dent Assoc. 2006;137(10):1357-1365."
     url: https://pubmed.ncbi.nlm.nih.gov/17012733
+last_reviewed: 2026-06-01
 ---
 Natural teeth whitening methods fill the internet with promises of brighter smiles without chemicals. Oil pulling, baking soda, strawberries, turmeric—countless natural approaches claim to whiten teeth. But which actually work, and which can damage your enamel?
 

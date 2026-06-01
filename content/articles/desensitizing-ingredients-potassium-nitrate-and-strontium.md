@@ -25,6 +25,7 @@ slug: desensitizing-ingredients-potassium-nitrate-and-strontium
 subcategory: Preventive Overview
 subcategory_slug: overview-prevent
 title: 'Understanding Tooth Sensitivity Relief: How Potassium'
+last_reviewed: 2026-06-01
 ---
 ## Introduction
 

@@ -19,6 +19,7 @@ references:
   - "Hellwig E, Lennon AM. Systemic versus topical fluoride. Caries Res. 2004;38(3):258-262."
   - "Addy M, Moran J. Mechanisms of stain formation on teeth. Eur J Oral Sci. 2002;110(1):12-15."
   - "Graziani F, Gennai S, Corbella S, Turri A, Gabriele M, Letizia Maglione M, Nisi M. Interdental cleaning is fundamental to prevent periodontal disease: consensus based clinical practice recommendations. J Clin Periodontol. 2022;49 Suppl 24:106-116."
+last_reviewed: 2026-06-01
 ---
 ## Brushing and Cleaning: The Foundation of Oral Health
 

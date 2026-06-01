@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/1058127
   - title: "Krishnan V, Davidovitch Z. Cellular, Molecular, and Tissue-Level Reactions to Orthodontic Force. American Journal of Orthodontics and Dentofacial Orthopedics. 2006;129(4):469.e1-469.e32."
     url: https://pubmed.ncbi.nlm.nih.gov/16627175
+last_reviewed: 2026-06-01
 ---
 ## Introduction
 

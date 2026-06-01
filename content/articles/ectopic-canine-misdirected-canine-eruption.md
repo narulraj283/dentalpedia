@@ -18,7 +18,7 @@ references:
   - "Jacoby H. The etiology of maxillary canine impactions. Am J Orthod Dentofacial Orthop. 1983;84(2):125-132."
   - "Frazier-Bowers SA, Koehler KS, Orraca FM, et al. Primary failure of eruption: Further characterization and reported linkage to chromosome 18q. Am J Orthod Dentofacial Orthop. 2007;131(5):578-589."
   - "Smyth E, Sacerdoti R. Canine impaction and ectopic eruption. In: Handbook of Pediatric Dentistry. 4th ed. Elsevier; 2013. p. 245-258."
-last_reviewed: 2026-05-01
+last_reviewed: 2026-06-01
 ---
 ## When Your Child's Canine Tooth Erupts in the Wrong Place
 

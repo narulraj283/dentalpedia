@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/9161266
   - title: "Donos N, Mardas N, Chadha V. Clinical outcomes of patients with diabetes mellitus and periodontitis: a systematic review of long-term studies. Journal of Clinical Periodontology. 2011;38(9):809-816."
     url: https://pubmed.ncbi.nlm.nih.gov/21726289
+last_reviewed: 2026-06-01
 ---
 ## Understanding Why Your Face Swells After Surgery
 

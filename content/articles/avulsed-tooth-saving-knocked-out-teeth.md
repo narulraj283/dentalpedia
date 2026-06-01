@@ -19,6 +19,7 @@ references:
   - "Zachar M, et al. Splinting regimens for traumatized teeth. Dent Clin North Am. 2009;53(4):795-807."
   - "Andreasen JO, et al. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Wiley-Blackwell; 2013."
   - "Cvek M, et al. Hard tissue formation in the pulp following a tooth replantation in monkeys. Arch Oral Biol. 1985;30(2):117-128."
+last_reviewed: 2026-06-01
 ---
 ## A True Dental Emergency
 

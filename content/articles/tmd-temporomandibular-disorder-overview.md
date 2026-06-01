@@ -21,6 +21,7 @@ slug: tmd-temporomandibular-disorder-overview
 subcategory: TMJ & Sleep Overview
 subcategory_slug: overview-tmj-sleep
 title: 'Temporomandibular Disorders Overview: Classification'
+last_reviewed: 2026-06-01
 ---
 ## Introduction
 

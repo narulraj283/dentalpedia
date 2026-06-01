@@ -27,6 +27,7 @@ slug: pre-surgery-preparation-complete-guide
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Pre Surgery Preparation Complete Guide
+last_reviewed: 2026-06-01
 ---
 ## Why Pre-Surgery Preparation Matters
 

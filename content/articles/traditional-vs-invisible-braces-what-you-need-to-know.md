@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/25191050
   - title: "Campbell PM. The dilemma of Class II treatment. Angle Orthod. 2005;75(2):147-154."
     url: https://pubmed.ncbi.nlm.nih.gov/15898489
+last_reviewed: 2026-06-01
 ---
 ## Choosing Your Orthodontic Treatment
 

@@ -21,6 +21,7 @@ references:
   - "Fejerskov O, Kidd EAM. Dental Caries: The Disease and Its Clinical Management. 2nd ed. Oxford: Blackwell; 2003."
   - "Petersen PE. World Health Organization global policy for improvement of oral health—World Health Assembly 2021. Int Dent J. 2021;71(4):430-437."
   - "Ismail AI, Tellez M, Pitts NB, et al. Community-Based Oral Health Programs and Practices: Evidence Advancements and Opportunities. J Dent Res. 2015;94(8):100S-107S."
+last_reviewed: 2026-06-01
 ---
 ## Which Preventive Treatments Actually Protect Your Teeth?
 

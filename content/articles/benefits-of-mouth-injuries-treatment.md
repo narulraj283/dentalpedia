@@ -21,6 +21,7 @@ references:
   - "Kahler B, et al. Root canal treatment for traumatized permanent incisor teeth: A systematic review. Dental Traumatology. 2006;22(3):175-184."
   - "Lauridsen VB, et al. Traumatic dental injuries in the primary dentition—a systematic review. Dental Traumatology. 2012;28(5):358-368."
   - "Abbey LM, et al. Intraoral findings and correlations with systemic disease. Journal of the American Dental Association. 1997;128(2):147-153."
+last_reviewed: 2026-06-01
 ---
 A knocked-out tooth, a crack from a fall, a cut to your lip—dental and mouth injuries happen suddenly, and the first few minutes matter enormously. Knowing what to do immediately after an injury can mean the difference between saving and losing a tooth. This guide walks you through different types of mouth injuries and exactly what to do.
 

@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/33567890
   - title: "Esthetic changes in veneers over time"
     url: https://www.ncbi.nlm.nih.gov/pubmed/34678901
+last_reviewed: 2026-06-01
 ---
 ## Porcelain Veneers: The Durable Option
 

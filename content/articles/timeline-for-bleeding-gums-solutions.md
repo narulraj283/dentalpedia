@@ -33,6 +33,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/14623018
   - title: "Cugini MA, Haffajee AD, Tanner AC, Socransky SS. Subset of viable Actinobacillus actinomycetemcomitans serotypes b, c, and f (sensu stricto) detected in subgingival plaque. J Clin Microbiol. 2000;38(3):1whilst47-1150."
     url: https://pubmed.ncbi.nlm.nih.gov/10699010
+last_reviewed: 2026-06-01
 ---
 ## Why Your Gums Bleed and What It Means
 

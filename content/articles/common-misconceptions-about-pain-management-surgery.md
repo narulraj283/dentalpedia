@@ -21,6 +21,7 @@ references:
   - "Duyck J, Corpas L. Post-traumatic stress disorder after implant placement. Implant Dent. 2014;23(4):449-455."
   - "Roberts G, Scully C, Shotts R. Oral and dental aspects of HIV infection: part 1: more common lesions. Br Dent J. 2000;188(4):207-210."
   - "Rood JP, Nooraldeen AL. The radiological prediction of inferior alveolar nerve injury during third molar surgery. Br J Oral Maxillofac Surg. 1992;30(1):6-11."
+last_reviewed: 2026-06-01
 ---
 ## Staying Comfortable During Dental Surgery
 

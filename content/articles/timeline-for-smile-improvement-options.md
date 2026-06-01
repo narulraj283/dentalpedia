@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/29926955
   - title: "Blatz MB, Sadan A, Blatz U. The clinical longevity of crowns. J Am Dent Assoc. 2002;133(7):897-905."
     url: https://pubmed.ncbi.nlm.nih.gov/12148694
+last_reviewed: 2026-06-01
 ---
 ## Introduction
 

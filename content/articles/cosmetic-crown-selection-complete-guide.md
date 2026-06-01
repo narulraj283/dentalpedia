@@ -19,6 +19,7 @@ references:
   - "Anusavice KJ. Dental Ceramics. In: Phillips' Science of Dental Materials. 12th ed. Saunders. 2023."
   - "Fradeani M, Barducci G, Dallari A. Esthetic Rehabilitation of Single Anterior Maxillary Teeth with All-Ceramic Crowns. Quintessence International. 2023;31(9):640-653."
   - "Probster L, Biebl J. Long-term Observation of Patients with All-Ceramic Crowns. Quintessence International. 2023;27(7):484-491."
+last_reviewed: 2026-06-01
 ---
 ## Crown Materials Explained
 

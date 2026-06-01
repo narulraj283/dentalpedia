@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/28418040
   - title: "Scully C, Cawson RA. Medical problems in dentistry. 5th ed. Churchill Livingstone; 2005."
     url: https://pubmed.ncbi.nlm.nih.gov/
+last_reviewed: 2026-06-01
 ---
 ## How to Control Bleeding After Tooth Extraction
 

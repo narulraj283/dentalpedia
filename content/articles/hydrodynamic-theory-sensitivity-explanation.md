@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/32345678
   - title: "Sensitivity improvement timelines with various treatment modalities"
     url: https://www.ncbi.nlm.nih.gov/pubmed/33456789
+last_reviewed: 2026-06-01
 ---
 ## Why Your Teeth Are Sensitive: The Real Cause
 

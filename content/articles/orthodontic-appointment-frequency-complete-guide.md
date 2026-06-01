@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/12404755
   - title: "Shia JJ, Seo YJ, Chang CH, et al. Quantitative analysis of biological response patterns to orthodontic forces. Semin Orthod. 2005;11(3):140-147."
     url: https://pubmed.ncbi.nlm.nih.gov/16174372
+last_reviewed: 2026-06-01
 ---
 ## Why Your Appointment Schedule Matters
 

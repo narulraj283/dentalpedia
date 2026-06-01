@@ -46,6 +46,7 @@ slug: timeline-for-surgical-success-rates
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: 'Oral Surgical Success Rates: Evidence-Based Outcome'
+last_reviewed: 2026-06-01
 ---
 ## Introduction
 

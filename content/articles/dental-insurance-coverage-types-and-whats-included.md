@@ -19,6 +19,7 @@ references:
   - "Vujicic M, Nasseh K. A Study of Dental Spending in the United States. Chicago: Health Policy Institute; 2021."
   - "Espinoza L, Zaitlen D. Medicaid and CHIP Payment and Access Commission Report. Washington, DC: MACPAC; 2023."
   - "Orsi E. Out-of-Pocket Spending on Dental Care in the United States. Center for Health Research; 2022."
+last_reviewed: 2026-06-01
 ---
 ## Understanding Your Three Coverage Levels
 

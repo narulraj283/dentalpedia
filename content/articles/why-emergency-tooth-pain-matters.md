@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/26490912
   - title: "Osteomyelitis development from untreated odontogenic sources"
     url: https://pubmed.ncbi.nlm.nih.gov/24570287
+last_reviewed: 2026-06-01
 ---
 ## Why Emergency Tooth Pain Matters: Managing Acute Crises and Preventing Serious Complications
 

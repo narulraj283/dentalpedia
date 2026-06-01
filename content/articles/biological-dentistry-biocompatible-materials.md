@@ -19,6 +19,7 @@ references:
   - "Ritter AV, Ni Z, Karriker JA, Swift EJ. Comparative study of self-etching primers in human dentin. Journal of the American Dental Association. 2004;135(10):1428-1435."
   - "Van Noort R. The future of dental devices is digital. Dental Materials. 2012;28(1):3-12."
   - "Hebling J, Pashley DH, Tjäderhane L, Tay FR. Chlorhexidine arrests subclinical degradation of dentin hybrid layers in vivo. Journal of Dental Research. 2005;84(8):741-746."
+last_reviewed: 2026-06-01
 ---
 ## What Does "Biocompatible" Really Mean?
 

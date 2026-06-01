@@ -21,6 +21,7 @@ references:
   - "Da Rosa Rodolpho PA, Donassollo TA, Cenci MS, et al. 22-year clinical evaluation of the performance of two posterior composite resins. Dent Mater. 2011;27(10):955-963."
   - "Demarco FF, Corrêa MB, Cenci MS, et al. Longevity of posterior composite restorations. Dent Mater. 2012;28(1):87-101."
   - "Jokstad A. Classification of clinical dental restorative materials: relations between structure, properties and performance. Dent Mater. 2009;25(3):409-422."
+last_reviewed: 2026-06-01
 ---
 ## What Is Cosmetic Bonding?
 

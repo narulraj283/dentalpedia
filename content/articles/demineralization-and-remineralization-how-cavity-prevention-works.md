@@ -13,6 +13,7 @@ reviewed: true
 references:
   - "Featherstone JD. The caries balance: the basis for caries management by risk assessment. Oral Health Prev Dent. 2004;2(Suppl 1):259-264."
   - "Arends J, Christoffersen J. The nature of early caries lesions in enamel. J Dent Res. 1986;65(1):2-11."
+last_reviewed: 2026-06-01
 ---
 ## What Cavities Actually Are
 

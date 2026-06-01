@@ -19,6 +19,7 @@ references:
   - "Löe H. The Gingival Index, the Plaque Index and the Retention Index systems. Journal of Periodontology. 1967;38(6):610-616."
   - "Chapple ILC, et al. Periodontal health and gingival diseases and conditions. Journal of Clinical Periodontology. 2018;45(S20):S11-S22."
   - "Zhang Y, et al. The association between dietary fluoride intake and dental fluorosis in children: A systematic review. British Dental Journal. 2015;218(1):1-7."
+last_reviewed: 2026-06-01
 ---
 Confused about oral health advice you've heard? Should you brush three times daily or twice? Does flossing really matter? Will whitening damage your teeth? Here are the actual answers based on research, not marketing hype.
 

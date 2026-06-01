@@ -48,6 +48,7 @@ slug: risk-and-concerns-with-braces-care-instructions
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: What You Need to Know About Taking Care of Your Braces
+last_reviewed: 2026-06-01
 ---
 ## Why Your Braces Need Extra Cleaning Attention
 

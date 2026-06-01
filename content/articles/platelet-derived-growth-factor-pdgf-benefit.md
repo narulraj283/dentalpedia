@@ -50,6 +50,7 @@ slug: platelet-derived-growth-factor-pdgf-benefit
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Platelet Derived Growth Factor Pdgf Benefit
+last_reviewed: 2026-06-01
 ---
 ## Understanding Gum Disease and Bone Loss
 

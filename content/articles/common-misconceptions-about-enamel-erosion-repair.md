@@ -19,6 +19,7 @@ references:
   - Shellis RP, et al. Interaction of acid and dietary components with the mucosa and the potential for erosive injury. Journal of Dental Research. 2011;90(7):862-867.
   - Grippo AO, et al. Abfraction, abrasion, biocorrosion, and the enigma of noncarious cervical lesions: a 20-year perspective. Journal of Esthetic and Restorative Dentistry. 2012;24(1):10-23.
   - Vieira A, et al. Dental erosion: classification, causes and effects on enamel and dentin. Journal of Oral Sciences. 2014;56(2):75-82.
+last_reviewed: 2026-06-01
 ---
 You've probably seen ads claiming they can "repair" or "restore" your tooth enamel. But here's the tough truth: your enamel can't repair itself. Once it's gone, it's gone. The good news? You can stop erosion from getting worse and protect your remaining enamel.
 

@@ -19,6 +19,7 @@ references:
   - "Suarez-Cunqueiro MM, Gutwald R, Reichert TE, et al. Evaluation of alveolar bone height and lower jaw sensibility after coronectomy. Br J Oral Maxillofac Surg. 2008;46(2):127-131."
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
+last_reviewed: 2026-06-01
 ---
 ## When Teeth Need Surgical Removal
 

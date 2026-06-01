@@ -32,6 +32,7 @@ slug: jaw-fracture-trauma-and-stabilization
 subcategory: Trauma & Fractures
 subcategory_slug: trauma-fracture
 title: Jaw Fracture Trauma and Stabilization
+last_reviewed: 2026-06-01
 ---
 ## Epidemiology and Mechanisms of Injury
 

@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/21250986
   - title: "Almendros I et al. Intermittent hypoxia-induced changes in oral mucosa and periodontal tissue of a murine model. J Periodontol. 2012;83(2):213-218."
     url: https://pubmed.ncbi.nlm.nih.gov/21749169
+last_reviewed: 2026-06-01
 ---
 ## Sleep Problems and Your Oral Health: The Connection
 

@@ -44,6 +44,7 @@ slug: reimplanted-teeth-salvaging-avulsed-permanent-teeth
 subcategory: Emergency Overview
 subcategory_slug: overview-emergency
 title: 'Reimplanted Teeth: Salvaging Avulsed Permanent'
+last_reviewed: 2026-06-01
 ---
 ## What Happens When a Tooth Is Knocked Out
 

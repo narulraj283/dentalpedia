@@ -21,6 +21,7 @@ references:
   - "James P, et al. Chlorhexidine as an adjunctive but not alternative antimicrobial rinse in plaque control. J Dent Res. 2017;96(8):862-867."
   - "Bouchard P, et al. Consensus report: Periodontal regeneration. J Periodontol. 2012;83(4):S156-S166."
   - "Darby I, et al. Periodontal Medicine. New York: Wiley-Blackwell; 2015."
+last_reviewed: 2026-06-01
 ---
 ## Your Twice-Daily Routine: Non-Negotiable
 

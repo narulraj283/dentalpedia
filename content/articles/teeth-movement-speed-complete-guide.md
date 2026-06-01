@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/18302589
   - title: "Iwasaki LR, Haack JE, Nickel JC, Gonzales C, Deslauriers D. Human tooth movement in response to continuous stress and cyclic loading. Proc Finn Dent Soc. 1992;88(Suppl 1):199-205."
     url: https://pubmed.ncbi.nlm.nih.gov/1508896
+last_reviewed: 2026-06-01
 ---
 ## What Controls How Fast Your Teeth Move
 

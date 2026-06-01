@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/22398827
   - title: "Lingström P, van Houte J, Kashket S. Food starches and dental health. Journal of the American Dental Association. 2000;131(11):1566-1572."
     url: https://pubmed.ncbi.nlm.nih.gov/11103562
+last_reviewed: 2026-06-01
 ---
 ## Introduction
 

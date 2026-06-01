@@ -18,7 +18,7 @@ slug: post-operative-pain-expected-discomfort
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Post Operative Pain Expected Discomfort
-last_reviewed: 2026-04-01
+last_reviewed: 2026-06-01
 ---
 ## Post-Operative Pain After Oral Surgery: What to Expect
 

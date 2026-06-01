@@ -19,6 +19,7 @@ references:
   - "Shue L, et al. Class III correction-dentition vs. skeletal, growth vs. non-growth, functional vs. camouflage. Semin Orthod. 2017;23(1):3-11."
   - "Proffit WR. Contemporary Orthodontics. 5th ed. St. Louis: Mosby Elsevier; 2013."
   - "Papageorgiou SN, et al. Efficacy of early orthodontic treatment: a systematic review and meta-analysis. J Oral Maxillofac Surg. 2015;144(2):149-160."
+last_reviewed: 2026-06-01
 ---
 ## Bite Classification Determines Treatment Approach
 

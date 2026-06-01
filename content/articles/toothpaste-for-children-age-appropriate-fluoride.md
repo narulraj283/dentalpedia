@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/20091655
   - title: "Vanderas AP. Comparison between electric and manual toothbrushes in clinical efficacy for children with high risk of caries. Pediatr Dent. 1997;19(2):113-117."
     url: https://pubmed.ncbi.nlm.nih.gov/9084090
+last_reviewed: 2026-06-01
 ---
 ## Introduction
 

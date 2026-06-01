@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/30255851
   - title: "Post-operative complications in implant and extraction surgery: prevention and management"
     url: https://www.ncbi.nlm.nih.gov/pubmed/29360262
+last_reviewed: 2026-06-01
 ---
 Dental surgery is common and usually safe, but like any surgery, infections can happen. Understanding how antibiotics help prevent infections—and when you actually need them—is important for your recovery. This guide explains when dentists prescribe antibiotics before surgery, how they work, and what signs of infection to watch for afterward.
 

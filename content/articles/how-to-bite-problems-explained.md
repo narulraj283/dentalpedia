@@ -29,6 +29,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/28234567
   - title: "Vertical Malocclusion: Hypodivergent and Hyperdivergent Growth Patterns"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27654321
+last_reviewed: 2026-06-01
 ---
 If your teeth don't bite together properly, you have a bite problem. More than half of all people have some kind of bite issue—some are minor and don't cause problems, while others affect how you chew, speak, or look. Understanding what type of bite problem you have is the first step to fixing it.
 

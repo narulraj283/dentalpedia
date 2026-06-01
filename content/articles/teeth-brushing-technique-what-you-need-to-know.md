@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/12002107
   - title: "Jackson RD, et al. Electric toothbrush efficacy for plaque removal and gingival bleeding reduction. J Dent Hyg. 2001;75(4):283-289."
     url: https://pubmed.ncbi.nlm.nih.gov/11846486
+last_reviewed: 2026-06-01
 ---
 ## Master the 45-Degree Angle
 

@@ -16,6 +16,7 @@ references:
   - "Oliveira GR, Paula A, Pappas G, et al. White spot lesions and their relationship with biofilm fluorescence. Am J Orthod Dentofacial Orthop. 2020;158(5):688-696."
   - "Richter AH, Estes SA, Sonderstrom CM. Periodontal health of patients with fixed appliance therapy. Am J Orthod Dentofacial Orthop. 1998;114(3):349-356."
   - "Cheung PT, Cooke MS. Consensus conference on dietary guidance in orthodontic practice. Br Dent J. 2015;218(9):489-494."
+last_reviewed: 2026-06-01
 ---
 ## Introduction
 

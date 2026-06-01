@@ -28,6 +28,7 @@ slug: how-to-plaque-removal-methods
 subcategory: Preventive Overview
 subcategory_slug: overview-prevent
 title: 'Comprehensive Plaque Removal Methods: Mechanical, Chemical'
+last_reviewed: 2026-06-01
 ---
 Plaque is sticky buildup of bacteria that causes cavities and gum disease. It forms constantly on your teeth throughout the day. The key to oral health is removing it effectively through proper brushing, flossing, and professional cleanings. Different removal methods work better for different areas of your mouth and different people's needs. Learning more about [Proper Brushing Technique](/article/proper-brushing-technique-step-by-step-guide.html) can help you understand this better.
 

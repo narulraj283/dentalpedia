@@ -21,6 +21,7 @@ references:
   - "Kokich VO, Kokich VG, Kiyak HA. Perceptions of dental professionals and laypersons to altered gingival esthetics in maxillary anterior teeth. J Esthet Dent. 1999;11(6):311-324."
   - "Burström G, Persson GR, Bondjers L, Berglundh T. Ostectomy and osteoaplasty as used in regeneration of coronally repositioned flaps: an experimental study in the dog. J Clin Periodontol. 2000;27(4):255-262."
   - "Deas DE, Moritz AJ. Autogenous bone grafting in periodontal therapy. Dent Clin North Am. 2003;47(3):545-563."
+last_reviewed: 2026-06-01
 ---
 If you show a lot of gum when you smile—sometimes called a "gummy smile"—you might have thought about cosmetic gum shaping. This is a procedure that removes or reshapes excess gum tissue to make your teeth look longer and your smile more balanced. Let's talk about what it costs and what to expect.
 

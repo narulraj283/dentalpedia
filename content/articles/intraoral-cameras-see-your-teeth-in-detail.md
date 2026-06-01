@@ -17,6 +17,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/28883831
   - title: "Digital impression technology in modern dentistry"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26439738
+last_reviewed: 2026-06-01
 ---
 Your dentist has a small camera—smaller than a pen—that reveals what your teeth really look like up close. When your dentist uses an intraoral camera, images appear on a screen, showing your teeth 30-40 times magnified. This technology helps your dentist explain what they see and helps you understand your dental health better than any verbal description ever could.
 

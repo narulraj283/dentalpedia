@@ -17,6 +17,7 @@ slug: sealant-maintenance-durability-and-replacement
 subcategory: General Overview
 subcategory_slug: overview-general
 title: Sealant Maintenance Durability and Replacement
+last_reviewed: 2026-06-01
 ---
 ## How Long Your Sealants Actually Last
 

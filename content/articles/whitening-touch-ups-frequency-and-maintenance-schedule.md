@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/21950424
   - title: "Compliance and behavioral factors affecting long-term whitening results"
     url: https://pubmed.ncbi.nlm.nih.gov/24695325
+last_reviewed: 2026-06-01
 ---
 ## Why Your Whitening Results Don't Last Forever
 

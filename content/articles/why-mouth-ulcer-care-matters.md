@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/26935472
   - title: "Duration and Healing Predictors in Recurrent Aphthous Stomatitis"
     url: https://pubmed.ncbi.nlm.nih.gov/27634537
+last_reviewed: 2026-06-01
 ---
 That painful mouth sore might heal on its own eventually, but it doesn't have to hurt this long. Most ulcers can be treated to speed healing and cut pain in half. But knowing when a sore is harmless versus when it signals something serious is critical—some mouth ulcers indicate disease that needs professional evaluation.
 

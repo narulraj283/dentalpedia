@@ -21,6 +21,7 @@ references:
   - "Pietrzak et al. Advanced Materials in Complete Denture Construction. Materials Science and Engineering, 2023;331:102-119."
   - "Thompson et al. Interridge Distance and Vertical Dimension Measurement Accuracy. Prosthodontics International, 2023;41(3):203-216."
   - "Bidra et al. Current Evidence on Denture Retention and Clinical Longevity. Journal of Prosthetic Dentistry, 2024;131(1):45-62."
+last_reviewed: 2026-06-01
 ---
 If you're getting complete dentures (false teeth for your whole upper or lower arch), you want them to stay in place and feel comfortable. Denture retention (how well they stick) and stability (how much they move during chewing) determine whether you'll be happy with them. Good retention requires proper design, accurate fitting, and understanding how dentures work.
 

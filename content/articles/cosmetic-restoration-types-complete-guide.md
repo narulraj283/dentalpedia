@@ -19,6 +19,7 @@ references:
   - "Denry I, Kelly JR. State of the art of zirconia for dental applications. Dent Mater. 2018;24(3):299-307."
   - "Guess PC, Selz CF. Successful long-term resin bonded fixed partial dentures. Quintessence Int. 2016;47(2):135-145."
   - "Kelly JR, Denry I. Stabilized zirconia as a structural ceramic: an overview. Dent Mater. 2018;24(3):289-298."
+last_reviewed: 2026-06-01
 ---
 ## Restoration Categories
 

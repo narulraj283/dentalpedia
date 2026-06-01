@@ -19,6 +19,7 @@ references:
   - "Christensen GJ. When to use composite resins versus amalgam. J Am Dent Assoc. 2003;134(8):1066-67."
   - "Satterthwaite JD, et al. Restoration longevity and analysis of reasons for failure of restorations. Eur J Prosthodont Restor Dent. 2015;23(1):34-42."
   - "Bouillaguet S. Strategies to overcome polymerization shrinkage stress. J Prosthet Dent. 2008;100(4):307-17."
+last_reviewed: 2026-06-01
 ---
 ## Why Filling Material Matters
 

@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/27641835/
   - title: "Root Canal Anatomy Navigation"
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/jcpe.12877
+last_reviewed: 2026-06-01
 ---
 Root canal treatment involves instruments working deep inside your tooth to clean out infection. Understanding how hand files work—and why your endodontist spends so much time carefully using them—helps you appreciate the meticulous care that goes into saving your tooth.
 

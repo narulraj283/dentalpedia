@@ -21,6 +21,7 @@ references:
   - "Goldstein RE, Garber DA. Complete Dental Bleaching. 2nd ed. Chicago: Quintessence; 1995."
   - "Schroeder SD, Weed RE. Integrating cosmetic and restorative dentistry in the comprehensive treatment plan. J Esthet Restor Dent. 2001;13(3):183-195."
   - "Walls AW, Murray JJ. A clinical guide to crowns and bridges. 3rd ed. London: British Dental Association; 2006."
+last_reviewed: 2026-06-01
 ---
 ## Why Treatment Planning Matters
 

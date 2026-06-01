@@ -19,6 +19,7 @@ references:
   - "Heitz-Mayfield LJ. Disease progression: identification of high-risk patients and high-risk sites. J Clin Periodontol. 2005;32(Suppl 6):196-213."
   - "Steidler NE, et al. The effect of periodontal treatment on Candida species. J Periodontol. 1978;49(11):560-64."
   - "Tarnow D, et al. Clinical demonstration of increased attached gingiva following free gingival graft therapy. J Periodontol. 1976;47(6):352-57."
+last_reviewed: 2026-06-01
 ---
 ## What Is Flap Surgery and When Do You Need It?
 

@@ -19,6 +19,7 @@ references:
   - "Kay PA. Preventing surgical site infection. Compendium of Continuing Education in Dentistry. 2006;27(4):228-236."
   - "Hargreaves KM, Cohen S. Cohen's Pathways of the Pulp. 11th ed. St. Louis: Elsevier; 2016."
   - "Tong DC, et al. Prophylactic antibiotics in dentistry: A review and practice recommendations. Journal of the California Dental Association. 2003;31(3):205-213."
+last_reviewed: 2026-06-01
 ---
 Nervous about getting an infection after dental work and wondering if you should take antibiotics beforehand? You might not need them—and that's actually good news because unnecessary antibiotics contribute to antibiotic resistance. Here's what the evidence actually shows about when prophylactic antibiotics help.
 

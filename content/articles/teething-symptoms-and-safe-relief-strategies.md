@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/22704179
   - title: "Sarrell M, Eidelman E, Kasis A. Fever associated with teething. Arch Pediatr Adolesc Med. 2001;155(10):1120-1122."
     url: https://pubmed.ncbi.nlm.nih.gov/11529804
+last_reviewed: 2026-06-01
 ---
 ## Introduction
 

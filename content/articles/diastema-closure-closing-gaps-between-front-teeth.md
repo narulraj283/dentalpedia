@@ -18,6 +18,7 @@ references:
   - "Yilmaz B, Kaya B, Colina PF. Diastema and its influence on esthetic perception. Int J Prosthodont. 2012;25(2):188-93."
   - "Shih HT, Lew SM, Wen MT. Esthetic correction of dental diastemas using direct composite resin restoration. Case Rep Dent. 2018;2018:7485824."
   - "Choi SH, Kim YJ, Lee JS, Chung CJ, Kim KH. The relationship between diastema and intercanine width. Korean J Orthod. 2009;39(3):179-84."
+last_reviewed: 2026-06-01
 ---
 ## Introduction
 

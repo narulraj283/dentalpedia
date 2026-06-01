@@ -42,7 +42,7 @@ slug: risk-and-concerns-with-enamel-erosion-repair
 subcategory: General Overview
 subcategory_slug: overview-general
 title: Risk and Concerns with Enamel Erosion Repair
-last_reviewed: 2026-05-01
+last_reviewed: 2026-06-01
 ---
 ## Understanding Tooth Enamel and Why It Matters
 

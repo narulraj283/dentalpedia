@@ -31,6 +31,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/34567938"
   - title: "Genetically Determined Skeletal Growth and Relapse Risk"
     url: "https://pubmed.ncbi.nlm.nih.gov/34567939"
+last_reviewed: 2026-06-01
 ---
 Congratulations on finishing your orthodontic treatment! You've invested time, money, and effort to straighten your teeth and achieve your dream smile. Now comes a crucial phase that many people underestimate: retention.
 

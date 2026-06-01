@@ -38,6 +38,7 @@ slug: smile-harmony-coordinating-cosmetic-features
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Smile Harmony - Coordinating Cosmetic Features
+last_reviewed: 2026-06-01
 ---
 ## Creating Harmony in Your Smile
 

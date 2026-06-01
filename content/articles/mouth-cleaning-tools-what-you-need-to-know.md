@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/23194268
   - title: "Tongue biofilm microbiota composition and implications for oral health assessment"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25603383
+last_reviewed: 2026-06-01
 ---
 Most people understand that brushing and flossing are important, but many lack knowledge about which specific tools work best for their situation and how to use them correctly. When you walk into a store and see dozens of toothbrush options, water flossers, and interdental cleaners, decision paralysis sets in. Understanding how different tools function, their relative how well it works, and appropriate selection based on your individual anatomy and situation empowers you to establish effective daily practices that actually prevent cavities and gum disease.
 

@@ -28,6 +28,7 @@ slug: endodontic-surgery-apicoectomy-and-periapical-surgery
 subcategory: Endodontic Overview
 subcategory_slug: overview-endo
 title: 'Endodontic Surgery: Apicoectomy and Periapical'
+last_reviewed: 2026-06-01
 ---
 When a tooth's root canal treatment doesn't completely resolve an infection, surgery might be necessary to save the tooth. Learning more about [Root Canal Therapy Complete Pulp Removal](/article/root-canal-therapy-complete-pulp-removal.html) can help you understand this better. Endodontic surgery (apicoectomy) removes the infected root tip and seals it permanently. Understanding this procedure helps you make informed decisions about keeping an infected tooth.
 

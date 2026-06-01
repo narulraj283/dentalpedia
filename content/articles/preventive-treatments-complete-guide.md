@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/24979509
   - title: "Zero DT, Fontana M, Martinez-Mier EA. The biology, prevention, management and remineralization of dental caries: scientific advances in the United States. J Public Health Dent. 2009;69 Suppl 1:S55-S65."
     url: https://pubmed.ncbi.nlm.nih.gov/19731026
+last_reviewed: 2026-06-01
 ---
 ## Your Complete Guide to Preventive Dental Treatments
 

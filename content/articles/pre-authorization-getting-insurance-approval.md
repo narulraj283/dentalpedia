@@ -27,6 +27,7 @@ slug: pre-authorization-getting-insurance-approval
 subcategory: Practice & Insurance Overview
 subcategory_slug: overview-practice
 title: Pre Authorization Getting Insurance Approval
+last_reviewed: 2026-06-01
 ---
 ## Understanding Pre-Authorization Versus Predetermination
 

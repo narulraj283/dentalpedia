@@ -19,6 +19,7 @@ references:
   - "Zarb, G. A., Carlsson, G. E., & Albrektsson, T. (2011). Tissue-integrated prostheses: Osseointegration in clinical dentistry (3rd ed.). Quintessence Publishing."
   - "Ciancio, S. G. (2004). Medications' impact on oral health. Journal of the American Dental Association, 135(10), 1440-1448."
   - "Loos, B. G. (2005). Systemic markers of inflammation in periodontitis. Journal of Periodontology, 76(11), 2106-2115."
+last_reviewed: 2026-06-01
 ---
 ## Why Bleeding Gums Matter
 

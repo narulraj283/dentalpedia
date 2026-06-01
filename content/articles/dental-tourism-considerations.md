@@ -19,6 +19,7 @@ references:
   - "Ortiz-Vigon A, Santiago-Blay JA. Complications of implants placed in overseas dental tourism settings. J Oral Implantol. 2021;47(1):48-55."
   - "Bhattacharyya C, Ray S. Patient satisfaction and safety in medical tourism. Int J Health Care Qual Assur. 2020;33(2):181-198."
   - "Thomas HF, Carrera JM. Quality of care in international dental treatment. Compend Contin Educ Dent. 2019;40(8):e1-e10."
+last_reviewed: 2026-06-01
 ---
 ## Why Dental Tourism Exists
 

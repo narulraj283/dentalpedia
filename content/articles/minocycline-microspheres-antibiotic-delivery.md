@@ -27,6 +27,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/21355934
   - title: "Systematic review and meta-analysis of local antibiotic therapy for periodontal pockets"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25819656
+last_reviewed: 2026-06-01
 ---
 If your periodontist mentioned minocycline microspheres as treatment for gum disease, you're wondering whether this is a real treatment or an unnecessary add-on. The answer is nuanced: for specific cases of aggressive gum disease that isn't responding well to standard treatment, minocycline can provide meaningful improvement. For most gum disease cases, it's unnecessary.
 

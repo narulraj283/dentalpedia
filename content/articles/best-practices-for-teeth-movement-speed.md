@@ -19,6 +19,7 @@ references:
   - "Leethanakul C, Suamphan S, Jitpukdeebodintra S, Thongudomporn U, Charoemratrote C. Corticotomy-assisted orthodontic treatment in advanced bone loss patients: a split-mouth design. J Periodontol. 2014;85(1):74-84."
   - "Keeling SD, McGorray SP, Wheeler TT, King GJ. Anteroposterior skeletal and dental changes after rapid palatal expansion. Am J Orthod Dentofacial Orthop. 1998;113(6):603-611."
   - "Angelieri F, Cevidanes LHS, Franchi L, Gonçalves JR, Benavides E, McNamara JA. Midpalatal suture density pattern does not predict skeletal maturation stages. PLoS One. 2016;11(8):e0161105."
+last_reviewed: 2026-06-01
 ---
 ## How Long Does Braces Treatment Really Take?
 

@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/19947862
   - title: "Recovery Room Management After Oral and Maxillofacial Surgery"
     url: https://www.ncbi.nlm.nih.gov/pubmed/18413421
+last_reviewed: 2026-06-01
 ---
 ## Conscious Sedation Versus Deep Sedation: Defining the Spectrum
 

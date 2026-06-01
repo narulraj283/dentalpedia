@@ -19,6 +19,7 @@ references:
   - "Esthetic Dentistry Task Force. Guidelines for comprehensive esthetic dentistry. Academy of General Dentistry. 2023."
   - "Sarver DM. Principles of cosmetic dentistry in periodontal therapy. Periodontol 2000. 2023;37:48-59."
   - "Wolfart S, Quaas AC, Freitag S, Kropp P, Gerngross P, Kern M. Subjective esthetic perception of maxillary anterior crowns. J Dent Res. 2023;85(12):1133-1139."
+last_reviewed: 2026-06-01
 ---
 ## The Team Approach Works Better
 

@@ -44,6 +44,7 @@ slug: teeth-straightening-cost-what-you-need-to-know
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: 'Orthodontic Treatment Costs Explained: Patient Guide'
+last_reviewed: 2026-06-01
 ---
 Braces or aligners cost thousands of dollars, but exactly how much depends on where you live, which type you choose, and how complex your case is. Understanding pricing helps you budget and find ways to make orthodontics affordable.
 

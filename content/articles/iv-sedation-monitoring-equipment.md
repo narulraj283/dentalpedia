@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/21945180
   - title: "Complications and Adverse Events Associated with Intravenous Sedation"
     url: https://www.ncbi.nlm.nih.gov/pubmed/22222728
+last_reviewed: 2026-06-01
 ---
 ## Pulse Oximetry: Continuous Oxygenation Assessment
 

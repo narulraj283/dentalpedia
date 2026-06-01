@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/13658929
   - title: "Andreasen GF, Zwanziger D. A clinical evaluation of the differential force technique in canine retraction. Am J Orthod. 1980;78(4):438-445."
     url: https://pubmed.ncbi.nlm.nih.gov/6931811
+last_reviewed: 2026-06-01
 ---
 ## The Amazing Biology Behind Tooth Movement
 

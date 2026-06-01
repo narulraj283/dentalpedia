@@ -31,6 +31,7 @@ references:
     url: https://www.iso.org/standard/50612.html
   - title: "Clinical assessment of herbal toothpaste in gingivitis management"
     url: https://www.ncbi.nlm.nih.gov/pubmed/28196084
+last_reviewed: 2026-06-01
 ---
 More people are interested in toothpastes made from natural plant ingredients rather than synthetic chemicals. Plant-based toothpastes combine thousands of years of traditional knowledge with modern research to fight bacteria and protect your teeth. But how effective are they really? The answer is: they work, but not exactly like conventional toothpaste, and they're better for some situations than others.
 

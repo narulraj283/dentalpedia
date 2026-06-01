@@ -43,7 +43,7 @@ references:
     authors: "Gusberti FA, Sambunjak D, Heitz-Mayfield LJ, Lang NP"
     year: 2009
     publication: "Periodontology 2000"
-last_reviewed: 2026-05-01
+last_reviewed: 2026-06-01
 ---
 If you've been treated for gum disease, you're not done once the treatment ends. That's when something called supportive periodontal therapy (SPT)—basically long-term upkeep—begins. This is the part where you and your dentist work together to stop the gum disease from coming back. It's a partnership that lasts the rest of your life, and it's absolutely critical for keeping your teeth.
 

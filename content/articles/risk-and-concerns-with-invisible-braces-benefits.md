@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/27379637
   - title: "Rossini G, Parrini S, Castroflorio T, Deregibus A, Debernardi CL. Efficacy of clear aligners in controlling interdental rotation. A 3D imaging study. Angle Orthod. 2015;85(2):226-232."
     url: https://pubmed.ncbi.nlm.nih.gov/24903032
+last_reviewed: 2026-06-01
 ---
 Clear aligners like Invisalign sound perfect—straighten your teeth without anyone noticing you're wearing braces. You can take them out to eat and brush your teeth, and they're barely visible. But are they as effective as traditional braces?
 

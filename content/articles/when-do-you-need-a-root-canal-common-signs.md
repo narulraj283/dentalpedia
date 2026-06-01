@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/18384277
   - title: "Diagnostic Accuracy of Percussion and Palpation in Endodontic Diagnosis"
     url: https://pubmed.ncbi.nlm.nih.gov/19593849
+last_reviewed: 2026-06-01
 ---
 ## Sudden Tooth Pain: When a Root Canal Might Be Needed
 

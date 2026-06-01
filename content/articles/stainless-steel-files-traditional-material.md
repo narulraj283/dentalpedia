@@ -42,6 +42,7 @@ slug: stainless-steel-files-traditional-material
 subcategory: Endodontics
 subcategory_slug: overview-endo
 title: 'Stainless Steel Endodontic Files: Metallurgy'
+last_reviewed: 2026-06-01
 ---
 ## Introduction
 

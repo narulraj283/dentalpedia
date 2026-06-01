@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/11683546
   - title: "Sohn W, Burt BA, Sowers MR. Carbonated soft drinks and dental caries in the primary dentition. Journal of Dental Research. 2006;85(3):262-266."
     url: https://pubmed.ncbi.nlm.nih.gov/16498075
+last_reviewed: 2026-06-01
 ---
 ## Introduction
 
