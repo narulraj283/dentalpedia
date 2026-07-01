@@ -43,6 +43,7 @@ references:
     year: 2018
     title: "Soft Tissue Management in Implant Dentistry"
     journal: "International Journal of Periodontics and Restorative Dentistry"
+last_reviewed: 2026-07-01
 ---
 ## Recovery Instructions After Oral Surgery
 

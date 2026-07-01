@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/22710191
   - title: "Oxidative Stress and Antioxidant Defense in Periodontal Disease"
     url: https://pubmed.ncbi.nlm.nih.gov/27294788
+last_reviewed: 2026-07-01
 ---
 ## The Hidden Problem Your Mouth Reveals First
 

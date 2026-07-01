@@ -19,7 +19,7 @@ references:
   - "Vlaskalic V, Boyd RL. Clinical evolution of the Invisalign appliance. J Calif Dent Assoc. 2001;29(11):769-778."
   - "Boyd RL, Miller RJ, Vlaskalic V. The Invisalign system in adult orthodontics: aesthetics, function, and treatment response. J Calif Dent Assoc. 2000;28(5):372-378."
   - "Feltjens J, Bos A, de Croon de Graaff J, et al. Clear aligner treatment produces adequate orthodontic tooth movement. J Clin Orthod. 2018;52(3):130-138."
-last_reviewed: 2026-05-01
+last_reviewed: 2026-07-01
 ---
 ## Why Clear Aligners (Invisalign) Might Be Your Best Orthodontic Option
 

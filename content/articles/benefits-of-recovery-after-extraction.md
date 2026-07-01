@@ -19,6 +19,7 @@ references:
   - Moen K, et al. Complications following surgical removal of mandibular third molars. Int J Oral Maxillofac Surg. 2001;30(5):391-395.
   - Kazanciyan G, et al. Management of alveolar osteitis with gelatin sponge in socket. Oral Surg Oral Med Oral Pathol Oral Radiol. 2013;116(1):e14-e17.
   - Bourne SJ, et al. Opioid analgesics for postoperative dental pain. Cochrane Database Syst Rev. 2013;7:CD004624.
+last_reviewed: 2026-07-01
 ---
 ## The First Few Hours After Your Extraction
 

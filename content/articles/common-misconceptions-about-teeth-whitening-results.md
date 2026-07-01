@@ -21,6 +21,7 @@ references:
   - "Majzun K, Plavsic V, Susic M. Bleaching efficacy of in-office hydrogen peroxide treatments with different activation methods. Acta Stomatol Croat. 2007;41(2):115-121."
   - "Kielbassa AM, Muller J, Gernhardt CR. Effect of acid diffusion on the pH inside the root after intra-coronally bleaching with hydrogen peroxide. J Endod. 1997;23(3):144-146."
   - "Canay S, Cehreli MC. The effect of current bleaching agents on the color of light-activated composite resins. J Prosthet Dent. 2003;89(5):474-479."
+last_reviewed: 2026-07-01
 ---
 You probably have questions about teeth whitening. Maybe you've seen ads promising the perfect white smile, or you're wondering if the results will last. Let's talk about what really happens when you whiten your teeth and separate the hype from the facts. Understanding what to expect helps you make smart decisions about your smile.
 

@@ -19,6 +19,7 @@ references:
   - "Ogaard B. (2023). White spot lesions during orthodontic treatment: mechanisms, mitigation strategies, and management. Journal of Dental Research. 88(3):214-219."
   - "Gängler P, Sperling U, Hoffmann T, et al. (2023). Evaluation of plaque pH changes following rinsing with stannous fluoride solutions. Caries Research. 29(4):306-312."
   - "Sudjalim TR, Woods MG, Manton DJ. (2023). Prevention of white spot lesions in orthodontic practice: a contemporary review. Australian Dental Journal. 51(4):284-289."
+last_reviewed: 2026-07-01
 ---
 ## Brushing Alone Isn't Enough
 

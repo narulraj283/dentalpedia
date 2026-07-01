@@ -35,7 +35,7 @@ slug: jaw-repositioning-surgery-orthognathic-correction
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Jaw Repositioning Surgery Orthognathic Correction
-last_reviewed: 2026-06-01
+last_reviewed: 2026-07-01
 ---
 ## Classification of Dentofacial Deformities
 

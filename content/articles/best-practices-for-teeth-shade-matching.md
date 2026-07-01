@@ -31,6 +31,7 @@ slug: best-practices-for-teeth-shade-matching
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Advanced Shade Selection Techniques in Restorative
+last_reviewed: 2026-07-01
 ---
 ## Matching Your Tooth Shade for Invisible Restorations
 

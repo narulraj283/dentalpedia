@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/13182520
   - title: "Heasman PA, Macgregor ID, Walsh TF, Bagg J. A Clinical Study of the Efficacy of the Braun D7 Oscillating Toothbrush Compared With a Manual Toothbrush. Journal of Clinical Periodontology. 1999;26(8):563-566."
     url: https://pubmed.ncbi.nlm.nih.gov/10466133
+last_reviewed: 2026-07-01
 ---
 ## The Right Way to Brush Your Teeth: Techniques That Actually Work
 

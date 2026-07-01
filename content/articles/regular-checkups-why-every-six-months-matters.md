@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/12931766
   - title: "Shen TC, Chang PY, Lin CL, Wei CC, Li CY, Kao CH. Dental prophylaxis and risk of pneumonia: a nationwide population-based observational study. Oral Oncol. 2016;53:9-15."
     url: https://pubmed.ncbi.nlm.nih.gov/26615265
+last_reviewed: 2026-07-01
 ---
 ## Why Your Dentist Recommends Regular Checkups
 

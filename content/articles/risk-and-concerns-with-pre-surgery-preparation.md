@@ -41,6 +41,7 @@ slug: risk-and-concerns-with-pre-surgery-preparation
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Risk and Concerns with Pre Surgery Preparation
+last_reviewed: 2026-07-01
 ---
 ## Introduction
 

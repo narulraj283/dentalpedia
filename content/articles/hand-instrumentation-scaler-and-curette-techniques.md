@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/27641835/
   - title: "Manual vs. Powered Instrumentation"
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/jcpe.12877
+last_reviewed: 2026-07-01
 ---
 Deep cleaning for gum disease involves hand instruments working under your gumline to remove buildup. The scraping and vibration you feel during these appointments isn't random—your dentist is using specific technique and instrument choices to remove tartar effectively while protecting your gum tissue.
 

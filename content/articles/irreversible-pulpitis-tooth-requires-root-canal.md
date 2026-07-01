@@ -30,7 +30,7 @@ slug: irreversible-pulpitis-tooth-requires-root-canal
 subcategory: Endodontic Overview
 subcategory_slug: overview-endo
 title: Irreversible Pulpitis Tooth Requires Root Canal
-last_reviewed: 2026-05-01
+last_reviewed: 2026-07-01
 ---
 ## Understanding Irreversible Pulpitis: Definition and Pathology
 

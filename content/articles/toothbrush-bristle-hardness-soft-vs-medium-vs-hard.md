@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/12492860
   - title: "Walsh MM, Darby ML, Bowen DM. A comparison of conventional manual and powered toothbrushes using four different evaluation methods. J Clin Dent. 1999;10(2):36-40."
     url: https://pubmed.ncbi.nlm.nih.gov/10476660
+last_reviewed: 2026-07-01
 ---
 ## Introduction
 

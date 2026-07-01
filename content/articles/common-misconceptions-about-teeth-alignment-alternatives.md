@@ -19,6 +19,7 @@ references:
   - "Brezniak N, Wasserstein A. Root resorption after orthodontic therapy. Part 1: Literature review. Am J Orthod Dentofacial Orthop. 1993;103(1):62-66."
   - "Kuhlberg AJ, McNamara JA Jr. Neural responses to orthodontic tooth movement. Am J Orthod Dentofacial Orthop. 2000;117(1):10-18."
   - "Owens SE, Buschang PH, Throckmorton GS, Palmer L, McGill DO. Masticatory performance and recovery in patients after orthognathic surgery. J Oral Maxillofac Surg. 2002;60(6):627-634."
+last_reviewed: 2026-07-01
 ---
 If you want straighter teeth, you have options. Traditional braces, clear aligners, special lingual braces (hidden behind teeth)—they all work, but not equally for every situation. Understanding the differences helps you choose what's right for you.
 

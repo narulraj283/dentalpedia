@@ -44,6 +44,7 @@ slug: post-extraction-dry-socket-emergency
 subcategory: Emergency Overview
 subcategory_slug: overview-emergency
 title: Post Extraction Dry Socket Emergency
+last_reviewed: 2026-07-01
 ---
 ## Dry Socket After Tooth Extraction: What It Is and How to Treat It
 

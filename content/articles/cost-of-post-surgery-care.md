@@ -21,6 +21,7 @@ references:
   - "Ness G, Welbury R, Booth I, et al. Oro-antral communications. Br Dent J. 2013;214(11):557-563."
   - "Robinson PP, Smith KG. Lingual plate removal: a review of 233 lingual split sagittal osteotomy cases. Br J Oral Maxillofac Surg. 1996;34(3):230-235."
   - "Bell RB, Blakey GH, White RP, et al. Osteonecrosis of the jaws: epidemiology and risk factors. Oral Maxillofac Surg Clin North Am. 2007;19(1):1-19."
+last_reviewed: 2026-07-01
 ---
 ## Understanding Full Recovery Costs
 

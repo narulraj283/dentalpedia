@@ -42,6 +42,7 @@ slug: thrush-oral-candidiasis-fungal-infection-treatment
 subcategory: Oral Health Conditions Overview
 subcategory_slug: overview-oral-conditions
 title: 'Oral Candidiasis: Clinical Presentation, Diagnosis'
+last_reviewed: 2026-07-01
 ---
 ## Understanding Oral Thrush (Oral Candidiasis)
 

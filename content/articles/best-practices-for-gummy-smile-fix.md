@@ -31,6 +31,7 @@ slug: best-practices-for-gummy-smile-fix
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Comprehensive Management of Excessive Gingival Display
+last_reviewed: 2026-07-01
 ---
 If you've always felt self-conscious about showing too much gum when you smile, you're not alone. About one in four people feel the same way. A "gummy smile" (excessive gingival display) happens for different reasons, and fortunately, there are several ways to fix it. The best solution depends on why your smile looks the way it does.
 

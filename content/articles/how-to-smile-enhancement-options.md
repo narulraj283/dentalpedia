@@ -31,7 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/27477527
   - title: "Cost-Effectiveness and Decision-Making in Cosmetic Dentistry"
     url: https://www.ncbi.nlm.nih.gov/pubmed/24556881
-last_reviewed: 2026-05-01
+last_reviewed: 2026-07-01
 ---
 If you want to improve your smile, you have more options than ever. From simple whitening to complete makeovers, there's a treatment that fits your goals, budget, and timeline. The key is understanding what each option can do and what works best for your specific situation.
 

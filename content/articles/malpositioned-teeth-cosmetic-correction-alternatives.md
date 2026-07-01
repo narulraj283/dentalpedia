@@ -27,6 +27,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/26108887
   - title: "Occlusal interference risk and functional complications from cosmetic bonding approach to rotated/malpositioned dentition"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25681549
+last_reviewed: 2026-07-01
 ---
 If you have teeth that aren't quite straight, you're facing an important decision: do you want to invest time in orthodontic treatment to at its core straighten your teeth, or would you prefer faster cosmetic solutions that make your teeth look straighter without moving them? Both approaches have genuine merits, and the right choice depends on your priorities, timeline, and specific tooth positioning challenges.
 

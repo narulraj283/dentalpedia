@@ -19,6 +19,7 @@ references:
   - "Cochran DL. The evidence for immediate loading of implants. J Calif Dent Assoc. 2010;38(5):329-342."
   - "Elias CN, et al. Biomechanical aspects of osseointegration. Braz Dent J. 2006;17(4):271-278."
   - "Misch CE, et al. Bone classification, density, and quality. Implant Dent. 2012;21(5):359-369."
+last_reviewed: 2026-07-01
 ---
 ## What Are Basal Implants and Why Are They Controversial?
 

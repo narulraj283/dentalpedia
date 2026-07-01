@@ -19,6 +19,7 @@ references:
   - "Beuer F, Naumann M, Gernet W, Sorensen JA. Precision of fit of four-unit zirconia posterior fixed partial dentures. Int J Prosthodont. 2009;22(6):547-550."
   - "Tinschert J, Natt G, Miedema N, Witchel W, Spiekermann H. Marginal fit of alumina-ceramic crowns fabricated with the Procera AllCeram system. Compend Contin Educ Dent. 1997;18(9):872-880."
   - "Schley JS, Heussen N, Bragger U, Rateitschak KH. Marginal and internal fit of crowns using different fabrication methods. J Prosthodont. 2010;19(1):39-45."
+last_reviewed: 2026-07-01
 ---
 When you're considering a crown, one of your first questions is probably, "How long will it last?" The good news is that modern crowns are very durable restorations. Most crowns last 10, 15, even 20 years or longer. But the lifespan depends on several factors. Let's explore what research tells us about crown longevity and what you can do to maximize how long your crown lasts.
 

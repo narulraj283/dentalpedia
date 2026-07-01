@@ -14,6 +14,7 @@ references:
   - "Hartsfield JK, et al. Genetic factors and expression in the etiology of orthodontically induced root resorption. Semin Orthod. 2007;13(3):161-172."
   - "Levander E, Malmgren O. Long-term follow-up of maxillary incisors with severe apical root resorption. Eur J Orthod. 2000;22(1):85-92."
   - "Geiger AM, et al. Reducing white spot lesions in orthodontic populations. Am J Orthod Dentofacial Orthop. 1992;101(4):403-407."
+last_reviewed: 2026-07-01
 ---
 ## How Long Will Your Braces Actually Take?
 

@@ -21,6 +21,7 @@ references:
   - "Yeung CA, Chestnutt IG, King NM, et al. Fluoridated milk for the prevention of dental caries. Cochrane Database Syst Rev. 2015;9:CD003876."
   - "Kakodkar P, Mulay S. A congenitally missing maxillary central incisor. J Indian Soc Periodontol. 2012;16(4):654-658."
   - "Inglehart MR, Bagramian RA. Oral health-related quality of life. Chicago: Quintessence; 2002."
+last_reviewed: 2026-07-01
 ---
 When you visit the dentist, you'll probably have different types of exams depending on your situation. Your first visit is different from a regular six-month checkup, and what you pay varies too. Understanding these different exam types helps you know what to expect and whether your insurance will cover the costs.
 

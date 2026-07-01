@@ -21,6 +21,7 @@ references:
   - "Freitas KM, Janson G, Barbosa Martins P, Neves de Freitas M. Posttreatment changes in dental casts: a comparative study between extraction and nonextraction orthodontic cases. Angle Orthod. 2004;74(1):61-66."
   - "Deguchi T, Honjo T, Fukunaga T, Takano-Yamamoto T, Roberts WE. Strategic extraction of lower premolars in orthodontic treatment. Semin Orthod. 2001;7(2):97-106."
   - "Geron S, Shpack N, Kandeu T, Davidovitch M, Vardimon AD. Profiles of adults with moderate to severe dental crowding. Eur J Orthod. 2010;32(4):443-452."
+last_reviewed: 2026-07-01
 ---
 ## How Long Will Braces Actually Take?
 

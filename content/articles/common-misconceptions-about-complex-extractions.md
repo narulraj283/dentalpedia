@@ -21,6 +21,7 @@ references:
   - "Jung RE, Philipp A, Annen BM, et al. Radiographic evaluation of different techniques of assessing alveolar ridge dimensions. J Clin Periodontol. 2002;29(11):1047-1053."
   - "Botticelli D, Berglundh T, Lindhe J. Hard-tissue alterations following immediate implant placement in extraction sockets: An experimental study in dogs. J Clin Periodontol. 2004;31(10):820-828."
   - "Liss A, Grosgogeat B, Salmon B, et al. Complications of immediate implant therapy: Systematic review. Implant Dent. 2015;24(1):75-82."
+last_reviewed: 2026-07-01
 ---
 ## What Makes an Extraction "Complex"?
 

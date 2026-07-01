@@ -36,6 +36,7 @@ slug: selective-grinding-reducing-high-points
 subcategory: General Overview
 subcategory_slug: overview-general
 title: Selective Grinding Reducing High Points
+last_reviewed: 2026-07-01
 ---
 ## Introduction
 

@@ -17,6 +17,7 @@ slug: digital-smile-design-planning-beautiful-smiles
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: 'Digital Smile Design: Planning Your Perfect'
+last_reviewed: 2026-07-01
 ---
 ## Introduction
 

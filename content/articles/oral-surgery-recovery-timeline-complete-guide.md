@@ -15,6 +15,7 @@ references:
   - "Albrektsson T, Chrcanovic B, Molly K, Wennerberg A. Osseointegration of Implants - A Biological and Clinical Perspective. J Clin Periodontol. 2016;43(S17):S6-S17."
   - "Ochs MW, Dolwick MF. Orthognathic Surgery: Principles and Outcomes. Oral Maxillofac Surg Clin North Am. 2014;26(4):555-568."
   - "Aravelos SJ, Donoff RB. Bone Healing Following Dental Extraction: A Clinical Perspective. Dent Today. 1992;11(3):40-45."
+last_reviewed: 2026-07-01
 ---
 ## Understanding Your Healing After Dental Surgery
 

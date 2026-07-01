@@ -19,6 +19,7 @@ references:
   - "Dahl JE, et al. Bonded veneers: clinical performance. Clin Oral Investig. 2000;4(3):162-169."
   - "Sundfeld RH, et al. Direct resin composite veneers on anterior teeth. Clin Esthet Dent. 2014;7(3):18-24."
   - "Al-Dhafeeri AM, et al. Esthetic dentistry and restorative principles: coronal tooth preparation. Eur J Esthet Dent. 2010;5(3):338-359."
+last_reviewed: 2026-07-01
 ---
 ## Bigger Teeth Aren't Always More Beautiful
 

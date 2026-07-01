@@ -19,6 +19,7 @@ references:
   - "Sheiham A, James WPT. Diet and dental disease. J Dent Res. 2015;94(10):1341-1347."
   - "Scheinin A, Pienihäkkinen K. Dietary factors and dental caries. Proc Finn Dent Soc. 1977;73(5-6):194-201."
   - "Marshall TA, Levy SM, Broffitt B, et al. Dental caries and beverage consumption in young children. Pediatr Dent. 2003;25(2):159-164."
+last_reviewed: 2026-07-01
 ---
 ## Why Fiber Is Great for Your Teeth
 

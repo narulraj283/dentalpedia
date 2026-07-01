@@ -13,6 +13,7 @@ reviewed: true
 references:
   - "Lussi A, Jaeggi T, Zero D. The role of diet in the aetiology of dental erosion. Clin Oral Investig. 2006;10(3):182-191."
   - "West NX, Maxwell A, Hughes JA, et al. A method to measure clinical erosion: the effect of orange juice consumption on erosion of enamel. J Dent Res. 1998;77(12):1835-1841."
+last_reviewed: 2026-07-01
 ---
 Fruit is healthy—full of vitamins, minerals, and fiber. But here's what dentists know that many people don't: certain fruits are quite acidic, and that acidity can slowly dissolve your tooth enamel. The good news is you don't have to give up fruit. You just need to understand which fruits are higher risk, how to consume them safely, and simple protective measures. With smart strategies, you can enjoy all the health benefits of fruit while protecting your teeth.
 

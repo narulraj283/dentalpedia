@@ -30,7 +30,7 @@ reviewed: true
 reviewer_specialty: General Dentistry
 slug: night-guard-material-durability-and-comfort
 title: Night Guard Material Durability and Comfort
-last_reviewed: 2026-06-01
+last_reviewed: 2026-07-01
 ---
 ## Material Choices for Night Guards
 

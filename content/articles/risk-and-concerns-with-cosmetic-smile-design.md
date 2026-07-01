@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/16047493
   - title: "Gillen RJ, et al. An analysis of selected normative tooth proportions. Int J Prosthodont. 1994;7(5):410-417."
     url: https://pubmed.ncbi.nlm.nih.gov/7993639
+last_reviewed: 2026-07-01
 ---
 ## The Basics of Smile Design
 

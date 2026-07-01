@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/24936357
   - title: "Prevention of Iatrogenic Enamel Damage During Bracket Debonding and Reattachment"
     url: https://www.ncbi.nlm.nih.gov/pubmed/22715221
+last_reviewed: 2026-07-01
 ---
 ## Loose Brackets Are Common, Not Catastrophic
 

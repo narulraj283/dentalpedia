@@ -18,6 +18,7 @@ references:
   - "Schroeder RL, Schroeder HR. Anomalies of tooth eruption, alignment, and size. In: Pediatric Dental Pathology. Lea & Febiger; 1992. p. 235-251."
   - "Ash MM. Wheeler's Dental Anatomy, Physiology and Occlusion. 8th ed. Saunders; 2003."
   - "Barberia-Leache E, Marques-Martinez C, Agua-Doce JA. Study of ectopic eruption of the permanent first molar. ASDC J Dent Child. 1997;64(4):278-283."
+last_reviewed: 2026-07-01
 ---
 ## What Is Ectopic Eruption and Why It Matters
 

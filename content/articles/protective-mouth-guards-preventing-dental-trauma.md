@@ -43,6 +43,7 @@ slug: protective-mouth-guards-preventing-dental-trauma
 subcategory: Sports Dentistry Overview
 subcategory_slug: overview-sports
 title: 'Protective Mouth Guards: Preventing Dental'
+last_reviewed: 2026-07-01
 ---
 ## Why Your Mouth Needs Protection During Sports
 

@@ -31,6 +31,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/18453633/"
   - title: "Color maintenance strategies and whitening longevity"
     url: "https://pubmed.ncbi.nlm.nih.gov/24053592/"
+last_reviewed: 2026-07-01
 ---
 ## Your Teeth Don't Have to Stay Stained
 

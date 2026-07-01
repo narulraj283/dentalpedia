@@ -27,6 +27,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/37890123
   - title: "Patient Education and Opioid Risk Mitigation Strategies"
     url: https://www.ncbi.nlm.nih.gov/pubmed/38901234
+last_reviewed: 2026-07-01
 ---
 ## Why Your Dentist May Not Prescribe Opioids
 

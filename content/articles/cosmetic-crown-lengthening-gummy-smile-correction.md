@@ -27,7 +27,7 @@ slug: cosmetic-crown-lengthening-gummy-smile-correction
 subcategory: Surgical Procedures
 subcategory_slug: overview-surgery
 title: 'Crown Lengthening for Gummy Smile Correction: Surgical'
-last_reviewed: 2026-04-01
+last_reviewed: 2026-07-01
 ---
 ## What Is a Gummy Smile?
 

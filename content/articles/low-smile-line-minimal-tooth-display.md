@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/20921900
   - title: "Lip Position Changes After Orthognathic Surgery: Three-Dimensional Analysis"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27013135
+last_reviewed: 2026-07-01
 ---
 ## What Is a Low Smile Line?
 

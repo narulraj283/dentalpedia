@@ -28,6 +28,7 @@ slug: benefits-of-surgical-technique-overview
 subcategory: Surgical Care & Recovery
 subcategory_slug: surgical-care
 title: 'Fundamental Oral Surgical Techniques: Incision Design'
+last_reviewed: 2026-07-01
 ---
 ## What Makes Good Surgical Technique?
 

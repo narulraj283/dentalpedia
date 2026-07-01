@@ -42,6 +42,7 @@ slug: risk-and-concerns-with-bad-breath-elimination
 subcategory: General Overview
 subcategory_slug: overview-general
 title: Risk and Concerns with Bad Breath Elimination
+last_reviewed: 2026-07-01
 ---
 ## Getting Rid of Bad Breath: Understanding Causes and Finding Solutions
 

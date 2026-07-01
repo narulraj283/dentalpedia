@@ -16,6 +16,7 @@ references:
   - "Heasman PA, Macgregor IDM, Kelly PJ, Correnti JM, Barbour ME. Intraoral Sources of Volatile Sulfur Compounds from People with and Without Intraoral Pathology. J Clin Dent. 2003;14(1):7-12."
   - "Claydon N. Current Concepts in Toothbrushing and Interdental Cleaning. Periodontol 2000. 2008;48(1):10-22."
   - "Axelsson P, Lindhe J. Effect of Functional Electric Toothbrushes on Plaque and Gingivitis. J Clin Periodontol. 1978;5(1):13-18."
+last_reviewed: 2026-07-01
 ---
 ## Building a Routine That Works for Your Mouth
 

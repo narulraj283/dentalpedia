@@ -30,6 +30,7 @@ slug: cosmetic-treatment-planning-digital-mockups-and-communication
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: 'Cosmetic Treatment Planning: Digital Mockups'
+last_reviewed: 2026-07-01
 ---
 Before starting cosmetic treatment, seeing what your smile will look like makes a huge difference. Digital smile design—using photos and computer software to preview results—helps you and your dentist create exactly what you want. This guide explains how it works and why it matters.
 

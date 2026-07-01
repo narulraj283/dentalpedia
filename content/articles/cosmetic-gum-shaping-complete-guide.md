@@ -19,6 +19,7 @@ references:
   - "Farnoush A, Caton JG, Periodontal plastic surgery considerations. J Periodontol. 2012;61(12):781-791."
   - "Martins SA, Martins MD. Esthetic gingival surgical procedures. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2018;106(2):163-173."
   - "Tözüm B, Demirer S. Surgery for esthetic correction of gummy smile. J Esthet Dent. 2011;23(3):140-156."
+last_reviewed: 2026-07-01
 ---
 ## What Is Cosmetic Gum Shaping?
 

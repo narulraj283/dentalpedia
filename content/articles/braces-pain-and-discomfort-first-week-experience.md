@@ -36,7 +36,7 @@ slug: braces-pain-and-discomfort-first-week-experience
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: 'Braces Pain and Discomfort: First Week Experience'
-last_reviewed: 2026-04-01
+last_reviewed: 2026-07-01
 ---
 So you're about to get braces, or you just got them placed, and you're wondering how bad the pain is going to be. It's natural to worry. The truth is that about 60 to 90% of patients feel some discomfort in the first few days, but most people find it's far less terrible than they feared. This article walks you through exactly what to expect during that crucial first week and shows you how to manage the soreness so it doesn't slow you down.
 

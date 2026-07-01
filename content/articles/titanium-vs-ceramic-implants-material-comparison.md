@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/26486998
   - title: "Sykaras N, Iacopino AM, Marker VA, et al. Implant materials, designs, and surface topographies: their effect on osseointegration. A literature review. Int J Oral Maxillofac Implants. 2000;15(5):675-690."
     url: https://pubmed.ncbi.nlm.nih.gov/11055135
+last_reviewed: 2026-07-01
 ---
 Choosing between titanium and ceramic implants means weighing proven reliability against modern esthetic benefits. Titanium has 40 years of success data, but ceramic offers unique advantages for visible teeth. Here's what you actually need to know to decide.
 

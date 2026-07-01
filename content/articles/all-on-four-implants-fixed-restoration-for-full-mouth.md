@@ -19,6 +19,7 @@ references:
   - "Slade GD, et al. Implant prosthetics and quality of life in the Oral Health Impact Profile. Journal of Dental Research. 2019;98(12):1340-1348."
   - "Vrielinck L, et al. Long-term clinical assessment of bridges on implants: a literature review and case presentation. Journal of Oral Rehabilitation. 2019;46(8):754-762."
   - "De Bruyn H, et al. Systematic review of the influence of patient factors on dental implant survival. Clinical Oral Implants Research. 2021;32 Suppl 21:180-195."
+last_reviewed: 2026-07-01
 ---
 Losing all your teeth doesn't mean losing your smile. All-on-Four implants are a game-changing solution that lets you have a full set of beautiful, permanent teeth attached to just four dental implants. Unlike old-fashioned complete dentures that you take out every night, All-on-Four teeth stay in place all day and all night.
 

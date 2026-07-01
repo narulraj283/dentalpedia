@@ -45,6 +45,7 @@ slug: probing-depth-measuring-pocket-severity
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Probing Depth Measuring Pocket Severity
+last_reviewed: 2026-07-01
 ---
 ## What Happens When Gum Disease Develops
 

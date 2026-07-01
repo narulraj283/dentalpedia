@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/20934686
   - title: "Piecuch JF, Topazian RG. Management of surgical complications. Oral and Maxillofacial Surgery Clinics. 2003;15(2):229-240."
     url: https://pubmed.ncbi.nlm.nih.gov/18088725
+last_reviewed: 2026-07-01
 ---
 ## Introduction
 

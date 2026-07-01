@@ -45,6 +45,7 @@ slug: pacifier-use-timing-and-malocclusion-risk
 subcategory: Pediatric Overview
 subcategory_slug: overview-peds
 title: Pacifier Use Timing and Malocclusion Risk
+last_reviewed: 2026-07-01
 ---
 ## Understanding Pacifier Risk Windows
 

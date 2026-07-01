@@ -29,6 +29,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/27090999
   - title: "Oral hygiene practices and implant success: a systematic review"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25159755
+last_reviewed: 2026-07-01
 ---
 You just got your implant crown placed, and now the real work begins—keeping that implant healthy for decades. The difference between implants that last 20 years and those that fail within a few years comes down to one thing: daily care and professional monitoring. Here's exactly what you need to do.
 

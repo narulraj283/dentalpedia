@@ -19,7 +19,7 @@ references:
   - "Twetman S. Evidence of evidence-based caries prevention. J Clin Periodontol. 2014;41(Suppl 15):S82-S86."
   - "Tellez M, Wolff MS, Pitts NB. Is非-operative management of caries lesions effective? Dent Clin North Am. 2016;60(1):87-101."
   - "Featherstone JD. The caries balance: contributing factors and early detection. J Calif Dent Assoc. 2003;31(2):129-133."
-last_reviewed: 2026-04-01
+last_reviewed: 2026-07-01
 ---
 Preventing cavities isn't complicated, but it does require knowing what actually works. The best prevention strategies target multiple things at once: controlling the bacteria in your mouth, reducing sugar exposure, using fluoride smartly, and cleaning your teeth the right way. If you do these things, you can reduce your cavity risk by 40-80% depending on how high your risk was to begin with.
 

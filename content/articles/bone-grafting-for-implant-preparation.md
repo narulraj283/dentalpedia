@@ -29,6 +29,7 @@ slug: bone-grafting-for-implant-preparation
 subcategory: Bone Grafting & Reconstruction
 subcategory_slug: bone-grafting
 title: Bone Grafting Protocol for Dental Implant Site Preparation
+last_reviewed: 2026-07-01
 ---
 ## When Bone Grafting Is Necessary
 

@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/30255851
   - title: "Biomarker panels for comprehensive periodontal disease assessment"
     url: https://www.ncbi.nlm.nih.gov/pubmed/29360262
+last_reviewed: 2026-07-01
 ---
 Your body constantly produces inflammatory markers—chemical signals indicating tissue inflammation or disease. Scientists have discovered that measuring these markers in your blood or saliva can reveal gum disease before you notice symptoms. This emerging testing technology helps detect early disease, predict treatment response, and identify patients at highest risk. Here's what you need to know about these tests and what they mean. Learning more about [Systemic Disease Links: Diabetes and Gum Disease](/article/systemic-disease-links-diabetes-and-gum-disease.html) can help you understand this better.
 

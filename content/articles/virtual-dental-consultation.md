@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/32207544
   - title: "Remote Oral Assessment: Limitations and Future Directions in Teledentistry"
     url: https://pubmed.ncbi.nlm.nih.gov/31056298
+last_reviewed: 2026-07-01
 ---
 ## Welcome to Teledentistry
 

@@ -21,6 +21,7 @@ references:
   - "Urban IA, Nagursky H, Lozada JL. Horizontal alveolar ridge augmentation with block bone grafts obtained from the mandibular body: A clinical and histomorphometric study. Clin Oral Implants Res. 2011;22(2):199-209."
   - "Sàndor GK, Kainulainen VT, Tuovinen VJ, et al. Healing of mandibular bone defects with an in situ formed bioactive synthetic bone. Clin Oral Implants Res. 2003;14(5):567-577."
   - "Wiltfang J, Merten HA, Schlegel KA, et al. Comparison of guided bone regeneration in combination with bone grafts and/or resorbable membranes to ungrafted defects in rats. Int J Oral Maxillofac Surg. 2003;32(2):183-191."
+last_reviewed: 2026-07-01
 ---
 If you're missing teeth or have jawbone loss, bone grafting rebuilds the bone before implant placement or repairs damage from [Gum Disease](/article/periodontal-disease-and-tooth-loss-prevention.html). Here's what the procedure costs and how material choice affects your total expense. Understanding [Surgical Complexity and Costs](/article/cost-of-surgical-technique-overview.html) helps you plan your treatment.
 

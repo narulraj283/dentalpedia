@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/19606146
   - title: "Resin-bonded ceramic restorations: laboratory and clinical considerations"
     url: https://www.ncbi.nlm.nih.gov/pubmed/19889949
+last_reviewed: 2026-07-01
 ---
 You have many options to improve your smile. Whether you want a simple whitening or a complete makeover, there's a treatment that fits your goals and budget. Understanding what each option can do will help you and your dentist choose the best path forward. Learning more about [veneer durability: how long do veneers last?](/article/how-to-veneer-durability-facts.html) can help you understand this better.
 

@@ -19,7 +19,7 @@ references:
   - "Butz F, et al. Long-term biofilm formation and material degradation on denture base materials. J Dent. 2021;104:103530."
   - "Uneri C, et al. The effects of ultrasonic cleaning and denture cleansers on acrylic denture base materials. J Oral Sci. 2022;64(1):42-47."
   - "Beuran MR, et al. Candida albicans biofilm formation on acrylic dentures under various soaking conditions. Clin Oral Investig. 2021;25(5):3421-3430."
-last_reviewed: 2026-04-01
+last_reviewed: 2026-07-01
 ---
 ## Introduction
 

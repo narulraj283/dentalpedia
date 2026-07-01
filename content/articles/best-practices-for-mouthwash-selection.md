@@ -21,6 +21,7 @@ references:
   - "Stoeken GC, et al. Periodontitis and Cardiovascular Disease: Mechanisms. Periodontol 2000. 2007;40(1):45-54."
   - "Umscheid CA, et al. Estimating the proportion of healthcare-associated infections that are reasonably preventable and the related mortality and costs. Infect Control Hosp Epidemiol. 2011;32(2):101-114."
   - "Ohrn K, et al. The effect of a new mouthwash on dental plaque and gingivitis. J Clin Periodontol. 2015;42(3):223-230."
+last_reviewed: 2026-07-01
 ---
 ## What Makes a Mouthwash a Real Medicine vs. Just for Taste
 

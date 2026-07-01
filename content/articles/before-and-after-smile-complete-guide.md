@@ -21,6 +21,7 @@ references:
   - "Goldstein RE, et al. Esthetics in Dentistry. 2nd ed. Hamilton, Ontario: BC Decker Inc; 1998."
   - "Fradeani M. Esthetic Rehabilitation in Fixed Prosthodontics, Vol. 1: Esthetic Analysis: A Systematic Approach to Prosthetic Treatment of the Anterior Dentition. Chicago: Quintessence Publishing; 2004."
   - "Hwang HS, et al. Relationship between maxillary incisor position and smile aesthetics in Korean young adults. Angle Orthod. 2003;73(5):471-477."
+last_reviewed: 2026-07-01
 ---
 ## How Your Face Shape Affects Your Ideal Smile
 

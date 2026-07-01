@@ -19,6 +19,7 @@ references:
   - "Vanarsdall RL Jr. Dentoalveolar orthopedics and the treatment of transverse maxillary deficiency. In: Dentofacial Orthopedics and Functional Appliances. 2nd ed. Mosby; 2005."
   - "Remmelink HJ, van Alphen FA, Petocz P. Cervical vertebral maturation stage and dental maturity. Aust Orthod J. 2004;20(1):29-38."
   - "Davis LM, Pavoni C, Friction JR. Current knowledge regarding craniomandibular disorders: A review of the literature. Cranio. 2008;26(4):323-333."
+last_reviewed: 2026-07-01
 ---
 ## When Should Your Child See an Orthodontist?
 

@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/28658980
   - title: "Pulpal health assessment and treatment in traumatized anterior teeth"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26890660
+last_reviewed: 2026-07-01
 ---
 Chipped or fractured teeth can be repaired cosmetically depending on how much damage there is. Minor chips are easy fixes. Larger fractures or those exposing the nerve require more complex treatment. Getting treatment quickly gives better results.
 

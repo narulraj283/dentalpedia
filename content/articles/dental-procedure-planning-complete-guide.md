@@ -19,6 +19,7 @@ references:
   - "Kopperud SE, et al. Evidence-Based Treatment Planning in General Dentistry. J Am Dent Assoc. 2023;154(3):198-206."
   - "Manappallil JJ. Clinical Operative Dentistry. 4th ed. New Delhi: Elsevier; 2022."
   - "Glick M, et al. The New American Dental Association Oral Health-Related Quality of Life Instrument. J Am Dent Assoc. 2023;154(2):78-88."
+last_reviewed: 2026-07-01
 ---
 ## Why Treatment Planning Matters
 

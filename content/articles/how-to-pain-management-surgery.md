@@ -27,6 +27,7 @@ references:
     url: "https://www.ncbi.nlm.nih.gov/pubmed/27037893"
   - title: "Prevention and Management of Alveolar Osteitis and Dry Socket"
     url: "https://www.ncbi.nlm.nih.gov/pubmed/28470226"
+last_reviewed: 2026-07-01
 ---
 Your surgical dentist doesn't want you to be in pain after your procedure. Modern pain management combines several strategies: making sure you're completely numb during surgery, giving you the right medications afterward, and teaching you techniques that reduce pain naturally. The goal is to keep you comfortable without relying heavily on opioids, which carry risks. Learning more about [Your Tooth Extraction Recovery Timeline](/article/how-to-oral-surgery-recovery-timeline.html) can help you understand this better.
 

@@ -22,6 +22,7 @@ slug: how-to-gum-disease-stages
 subcategory: Disease Management
 subcategory_slug: disease-management
 title: Understanding the Stages of Gum Disease
+last_reviewed: 2026-07-01
 ---
 Gum disease doesn't appear overnight. It progresses through stages, starting with mild inflammation and potentially advancing to severe disease that threatens your teeth. Recognizing early stages helps you get treatment before serious bone loss occurs.
 

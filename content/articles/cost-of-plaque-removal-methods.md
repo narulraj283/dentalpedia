@@ -21,6 +21,7 @@ references:
   - "Sanz M, Beighton D, Curtis MA, et al. Role of microbial biofilms in the maintenance of oral health and in the development of dental caries and periodontal diseases. Consensus report of group 1 of the Joint EFP/ORCA Workshop on the boundaries between caries and periodontal disease. J Clin Periodontol. 2017;44(Suppl 18):S5-S11."
   - "Lindhe J, Ranva M. Textbook of Clinical Periodontology and Implant Dentistry. 5th ed. Blackwell Munksgaard; 2008."
   - "Polydorou O, Müllers M, Wolff D, Kouslis T, Kühn M. Optical properties of various tooth-colored restorative materials: Spectrophotometric and visual evaluation. Dent Mater. 2007;23(8):914-922."
+last_reviewed: 2026-07-01
 ---
 ## Why Professional Plaque Removal Matters
 

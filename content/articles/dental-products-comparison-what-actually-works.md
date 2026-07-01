@@ -19,6 +19,7 @@ references:
   - "Christou V, et al. Efficacy of Interdental Cleaning Devices. J Periodontol. 2022;93(2):234-245."
   - "Figuero EA, et al. Efficacy of Antimicrobial Agents in the Management of Gingivitis and Periodontitis. J Clin Periodontol. 2023;50(S1):208-228."
   - "Riley P, et al. Oral Health-Related Quality of Life and Dental Product Use. Community Dent Oral Epidemiol. 2023;51(1):67-78."
+last_reviewed: 2026-07-01
 ---
 ## What's Worth Your Money in Toothpaste?
 

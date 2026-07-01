@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/27123456
   - title: "Pigmentation Rebound and Long-term Stability: Follow-up of Laser Lip Depigmentation"
     url: https://www.ncbi.nlm.nih.gov/pubmed/28234567
+last_reviewed: 2026-07-01
 ---
 ## Why Your Lips May Be Darker Than You'd Like
 

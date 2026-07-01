@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/31056298
   - title: "Long-term Stability of Vertical Dimension Changes Achieved with Elastic Mechanics"
     url: https://pubmed.ncbi.nlm.nih.gov/22710191
+last_reviewed: 2026-07-01
 ---
 ## What Are Vertical Elastics?
 

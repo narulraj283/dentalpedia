@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/23658477
   - title: "Magnesium Supplementation and Bone Remodeling Markers in Postmenopausal Women"
     url: https://www.ncbi.nlm.nih.gov/pubmed/17435219
+last_reviewed: 2026-07-01
 ---
 You've probably heard plenty about calcium and vitamin D for strong bones and teeth, but there's another mineral that deserves just as much attention: magnesium. This often-overlooked nutrient plays a starring role in keeping your teeth healthy and your bones strong throughout your life. In fact, research shows that people who don't get enough magnesium face significantly higher risks of gum disease and tooth loss—even if they're getting plenty of calcium. Let's explore why magnesium matters so much for your smile and how to make sure you're getting enough.
 

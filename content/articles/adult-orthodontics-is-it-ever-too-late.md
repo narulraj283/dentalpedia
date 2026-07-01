@@ -21,6 +21,7 @@ references:
   - "Smith RJ, et al. Orthodontia for the senior citizen. Journal of the American Dental Association. 1988;116(3):328-335."
   - "Weltman B, et al. Root resorption associated with orthodontic tooth movement: does the payment plan matter? American Journal of Orthodontics and Dentofacial Orthopedics. 2010;137(1):8-25."
   - "Ormiston JP, et al. Periodontal considerations in orthodontia for the adult. Periodontology 2000. 2011;57(1):79-89."
+last_reviewed: 2026-07-01
 ---
 ## The Short Answer: No, It's Never Too Late
 

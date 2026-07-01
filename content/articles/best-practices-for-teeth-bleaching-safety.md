@@ -19,7 +19,7 @@ references:
   - "Ritter AV, et al. Tooth whitening: a systematic review of the efficacy and safety. J Esthet Restor Dent. 2010;22(4):255-272."
   - "Tredwin CJ, et al. Hydrogen peroxide tooth whitening (bleaching) products: Review of adverse effects and safety issues. Br Dent J. 2006;200(7):371-376."
   - "Joiner A, et al. Whitening toothpastes: A review of the literature. J Dent. 2008;36(Supplement 1):S48-S54."
-last_reviewed: 2026-06-01
+last_reviewed: 2026-07-01
 ---
 ## Why Teeth Change Color Over Time
 

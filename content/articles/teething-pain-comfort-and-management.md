@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/12950849
   - title: "American Academy of Pediatric Dentistry. Clinical Practice Guidelines for Examination, Prevention, and Management of Dental Caries in Children. Pediatr Dent. 2023;45(6):E23-E47."
     url: https://pubmed.ncbi.nlm.nih.gov/37556850
+last_reviewed: 2026-07-01
 ---
 ## Introduction
 

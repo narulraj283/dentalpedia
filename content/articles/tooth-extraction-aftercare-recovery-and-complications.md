@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/1559863
   - title: "Slade GD, Ghezzi EM, Heiss G, Beck JD. Relationship between periodontal disease and C-reactive protein among adults in the Atherosclerosis Risk in Communities study. Arch Intern Med. 2003;163(10):1172-1179."
     url: https://pubmed.ncbi.nlm.nih.gov/12767954
+last_reviewed: 2026-07-01
 ---
 ## What Happens Right After Extraction
 

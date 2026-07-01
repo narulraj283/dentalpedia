@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/29654321
   - title: "Gingival Recession: Etiology, Prevention, and Corrective Procedures"
     url: https://pubmed.ncbi.nlm.nih.gov/30987654
+last_reviewed: 2026-07-01
 ---
 When you think of smile makeovers, you probably picture whiter teeth or straighter teeth. But expert smile designers know a crucial secret: the gum tissue surrounding your teeth is just as important to smile beauty as the teeth themselves. The shape, position, and contour of your gums at its core affect overall smile esthetics. Many people with beautiful teeth don't achieve their ideal smile because their gum tissue doesn't optimally frame those teeth. Understanding gingival (gum) esthetics and how cosmetic gum shaping can enhance your smile opens new possibilities for smile improvement you might never have considered.
 

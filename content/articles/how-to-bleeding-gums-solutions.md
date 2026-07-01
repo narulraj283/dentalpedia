@@ -29,6 +29,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/28234567
   - title: "Automated Toothbrush vs Manual Toothbrush Efficacy in Plaque Removal and Bleeding Reduction"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27654321
+last_reviewed: 2026-07-01
 ---
 Bleeding gums when you brush or floss can be alarming, but you're definitely not alone. About half of all people experience gum bleeding at some point, making it the most common reason people visit their dentist. The good news: bleeding gums are usually reversible and within your control.
 

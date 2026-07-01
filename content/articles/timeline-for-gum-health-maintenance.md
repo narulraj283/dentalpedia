@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/14121956
   - title: "Zitzmann NU, Berglundh T. Definition and prevalence of peri-implant diseases. J Clin Periodontol. 2008;35(S8):286-291."
     url: https://pubmed.ncbi.nlm.nih.gov/18724857
+last_reviewed: 2026-07-01
 ---
 ## After Treatment: Why Ongoing Care Matters
 

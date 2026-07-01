@@ -13,6 +13,7 @@ reviewed: true
 references:
   - "Brånemark PI, Zarb GA, Albrektsson T. Tissue-integrated prostheses: osseointegration in clinical dentistry. Quintessence Publishing. 1985."
   - "Creugers NH, Käyser AF, van't Hof MA. A seven and a half-year follow-up study on resin-bonded bridges. J Dent Res. 1992;71(11):1822-1825."
+last_reviewed: 2026-07-01
 ---
 ## Why You're Facing This Choice
 

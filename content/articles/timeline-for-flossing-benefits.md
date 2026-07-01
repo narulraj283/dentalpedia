@@ -42,6 +42,7 @@ slug: timeline-for-flossing-benefits
 subcategory: Brushing, Flossing & Hygiene
 subcategory_slug: brushing-flossing
 title: The Timeline and Evidence for Flossing Benefits
+last_reviewed: 2026-07-01
 ---
 ## Introduction
 

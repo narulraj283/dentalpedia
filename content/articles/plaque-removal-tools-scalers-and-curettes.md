@@ -38,6 +38,7 @@ slug: plaque-removal-tools-scalers-and-curettes
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Plaque Removal Tools Scalers and Curettes
+last_reviewed: 2026-07-01
 ---
 ## Understanding Professional Plaque Removal
 

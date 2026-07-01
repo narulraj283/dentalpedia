@@ -30,6 +30,7 @@ slug: posterior-composite-vs-amalgam-cosmetic-advantages
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Posterior Composite vs Amalgam Cosmetic Advantages
+last_reviewed: 2026-07-01
 ---
 ## Composite Versus Amalgam: The Material Revolution
 

@@ -17,6 +17,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/28883831
   - title: "Post-surgery pain management and complications"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26439738
+last_reviewed: 2026-07-01
 ---
 Intrusive injuries occur when blunt force drives your tooth into its bone socket. The tooth appears shorter, your bite feels wrong, and you might have significant pain and swelling. This is a dental emergency requiring immediate professional care because the blood vessels and nerve inside your tooth are damaged, and infection risk is high.
 

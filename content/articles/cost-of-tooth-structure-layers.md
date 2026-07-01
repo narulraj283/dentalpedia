@@ -21,6 +21,7 @@ references:
   - "Pashley DH, Carvalho RM. Dentine permeability and dentine adhesion. J Dent. 1997;25(5):355-372."
   - "Marshall SJ, Bayne SC, Baier R, Tomsia AP, Marshall GW. A review of adhesion to tooth structure. J Dent Res. 2010;89(4):352-365."
   - "Roberson TM, Heymann HO, Swift EJ. Sturdevant's Art and Science of Operative Dentistry. 5th ed. Mosby; 2006."
+last_reviewed: 2026-07-01
 ---
 ## The Three Layers of Your Tooth
 

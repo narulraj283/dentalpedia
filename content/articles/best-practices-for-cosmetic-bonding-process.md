@@ -19,6 +19,7 @@ references:
   - "Manhart J, Chen HY, Hamm G, Hickel R. Buonocore Memorial Lecture. Review of the clinical survival of direct and indirect restorations in posterior teeth. Oper Dent. 2004;29(5):481-508."
   - "De Munck J, Van Landuyt K, Peumans M, Poitevin A, Lambrechts P, Braem M, Van Meerbeek B. A critical review of the durability of adhesive restorations. J Dent Res. 2005;84(2):118-132."
   - "Mitra SB, Keener JF, Park SH. Mechanical properties and setting reactions of newer composite restorations. J Prosthet Dent. 2003;89(2):187-197."
+last_reviewed: 2026-07-01
 ---
 Cosmetic bonding is the fastest, cheapest way to fix small tooth problems. A chip in your front tooth? Bonding fixes it in one appointment. Gap between your teeth? Bonding closes it.
 

@@ -10,6 +10,7 @@ reviewer_specialty: Orthodontics
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 reviewed: true
+last_reviewed: 2026-07-01
 ---
 When your braces come off, your orthodontist will give you retainers—devices that hold your teeth in their new positions. You'll likely wear retainers for years, possibly for life. It's important to understand your options, how to care for them, and why long-term wear matters. This guide walks you through everything about retainers.
 

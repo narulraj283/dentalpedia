@@ -13,6 +13,7 @@ reviewed: true
 references:
   - "Zachrisson BU. Enamel damage during orthodontic treatment—pathognomonic or iatrogenic? Semin Orthod. 2013;19(4):259-269."
   - "Karan S, Kircelli BH, Tasdelen B. Enamel surface roughness after debonding: comparison of two debonding methods. Angle Orthod. 2010;80(1):73-78."
+last_reviewed: 2026-07-01
 ---
 ## What Happens When Your Braces Come Off
 

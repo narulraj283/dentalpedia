@@ -19,6 +19,7 @@ references:
   - "Tredwin CJ, et al. Abrasivity of currently available whitening toothpastes relative to the Revised RDA and REA standards. J Clin Dent. 2006;17(3):59-63."
   - "Walsh TF, et al. The effect of an alcohol-free chlorhexidine rinse on the plaque flora. J Clin Periodontol. 1992;19(6):403-408."
   - "Yaacob HI, et al. pH-raising effects of sodium bicarbonate on acidic oral environment. Aust Dent J. 1996;41(6):365-371."
+last_reviewed: 2026-07-01
 ---
 ## How Baking Soda Works
 

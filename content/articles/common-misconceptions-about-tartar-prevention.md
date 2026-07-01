@@ -31,6 +31,7 @@ slug: common-misconceptions-about-tartar-prevention
 subcategory: Preventive Overview
 subcategory_slug: overview-prevent
 title: 'Tartar Control and Calculus Prevention: Mechanisms'
+last_reviewed: 2026-07-01
 ---
 You brush and floss faithfully, but tartar still builds up on your teeth. Meanwhile, your neighbor with perfect teeth never seems to get tartar, even with less-than-perfect hygiene. There's actually science behind this frustrating difference, and it's more about your saliva than your toothbrush.
 

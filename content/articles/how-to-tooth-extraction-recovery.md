@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/30968485
   - title: "Nutritional considerations during oral surgical wound healing"
     url: https://www.ncbi.nlm.nih.gov/pubmed/28349827
+last_reviewed: 2026-07-01
 ---
 ## The First 24 Hours: Bleeding and Clot Formation
 

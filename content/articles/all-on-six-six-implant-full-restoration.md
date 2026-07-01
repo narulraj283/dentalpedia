@@ -19,6 +19,7 @@ references:
   - "Sadowsky SJ, et al. Fourteen-year follow-up of fixed implant-supported prostheses. International Journal of Prosthodontics. 2013;26(2):159-167."
   - "Thoma DS, et al. Does excess cement on implant-supported restorations cause a biomechanical overload? Periodontology 2000. 2018;76(1):189-200."
   - "Nissan J, et al. Bone resorption around dental implants supporting a fixed or removable prosthesis: a 3-year follow-up clinical study. International Journal of Oral and Maxillofacial Implants. 2011;26(2):294-300."
+last_reviewed: 2026-07-01
 ---
 All-on-Six is like All-on-Four's bigger, stronger sibling. Instead of using four implants to support your full mouth of teeth, All-on-Six uses six. This might not sound like a huge difference, but it makes a meaningful impact on longevity and how well your teeth hold up over time. All-on-Six is especially good for younger patients, people who chew very hard, and anyone who wants their teeth to last as long as possible with minimal complications.
 

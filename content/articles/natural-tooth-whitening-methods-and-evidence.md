@@ -31,6 +31,7 @@ slug: natural-tooth-whitening-methods-and-evidence
 subcategory: Preventive Overview
 subcategory_slug: overview-preventive
 title: Evidence-Based Natural Tooth Whitening Methods
+last_reviewed: 2026-07-01
 ---
 Oil pulling, activated charcoal, baking soda, strawberries—you've heard these "natural" whitening methods work wonders. But what does the actual science say? Here's the truth about what natural approaches really do (and don't), and when expert whitening is actually worth the investment.
 

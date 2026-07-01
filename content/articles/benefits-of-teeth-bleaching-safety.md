@@ -21,6 +21,7 @@ references:
   - "Basting RT, Amaral FLBD. Clinical Effectiveness and Tooth Sensitivity of Bleaching Gels. Journal of Esthetic and Restorative Dentistry. 2015;27(3):156-165."
   - "Sulieman M, Addy M. Enamel Microabrasion and Dental Bleaching: Preclinical and Clinical Data. Operative Dentistry. 2007;32(2):157-165."
   - "Duarte S, Kohn DH. Bleaching Effects on Enamel Surface Properties. Journal of Dental Research. 2004;83(8):644-648."
+last_reviewed: 2026-07-01
 ---
 ## Is Teeth Whitening Safe?
 

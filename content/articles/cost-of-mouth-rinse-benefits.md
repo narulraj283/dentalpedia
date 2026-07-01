@@ -19,6 +19,7 @@ references:
   - "Jain N, Jain S, Jain P, et al. Efficacy of chlorhexidine and iodine against planktonic cells and biofilm of Aggregatibacter actinomycetemcomitans. J Contemp Dent Pract. 2015;16(11):871-877."
   - "Reid JS. Oral rinses in the prevention and treatment of periodontal disease. Periodontol 2000. 2012;60(1):102-112."
   - "Herrera D, Roldan S, Sanz M. The periodontal abscess: a review. J Clin Periodontol. 2000;27(6):377-386."
+last_reviewed: 2026-07-01
 ---
 ## Is Mouthwash Worth the Money?
 

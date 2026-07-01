@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/25123456
   - title: "Early interceptive treatment savings compared to comprehensive adult treatment"
     url: https://www.ncbi.nlm.nih.gov/pubmed/18234567
+last_reviewed: 2026-07-01
 ---
 ## How Much Does Braces Actually Cost?
 

@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/28559839
   - title: "Graber TM, Vanarsdall RL. Orthodontics: current principles and techniques. 5th ed. Elsevier; 2016."
     url: https://pubmed.ncbi.nlm.nih.gov/
+last_reviewed: 2026-07-01
 ---
 ## Foods to Avoid and Enjoy With Braces: A Complete Eating Guide
 

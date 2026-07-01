@@ -27,6 +27,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/27647033/"
   - title: "Patient Satisfaction and Esthetic Outcomes: Extraction versus Non-Extraction Decisions"
     url: "https://pubmed.ncbi.nlm.nih.gov/26505920/"
+last_reviewed: 2026-07-01
 ---
 When you're facing orthodontic treatment, one of the most important decisions your orthodontist will make is whether to extract any teeth to create space for straightening. This isn't a simple yes or no question—it requires careful check of your specific situation. Understanding how your orthodontist makes this decision helps you feel confident about your treatment plan and what to expect during your journey to a straighter smile.
 

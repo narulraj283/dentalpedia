@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/16915250
   - title: "Chiche GJ, Pinault A. Esthetic Dentistry: Biological and Clinical Considerations. St. Louis: Mosby; 1994."
     url: https://pubmed.ncbi.nlm.nih.gov/7715260
+last_reviewed: 2026-07-01
 ---
 ## Understanding Smile Design Principles
 

@@ -31,6 +31,7 @@ slug: benefits-of-teeth-relapse-prevention
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Preventing Orthodontic Relapse - Retention Protocols
+last_reviewed: 2026-07-01
 ---
 ## Keeping Your Braces Results: How to Prevent Your Teeth from Moving Back
 

@@ -21,7 +21,7 @@ references:
   - "Erdinc AM, et al. Perception of pain and discomfort following first and second appointments. Aust Dent J. 2007;52(3):222-227."
   - "Cobourne MT, et al. Pain and discomfort in contemporary orthodontics. Br Dent J. 2015;219(6):273-278."
   - "Lim HM, et al. Perception of pain and discomfort from initial aligner therapy. Angle Orthod. 2008;78(2):228-233."
-last_reviewed: 2026-04-01
+last_reviewed: 2026-07-01
 ---
 Most people who get braces experience some discomfort, particularly in the first few days after bracket placement and after each adjustment appointment. The good news? This discomfort is predictable, temporary, and highly manageable with the right strategies. Understanding what causes it and how to manage it helps you stay comfortable throughout your treatment.
 

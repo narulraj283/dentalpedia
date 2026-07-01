@@ -21,6 +21,7 @@ references:
   - "Selwitz RH, Ismail AI, Pitts NB. Dental caries. Lancet. 2007;369(9555):51-59."
   - "Naito T, Suzuki H, Okayasu I, et al. Evaluation of lifetime disease burden and cost-effectiveness of dental caries prevention in Japanese population. Community Dent Oral Epidemiol. 2012;40(3):249-258."
   - "Spolarich AE, Machu MA. Dental hygiene services for patients with diabetes. Access. 2010;24(2):28-34."
+last_reviewed: 2026-07-01
 ---
 ## Why "Every Six Months" Isn't the Whole Story
 

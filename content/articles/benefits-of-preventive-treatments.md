@@ -19,6 +19,7 @@ references:
   - Marinho VC, et al. Fluoride toothpastes for preventing dental caries in children and adolescents. Cochrane Database Syst Rev. 2003;1:CD002278.
   - Lysyk T, et al. CPP-ACP (calcium phosphate derivative) for caries prevention: systematic review and meta-analysis. J Dent Res. 2020;99(3):261-271.
   - Pretty IA, et al. CAMBRA: consensus on caries-risk assessment and management in dental practice. Br Dent J. 2016;220(3):119-123.
+last_reviewed: 2026-07-01
 ---
 ## Why Prevention Beats Treatment Every Time
 

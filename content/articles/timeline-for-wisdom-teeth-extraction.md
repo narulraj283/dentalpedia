@@ -23,6 +23,7 @@ slug: timeline-for-wisdom-teeth-extraction
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: 'Wisdom Teeth Removal: Why It''s Done, When to Extract'
+last_reviewed: 2026-07-01
 ---
 ## Introduction
 

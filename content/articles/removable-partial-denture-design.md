@@ -20,7 +20,7 @@ slug: removable-partial-denture-design
 subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
 title: How Your Partial Denture Is Designed to Fit Your Mouth
-last_reviewed: 2026-06-01
+last_reviewed: 2026-07-01
 ---
 ## How Dentists Categorize Your Missing Teeth
 

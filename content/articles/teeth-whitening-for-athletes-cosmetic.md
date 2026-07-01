@@ -45,6 +45,7 @@ slug: teeth-whitening-for-athletes-cosmetic
 subcategory: Sports Dentistry Overview
 subcategory_slug: overview-sports
 title: 'Teeth Whitening for Athletes: Managing Discoloration'
+last_reviewed: 2026-07-01
 ---
 Athletes' teeth stain faster than most people's because of sports drinks, dehydration, and the acidity of their training environment. You can safely whiten your teeth, but timing matters—and you need to understand how to protect your results and manage post-whitening sensitivity.
 

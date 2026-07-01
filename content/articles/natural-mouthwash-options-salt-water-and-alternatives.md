@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/32456687
   - title: "Palombo EA. Phytochemistry of genus Eucalyptus: antiproliferative, antimicrobial and antifungal activities. Phytotherapy Res. 2011;25(7):953-967."
     url: https://pubmed.ncbi.nlm.nih.gov/21108461
+last_reviewed: 2026-07-01
 ---
 If you're looking for a gentle way to support your mouth health, natural mouthwash options offer alternatives to commercial products. From simple salt water to herbal formulations, these rinses can help manage minor mouth issues and keep your gums healthy. But which ones actually work?
 

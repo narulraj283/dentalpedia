@@ -27,6 +27,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/22023041/"
   - title: "GBR Outcomes in Atrophic Ridges"
     url: "https://pubmed.ncbi.nlm.nih.gov/21284580/"
+last_reviewed: 2026-07-01
 ---
 ## Why Your Body Doesn't Naturally Regrow Bone
 

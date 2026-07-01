@@ -19,6 +19,7 @@ references:
   - "Kaur P, et al. Comparative efficacy of tongue cleaning techniques for VSC reduction. J Clin Dent. 2018;29(2):41-47."
   - "Slade GD, et al. Halitosis correlations with inflammatory markers. Oral Dis. 2003;9(3):135-141."
   - "Kleinberg I, et al. Oral malodor. In: Textbook of Clinical Oral Biology. 3rd ed. Quintessence; 2014."
+last_reviewed: 2026-07-01
 ---
 ## Three Different Bad Breath Problems: Critical Distinction for Treatment
 

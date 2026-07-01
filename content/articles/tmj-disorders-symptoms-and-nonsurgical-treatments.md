@@ -31,6 +31,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/19630100/"
   - title: "Systemic approaches to chronic orofacial pain management"
     url: "https://pubmed.ncbi.nlm.nih.gov/15652893/"
+last_reviewed: 2026-07-01
 ---
 ## Jaw Pain That Won't Go Away? It's Likely TMJ — And There Are Solutions
 

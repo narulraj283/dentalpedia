@@ -19,6 +19,7 @@ references:
   - "Steinnes M, Storhaug K, Overland L, Vandevska-Radunovic V. Periodontal condition of maxillary permanent first molars and incisors following experimental tooth movement. Am J Orthod Dentofacial Orthop. 2007;131(1):e1-e6."
   - "Chen J, Markowitz K, Finegold D. Root resorption: A review of etiology, pathogenesis, prevention and treatment. Gen Dent. 2009;57(1):52-58."
   - "Weltman B, Vig KW, Fields HW, Shanker S, Kaizar EE. Root resorption associated with orthodontic tooth movement: A systematic review. Am J Orthod Dentofacial Orthop. 2010;137(4):462-476."
+last_reviewed: 2026-07-01
 ---
 ## How Teeth Actually Move During Braces Treatment
 

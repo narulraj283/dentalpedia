@@ -19,6 +19,7 @@ references:
   - "Joffe L. Current products and practices: aligner therapy. J Dent. 2003;31(8):619-624."
   - "Gu J, et al. Efficacy of clear aligners in treating anterior open bite. Angle Orthod. 2021;91(1):44-50."
   - "Castroflorio T, et al. Clear aligner performance in controlling various vertical dimensions of overbite: a systematic review. Am J Orthod Dentofacial Orthop. 2017;151(3):440-454."
+last_reviewed: 2026-07-01
 ---
 ## Why Your Aligner Wear Schedule Matters So Much
 

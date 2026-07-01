@@ -31,6 +31,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/34567908"
   - title: "Periodontal Screening and Root Scaling in Early Disease Management"
     url: "https://pubmed.ncbi.nlm.nih.gov/34567909"
+last_reviewed: 2026-07-01
 ---
 Prevention is more powerful than treatment. Preventive treatments reduce cavities by 80% and stop gum disease in 60-75% of at-risk patients. Prevention is personalized. Your dentist assesses your risk and recommends treatments tailored to you.
 

@@ -20,6 +20,7 @@ slug: oral-thrush-and-fungal-infections-causes-and-treatment
 subcategory: Oral Infections
 subcategory_slug: oral-infections
 title: 'Oral Thrush and Fungal Infections: Causes and Care'
+last_reviewed: 2026-07-01
 ---
 ## What Is Oral Thrush?
 

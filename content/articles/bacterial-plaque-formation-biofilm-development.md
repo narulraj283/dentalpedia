@@ -20,6 +20,7 @@ references:
   - "Newman HN, et al. How much of the clinical content of periodontics is evidence-based? J Dent Res. 1998;77(1):20-25."
   - "Slots J, et al. Periodontal microbial ecology. Periodontol 2000. 2004;38:107-119."
   - "Paster BJ, et al. The Oral Microbiome Project. J Dent Res. 2006;85(2):135-143."
+last_reviewed: 2026-07-01
 ---
 ## Plaque Is Actually a Structured Community, Not Random Bacteria
 

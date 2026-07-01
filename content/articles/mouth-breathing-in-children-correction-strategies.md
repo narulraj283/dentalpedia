@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/23194258
   - title: "Growth and craniofacial development following elimination of mouth breathing: A prospective cohort"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27029816
+last_reviewed: 2026-07-01
 ---
 If your child breathes through their mouth, you can prevent serious bite problems now. Mouth breathing in children is common and very treatable. Success means coordinating medical treatment of blockages with behavior retraining and sometimes braces, but it's worth it: your child establishes lifelong nasal breathing and prevents bite problems.
 

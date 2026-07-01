@@ -21,6 +21,7 @@ references:
   - "Ronderos M, Jacobs DR, Himes JH, Pihlstrom BL. Association of periodontal disease on cardiovascular biomarkers. J Periodontol. 2010;81(6):883-891."
   - "Socransky SS, Haffajee AD. Periodontal microbial ecology. Periodontol 2000. 2005;38:135-187."
   - "Graves DT, Cochran D. The contribution of T lymphocytes to periodontal protective immunity. Periodontol 2000. 2003;31:55-69."
+last_reviewed: 2026-07-01
 ---
 ## Why the Spaces Between Your Teeth Matter
 

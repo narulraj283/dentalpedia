@@ -32,6 +32,7 @@ slug: apical-periodontitis-bone-loss-around-root-tip
 subcategory: Periapical Pathology
 subcategory_slug: periapical-pathology
 title: 'Apical Periodontitis: Understanding Bone Loss'
+last_reviewed: 2026-07-01
 ---
 ## How Tooth Infection Destroys Bone
 

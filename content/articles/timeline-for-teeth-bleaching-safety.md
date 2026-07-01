@@ -29,7 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/27840392
   - title: "Hannig C, Attin T. Enamel Bleaching-Mechanisms and Resultant Properties. Clinics in Cosmetic and Investigational Dentistry. 2009;1:47-57."
     url: https://pubmed.ncbi.nlm.nih.gov/23674892
-last_reviewed: 2026-04-01
+last_reviewed: 2026-07-01
 ---
 ## Teeth Whitening Safety: What You Need to Know Before Bleaching
 

@@ -28,6 +28,7 @@ slug: iron-for-healthy-gums
 subcategory: Nutrition Overview
 subcategory_slug: overview-nutrition
 title: Iron for Healthy Gums
+last_reviewed: 2026-07-01
 ---
 ## Iron's Essential Roles in Gingival Tissue Health
 

@@ -21,6 +21,7 @@ references:
   - "Frandsen A. Mechanical oral hygiene. In: Löe H, editor. Dental Plaque. Edinburgh: Churchill Livingstone; 1986. p. 93-116."
   - "Jonasson ÅR, Sawair FA, Crompton TJ, Walsh T, Marinho VCC. Toothpastes containing essential oils or derivatives for controlling plaque and gingivitis. Cochrane Database Syst Rev. 2022;8:CD012918."
   - "Claydon MS. Current concepts in toothbrushing and interdental cleansing. Periodontol 2000. 2008;48:10-22."
+last_reviewed: 2026-07-01
 ---
 ## Understanding the Myths About Daily Teeth Cleaning
 

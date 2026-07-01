@@ -21,6 +21,7 @@ references:
   - "Resin cement selection and color management in veneers. Clinical Cosmetic and Investigational Dentistry. 2021;13:89-98."
   - "Veneer try-in and communication with laboratory. Seminars in Esthetic Dentistry. 2019;2(4):244-253."
   - "Veneer removal and retreatment considerations. Journal of Prosthetic Dentistry. 2020;124(2):156-162."
+last_reviewed: 2026-07-01
 ---
 Getting veneers involves several steps, and understanding what happens at each stage helps you know what to expect and why your dentist does things a certain way. Let's walk through the veneer process.
 

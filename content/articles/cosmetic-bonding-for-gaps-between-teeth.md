@@ -19,6 +19,7 @@ references:
   - "Kourkouta S, Dentsply-Caulk. Restoration of Diastemas and Severe Discolorations. Practical Restorative Dentistry. 2021;15:156-164."
   - "Dietschi D. Postoperative Sensitivity in Direct Posterior Composite Resin Restorations. American Journal of Dentistry. 2022;15(4):211-217."
   - "Swift EJ, Perdigão J. Bonding to Enamel and Dentin: A Brief History and State of the Art. Quintessence International. 2023;29(10):626-638."
+last_reviewed: 2026-07-01
 ---
 ## What Is Gap Bonding?
 

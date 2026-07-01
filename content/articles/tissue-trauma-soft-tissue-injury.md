@@ -43,6 +43,7 @@ slug: tissue-trauma-soft-tissue-injury
 subcategory: Emergency Overview
 subcategory_slug: overview-emergency
 title: 'Oral Soft Tissue Injuries: Emergency Management'
+last_reviewed: 2026-07-01
 ---
 ## Introduction
 

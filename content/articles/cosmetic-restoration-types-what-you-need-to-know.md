@@ -19,6 +19,7 @@ references:
   - "Guess PC, Selz CF. Successful long-term resin bonded fixed partial dentures. Quintessence Int. 2016;47(2):135-145."
   - "Kelly JR, Denry I. Stabilized zirconia as a structural ceramic: an overview. Dent Mater. 2018;24(3):289-298."
   - "Chaar MS, Piedade L, Santin GC, et al. Marginal and internal fit of cast and CAD/CAM crown copings: a systematic review. Clin Implant Dent Relat Res. 2019;21(1):11-27."
+last_reviewed: 2026-07-01
 ---
 ## Your Cosmetic Restoration Options
 

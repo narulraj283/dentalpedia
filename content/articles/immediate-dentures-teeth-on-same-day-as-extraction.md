@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/39234567
   - title: "Implant-supported versus conventional complete dentures"
     url: https://www.ncbi.nlm.nih.gov/pubmed/40345678
+last_reviewed: 2026-07-01
 ---
 ## Understanding Immediate Complete Dentures
 

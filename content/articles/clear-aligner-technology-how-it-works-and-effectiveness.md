@@ -21,6 +21,7 @@ references:
   - "Ke Y, Zhu Y, Zhu M. A comparison of treatment efficiency between clear aligner and fixed appliance therapies. Angle Orthod. 2019;89(3):452-458."
   - "Nedwed V, Lagravère MO. Precision, accuracy, and digital conversion of clear aligner fabrication for orthodontics. J Esthet Restor Dent. 2005;17(5):268-278."
   - "Mackey ER, Wood SA, Colquhoun H, Bedoya C, Fox NA. Aligner therapy: The new paradigm in orthodontics. Dent Update. 2014;41(4):336-342."
+last_reviewed: 2026-07-01
 ---
 ## How Clear Aligners Actually Work
 

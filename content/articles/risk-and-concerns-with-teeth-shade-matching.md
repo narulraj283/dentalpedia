@@ -7,7 +7,7 @@ excerpt: "Color matching for restorations is complex and imperfect. Learn why pe
 date: 2026-03-05
 read_time: 12 min
 reviewed: true
-last_reviewed: 2026-04-01
+last_reviewed: 2026-07-01
 ---
 ## Shade Matching in Dentistry: Why Perfect Color Match Is Impossible
 

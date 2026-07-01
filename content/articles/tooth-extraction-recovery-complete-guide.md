@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/19265851
   - title: "Rotstein I, Friedman S. Conservative retreatment of an overextended root canal filling using an ultrasonic technique. J Endod. 1997;23(6):385-386."
     url: https://pubmed.ncbi.nlm.nih.gov/9212758
+last_reviewed: 2026-07-01
 ---
 ## The Healing Timeline Overview
 

@@ -43,6 +43,7 @@ slug: risk-and-concerns-with-mouth-ulcer-care
 subcategory: Oral Health Conditions Overview
 subcategory_slug: overview-oral-conditions
 title: Risk and Concerns with Mouth Ulcer Care
+last_reviewed: 2026-07-01
 ---
 ## Understanding Mouth Ulcers: When to Worry and How to Treat Them
 

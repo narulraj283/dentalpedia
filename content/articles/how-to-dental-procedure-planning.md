@@ -29,6 +29,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/23406589
   - title: "Phased treatment approach: managing biological and financial constraints"
     url: https://www.ncbi.nlm.nih.gov/pubmed/16080520
+last_reviewed: 2026-07-01
 ---
 When your dentist says you need multiple procedures, you might wonder: why can't we just do everything at once? The answer is that good dental treatment planning follows a specific sequence, kind of like building a house. You can't install the roof before you have walls. Your dentist creates a roadmap for your dental health, and understanding this roadmap helps you stay motivated and realistic about what to expect.
 

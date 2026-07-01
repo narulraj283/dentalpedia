@@ -21,6 +21,7 @@ references:
   - "Meyer-Lueckel H, Wiechmann D. Calculus Formation Around Tooth-Colored Restorations. Operative Dentistry. 2006;31(6):661-668."
   - "Meunier FJ, Bartolds PM. Mineral Composition of Subgingival Calculus. Journal of Dental Research. 1991;70(4):809-814."
   - "Ciancio SG. Antimicrobial Approaches to Oral Disease Control. Journal of the American Dental Association. 2001;132(3):8-15."
+last_reviewed: 2026-07-01
 ---
 ## Tartar: Understanding the Problem
 

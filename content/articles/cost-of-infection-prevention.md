@@ -19,6 +19,7 @@ references:
   - "Spaulding EH. Chemical sterilization. Surg Clin North Am. 1968;48(3):695-710."
   - "American Dental Association. Infection prevention and control in the dental office: recommendations of the CDC. MMWR Recomm Rep. 2003;52(RR-17):1-61."
   - "Pallasch TJ. Global antibiotic resistance and its impact on oral health and our ability to treat oral infections. J Calif Dent Assoc. 2003;31(2):135-144."
+last_reviewed: 2026-07-01
 ---
 ## Understanding Infection Risk in Dental Treatment
 

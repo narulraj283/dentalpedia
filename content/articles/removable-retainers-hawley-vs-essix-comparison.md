@@ -21,6 +21,7 @@ slug: removable-retainers-hawley-vs-essix-comparison
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Removable Retainers Hawley vs Essix Comparison
+last_reviewed: 2026-07-01
 ---
 ## Why Your Teeth Want to Move Back: The Relapse Problem
 

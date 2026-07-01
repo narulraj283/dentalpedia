@@ -13,6 +13,7 @@ reviewed: true
 references:
   - "Topazian RG, Goldberg MH, Hupp JR. Oral and Maxillofacial Infections. 4th ed. New York: Oxford University Press; 2002."
   - "Siqueira JF, Rôças IN. Polymicrobial interactions in apical periodontitis. Endod Topics. 2006;13(1):33-46."
+last_reviewed: 2026-07-01
 ---
 ## What Is a Dental Abscess?
 

@@ -42,6 +42,7 @@ slug: teeth-movement-speed-what-you-need-to-know
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: How Fast Do Teeth Move? Patient Timeline Guide
+last_reviewed: 2026-07-01
 ---
 ## What to Expect: Realistic Treatment Timelines
 

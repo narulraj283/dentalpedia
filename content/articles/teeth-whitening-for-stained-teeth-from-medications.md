@@ -44,6 +44,7 @@ slug: teeth-whitening-for-stained-teeth-from-medications
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Teeth Whitening for Medication-Induced Staining
+last_reviewed: 2026-07-01
 ---
 ## Introduction
 

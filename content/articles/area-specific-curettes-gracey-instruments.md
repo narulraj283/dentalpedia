@@ -30,6 +30,7 @@ slug: area-specific-curettes-gracey-instruments
 subcategory: Clinical Instrumentation
 subcategory_slug: clinical-instrumentation
 title: 'Area-Specific Curettes: Gracey Instrument Design'
+last_reviewed: 2026-07-01
 ---
 When your hygienist cleans under your gums to remove buildup, they often use special tools called Gracey curettes. These instruments are different from regular scalers because each one is designed for a specific tooth area. Learning how they work helps you understand better what's happening during your deep cleaning and why your hygienist chooses particular instruments for different parts of your mouth.
 

@@ -28,7 +28,7 @@ slug: fluoride-gel-versus-fluoride-rinse-application-methods
 subcategory: Fluoride & Sealants
 subcategory_slug: fluoride-sealants
 title: 'Fluoride Gel Versus Fluoride Rinse: Application Methods'
-last_reviewed: 2026-06-01
+last_reviewed: 2026-07-01
 ---
 ## Fluoride Gels: Strong Concentration, Contained Application
 

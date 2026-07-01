@@ -19,6 +19,7 @@ references:
   - Aoba T. The effect of fluoride on apatite structure and its application to dental disease prevention. Critical Reviews in Oral Biology & Medicine. 1997;8(2):136-153.
   - Ten Cate JM. Review on fluoride, with special emphasis on calcium fluoride mechanisms in caries prevention. Archives of Oral Biology. 1999;44(12):1049-1055.
   - Cochrane NJ, et al. Quantifying fluoride concentration in plaque and enamel in relation to protection against caries. Journal of Dental Research. 2016;95(12):1357-1364.
+last_reviewed: 2026-07-01
 ---
 Fluoride seems controversial these days. Is it safe or toxic? Do we really need it? Is more fluoride always better? Let's look at what research actually shows about fluoride and cavity prevention.
 

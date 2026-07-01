@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/31697724
   - title: "Salivary Substitutes and Palliative Treatments for Xerostomia"
     url: https://www.ncbi.nlm.nih.gov/pubmed/24556879
+last_reviewed: 2026-07-01
 ---
 Most people think saliva is just there to keep their mouth from being dry, but it's actually working hard every second to protect your teeth and gums. Your saliva is packed with antimicrobial proteins, minerals, and buffers that fight cavity-causing bacteria, neutralize acids, and repair early tooth damage. Without adequate saliva, your cavity risk skyrockets and infections become common. If you've ever experienced dry mouth, you know how uncomfortable and concerning it can be. Understanding how important saliva is to your oral health—and what to do if your dry mouth strikes—is crucial for keeping your smile healthy.
 

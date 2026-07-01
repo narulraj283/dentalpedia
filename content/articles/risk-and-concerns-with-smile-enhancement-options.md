@@ -44,6 +44,7 @@ slug: risk-and-concerns-with-smile-enhancement-options
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Risk and Concerns with Smile Enhancement Options
+last_reviewed: 2026-07-01
 ---
 ## Your Smile Enhancement Options: Understanding the Risks
 

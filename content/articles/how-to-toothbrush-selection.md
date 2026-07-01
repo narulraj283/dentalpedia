@@ -31,7 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/33567890
   - title: "Ergonomic considerations in toothbrush design for dexterity limitations"
     url: https://www.ncbi.nlm.nih.gov/pubmed/34678901
-last_reviewed: 2026-06-01
+last_reviewed: 2026-07-01
 ---
 ## Manual vs. Electric: Which Works Better?
 

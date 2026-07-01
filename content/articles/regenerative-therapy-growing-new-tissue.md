@@ -31,7 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/18218839
   - title: "Cardaropoli G, Araújo M, Lindhe J. Dynamics of bone tissue formation in tooth extraction sites. An experimental study in dogs. Journal of Clinical Periodontology. 2003;30(9):809-818."
     url: https://pubmed.ncbi.nlm.nih.gov/12956657
-last_reviewed: 2026-05-01
+last_reviewed: 2026-07-01
 ---
 ## What Is Regenerative Therapy?
 

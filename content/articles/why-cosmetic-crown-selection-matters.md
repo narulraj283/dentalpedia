@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/30678234
   - title: "Long-Term Survival Rates of Full-Coverage Crowns: 15-Year Prospective Study"
     url: https://pubmed.ncbi.nlm.nih.gov/31245678
+last_reviewed: 2026-07-01
 ---
 When your dentist recommends a crown, you might think all crowns are essentially the same—a cap that fits over your tooth. The reality is far more complex. Crown materials vary dramatically in strength, esthetics, prep requirements, durability, and cost. Choosing the right material for your situation much influences treatment success, longevity, and your satisfaction. Understanding the options and how different materials match different clinical situations empowers you to make informed decisions about your smile repair.
 

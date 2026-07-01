@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/26823169
   - title: "Crown fit accuracy and cement interface characteristics in digital and conventional workflows"
     url: https://www.ncbi.nlm.nih.gov/pubmed/29126530
+last_reviewed: 2026-07-01
 ---
 A crown (or cap) covers a tooth to protect it, improve its appearance, or both. Choosing the right crown material depends on what problem you're solving, how much of your tooth can be removed safely, and how important appearance is. Modern crown materials range from traditional metal-and-porcelain to newer all-ceramic systems—each has pros and cons.
 

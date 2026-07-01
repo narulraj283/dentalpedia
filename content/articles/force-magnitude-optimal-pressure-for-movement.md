@@ -15,6 +15,7 @@ references:
   - "Proffit WR, Fields HW, Sarver DM. Contemporary Orthodontics. 6th ed. Mosby; 2019:234-289."
   - "Heron MI, Atkinson R, Williams MP, et al. Quantification of unloaded and loaded orthodontic archwire dimensions. J Dent. 1996;24(4):289-294."
   - "Opperman LA, Adler JL. Tissue response to movement of teeth. Am J Orthod. 1974;65(2):142-155."
+last_reviewed: 2026-07-01
 ---
 Here's something that might surprise you: when it comes to moving your teeth with braces, gentler is actually better. Your orthodontist isn't trying to move your teeth as fast as possible with maximum force. Instead, they're using the lightest possible pressure that still moves your teeth steadily forward. This might sound counterintuitive, but the science is clear—light, steady pressure gets better results faster than heavy force.
 

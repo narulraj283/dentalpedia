@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/23527699
   - title: "Enamel and dentin wear mechanisms under different bite force magnitudes"
     url: https://pubmed.ncbi.nlm.nih.gov/20937565
+last_reviewed: 2026-07-01
 ---
 ## Why Bite Force and Teeth Relationships Matter in Dental Planning
 

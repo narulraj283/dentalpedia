@@ -31,6 +31,7 @@ reviewed: true
 reviewer_specialty: Endodontics
 slug: nickel-titanium-rotary-instruments-endodontic-technology
 title: Nickel Titanium Rotary Instruments Endodontic Technology
+last_reviewed: 2026-07-01
 ---
 ## The Revolution in Root Canal Technology
 

@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/11202880
   - title: "Flores MT, Andersson L, Andreasen JO, et al. Guidelines for the management of traumatic dental injuries. II. Avulsion of permanent teeth. Dent Traumatol. 2007;23(3):130-136."
     url: https://pubmed.ncbi.nlm.nih.gov/17511831
+last_reviewed: 2026-07-01
 ---
 ## Understanding Mouth Injuries: What You Need to Know
 
