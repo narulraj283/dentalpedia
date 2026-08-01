@@ -21,6 +21,7 @@ references:
   - "Pussinen PJ, Könönen E, Paju S, et al. Periodontal bacteria and increased serum inflammatory markers. J Clin Periodontol. 2007;34(5):378-384."
   - "Petker A, Needleman I, Newlands R. The effect of powered toothbrushing on bleeding and plaque. J Periodontol. 2001;72(7):857-864."
   - "Addy M, Moran J. Mechanisms of stain formation on teeth. Int Dent J. 2002;52(S5):368-376."
+last_reviewed: 2026-08-01
 ---
 ## There's a Right Way and a Wrong Way to Brush
 

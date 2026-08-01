@@ -19,7 +19,7 @@ references:
   - "Raveendranath D, et al. Bleeding disorders in dental practice. Indian J Dent Res. 2016;27(3):283-294."
   - "Li YF, et al. Hemostasis in the oral cavity: mechanisms and control. J Investig Surg. 2017;30(2):93-100."
   - "Ahmed SN, et al. Management of anticoagulated patients in dental practice. J Can Dent Assoc. 2002;68(10):614-619."
-last_reviewed: 2026-07-01
+last_reviewed: 2026-08-01
 ---
 ## Controlling Bleeding After Dental Surgery
 

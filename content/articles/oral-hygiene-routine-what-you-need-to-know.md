@@ -15,6 +15,7 @@ references:
   - "Zimmer S, Stoltze K. Efficacy of Non-Surgical Periodontal Therapy with Mechanical or Antimicrobial Adjuncts. J Periodontol. 2004;75(2):212-220."
   - "O'Neill CA, Brock C, Blom TF, et al. Plaque Formation and Clearance from Natural Teeth. J Dent Res. 1975;54(5):898-905."
   - "Katz S, Parker WA. Gingival Recession. J Periodontol. 1979;50(3):142-149."
+last_reviewed: 2026-08-01
 ---
 ## Why Your Daily Routine Matters
 

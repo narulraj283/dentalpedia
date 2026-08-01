@@ -15,6 +15,7 @@ references:
   - "Gonçalves M, Passeri LA. Risk factors for infection after tooth extraction. Oral Surgery, Oral Medicine, Oral Pathology. 2006;102(1):19-23."
   - "Reusch P, et al. The importance of hemostasis in oral surgery. Oral Surgery. 2016;121(4):372-378."
   - "Benediktsdóttir IS, et al. Postoperative morbidity of third molar surgery. International Journal of Oral and Maxillofacial Surgery. 2004;33(3):232-237."
+last_reviewed: 2026-08-01
 ---
 ## Understanding Post-Surgical Care
 

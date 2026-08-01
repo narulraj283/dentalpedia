@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/28935485
   - title: "Blondeau F, Daniel N. Extraction of impacted mandibular third molars: anatomical basis and operative technique. Can Dent Assoc J. 2007;73(4):325-330."
     url: https://pubmed.ncbi.nlm.nih.gov/17701932
+last_reviewed: 2026-08-01
 ---
 ## When Your Tooth Needs Surgical Extraction Instead of a Simple Removal
 

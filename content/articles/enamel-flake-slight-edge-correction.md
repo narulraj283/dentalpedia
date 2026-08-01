@@ -19,6 +19,7 @@ references:
   - "Fincham AG, Moradian-Oldak J. Recent advances in amelogenin-mediated biomineralization. Cells Tissues Organs. 2005;181(3-4):229-240."
   - "Salazar-Leal ME, García-Godoy F. Enamel microabrasion: an alternative for the removal of superficial stains and mild fluorosis spots. Quintessence Int. 2000;31(2):91-98."
   - "Plotino G, Buono L, Grande NM, Pameijer CH, Somma F. Nonvital tooth bleaching: a qualitative and quantitative analysis of the effects on dentin. J Endod. 2008;34(6):715-720."
+last_reviewed: 2026-08-01
 ---
 A small chip or flake on your front tooth might seem minor, but it's worth fixing to prevent further damage and maintain your smile. Modern dentistry offers quick, minimally invasive ways to restore small fractures—you can get your tooth looking perfect in one appointment.
 

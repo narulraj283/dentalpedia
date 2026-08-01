@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/20339597
   - title: "Bittencourt MEP, Evans PH. An investigation of a method for mapping the buccal corridor in smile photographs. J Clin Orthod. 2009;43(4):229-233."
     url: https://pubmed.ncbi.nlm.nih.gov/19676208
+last_reviewed: 2026-08-01
 ---
 ## What Is Digital Smile Design?
 

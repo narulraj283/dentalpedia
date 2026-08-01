@@ -19,6 +19,7 @@ references:
   - "Edgar WM. Saliva and dental health. Clinical implications of saliva: Report of a consensus meeting. Br Dent J. 1990;169(3-4):96-98."
   - "Kleinberg I. A mixed-model (biochemical plaque pH) of caries development. J Dent Res. 1977;56(Spec Issue C):C48-C60."
   - "Visser JB, Borman JW. Demineralization and remineralization in the oral environment. J Dent. 1992;20(3):163-167."
+last_reviewed: 2026-08-01
 ---
 ## Three Essential Ingredients for Cavities
 

@@ -21,7 +21,7 @@ references:
   - "Radz GM. Minimum thickness anterior porcelain restorations. Dent Clin North Am. 2011;55(2):373-385."
   - "Al-Wahadni AM, Al-Wahadni AK, Al-Kahtani MF. Marginal and internal gaps of two porcelain veneer systems. J Prosthet Dent. 1999;82(5):535-542."
   - "Dunne SM, Millar BJ. Current materials and techniques for veneer restorations. Int Dent J. 1993;43(2):135-146."
-last_reviewed: 2026-05-01
+last_reviewed: 2026-08-01
 ---
 ## How Long Do Veneers Really Last?
 

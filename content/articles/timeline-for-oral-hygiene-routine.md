@@ -60,6 +60,7 @@ slug: timeline-for-oral-hygiene-routine
 subcategory: Brushing, Flossing & Hygiene
 subcategory_slug: brushing-flossing
 title: 'Timeline for Oral Hygiene Routine: Optimal Sequence'
+last_reviewed: 2026-08-01
 ---
 ## Introduction
 

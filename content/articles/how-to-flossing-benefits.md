@@ -25,6 +25,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/19234526
   - title: "Interdental space anatomy and embrasure form in floss selection"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27639262
+last_reviewed: 2026-08-01
 ---
 You've heard it a thousand times: floss daily. But why does your dentist care so much about floss? What difference does it actually make? The answer might surprise you—flossing prevents most cavity and gum disease that occurs between your teeth. That's nearly half of all cavity-prone surfaces.
 

@@ -19,6 +19,7 @@ references:
   - "Tobias GW. Hemostasis, thrombosis, and anticoagulation drugs. In: Glick M, editor. The Dental Management of Patients with Systemic Disease. 5th ed. Hoboken: Wiley-Blackwell; 2008. p. 125-145."
   - "Rao AK. Inherited platelet disorders: disorders of adhesion and aggregation. In: Williams WJ, Beutler E, Erslev AJ. Williams Hematology. 5th ed. New York: McGraw-Hill; 1995. p. 1421-1440."
   - "Wheeler SL. Physiology of the Mouth. In: Peterson LJ, Ellis E, Tucker MR. Contemporary Oral and Maxillofacial Surgery. 5th ed. St. Louis: Mosby; 2008. p. 1-35."
+last_reviewed: 2026-08-01
 ---
 ## Your Dentist's Responsibility: Preventing Bleeding Problems
 

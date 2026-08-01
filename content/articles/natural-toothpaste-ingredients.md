@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/27406825
   - title: "Marinho VC, Worthington HV, Walsh T, et al. Fluoride toothpastes for preventing dental caries in children and adolescents. Cochrane Database Syst Rev. 2019;(3):CD002278."
     url: https://pubmed.ncbi.nlm.nih.gov/30844328
+last_reviewed: 2026-08-01
 ---
 Natural toothpaste sounds healthier than standard options, but many "natural" ingredients lack actual evidence. Some deliver real benefits (hydroxyapatite, xylitol), while others are just expensive window dressing. Here's which ingredients in your natural toothpaste actually protect your teeth.
 

@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/24920626
   - title: "Long-term outcomes comparing two-phase versus single-phase orthodontic treatment"
     url: https://pubmed.ncbi.nlm.nih.gov/26254275
+last_reviewed: 2026-08-01
 ---
 ## Introduction
 

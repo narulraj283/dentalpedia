@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/28324541
   - title: "Long-term stability of surgical gingival contouring results"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26348833
+last_reviewed: 2026-08-01
 ---
 If you see too much gum when you smile, cosmetic gum shaping can help. This procedure reduces excessive gum display to create a more balanced smile. It's a straightforward surgical procedure with excellent results that last for years.
 

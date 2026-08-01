@@ -21,6 +21,7 @@ references:
   - "Coachman C, Calamita MA. Smile esthetics: A photographic review. Dent Clin North Am. 2015;59(3):707-722."
   - "van der Geld P, Oosterveld P, Kuijpers-Jagtman AM. Smile esthetics: a photographic assessment in children and adults. Angle Orthod. 2007;77(5):759-765."
   - "Al-Abdallah MN, Buschang PH, Foley J. Buccal corridor negative space and smile esthetics in three different vertical skeletal patterns. Angle Orthod. 2013;83(4):639-647."
+last_reviewed: 2026-08-01
 ---
 ## What Are Buccal Corridors?
 

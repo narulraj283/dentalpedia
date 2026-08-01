@@ -31,7 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/2066083
   - title: "Macpherson L, Smith BG, Gillespie SN. Quantified enamel loss and progression of erosion. Br Dent J. 1990;168(7):287-291."
     url: https://pubmed.ncbi.nlm.nih.gov/2190997
-last_reviewed: 2026-05-01
+last_reviewed: 2026-08-01
 ---
 ## Getting Your Tooth Color Just Right
 

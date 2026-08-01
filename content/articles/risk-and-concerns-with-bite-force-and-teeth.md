@@ -41,6 +41,7 @@ slug: risk-and-concerns-with-bite-force-and-teeth
 subcategory: General Overview
 subcategory_slug: overview-general
 title: Risk and Concerns with Bite Force and Teeth
+last_reviewed: 2026-08-01
 ---
 ## How Bite Force Affects Your Teeth: Understanding Damage and Protection
 

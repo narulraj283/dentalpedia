@@ -21,6 +21,7 @@ references:
   - "Patcas R, et al. Prevalence of malocclusion traits in the early mixed dentition. Swiss Dental Journal. 2011;121(7-8):482-488."
   - "Erdinc AE, et al. A systematic review on the use of cone beam computed tomography in orthodontics. Seminars in Orthodontics. 2016;22(4):299-311."
   - "Eliades T, et al. Mechanical properties of orthodontic materials. Seminars in Orthodontics. 2010;16(1):25-34."
+last_reviewed: 2026-08-01
 ---
 ## Why Adult Orthodontia Is Different
 

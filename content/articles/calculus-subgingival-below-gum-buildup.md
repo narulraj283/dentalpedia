@@ -19,6 +19,7 @@ references:
   - "Chapple ILC, Mealey BL, Van Dyke TE, et al. Periodontal health and disease. J Clin Periodontol. 2018;45(S20):S9-S16."
   - "Haffajee AD, Teles RP, Socransky SS. Association of various bacterial species with periodontal status and treatment outcome. J Clin Periodontol. 2006;33(1):31-47."
   - "O'Neill GM, Brock P. Efficacy of a sonic scaler and a mechanical curette in subgingival plaque removal. J Clin Periodontol. 1994;21(10):666-670."
+last_reviewed: 2026-08-01
 ---
 ## Understanding Subgingival Calculus (Tartar Below the Gum Line)
 

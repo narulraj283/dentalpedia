@@ -44,6 +44,7 @@ slug: risk-and-concerns-with-recovery-after-extraction
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Risk and Concerns with Recovery After Extraction
+last_reviewed: 2026-08-01
 ---
 ## What to Expect After Your Tooth Is Extracted
 

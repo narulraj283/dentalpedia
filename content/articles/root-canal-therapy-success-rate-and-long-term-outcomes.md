@@ -44,6 +44,7 @@ slug: root-canal-therapy-success-rate-and-long-term-outcomes
 subcategory: Endodontic Overview
 subcategory_slug: overview-endo
 title: Root Canal Therapy Success Rate and Long-Term Outcomes
+last_reviewed: 2026-08-01
 ---
 ## What Does Success Really Mean for Your Root Canal?
 

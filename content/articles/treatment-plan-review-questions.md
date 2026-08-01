@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/23506544
   - title: "Second opinions and diagnostic agreement among dentists for proposed treatment"
     url: https://pubmed.ncbi.nlm.nih.gov/28314325
+last_reviewed: 2026-08-01
 ---
 ## Introduction
 

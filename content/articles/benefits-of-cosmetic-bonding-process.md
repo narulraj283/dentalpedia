@@ -19,6 +19,7 @@ references:
   - "Peumans M, De Munck J, Mine A, Van Meerbeek B. Clinical effectiveness of four adhesive composite systems in the restoration of cervical lesions. Oper Dent. 2007;32(5):515-525."
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
+last_reviewed: 2026-08-01
 ---
 ## What Bonding Can Fix
 

@@ -41,7 +41,7 @@ slug: risk-and-concerns-with-dental-visit-frequency
 subcategory: Preventive Overview
 subcategory_slug: overview-preventive
 title: 'Dental Visit Frequency: Risks of Skipping Checkups'
-last_reviewed: 2026-05-01
+last_reviewed: 2026-08-01
 ---
 ## The Standard Recommendation: Every 6 Months
 

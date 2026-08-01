@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/8135114
   - title: "Macena MC, et al. Thumb and finger sucking: differential effects on anterior occlusion. J Dent Child (Chic). 2010;77(2):82-87."
     url: https://pubmed.ncbi.nlm.nih.gov/20684855
+last_reviewed: 2026-08-01
 ---
 ## When Is Thumb Sucking a Problem?
 

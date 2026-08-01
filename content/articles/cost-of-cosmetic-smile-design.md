@@ -21,6 +21,7 @@ references:
   - "Levine JB. Esthetic smile analysis and design in the digital era. J Esthet Restor Dent. 2005;17(1):4-13."
   - "Chiche GJ, Pinault A. Esthetic Dentistry: Biological and Prosthodontic Considerations. In: Esthetic Dentistry and Restorative Procedures. 2nd ed. CV Mosby; 1994."
   - "Coachman C, Calamita MA, Sennerby L. Clinical outcome of 735 esthetic restorations following a clinically driven digital smile design concept. Int J Prosthodont. 2016;29(2):139-144."
+last_reviewed: 2026-08-01
 ---
 Dreaming of a completely new smile? A comprehensive smile redesign can totally transform how you look and feel about yourself. But what does it cost, and what's involved in planning? Let's walk through the whole process from start to finish.
 

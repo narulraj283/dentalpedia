@@ -19,6 +19,7 @@ references:
   - "Leyland AH. New approaches to assessing occlusal relationships. Br Dent J. 2005;199(4):225-229."
   - "Kanavakis G, et al. T-Scan III integrated intraoral sensor technology to assess occlusal forces in orthodontics. Semin Orthod. 2013;19(3):164-174."
   - "Huffman GW. Relationship of the vertical overbite and overjet to changes in the position of mandible. J Prosthet Dent. 1974;31(6):656-666."
+last_reviewed: 2026-08-01
 ---
 Your front teeth do more than just bite apples—they actually control how your entire jaw moves and protects your back teeth from damage. This concept, called anterior guidance, represents one of dentistry's most important yet underappreciated principles. When your upper front teeth properly guide your lower jaw during movement, they protect all your posterior teeth from excessive forces that cause long-term damage. Understanding how this works helps explain why dentists care so much about how front teeth are positioned and restored.
 

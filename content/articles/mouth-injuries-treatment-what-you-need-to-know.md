@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/25348279
   - title: "Injury prevention through mouthguard use in contact sports participants"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27029819
+last_reviewed: 2026-08-01
 ---
 Traumatic mouth injuries occur suddenly and unexpectedly, creating panic and urgency about whether your teeth can be saved. The immediate actions you take in the first minutes following trauma greatly influence whether teeth survive or require extraction with lifelong replacement needs. Knowing appropriate first-aid response, understanding what happens during emergency dental check, and being aware of potential long-term treatment needs enables you to make informed decisions during crisis moments. The immediate actions literally determine whether your tooth survives.
 

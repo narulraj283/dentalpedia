@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/12622858
   - title: "Peruzzo DC, Benatti BB, Ambrosano GM, et al. A systematic review of stress and psychological factors as possible risk factors for periodontal disease. J Periodontol. 2007;78(8):1491-1504."
     url: https://pubmed.ncbi.nlm.nih.gov/17668971
+last_reviewed: 2026-08-01
 ---
 ## Introduction
 

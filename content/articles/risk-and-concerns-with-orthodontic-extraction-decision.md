@@ -42,6 +42,7 @@ slug: risk-and-concerns-with-orthodontic-extraction-decision
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Risk and Concerns with Orthodontic Extraction Decision
+last_reviewed: 2026-08-01
 ---
 ## Understanding Extraction vs Non-Extraction Treatment
 

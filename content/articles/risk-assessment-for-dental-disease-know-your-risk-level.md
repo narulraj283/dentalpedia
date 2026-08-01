@@ -31,7 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/2249979
   - title: "Page RC, Eke PI. Case definitions for use in population-based surveillance of periodontitis. J Periodontol. 2007;78(7 Suppl):1385-1398."
     url: https://pubmed.ncbi.nlm.nih.gov/17608611
-last_reviewed: 2026-06-01
+last_reviewed: 2026-08-01
 ---
 ## Your Cavity and Gum Disease Risk Is Personal
 

@@ -27,6 +27,7 @@ references:
     url: "https://www.ncbi.nlm.nih.gov/pubmed/27037893"
   - title: "Interceptive Treatment Compliance in Children and Adolescents"
     url: "https://www.ncbi.nlm.nih.gov/pubmed/28470226"
+last_reviewed: 2026-08-01
 ---
 Orthodontists spend years learning how to straighten teeth, but your success depends on you just as much as it depends on them. When patients follow their orthodontist's instructions carefully, treatment moves faster and produces better results. When they don't, treatment gets longer, and the final outcome can be disappointing. The difference comes down to what researchers call "compliance"—showing up to appointments, wearing your elastics, keeping your teeth clean, and following all the other instructions you're given. Learning more about [how often do you need orthodontic appointments?](/article/how-to-orthodontic-appointment-frequency.html) can help you understand this better.
 

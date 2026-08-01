@@ -19,7 +19,7 @@ references:
   - "Mayland T, Kerchner RJ, Kerchner JN. Stress analysis in the periodontal ligament and bone due to asymmetric occlusal loading. J Prosthet Dent. 1987;57(2):154-160."
   - "Zhang Y, Wang XP, Volz JE, et al. Effects of high-speed machining on dimensional precision and surface integrity of dental ceramics. J Prosthet Dent. 2004;92(4):333-338."
   - "Goldstein RE, Tjan AHL. The use of a resin-reinforced composite material in posterior teeth restorations. J Prosthet Dent. 1981;45(2):169-173."
-last_reviewed: 2026-07-01
+last_reviewed: 2026-08-01
 ---
 ## Why Canine Position Matters
 

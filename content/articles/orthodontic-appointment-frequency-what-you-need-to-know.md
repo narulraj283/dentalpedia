@@ -21,7 +21,7 @@ references:
   Orthod. 2015;21(4):280-292.
 - Pandis N, et al. External root resorption in patients treated with conventional
   and self-ligating appliances. Am J Orthod Dentofacial Orthop. 2012;141(1):31-36.
-last_reviewed: 2026-06-01
+last_reviewed: 2026-08-01
 ---
 ## The Appointment Schedule Dilemma
 

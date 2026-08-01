@@ -23,6 +23,7 @@ slug: class-i-occlusion-ideal-bite-relationships
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: 'Class I Occlusion: Ideal Dental Bite Relationships'
+last_reviewed: 2026-08-01
 ---
 ## What Is a Class I Bite?
 

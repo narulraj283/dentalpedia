@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/30255851
   - title: "Stress, immunity, and oral health: psychoneuroimmunological aspects"
     url: https://www.ncbi.nlm.nih.gov/pubmed/29360262
+last_reviewed: 2026-08-01
 ---
 Your personal risk for dental infections varies based on your age, health, genetics, and lifestyle choices. The good news? Understanding your specific risk factors helps you take targeted steps to prevent problems before they start. This guide walks you through practical ways to assess your risk and build a personalized prevention plan.
 

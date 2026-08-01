@@ -10,6 +10,7 @@ reviewer_specialty: Cosmetic Dentistry
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 reviewed: true
+last_reviewed: 2026-08-01
 ---
 ## What Is Tooth Contouring?
 

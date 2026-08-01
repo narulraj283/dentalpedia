@@ -21,7 +21,7 @@ references:
   - "Ten Cate JM. Review on Fluoride, with Special Emphasis on Topical Application. J Dent Res. 2019;90(2):183-190."
   - "Ekstrand KR, Zero DT, Martels L. Lesion Activity Assessment. Monogr Oral Sci. 2019;21:63-90."
   - "Ismail AI, Sohn W, Tellez M. The International Caries Classification and Management System (ICCMS). Quintessence Int. 2021;42(1):73-78."
-last_reviewed: 2026-04-01
+last_reviewed: 2026-08-01
 ---
 You've probably heard that fluoride helps prevent cavities, but do you actually understand how it works? Fluoride isn't some mystery chemical—it's an element that's been researched for over seventy years, and the evidence is really solid. Understanding how fluoride protects your teeth helps you use it more effectively.
 

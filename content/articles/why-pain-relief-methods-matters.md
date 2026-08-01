@@ -27,6 +27,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/28234262/"
   - title: "Intra-Operative Pain Management During Restorative Dental Procedures"
     url: "https://pubmed.ncbi.nlm.nih.gov/26505920/"
+last_reviewed: 2026-08-01
 ---
 Pain relief at the dentist matters. When you're comfortable, you'll return for regular care. Modern dentistry has many ways to reduce pain: numbing creams, smart injection techniques, and distraction. Your dentist can personalize pain management to your needs and anxiety level.
 

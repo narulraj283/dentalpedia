@@ -17,6 +17,7 @@ references:
   - "Yoshida A, Suzuki N, Nakano Y, et al. Salivary metabolomics and microbiota analysis of subjects with/without periodontitis. J Dent Res. 2015;94(1):61-67."
   - "Srivastava SK, Singh A, Gupta B. Detoxification and hepatic metabolism of xenobiotics. Adv Exp Med Biol. 2016;929:231-59."
   - "Katz M, Heft MW, Gedalberg M, et al. Systemic oral medications and salivary flow rate. Pharmacology. 2007;79(3):170-76."
+last_reviewed: 2026-08-01
 ---
 ## Introduction
 

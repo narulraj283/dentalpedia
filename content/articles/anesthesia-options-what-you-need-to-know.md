@@ -19,7 +19,7 @@ references:
   - "Li-Wan PA, et al. Adverse effects of local anesthetic agents in dentistry. Anesth Prog. 1995;42(1):7-15."
   - "Dershewitz RA. Twenty things you did not know about pediatric resuscitation. Pediatrics. 2000;106(Suppl):1380-1390."
   - "Malamed SF. Medical Emergencies in the Dental Office. Mosby; 2015."
-last_reviewed: 2026-05-01
+last_reviewed: 2026-08-01
 ---
 Understanding what to expect from anesthesia during dental procedures helps you feel less nervous and more in control. This guide walks you through what happens before your procedure, what you'll feel during it, and how to care for yourself afterward. It's really about partnership between you and your dentist—the better you understand what's happening, the more comfortable and confident you'll feel.
 

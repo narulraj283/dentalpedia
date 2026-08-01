@@ -27,7 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/23880562
   - title: "Maxillary sinus augmentation with bone graft: Predictability and long-term outcomes"
     url: https://pubmed.ncbi.nlm.nih.gov/21718345
-last_reviewed: 2026-06-01
+last_reviewed: 2026-08-01
 ---
 ## Why Bone Grafting Matters in Implant Success and Ridge Preservation
 

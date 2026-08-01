@@ -21,6 +21,7 @@ references:
   - Dye BA, Tan S, Smith V, et al. Trends in oral health status: United States, 1999-2004. Vital Health Stat. 2007;11(248):1-92.
   - Sukontapatipark W, El-Agroudi MA, Selliseth NJ, Saxegaard E, Selnes H. Bacterial colonization associated with fixed orthodontic appliances. A scanning electron microscopy study. Eur J Orthod. 2001;23(5):475-484.
   - Machen DE. Bonded veneer resin composite restorations in pediatric dentistry. Pediatr Dent. 2006;28(2):95-101.
+last_reviewed: 2026-08-01
 ---
 When you get braces, your diet becomes part of your treatment plan. What you eat directly affects how quickly your teeth move, whether your brackets stay attached, and whether your teeth end up with permanent white marks when treatment is done. The good news is that you don't need to eat boring food the whole time—you just need to be smart about your choices. This article covers the essentials you need to know to protect your brackets and your smile.
 

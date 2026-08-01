@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/23167894
   - title: "Cost-effectiveness and lifetime investment considerations in veneer therapy"
     url: https://pubmed.ncbi.nlm.nih.gov/24289564
+last_reviewed: 2026-08-01
 ---
 ## Achieving Long-Term Success With Your Veneers
 

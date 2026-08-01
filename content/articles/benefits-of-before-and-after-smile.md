@@ -19,6 +19,7 @@ references:
   - "Judge, T. A., & Cable, D. M. (2011). When it comes to pay, do the attractive, ambitious, and confident win? International Journal of Selection and Assessment, 19(2), 212-216."
   - "Sarver, D. M., & Ackerman, M. B. (2003). Dynamic smile visualization and quantification: part 2. Smile arc temporal relationship as a guide to optimal dental crown contour. American Journal of Orthodontics and Dentofacial Orthopedics, 124(1), 116-127."
   - "Jain, S., Oza, P. A., & Bansal, N. (2015). Smile and its relation to facial morphology: A comprehensive review. Journal of Dental Sciences, 10(1), 37-47."
+last_reviewed: 2026-08-01
 ---
 ## Why Your Smile Matters
 

@@ -44,6 +44,7 @@ slug: pressure-dressing-post-operative-bleeding-control
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Pressure Dressing Post Operative Bleeding Control
+last_reviewed: 2026-08-01
 ---
 ## Controlling Bleeding After Tooth Extraction: What You Need to Know
 

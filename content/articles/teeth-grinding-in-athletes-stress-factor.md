@@ -43,6 +43,7 @@ slug: teeth-grinding-in-athletes-stress-factor
 subcategory: Sports Dentistry Overview
 subcategory_slug: overview-sports
 title: 'Teeth Grinding in Athletes: The Stress'
+last_reviewed: 2026-08-01
 ---
 ## Why Athletes Grind and Clench
 

@@ -21,6 +21,7 @@ references:
   - "Morse DR. Clinical Endodontology: Guide to Diagnosis and Treatment. 3rd ed. Springer; 2020."
   - "Johnson BR, Law AS. Periapical Pathology and Diagnosis. Endod Top. 2022;41(1):14-29."
   - "McClanahan SB, Bateman G. Differential Diagnosis and Treatment Planning. J Endod. 2018;44(3):345-358."
+last_reviewed: 2026-08-01
 ---
 If you've ever experienced a sudden, severe toothache, you know how miserable it can make you feel. Tooth pain is one of the top reasons people rush to emergency dental care, and it deserves immediate attention. The good news? Understanding what's happening inside your tooth can help your dentist figure out the best way to help you feel better fast.
 

@@ -6,6 +6,7 @@ excerpt: A "gummy smile"—showing excessive gum when you smile—bothers many p
 slug: risk-and-concerns-with-gummy-smile-fix
 title: Risk and Concerns with Gummy Smile Fix
 date: 2026-03-05
+last_reviewed: 2026-08-01
 ---
 ## Introduction
 

@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/20386765
   - title: "Shillingburg HT, Jacobi R, Brackett SE. Fundamentals of tooth preparation for cast metal and porcelain restorations. Quintessence Publishing. 1987."
     url: https://pubmed.ncbi.nlm.nih.gov/3333227
+last_reviewed: 2026-08-01
 ---
 ## The Permanent Changes of Veneer Preparation
 

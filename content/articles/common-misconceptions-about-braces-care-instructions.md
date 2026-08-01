@@ -19,6 +19,7 @@ references:
   - "Srivastava K, Marques NS, McDonough M. (2023). Clinical evaluation and effectiveness of home-use fluoride supplements for orthodontic patients. Journal of Clinical Orthodontics. 51(3):156-163."
   - "Mitchell L. (2023). Decalcification during orthodontic treatment with fixed appliances: Incidence and prevention. British Journal of Orthodontics. 19(3):199-205."
   - "Alexander SA, Ripa LW. (2023). Rational use of fluorides in orthodontics. In: Wei SH (Ed.), Fluoride in Clinical Dentistry (2nd ed.). Philadelphia: Lea & Febiger."
+last_reviewed: 2026-08-01
 ---
 ## Brushing with Braces Is Different—But Definitely Doable
 

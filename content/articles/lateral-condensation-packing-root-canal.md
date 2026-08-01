@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/26055925
   - title: "Apical leakage prevention through optimized lateral condensation protocols"
     url: https://www.ncbi.nlm.nih.gov/pubmed/29080230
+last_reviewed: 2026-08-01
 ---
 ## Introduction
 

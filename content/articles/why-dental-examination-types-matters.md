@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/31567890
   - title: "Documentation and Monitoring of Oral Lesions in Clinical Practice"
     url: https://pubmed.ncbi.nlm.nih.gov/28901234
+last_reviewed: 2026-08-01
 ---
 ## Why Different Dental Examination Types Matter in Patient Care
 

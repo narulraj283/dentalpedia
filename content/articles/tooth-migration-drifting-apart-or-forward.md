@@ -31,7 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/11737503
   - title: "Janssen PT, van Diermen DE, de Lange GL, et al. Periodontal wound healing and tooth migration after flap surgery with and without simultaneous orthodontic treatment. J Clin Periodontol. 1998;25(6):445-451."
     url: https://pubmed.ncbi.nlm.nih.gov/9646525
-last_reviewed: 2026-06-01
+last_reviewed: 2026-08-01
 ---
 ## What's Causing That Gap?
 

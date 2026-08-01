@@ -17,6 +17,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/28883831
   - title: "Before and after documentation in cosmetic dentistry"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26439738
+last_reviewed: 2026-08-01
 ---
 Modern cosmetic dentists use tiny cameras that fit inside your mouth to capture detailed images of your teeth and smile. These intraoral cameras let your dentist show you exactly what they see and help plan cosmetic treatment. They also document your transformation, creating powerful before and after comparisons that show how much your smile has improved.
 

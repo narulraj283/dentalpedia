@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/28862518
   - title: "Klingberg G, Berggren U, Norén JG. Dental fear in an urban Swedish child population: prevalence and child-related factors. Community Dent Health. 1994;11(4):208-214."
     url: https://pubmed.ncbi.nlm.nih.gov/7850627
+last_reviewed: 2026-08-01
 ---
 ## Mastering the Three Steps
 

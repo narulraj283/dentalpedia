@@ -21,6 +21,7 @@ references:
   - Küçükkeleş N, Illhan B, Orban M. Treatment efficiency of polycrystalline and monocrystalline ceramic brackets: a prospective clinical trial. Am J Orthod Dentofacial Orthop. 1997;112(6):670-680.
   - Cohen-Levy J. Demineralization versus fluorosis. J Clin Orthod. 1999;33(7):390-391.
   - Shetty S, Prabhu S, Chandra P. Diet and nutrition in orthodontics. Ind J Dent Res. 2010;21(2):236-240.
+last_reviewed: 2026-08-01
 ---
 Food restrictions during braces treatment matter more than you might think. When you eat the wrong foods, you risk breaking your brackets, damaging your wires, and even prolonging your treatment by months. The good news is that plenty of delicious foods are generally well-tolerated to eat, and the temporary dietary changes will feel like a small price to pay once you see your final smile. This guide explains exactly which foods to avoid and which ones you can enjoy worry-free.
 

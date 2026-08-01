@@ -31,6 +31,7 @@ slug: dentin-hypersensitivity-root-exposure-pain
 subcategory: General Overview
 subcategory_slug: overview-general
 title: Why Your Teeth Hurt When You Eat Cold Foods and What
+last_reviewed: 2026-08-01
 ---
 If you wince when you sip cold water or eat ice cream, you're experiencing tooth sensitivity. Learning more about [Cavity Formation Process Complete Guide](/article/cavity-formation-process-complete-guide.html) can help you understand this better. This common problem affects millions of people and is usually caused by exposed tooth root surfaces where the protective tooth root covering has worn away. The good news is that sensitivity can be managed with special products and professional treatments.
 

@@ -45,6 +45,7 @@ slug: refractory-periodontitis-treatment-resistant-disease
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Refractory Periodontitis Treatment Resistant Disease
+last_reviewed: 2026-08-01
 ---
 ## When Standard Gum Disease Treatment Doesn't Work
 

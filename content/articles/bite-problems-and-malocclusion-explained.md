@@ -19,6 +19,7 @@ references:
   - "Fleming PS, DiBiase AT. Orthodontics and periodontics: the biological basis for the relationship. Periodontol 2000. 2011;57(1):143-162."
   - "Ngan P, Fields H. Open bite: a review of etiology and management. Pediatr Dent. 1997;19(2):91-98."
   - "Harradine NW. The history and development of Damon fixed appliance system. Semin Orthod. 2008;14(1):2-14."
+last_reviewed: 2026-08-01
 ---
 ## What Is a Bite Problem?
 

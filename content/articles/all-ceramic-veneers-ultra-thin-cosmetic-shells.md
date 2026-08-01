@@ -19,7 +19,7 @@ references:
   - "Duarte S, Camargo MA, Yamanis RP, et al. Effect of surface treatment on tensile bond strength of resin composite and ceramic. J Prosthet Dent. 2002;87(3):261-266."
   - "Coachman C, Salama M. Considerations for esthetic implant therapy in the anterior region. J Prosthet Dent. 1996;75(5):568-582."
   - "Beuer F, Steff B, Sorensen JA. Longevity of fixed prostheses with intra-radicular posts. J Prosthet Dent. 2009;101(3):183-190."
-last_reviewed: 2026-07-01
+last_reviewed: 2026-08-01
 ---
 ## What Are Ultra-Thin Veneers?
 

@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/26890556
   - title: "Longitudinal caries risk assessment and outcome prediction in diverse populations"
     url: https://pubmed.ncbi.nlm.nih.gov/27550098
+last_reviewed: 2026-08-01
 ---
 Your dentist probably recommends that you brush twice daily, floss, and limit sugar. These generic tips provide baseline guidance, but here's the truth: one-size-fits-all prevention doesn't work. Some people with excellent oral hygiene develop multiple cavities annually, while others with mediocre hygiene remain cavity-free for decades.
 

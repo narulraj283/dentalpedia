@@ -45,6 +45,7 @@ slug: progressive-loading-gradual-force
 subcategory: Implant Overview
 subcategory_slug: overview-implants
 title: Progressive Loading in Dental Implants
+last_reviewed: 2026-08-01
 ---
 ## Understanding Progressive Loading
 

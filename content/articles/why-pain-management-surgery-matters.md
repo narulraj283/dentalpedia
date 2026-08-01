@@ -27,6 +27,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/28234262/"
   - title: "Evidence-Based Analgesic Selection in Oral and Maxillofacial Surgery"
     url: "https://pubmed.ncbi.nlm.nih.gov/26505920/"
+last_reviewed: 2026-08-01
 ---
 Pain management during oral surgery matters far more than just comfort. When dental surgeons control pain effectively, your body stays relaxed, your healing proceeds normally, and you're much more likely to return to your dentist for future care without fear. Poor pain control during surgery doesn't just make the procedure unpleasant—it can actually stress your body and slow down healing.
 

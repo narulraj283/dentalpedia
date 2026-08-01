@@ -21,6 +21,7 @@ references:
   - "Thylstrup A, Fejerskov O. Clinical manifestations of dental fluorosis. Community Dent Oral Epidemiol. 1978;6(6):315-328."
   - "Pendrys DG, Katz RV, Morse DE. Risk factors for enamel fluorosis in a nonfluoridated population. Am J Epidemiol. 1994;143(8):808-815."
   - "Caufield PW, Cutter GR, Dasanayake AP. Initial acquisition of mutans streptococci by infants. J Dent Res. 1993;72(1):37-45."
+last_reviewed: 2026-08-01
 ---
 ## How Fluoride Fights Cavities
 

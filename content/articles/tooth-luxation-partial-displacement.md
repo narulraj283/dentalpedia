@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/23242133
   - title: "Kim SH, Lamster IB, Park M. Combined treatment with passive open coil spring intrusion technique and orthodontics to manage overintruded teeth. Dent Traumatol. 2008;24(1):130-133."
     url: https://pubmed.ncbi.nlm.nih.gov/18184173
+last_reviewed: 2026-08-01
 ---
 ## Understanding Tooth Luxation
 

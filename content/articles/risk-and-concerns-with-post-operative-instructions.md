@@ -45,6 +45,7 @@ slug: risk-and-concerns-with-post-operative-instructions
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Risk and Concerns with Post Operative Instructions
+last_reviewed: 2026-08-01
 ---
 ## Introduction
 

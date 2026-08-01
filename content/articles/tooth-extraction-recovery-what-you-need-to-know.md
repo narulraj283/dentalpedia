@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/11021715
   - title: "Ono M, Omatsu K, Sansone C, et al. Alveolar osteitis: incidence, risk factors, and clinical course. J Oral Maxillofac Surg. 1992;50(5):463-467."
     url: https://pubmed.ncbi.nlm.nih.gov/1569960
+last_reviewed: 2026-08-01
 ---
 ## Your Recovery Journey
 

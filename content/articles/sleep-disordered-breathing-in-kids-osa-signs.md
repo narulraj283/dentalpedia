@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/9085495
   - title: "Gozal D et al. Obstructive sleep apnea and neuropsychological outcomes in children. Int J Pediatr Otorhinolaryngol. 2007;71(11):1649-1656."
     url: https://pubmed.ncbi.nlm.nih.gov/17850875
+last_reviewed: 2026-08-01
 ---
 ## Is Your Child Snoring? Sleep Apnea Signs to Watch
 

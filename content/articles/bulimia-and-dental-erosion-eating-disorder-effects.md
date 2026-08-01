@@ -21,6 +21,7 @@ references:
   - "Hellström I, Åkerman S. Intraoral conditions in eating disorder patients. Swed Dent J. 1989;13(5-6):189-194."
   - "Touyz LZ, Sloan P, Malocclusion in bulimia nervosa. Angle Orthod. 1994;64(1):29-34."
   - "Philipp B, Schwan J, Graber T. Treatment planning for eating disorders. Dent Today. 1996;15(1):48-53."
+last_reviewed: 2026-08-01
 ---
 ## Understanding Bulimia's Dental Impact
 

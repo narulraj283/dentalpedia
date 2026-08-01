@@ -21,6 +21,7 @@ references:
   - "Van der Weijden FA, Timmerman MF. A systematic review on the clinical efficacy of electric toothbrushes in plaque removal. J Clin Periodontol. 2002;29(Suppl 3):226-231."
   - "Eaton KA, Carlisle R. A randomized controlled trial comparing electric and manual toothbrushes in the removal of orthodontic plaque. Orthod Craniofac Res. 2005;8(3):176-178."
   - "Worthington HV, MacDonald L, Pokrajac-Bulian A, et al. Home use of interdental cleaning devices, in addition to toothbrushing, for preventing and controlling periodontal diseases and dental caries. Cochrane Database Syst Rev. 2019;4:CD012018."
+last_reviewed: 2026-08-01
 ---
 Taking care of your teeth at home costs money, but good home care saves you thousands in cavities and gum disease treatment. Let's break down what your daily cleaning routine costs and what actually matters for good results.
 

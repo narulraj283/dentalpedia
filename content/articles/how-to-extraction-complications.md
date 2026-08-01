@@ -27,7 +27,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/17054695
   - title: "Antibiotic prophylaxis in tooth extractions: indications and evidence"
     url: https://www.ncbi.nlm.nih.gov/pubmed/20561482
-last_reviewed: 2026-07-01
+last_reviewed: 2026-08-01
 ---
 Most tooth extractions go smoothly without significant problems. But like any procedure, complications can happen. Knowing what to expect and what signs indicate a problem helps you take care of yourself properly and know when to call your dentist.
 

@@ -43,6 +43,7 @@ references:
     authors: "Ellis E 3rd, Sinn DP"
     year: 2003
     publication: "Journal of Oral and Maxillofacial Surgery"
+last_reviewed: 2026-08-01
 ---
 Getting a tooth pulled might seem simple, but sometimes complications happen afterward. The good news is that most complications are manageable if caught early. Let's talk about what can go wrong after extraction and what you should do if it does.
 

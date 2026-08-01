@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/28066316
   - title: "Dietschi D, Moor S, Krejci I. Tooth surface treatment strategies for adhesive dentistry. Dent Clin North Am. 2002;46(1):25-37."
     url: https://pubmed.ncbi.nlm.nih.gov/12408985
+last_reviewed: 2026-08-01
 ---
 ## Making Restorations Look Natural: It's More Than Just Color
 

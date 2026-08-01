@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/8635799
   - title: "Danesh-Sani SA, Engebretsen BP, Fenton A. A systematic review of midface vertical dimension changes after maxillary sinus augmentation. Int J Oral Maxillofac Surg. 2014;43(7):848-856."
     url: https://pubmed.ncbi.nlm.nih.gov/24725646
+last_reviewed: 2026-08-01
 ---
 ## Why You Might Need a Sinus Lift
 

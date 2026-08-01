@@ -21,6 +21,7 @@ references:
   - "Magne P, Carvalho AV, Bruzi G. Molar protaper universal rotary versus manual instrumentation: Influence on apical transportation and cytocompatibility. Int Endod J. 2010;43(5):413-420."
   - "Aquilino SA, Caplan DJ. Relationship between crown placement and the survival of endodontically treated teeth. J Prosthet Dent. 2002;87(3):256-263."
   - "Tredwin CJ, Scully C, Bagan-Sebastian JV. Drug-induced disorders of the teeth. J Dent Res. 2005;84(7):596-602."
+last_reviewed: 2026-08-01
 ---
 ## Choosing the Right Cosmetic Dental Option for Your Smile
 

@@ -19,6 +19,7 @@ references:
   - "Ristic M, Vlahovic Svabic M, Sasic M, Zelic O. Clinical and microbiological effects of ozone therapy on periodontal tissues during fixed appliance treatment. Eur J Orthod. 2011;33(5):542-549."
   - "Swierkot K, Lempska A, Boron B, Swierkot M, Malara P. Effect of thorough oral hygiene and mechanical debridement on clinical outcomes in orthodontic patients. Oral Health Prev Dent. 2014;12(3):267-275."
   - "Tufekci E, Lindauer SJ, Vig KWL. Remaining challenges with clear aligner therapy. Semin Orthod. 2016;22(3):169-179."
+last_reviewed: 2026-08-01
 ---
 ## Why Braces Make Cleaning Your Teeth Tougher
 

@@ -19,6 +19,7 @@ references:
   - "Hellwig E. The effectiveness of fluoride varnish in remineralizing smooth surface carious lesions. J Contemp Dent Pract. 2002;3(2):1-10."
   - "Seppä L, Pääkkönen M. Fluoride content of varnishes used for caries prevention measured by using different analysis methods. Caries Res. 1989;23(2):126-131."
   - "Petersson LG, Magnusson K, Andersson H, et al. Effect of semi-annual topical fluoride gel application in children living in a non-fluoridated area: 2-year clinical results. Community Dent Oral Epidemiol. 1983;11(4):205-209."
+last_reviewed: 2026-08-01
 ---
 ## What Fluoride Varnish Is and How It Works
 

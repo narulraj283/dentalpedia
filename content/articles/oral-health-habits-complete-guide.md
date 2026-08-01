@@ -27,6 +27,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/46789012
   - title: "Behavioral Change Strategies for Long-term Oral Health Habit Development"
     url: https://www.ncbi.nlm.nih.gov/pubmed/47890123
+last_reviewed: 2026-08-01
 ---
 ## Why Your Daily Habits Matter Most
 

@@ -21,7 +21,7 @@ references:
   - "Plaque biofilm removal kinetics by bristle geometry. Caries Research. 2021;55(1):42-51."
   - "Patient compliance and toothbrush selection. Community Dentistry and Oral Epidemiology. 2019;47(3):203-211."
   - "Ocular irritation from toothbrush bristle fragments. Contact Lens and Anterior Eye. 2020;43(4):488-492."
-last_reviewed: 2026-05-01
+last_reviewed: 2026-08-01
 ---
 Walking down the toothbrush aisle is overwhelming. Learning more about [Oral Health Habits Complete Guide](/article/oral-health-habits-complete-guide.html) can help you understand this better. Soft, medium, hard—powered, manual—small head, large head. And the marketing claims promise everything. Let's cut through the noise and talk about what actually matters for your teeth and gums.
 

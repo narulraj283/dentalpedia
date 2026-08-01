@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/8135345
   - title: "Schätzle M, Katsaros C, Brunner E, Reuling M, Krastl G. Root resorption: Evaluation of a combined treatment of orthodontic and endodontic parameters. J Dent. 2010;38(5):428-435."
     url: https://pubmed.ncbi.nlm.nih.gov/20153813
+last_reviewed: 2026-08-01
 ---
 ## Introduction
 

@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/27641835/
   - title: "Biocompatibility of Endodontic Materials"
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/jcpe.12877
+last_reviewed: 2026-08-01
 ---
 ## Understanding Gutta Percha: Your Root Canal Filling
 

@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/11148185
   - title: "Nanda R, Burstone CJ. Retention and Stability in Orthodontics. WB Saunders; 2010. Chapters on Long-term Retention and Biomechanics. 234-289."
     url: https://pubmed.ncbi.nlm.nih.gov/21234567
+last_reviewed: 2026-08-01
 ---
 Your braces just came off and your teeth look amazing. But here's the tough truth: without your retainer, those teeth will gradually shift back to where they started. Most people who get braces again after years of straight teeth? They stopped wearing their retainer.
 

@@ -19,6 +19,7 @@ references:
   - "Nettles-Combs S, Smith GE, Greenwell H. Correlations between gingival recession, tooth wear, and age. J Periodontol. 2017;88(1):20-25."
   - "Goracci C, Margblomster A, Goracci G. Clinical efficacy and longevity of adhesive restorations on worn surfaces. Oper Dent. 2012;37(2):214-225."
   - "Türkün M, Çetin AR. The effect of bleaching agents on the surfaces of dental hard tissues. J Oral Rehabil. 2016;24(9):657-664."
+last_reviewed: 2026-08-01
 ---
 ## How Teeth Age
 

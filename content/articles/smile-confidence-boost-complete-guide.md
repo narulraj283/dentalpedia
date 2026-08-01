@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/21591555
   - title: "Salama H, Salama M. The role of orthodontic extrusive remodeling in the enhancement of the general practitioner's restorative esthetic treatment. Int J Periodontics Restorative Dent. 1993;13(2):141-151."
     url: https://pubmed.ncbi.nlm.nih.gov/8330961
+last_reviewed: 2026-08-01
 ---
 ## Smile Confidence Boost: Complete Guide
 

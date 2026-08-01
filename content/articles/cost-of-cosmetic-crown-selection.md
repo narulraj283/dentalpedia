@@ -21,6 +21,7 @@ references:
   - "Sailer I, Makarov NA, Thoma DS, et al. All-ceramic or metal-ceramic tooth-supported fixed dental prostheses (FDPs)? A systematic review of the survival and complication rates. Part I: Single crowns (SCs). Dent Mater. 2015;31(6):603-623."
   - "Bariş E. The effect of ceramic thickness and shade of the veneer material on the final color of dentin-colored CAD/CAM crowns and veneers. J Prosthet Dent. 2014;112(4):942-950."
   - "Pjetursson BE, Brägger U, Lang NP, Zwahlen M. Comparison of survival and complication rates of tooth-supported fixed dental prostheses (FDPs) and implant-supported prostheses and single crowns (SCs). Clin Oral Implants Res. 2007;18(Suppl 3):97-113."
+last_reviewed: 2026-08-01
 ---
 A dental crown is like a cap that covers a damaged tooth to make it look and function like new. Crowns can fix severely stained teeth, protect weak teeth, improve the appearance of your smile, or support a bridge. Let's talk about what crowns cost and which type is right for you.
 

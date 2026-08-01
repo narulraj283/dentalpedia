@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/10439026
   - title: "Tribble GD, Lamont RJ. Bacterial invasion of epithelial cells and spreading: a key virulence mechanism of Porphyromonas gingivalis. Critical Reviews in Oral Biology and Medicine. 2003;14(3):217-224."
     url: https://pubmed.ncbi.nlm.nih.gov/12764077
+last_reviewed: 2026-08-01
 ---
 ## The Three Worst Bacteria for Your Gums
 

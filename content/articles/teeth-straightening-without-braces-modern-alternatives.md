@@ -31,7 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/27021874
   - title: "Panza N, Lombardi A, Gasparini G, et al. Bonded versus conventional rapid palatal expansion. A randomized clinical trial. American Journal of Orthodontics and Dentofacial Orthopedics. 2016;149(3):403-411."
     url: https://pubmed.ncbi.nlm.nih.gov/26926021
-last_reviewed: 2026-06-01
+last_reviewed: 2026-08-01
 ---
 ## Straightening Teeth Without Visible Braces
 

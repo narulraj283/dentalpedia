@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/24660194
   - title: "Trombelli L, Farina R, Silva CO, Tatakis DN. Plaque-induced gingivitis: case definition and diagnostic considerations. J Clin Periodontol. 2018;45(Suppl 20):S44-S67."
     url: https://pubmed.ncbi.nlm.nih.gov/29926479
+last_reviewed: 2026-08-01
 ---
 ## Introduction
 

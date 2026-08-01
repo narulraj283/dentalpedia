@@ -21,6 +21,7 @@ references:
   - "Ludwig A. Angina Sublinguals--Historic landmark, clinical classification, and surgical management. Otolaryngology--Head and Neck Surgery. 1981;89(3):494-501."
   - "Almendárez-Gómez JC, et al. Microbial flora in dental infections and its antibiotic sensitivity. Journal of Oral Research. 2020;9(2):122-131."
   - "Parahitiyawa NB, et al. Emerging pathogenic bacteria in oral cavity: An overview. Journal of Oral and Maxillofacial Pathology. 2009;13(2):48-54."
+last_reviewed: 2026-08-01
 ---
 When you have tooth surgery, the biggest worry isn't always the procedure itself—it's avoiding infection afterward. Infection after surgery is surprisingly common, but here's the good news: it's also very preventable. With the right steps before, during, and after your surgery, your dentist can reduce infection risk to less than 1%. This article walks you through what actually happens and how to protect yourself.
 

@@ -32,6 +32,7 @@ slug: best-practices-for-extraction-complications
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Prevention and Management of Alveolar Osteitis
+last_reviewed: 2026-08-01
 ---
 If you're facing a tooth extraction, you've probably heard about something called "dry socket." While most people recover from tooth extraction without problems, it's helpful to understand what can go wrong and how to prevent it. Knowing what to expect and how to take care of yourself afterward makes a huge difference in your healing.
 

@@ -11,6 +11,7 @@ slug: tmj-anatomy-joint-structure-and-function
 subcategory: TMJ & Sleep Overview
 subcategory_slug: overview-tmj-sleep
 title: 'Temporomandibular Joint Anatomy: Structure, Ligaments'
+last_reviewed: 2026-08-01
 ---
 ## Introduction
 

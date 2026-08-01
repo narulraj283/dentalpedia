@@ -27,7 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/26486666
   - title: "Systemic disease management and periodontal maintenance efficacy"
     url: https://pubmed.ncbi.nlm.nih.gov/26318657
-last_reviewed: 2026-06-01
+last_reviewed: 2026-08-01
 ---
 ## Why You Can't Skip Maintenance After Gum Disease Treatment
 

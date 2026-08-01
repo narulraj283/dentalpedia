@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/20534727
   - title: "Remineralization Efficacy of Topical Agents Containing Calcium, Phosphate, and Fluoride"
     url: https://pubmed.ncbi.nlm.nih.gov/28272234
+last_reviewed: 2026-08-01
 ---
 ## Your Teeth Can Repair Themselves (With the Right Support)
 

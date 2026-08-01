@@ -13,6 +13,7 @@ reviewed: true
 references:
   - "Andreasen JO, Andreasen FM, Andersson L. Textbook and Color Atlas of Traumatic Injuries of the Teeth. 4th ed. Blackwell Munksgaard; 2007:234-456."
   - "Cohenca N, Roges RA, Roges PA, et al. Diagnosis and treatment of dentoalveolar traumatic injuries. Dent Clin North Am. 2009;53(4):675-689."
+last_reviewed: 2026-08-01
 ---
 Your child runs in crying—they fell off their bike and broke a tooth. Don't panic. Broken teeth are actually pretty common in kids, and most of the time dentists can repair them so well that no one can tell anything ever happened. What matters now is getting treatment quickly and knowing what to expect during healing.
 

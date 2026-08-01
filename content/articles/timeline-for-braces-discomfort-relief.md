@@ -31,7 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/12733631
   - title: "Weiss KL, Sandison S. Controlling discomfort with low-force orthodontics. In: Clinical and Laboratory Manual of Orthodontics. 2nd ed. Philadelphia: Lea & Febiger; 1997."
     url: https://pubmed.ncbi.nlm.nih.gov/
-last_reviewed: 2026-07-01
+last_reviewed: 2026-08-01
 ---
 ## Your Discomfort Is Temporary and Manageable
 

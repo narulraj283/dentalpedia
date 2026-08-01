@@ -19,7 +19,7 @@ references:
   - "Williams RC, Offenbacher S. Periodontal medicine: the emergence of a new branch of periodontology. Periodontol 2000. 2000;23:9-12."
   - "American Academy of Periodontology. Proceedings of the World Workshop in Clinical Periodontics. Princeton, NJ: American Academy of Periodontology; 1989."
   - "Newman MG, Takei HH, Klokkevold PR, Carranza FA. Carranza's Clinical Periodontology. 12th ed. Elsevier; 2015."
-last_reviewed: 2026-07-01
+last_reviewed: 2026-08-01
 ---
 ## Understanding How Gum Disease Progresses
 

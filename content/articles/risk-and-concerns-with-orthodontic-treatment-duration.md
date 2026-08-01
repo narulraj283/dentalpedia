@@ -45,6 +45,7 @@ slug: risk-and-concerns-with-orthodontic-treatment-duration
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Risk and Concerns with Orthodontic Treatment Duration
+last_reviewed: 2026-08-01
 ---
 ## Introduction
 

@@ -21,6 +21,7 @@ references:
   - "Bordea IR, Lucian A, Xhanari G, et al. Traumatic dental injuries: a review of current and future trends in the management. Clujul Medical. 2020;93(1):15-22."
   - "Zerman N, Cavalleri G. Traumatic injuries to permanent anterior teeth and their sequelae: a literature review. Dent Traumatol. 1993;9(4):143-152."
   - "Petersson EL, Andreasen JO, Sorensen B. Traumatic injuries of the permanent front teeth in Danish children (aged 7-12). Part I: General characteristics. Acta Odontol Scand. 1997;55(5):294-300."
+last_reviewed: 2026-08-01
 ---
 Accidents happen—a fall, a sports injury, a bite on something hard—and suddenly you have a chipped or broken tooth. The good news is that cosmetic tooth repair is usually straightforward and affordable. Let's talk about what you're dealing with and what your options are.
 

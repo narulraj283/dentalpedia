@@ -19,6 +19,7 @@ references:
   - "Ramsay DS, et al. Patient anxiety and sedation in general dentistry. J Dent Res. 2015;94(9_suppl):92S-98S."
   - "Goodman H, et al. Complications of intravenous sedation in dentistry. Anesth Prog. 2005;52(4):119-126."
   - "Meechan JG, et al. The incidence of anatomical variations of the infraorbital nerve and foramen. Br J Oral Maxillofac Surg. 2004;42(4):313-317."
+last_reviewed: 2026-08-01
 ---
 ## Types of Anesthesia: Understanding Your Options
 

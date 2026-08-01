@@ -19,6 +19,7 @@ references:
   - "Dave D, et al. Effectiveness of virtual reality as a distraction during oral rehabilitation in pediatric patients: A systematic review. Journal of Oral Rehabilitation. 2019;46(12):1298-1309."
   - "Shetty SM, et al. Distraction techniques for anxiety and pain in pediatric dentistry. International Journal of Pediatric Dentistry. 2013;23(3):141-151."
   - "Klassen JA, et al. Audiovisual distraction for pain management in children undergoing dental procedures: a randomized controlled clinical trial. Journal of Dental Research. 2008;87(10):1031-1035."
+last_reviewed: 2026-08-01
 ---
 ## Why Movies and Music Help Calm Anxious Kids at the Dentist
 

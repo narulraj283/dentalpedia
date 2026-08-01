@@ -19,6 +19,7 @@ references:
   - "Löe H, Holm-Pedersen P. Absence and presence of fluid from normal and inflamed gingiva. Periodontics. 1965;3(4):171-177."
   - "Güncü GN, Tözüm TF, Caglayan F, et al. Gingival recession: clinical presentation and associated factors. J Dent Res. 2005;84(9):866-870."
   - "Eley BM. Antibacterial agents in the control of supragingival biofilm and in the management of gingivitis and associated oral halitosis. Clin Microbiol Rev. 1999;12(3):427-448."
+last_reviewed: 2026-08-01
 ---
 The connection between your tooth and gum is special—it's not just gum hanging loosely around your tooth, but a specialized seal that your body constantly maintains. Understanding how this seal works helps you appreciate why keeping your gums healthy is so important, and what happens when gum disease attacks this critical attachment.
 

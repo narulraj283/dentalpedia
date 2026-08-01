@@ -21,7 +21,7 @@ references:
   - "Goldstein RE, Esthetics in Dentistry (2nd ed.). Hamilton: BC Decker; 2019."
   - "Fradeani M. Smile Design: Integrated Esthetic Treatment of the Dentition. Brescia: Sempe Publisher; 2020."
   - "Rosenblum RS, Grossman PJ. Cosmetic Dentistry: Philosophy, Method, and Implementation. Philadelphia: Lippincott Williams & Wilkins; 2020."
-last_reviewed: 2026-05-01
+last_reviewed: 2026-08-01
 ---
 ## Planning Your Smile Improvement
 

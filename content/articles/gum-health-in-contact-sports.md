@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/24461277/
   - title: "Periodontal Health and Athletic Performance: Is There a Link?"
     url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5470261/
+last_reviewed: 2026-08-01
 ---
 ## Protecting Your Gums in Sports
 

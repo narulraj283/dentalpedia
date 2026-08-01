@@ -38,7 +38,7 @@ slug: rotated-tooth-correction-cosmetic-orthodontics-vs-bonding
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: 'Rotated Teeth: Should You Choose Braces or Bonding?'
-last_reviewed: 2026-05-01
+last_reviewed: 2026-08-01
 ---
 ## How Rotated Teeth Affect Your Smile
 

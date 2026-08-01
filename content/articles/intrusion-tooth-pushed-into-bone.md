@@ -17,7 +17,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/28883831
   - title: "Orthodontic repositioning of intruded permanent teeth"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26439738
-last_reviewed: 2026-07-01
+last_reviewed: 2026-08-01
 ---
 A tooth intrusion is a serious type of injury where a tooth is forcefully pushed up into the bone of your jaw. Unlike a knocked-out tooth (avulsion), an intruded tooth remains in your mouth but appears shorter because part of it has been driven inside the socket. This injury requires immediate professional care because the nerve, blood supply, and bone around the tooth are all damaged.
 

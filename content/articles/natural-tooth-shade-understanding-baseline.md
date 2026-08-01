@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/11934186
   - title: "Okubo SR, Kanawati A, Richards MW, et al. Evaluation of visual and instrumental shade matching. J Prosthet Dent. 1998;80(6):642-648."
     url: https://pubmed.ncbi.nlm.nih.gov/9847102
+last_reviewed: 2026-08-01
 ---
 Your tooth color results from a complex combination of factors—and it's unique to you. Understanding why your teeth are their specific shade helps you accept your natural color or make informed decisions about whitening and cosmetic work.
 

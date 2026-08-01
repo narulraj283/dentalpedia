@@ -42,7 +42,7 @@ slug: saliva-importance-what-you-need-to-know
 subcategory: General Overview
 subcategory_slug: overview-general
 title: Dry Mouth? Here's What You Need to Know About
-last_reviewed: 2026-04-01
+last_reviewed: 2026-08-01
 ---
 ## Do You Have Dry Mouth? Here's What You Should Know
 

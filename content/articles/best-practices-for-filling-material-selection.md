@@ -30,6 +30,7 @@ slug: best-practices-for-filling-material-selection
 subcategory: Fillings & Restorations
 subcategory_slug: fillings-restorations
 title: Comparative Evidence for Dental Restorative Materials
+last_reviewed: 2026-08-01
 ---
 If your dentist just told you that you need a filling, you might have questions about what material they'll use. Is it going to be the silver-colored amalgam your parents had? The tooth-colored composite that looks natural?
 

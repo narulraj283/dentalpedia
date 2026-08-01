@@ -19,6 +19,7 @@ references:
   - "Zawawi KH, Al-Zahrani MS. Efficiency of clear aligners in controlling orthodontic tooth movement. Angle Orthod. 2014;84(2):206-210."
   - "Zheng M, Liu SY, Liu S, et al. Efficiency of fixed appliances versus removable appliances in controlling tooth movement. Angle Orthod. 2015;85(5):716-723."
   - "Robertson L, Kaur H, Faudo O, et al. Effectiveness and patient satisfaction of clear aligner therapy. Clin Cosmet Investig Dent. 2018;10:127-132."
+last_reviewed: 2026-08-01
 ---
 ## Success Rates Vary by Bite Complexity
 

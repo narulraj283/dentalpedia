@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/25068280
   - title: "Fuks AB, Kosinski R. Microleakage of stainless steel crowns affixed with two different cements. ASDC J Dent Child. 1992;59(3):184-186."
     url: https://pubmed.ncbi.nlm.nih.gov/1527891
+last_reviewed: 2026-08-01
 ---
 ## Introduction
 

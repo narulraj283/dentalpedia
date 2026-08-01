@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/8708768
   - title: "Clauser C, Nieri M, Franceschi D, Pini-Prato G. Evidence-based periodontal plastic surgery. Periodontol 2000. 2018;77(1):73-101."
     url: https://pubmed.ncbi.nlm.nih.gov/29926512
+last_reviewed: 2026-08-01
 ---
 ## Rebuilding Your Gum and Bone
 

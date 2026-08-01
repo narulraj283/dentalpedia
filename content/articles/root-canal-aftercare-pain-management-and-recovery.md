@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/1289474
   - title: "Fouad AF. Endodontic microbiology. John Wiley & Sons. 2018."
     url: https://pubmed.ncbi.nlm.nih.gov/29457313
+last_reviewed: 2026-08-01
 ---
 ## What Happens After Your Root Canal Treatment
 

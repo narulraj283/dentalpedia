@@ -43,6 +43,7 @@ slug: tooth-whitening-methods-professional-vs-at-home-treatments
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: 'Tooth Whitening Options Compared: Which Works Best'
+last_reviewed: 2026-08-01
 ---
 ## Your Whitening Options
 

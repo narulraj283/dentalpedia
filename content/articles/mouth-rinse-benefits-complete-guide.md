@@ -31,7 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/26175212
   - title: "Sodium hypochlorite rinses in post-extraction healing and alveolitis prevention"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25348283
-last_reviewed: 2026-07-01
+last_reviewed: 2026-08-01
 ---
 Think of mouth rinse as a helpful partner to your regular brushing and flossing. While rinsing alone can't replace mechanical cleaning, it adds an extra layer of protection by fighting bacteria, reducing inflammation, and supporting your oral health in ways that brushing and flossing alone cannot achieve. You might wonder whether all rinses are the same—they're not. Different types work in different ways depending on your specific oral health needs. Learning about these options helps you choose the right rinse for your situation and make the most of your daily oral care routine.
 

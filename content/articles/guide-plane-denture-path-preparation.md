@@ -31,6 +31,7 @@ references:
     url: "https://www.ncbi.nlm.nih.gov/pubmed"
   - title: "Walmsley AD, Needleman I, Wildgoose D. Periodontology and implantology in routine clinical practice. J Dent. 2011;39(Suppl 3):S1-S2."
     url: "https://www.ncbi.nlm.nih.gov/pubmed"
+last_reviewed: 2026-08-01
 ---
 ## What Is a Guide Plane and Why It Matters
 

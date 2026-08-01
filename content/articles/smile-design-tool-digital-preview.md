@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/7715260
   - title: "Goldstein RE. Change Your Smile. 4th ed. Chicago: Quintessence Publishing; 2011."
     url: https://pubmed.ncbi.nlm.nih.gov/21591555
+last_reviewed: 2026-08-01
 ---
 ## Seeing Your Future Smile Before Treatment
 

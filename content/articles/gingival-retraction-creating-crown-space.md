@@ -19,6 +19,7 @@ references:
   - "Li Y, Gao S, Liu Y, et al. Gingival retraction techniques used in restorative dentistry: A meta-analysis of quantitative outcomes. J Prosthodont Res. 2019;63(4):389-400."
   - "Vargas B, Campbell C, Morales C. Comparison of soft tissue retraction agents and techniques in restorative dentistry. Oper Dent. 2008;33(4):387-394."
   - "Coke JM, Weed RM, Griffin CD. Hemostatic agents in periodontal surgery. Periodontol 2000. 2006;42:85-94."
+last_reviewed: 2026-08-01
 ---
 If your dentist is preparing to place a crown on your tooth, you've probably heard them mention something about gingival retraction. Learning more about [Cavity Formation Process Complete Guide](/article/cavity-formation-process-complete-guide.html) can help you understand this better. This process might sound intimidating, but it's actually a routine, painless procedure that allows your dentist to see and work on the entire tooth surface, including the part hidden under your gum. Understanding what happens during gingival retraction helps you feel more comfortable and appreciate the careful work your dentist is doing to create a crown that fits perfectly and looks natural.
 

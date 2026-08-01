@@ -16,6 +16,7 @@ references:
   - "Feldens CA, Giugliani ER, Duncan BB, Drachler Mde L. Long-term effectiveness of a nutritional counseling program on early childhood caries prevention. Community Dent Oral Epidemiol. 2010;38(4):324-32."
   - "Wigen TI, Wang NJ. Risk factors for early childhood caries in a Norwegian population-based sample. Acta Odontol Scand. 2010;68(5):297-303."
   - "Chankanka O, Levy SM, Warren JJ, Chalmers JM. A literature review of epidemiological studies of early childhood caries in the United States. J Public Health Dent. 2010;70(4):313-27."
+last_reviewed: 2026-08-01
 ---
 ## Introduction
 

@@ -43,7 +43,7 @@ slug: risk-and-concerns-with-emergency-tooth-pain
 subcategory: Emergency Overview
 subcategory_slug: overview-emergency
 title: Risk and Concerns with Emergency Tooth Pain
-last_reviewed: 2026-06-01
+last_reviewed: 2026-08-01
 ---
 ## Understanding Emergency Tooth Pain
 

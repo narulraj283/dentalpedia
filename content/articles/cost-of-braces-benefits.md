@@ -21,6 +21,7 @@ references:
   - "Jones ML, Cunningham SJ, Moles DR. Orthodontic treatment and its impact on oral health. Br Dent J. 2010;209(5):E8."
   - "McGorray SP, Wheeler TT, Yurkewicz L, et al. Accuracy of digital models compared with plaster models. Am J Orthod Dentofacial Orthop. 2016;149(3):323-331."
   - "Alves LSM, Levy SM, Freire MCM, et al. Population and home-based education factors associated with childhood caries experience. J Dent. 2015;43(8):918-924."
+last_reviewed: 2026-08-01
 ---
 Braces cost $3,000-$7,000 at the start. But studies show they prevent $10,000-$37,000 in future dental problems. Straight teeth reduce cavities, gum disease, and jaw problems by 25-50%. Here's why braces are a good investment in your long-term health and money.
 

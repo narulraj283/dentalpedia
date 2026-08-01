@@ -21,7 +21,7 @@ references:
   - "Campbell PM. The dilemma of Class II correction—Headgear, functional appliances, or fixed appliances. Semin Orthod. 2005;11(3):144-153."
   - "Lim HM, Lew KKM, Tay DKL. A clinical investigation of the rate of unloading of ceramic brackets. Am J Orthod Dentofacial Orthop. 1995;108(3):307-313."
   - "Millett DT, Tidswell ME. Artificial saliva and the control of xerostomia: A comparative analysis. Orthod Craniofac Res. 2000;3(1):2-8."
-last_reviewed: 2026-04-01
+last_reviewed: 2026-08-01
 ---
 Braces cause soreness, especially right after placement and after adjustments. Pain peaks at 24-48 hours, then improves. Over-the-counter pain relief, soft foods, and simple fixes cost under $50 and make the first few weeks much more comfortable.
 

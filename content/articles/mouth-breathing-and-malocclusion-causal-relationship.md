@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/22219291
   - title: "Nasal airway obstruction and its relationship to anterior open bite development"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27451816
+last_reviewed: 2026-08-01
 ---
 If you've noticed your child (or yourself) breathing through the mouth instead of the nose, you might wonder if it matters. The answer is yes—much. Chronic mouth breathing during childhood at its core alters how your face and teeth develop, often creating serious bite problems that require years of orthodontic treatment. Understanding this connection between breathing patterns and orthodontics empowers you to address the underlying cause rather than just treating the dental symptoms.
 

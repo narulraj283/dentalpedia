@@ -31,7 +31,7 @@ references:
     url: "https://www.ncbi.nlm.nih.gov/pubmed"
   - title: "Porritt AM, Buchanan H, Hall M, et al. Introdution to Dental Public Health and Research. Elsevier Health Sciences; 2012:144-178."
     url: "https://www.ncbi.nlm.nih.gov/pubmed"
-last_reviewed: 2026-06-01
+last_reviewed: 2026-08-01
 ---
 ## Why Dental Anxiety Happens
 

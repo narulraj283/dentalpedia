@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/30467970
   - title: "Mechanical failures and iatrogenic damage in fixed orthodontic treatment"
     url: https://pubmed.ncbi.nlm.nih.gov/27550098
+last_reviewed: 2026-08-01
 ---
 ## Why Proper Braces Care Instructions Matter for Treatment Success
 

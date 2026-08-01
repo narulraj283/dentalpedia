@@ -20,6 +20,7 @@ slug: rest-seats-denture-support-preparation
 subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
 title: 'Denture Rest Seats: Preparing Your Teeth to Support'
+last_reviewed: 2026-08-01
 ---
 ## What Rest Seats Are and Why They Matter
 

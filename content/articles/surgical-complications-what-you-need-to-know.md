@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/23083079
   - title: "Grossi SG, DeLuca S. Management of postoperative bleeding and alveolar osteitis. J Am Dent Assoc. 2011;142 Suppl 1:8S-16S."
     url: https://pubmed.ncbi.nlm.nih.gov/21715400
+last_reviewed: 2026-08-01
 ---
 ## Introduction
 

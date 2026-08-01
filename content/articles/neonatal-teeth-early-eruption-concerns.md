@@ -29,6 +29,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/31428755
   - title: "Cleidocranial Dysplasia and Premature Eruption: Diagnostic Features and Clinical Implications"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26854859
+last_reviewed: 2026-08-01
 ---
 Most babies get their first teeth around six months. But occasionally, parents discover their newborn has teeth—either at birth (natal teeth) or within the first month (neonatal teeth). Is this a problem? Do these teeth need removal?
 

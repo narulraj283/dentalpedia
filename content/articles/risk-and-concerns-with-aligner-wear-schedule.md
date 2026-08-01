@@ -17,6 +17,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/26969262
   - title: "Park H, et al. Proper pressure for the effectiveness of clear aligners. Prog Orthod. 2017;18(1):27."
     url: https://pubmed.ncbi.nlm.nih.gov/29164356
+last_reviewed: 2026-08-01
 ---
 ## Why This Matters for Your Health
 

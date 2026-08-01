@@ -17,6 +17,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/25134994
   - title: "Fradeani M, Redemagni M, Corradi G. Porcelain veneers: 6- to 12-year evaluation--a retrospective investigation. Int J Periodontics Restorative Dent. 2005;25(1):9-17."
     url: https://pubmed.ncbi.nlm.nih.gov/15736779
+last_reviewed: 2026-08-01
 ---
 ## Introduction
 

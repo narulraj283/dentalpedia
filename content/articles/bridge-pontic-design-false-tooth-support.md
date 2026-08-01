@@ -21,6 +21,7 @@ references:
   - "Van Roekel NB. Pontic design and its relationship to periodontal health. Dent Clin North Am. 1976;20(3):465-480."
   - "Jemt T, Lekholm U. Implant treatment in edentulous patients: a 5-year follow-up report on bridges supported by osseointegrated implants. Clin Oral Implants Res. 1996;7(4):313-322."
   - "Al-Quran FA, Kiliaridis S, Eklund K. Anterior open bite and temporomandibular disorders: a 20-year follow-up orthodontic study, part I. Angle Orthod. 2009;79(6):1063-1073."
+last_reviewed: 2026-08-01
 ---
 ## What Is a Dental Bridge?
 

@@ -19,7 +19,7 @@ references:
   - "Shelley, A. M., Brunton, P. A., Rock, W. P. (2000). Alignment efficiency of three different self-ligating bracket systems. J Orthod. 27(3):236-242."
   - "Richmond, S., Shaw, W. C., O'Brien, K. D., et al. (1992). Orthodontic treatment standards in the United Kingdom. Br Dent J. 172(12):480-485."
   - "Oliveri, S., Bartolucci, D., Tacconi, T., Tacconi, C. (2023). Long-term relapse rates in nonextraction and extraction cases. J World Fed Orthod. 12(1):12-19."
-last_reviewed: 2026-07-01
+last_reviewed: 2026-08-01
 ---
 One of the biggest decisions your orthodontist makes is choosing which archwire to use for your treatment. Should they use a standard, pre-made wire, or should they custom-bend a wire just for your teeth? This choice affects how straight your teeth become, how long they stay straight, and the health of your gums. Let's explore what makes this decision so important.
 

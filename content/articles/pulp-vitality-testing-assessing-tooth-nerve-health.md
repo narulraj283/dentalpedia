@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/24157846
   - title: "Michaelson PL, Holland GR. Is pulpitis a progression of reversible changes in the human pulp? J Dent Res. 2002;81(4):264-271."
     url: https://pubmed.ncbi.nlm.nih.gov/12097362
+last_reviewed: 2026-08-01
 ---
 ## Understanding Your Tooth Nerve Status: Healthy, Inflamed, or Dead
 

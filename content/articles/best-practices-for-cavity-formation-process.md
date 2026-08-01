@@ -19,6 +19,7 @@ references:
   - "Stecksén-Blicks C, Rydberg K, Nyman L, Twetman S. Effect of chlorhexidine gel on mutans streptococci and lactobacilli in full-mouth plaque samples from caries-prone pre-school children. Pediatr Dent. 1985;7(1):16-20."
   - "Kleinberg I. A mixed-model (chemico-parasitic) of caries disease: pathogenic mechanisms in which oral and dietary carcinogens are modulated by buffering, clearance, and defensive factors. J Dent Res. 2002;81(3):182-190."
   - "Tanner AC, Mathney JM, Kent RL Jr, et al. Cultivable anaerobic microbiota of active caries lesions. J Dent Res. 2011;90(8):950-956."
+last_reviewed: 2026-08-01
 ---
 Cavities don't just happen overnight. They develop through a series of steps, and understanding how they form helps you prevent them. The process usually takes 3-6 months but can happen faster if you have bad bacteria in your mouth and eat sugar a lot.
 

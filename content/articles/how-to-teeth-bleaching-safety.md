@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/17878833
   - title: "Clinical evaluation of gum irritation associated with bleaching trays"
     url: https://www.ncbi.nlm.nih.gov/pubmed/23356288
+last_reviewed: 2026-08-01
 ---
 ## What Happens During Professional Teeth Whitening?
 

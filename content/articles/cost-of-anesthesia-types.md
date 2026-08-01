@@ -21,6 +21,7 @@ references:
   - "Bataineh AB. Supplementary buccal infiltration anesthesia in mandibular molar teeth. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2001;92(3):288-292."
   - "Steinauer B, Trombelli L. Local anesthetic efficacy in patients with inflammatory periodontal disease. J Periodontol. 2002;73(8):902-909."
   - "Ramacciato JC, Zanetti AL, Novaes AB, et al. Anesthetic efficacy of articaine and lidocaine for intraligamentary injection administered in buccal and lingual aspects of mandibular anterior teeth. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2003;95(4):431-435."
+last_reviewed: 2026-08-01
 ---
 Your dentist injects anesthetic medication to numb the tooth before work. Learning more about [Impacted Teeth Removal Canines Molars and Premolars](/article/impacted-teeth-removal-canines-molars-and-premolars.html) can help you understand this better. Several medications are available, each with different costs and effectiveness. Here's what you need to know about your options.
 

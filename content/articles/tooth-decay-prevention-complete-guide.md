@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/20091668
   - title: "Azarpazhooh A, Main PA. Efficacy of dental public health interventions in primary and permanent dentition. J Dent Educ. 2008;72(3):365-374."
     url: https://pubmed.ncbi.nlm.nih.gov/18241509
+last_reviewed: 2026-08-01
 ---
 ## Introduction
 

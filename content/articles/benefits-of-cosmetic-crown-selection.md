@@ -19,6 +19,7 @@ references:
   - "Heap TR, Englander HR. Effect of crown material on the success of long-term clinical restorations. J Prosthodont Res. 2014;58(2):102-110."
   - "Anusavice KJ. Recent developments in restorative dental ceramics. J Am Dent Assoc. 1993;124(10):72-84."
   - "Heintze SD, Rousson V. Survival of dental restorations in adolescents over an average of 11 years. Clin Oral Investig. 2016;20(7):1533-1547."
+last_reviewed: 2026-08-01
 ---
 ## What Makes a Crown Look Good?
 

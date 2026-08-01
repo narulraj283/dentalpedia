@@ -21,6 +21,7 @@ references:
   - "Kwon HK, Park JY, Park CJ, et al. Bond strength of enamel-bonded CAD/CAM-fabricated ceramic brackets after thermal cycling. Angle Orthod. 2007;77(6):998-1005."
   - "Sfondrini MF, Cacciafesta V, Massironi S, Scribante A. Friction properties of conventional and self-ligating ceramic brackets. Angle Orthod. 2009;79(3):591-596."
   - "Krishnan M, Kalathil S, Abraham KM. Esthetic determinants in the perception of smile. Angle Orthod. 2015;85(1):10-18."
+last_reviewed: 2026-08-01
 ---
 Ceramic braces have become increasingly popular because they're almost invisible while still moving your teeth effectively. If you've wondered whether tooth-colored braces actually work as well as traditional metal braces, the answer is: they're remarkably similar in efficiency, especially with modern techniques.
 

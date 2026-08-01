@@ -19,6 +19,7 @@ references:
   - "Tsesis I, Rosen E, Taschieri S, Telcean A, Hazan-Molina H, Kaufman AY. Outcome of surgical endodontic treatment performed by a modern technique: an updated meta-analysis of the literature. J Endod. 2013;39(3):332-339."
   - "Wang N, Knight K, Dao T, et al. Treatment outcome in endodontics—the Toronto study. Phase II: Initial treatment. J Endod. 2004;30(4):302-309."
   - "Carr GB. Ultrasonic root-end preparation. Endod Topics. 2005;11(1):156-169."
+last_reviewed: 2026-08-01
 ---
 ## When Surgery Becomes Necessary
 

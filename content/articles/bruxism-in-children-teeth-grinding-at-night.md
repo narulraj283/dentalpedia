@@ -32,7 +32,7 @@ slug: bruxism-in-children-teeth-grinding-at-night
 subcategory: Pediatric Overview
 subcategory_slug: overview-pediatric
 title: 'Bruxism in Children: Nocturnal Teeth Grinding Etiology'
-last_reviewed: 2026-04-01
+last_reviewed: 2026-08-01
 ---
 ## Childhood Grinding: How Common Is It?
 

@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/9604575
   - title: "Lysiak-Szydlowska W, Sołtyszewski M. Chemical composition of enamel and dentin in permanent and deciduous teeth. Rocz Akad Med Bialymst. 2005;50(suppl 1):193-195."
     url: https://pubmed.ncbi.nlm.nih.gov/16359161
+last_reviewed: 2026-08-01
 ---
 ## What You Should Know
 

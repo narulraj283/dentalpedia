@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/11699970
   - title: "Pitts NB, Ekstrand KR. International Caries Detection and Assessment System (ICDAS) and its International Caries Classification and Management System (ICCMS)--methods for staging of the caries process and enabling dentists to manage caries. Community Dent Oral Epidemiol. 2013;41(1):e41-e52."
     url: https://pubmed.ncbi.nlm.nih.gov/23167683
+last_reviewed: 2026-08-01
 ---
 ## Why Cavity Prevention Is More Complicated Than You Think
 

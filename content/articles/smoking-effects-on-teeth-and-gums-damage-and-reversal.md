@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/22924265
   - title: "Becerik S, Atmaca H, Erbas B, Kinane DF, Sumer U, Ogus E. Overproduction of proinflammatory cytokines in gingival tissue samples from smokers with chronic periodontitis. Journal of Clinical Periodontology. 2007;34(7):551-556."
     url: https://pubmed.ncbi.nlm.nih.gov/17555410
+last_reviewed: 2026-08-01
 ---
 ## Introduction
 

@@ -19,7 +19,7 @@ references:
   - "Chiapasco M, Casentini P, Zaniboni M. Bone augmentation procedures in implant dentistry. Int J Oral Maxillofac Implants. 2009;24(Suppl):237-259."
   - "Donos N, Mardas N, Chadha V. Clinical outcomes of implants following complex bone augmentation procedures and soft tissue reconstruction. J Clin Periodontol. 2008;35(S8):283-306."
   - "Sanz M, Vignoletti F. Key advances in periodontal therapy: consensus of the Sixth European Workshop on Periodontology. J Clin Periodontol. 2016;43(5):405-407."
-last_reviewed: 2026-06-01
+last_reviewed: 2026-08-01
 ---
 ## Four Core Principles That Guide Surgery
 

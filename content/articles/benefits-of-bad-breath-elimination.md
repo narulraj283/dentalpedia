@@ -19,6 +19,7 @@ references:
   - "Al-Haboubi, M., Dwyer, R. S., Alves, B., et al. (2011). Effects of subjective halitosis and objective halitosis on psychosocial variables. Journal of Dental Research, 90(4), 469-474."
   - "Iwakura, M., Yasuno, Y., Shimura, M., & Sakuma, S. (2015). Transient halitosis—predicting factors and characteristics. Journal of Dental Research, 73(6), 1421-1430."
   - "Tangerman, A. (2018). Halitology: a review of the scientific literature on oral malodor. Journal of Breath Research, 6(2), 027119."
+last_reviewed: 2026-08-01
 ---
 ## What Causes Bad Breath?
 

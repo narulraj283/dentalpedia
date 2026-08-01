@@ -29,6 +29,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/28234567
   - title: "Elastomeric vs Elastomeric Wire: Force Decay and Optimal Activation in Bite Correction"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27654321
+last_reviewed: 2026-08-01
 ---
 Your bite is how your upper and lower teeth come together when you close your mouth. When your bite is off, it can affect how you chew, speak, and smile. The good news is that there are several treatment options available, and your orthodontist can help you choose the best one for your situation.
 

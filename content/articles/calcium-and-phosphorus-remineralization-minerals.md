@@ -28,7 +28,7 @@ slug: calcium-and-phosphorus-remineralization-minerals
 subcategory: Preventive Overview
 subcategory_slug: overview-preventive
 title: 'Calcium and Phosphorus: Remineralization Minerals'
-last_reviewed: 2026-07-01
+last_reviewed: 2026-08-01
 ---
 ## How Calcium and Phosphorus Repair Teeth
 

@@ -34,6 +34,7 @@ slug: best-practices-for-adult-braces-options
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: 'Adult Orthodontic Treatment: Clinical Best Practices'
+last_reviewed: 2026-08-01
 ---
 ## Getting Braces as an Adult: What You Need to Know
 
