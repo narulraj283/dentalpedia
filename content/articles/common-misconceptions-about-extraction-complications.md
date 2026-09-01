@@ -19,6 +19,7 @@ references:
   - Antunes HSB, et al. Postoperative pain and complications after tooth extraction. Clinics. 2016;71(8):422-426.
   - Zyulina GA, et al. The occurrence of dry socket: incidence and classification. Journal of Oral and Maxillofacial Surgery. 2015;73(7):1311-1317.
   - Kolokythas A. Alveolar osteitis: a comprehensive review of concepts and controversies. International Journal of Dentistry. 2010;2010:249073.
+last_reviewed: 2026-09-01
 ---
 If you're facing a tooth extraction, you might worry about complications. Good news: serious complications are actually pretty rare. But understanding the risk factors helps you know what to expect and how to prevent problems.
 

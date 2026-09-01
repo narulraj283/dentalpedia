@@ -21,7 +21,7 @@ references:
   - "Kawashita Y, et al. Relationship between the snacking habits and dental caries in preschool children. J Pediatr Dent. 2011;19(1):1-8."
   - "Plonka KA, et al. Controlled variables in early childhood caries aetiology. Oral Health Prev Dent. 2012;10(1):3-12."
   - "Ribeiro NME, et al. Effect of child feeding practices on early childhood caries in low-income families. Community Dent Oral Epidemiol. 2014;42(6):532-540."
-last_reviewed: 2026-05-01
+last_reviewed: 2026-09-01
 ---
 Early childhood caries (cavities in babies and toddlers) is a serious problem affecting millions of children worldwide. Many parents don't realize that prolonged bottle feeding—especially at bedtime or with sugary drinks—can devastate a young child's teeth. This condition can affect not just baby teeth but a child's overall health, nutrition, speech development, and even how well they do in school.
 

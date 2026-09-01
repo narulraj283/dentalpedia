@@ -19,6 +19,7 @@ references:
   - "Lussi A, Megert B, Longbottom C, Reich E, Francescut P. Clinical performance of laser fluorescence system. Helv Odontol Acta. 1999;43(1):25-33."
   - "Verdonschot EH, Plasschaert AJ. Etiology and diagnosis of caries. Dent Update. 1987;14(4):172-178."
   - "Pretty IA, Marcos M. Digital imaging in dentistry. Dent Clin North Am. 2010;54(3):431-444."
+last_reviewed: 2026-09-01
 ---
 ## How Your Dentist Finds Cavities
 

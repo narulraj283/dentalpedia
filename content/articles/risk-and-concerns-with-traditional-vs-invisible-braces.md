@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/16618851
   - title: "Weltman B, Vig KWL, Fields HW, Shanker S, Kaizar EE. Root resorption associated with orthodontic tooth movement: does the approximal alveolar bone level predict short-term root resorption? Am J Orthod Dentofacial Orthop. 2010;138(4):438-444."
     url: https://pubmed.ncbi.nlm.nih.gov/20889051
+last_reviewed: 2026-09-01
 ---
 ## Choosing Between Traditional Braces and Clear Aligners
 

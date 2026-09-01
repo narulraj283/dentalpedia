@@ -19,6 +19,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/25891364
   - title: "Fluoride rinse effectiveness for caries prevention"
     url: https://www.ncbi.nlm.nih.gov/pubmed/17194307
+last_reviewed: 2026-09-01
 ---
 You see hundreds of mouthwash options at the pharmacy, all promising to fix your mouth in 30 seconds. But most mouthwashes are just flavor and marketing—while some actually prevent disease. Here's what different rinses actually do, and whether you need one at all.
 

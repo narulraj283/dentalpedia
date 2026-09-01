@@ -31,7 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/18350986
   - title: "Cehreli ZC, et al. Repair of a fractured incisor using an adhesive composite resin restoration. Am J Dent. 2003;16(4):269-272."
     url: https://pubmed.ncbi.nlm.nih.gov/14650521
-last_reviewed: 2026-06-01
+last_reviewed: 2026-09-01
 ---
 ## Quick Fixes with Bonding
 

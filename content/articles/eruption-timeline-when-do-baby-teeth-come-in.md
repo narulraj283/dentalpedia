@@ -19,6 +19,7 @@ references:
   - "Leroy R, Bogaerts K, Lesaffre E, et al. Parental smoking behavior and caries experience in preschool children. Community Dent Oral Epidemiol. 2005;33(4):274-279."
   - "Horton S, Barker J, Daley T, et al. Delayed tooth eruption: pathologic or normal variation? ASDC J Dent Child. 1992;59(5):331-338."
   - "Towers JR. Timing of the eruption of primary teeth. J Dent Res. 1999;78(Suppl):369."
+last_reviewed: 2026-09-01
 ---
 ## When Baby Teeth Start Developing
 

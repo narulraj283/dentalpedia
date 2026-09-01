@@ -28,7 +28,7 @@ slug: irrigation-solutions-medicinal-liquids
 subcategory: Endodontic Overview
 subcategory_slug: overview-endo
 title: Irrigation Solutions Medicinal Liquids
-last_reviewed: 2026-04-01
+last_reviewed: 2026-09-01
 ---
 ## Role of Irrigation in Endodontic and Periodontal Therapy
 

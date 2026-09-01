@@ -27,6 +27,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/26505920/"
   - title: "Patient Satisfaction and Treatment Outcomes in Orthodontics: Appointment Scheduling Impact"
     url: "https://pubmed.ncbi.nlm.nih.gov/28234262/"
+last_reviewed: 2026-09-01
 ---
 ## Orthodontic Appointments: Why Schedule Matters More Than You Think
 

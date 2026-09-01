@@ -21,6 +21,7 @@ references:
   - "Årtun J, et al. Long-term stability of maxillary incisors following removal of fixed appliances and use of different type of bonded retainers. Eur J Orthod. 1997;19(3):269-278."
   - "Felicita AS. Quantification of incisor root resorption after fixed appliance therapy: radiographic vs cone beam computed tomography evaluation. Korean J Orthod. 2017;47(2):75-83."
   - "Chapman JL, et al. The impact of fixed appliance bracket type on the force delivery capacity of ligation systems. J World Fed Orthod. 2015;4(4):120-128."
+last_reviewed: 2026-09-01
 ---
 ## Best Practices for Braces Benefits
 

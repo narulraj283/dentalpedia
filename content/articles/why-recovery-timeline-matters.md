@@ -31,6 +31,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/34567928"
   - title: "Pain Resolution and Healing Continuation Beyond Clinical Comfort"
     url: "https://pubmed.ncbi.nlm.nih.gov/34567929"
+last_reviewed: 2026-09-01
 ---
 When you have a tooth extracted, you're probably thinking about how quickly you can get back to your normal life. While many people feel remarkably better within a week or two, the truth is that healing continues long after your pain goes away. Your tooth socket goes through distinct stages of healing over the course of a year, and understanding this timeline helps you know what's normal, when you can resume activities, and whether everything is progressing as it should.
 

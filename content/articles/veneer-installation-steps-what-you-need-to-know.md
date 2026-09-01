@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/26847385
   - title: "Handling Complications in Veneer Therapy: Prevention and Management Strategies"
     url: https://pubmed.ncbi.nlm.nih.gov/25984815
+last_reviewed: 2026-09-01
 ---
 ## Your Complete Veneer Treatment Journey
 

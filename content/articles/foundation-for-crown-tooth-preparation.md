@@ -13,7 +13,7 @@ reviewed: true
 references:
   - "Shillingburg HT, Hobo S, Whitsett LD, et al. Fundamentals of Fixed Prosthodontics. 4th ed. Quintessence; 2012:145-198."
   - "Burke FJ, Fleming GJ, Lynch E. Restoration of the endodontically treated tooth. Dent Update. 2002;29(7):347-354."
-last_reviewed: 2026-05-01
+last_reviewed: 2026-09-01
 ---
 You've been told you need a crown, and your dentist mentioned something about a "core buildup" or "foundation buildup." You might be wondering: what is that, and why do I need it? The short answer is this: a core buildup is like creating a foundation for a house. You wouldn't build a house directly on crumbling earth, right? The same principle applies to your teeth. If your tooth has lost a lot of structure from decay, old fillings, or root canal treatment, building up a strong foundation first makes your crown last 20-30 years instead of 5-10.
 

@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/17594379
   - title: "Goodacre CJ, Campagni WV, Aquilino SA. Tooth replacements when abutments are severely compromised by previous restorations. J Prosthet Dent. 1996;76(4):435-441."
     url: https://pubmed.ncbi.nlm.nih.gov/8900910
+last_reviewed: 2026-09-01
 ---
 ## Bridging a Single Missing Tooth: When a Bridge Works
 

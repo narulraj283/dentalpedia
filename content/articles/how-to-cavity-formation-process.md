@@ -29,7 +29,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/29381293
   - title: "Carbohydrate metabolism, acid production, and pH regulation in dental plaque biofilms"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25432809
-last_reviewed: 2026-06-01
+last_reviewed: 2026-09-01
 ---
 Cavities don't just happen suddenly—they develop step by step through a process you can actually stop if you understand it. Here's how the cavity formation process works, from bacteria to acid to holes in your teeth.
 

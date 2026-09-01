@@ -18,6 +18,7 @@ slug: noma-gangrenous-gingivitis
 subcategory: Infections & Abscesses
 subcategory_slug: infections-abscess
 title: 'Noma: A Serious Infection That Requires Immediate Care'
+last_reviewed: 2026-09-01
 ---
 ## Understanding the Basics
 

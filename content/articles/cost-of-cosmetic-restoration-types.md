@@ -21,6 +21,7 @@ references:
   - "Ozgunaltay G, Adigüzel Ö. Nanofilled composite resin restorations in high-smile-line patients. J Esthet Restor Dent. 2010;22(5):344-351."
   - "Beuer F, Schweiger J, Edelhoff D. Digital dentistry and its applications. Quintessence Int. 2008;39(2):107-118."
   - "Preston JD. Current status of shade matching and color reproduction in prosthodontics. J Prosthet Dent. 1985;54(3):304-309."
+last_reviewed: 2026-09-01
 ---
 When you want to improve the appearance of your smile, you have several restoration options. Bonding, veneers, and crowns all look great but cost different amounts and last different lengths of time. Understanding your options helps you choose what's best for your smile and your budget.
 

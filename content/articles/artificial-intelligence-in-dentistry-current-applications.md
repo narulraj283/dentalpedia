@@ -19,6 +19,7 @@ references:
   - "Liang, H., Badillo, B., Zhang, Y., et al. (2021). Oral cancer screening in primary care: automated image analysis feasibility. J Dent Res. 100(9):961-969."
   - "Alamoudi, N., Alasmari, T., Al-Qahtani, S. M., Alfouzan, A. F. (2023). Machine learning algorithms and deep learning models applied to MRI for dental pathology detection. Diagnostics. 13(2):352."
   - "Giger, M. L., Campbell, G.,Ehen, C., et al. (2020). AI, machine learning, and related techniques in medical imaging: impact on detection, diagnosis, and management of cancer. Semin Radiol Oncol. 29(4):407-416."
+last_reviewed: 2026-09-01
 ---
 Artificial intelligence is starting to change dentistry. Computer programs can now help find cavities, measure bone loss, plan implant surgery, and even spot oral cancer. These tools are helpful, but it's important to understand what they can and can't do—and that your dentist still makes the final decisions.
 

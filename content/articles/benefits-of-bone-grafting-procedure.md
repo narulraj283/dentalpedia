@@ -19,7 +19,7 @@ references:
   - "Tatum Jr, H. (1986). Maxillary and sinus implant reconstructions. Dental Clinics of North America, 30(2), 207-229."
   - "Kasrai, L., Lalonde, O., & Chan, E. (2012). Vertical ridge augmentation using particulate bone grafts and titanium-reinforced membranes. Journal of Oral and Implant Surgery, 38(4), 401-410."
   - "Horwitz, J., Zuabi, O., & Peled, M. (2007). A clinical evaluation of a hydroxyapatite/poly-L-lactic acid composite material as a bone graft in the augmentation of the anterior maxilla. Journal of Periodontology, 78(2), 315-321."
-last_reviewed: 2026-08-01
+last_reviewed: 2026-09-01
 ---
 ## When You Don't Have Enough Bone
 

@@ -45,6 +45,7 @@ slug: pfapa-syndrome-periodic-fever-and-ulcers
 subcategory: Oral Health Conditions Overview
 subcategory_slug: overview-oral-conditions
 title: Pfapa Syndrome Periodic Fever and Ulcers
+last_reviewed: 2026-09-01
 ---
 ## What Is PFAPA Syndrome?
 

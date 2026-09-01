@@ -15,7 +15,7 @@ references:
   - "Grandi G, Tschopp H. Intraoral Wounds: Microbiology, Healing, and Antibiotic Therapy. Oral Surg Oral Med Oral Pathol. 1986;61(6):540-545."
   - "Stone HH, Haejim C. Infectious Complications Following Oral Surgery. J Oral Surg. 1980;38(6):409-415."
   - "Edlich RF, Rodeheaver GT, Morgan RF, et al. Principles of Emergency Wound Management. Ann Emerg Med. 1988;17(12):1284-1302."
-last_reviewed: 2026-08-01
+last_reviewed: 2026-09-01
 ---
 ## Mouth Injuries Happen: Here's What To Do
 

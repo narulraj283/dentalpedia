@@ -29,6 +29,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/12586968
   - title: "Re-osseointegration success rates following early implant removal"
     url: https://www.ncbi.nlm.nih.gov/pubmed/16694189
+last_reviewed: 2026-09-01
 ---
 Implant failure sounds scary, but the good news is it's rare—over 95% of implants succeed. Understanding what can go wrong and how to prevent it puts you in control. Most failures are preventable with the right choices and care. Learning more about [Implant Failure: Rejection and Causes](/article/implant-failure-rejection-and-causes.html) can help you understand this better.
 

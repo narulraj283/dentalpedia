@@ -29,7 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/4600124
   - title: "Reitz CD, Drisco JR. Guide planes in removable partial denture design. J Am Dent Assoc. 1981;102(5):611-614."
     url: https://pubmed.ncbi.nlm.nih.gov/6938404
-last_reviewed: 2026-07-01
+last_reviewed: 2026-09-01
 ---
 ## How Your Partial Denture Stays Stable
 

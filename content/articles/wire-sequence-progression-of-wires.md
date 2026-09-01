@@ -27,6 +27,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/24598598/"
   - title: "Transition mechanics from light to heavy wire forces in orthodontic treatment"
     url: "https://pubmed.ncbi.nlm.nih.gov/21170381/"
+last_reviewed: 2026-09-01
 ---
 ## How Braces Progress: The Wire Sequence Explained
 

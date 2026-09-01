@@ -45,6 +45,7 @@ slug: recovery-timeline-complete-guide
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Recovery Timeline Complete Guide
+last_reviewed: 2026-09-01
 ---
 ## Different Procedures, Different Recovery Times
 

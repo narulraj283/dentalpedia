@@ -19,7 +19,7 @@ references:
   - Haas AN, et al. Instruments for interdental cleaning. Periodontology 2000. 2018;76(1):16-32.
   - Paraskevas S, et al. Consensus Report: Adjunctive Therapies in Periodontitis. Journal of Clinical Periodontology. 2018;45(S20):S307-S311.
   - Gluch JI. Patient compliance in periodontal disease control. Periodontology 2000. 2008;36(1):147-156.
-last_reviewed: 2026-07-01
+last_reviewed: 2026-09-01
 ---
 You've probably heard that flossing is essential. You've also probably heard recent news suggesting maybe it isn't? Let's cut through the confusion about whether flossing actually works and how to do it effectively.
 

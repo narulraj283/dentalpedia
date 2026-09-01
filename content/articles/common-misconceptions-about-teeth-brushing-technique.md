@@ -21,6 +21,7 @@ references:
   - "Bass CC. An effective method of personal oral hygiene. J Am Dent Assoc. 1954;48(3):275-283."
   - "Tenovuo J. Antimicrobial function of saliva. J Dent Res. 1998;77(3):695-703."
   - "Carvalho JC, Cury JA. Fluoride release from some dental materials. Oper Dent. 1992;17(6):227-232."
+last_reviewed: 2026-09-01
 ---
 You probably think you know how to brush your teeth correctly. But research shows that most people brush wrong—not necessarily in a dramatic way, just in ways that reduce effectiveness and potentially harm your gums. Let's look at what actually works.
 

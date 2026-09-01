@@ -27,6 +27,7 @@ references:
     url: "https://www.ncbi.nlm.nih.gov/pubmed/27037893"
   - title: "Long-Term Stability: Extraction Versus Non-Extraction Cases"
     url: "https://www.ncbi.nlm.nih.gov/pubmed/28470226"
+last_reviewed: 2026-09-01
 ---
 One of the scariest things to hear from your orthodontist is that you might need to have some teeth extracted as part of your treatment. But sometimes tooth extractions are the smartest choice. About 35-40 percent of orthodontic patients benefit from having one or more teeth removed, and when done thoughtfully, extractions lead to better results, better bite stability, and better long-term outcomes than trying to force too many teeth into too little space. Learning more about [how long does orthodontic treatment take?](/article/how-to-orthodontic-treatment-duration.html) can help you understand this better.
 

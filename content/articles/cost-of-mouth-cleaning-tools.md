@@ -19,6 +19,7 @@ references:
   - "Petersen PE, Ogawa H. The global burden of oral diseases and risks to oral health. Bull World Health Organ. 2005;83(9):661-669."
   - "Van der Weijden FA, Slot DE. Oral hygiene in the prevention of periodontal diseases: the evidence. Int J Dent Hyg. 2011;9(4):281-286."
   - "Tadikonda A, Palamaner H, Messer LB, et al. A comparative clinical study of different manual toothbrush designs on plaque removal efficiency. J Contemp Dent Pract. 2015;16(1):1-6."
+last_reviewed: 2026-09-01
 ---
 ## Your Teeth Are Worth a Good Investment in Tools
 

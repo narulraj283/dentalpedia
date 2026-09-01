@@ -21,6 +21,7 @@ references:
   - "Forde K, Zeitoun H, Benson PE, et al. Orthodontic considerations in cerebral palsy. Angle Orthod. 2009;79(5):973-980."
   - "Faulks D, Mackie IC. Preoperative assessment and management of the patient with special needs. Eur J Paediatr Dent. 2015;16(2):174-183."
   - "Trubey R, Moore D, Chestnutt I. Dental health and access to dental care: a qualitative study of parents of children with special care needs. Spec Care Dentist. 2012;32(1):8-14."
+last_reviewed: 2026-09-01
 ---
 Caring for your child's teeth can feel overwhelming when cerebral palsy affects their motor control. You're not alone—many parents face similar challenges. The good news is that with the right strategies, adaptive tools, and support from your dental team, you can help your child maintain healthy teeth and gums.
 

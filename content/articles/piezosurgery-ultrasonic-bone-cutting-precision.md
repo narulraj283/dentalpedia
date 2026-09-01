@@ -45,6 +45,7 @@ slug: piezosurgery-ultrasonic-bone-cutting-precision
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Piezosurgery and Ultrasonic Bone Cutting Precision
+last_reviewed: 2026-09-01
 ---
 ## What Is Piezosurgery?
 

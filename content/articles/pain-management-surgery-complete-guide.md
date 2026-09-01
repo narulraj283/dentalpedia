@@ -41,6 +41,7 @@ slug: pain-management-surgery-complete-guide
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Pain Management Surgery Complete Guide
+last_reviewed: 2026-09-01
 ---
 ## How Your Dentist Controls Pain During Surgery
 

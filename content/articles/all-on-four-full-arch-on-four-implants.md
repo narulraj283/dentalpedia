@@ -27,7 +27,7 @@ slug: all-on-four-full-arch-on-four-implants
 subcategory: Implant Overview
 subcategory_slug: overview-implants
 title: 'All-on-4 Full-Arch Implant Restoration: Evaluation'
-last_reviewed: 2026-05-01
+last_reviewed: 2026-09-01
 ---
 ## Am I a Good Candidate for All-on-4?
 

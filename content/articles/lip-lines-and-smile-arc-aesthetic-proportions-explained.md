@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/26555125
   - title: "Dynamic versus Static Smile Analysis in Comprehensive Esthetic Treatment Planning"
     url: https://www.ncbi.nlm.nih.gov/pubmed/28492342
+last_reviewed: 2026-09-01
 ---
 ## Understanding Smile Design
 

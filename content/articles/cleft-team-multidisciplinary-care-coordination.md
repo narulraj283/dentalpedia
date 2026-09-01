@@ -21,7 +21,7 @@ references:
   - Marsh JL, Grames LM, Hortis-Dzierzbicki S. Late corrections of cleft lip/palate deformities. Cleft Palate Craniofac J. 1989;26(4):344-354.
   - Grobbelaar AO. Breast and bottle feeding in cleft lip and palate. Cleft Palate Craniofac J. 2007;44(3):350-356.
   - Ysunza A, Pamplona MC, Mendoza M, et al. Velopharyngeal insufficiency in non-syndromic cleft patients: prevalence and associated factors. Plast Reconstr Surg. 2014;133(5):1147-1155.
-last_reviewed: 2026-04-01
+last_reviewed: 2026-09-01
 ---
 ## Why Your Child Needs a Coordinated Team
 

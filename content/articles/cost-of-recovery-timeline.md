@@ -21,7 +21,7 @@ references:
   - "Arora H, Khanna V, Chugh V, et al. Radiographic evaluation of socket healing after extraction of impacted third molars. Natl J Maxillofac Surg. 2013;4(2):193-200."
   - "Waite PD. Textbook of Practical Periodontal Surgery. 2nd ed. Hawker Publications; 1992."
   - "Pedersen AM, Belstrøm D. The role of natural salivary defenses in maintaining a healthy oral microbiota. J Dent. 2019;80(Suppl 1):S80-S88."
-last_reviewed: 2026-08-01
+last_reviewed: 2026-09-01
 ---
 ## Understanding Your Recovery Timeline
 

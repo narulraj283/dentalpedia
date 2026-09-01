@@ -16,6 +16,7 @@ references:
   - "Gilmore N, Sheiham A. Overdenture abutments: periodontal considerations. J Prosthet Dent. 1971;25(4):374-382."
   - "Nyvad B, Fejerskov O. Active root surface caries converted into arrested caries as a response to surgical planing and chlorhexidine treatment. Caries Res. 1986;20(3):185-192."
   - "Rudy RJ, Tucker JB, Williams KB. A 36-month retrospective study of food impaction problems. Quintessence Int. 1996;27(11):757-761."
+last_reviewed: 2026-09-01
 ---
 Have you ever felt like food gets constantly stuck between your teeth? That annoying trapped feeling—when you chew and suddenly something wedges in there really hard—is called food impaction. It sounds minor, but this common problem can actually damage your gums and the bone supporting your teeth. The good news is understanding why it happens and how to fix it can help you keep your teeth healthy for life.
 

@@ -37,6 +37,7 @@ slug: clove-oil-natural-pain-relief
 subcategory: Oral Health Overview
 subcategory_slug: overview-oral-health
 title: 'Clove Oil for Dental Pain: Clinical Evidence'
+last_reviewed: 2026-09-01
 ---
 ## What Makes Clove Oil Work for Tooth Pain?
 

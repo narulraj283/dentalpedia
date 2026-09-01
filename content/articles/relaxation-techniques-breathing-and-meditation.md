@@ -45,6 +45,7 @@ slug: relaxation-techniques-breathing-and-meditation
 subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
 title: Relaxation Techniques Breathing and Meditation
+last_reviewed: 2026-09-01
 ---
 ## Understanding Dental Anxiety and Why It Happens
 

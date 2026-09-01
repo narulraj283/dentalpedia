@@ -19,7 +19,7 @@ references:
   - "Barrons RB. Treatment of Aphthous Ulcers and Canker Sores. Am Fam Physician. 2001;63(1):149-154."
   - "Jurge S, Kuffer T, Scully C, Porter SR. Mucosal Ulceration—A Review. J Oral Pathol Med. 2005;34(5):237-251."
   - "McBride DR. Management of Aphthous Ulcers. Am Fam Physician. 2000;62(1):149-154."
-last_reviewed: 2026-04-01
+last_reviewed: 2026-09-01
 ---
 Ever had a painful mouth ulcer that made eating miserable? You're not alone—about 15-25% of people get canker sores at some point. The good news is they usually heal on their own in 1-2 weeks, and affordable treatments can speed that up and reduce pain. Here's what causes them, how to treat them, and what different options cost.
 

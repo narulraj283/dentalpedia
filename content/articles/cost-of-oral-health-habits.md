@@ -19,7 +19,7 @@ references:
   - "Page RC, Eke PI. Periodontitis in Adults: National Health and Nutrition Examination Survey 2009-2010. J Dent Res. 2012;91(10):914-920."
   - "Listl S, Watt RG, Albani F, Celeste RK. Global Impact of Oral Conditions on Health and Quality of Life in 1.6 Billion Adolescents. J Adolesc Health. 2015;56(5):473-479."
   - "Twetman S, Keller MK. Fluoride Rinses, Gels and Foams: An Update of Preventive Efficacy for Children and Adolescents. Caries Res. 2016;50(Suppl 1):38-44."
-last_reviewed: 2026-06-01
+last_reviewed: 2026-09-01
 ---
 ## Your Daily Habits Are Your Best Investment
 

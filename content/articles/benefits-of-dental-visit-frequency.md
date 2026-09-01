@@ -32,6 +32,7 @@ slug: benefits-of-dental-visit-frequency
 subcategory: Preventive Care
 subcategory_slug: preventive-care
 title: Understanding Dental Visit Frequency for Better
+last_reviewed: 2026-09-01
 ---
 ## Do You Really Need to Go Every Six Months?
 

@@ -27,7 +27,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/20180403
   - title: "Dental and Oral Soft Tissue Trauma in Athletes"
     url: https://www.ncbi.nlm.nih.gov/pubmed/23045839
-last_reviewed: 2026-07-01
+last_reviewed: 2026-09-01
 ---
 One in six young athletes who play contact sports will experience a dental injury at some point—a knocked-out tooth, cracked tooth, or lip laceration from impact. The good news is that a properly fitting mouthguard prevents up to 99% of these injuries. The bad news is many athletes wear guards that provide little actual protection because they don't fit properly, are uncomfortable, or were never designed for real protection. Investing in the right mouthguard for your sport, ensuring it fits correctly, and actually wearing it transforms injury risk from significant to nearly zero.
 

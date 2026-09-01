@@ -43,6 +43,7 @@ references:
     year: 2006
     title: "Long-term Alcohol Consumption and Surgical Site Infection"
     journal: "Archives of Surgery"
+last_reviewed: 2026-09-01
 ---
 ## Healing Your Body After Oral Surgery
 

@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/383266
   - title: "Yildirim G, Atakan C, Suer BT, Ozcan M. Instrument breakage during oral surgery: causes, consequences, and management. Int J Oral Maxillofac Surg. 2009;38(12):1254-1260."
     url: https://pubmed.ncbi.nlm.nih.gov/19664917
+last_reviewed: 2026-09-01
 ---
 ## Introduction
 

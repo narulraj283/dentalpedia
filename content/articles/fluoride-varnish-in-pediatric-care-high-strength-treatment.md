@@ -21,6 +21,7 @@ references:
   - "Araujo MP, Franco KF, Maia LC, et al. Effectiveness of the use of sodium fluoride varnish on the prevention of caries. Rev Gaúcha Odontol. 2012;60(3):401-408."
   - "Riordan PJ. Fluoride supplements for young children: an analysis of benefits and risks. J Public Health Dent. 1993;53(3):174-182."
   - "Cury JA. The role of fluoride on the prevention and management of dental caries in children. Pediatr Dent. 2018;40(6):190-196."
+last_reviewed: 2026-09-01
 ---
 ## Why Fluoride Varnish Works Well for Children
 

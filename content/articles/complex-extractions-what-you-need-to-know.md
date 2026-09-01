@@ -21,6 +21,7 @@ references:
   - "Benediktsdottir et al. Risk Factors Associated with Surgical Extraction Complications. Journal of Oral and Maxillofacial Surgery, 2023;81(4):512-528."
   - "Dierks et al. Prophylactic Antibiotics in Surgical Extractions. Oral Surgery, Oral Medicine, Oral Pathology, 2024;137(2):145-159."
   - "Chrcanovic et al. Long-Term Outcomes Following Complex Tooth Extraction. International Journal of Oral & Maxillofacial Surgery, 2023;52(8):895-912."
+last_reviewed: 2026-09-01
 ---
 If your dentist says you need a complex extraction, you're probably wondering what that means for your recovery and what complications might occur. Let's talk about realistic expectations and how to prepare.
 

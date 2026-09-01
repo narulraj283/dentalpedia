@@ -31,6 +31,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/19233122/"
   - title: "Long-term shade stability and color rebound in adhesive restorations"
     url: "https://pubmed.ncbi.nlm.nih.gov/22278571/"
+last_reviewed: 2026-09-01
 ---
 When your dentist fills a cavity or places a crown, they want the new repair to look completely natural—invisible to casual observers, matching your teeth perfectly. But selecting the exact shade (color) is far trickier than most patients realize. It's part art, part science, and small mistakes become noticeable disappointments that can look awkward or fake.
 

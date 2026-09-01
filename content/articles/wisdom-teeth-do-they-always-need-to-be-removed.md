@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/19515238/
   - title: "Risk factors for complications in third molar extraction: systematic review and meta-analysis"
     url: https://pubmed.ncbi.nlm.nih.gov/28627365/
+last_reviewed: 2026-09-01
 ---
 Your dentist is recommending wisdom tooth extraction, but you're wondering if it's really necessary. Modern evidence suggests that healthy, problem-free wisdom teeth don't automatically need to come out. Here's when extraction is actually warranted and when you can safely keep them.
 

@@ -19,6 +19,7 @@ references:
   - "McGuire MK, et al. Periodontal regeneration with a collagen-derived biodegradable barrier. Tissue engineering principles. Journal of Periodontology. 1997;68(12):1228-1242."
   - "Giannobile WV, et al. Growth factor applications for periodontal regenerative medicine. Advances in Dental Research. 2003;17(1):20-25."
   - "AAP Task Force. Periodontal regeneration: Summary statement and recommendations for future research. Journal of Periodontology. 2005;76(11):2023-2025."
+last_reviewed: 2026-09-01
 ---
 Alveolar bone is the bone that surrounds and holds your teeth in place—it's like the foundation of a building, but for your teeth. What makes alveolar bone unique? It only exists because you have teeth.
 

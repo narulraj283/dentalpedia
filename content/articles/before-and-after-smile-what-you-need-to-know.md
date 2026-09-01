@@ -19,6 +19,7 @@ references:
   - "Addison O, et al. Failure of porcelain veneers: a survey of 23 dentists. Br Dent J. 2016;220(4):169-172."
   - "Cotert HS, et al. Four-year clinical evaluation of resin-retained and acid-etched composite resin-bonded venners. J Dent. 1997;25(6):459-464."
   - "Dumfahrt H, Schäffer H. Porcelain veneers--a review after an 18-year clinical follow up. Int J Prosthodont. 2000;13(1):9-18."
+last_reviewed: 2026-09-01
 ---
 ## Your First Cosmetic Consultation: What to Expect and How to Prepare
 

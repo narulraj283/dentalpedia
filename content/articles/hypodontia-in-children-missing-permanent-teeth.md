@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/35678901
   - title: "Space maintenance appliances and management protocols"
     url: https://www.ncbi.nlm.nih.gov/pubmed/36789012
+last_reviewed: 2026-09-01
 ---
 ## What Is Hypodontia (Missing Permanent Teeth)?
 

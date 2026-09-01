@@ -19,6 +19,7 @@ references:
   - "Marinho VC, Worthington HV, Walsh T, Clarkson JE. Fluoride toothpastes for preventing dental caries in children and adolescents. Cochrane Database Syst Rev. 2019;11:CD002278."
   - "Ng EY, Cunningham SJ. Economic evaluation of orthodontic treatment. Semin Orthod. 2018;24(1):67-74."
   - "Schott TC, Hausafam S. The incremental long-term costs of untreated malocclusion on oral health: a systematic review. Orthod Craniofac Res. 2020;23(2):135-145."
+last_reviewed: 2026-09-01
 ---
 ## How Much Do Braces Cost? A Real Breakdown
 

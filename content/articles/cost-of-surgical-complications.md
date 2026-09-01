@@ -21,6 +21,7 @@ references:
   - "Laskin DM. Oral and Maxillofacial Surgery. St. Louis: Mosby; 2019."
   - "Miloro M, Ghali GE, Larsen PE. Peterson's Principles of Oral and Maxillofacial Surgery (3rd ed.). Peoples Medical Publishing House; 2020."
   - "Hupp JR, Ellis E, Tucker MR. Contemporary Oral and Maxillofacial Surgery (7th ed.). St. Louis: Elsevier Mosby; 2019."
+last_reviewed: 2026-09-01
 ---
 ## What Complications Can Happen?
 

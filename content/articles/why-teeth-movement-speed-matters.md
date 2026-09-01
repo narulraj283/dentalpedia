@@ -31,6 +31,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/23658518/"
   - title: "Long-term stability of teeth moved at different rates in orthodontics"
     url: "https://pubmed.ncbi.nlm.nih.gov/25198278/"
+last_reviewed: 2026-09-01
 ---
 Waiting 24 months for orthodontic treatment feels like forever, especially when you see online advertisements claiming to straighten teeth in 6 months. Understanding what actually controls teeth movement speed, what can genuinely accelerate it, and what the tradeoffs are helps you make realistic decisions about treatment timeline.
 

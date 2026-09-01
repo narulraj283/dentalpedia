@@ -19,6 +19,7 @@ references:
   - "Eimar H, Siciliano VI, Abdallah MN, Nader SA, Amin WM, Martinez PP, Hussain A, Gambonline JI, Badran RM. Hydrogen peroxide whitening: cellular and molecular mechanisms. Oper Dent. 2012;37(5):464-474."
   - "Greenwall-Cohen LH. Tooth Whitening: A Clinical Guide and Techniques. London: Quintessence Publishing; 2016."
   - "Al-Shalan K, Amin WM, Al-Khatieb AR, Taha ST, Salim NA, Mousa AA. The effects of 6% hydrogen peroxide gel on human enamel and dentin ultrastructure. Oper Dent. 2011;36(1):72-78."
+last_reviewed: 2026-09-01
 ---
 ## What Professional Teeth Whitening Can Really Do For You
 

@@ -28,7 +28,7 @@ slug: bite-problems-explained-complete-guide
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: 'Bite Problems Explained: Complete Clinical Guide'
-last_reviewed: 2026-08-01
+last_reviewed: 2026-09-01
 ---
 ## Understanding Your Bite: A Patient's Guide
 

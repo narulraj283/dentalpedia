@@ -41,6 +41,7 @@ slug: risk-and-concerns-with-tooth-restoration-comparison
 subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
 title: Risk and Concerns with Tooth Restoration Comparison
+last_reviewed: 2026-09-01
 ---
 ## What Are Your Filling Options?
 

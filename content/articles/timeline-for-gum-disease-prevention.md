@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/12787205
   - title: "Rams TE, Slots J. Local delivery of chemotherapeutic agents in the periodontal pocket. Periodontol 2000. 2016;71(1):143-162."
     url: https://pubmed.ncbi.nlm.nih.gov/27045434
+last_reviewed: 2026-09-01
 ---
 ## Introduction
 

@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/31896916
   - title: "Mao Y, Wong MC, Wong WC, et al. Oral health knowledge and compliance with orthodontic treatment: A systematic review. J Dent Educ. 2018;82(9):982-990."
     url: https://pubmed.ncbi.nlm.nih.gov/30166498
+last_reviewed: 2026-09-01
 ---
 ## The Rubber Band Power
 

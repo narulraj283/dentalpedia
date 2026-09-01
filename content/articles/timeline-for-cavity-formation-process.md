@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/19146090
   - title: "Witt J, Ritter AV, Hanson BP. Active Caries Lesions Etiology, Diagnosis, Treatment, Prevention, and Management. Compend Contin Educ Dent. 1995;16(3):238-249."
     url: https://pubmed.ncbi.nlm.nih.gov/8608476
+last_reviewed: 2026-09-01
 ---
 ## Cavities Don't Happen Overnight
 

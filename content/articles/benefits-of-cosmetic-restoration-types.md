@@ -19,6 +19,7 @@ references:
   - "Christensen GJ. Is the porcelain veneer technique at a plateau? J Am Dent Assoc. 1999;130(6):831-835."
   - "Carrillo-Marquez F, Castillo-Oyague R, Rodriguez-Traumático-Acosta M. Five-year follow-up of adhesively cemented porcelain veneers: clinical outcomes and laboratory study. Oper Dent. 2013;38(3):327-335."
   - "Magne P, Belser UC. Bonded Porcelain Restorations in the Anterior Dentition. A Look at Longevity and Aesthetics. J Adhes Dent. 2003;5(1):13-32."
+last_reviewed: 2026-09-01
 ---
 ## What Are Your Options?
 

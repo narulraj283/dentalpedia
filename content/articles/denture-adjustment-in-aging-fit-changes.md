@@ -19,6 +19,7 @@ references:
   - "Leles CR, et al. Effects of alveolar ridge resorption on denture retention and stability: a clinical study. Journal of Prosthodontics. 2008;17(6):432-437."
   - "Fontijn-Tekamp FA, et al. Biting and chewing in overdentures, full dentures, and natural dentitions. Journal of Dental Research. 2000;79(7):1519-1524."
   - "Uchida H, et al. In-vivo measurement of the masticatory function of denture-wearing older adults using the updated mixing ability test. Journal of Dentistry. 2013;41(2):135-141."
+last_reviewed: 2026-09-01
 ---
 If you've worn dentures for several years, you might have noticed they're not fitting as well as they used to. Your jaw bone continues to shrink throughout your life, and this changes how dentures fit. Understanding why this happens and what you can do about it helps you maintain better function and comfort.
 

@@ -19,6 +19,7 @@ references:
   - "Cortelli JR, Aquino DR, Cortelli SC, et al. Pre-clinical and clinical efficacy of chlorhexidine. A systematic review. Braz Dent J. 2008;19(4):287-294."
   - "García-Godoy F, Levine M. Surfactants in oral hygiene products: beneficial or detrimental? What the literature says. J Can Dent Assoc. 2015;81:e17."
   - "Marinello CP, Willi O, Vano M. Stannous fluoride substantivity in supragingival plaque. J Periodontal Res. 1999;34(6):305-311."
+last_reviewed: 2026-09-01
 ---
 ## Why Mouthwash Matters
 

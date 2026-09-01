@@ -21,6 +21,7 @@ references:
   - "Preeti L, et al. Recurrent aphthous stomatitis-review of literature and oral management. J Clin Exp Dent. 2011;3(4):e318-326."
   - "McCullough MJ, et al. Oral ulceration in patients with HIV infection: classification, clinical and pathological characteristics. Oral Dis. 2002;8 Suppl 2:98-109."
   - "Chan WK, et al. Anticandidin monoclonal antibody does not reduce oral ulcerations in HIV patients. J Dent Res. 2012;91(6):580-587."
+last_reviewed: 2026-09-01
 ---
 ## Types of Mouth Ulcers and How Often They Happen
 

@@ -38,7 +38,7 @@ slug: ultrasonic-scaling-vibration-removes-calculus
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Ultrasonic Scaling Effectiveness in Calculus Removal
-last_reviewed: 2026-05-01
+last_reviewed: 2026-09-01
 ---
 ## What Is Ultrasonic Scaling and Why Your Dentist Might Use It
 

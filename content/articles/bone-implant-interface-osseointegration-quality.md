@@ -21,6 +21,7 @@ references:
   - "Shapoff CA, et al. Clinical and histologic evaluation of implant surfaces treated with combination grit abrasive particles. J Oral Implantol. 2015;38(1):48-56."
   - "Davies JE. Understanding peri-implant endosseous healing. J Dent Educ. 2003;67(8):932-949."
   - "Stadlinger B, et al. Influence of implant surface modifications on bacterial biofilm formation and viability. J Biomed Mater Res Part B. 2009;88B(2):544-552."
+last_reviewed: 2026-09-01
 ---
 When your dentist places a dental implant into your jaw, something remarkable happens at the tiny interface between the implant and your bone. Over time, your bone actually fuses directly to the implant surface in a process called osseointegration. This biological bond is what makes implants so successful and long-lasting. Understanding how this fusion works helps explain why implants are often the most reliable way to replace missing teeth.
 

@@ -17,6 +17,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/8936283
   - title: "Reitan K. Tissue behavior during orthodontic tooth movement. Am J Orthod. 1960;46(12):881-913."
     url: https://pubmed.ncbi.nlm.nih.gov/13710531
+last_reviewed: 2026-09-01
 ---
 ## Why This Matters for Your Health
 

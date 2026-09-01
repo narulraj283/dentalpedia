@@ -13,6 +13,7 @@ reviewed: true
 references:
   - "Cianetti S, Lombardi F, Pagano S, Ballanti F, Guiliano G, Petti S. Dental anxiety in children: prevalence and behavioral management strategies. J Clin Pediatr Dent. 2017;41(2):120-128."
   - "Klingberg G, Broberg AG. Dental fear/anxiety and dental avoidance—a review of prevalence and related psychological factors. J Dent Child (Chic). 2007;74(2):72-80."
+last_reviewed: 2026-09-01
 ---
 ## How Common Is Dental Anxiety in Kids?
 

@@ -31,7 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/23234008
   - title: "Laser osteotomy parameters and bone viability assessment"
     url: https://www.ncbi.nlm.nih.gov/pubmed/19793353
-last_reviewed: 2026-07-01
+last_reviewed: 2026-09-01
 ---
 ## Introduction
 

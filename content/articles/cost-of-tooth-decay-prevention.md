@@ -21,6 +21,7 @@ references:
   - "Espelid I, Tveit AB, Åstrøm AN, Tveit K, Willumsen T. Prevalence and severity of dental fluorosis among Norwegian children. Community Dent Oral Epidemiol. 1994;22(6):396-402."
   - "Petersen PE. The World Oral Health Report 2003: continuous improvement of oral health in the 21st century—the approach of the WHO Global Oral Health Data Bank. Community Dent Oral Epidemiol. 2003;31(S1):3-23."
   - "Katz BP. Epidemiology and prevention of dental caries. Compend Contin Educ Dent. 2001;22(2):129-142."
+last_reviewed: 2026-09-01
 ---
 ## The Cavity Crisis
 

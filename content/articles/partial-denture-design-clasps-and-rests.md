@@ -44,6 +44,7 @@ slug: partial-denture-design-clasps-and-rests
 subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
 title: Partial Denture Design Clasps and Rests
+last_reviewed: 2026-09-01
 ---
 ## Understanding How Your Partial Denture Stays in Place
 

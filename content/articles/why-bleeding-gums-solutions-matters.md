@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/27050234
   - title: "Oral-systemic health connections: Periodontal disease impact on general health"
     url: https://pubmed.ncbi.nlm.nih.gov/23819521
+last_reviewed: 2026-09-01
 ---
 ## Why Addressing Bleeding Gums Matters for Long-Term Oral Health
 

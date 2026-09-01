@@ -19,6 +19,7 @@ references:
   - "Thibault, D. L., Thibault, G. H., Delorme, S. (2009). Powered toothbrush efficacy in special care patients. Spec Care Dentist. 29(1):19-24."
   - "Hensel, M. J., Seif, N. T., Goldstein, A. S., et al. (2004). Water flossing effectiveness in patients with limited dexterity. J Periodontal Res. 39(4):248-255."
   - "Glendinning, D. M., Darby, I. B., Curtis, B. H. (2012). Custom-fitted oral hygiene aids for special needs populations. Compend Contin Educ Dent. 33(5):310-317."
+last_reviewed: 2026-09-01
 ---
 Arthritis affects about 54 million American adults and makes it really hard to brush and floss your teeth. When your hands hurt and don't move well, regular oral hygiene becomes nearly impossible. The result is more cavities and gum disease—unless you have the right adaptive tools. The good news is that several practical solutions make dental care manageable even with arthritis.
 

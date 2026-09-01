@@ -19,6 +19,7 @@ references:
   - "Griffiths PD, et al. Dental health in Down syndrome: A comparative clinical study. Journal of Intellectual Disability Research. 2013;57(9):861-872."
   - "Gimenez-Llort L, et al. Neurobiological basis of pathological behaviors and learning in Down syndrome: A review. Current Pharmaceutical Design. 2012;18(37):6057-6063."
   - "Cardoso CL, et al. Caries prevalence and oral hygiene in Down syndrome: A comparative study. International Journal of Paediatric Dentistry. 2013;23(3):216-224."
+last_reviewed: 2026-09-01
 ---
 ## How Down Syndrome Affects Your Child's Teeth and Gums
 

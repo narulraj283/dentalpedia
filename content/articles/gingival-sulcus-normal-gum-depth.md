@@ -19,6 +19,7 @@ references:
   - "Greenstein G, Polson A. Microsurgical access flap therapy: clinical decision making and predictability. J Periodontol. 1985;56(10):570-581."
   - "Lang NP, Löe H. The relationship between the width of keratinized gingiva and gingival health. J Periodontol. 1972;43(10):623-627."
   - "Zappa U, Grossenbacher M, Graf H, et al. Comparison of clinical probing and radiographic measurements in periodontal diagnosis. J Clin Periodontol. 1993;20(3):180-184."
+last_reviewed: 2026-09-01
 ---
 During a routine dental checkup, your dentist or hygienist uses a small measuring tool to probe around your teeth, occasionally calling out numbers. They're measuring your gingival sulcus—the normal space between your tooth and gum. This measurement is crucial because it helps determine whether your gums and teeth are healthy or if there's disease developing. Understanding what these numbers mean helps you better appreciate what your dentist is assessing and why it matters.
 

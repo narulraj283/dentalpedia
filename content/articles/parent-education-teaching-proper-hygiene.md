@@ -43,6 +43,7 @@ slug: parent-education-teaching-proper-hygiene
 subcategory: Pediatric Overview
 subcategory_slug: overview-peds
 title: Parent Education Teaching Proper Hygiene
+last_reviewed: 2026-09-01
 ---
 ## Your Role as Your Child's Oral Health Coach
 

@@ -32,6 +32,7 @@ slug: best-practices-for-wisdom-teeth-extraction
 subcategory: Oral Surgery Overview
 subcategory_slug: overview-surgery
 title: 'Wisdom Teeth Extraction: Indications, Surgical Protocols'
+last_reviewed: 2026-09-01
 ---
 ## Do You Really Need Your Wisdom Teeth Removed?
 

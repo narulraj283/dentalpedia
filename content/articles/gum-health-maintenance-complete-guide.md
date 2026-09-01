@@ -29,6 +29,7 @@ references:
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/jcpe.12842
   - title: "Patient Compliance and Long-Term Periodontal Stability Following Treatment"
     url: https://pubmed.ncbi.nlm.nih.gov/27641835/
+last_reviewed: 2026-09-01
 ---
 ## Keeping Your Gums Healthy for Life
 

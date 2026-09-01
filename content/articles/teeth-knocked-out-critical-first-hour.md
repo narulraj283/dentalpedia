@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/12110108
   - title: "Caliskan MK, et al. Factors affecting the prognosis of traumatized permanent teeth. Dent Traumatol. 1999;15(6):364-372."
     url: https://pubmed.ncbi.nlm.nih.gov/10598098
+last_reviewed: 2026-09-01
 ---
 ## This Is a True Emergency
 

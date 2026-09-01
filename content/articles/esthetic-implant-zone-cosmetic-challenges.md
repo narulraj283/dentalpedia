@@ -19,6 +19,7 @@ references:
   - "Mangano C, Botticelli D, Mangano F. Immediate implant placement in fresh extraction sockets. Compend Contin Educ Dent. 2009;30(7):393-403."
   - "Misch CE. Contemporary Implant Dentistry. 3rd ed. Mosby; 2008."
   - "Pjetursson BE, Thoma D, Jung R, et al. A systematic review of the survival and complication rates of implant-supported fixed dental prostheses (FDPs) after a mean observation period of at least 5 years. Clin Oral Implants Res. 2012;23(Suppl 6):22-38."
+last_reviewed: 2026-09-01
 ---
 ## Understanding Your Smile Zone and Why It Matters
 

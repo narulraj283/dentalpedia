@@ -21,7 +21,7 @@ references:
   - "Axelsson P, et al. The long-term effect of a plaque control program on teeth, caries and periodontal disease in adults. Journal of Clinical Periodontology. 2004;31(9):749-757."
   - "Addy M, et al. Oral hygiene practices and periodontal disease. Journal of Clinical Periodontology. 2005;32(1):7-15."
   - "Petersen PE, Ogawa H. The global burden of oral diseases and risks to oral health. Bulletin of the World Health Organization. 2005;83(9):661-669."
-last_reviewed: 2026-04-01
+last_reviewed: 2026-09-01
 ---
 Brushing and flossing aren't really about willpower—they're about building routines that become automatic. Once good oral hygiene habits are locked in, you don't have to think about them anymore. Here's how to build a routine that actually sticks and works.
 

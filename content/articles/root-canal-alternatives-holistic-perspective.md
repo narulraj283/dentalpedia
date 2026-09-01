@@ -44,6 +44,7 @@ slug: root-canal-alternatives-holistic-perspective
 subcategory: Holistic Overview
 subcategory_slug: overview-holistic
 title: Root Canal Alternatives Holistic Perspective
+last_reviewed: 2026-09-01
 ---
 ## Why People Look for Root Canal Alternatives
 

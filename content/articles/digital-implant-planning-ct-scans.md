@@ -15,6 +15,7 @@ references:
   - "Tyndall DA, Price JB, Tetradis S, et al. Position statement of the American Academy of Oral and Maxillofacial Radiology on selection criteria for radiology in dental implantology. Oral Surg Oral Med Oral Pathol Oral Radiol. 2012;113(6):817-826."
   - "Sonick M, Hwang D, Abrahams JJ, et al. Accurate assessment of alveolar bone dimensions for implant surgery. Int J Periodontics Restorative Dent. 2003;23(4):308-319."
   - "Spin-Neto R, Landini G, Gotfredsen E. Radiation dose and protection in cone beam computed tomography. Braz Dent J. 2013;24(2):151-157."
+last_reviewed: 2026-09-01
 ---
 ## Introduction
 

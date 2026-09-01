@@ -19,7 +19,7 @@ references:
   - "Schropp L, Wenzel A, Kostopoulos L, Karring T. Bone healing and soft tissue contour changes following single-tooth extraction: a clinical and radiographic 12-month prospective study. Int J Periodontics Restorative Dent. 2003;23(4):313-323."
   - "Caiazzo A, Brugnami F. Histologic changes of extraction sites. Eur J Esthet Dent. 2013;8(2):246-260."
   - "Barone A, Ricci M, Mangano F, Covani U. Tissue remodeling after immediate implant placement in fresh extraction sockets. Clin Oral Implants Res. 2006;17(1):1-8."
-last_reviewed: 2026-06-01
+last_reviewed: 2026-09-01
 ---
 ## Getting Through Tooth Extraction Recovery: What to Expect
 

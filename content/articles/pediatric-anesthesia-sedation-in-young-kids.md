@@ -43,7 +43,7 @@ slug: pediatric-anesthesia-sedation-in-young-kids
 subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
 title: Pediatric Anesthesia Sedation in Young Kids
-last_reviewed: 2026-08-01
+last_reviewed: 2026-09-01
 ---
 ## Helping Your Anxious Child Get Dental Care
 

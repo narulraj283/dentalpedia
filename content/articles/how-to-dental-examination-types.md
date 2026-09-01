@@ -27,7 +27,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/21410659
   - title: "Risk-based dental examination recommendations"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25268095
-last_reviewed: 2026-06-01
+last_reviewed: 2026-09-01
 ---
 Your dental exam isn't just the dentist looking at your teeth. There are actually different types of exams with different purposes. Understanding what each one involves will help you know what to expect and why your dentist recommends certain exams or X-rays.
 

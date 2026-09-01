@@ -43,6 +43,7 @@ references:
     year: 2007
     title: Contemporary Orthodontics
     journal: Textbook
+last_reviewed: 2026-09-01
 ---
 ## How Long Will Your Braces Stay On?
 

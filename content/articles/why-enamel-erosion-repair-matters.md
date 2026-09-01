@@ -27,7 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/26307862
   - title: "Protective factors and preventive protocols in erosion management"
     url: https://pubmed.ncbi.nlm.nih.gov/26055181
-last_reviewed: 2026-07-01
+last_reviewed: 2026-09-01
 ---
 ## Introduction
 

@@ -21,6 +21,7 @@ references:
   - "Renkema AM, Sips ET, Bronkhorst E, et al. A comparison of the efficacy of clear aligners and fixed appliances: a systematic review and meta-analysis. Eur J Orthod. 2020;42(5):516-526."
   - "Ren Y, Maltha JC, Kuijpers-Jagtman AM. Optimizing orthodontic force magnitude for bioresponse: a systematic review. Angle Orthod. 2003;73(5):571-573."
   - "Faustin LL, Cooke MS, Battagel JM. Incisor inclination changes during fixed appliance therapy: a retrospective study. Am J Orthod Dentofacial Orthop. 2003;123(1):52-59."
+last_reviewed: 2026-09-01
 ---
 It's never too late to straighten your teeth. Many adults get braces now, and you have several options. This guide explains the cost, timeline, and benefits of each type so you can decide what's right for you.
 

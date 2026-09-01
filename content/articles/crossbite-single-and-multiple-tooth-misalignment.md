@@ -19,6 +19,7 @@ references:
   - "Kim YH. Anterior open-bite and its nonsurgical treatment with the combined fixed appliance and functional regulator. Angle Orthod. 1987;57(4):290-321."
   - "Tollaro I, Baccetti T, Franchi L, Tanasescu CD. Prevalence of posterior crossbite in the mixed dentition and its association with skeletal and functional variables: a longitudinal study. Am J Orthod Dentofacial Orthop. 1996;110(4):410-417."
   - "Secanho R, Pandis N, Zasčiūraitė E, Cobourne MT. Open bite phenotypes: etiology and management perspectives. Am J Orthod Dentofacial Orthop. 2022;161(3):308-322."
+last_reviewed: 2026-09-01
 ---
 A crossbite is when your upper and lower teeth don't align properly when you bite down. It's more common than you might think—it affects 7 to 16 percent of people who need braces. A crossbite can involve one tooth or multiple teeth, and it can affect your front teeth or your back teeth. If you've been told you have a crossbite, here's what you need to know about how it develops, why it matters, and how it's treated.
 

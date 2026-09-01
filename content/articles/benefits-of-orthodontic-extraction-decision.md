@@ -47,7 +47,7 @@ references:
     year: 2016
     title: Textbook of Orthodontics
     journal: Textbook
-last_reviewed: 2026-07-01
+last_reviewed: 2026-09-01
 ---
 ## Do I Need to Have Teeth Extracted for Braces?
 

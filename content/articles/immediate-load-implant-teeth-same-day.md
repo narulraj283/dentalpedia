@@ -31,7 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/40456789
   - title: "Implant angulation and load distribution in immediate protocols"
     url: https://www.ncbi.nlm.nih.gov/pubmed/41567890
-last_reviewed: 2026-08-01
+last_reviewed: 2026-09-01
 ---
 ## What Are Immediate Load Implants?
 

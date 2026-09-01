@@ -21,7 +21,7 @@ references:
   - "Kinane DF, Apatzidou DA, Moughal NA. Biomarker panels in oral fluid: evaluating their potential in future clinical practice. Periodontol 2000. 2007;43:51-76."
   - "Kinane DF, Stathopoulou PG, Papapanou PN. Periodontal diseases. Nat Rev Dis Primers. 2017;3:17066."
   - "Listgarten MA. Pathogenesis of periodontitis. J Clin Periodontol. 1986;13(5):418-430."
-last_reviewed: 2026-04-01
+last_reviewed: 2026-09-01
 ---
 ## Removing Plaque: Which Methods Actually Work
 

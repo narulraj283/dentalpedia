@@ -21,6 +21,7 @@ references:
   - "Brown JS, et al. The prevention of complications in oral surgery. Br Dent J. 1998;184(5):197-200."
   - "Schwartz-Arad D, Dreiseidler T. Bone complications and implant failure: a systematic review. Oral Surg Oral Med Oral Pathol Oral Radiol. 2012;104(3):1-2."
   - "Conron A, et al. Evidence-based medicine in the management of dental implant infections. Clin Oral Implants Res. 2010;21 Suppl 1:123-128."
+last_reviewed: 2026-09-01
 ---
 ## What Are Surgical Site Infections and Why They Matter
 

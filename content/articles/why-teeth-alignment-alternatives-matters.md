@@ -31,6 +31,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/23265203/"
   - title: "Patient satisfaction and treatment adherence in alignment therapy options"
     url: "https://pubmed.ncbi.nlm.nih.gov/16487863/"
+last_reviewed: 2026-09-01
 ---
 If you're considering straightening your teeth, you have more options than ever before. Traditional braces are just one choice. Clear aligners like Invisalign, behind-the-teeth braces, and even cosmetic other options all exist now. Understanding what each option can accomplish, how long it takes, what it costs, and which works best for your situation helps you make a confident decision about your smile.
 

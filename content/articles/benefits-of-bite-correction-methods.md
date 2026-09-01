@@ -19,7 +19,7 @@ references:
   - "Ferrario, V. F., Tartaglia, G. M., Luraghi, F. G., & Hubbard, R. P. (2004). Bite force and posterior maxillary and mandibular teeth relationship in mixed dentition. Journal of Dental Research, 83(7), 542-546."
   - "McNamara Jr, J. A. (2000). Maxillary transverse expansion. American Journal of Orthodontics and Dentofacial Orthopedics, 118(6), 632-639."
   - "Diehl, S. R., & Kuba, R. (1998). Speech and language outcomes following comprehensive orthodontic treatment. The Angle Orthodontist, 75(2), 152-160."
-last_reviewed: 2026-06-01
+last_reviewed: 2026-09-01
 ---
 ## Why a Good Bite Matters
 

@@ -19,6 +19,7 @@ references:
   - "Katyal V, et al. Dental anxiety and patients' attitude toward regional anesthesia. J Dent Anesth Pain Med. 2018;18(6):351-358."
   - "Arvind K, et al. Efficacy of intralimental anesthesia for extraction of maxillary teeth. J Oral Maxillofac Surg. 2008;66(12):2526-2533."
   - "Ong CK, et al. Efficacy of preoperative analgesics for acute postoperative pain after third molar extractions. J Oral Maxillofac Surg. 2004;62(5):588-594."
+last_reviewed: 2026-09-01
 ---
 ## Understanding Your Anesthesia Choices
 

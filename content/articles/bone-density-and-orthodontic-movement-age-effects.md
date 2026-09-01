@@ -28,6 +28,7 @@ slug: bone-density-and-orthodontic-movement-age-effects
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Alveolar Bone Density and Orthodontic Tooth Movement
+last_reviewed: 2026-09-01
 ---
 ## How Bone Changes as You Age
 

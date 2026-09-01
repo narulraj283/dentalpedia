@@ -19,7 +19,7 @@ references:
   - "Krois J, Ekert T, Meinhold L, et al. Deep learning for the radiographic detection of periodontal bone loss. Sci Rep. 2019;9:8495."
   - "Müller F, Naharro M, Carlsson GE. What are the prevalence and incidence of tooth loss in the adult and elderly population in developed countries? Clin Oral Implants Res. 2007;18:2-14."
   - "Pihlstrom BL, Michalowicz BS, Johnson NW. Periodontal diseases. Lancet. 2005;366:1809-1820."
-last_reviewed: 2026-06-01
+last_reviewed: 2026-09-01
 ---
 ## 3D Imaging: Seeing More Detail
 

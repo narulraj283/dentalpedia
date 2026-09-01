@@ -21,6 +21,7 @@ references:
   - "Bagramian RA, Garcia-Godoy F, Volpe AR. The global increase in dental caries and obesity: a shared complex problem. J Am Dent Assoc. 2009;140(7):887-899."
   - "Ismail AI, Tellez M, Pitts NB. White spot lesions: emergence and apparent resolution with evidence-based interventions. J Dent Res. 2015;94(2):282-290."
   - "Wigen TI, Wang NJ. Maternal education is associated with early childhood caries. Community Dent Oral Epidemiol. 2010;38(4):285-292."
+last_reviewed: 2026-09-01
 ---
 Cavities don't just happen—they develop when specific conditions come together in your mouth. The good news? You understand these conditions, you can control several of them. This guide breaks down the main cavity culprits and what you can realistically do about each one.
 

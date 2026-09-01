@@ -19,6 +19,7 @@ references:
   - "Sahrmann P, et al. Mechanical Plaque Removal: Efficacy of Manual and Power Toothbrushes. J Clin Periodontol. 2023;50(S1):135-149."
   - "Cobb CM. Ultrasonic Debridement: Clinical Applications. Curr Opin Dent. 2023;33(4):287-295."
   - "Costa FO, et al. Risk Factors and Prevention of Periodontal Disease. Periodontol 2000. 2023;93(1):256-271."
+last_reviewed: 2026-09-01
 ---
 ## What's the Difference? Plaque vs. Tartar
 

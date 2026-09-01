@@ -40,6 +40,7 @@ slug: root-resorption-from-braces-apical-root-loss
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Orthodontic Root Resorption - Minimizing Apical
+last_reviewed: 2026-09-01
 ---
 ## What Is Orthodontic Root Resorption?
 

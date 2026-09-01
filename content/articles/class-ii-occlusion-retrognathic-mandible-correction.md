@@ -19,7 +19,7 @@ references:
   - "Pancherz H. Treatment of Class II malocclusion by jumping the bite with the Herbst appliance. Am J Orthod. 1979;76(4):423-442."
   - "Baccetti T, Franchi L, McNamara JA Jr. Growth in the untreated Class II subject. Semin Orthod. 2000;6(1):7-25."
   - "Okeson JP. Management of Temporomandibular Disorders and Occlusion. 8th ed. Mosby; 2020."
-last_reviewed: 2026-06-01
+last_reviewed: 2026-09-01
 ---
 ## What Is a Class II Bite With a Set-Back Jaw?
 

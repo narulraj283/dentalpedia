@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/23167894
   - title: "Long-term clinical outcomes in periodontal maintenance using universal curettes"
     url: https://pubmed.ncbi.nlm.nih.gov/24289564
+last_reviewed: 2026-09-01
 ---
 ## Keeping Teeth Clean Under the Gums
 

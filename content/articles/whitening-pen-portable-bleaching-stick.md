@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/21950424
   - title: "Portable whitening devices: clinical evaluation and patient satisfaction"
     url: https://pubmed.ncbi.nlm.nih.gov/20598150
+last_reviewed: 2026-09-01
 ---
 ## How Whitening Pens Work
 

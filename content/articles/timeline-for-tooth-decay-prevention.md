@@ -17,6 +17,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/28745891
   - title: "Moynihan PJ, Kelly SA. Effect on caries of restricting sugars intake: systematic review to inform WHO guidelines. Journal of Dental Research. 2014;93(1):8-18."
     url: https://pubmed.ncbi.nlm.nih.gov/24165943
+last_reviewed: 2026-09-01
 ---
 ## Introduction
 

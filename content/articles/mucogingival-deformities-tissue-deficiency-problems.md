@@ -27,7 +27,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/20180403
   - title: "Clinical Consequences of Inadequate Keratinized Tissue"
     url: https://www.ncbi.nlm.nih.gov/pubmed/23045839
-last_reviewed: 2026-04-01
+last_reviewed: 2026-09-01
 ---
 If you've noticed your gums pulling back from your teeth, exposing the yellowish root surfaces underneath, you're experiencing gum recession. This common dental concern affects about half the population at some point and becomes more frequent as we age. While some gum recession may seem minor, understanding what causes it and how to address it can help you protect your teeth and avoid painful complications down the road.
 

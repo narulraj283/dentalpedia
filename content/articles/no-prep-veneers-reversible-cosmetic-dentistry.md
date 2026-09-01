@@ -15,6 +15,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/23497894
   - title: "Conservative Adhesive Dentistry Approach"
     url: https://pubmed.ncbi.nlm.nih.gov/12012562
+last_reviewed: 2026-09-01
 ---
 ## Getting Started
 

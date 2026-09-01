@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/9002835
   - title: "Liu LK, Glaros AG, Matheson SG. Possible direct transmission of Streptococcus mutans and site-specific patterns of colonization in families with young children. J Dent Res. 1991;70(11):1409-1413."
     url: https://pubmed.ncbi.nlm.nih.gov/1835706
+last_reviewed: 2026-09-01
 ---
 ## Starting Your Braces Journey
 

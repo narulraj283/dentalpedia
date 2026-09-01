@@ -20,6 +20,7 @@ references:
   - "Shellis RP, Featherstone JD. Effect of pH and other variables on the assessment of enamel erosion by an in situ citric acid model. Caries Res. 1999;33(4):335-341."
   - "Vaillant M, Bressieux JM. Dental erosion in a patient with gastro-oesophageal reflux disease treated with omeprazole. Eur J Gastroenterol Hepatol. 2003;15(11):1287-1289."
   - "Schiff T, Salinas TJ, Baker RA. Desensitizing effect of a new dentifrice containing 5% potassium nitrate and 0.76% sodium monofluorophosphate. Gen Dent. 2000;48(2):154-157."
+last_reviewed: 2026-09-01
 ---
 Energy drinks damage your teeth through two main processes: they're highly acidic and contain high amounts of sugar. Regular intake erodes enamel (the hard outer layer of your tooth) and promotes cavities through a mix of chemical and bacterial attacks. Understanding this damage helps you make informed choices about consuming these popular beverages.
 

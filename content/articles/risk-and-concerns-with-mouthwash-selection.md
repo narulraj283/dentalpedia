@@ -43,6 +43,7 @@ slug: risk-and-concerns-with-mouthwash-selection
 subcategory: Preventive Overview
 subcategory_slug: overview-prevent
 title: Risk and Concerns with Mouthwash Selection
+last_reviewed: 2026-09-01
 ---
 ## How to Choose the Right Mouthwash for Your Needs
 

@@ -31,7 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/22711219
   - title: "Nyman S, Lindhe J, Ericsson I. The capacity of reduced periodontal tissues to support a graft. J Clin Periodontol. 1975;2(3):173-180."
     url: https://pubmed.ncbi.nlm.nih.gov/1058315
-last_reviewed: 2026-06-01
+last_reviewed: 2026-09-01
 ---
 ## The Fiber Network That Holds Your Teeth
 

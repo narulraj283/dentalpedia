@@ -19,7 +19,7 @@ references:
   - "Kau CH, Kantarci A, Shaughnessy T, et al. Photobiomodulation accelerates orthodontic alignment in the early phases of treatment. Seminars in Orthodontics. 2013;19(1):50-61."
   - "Frost HM. The regional acceleratory phenomenon: a review. Henry Ford Hospital Medical Journal. 1983;31(1):3-11."
   - "Sebaugh JL. Detailed accounting of methods for handling missing data in success rates: A review. American Journal of Orthodontics and Dentofacial Orthopedics. 2007;132(6):750-756."
-last_reviewed: 2026-08-01
+last_reviewed: 2026-09-01
 ---
 ## Understanding Tooth Movement
 

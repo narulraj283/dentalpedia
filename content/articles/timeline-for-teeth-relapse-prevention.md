@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/22196051
   - title: "Mollov ND. An Analysis of Enamel Bonded Lingual Retainers. Journal of Clinical Orthodontics. 2010;44(2):80-84."
     url: https://pubmed.ncbi.nlm.nih.gov/20519339
+last_reviewed: 2026-09-01
 ---
 ## Introduction
 

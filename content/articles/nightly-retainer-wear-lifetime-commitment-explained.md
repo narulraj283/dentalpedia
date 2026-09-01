@@ -18,6 +18,7 @@ slug: nightly-retainer-wear-lifetime-commitment-explained
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: 'Keep Your Straight Teeth: Why You Need a Retainer for Life'
+last_reviewed: 2026-09-01
 ---
 ## Why This Matters for Your Health
 

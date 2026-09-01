@@ -21,6 +21,7 @@ references:
   - "Contar CM, Saraiva PP, Iwaki LC. Postoperative assessment of the effect of complementary therapies. J Appl Oral Sci. 2008;16(4):286-292."
   - "Arakeri G, Muddaiah S, Setty S. Efficacy of platelet-rich fibrin in the management of mandibular third molars. J Maxillofac Oral Surg. 2012;11(2):142-147."
   - "Diniz-Freitas M, Fernández-Gómez JM, García-García A, Gutierrez-Perez JL. Frequency of reasons for tooth extraction. Quintessence Int. 2003;34(5):378-382."
+last_reviewed: 2026-09-01
 ---
 ## What's a Realistic Recovery Timeline for Your Procedure?
 

@@ -19,7 +19,7 @@ references:
   - "Thompson RD, Williams KL. Standard of Care in Dental Malpractice Cases. J Dent Pract Manag. 2023;32(1):34-45."
   - "Morrison WB, et al. Informed Consent Documentation and Patient Autonomy in Dentistry. J Oral Health Comm Dent. 2023;17(1):22-31."
   - "Zinberg WH. Dental Malpractice Insurance Coverage and Claims Patterns. Risk Manag Found Rev. 2022;13(4):8-16."
-last_reviewed: 2026-07-01
+last_reviewed: 2026-09-01
 ---
 ## What Does "Dental Malpractice" Actually Mean?
 

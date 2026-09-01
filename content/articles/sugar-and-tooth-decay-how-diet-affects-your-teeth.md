@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/11021633
   - title: "Jacobson JM, Stratemann S, Gladwin MA. Clinical evaluation of the efficacy of an in-office desensitizing paste. J Am Dent Assoc. 1997;128(3):347-354."
     url: https://pubmed.ncbi.nlm.nih.gov/9101747
+last_reviewed: 2026-09-01
 ---
 ## How Sugar Attacks Your Teeth
 

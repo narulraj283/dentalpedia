@@ -30,7 +30,7 @@ slug: best-practices-for-veneer-installation-steps
 subcategory: Veneers & Laminates
 subcategory_slug: veneers
 title: 'Veneer Installation Protocol: Preparation, Fabrication'
-last_reviewed: 2026-05-01
+last_reviewed: 2026-09-01
 ---
 ## Your Consultation: Getting Started
 

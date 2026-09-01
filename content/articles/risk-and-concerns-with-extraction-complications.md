@@ -45,6 +45,7 @@ slug: risk-and-concerns-with-extraction-complications
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Risk and Concerns with Extraction Complications
+last_reviewed: 2026-09-01
 ---
 ## Understanding Tooth Extraction Risks
 

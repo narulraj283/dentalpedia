@@ -29,6 +29,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/23286271/"
   - title: "Professional Fluoride Applications in Xerostomia: Protocols and Outcomes"
     url: "https://pubmed.ncbi.nlm.nih.gov/20640959/"
+last_reviewed: 2026-09-01
 ---
 Dry mouth—the medical term is xerostomia—is more common than you might think. About one in every five people experiences it at some point, and it becomes even more common as we age. If you've noticed your mouth feeling persistently dry, sticky, or uncomfortable, you're not alone.
 

@@ -19,6 +19,7 @@ references:
   - "Marinho VC, Higgins JP, Logan S, Sheiham A. Topical fluoride (toothpastes, mouthrinses, gels or varnishes) for preventing dental caries in children and adolescents. Cochrane Database Syst Rev. 2015;(6):CD002278."
   - "Splieth CH, Flege C. Long-term clinical performance of sealed and unsealed first and second permanent molars. Clin Oral Investig. 2016;20(1):13-21."
   - "Bonifacio CC, Kresin J, Fonteles MM. Performance of resin-based pit and fissure sealants: a systematic review. Eur Arch Paediatr Dent. 2017;18(2):63-72."
+last_reviewed: 2026-09-01
 ---
 ## What Are Dental Sealants?
 

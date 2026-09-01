@@ -31,6 +31,7 @@ slug: autism-and-dental-anxiety-special-needs-care
 subcategory: Behavioral Guidance
 subcategory_slug: behavioral-guidance
 title: 'Autism and Dental Anxiety: Providing Special Needs'
+last_reviewed: 2026-09-01
 ---
 About 1 in 36 children has autism spectrum disorder (ASD), which means dentists are seeing more patients with ASD every year. Autistic patients experience dental care differently than other kids due to sensory sensitivities, difficulty with unexpected changes, and talking challenges. Kids with autism have 2-3 times more cavities than other kids, making dental care especially important—and adaptation is key. Understanding how autism affects dental experiences helps your dentist provide better care.
 

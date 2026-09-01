@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/31461434
   - title: "Enamel surface alterations and biofilm retention following aligner therapy"
     url: https://www.ncbi.nlm.nih.gov/pubmed/30912285
+last_reviewed: 2026-09-01
 ---
 Clear aligners are transparent plastic trays that straighten your teeth without brackets and wires. The three main systems—Invisalign, SmileDirectClub, and ClearCorrect—each work differently and are suited to different situations. Understanding how they compare helps you choose the right option for your smile.
 

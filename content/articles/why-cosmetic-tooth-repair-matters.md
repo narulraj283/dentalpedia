@@ -31,7 +31,7 @@ slug: why-cosmetic-tooth-repair-matters
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Why Prompt Cosmetic Tooth Repair Matters for Health
-last_reviewed: 2026-05-01
+last_reviewed: 2026-09-01
 ---
 ## Why Prompt Cosmetic Tooth Repair Matters for Health and Appearance
 

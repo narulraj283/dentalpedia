@@ -25,6 +25,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/20521605
   - title: "Preventive strategies for dental erosion: fluoride and protective agents"
     url: https://www.ncbi.nlm.nih.gov/pubmed/18471261
+last_reviewed: 2026-09-01
 ---
 If your teeth have become noticeably shorter, feel sensitive, or look translucent or glassy, you might have enamel erosion. Erosion is different from decay—it's the gradual wearing away of your enamel from acid exposure rather than bacteria. Once enamel erodes, your body can't replace it naturally. But dentists have several ways to repair eroded teeth and prevent further damage.
 

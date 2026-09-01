@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/15584737
   - title: "Kokich VG. Esthetics and vertical tooth position: clinical treatment of altered vertical dimension. Dent Today. 2003;22(8):54-59."
     url: https://pubmed.ncbi.nlm.nih.gov/14570154
+last_reviewed: 2026-09-01
 ---
 ## Getting Started
 

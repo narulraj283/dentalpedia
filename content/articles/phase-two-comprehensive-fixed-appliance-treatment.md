@@ -40,7 +40,7 @@ slug: phase-two-comprehensive-fixed-appliance-treatment
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Phase Two Comprehensive Fixed Appliance Treatment
-last_reviewed: 2026-07-01
+last_reviewed: 2026-09-01
 ---
 ## Starting Comprehensive Braces Treatment
 

@@ -21,6 +21,7 @@ references:
   - "Kvam E, Bondevik O, Grytten J. Reliability of a questionnaire on orthodontic treatment variables: comparisons between orthodontists' and patients' estimates. Br Dent J. 1989;167(4):126-129."
   - "Richmond S, Andrews M. Orthodontic treatment, its impact on the patient. Angle Orthod. 1992;62(3):175-187."
   - "Weltman B, Vig KW, Fields HW, Shanker S, Kaizar EE. Root resorption associated with orthodontic therapy. Am J Orthod Dentofacial Orthop. 2010;137(4):462-476."
+last_reviewed: 2026-09-01
 ---
 ## What "Compliance" Really Means for Your Braces or Aligners
 

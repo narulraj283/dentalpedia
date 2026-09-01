@@ -21,6 +21,7 @@ references:
   - "Eichenberger M, et al. Thermoplastic materials for clear aligner fabrication. Am J Orthod Dentofacial Orthop. 2021;160(4):S13-S20."
   - "Sanny F, et al. The effects of thermoplastic appliances on gingival health. J Dent. 2021;115:103821."
   - "Li W, et al. Periodontal and gingival health during clear aligner treatment. J Periodontol. 2018;89(12):1425-1431."
+last_reviewed: 2026-09-01
 ---
 ## How Clear Aligners Work and Why They're Different
 

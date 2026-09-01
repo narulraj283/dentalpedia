@@ -16,6 +16,7 @@ references:
   - "dental-insurance-navigation"
   - "submitting-insurance-claims-process-overview"
   - "pre-authorization-getting-insurance-approval"
+last_reviewed: 2026-09-01
 ---
 ## Introduction
 

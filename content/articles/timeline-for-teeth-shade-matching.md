@@ -29,6 +29,7 @@ references:
     url: https pubmed.ncbi.nlm.nih.gov/29389096
   - title: "Lim CX, Ong JL, Gao W, Yap AUJ. The Efficacy of Spectrophotometric Shade Matching in Anterior Tooth Restorations. Journal of Prosthetic Dentistry. 2019;121(3):378-385."
     url: https://pubmed.ncbi.nlm.nih.gov/30419979
+last_reviewed: 2026-09-01
 ---
 ## How It Works
 

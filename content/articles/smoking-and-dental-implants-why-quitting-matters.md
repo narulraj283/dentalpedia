@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/34235900
   - title: "Barone A, Covani U. Implant placement in the esthetic zone: a literature review concerning alveolar bone graft and implant health. Implant Dentistry. 2007;16(3):270-283."
     url: https://pubmed.ncbi.nlm.nih.gov/17848876
+last_reviewed: 2026-09-01
 ---
 ## Smoking and Dental Implants: Why Your Habits Matter
 

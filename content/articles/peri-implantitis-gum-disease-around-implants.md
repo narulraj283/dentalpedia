@@ -46,6 +46,7 @@ slug: peri-implantitis-gum-disease-around-implants
 subcategory: Implant Overview
 subcategory_slug: overview-implants
 title: Peri Implantitis Gum Disease Around Implants
+last_reviewed: 2026-09-01
 ---
 ## Understanding Peri-Implant Disease
 

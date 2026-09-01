@@ -31,7 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/17208642
   - title: "ten Cate JM, Duijsters PP. Influence of fluoride and dietary sucrose on the formation of cement layers and surface softening of bovine dentine in vitro. Caries Res. 1983;17(5):368-378."
     url: https://pubmed.ncbi.nlm.nih.gov/6575343
-last_reviewed: 2026-08-01
+last_reviewed: 2026-09-01
 ---
 ## How Cavities Form: Understanding the Decay Process and Prevention
 

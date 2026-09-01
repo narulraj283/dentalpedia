@@ -16,6 +16,7 @@ references:
   - "Miles PG, Weyant R, Rustveld L. A clinical trial of treatment with a self-ligating bracket. Angle Orthod. 2006;76(6):1043-1050."
   - "Cozzani M, Cambini V, Kamdem DB, et al. Bracket slot dimensions: an analysis of different bracket types and their washability. Prog Orthod. 2014;15(1):8."
   - "Benson PE, Shah AA, Willmot DR. Food intake during fixed appliance therapy. J Dent. 2015;43(5):565-569."
+last_reviewed: 2026-09-01
 ---
 If you've recently gotten braces, you're probably wondering: "Wait, what can I even eat?" Good news—you won't be limited to soup and soft foods for the entire time. But yes, certain foods can damage your brackets and wires, which means more emergency visits and a longer treatment time. Understanding what's safe to eat helps you protect your investment in a straighter smile and actually speeds up your treatment.
 
