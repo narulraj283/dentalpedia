@@ -27,6 +27,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/20659217/"
   - title: "Evidence-Based Periodontal Regenerative Procedures"
     url: "https://pubmed.ncbi.nlm.nih.gov/21976429/"
+last_reviewed: 2026-10-01
 ---
 ## Saving Teeth With Gum Disease By Regenerating Bone
 

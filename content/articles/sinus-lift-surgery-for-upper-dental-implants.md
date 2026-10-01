@@ -44,6 +44,7 @@ slug: sinus-lift-surgery-for-upper-dental-implants
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Sinus Lift Surgery for Upper Dental Implants
+last_reviewed: 2026-10-01
 ---
 ## Why You Might Need a Sinus Lift for Your Implant
 

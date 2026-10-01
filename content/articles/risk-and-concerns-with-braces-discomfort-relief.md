@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/7747783
   - title: "Tuncay OC, Gultez B. Treatment outcome of an accelerated orthodontic technique. Angle Orthod. 2003;73(4):450-457."
     url: https://pubmed.ncbi.nlm.nih.gov/12940564
+last_reviewed: 2026-10-01
 ---
 ## Managing Discomfort During Braces: What to Expect and How to Cope
 

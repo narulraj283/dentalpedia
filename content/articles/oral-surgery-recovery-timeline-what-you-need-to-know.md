@@ -15,6 +15,7 @@ references:
   - "Bennett ME. Nutritional Support for Oral and Maxillofacial Surgery Patients. Oral Surg Oral Med Oral Pathol. 1996;81(6):639-644."
   - "Phillips JF, Ganske I. Complications Associated With Extraction of Impacted Teeth. J Oral Maxillofac Surg. 2011;69(11):e206-e214."
   - "Rordorf R, Wiest R. Pain Management in Oral Surgery. Schweiz Monatsschr Zahnmed. 2002;112(10):1023-1032."
+last_reviewed: 2026-10-01
 ---
 ## Immediately After Surgery: The First Few Hours
 

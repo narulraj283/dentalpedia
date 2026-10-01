@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/30556493
   - title: "Patient compliance with interdental cleaning and long-term periodontal outcomes"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27051864
+last_reviewed: 2026-10-01
 ---
 Good oral hygiene starts with selecting the right tools and using them correctly. Your toothbrush and floss remove plaque before it hardens into tartar, preventing cavities and gum disease. With many options available—manual versus electric toothbrushes, traditional floss versus water flossers—understanding which tools work for you helps you create a routine you'll stick with.
 

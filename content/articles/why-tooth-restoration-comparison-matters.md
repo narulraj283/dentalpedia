@@ -29,6 +29,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/24598598/"
   - title: "Microleakage in Class II composite restorations with different layering techniques and cavity wall treatments"
     url: "https://pubmed.ncbi.nlm.nih.gov/21170381/"
+last_reviewed: 2026-10-01
 ---
 Your dentist says you need a repair (something to fill or cover that cavity or damaged tooth area). But what kind? Should you get a simple filling, an inlay, or a full crown? The options can seem confusing, and the choice much affects how long your repair lasts, how much it costs, and how much tooth structure remains.
 

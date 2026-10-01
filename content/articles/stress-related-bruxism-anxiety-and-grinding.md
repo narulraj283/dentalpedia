@@ -44,6 +44,7 @@ slug: stress-related-bruxism-anxiety-and-grinding
 subcategory: TMJ & Sleep Overview
 subcategory_slug: overview-tmj-sleep
 title: 'Anxiety-Related Teeth Grinding: Understanding'
+last_reviewed: 2026-10-01
 ---
 ## Introduction
 

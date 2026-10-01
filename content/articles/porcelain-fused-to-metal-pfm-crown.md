@@ -42,7 +42,7 @@ slug: porcelain-fused-to-metal-pfm-crown
 subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
 title: Porcelain Fused to Metal Pfm Crown
-last_reviewed: 2026-06-01
+last_reviewed: 2026-10-01
 ---
 ## Understanding Your Porcelain-Fused-to-Metal Crown
 

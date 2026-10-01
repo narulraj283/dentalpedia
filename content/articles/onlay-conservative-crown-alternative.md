@@ -27,6 +27,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/34567890
   - title: "Long-term Success Rates of Partial Coverage Restorations"
     url: https://www.ncbi.nlm.nih.gov/pubmed/35678901
+last_reviewed: 2026-10-01
 ---
 ## Understanding Onlays: The Sweet Spot Between Filling and Crown
 

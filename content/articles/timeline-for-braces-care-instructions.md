@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/19167948
   - title: "Ultmann JS, Brubaker ML. A case report of laparoscopic cholecystectomy during pregnancy. Obstet Gynecol Surv. 1993;48(1):41-43."
     url: https://pubmed.ncbi.nlm.nih.gov/8464799
+last_reviewed: 2026-10-01
 ---
 ## Keeping Your Teeth Clean with Braces
 

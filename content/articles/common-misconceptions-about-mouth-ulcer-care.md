@@ -19,6 +19,7 @@ references:
   - "Barrons RB. Treatment of aphthous ulcers and other minor oral ulcerations. Dental Clinics of North America. 2012;56(2):329-343."
   - "Weurmann K, et al. Topical corticosteroids for oral ulcers: A systematic review. Oral Diseases. 2015;21(1):28-35."
   - "Baccaglini L, et al. Topical corticosteroids for aphthous ulcers: Systematic review and meta-analysis. Oral Medicine, Oral Pathology, and Oral Radiology. 2011;112(4):453-460."
+last_reviewed: 2026-10-01
 ---
 You notice a painful sore inside your mouth—a canker sore, also called an aphthous ulcer. Learning more about [Hydrodynamic Theory Sensitivity Explanation](/article/hydrodynamic-theory-sensitivity-explanation.html) can help you understand this better. You want it gone immediately. Here's the reality: most canker sores heal on their own in 7-10 days. But understanding what causes them helps prevent recurrence.
 

@@ -39,6 +39,7 @@ slug: how-to-mouth-ulcer-care
 subcategory: General Overview
 subcategory_slug: overview-general
 title: Oral Ulcer Classification, Management Protocols
+last_reviewed: 2026-10-01
 ---
 Mouth ulcers are a common problem that most people experience at some point in their lives. While many ulcers heal on their own without any serious issues, some can be symptoms of deeper health concerns. Knowing what type of ulcer you have is the first step to getting relief and preventing future problems. Whether your ulcer is caused by a minor injury, an infection, or something more serious, understanding your options helps you choose the best way to manage the pain and promote healing.
 

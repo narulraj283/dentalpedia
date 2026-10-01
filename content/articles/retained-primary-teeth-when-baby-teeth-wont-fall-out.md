@@ -17,6 +17,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/2790050
   - title: "Lyons K, Kindelan SA, O'Mahony JE, Sammons RL. Dental anomalies in hypodontia and suspected ectodermal dysplasias: a review of the literature. Part 1. Quintessence Int. 2009;40(4):289-297."
     url: https://pubmed.ncbi.nlm.nih.gov/19417868
+last_reviewed: 2026-10-01
 ---
 ## When Baby Teeth Won't Fall Out: What You Need to Know
 

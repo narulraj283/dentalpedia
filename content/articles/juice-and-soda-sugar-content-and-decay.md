@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/16571667
   - title: "Effectiveness of Behavioral Interventions to Reduce Sugary Beverage Consumption"
     url: https://www.ncbi.nlm.nih.gov/pubmed/18997142
+last_reviewed: 2026-10-01
 ---
 ## Sugar Content in Common Beverages
 

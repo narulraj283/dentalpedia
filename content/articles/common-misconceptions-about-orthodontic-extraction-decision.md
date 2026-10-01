@@ -21,6 +21,7 @@ references:
   - "Rakosi T, Jonas I. Atlas of Orthodontics. Principles and Clinical Applications. Philadelphia: Lea & Febiger; 1992."
   - "Jacobs BC. The classification of malocclusions. Am J Orthod. 1972;62(3):242-254."
   - "Popovich F, Thompson GW. Orthodontic treatment, natural smile contours, and posterior vertical dimensions. Angle Orthod. 1977;47(1):75-86."
+last_reviewed: 2026-10-01
 ---
 ## When and Why Tooth Extraction Might Be Part of Your Orthodontic Plan
 

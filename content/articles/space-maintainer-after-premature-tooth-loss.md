@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/11773837
   - title: "Nowak AJ, Christensen JR. Pediatric Dentistry. Clinical Practice and Management. 2nd ed. St. Louis: Mosby; 2011."
     url: https://pubmed.ncbi.nlm.nih.gov/21574583
+last_reviewed: 2026-10-01
 ---
 ## Introduction
 

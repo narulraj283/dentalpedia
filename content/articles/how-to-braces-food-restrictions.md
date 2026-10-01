@@ -29,6 +29,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/28424542
   - title: "Patient compliance with dietary restrictions in fixed orthodontic treatment and associated treatment outcomes"
     url: https://www.ncbi.nlm.nih.gov/pubmed/29163812
+last_reviewed: 2026-10-01
 ---
 One of the biggest challenges with braces is figuring out what you can and can't eat. The good news: you don't have to give up food completely. The catch: certain foods can break your brackets or damage your braces, which delays treatment and costs money for repairs. Understanding what to avoid and how to modify foods makes it much easier.
 

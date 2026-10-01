@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/17876605
   - title: "Ghazal A et al. Therapeutic Efficacy of a Novel Digitally Fabricated Mandibular Advancement Device. J Dent Sleep Med. 2018;5(1):e1-e6."
     url: https://pubmed.ncbi.nlm.nih.gov/30800841
+last_reviewed: 2026-10-01
 ---
 ## What is Sleep Apnea and Why Dentists Can Help
 

@@ -29,6 +29,7 @@ slug: denture-adjustment-and-fitting-the-initial-process
 subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
 title: 'Getting Your New Dentures Fitted: What Happens at'
+last_reviewed: 2026-10-01
 ---
 Getting new dentures is exciting but also requires patience. When you first receive your dentures, they need adjustments to fit your mouth properly and feel comfortable. Understanding what happens during the initial fitting and adjustment process helps you know what to expect.
 

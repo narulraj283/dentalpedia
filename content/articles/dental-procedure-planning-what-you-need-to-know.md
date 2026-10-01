@@ -19,6 +19,7 @@ references:
   - "Mjor IA, et al. Longevity of Dental Restorations: Survival and Reasons for Failure. Oper Dent. 2022;47(1):1-11."
   - "Viera AJ, et al. Managing Expectations in Dental Treatment. Dent Clin North Am. 2023;67(2):213-225."
   - "Wilson NHF, et al. Shared Decision-Making in Dental Treatment Planning. Br Dent J. 2023;234(6):349-356."
+last_reviewed: 2026-10-01
 ---
 ## Understanding Your Diagnosis
 

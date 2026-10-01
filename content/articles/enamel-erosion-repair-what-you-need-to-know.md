@@ -19,6 +19,7 @@ references:
   - "Pindborg JJ. Pathology of the Dental Hard Tissues. Munksgaard; 1970."
   - "Sawyer DR, Kiely ML, Helsing E. Prevalence and severity of dental erosion in a population of Scottish adults. Caries Res. 1996;30(3):203-207."
   - "Schlüter N, Tveit AB, Romilson TB, Carvalho TS. The effects of acidulated phosphate fluoride on dental erosion: A systematic review. Dent Mater. 2016;32(12):1449-1458."
+last_reviewed: 2026-10-01
 ---
 Tooth erosion from acidic foods, drinks, or stomach acid causes permanent damage to your enamel. However, understanding what's happening and taking action early prevents severe damage. This practical guide helps you recognize erosion, stop it from getting worse, and restore your smile.
 

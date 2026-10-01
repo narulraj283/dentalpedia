@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/30685316
   - title: "Renkema AM, Sips ET, Bronkhorst E, Kuijpers-Jagtman AM. A survey on orthodontic retention procedures in the Netherlands. Eur J Orthod. 2009;31(4):432-437."
     url: https://pubmed.ncbi.nlm.nih.gov/19487214
+last_reviewed: 2026-10-01
 ---
 ## Why Your Teeth Want to Go Back: Understanding Relapse
 

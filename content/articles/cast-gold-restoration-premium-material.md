@@ -19,6 +19,7 @@ references:
   - "Mjör IA. Placement and replacement of restorations. Oper Dent. 1981;6(2):49-54."
   - "Djemal S, King P, Wylie C. Longevity of restorations: a systematic review. J Dent Res. 2000;79(5):1319-1323."
   - "Sarrett DC. Clinical challenges and the relevance of materials testing for posterior composite restorations. Dent Mater. 2005;21(3):247-267."
+last_reviewed: 2026-10-01
 ---
 ## Why Gold Stands Out
 

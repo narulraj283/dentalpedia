@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/1307156
   - title: "Azofeifa-Solano JC, Arroyo-Cruz G, Guillén-Sáenz H. Clinical and radiographic evaluation of sonic and ultrasonic scalers in deep periodontal pockets. J Clin Periodontol. 2005;32(11):1200-1206."
     url: https://pubmed.ncbi.nlm.nih.gov/16212571
+last_reviewed: 2026-10-01
 ---
 ## Introduction
 

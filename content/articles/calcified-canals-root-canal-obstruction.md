@@ -30,6 +30,7 @@ slug: calcified-canals-root-canal-obstruction
 subcategory: Endodontic Overview
 subcategory_slug: overview-endo
 title: 'Calcified Canals: Root Canal Obstruction and Pulpal'
+last_reviewed: 2026-10-01
 ---
 ## What Are Calcified Canals?
 

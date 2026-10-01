@@ -37,6 +37,7 @@ slug: post-traumatic-stress-and-dentistry
 subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
 title: Post Traumatic Stress and Dentistry
+last_reviewed: 2026-10-01
 ---
 ## When Dental Trauma Affects Your Mental Health
 

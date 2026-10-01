@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/27641835/
   - title: "Treatment Response Factors: Predictors of Outcomes in Periodontitis Management"
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/jcpe.12901
+last_reviewed: 2026-10-01
 ---
 ## Your Gum Disease Treatment Options
 

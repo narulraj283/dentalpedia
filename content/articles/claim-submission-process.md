@@ -19,6 +19,7 @@ references:
   - "American Dental Association Health Policy Institute. Trends in Dental Benefit Coverage and Plan Design. ADA Research Brief; 2023."
   - "National Association of Dental Plans. Dental Benefit Plan Administration Standards. NADP Guidelines; 2023."
   - "Federal Trade Commission. Consumer Guide to Dental Insurance Claims. FTC Consumer Advice; 2023."
+last_reviewed: 2026-10-01
 ---
 If you have dental insurance, understanding how claims work helps you make informed decisions about treatment and know what you'll actually pay. Many patients are surprised by bills after treatment because they didn't understand their coverage. Here's a straightforward guide to how dental insurance claims work.
 

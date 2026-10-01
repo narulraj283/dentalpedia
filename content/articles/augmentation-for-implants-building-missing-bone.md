@@ -31,6 +31,7 @@ slug: augmentation-for-implants-building-missing-bone
 subcategory: Implant Planning
 subcategory_slug: implant-planning
 title: 'Augmentation for Implants: Building Missing Bone'
+last_reviewed: 2026-10-01
 ---
 Dental implants need a solid foundation of bone to work. If you've lost a tooth due to decay or an accident, or if your jaw has shrunk from gum disease, there might not be enough bone for an implant. The solution is bone augmentation—building up the bone before placing the implant. Several different techniques accomplish this depending on where the bone loss is and how severe it is.
 

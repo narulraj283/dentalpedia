@@ -39,6 +39,7 @@ slug: sleep-apnea-breathing-pause-during-sleep
 subcategory: TMJ & Sleep Overview
 subcategory_slug: overview-tmj-sleep
 title: 'Sleep Apnea: Understanding Breathing Pauses During'
+last_reviewed: 2026-10-01
 ---
 ## What Is Sleep Apnea?
 

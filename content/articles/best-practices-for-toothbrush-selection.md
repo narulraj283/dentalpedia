@@ -32,6 +32,7 @@ slug: best-practices-for-toothbrush-selection
 subcategory: Brushing, Flossing & Hygiene
 subcategory_slug: brushing-flossing
 title: 'Toothbrush Selection: Bristle Design, Stiffness'
+last_reviewed: 2026-10-01
 ---
 ## Choosing the Right Manual Toothbrush
 

@@ -19,6 +19,7 @@ references:
   - "Döri F, Arweiler NB, Pippely HG, et al. Effect of systemic doxycycline and topical Emdogain on the healing of human intrabony defects. J Clin Periodontol. 2007;34(7):575-585."
   - "Stavropoulos A, Wikesjö UM. Growth factor enhancement of periodontal wound healing and regeneration. Curr Pharm Des. 2012;18(34):5585-5593."
   - "Bosshardt DD, Sculean A. Does periodontal tissue engineering have a future? Dent Clin North Am. 2015;59(4):931-952."
+last_reviewed: 2026-10-01
 ---
 When gum disease destroys the bone and attachment that support your teeth, modern treatments can sometimes regenerate lost tissues and help save your teeth. One promising treatment uses special proteins from tooth enamel to stimulate your body to rebuild what disease destroyed. Understanding this treatment helps you decide if it's right for your situation.
 

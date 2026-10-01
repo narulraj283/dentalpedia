@@ -43,6 +43,7 @@ references:
     authors: "Clarkson TW, Magos L"
     year: 2006
     publication: "International Dental Journal"
+last_reviewed: 2026-10-01
 ---
 When you need a filling, your dentist has lots of options. Each material works differently, lasts different amounts of time, and has different advantages and disadvantages. Let's talk about what the choices are so you can understand what your dentist recommends.
 

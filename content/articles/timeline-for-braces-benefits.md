@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/17902213
   - title: "Colquitt JL, Pickett K, Loveman E, Frampton GK. Surgery for weight loss in adults. Cochrane Database Syst Rev. 2014;8:CD003641."
     url: https://pubmed.ncbi.nlm.nih.gov/25105982
+last_reviewed: 2026-10-01
 ---
 ## You'll See Changes Quickly
 

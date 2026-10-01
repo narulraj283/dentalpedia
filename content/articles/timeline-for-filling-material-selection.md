@@ -44,6 +44,7 @@ slug: timeline-for-filling-material-selection
 subcategory: General Overview
 subcategory_slug: overview-general
 title: 'Dental Filling Material Selection: Properties'
+last_reviewed: 2026-10-01
 ---
 ## Introduction
 

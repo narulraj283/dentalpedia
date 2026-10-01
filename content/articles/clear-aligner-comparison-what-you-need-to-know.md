@@ -19,6 +19,7 @@ references:
   - "Langford SB. Soft tissue management in orthodontics. J Dent Orofac Res. 2011;25(2):78-92."
   - "Ellis III E, Herbison JJ. Stability of the mandible following surgical-orthodontic correction of Class III skeletal open bite. Int J Adult Orthodon Orthognath Surg. 1994;9(4):267-275."
   - "Iivanen T, Kantomaa T, Pirttiniemi P. The shape of the sagittal occlusal plane and anterior open bite. Eur J Orthod. 2012;34(3):338-343."
+last_reviewed: 2026-10-01
 ---
 ## Will Clear Aligners Work for My Bite?
 

@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/26301671
   - title: "Riley P, Lamont T. Antibacterial agents for preventing dental caries. Cochrane Database Syst Rev. 2013;10:CD003610."
     url: https://pubmed.ncbi.nlm.nih.gov/24068202
+last_reviewed: 2026-10-01
 ---
 ## Introduction
 

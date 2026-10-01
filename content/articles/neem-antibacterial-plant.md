@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/17451999
   - title: "Prashant T, Biharilal K, Jayaveera KN, et al. Antimicrobial efficacy of extracts obtained from Psidium guajava leaves and Azadirachta indica bark. Indian J Microbiol. 2011;51(3):372-376."
     url: https://pubmed.ncbi.nlm.nih.gov/23997430
+last_reviewed: 2026-10-01
 ---
 Neem, a tree native to India, has been used in Ayurvedic medicine for over 2,000 years. Traditional practitioners have chewed neem bark and used neem paste for oral health. Does modern science support these traditional practices?
 

@@ -13,6 +13,7 @@ reviewed: true
 references:
   - "American Dental Association. Health Insurance Resource Center: Dental Insurance Terms and Definitions. Chicago: ADA; 2023."
   - "Dental Benefits Institute. The Evolution of Dental Benefit Plans: Analysis of Covered Services 2000-2023. Washington DC: DBI; 2023."
+last_reviewed: 2026-10-01
 ---
 ## What Is a Deductible?
 

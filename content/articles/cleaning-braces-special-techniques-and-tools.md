@@ -19,6 +19,7 @@ references:
   - "Derks A, Katsaros C, Frencken JE, et al. Caries-inhibiting effect of preventive measures during orthodontic treatment with fixed appliances: a systematic review. Caries Res. 2004;38(5):413-420."
   - "Chen J, Ge Y, Hsu C, et al. Efficacy of dental floss in removing interproximal plaque among adolescent orthodontist patients. J Dent Res. 1997;76(1):89-96."
   - "Graziano MCL, Graziano KU, Sakamoto TC, et al. Effect of a computerized remineralizing dentifrice on white spot lesions around brackets. Angle Orthod. 2015;85(4):602-609."
+last_reviewed: 2026-10-01
 ---
 ## Why Cleaning Braces Is Extra Important
 

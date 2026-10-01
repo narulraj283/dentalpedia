@@ -29,6 +29,7 @@ slug: bleeding-after-tooth-extraction-when-is-it-excessive
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: 'Bleeding After Tooth Extraction: Clinical Assessment'
+last_reviewed: 2026-10-01
 ---
 ## Normal Bleeding vs. The Problem Bleeding
 

@@ -25,6 +25,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/19850840
   - title: "Sodium fluoride versus stannous fluoride: comparative efficacy in caries prevention"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25891364
+last_reviewed: 2026-10-01
 ---
 Fluoride gets a lot of attention—some positive, some skeptical. But decades of research confirms fluoride is one of the most effective tools we have for preventing cavities. Understanding how it works and how to use it properly helps you make informed decisions about your oral health.
 

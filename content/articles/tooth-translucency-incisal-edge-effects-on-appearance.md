@@ -41,6 +41,7 @@ slug: tooth-translucency-incisal-edge-effects-on-appearance
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: 'Why Your Front Teeth Look Bright: Translucency'
+last_reviewed: 2026-10-01
 ---
 ## Why Your Front Teeth Glow
 

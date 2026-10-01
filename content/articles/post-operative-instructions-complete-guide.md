@@ -21,6 +21,7 @@ slug: post-operative-instructions-complete-guide
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Post-Operative Instructions After Oral Surgery
+last_reviewed: 2026-10-01
 ---
 ## Complete Guide to Post-Operative Care After Oral Surgery
 

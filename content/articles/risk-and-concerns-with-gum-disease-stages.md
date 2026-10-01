@@ -43,6 +43,7 @@ slug: risk-and-concerns-with-gum-disease-stages
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Risk and Concerns with Gum Disease Stages
+last_reviewed: 2026-10-01
 ---
 ## Introduction
 

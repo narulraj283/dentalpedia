@@ -46,6 +46,7 @@ slug: probiotics-for-oral-health-beneficial-bacteria-research
 subcategory: Holistic Overview
 subcategory_slug: overview-holistic
 title: Probiotics for Oral Health Beneficial Bacteria Research
+last_reviewed: 2026-10-01
 ---
 ## Understanding Your Mouth's Bacteria
 

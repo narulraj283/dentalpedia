@@ -21,6 +21,7 @@ references:
   - "Sanz M, Herrera D, Kebschull M, et al. Treatment of stage I-III periodontitis—The EFP S3 level clinical practice guideline. J Clin Periodontol. 2020;47(Suppl 22):4-60."
   - "Schwendicke F, Dörfer CE, Schlattmann P. Socioeconomic inequalities in caries rates and dental attendance—A systematic review and meta-regression. Clin Oral Investig. 2015;19(6):1157-1164."
   - "Yang Y, Listl S, Broadbent JM, et al. Dental service frequency and childhood caries: evidence from the Dunedin Study. Community Dent Oral Epidemiol. 2020;48(1):36-42."
+last_reviewed: 2026-10-01
 ---
 The old recommendation was that everyone should visit the dentist twice a year. But modern dentistry knows that's not one-size-fits-all. Some people really do need six-month visits, while others can safely go a year or longer. Understanding your personal risk helps you find the right visit frequency that protects your teeth without wasting money on unnecessary visits.
 

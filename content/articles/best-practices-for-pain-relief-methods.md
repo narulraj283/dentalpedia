@@ -21,6 +21,7 @@ references:
   - "Gordon NC, Heller PH, Gear RW, Levine JD. Intensity of analgesic response to intravenous morphine in cardiac patients and coronary artery disease patients. Pain. 1995;63(2):189-195."
   - "Breivik H, Collett B, Ventafridda V, Cohen R, Gallacher D. Survey of chronic pain in Europe: prevalence, impact on daily life, and treatment. Eur J Pain. 2006;10(4):287-333."
   - "McQuay HJ, Moore RA. An Evidence-Based Resource for Pain Relief. Oxford University Press; 1998."
+last_reviewed: 2026-10-01
 ---
 ## Different Types of Tooth Pain Need Different Treatments
 

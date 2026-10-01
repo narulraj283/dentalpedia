@@ -21,6 +21,7 @@ references:
   - "Burke FJ, Shortall AC, Creanor SL. Resin-based composite restorations: a literature review. Br Dent J. 1995;179(12):438-446."
   - "Duffin SR. Restorative materials: dental amalgam and tooth-colored materials. In: Malamed SF, ed. Medical Emergencies in the Dental Office. 6th ed. Mosby; 2007:399-409."
   - "Willershausen I, Hasselmann U, Willershausen B. Longevity of tooth-colored restorations in relation to surface roughness and general/specific plant characteristics. J Oral Rehabil. 2000;27(2):120-125."
+last_reviewed: 2026-10-01
 ---
 ## Filling Options for Cavities
 

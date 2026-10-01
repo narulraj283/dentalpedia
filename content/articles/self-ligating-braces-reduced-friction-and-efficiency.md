@@ -44,6 +44,7 @@ slug: self-ligating-braces-reduced-friction-and-efficiency
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Self Ligating Braces Reduced Friction and Efficiency
+last_reviewed: 2026-10-01
 ---
 ## Introduction
 

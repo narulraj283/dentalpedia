@@ -27,6 +27,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/28935106/"
   - title: "Post-insertion adjustments and occlusal optimization in veneer dentistry"
     url: "https://pubmed.ncbi.nlm.nih.gov/21170381/"
+last_reviewed: 2026-10-01
 ---
 ## Installing Your Veneers: What Happens During Cementation
 

@@ -39,6 +39,7 @@ slug: coil-spring-compression-spring-force
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: 'Coil Spring Mechanics in Orthodontics: Force Delivery'
+last_reviewed: 2026-10-01
 ---
 ## Understanding How Springs Work in Orthodontics
 

@@ -18,6 +18,7 @@ references:
   - "Seltzer S. Endodontology: Biologic Considerations in Endodontic Procedures. 2nd ed. McGraw-Hill; 1988."
   - "Meechan JG, Seymour RA. The use of local anesthesia in dentistry during pregnancy. Dent Update. 2006;33(8):470-472, 474-475."
   - "Garfield DA, Troullos ES. Clinical evaluation and emergency management of tooth-related pain. In: Emergency Medicine in Dental Practice. Dent Clin North Am. 2011;55(1):77-96."
+last_reviewed: 2026-10-01
 ---
 ## What Causes Severe Dental Pain and What to Do About It
 

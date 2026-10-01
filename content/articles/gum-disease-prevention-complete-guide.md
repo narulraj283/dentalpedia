@@ -27,6 +27,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/20659217/"
   - title: "Antibiotic Prophylaxis and Periodontal Prevention"
     url: "https://pubmed.ncbi.nlm.nih.gov/15998314/"
+last_reviewed: 2026-10-01
 ---
 ## Preventing Gum Disease Is Easier Than Treating It
 

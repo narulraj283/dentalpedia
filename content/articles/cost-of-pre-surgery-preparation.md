@@ -21,6 +21,7 @@ references:
   - "Stubinger S, Niederhagen B, von See C, et al. Intraoperative monitoring of the inferior alveolar nerve during dental implant placement. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2007;104(2):e1-10."
   - "Ren L, Ng T, Mansur H, et al. Retrospective analysis of 122 patients with perioperative complications related to third molar extraction. Br Dent J. 2017;222(9):711-716."
   - "Miloro M, Peterson LJ. Peterson's Principles of Oral and Maxillofacial Surgery. 3rd ed. People's Medical Publishing House; 2012."
+last_reviewed: 2026-10-01
 ---
 ## Why Pre-Surgery Preparation Matters
 

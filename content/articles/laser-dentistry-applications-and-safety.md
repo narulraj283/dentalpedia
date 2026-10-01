@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/26055925
   - title: "Safety protocols and adverse effects in dental laser therapy"
     url: https://www.ncbi.nlm.nih.gov/pubmed/23234008
+last_reviewed: 2026-10-01
 ---
 ## What You Need to Know About Dental Lasers
 

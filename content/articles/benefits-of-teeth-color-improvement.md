@@ -21,6 +21,7 @@ references:
   - "Sorensen JA. A Rationale for Comparison of Plaque Retentive Properties of Crown Systems. Journal of Prosthetic Dentistry. 1989;62(3):264-269."
   - "Dancy JA, Suge T. Shade Selection in Prosthodontics. Journal of Prosthetic Dentistry. 1999;81(4):447-451."
   - "Yap AUJ, Wattanapayathorn N. Influence of the Munsell Color Specification on Shade Selection. Operative Dentistry. 2002;27(4):384-389."
+last_reviewed: 2026-10-01
 ---
 ## Understanding Tooth Color
 

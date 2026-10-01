@@ -19,6 +19,7 @@ references:
   - "Marsh PD. Dental plaque as a microbial biofilm. Caries Res. 2004;38(3):204-211."
   - "Ekstrand KR, Ricketts DN, Kidd EA. Reproducibility and accuracy of three methods for assessment of demineralized and remineralized caries lesions in vitro. Caries Res. 1997;31(3):224-231."
   - "Söder B, Yakob M, Meurman JH, Andersson LC, Klinge B. Periodontal disease may associate with breast cancer. Breast Cancer Res Treat. 2011;127(2):497-502."
+last_reviewed: 2026-10-01
 ---
 ## Comprehensive Prevention Framework
 

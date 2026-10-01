@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/3459436
   - title: "Sweet JB, Butler DP. The relationship of smoking to delayed healing of extraction sockets in non-diabetic and diabetic patients. Journal of Oral and Maxillofacial Surgery. 1979;37(5):320-322."
     url: https://pubmed.ncbi.nlm.nih.gov/287189
+last_reviewed: 2026-10-01
 ---
 ## Your First Day After Extraction
 

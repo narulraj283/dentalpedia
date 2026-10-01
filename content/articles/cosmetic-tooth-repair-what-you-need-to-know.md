@@ -21,6 +21,7 @@ references:
   - "Yoshida Y, Nagakane K, Fukuda R, et al. Comparative study on adhesive performance of functional monomers. J Dent Res. 2004;83(6):454-458."
   - "Frankenberger R, Tay FR. Self-etch adhesive systems: selecting when and where they are indicated. J Adhes Dent. 2005;7(4):275-291."
   - "Browning WD, Cho SD, Nakornchai C. Patient satisfaction with esthetic restorations. Oper Dent. 2005;30(4):398-404."
+last_reviewed: 2026-10-01
 ---
 Whether you've chipped a tooth, have discolored spots, or suffered damage, modern cosmetic dentistry can restore your smile. Learning more about [Cosmetic Dentistry for Aged Teeth Age Related Changes](/article/cosmetic-dentistry-for-aged-teeth-age-related-changes.html) can help you understand this better. There are several ways to repair your teeth, from simple bonding to veneers. This guide explains what's available, how much it costs, and how long repairs typically last.
 

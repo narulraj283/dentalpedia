@@ -31,6 +31,7 @@ references:
     url: "https://www.ncbi.nlm.nih.gov/pubmed"
   - title: "Caton JG, Armitage G, Newbrun E, et al. The AAP Classification of Periodontal Diseases and Conditions. J Periodontol. 2018;89(Suppl 1):S9-S16."
     url: "https://www.ncbi.nlm.nih.gov/pubmed"
+last_reviewed: 2026-10-01
 ---
 ## From Healthy Gums to Gingivitis: The Timeline
 

@@ -21,6 +21,7 @@ references:
   - "Pihlstrom BL, Michalowicz BS, Johnson NW. Periodontal diseases. Lancet. 2005;366(9499):1809-1820."
   - "Sarfati A, Dutil S, Aubin MC, et al. Optical and X-ray measurement of oral bone density change around implants. Clin Oral Implants Res. 2010;21(5):509-515."
   - "Slots J, Listgarten MA. Bacteriology of human experimental gingivitis. J Periodontal Res. 1988;23(4):275-280."
+last_reviewed: 2026-10-01
 ---
 ## Why Surgeons Use Flaps to Reach Problem Areas
 

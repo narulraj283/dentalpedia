@@ -28,6 +28,7 @@ reviewed: true
 reviewer_specialty: Endodontics
 slug: nickel-titanium-files-modern-material
 title: Nickel Titanium Files Modern Material
+last_reviewed: 2026-10-01
 ---
 ## What's Special About Modern Root Canal Files
 

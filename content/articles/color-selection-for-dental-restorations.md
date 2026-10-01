@@ -34,6 +34,7 @@ slug: color-selection-for-dental-restorations
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Color Selection and Shade Matching in Dental Restorations
+last_reviewed: 2026-10-01
 ---
 ## Why Shade Matching Matters for Your Smile
 

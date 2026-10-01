@@ -31,6 +31,7 @@ slug: best-practices-for-recovery-after-extraction
 subcategory: Tooth Extraction
 subcategory_slug: tooth-extraction
 title: Evidence-Based Protocol for Post-Extraction Healing
+last_reviewed: 2026-10-01
 ---
 ## The First Hours Matter Most
 

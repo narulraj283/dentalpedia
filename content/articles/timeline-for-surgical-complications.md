@@ -42,6 +42,7 @@ slug: timeline-for-surgical-complications
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: 'Oral Surgical Complications: Classification, Timeline'
+last_reviewed: 2026-10-01
 ---
 ## Introduction
 

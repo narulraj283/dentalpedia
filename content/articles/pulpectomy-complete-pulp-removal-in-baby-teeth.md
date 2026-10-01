@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/9119266
   - title: "Srinivasan V, Menon MP, Nair MK. Periapical changes following pulpectomy in primary molars: a radiological follow-up study. J Indian Soc Pedod Prev Dent. 1999;17(4):166-171."
     url: https://pubmed.ncbi.nlm.nih.gov/11416568
+last_reviewed: 2026-10-01
 ---
 ## When Your Child's Baby Tooth Nerve Dies
 

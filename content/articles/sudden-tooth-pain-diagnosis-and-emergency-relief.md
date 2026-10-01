@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/27040287
   - title: "Neumann DC, Bianchi DJ, Ehlers V. Effects of antibiotic premedication on dental pain perception and pulp vitality. J Dent Res. 2006;85(5):414-418."
     url: https://pubmed.ncbi.nlm.nih.gov/16632751
+last_reviewed: 2026-10-01
 ---
 ## What's Causing Your Sudden Tooth Pain?
 

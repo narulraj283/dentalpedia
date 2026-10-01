@@ -35,6 +35,7 @@ slug: bracket-irritation-mouth-sores-during-orthodontia
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: 'Bracket Irritation and Oral Ulceration: Prevention'
+last_reviewed: 2026-10-01
 ---
 One of the most common complaints from people with braces is that they cause sore spots inside their mouth. About 15 to 30% of people experience some mouth ulceration (sores) from braces, especially in the first week or two. These sores usually come from sharp bracket edges or protruding wires rubbing against your lips, cheeks, or tongue. The good news is that these sores are almost always preventable and treatable. This guide explains what causes them, how to prevent them, and how to manage them if they develop.
 

@@ -42,6 +42,7 @@ slug: submitting-insurance-claims-process-overview
 subcategory: Practice & Insurance Overview
 subcategory_slug: overview-practice
 title: Submitting Insurance Claims - Process Overview
+last_reviewed: 2026-10-01
 ---
 ## Understanding Your Dental Insurance Claim
 

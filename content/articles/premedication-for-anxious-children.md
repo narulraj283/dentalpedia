@@ -41,7 +41,7 @@ slug: premedication-for-anxious-children
 subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
 title: Premedication for Anxious Children
-last_reviewed: 2026-09-01
+last_reviewed: 2026-10-01
 ---
 ## Helping Your Anxious Child at the Dentist
 

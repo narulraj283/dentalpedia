@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/25348268
   - title: "Mouthguard design optimization: Thickness, material composition, and fit requirements"
     url: https://www.ncbi.nlm.nih.gov/pubmed/23412589
+last_reviewed: 2026-10-01
 ---
 If you play contact sports, one of your most important pieces of equipment isn't your helmet or pads. It's your mouthguard. About 20% to 30% of children experience traumatic dental injuries during childhood. Contact sports account for many of these injuries. Yet many young athletes participate in high-risk sports without proper mouthguard protection.
 

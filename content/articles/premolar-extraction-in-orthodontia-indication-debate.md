@@ -37,6 +37,7 @@ slug: premolar-extraction-in-orthodontia-indication-debate
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: Premolar Extraction in Orthodontia Indication Debate
+last_reviewed: 2026-10-01
 ---
 ## Should Your Teeth Be Extracted for Braces? Understanding Extraction Decisions
 

@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/25815643
   - title: "Periodontal health and systemic inflammation markers"
     url: https://pubmed.ncbi.nlm.nih.gov/26318657
+last_reviewed: 2026-10-01
 ---
 ## Why Your Dentist Won't Stop Asking About Flossing
 

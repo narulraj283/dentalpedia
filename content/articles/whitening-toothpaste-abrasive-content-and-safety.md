@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/15338090
   - title: "Comparative effectiveness of various whitening toothpaste formulations"
     url: https://pubmed.ncbi.nlm.nih.gov/24695325
+last_reviewed: 2026-10-01
 ---
 ## How Whitening Toothpaste Actually Works
 

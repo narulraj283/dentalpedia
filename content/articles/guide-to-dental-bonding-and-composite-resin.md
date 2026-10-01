@@ -31,6 +31,7 @@ references:
     url: "https://www.ncbi.nlm.nih.gov/pubmed"
   - title: "Ferracane JL. Resin composite—state of the art. Dent Mater. 2011;27(1):29-38."
     url: "https://www.ncbi.nlm.nih.gov/pubmed"
+last_reviewed: 2026-10-01
 ---
 ## How Modern Tooth-Colored Fillings Work
 

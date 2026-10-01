@@ -19,6 +19,7 @@ references:
   - "Deas DE, Moritz AJ. Esthetics and restorative dentistry: periodontal and restorative interrelationship. Periodontol 2000. 2007;44:51-60."
   - "Guncu GN, Guneri P, Bostanci N, Ozdemir S, Akkaya B, Tekin U, et al. Effect of periodontal therapy on clinical crown length. J Dent Res. 2015;94(Spec Iss A):1743."
   - "Lanning SK, Waldrop TC, Gunsolley JC, Maynard JG. Surgical crown lengthening: evaluation of the biological width. J Periodontol. 2003;74(10):1464-1474."
+last_reviewed: 2026-10-01
 ---
 Sometimes a tooth looks shorter than it should be because gum tissue covers too much of it. Learning more about [Timeline for Recovery Timeline](/article/timeline-for-recovery-timeline.html) can help you understand this better. Crown lengthening is a surgical procedure that removes bone and reshapes gum tissue to make the visible part of the tooth longer. This might be necessary for functional or cosmetic reasons. Let's explore when this procedure is needed and what it involves.
 

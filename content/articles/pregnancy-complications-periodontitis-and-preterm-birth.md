@@ -40,6 +40,7 @@ slug: pregnancy-complications-periodontitis-and-preterm-birth
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Pregnancy Complications Periodontitis and Preterm Birth
+last_reviewed: 2026-10-01
 ---
 ## How Gum Disease Affects Your Pregnancy
 

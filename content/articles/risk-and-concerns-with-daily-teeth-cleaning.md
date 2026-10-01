@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/16584334
   - title: "Turesky S, et al. Reduced plaque formation by the chloromethyl analogue of victamine C. J Periodontol. 1970;41(1):41-43."
     url: https://pubmed.ncbi.nlm.nih.gov/5265468
+last_reviewed: 2026-10-01
 ---
 ## Basic Brushing Technique
 

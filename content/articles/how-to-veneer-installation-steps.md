@@ -32,6 +32,7 @@ slug: how-to-veneer-installation-steps
 subcategory: Smile Design
 subcategory_slug: smile-design
 title: 'Veneer Installation: What to Expect Step by'
+last_reviewed: 2026-10-01
 ---
 ## Planning Your Smile: Before Treatment Starts
 

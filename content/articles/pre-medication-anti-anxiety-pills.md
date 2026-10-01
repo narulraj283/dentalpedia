@@ -27,6 +27,7 @@ slug: pre-medication-anti-anxiety-pills
 subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
 title: Pre Medication Anti Anxiety Pills
+last_reviewed: 2026-10-01
 ---
 ## Why Your Dentist Might Recommend Anti-Anxiety Medication
 

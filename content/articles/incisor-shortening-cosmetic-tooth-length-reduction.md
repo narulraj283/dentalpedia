@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/29360262
   - title: "Osseous reduction and biological width in crown lengthening procedures"
     url: https://www.ncbi.nlm.nih.gov/pubmed/32457799
+last_reviewed: 2026-10-01
 ---
 Do your front teeth look longer than you'd like, or do you show too much gum when you smile? You're not alone. Many people feel their front teeth are too long or their smile displays excessive gum tissue. The good news is that modern cosmetic dentistry offers effective solutions to shorten long teeth and create better proportions. These techniques range from simple grinding to more involved surgical approaches, all designed to give you the balanced smile you want.
 

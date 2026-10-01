@@ -21,6 +21,7 @@ references:
   - "Ong KS, Seymour RA. Pain and analgesic use following surgical removal of lower impacted third molars. Br J Oral Maxillofac Surg. 2005;43(2):117-122."
   - "Waite PD. Textbook of Practical Periodontal Surgery. 2nd ed. Hawker Publications; 1992."
   - "Gopal KV. Biostimulation of bone and soft tissues in the oral cavity. Aesthetic Dent Today. 2008;2(2):10-15."
+last_reviewed: 2026-10-01
 ---
 ## Understanding Extraction Recovery Costs
 

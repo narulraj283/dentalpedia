@@ -21,6 +21,7 @@ references:
   - "Gresnigt MM, Özcan M, van den Houten JE, Schipper L, Cune MS. Fracture strength of different types of resin composite veneers: an in vitro comparison. Quintessence Int. 2010;41(8):659-668."
   - "Edelhoff D, Slacket GD, Yildirim M. Esthetic restoration of anterior teeth. Pract Proced Aesthet Dent. 2003;15(5):383-392."
   - "Smales RJ, Etemadi S. Longevity of ceramic veneers and resin composite restorations at full-mouth level over 10 years. J Dent. 2004;32(3):179-186."
+last_reviewed: 2026-10-01
 ---
 ## Porcelain Veneers: The Gold Standard
 

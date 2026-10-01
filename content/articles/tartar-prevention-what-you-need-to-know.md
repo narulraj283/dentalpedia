@@ -19,6 +19,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/4271937
   - title: "Rees JS, Addy M. A cross-sectional study of dentine hypersensitivity. Journal of Clinical Periodontology. 2002;29(11):997-1003."
     url: https://pubmed.ncbi.nlm.nih.gov/12472993
+last_reviewed: 2026-10-01
 ---
 ## What Tartar Actually Is
 

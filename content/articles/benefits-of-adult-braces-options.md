@@ -21,6 +21,7 @@ references:
   - "Alhammadi MS, et al. Global prevalence of malocclusion in the general population: a systematic review. Dent Press J Orthod. 2018;23(6):40.e1-40.e10."
   - "McNamara JA Jr. Orthodontics and your health. Semin Orthod. 1997;3(1):3-11."
   - "Nahas AZ, et al. Factors affecting the success and stability of rapid maxillary expansion: a literature review. J World Fed Orthod. 2016;5(3):67-75."
+last_reviewed: 2026-10-01
 ---
 ## Why Adults Are Getting Braces
 

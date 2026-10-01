@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/10447966
   - title: "Sarver DM, Ackerman MB. Orthodontics and esthetics: integrating goals to enhance treatment outcomes. J Calif Dent Assoc. 2003;31(9):529-548."
     url: https://pubmed.ncbi.nlm.nih.gov/14518441
+last_reviewed: 2026-10-01
 ---
 ## Why Preparation Matters
 

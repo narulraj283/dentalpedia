@@ -19,6 +19,7 @@ references:
   - "Andersson L, Andreasen JO, Day P, et al. International Association of Dental Traumatology guidelines for the management of traumatic dental injuries: 2012 revision. Dent Traumatol. 2012;28(2):88-102."
   - "DiAngelis AJ, Andreasen JO, Ebeleseder KA, et al. International Association of Dental Traumatology guidelines for the management of traumatic dental injuries: 1. Fractures and luxations of permanent teeth. Dent Traumatol. 2012;28(1):2-12."
   - "Ramos-Jorge ML, Bosco VL, Mota-Velasco G, et al. Relationship between traumatic dental injuries and school performance in children. Pediatr Dent. 2007;29(1):42-48."
+last_reviewed: 2026-10-01
 ---
 ## Mouth Injuries: Prevention Is Absolutely Worth It
 

@@ -21,6 +21,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/9696240
   - title: "Hugoson A, Laurell L. A prospective longitudinal study on periodontal bone height changes in a Swedish population. Journal of Clinical Periodontology. 2000;27(9):665-674."
     url: https://pubmed.ncbi.nlm.nih.gov/11034119
+last_reviewed: 2026-10-01
 ---
 ## Understanding What Tartar Is and Why Prevention Matters
 

@@ -19,6 +19,7 @@ references:
   - "Thompson RD, et al. Appeal Success Rates in Dental Insurance Claims. J Dent Pract Manag. 2023;32(3):178-189."
   - "Vujicic M. Evaluating Dental Plan Network Adequacy. Health Policy Institute Research Brief; 2022."
   - "Jackson DL, Brown ML. Patient Navigation Services in Dental Care. Public Health Rep. 2022;137(4):512-520."
+last_reviewed: 2026-10-01
 ---
 ## Know Your Plan Before You Need It
 

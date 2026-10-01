@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/3685755
   - title: "Czeisler CA et al. The effect of light on human circadian physiology. Sleep Med Rev. 2011;15(6):369-378."
     url: https://pubmed.ncbi.nlm.nih.gov/21889577
+last_reviewed: 2026-10-01
 ---
 ## Getting Better Sleep: A Guide to Improving Sleep Quality
 

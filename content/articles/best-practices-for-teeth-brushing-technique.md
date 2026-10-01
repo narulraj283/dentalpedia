@@ -19,6 +19,7 @@ references:
   - "Sharma NC, et al. Adjunctive benefit of an essential oil-containing mouthrinse on orthodontic patients' gingival health. Am J Orthod Dentofacial Orthop. 2012;141(5):571-578."
   - "Rosema MI, et al. Plaque removal efficacy of new and used manual toothbrushes—a randomized clinical trial. Clin Oral Investig. 2016;20(7):1671-1679."
   - "Zink A, et al. Manual versus electric toothbrush technology: systematic review. J Dent Res. 2019;98(2):143-149."
+last_reviewed: 2026-10-01
 ---
 ## The Right Technique Matters More Than You Think
 

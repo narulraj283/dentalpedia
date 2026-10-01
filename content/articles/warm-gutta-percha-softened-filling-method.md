@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/23601091
   - title: "Material Extrusion and Apical Pressure During Thermoplastic Obturation Techniques"
     url: https://pubmed.ncbi.nlm.nih.gov/19779478
+last_reviewed: 2026-10-01
 ---
 ## Understanding Root Canal Filling Methods
 

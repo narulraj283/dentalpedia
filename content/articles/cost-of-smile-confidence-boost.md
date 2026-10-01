@@ -21,6 +21,7 @@ references:
   - "Joiner A. The bleaching of teeth: A review of the literature. Journal of Dentistry. 2021;34(6):412-419."
   - "Yazdi MP, Behnia A, Shadkam E. Tooth bleaching: A systematic review of the efficacy and safety. Journal of Dental Research Review. 2020;7(3):89-98."
   - "American Academy of Cosmetic Dentistry. Cosmetic Dentistry: Advances in Professional Tooth Whitening. Chicago: AACD; 2020."
+last_reviewed: 2026-10-01
 ---
 ## Why Smile Improvements Matter
 
