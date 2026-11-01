@@ -17,6 +17,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/28023456
   - title: "Pain Reduction Through Multimodal Sedation in Dentistry"
     url: https://www.ncbi.nlm.nih.gov/pubmed/29134567
+last_reviewed: 2026-11-01
 ---
 ## Laughing Gas for Pain Relief: More Than Just Numbness
 

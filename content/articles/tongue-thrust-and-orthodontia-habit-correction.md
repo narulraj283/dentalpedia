@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/16106274
   - title: "Ceron-Toschi R, Farias M, de Paiva G. Assessment of myofunctional orofacial characteristics in mouth breathers. International Journal of Pediatric Otorhinolaryngology. 2010;74(12):1379-1382."
     url: https://pubmed.ncbi.nlm.nih.gov/20947186
+last_reviewed: 2026-11-01
 ---
 ## What Is Tongue Thrust?
 

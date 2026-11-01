@@ -19,6 +19,7 @@ references:
   - "Strasding M, Nedelcu RG, Sailer I. Accuracy of digital impression systems according to their type: Intraoral, extraoral, and hybrid systems. J Dent. 2019;80(S1):S15-S26."
   - "Al-Omari WM, El-Anwar MI, Abdelhameed FA. Accuracy of digital impressions: A comparative study. J Prosthodont. 2021;30(2):145-152."
   - "Gimenez B, Ozcan M, Cerqueira S, et al. Intraoral digital scanners: A review. J Contemp Dent Pract. 2021;22(6):623-632."
+last_reviewed: 2026-11-01
 ---
 ## What Is Digital Scanning and Why It Matters
 

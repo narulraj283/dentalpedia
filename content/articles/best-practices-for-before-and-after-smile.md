@@ -21,6 +21,7 @@ references:
   - "Rosenstiel SF, et al. Dentistry, Dental Patient, and the Internet. J Dent Educ. 2004;68(6):623-635."
   - "Levine JB, et al. Digital technologies for smile designing and implant treatment planning. Curr Opin Aesthet Dent. 2012;6(2):45-56."
   - "Ahmad I. Digital smile design: computer-aided esthetic analysis and treatment planning. Quintessence Int. 2003;34(4):268-274."
+last_reviewed: 2026-11-01
 ---
 ## Best Practices for Before and After Smile Documentation
 

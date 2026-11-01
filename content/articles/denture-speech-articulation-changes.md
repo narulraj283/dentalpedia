@@ -20,6 +20,7 @@ references:
   - "Turrell AJ. Clinical assessment of denture quality and some physical properties of denture base polymers. J Prosthet Dent. 1976;36(1):94-108."
   - "Nairn RI. The classification of complete dentures. Br Dent J. 1962;112:356-61."
   - "Preiskel HW. Overdentures. 2nd ed. Quintessence; 1995."
+last_reviewed: 2026-11-01
 ---
 ## Introduction
 

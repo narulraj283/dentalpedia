@@ -14,6 +14,7 @@ references:
   - "Krishnan V, Davidovitch Z. Cellular, molecular, and tissue-level reactions to orthodontic force. Seminars in Orthodontics. 2006;12(4):234-246."
   - "Levander E, Malmgren O. Long-term follow-up of maxillary incisors with severe apical root resorption. European Journal of Orthodontics. 2000;22(1):85-93."
   - "Brezniak N, Wasserstein A. Root resorption after orthodontic treatment. American Journal of Orthodontics and Dentofacial Orthopedics. 1993;103(1):62-66."
+last_reviewed: 2026-11-01
 ---
 ## What Happens to Your Teeth When They Move?
 

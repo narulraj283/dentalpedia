@@ -27,6 +27,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/24475825
   - title: "Radiographic and histologic evaluation of bone response to mini implants"
     url: https://www.ncbi.nlm.nih.gov/pubmed/20849403
+last_reviewed: 2026-11-01
 ---
 If your dentist suggested mini implants, you're wondering whether this is a good option or a second-rate compromise. The honest answer: mini implants work well for specific situations but aren't right for everyone. Understanding when they make sense helps you make an informed decision about your tooth replacement.
 

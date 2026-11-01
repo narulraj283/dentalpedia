@@ -19,6 +19,7 @@ references:
   - "Pierrisnard L, Bohin F, Renault P, Barquins M. Coronal Leakage After Crown Cementation: An in vitro Study. Journal of Prosthodontics. 2022;11(3):206-212."
   - "Tasse GM, Raatz R. Bonded Composite Cores Versus Cast Posts and Cores. General Dentistry. 2023;51(6):462-468."
   - "Hedegård B, Helöe B. Studs and Posts as Auxiliary Aids in Prosthodontics. Journal of Prosthetic Dentistry. 2022;14(1):59-67."
+last_reviewed: 2026-11-01
 ---
 ## Why Your Tooth Needs Support After Root Canal
 

@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/26123456
   - title: "Psychosocial Impact of Feeding Difficulties: Parent-Child Relationships and Mealtime Stress"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27234567
+last_reviewed: 2026-11-01
 ---
 ## What Is a Lip Tie?
 

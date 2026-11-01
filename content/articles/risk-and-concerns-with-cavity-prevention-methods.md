@@ -45,6 +45,7 @@ slug: risk-and-concerns-with-cavity-prevention-methods
 subcategory: Preventive Overview
 subcategory_slug: overview-prevent
 title: Risk and Concerns with Cavity Prevention Methods
+last_reviewed: 2026-11-01
 ---
 ## Cavity Prevention Methods - What You Need to Know About the Risks
 

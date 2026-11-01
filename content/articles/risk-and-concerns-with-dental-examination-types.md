@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/
   - title: "Nanci A, et al. Ten Cate's oral histology development, structure, and function. 9th ed. Elsevier. 2017."
     url: https://pubmed.ncbi.nlm.nih.gov/
+last_reviewed: 2026-11-01
 ---
 ## The Regular Cleaning and Exam Appointment
 

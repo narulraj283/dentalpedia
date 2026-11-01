@@ -15,6 +15,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/16168325
   - title: "Lagravère MO, Flores-Mir C. The treatment effects of Invisalign orthodontic aligners: a systematic review. Journal of the American Dental Association. 2005;136(12):1647-1653."
     url: https://pubmed.ncbi.nlm.nih.gov/16383047
+last_reviewed: 2026-11-01
 ---
 ## You Have Options for Straightening Your Teeth
 

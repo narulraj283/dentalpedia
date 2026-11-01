@@ -44,6 +44,7 @@ slug: sharpening-curettes-maintaining-instrument-edge
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Sharpening Curettes Maintaining Instrument Edge
+last_reviewed: 2026-11-01
 ---
 ## What Are Curettes and Why Sharpness Matters
 

@@ -19,6 +19,7 @@ references:
   - "Paraskevas S, Rosema NA, Versteeg P, et al. The additional benefit of a chlorhexidine rinse to single-dose and multiple-dose delmopinol rinses: a crossover study. J Periodontol. 2006;77(4):580-589."
   - "Elmore JR, Shields RC, Mallory SB. The use of alcohol-free antihistamine rinses in oral mucositis. Support Care Cancer. 2014;22(6):1621-1626."
   - "Lachenmeier DW, Gumbel-Mako S, Sarsh B, et al. Systematic review of mouthwashes for claims of alcohol content. J Dent Res. 2009;88(5):473-477."
+last_reviewed: 2026-11-01
 ---
 ## Why Do Mouthwashes Have Alcohol?
 

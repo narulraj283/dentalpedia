@@ -43,6 +43,7 @@ slug: risk-and-concerns-with-teeth-bleaching-safety
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Risk and Concerns with Teeth Bleaching Safety
+last_reviewed: 2026-11-01
 ---
 ## Teeth Whitening Safety: What You Should Know Before Bleaching
 

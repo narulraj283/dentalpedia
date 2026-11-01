@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/3868677
   - title: "Ochsenbein C, et al. Surgical reshaping of gingival contours and related tissues for periodontal or restorative purposes. Periodontology 2000. 2001;25:1-14."
     url: https://pubmed.ncbi.nlm.nih.gov/11252382
+last_reviewed: 2026-11-01
 ---
 ## Understanding Gum Shaping Procedures
 

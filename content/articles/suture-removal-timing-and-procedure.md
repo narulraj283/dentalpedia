@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/21475343
   - title: "Cascarini L, Pagliuca G. Extraction of impacted lower third molars: a comparative study of rotary and ultrasonic instrumentation. J Oral Maxillofac Surg. 2015;44(3):185-190."
     url: https://pubmed.ncbi.nlm.nih.gov/25888361
+last_reviewed: 2026-11-01
 ---
 ## Why Your Surgeon Uses Stitches and When They Come Out
 

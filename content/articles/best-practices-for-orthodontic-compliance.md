@@ -21,6 +21,7 @@ references:
   - "Graber TM. Psychological impact of orthodontic treatment. In: Graber TM, Fields HW, Larson BE, eds. Orthodontics: Current Principles and Techniques. 6th ed. Elsevier; 2019."
   - "Sondhi A, Retamoso LB, Ispas A, Gupta A, Rodriguez JC. Patient-centered outcomes in orthodontics: impact of compliance on treatment duration and success. Semin Orthod. 2020;26(2):71-80."
   - "Stivaros N, Mandall NA. Compliance with removable orthodontic appliances and proportion requiring non-compliance adjustments. Br Dent J. 2000;189(6):331-334."
+last_reviewed: 2026-11-01
 ---
 ## How Much Does Sticking to Your Plan Matter?
 

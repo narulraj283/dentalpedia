@@ -31,7 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/32345678
   - title: "Pulpal inflammation and pain: pathophysiology and management"
     url: https://www.ncbi.nlm.nih.gov/pubmed/33456789
-last_reviewed: 2026-10-01
+last_reviewed: 2026-11-01
 ---
 ## Enamel: Your Tooth's Protective Shield
 

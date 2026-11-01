@@ -21,6 +21,7 @@ references:
   - "Manassa HB, Clarson MC, Moles D. Orthodontists' and patients' aesthetic preferences in relation to gingival display and buccal corridor space. J Orthod. 2003;30(4):353-359."
   - "Sifakakis I, Doulis I, Konstantonis G, et al. Comparative assessment of the accuracy of digital and conventional markings for first and second premolar extractions. World J Orthod. 2010;11(3):213-220."
   - "Iijima M, Muguruma T, Yasuda Y, et al. Method to determine the inclination of impacted supernumerary teeth. J Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2006;101(3):297-302."
+last_reviewed: 2026-11-01
 ---
 If you want straighter teeth but don't like the idea of metal braces, clear aligners might be perfect for you. They're practically invisible, easy to clean, and work faster than traditional braces for many people. But how much do they cost, and are they right for your teeth? Let's break down what you need to know about choosing between clear aligners and braces.
 

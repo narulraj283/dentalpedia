@@ -31,7 +31,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/24410065/"
   - title: "Community water fluoridation effects on dental caries epidemiology"
     url: "https://pubmed.ncbi.nlm.nih.gov/19531119/"
-last_reviewed: 2026-10-01
+last_reviewed: 2026-11-01
 ---
 Cavities are one of the most common chronic diseases, affecting about 90% of adults globally. But here's the good news: cavities are almost entirely preventable through evidence-based approaches. Understanding how decay happens, which prevention strategies actually work, and how to implement them effectively in your daily life prevents almost all decay.
 

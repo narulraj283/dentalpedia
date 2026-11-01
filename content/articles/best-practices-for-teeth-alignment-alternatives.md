@@ -19,6 +19,7 @@ references:
   - "Fleischer H, et al. Invisalign attachments for aligner retention: a systematic review. Proc (Bayl Univ Med Cent). 2018;31(4):463-470."
   - "Kwon HB, et al. Effectiveness of lingual appliances and clear aligners in correcting class II malocclusion: A systematic review. Korean J Orthod. 2018;48(3):154-162."
   - "Papageorgiou SN, et al. Effectiveness of lingual appliances for correcting dental malocclusions. Cochrane Database Syst Rev. 2016;(4):CD010536."
+last_reviewed: 2026-11-01
 ---
 ## Understanding Your Bite: The Basics
 

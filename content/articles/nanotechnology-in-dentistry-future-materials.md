@@ -11,6 +11,7 @@ reviewed: true
 slug: nanotechnology-in-dentistry-future-materials
 subcategory: Technology Overview
 title: Nanotechnology in Dentistry Future Materials
+last_reviewed: 2026-11-01
 ---
 ## Nanotechnology in Dentistry: Future Materials and Clinical Applications
 

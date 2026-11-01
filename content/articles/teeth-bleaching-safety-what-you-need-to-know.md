@@ -15,6 +15,7 @@ references:
     url: https://www.ada.org/en/science-and-research/ada-seal-products
   - title: "Haywood VB, Leonard RH, Nelson CF, et al. Effectiveness, side effects and long-term effects of nightguard vital bleaching. Journal of the American Dental Association. 1992;123(9):49-56."
     url: https://pubmed.ncbi.nlm.nih.gov/1401626
+last_reviewed: 2026-11-01
 ---
 ## Can Teeth Bleaching Damage Your Teeth?
 

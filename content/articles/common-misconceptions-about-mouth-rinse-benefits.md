@@ -19,6 +19,7 @@ references:
   - "Addy M. Chlorhexidine compared with other locally delivered antimicrobials. Journal of Clinical Periodontology. 1997;24(9):713-719."
   - "Jones CG. Chlorhexidine: Is it still the gold standard? Periodontology 2000. 1997;15:55-62."
   - "Greenstein G, et al. Nonsurgical periodontal therapy in 2000: when has treatment failed? Compendium of Continuing Education in Dentistry. 2000;21(7):532-556."
+last_reviewed: 2026-11-01
 ---
 Your dentist recommends a mouth rinse and you're not sure which one, whether you need it, or how long you should use it. Mouth rinses are helpful but misunderstood. Here's what actually works and when.
 

@@ -41,6 +41,7 @@ slug: restoration-shade-guide-color-selection
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Restoration Shade Guide Color Selection
+last_reviewed: 2026-11-01
 ---
 ## How Dentists Match Your Tooth Color: A Complete Patient Guide
 

@@ -19,6 +19,7 @@ references:
   - "Sarkaar S, Sarkaar S, Sarkaar S. Chlorhexidine Rinse in Prevention of Postoperative Alveolar Osteitis After Mandibular Third Molar Surgery. J Oral Maxillofac Surg. 2008;66(12):2454-2460."
   - "Monaco G, Staffolani C, Gontarz M, D'Orto B, Guerra M, Cosci F. Efficacy of Low-Level Laser Therapy for Bone Healing After Jaw Surgery. J Craniomaxillofac Surg. 2012;40(8):e327-e332."
   - "Aframian DJ, Lalla RV, Peterson DE. Management of Dental Patients Taking Common Medications for Systemic Conditions. Dent Clin North Am. 2002;46(4):701-713."
+last_reviewed: 2026-11-01
 ---
 ## What to Expect During Oral Surgery Recovery
 

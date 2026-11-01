@@ -29,6 +29,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/29012345
   - title: "Allergy and Hypersensitivity Reactions to Dental Local Anesthetics"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27456789
+last_reviewed: 2026-11-01
 ---
 Dental treatment shouldn't hurt. Fortunately, dentistry offers several ways to make sure you stay comfortable during procedures. Your dentist can choose from different anesthesia options depending on what type of work you're having done and how anxious you are. Understanding your choices helps you discuss what will work best for you.
 

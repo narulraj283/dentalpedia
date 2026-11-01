@@ -38,6 +38,7 @@ slug: timeline-for-cosmetic-gum-shaping
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: 'Gingival Recontouring Techniques: Crown Lengthening'
+last_reviewed: 2026-11-01
 ---
 ## The "Gummy Smile" Problem
 

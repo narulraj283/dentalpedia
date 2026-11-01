@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/18193382
   - title: "Kim T, Little RM, Kaley JR. Factors associated with anterior relapse. Am J Orthod Dentofacial Orthop. 1999;115(1):37-47."
     url: https://pubmed.ncbi.nlm.nih.gov/9889205
+last_reviewed: 2026-11-01
 ---
 One of the most important decisions in orthodontic treatment is whether you need teeth extracted. Your orthodontist has diagnosed crowding or bite problems and might suggest pulling one or more teeth before putting braces on. You might wonder: Is extraction really necessary?
 

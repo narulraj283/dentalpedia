@@ -21,6 +21,7 @@ references:
   - "American Academy of Pediatric Dentistry. Guideline on fluoride therapy. Pediatr Dent. 2018;40(6):197-204."
   - "van Rijkom HM, Truin GJ, van't Hof MA. A meta-analysis of clinical efficacy of fluoride gel treatment. Caries Res. 1998;32(2):83-90."
   - "Clarkson JE, Pitts NB, Stamm JW. Effective use of fluoride for caries prevention: a systematic review of 83 randomized controlled trials reporting the effects on caries and fluorosis. J Dent Res. 2000;79(10):893-904."
+last_reviewed: 2026-11-01
 ---
 ## Daily Fluoride Rinses: Convenience and Consistency
 

@@ -33,7 +33,7 @@ slug: fluoride-in-children-safety-and-dosage-guidelines
 subcategory: Pediatric Dental Care
 subcategory_slug: pediatric-care
 title: 'Fluoride in Children: Safety Guidelines, Dosage Protocols'
-last_reviewed: 2026-08-01
+last_reviewed: 2026-11-01
 ---
 ## The Critical Window for Fluoride in Childhood
 

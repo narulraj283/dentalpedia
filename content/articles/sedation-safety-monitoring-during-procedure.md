@@ -18,6 +18,7 @@ slug: sedation-safety-monitoring-during-procedure
 subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
 title: Sedation Monitoring - How Dentists Keep You Safe
+last_reviewed: 2026-11-01
 ---
 ## Why Monitoring Is Essential During Sedation
 

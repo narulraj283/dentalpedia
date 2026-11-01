@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/23234008
   - title: "Enamel microstructure changes and surface roughness after LED whitening"
     url: https://www.ncbi.nlm.nih.gov/pubmed/24992413
+last_reviewed: 2026-11-01
 ---
 ## Introduction
 

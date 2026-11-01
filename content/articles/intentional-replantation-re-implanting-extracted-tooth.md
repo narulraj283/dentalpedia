@@ -17,6 +17,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/28883831
   - title: "Healing response after intentional replantation"
     url: https://www.ncbi.nlm.nih.gov/pubmed/26439738
+last_reviewed: 2026-11-01
 ---
 Imagine being able to save a tooth even when your dentist recommends extraction. In some cases, intentional replantation makes this possible. This advanced technique involves extracting a tooth, treating the problem inside the root, and placing the tooth back in its socket. It's not something every dental office can do, but for the right patient and tooth, it can be a fantastic option.
 

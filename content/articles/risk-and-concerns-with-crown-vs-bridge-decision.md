@@ -44,6 +44,7 @@ slug: risk-and-concerns-with-crown-vs-bridge-decision
 subcategory: Restorative Overview
 subcategory_slug: overview-restorative
 title: 'Choosing Between a Crown and Bridge: What Matters'
+last_reviewed: 2026-11-01
 ---
 ## When You Need a Crown: Single Tooth Restoration
 

@@ -13,6 +13,7 @@ reviewed: true
 references:
   - "Needleman I, Ashley P, Fine P, Harding M, Kandiah T, Loosemore M. Sports dentistry: guideline and recommendations for practice. Br Dent J. 2015;219(11):521-531."
   - "Castaldi CR, Hoyt WA. The role of the team dentist in athletic programs. Dent Clin North Am. 1976;20(1):175-181."
+last_reviewed: 2026-11-01
 ---
 ## The Athlete's Dilemma
 

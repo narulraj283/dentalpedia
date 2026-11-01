@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/14520766
   - title: "Igarashi Y, Isomura G, Isomura H, et al. Relationship between stress level and sleep bruxism in adolescents. J Oral Sci. 2016;58(3):397-403."
     url: https://pubmed.ncbi.nlm.nih.gov/27733594
+last_reviewed: 2026-11-01
 ---
 ## Introduction
 

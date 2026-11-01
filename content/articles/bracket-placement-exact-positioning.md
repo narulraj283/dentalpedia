@@ -29,6 +29,7 @@ slug: bracket-placement-exact-positioning
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 title: 'Bracket Placement and Exact Positioning: Slot Height'
+last_reviewed: 2026-11-01
 ---
 The exact position of each bracket on your teeth matters tremendously. Being off by even a millimeter or two adds up over your entire treatment and can extend your time in braces by months, or even affect your final result. Modern technology is making bracket placement more precise than ever, which is good news for you. This article explains why placement matters and how your orthodontist gets it right.
 

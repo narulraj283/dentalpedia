@@ -29,6 +29,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/15272473
   - title: "Esthetic outcomes with different abutment materials"
     url: https://www.ncbi.nlm.nih.gov/pubmed/17261302
+last_reviewed: 2026-11-01
 ---
 A dental implant isn't just one piece—it's actually three separate parts working together. The root sits in your bone, a connector piece sits between the root and your crown, and your new tooth sits on top. Understanding how these parts fit together helps you see why implants work so well and last so long. Learning more about [Understanding Dental Implants: Complete Guide](/article/dental-implants-complete-guide-to-single-tooth-replacement.html) can help you understand this better.
 

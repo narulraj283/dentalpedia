@@ -19,6 +19,7 @@ references:
   - "Cistulli PA, Palmisano RG. Nasal CPAP and oral appliances in obstructive sleep apnea. Sleep Medicine Reviews. 2000;4(3):217-226."
   - "Gotsopoulos H, Kelly JB, Cistulli PA. Oral appliance therapy reduces blood pressure in obstructive sleep apnea. Sleep. 2004;27(5):934-941."
   - "Attali V, Chaumereuil C, Arnulf I. Obstructive sleep apnea treatment and perioperative complications. Sleep Medicine Reviews. 2017;40:141-150."
+last_reviewed: 2026-11-01
 ---
 If you're constantly exhausted despite sleeping 8 hours, sleep apnea might be the culprit. Learning more about [Sleep Apnea Breathing Pause During Sleep](/article/sleep-apnea-breathing-pause-during-sleep.html) can help you understand this better. Sleep apnea is a breathing disorder that fragments your sleep into tiny pieces, leaving you unrested despite adequate time in bed. Here's what you need to know about this common, treatable condition.
 

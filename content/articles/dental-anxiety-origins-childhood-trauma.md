@@ -13,6 +13,7 @@ reviewed: true
 references:
   - "Locker D. Psychosocial consequences of dental fear and anxiety. Community Dent Oral Epidemiol. 2003;31(2):144-151."
   - "Armfield JM, Spencer AJ, Stewart JF. Dental fear in Australia: who's afraid of the dentist? Aust Dent J. 2006;51(1):78-85."
+last_reviewed: 2026-11-01
 ---
 ## The Trauma Connection
 

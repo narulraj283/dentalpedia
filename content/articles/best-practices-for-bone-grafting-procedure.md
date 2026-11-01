@@ -21,6 +21,7 @@ references:
   - "Wang HL, Al-Shammari K. HLA compatibility and the outcome of guided bone regeneration and guided tissue regeneration therapy. J Clin Periodontol. 2002;29(4):396-403."
   - "Froum SJ, et al. Sinus floor elevation using a bone-blasting technique: the columbo technique. Int J Periodontics Restorative Dent. 2004;24(4):307-315."
   - "Corbella S, et al. Implant rehabilitation in regenerated bone in periodontally compromised patients. Periodontol 2000. 2018;76(1):159-191."
+last_reviewed: 2026-11-01
 ---
 ## Best Practices for Bone Grafting Procedure
 

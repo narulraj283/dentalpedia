@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/3857699
   - title: "Johnson N, Slade GD, Berndt AL. Systemic risk factors for enamel fluorosis. J Dent Res. 1999;78(1):206-213."
     url: https://pubmed.ncbi.nlm.nih.gov/9934943
+last_reviewed: 2026-11-01
 ---
 ## Introduction
 

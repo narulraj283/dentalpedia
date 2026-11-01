@@ -18,6 +18,7 @@ references:
   - "Ngan P, Kess B, Wilson S. Perception of Dental Esthetics and Its Relation to Personality Traits and Gender. Am J Orthod Dentofacial Orthop. 1989;96(6):503-508."
   - "Freitas MR, Beltrão RT, Janson G, Henriques JF. Postretention Relapse of Dental Movements in Class I Extraction Cases. Angle Orthod. 2007;77(5):733-738."
   - "Wasserstein A. Relapse of Orthodontic Correction in Cases Treated With Extractions: A Systematic Literature Review. Am J Orthod Dentofacial Orthop. 2006;129(5):622-641."
+last_reviewed: 2026-11-01
 ---
 ## Extraction vs. Non-Extraction: Which Is Right for Your Situation?
 

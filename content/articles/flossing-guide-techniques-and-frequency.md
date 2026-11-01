@@ -21,6 +21,7 @@ references:
   - "Löe H, Theilade E, Jensen SB. Experimental gingivitis in man. J Periodontol. 1965;36(3):177-187."
   - "Kinney JS, Morelli T, Oh M, et al. Crevicular fluid biomarkers and periodontal disease progression. J Clin Periodontol. 2014;41(2):113-120."
   - "Cobb CM. Clinical significance of non-surgical periodontal therapy: an evidence-based perspective of scaling and root planing. J Clin Periodontol. 2002;29(Suppl 2):6-16."
+last_reviewed: 2026-11-01
 ---
 ## How Often Should You Floss?
 

@@ -41,6 +41,7 @@ slug: phosphorus-in-tooth-structure
 subcategory: Nutrition Overview
 subcategory_slug: overview-nutrition
 title: Phosphorus in Tooth Structure and Enamel Health
+last_reviewed: 2026-11-01
 ---
 ## Why Phosphorus Matters for Your Teeth
 

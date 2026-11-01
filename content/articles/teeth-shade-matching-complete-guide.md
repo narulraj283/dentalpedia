@@ -42,6 +42,7 @@ slug: teeth-shade-matching-complete-guide
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: 'Shade Matching Science: Advanced Clinical Guide'
+last_reviewed: 2026-11-01
 ---
 ## Why Matching Tooth Color Is Tricky
 

@@ -44,7 +44,7 @@ slug: toothpaste-fluoride-content-ppm-and-recommendations
 subcategory: Preventive Overview
 subcategory_slug: overview-prevent
 title: 'Toothpaste Fluoride Content: PPM and Recommendations'
-last_reviewed: 2026-05-01
+last_reviewed: 2026-11-01
 ---
 ## Introduction
 

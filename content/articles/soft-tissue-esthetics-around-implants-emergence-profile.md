@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/17092213
   - title: "Priest G. Virtual implant placement: factors affecting the esthetic outcome. Clin Oral Implants Res. 2005;16(Suppl 1):106-113."
     url: https://pubmed.ncbi.nlm.nih.gov/16176484
+last_reviewed: 2026-11-01
 ---
 ## Why Gums Matter for Implants
 

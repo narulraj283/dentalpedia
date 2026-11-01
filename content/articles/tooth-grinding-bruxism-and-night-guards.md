@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/18617394
   - title: "Molina OF, dos Santos J, Nelson SJ, et al. Placebo and pharmacological treatment of bruxism. Cranio. 1999;17(4):290-295."
     url: https://pubmed.ncbi.nlm.nih.gov/10949571
+last_reviewed: 2026-11-01
 ---
 ## Understanding Bruxism
 

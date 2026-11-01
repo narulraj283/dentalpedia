@@ -21,6 +21,7 @@ references:
   - "Kumar KH, Raghav S, Chopra N. Evaluation of hemostatic efficacy of tranexamic acid rinse in patients with bleeding disorders. J Oral Maxillofac Surg. 2019;78(2):234-241."
   - "Haas DA. Structured review of antifibrinolytic agents and thrombin for hemostasis in oral surgery. J Can Dent Assoc. 2017;83(h4):1-8."
   - "Fernandes BM, et al. Allergic reactions to local anesthetics: what the clinician should know. Dent Today. 2015;34(10):120-127."
+last_reviewed: 2026-11-01
 ---
 ## Best Practices for Anesthesia Types in Dental Procedures
 

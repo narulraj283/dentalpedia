@@ -28,6 +28,7 @@ slug: benefits-of-tooth-gap-closure
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Diastema and Gap Management - Etiology, Treatment Options
+last_reviewed: 2026-11-01
 ---
 ## Closing Gaps Between Your Teeth: Options for Every Gap Size
 

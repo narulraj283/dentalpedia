@@ -27,6 +27,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/26438143
   - title: "Esthetic restoration maintenance and patient satisfaction: relationship between proactive care protocols and outcome stability"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25342155
+last_reviewed: 2026-11-01
 ---
 You've invested time and money in cosmetic dental work to create your beautiful smile. Whether you have porcelain veneers, cosmetic bonding, crowns, or other repairs, you naturally want them to last as long as possible and continue looking perfect. The good news is that with proper upkeep, cosmetic dental work can remain beautiful and functional for many years. Let's explore the proven strategies that extend the lifespan of your repairs and keep your smile looking its absolute best.
 

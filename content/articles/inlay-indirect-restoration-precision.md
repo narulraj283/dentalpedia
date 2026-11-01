@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/30255851
   - title: "Shade matching and esthetic outcomes in ceramic inlay restorations"
     url: https://www.ncbi.nlm.nih.gov/pubmed/29360262
+last_reviewed: 2026-11-01
 ---
 If your dentist has told you that you need a "large filling," they might suggest an inlay instead. An inlay is a type of restoration that's custom-made in a laboratory and then cemented into your tooth. Think of it as a sophisticated alternative to a regular filling—it's stronger, lasts longer, and looks better. Your tooth is preserved as much as possible, which means you keep more of your natural tooth structure.
 

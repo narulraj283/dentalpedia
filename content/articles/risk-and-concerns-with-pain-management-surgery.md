@@ -46,7 +46,7 @@ slug: risk-and-concerns-with-pain-management-surgery
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Risk and Concerns with Pain Management Surgery
-last_reviewed: 2026-04-01
+last_reviewed: 2026-11-01
 ---
 ## Introduction
 

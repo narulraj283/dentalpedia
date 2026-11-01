@@ -21,6 +21,7 @@ references:
   - "Morrissette DB. Interproximal caries: the interaction between oral hygiene and diet. J Dent Hyg. 2001;75(2):141-147."
   - "Dahiya MC, Gutierrez A, Dahiya V, et al. Clinical evaluation of a new toothbrush design in controlling plaque and gingival inflammation. Compend Contin Educ Dent. 2009;30(4):219-226."
   - "Pimlott JF, Komiyama K, Karakashian KM. Comparative effectiveness of conventional manual and electric toothbrushes in controlling plaque and gingival inflammation. J Clin Dent. 2004;15(2):45-52."
+last_reviewed: 2026-11-01
 ---
 ## The Hidden Spaces That Brushing Misses
 

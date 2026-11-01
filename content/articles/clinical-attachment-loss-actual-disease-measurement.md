@@ -21,6 +21,7 @@ references:
   - Pihlstrom BL, Michalowicz BS, Johnson NW. Periodontal diseases. Lancet. 2005;366(9499):1809-1820.
   - Chapple ILC, Mealey BL, Van Dyke TE, et al. Periodontal health and gum disease. J Dent Res. 2013;92(12):1060-1065.
   - Offenbacher S, Barros SP, Beck JD. Rethinking periodontal inflammation. J Dent Res. 2008;87(6):574-583.
+last_reviewed: 2026-11-01
 ---
 ## What Is Clinical Attachment Loss, and Why Does It Matter?
 

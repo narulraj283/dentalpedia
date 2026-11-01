@@ -31,7 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/28935485
   - title: "Kim HJ, Jang HS, Park HD, Nam W. Modern imaging in oral and maxillofacial surgery. Br Dent J. 2015;219(4):169-174."
     url: https://pubmed.ncbi.nlm.nih.gov/26279111
-last_reviewed: 2026-10-01
+last_reviewed: 2026-11-01
 ---
 ## Introduction
 

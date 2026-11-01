@@ -21,7 +21,7 @@ references:
   - "Gordan VV, Markowitz K, Rindal DB. Treatment of non-carious cervical lesions: where are we now? J Esthet Restor Dent. 2009;21(4):266-276."
   - "Van Landuyt KL, Nawrot T, Geebelen B, et al. How much do resin-based dental materials release? A meta-analytical approach. Dent Mater. 2011;27(4):359-368."
   - "Sakaguchi RL. Review of the current status and challenges for dental composite restorative materials. J Dent Res. 2015;94(5):660-667."
-last_reviewed: 2026-10-01
+last_reviewed: 2026-11-01
 ---
 ## Choosing the Right Restoration for Your Tooth
 

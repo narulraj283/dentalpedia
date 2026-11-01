@@ -46,6 +46,7 @@ slug: risk-and-concerns-with-gum-health-maintenance
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
 title: Risk and Concerns with Gum Health Maintenance
+last_reviewed: 2026-11-01
 ---
 ## Introduction
 

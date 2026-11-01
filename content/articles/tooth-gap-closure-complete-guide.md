@@ -43,6 +43,7 @@ slug: tooth-gap-closure-complete-guide
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Tooth Gap Closure - Complete Guide to Closing
+last_reviewed: 2026-11-01
 ---
 ## Understanding Tooth Gaps (Diastema)
 

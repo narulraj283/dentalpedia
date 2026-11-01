@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/19079258/
   - title: "Bone removal techniques: surgical bur selection and safety protocols"
     url: https://pubmed.ncbi.nlm.nih.gov/18619091/
+last_reviewed: 2026-11-01
 ---
 ## Planning Your Wisdom Tooth Extraction
 

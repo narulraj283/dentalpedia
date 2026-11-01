@@ -29,7 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/25950534
   - title: "Inferior alveolar artery hemorrhage: recognition and emergency management"
     url: https://pubmed.ncbi.nlm.nih.gov/24903196
-last_reviewed: 2026-06-01
+last_reviewed: 2026-11-01
 ---
 ## Understanding Why Tooth Extraction Can Be Complicated
 

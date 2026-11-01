@@ -29,6 +29,7 @@ slug: extruded-tooth-partially-pushed-out
 subcategory: Emergency Overview
 subcategory_slug: overview-emergency
 title: 'Extruded Tooth: Traumatic Extrusion Classification'
+last_reviewed: 2026-11-01
 ---
 ## What an Extruded Tooth Is
 

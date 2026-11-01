@@ -29,6 +29,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/31234567
   - title: "Oral Hygiene Compliance and Disease Prevention: Patient Education Outcomes"
     url: https://pubmed.ncbi.nlm.nih.gov/28567890
+last_reviewed: 2026-11-01
 ---
 ## Why This Matters for Your Health
 

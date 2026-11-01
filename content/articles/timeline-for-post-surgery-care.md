@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/26604566
   - title: "Dodson TB, Perrott DH. Patient preferences in third molar management. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2010;109(6):968-977."
     url: https://pubmed.ncbi.nlm.nih.gov/15925345
+last_reviewed: 2026-11-01
 ---
 ## Taking Care of Yourself After Oral Surgery
 

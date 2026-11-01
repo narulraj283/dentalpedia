@@ -41,6 +41,7 @@ slug: overlay-full-cuspal-coverage
 subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
 title: Overlay Full Cuspal Coverage
+last_reviewed: 2026-11-01
 ---
 ## What Are Overlay Restorations?
 

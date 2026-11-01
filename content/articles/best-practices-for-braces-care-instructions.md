@@ -19,6 +19,7 @@ references:
   - "Ahrari F, Heravi F, Kafaei O, Akbari M. The effect of propolis and nano-hydroxyapatite paste on orthodontic bracket debonding and enamel damage. Aust Orthod J. 2015;31(1):35-41."
   - "Cardoso PC, Espinosa R, Barbosa IR, de Novaes AM, de Melo CP. Effectiveness of an electric toothbrush on plaque removal of patients with fixed appliances. Angle Orthod. 2005;75(6):996-1001."
   - "Felicita AS. Orthodontic management of difficult cases and related clinical problems. World J Clin Cases. 2018;6(13):121-133."
+last_reviewed: 2026-11-01
 ---
 Getting braces is a big commitment. You're investing time and effort to get a great smile, so it's important to take good care of them. Proper care means your treatment will be faster, more comfortable, and your results will look amazing.
 

@@ -21,6 +21,7 @@ references:
   - "Lynch et al. Failure Modes of Class II Composite Restorations. Operative Dentistry, 2022;47(5):509-522."
   - "Teixeira et al. Resin Matrix Hydrolysis and Degradation. Polymers, 2023;15(2):367."
   - "Magne & Debels. Adhesive Interface Longevity in Direct Composite Restorations. Quintessence International, 2023;54(3):212-228."
+last_reviewed: 2026-11-01
 ---
 Composite fillings look natural and are extremely popular. But you've probably wondered: how long will they actually last? The honest answer: not as long as silver amalgam, but with good care they last a reasonable time. Let's talk about what determines composite longevity and how to extend the life of your repairs.
 

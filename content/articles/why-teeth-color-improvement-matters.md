@@ -31,6 +31,7 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/20298359/"
   - title: "Bleaching agents and enamel surface morphology changes"
     url: "https://pubmed.ncbi.nlm.nih.gov/18362478/"
+last_reviewed: 2026-11-01
 ---
 Your tooth color affects how bright and youthful your smile appears, and it changes over time for reasons you can't always control. Understanding what determines your tooth color, what can change it, and how expert whitening works helps you make decisions about improving your smile's appearance.
 

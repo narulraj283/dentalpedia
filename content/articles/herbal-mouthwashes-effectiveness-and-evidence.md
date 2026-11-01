@@ -35,6 +35,7 @@ slug: herbal-mouthwashes-effectiveness-and-evidence
 subcategory: Preventive Overview
 subcategory_slug: overview-preventive
 title: 'Herbal Mouthwashes: Clinical Evidence, Efficacy'
+last_reviewed: 2026-11-01
 ---
 ## Why People Choose Herbal Mouthwashes
 

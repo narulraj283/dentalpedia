@@ -19,6 +19,7 @@ references:
   - "Heitz-Mayfield LJA, et al. Long-term efficacy of surgical debridement versus non-surgical scaling in patients with advanced periodontitis. Journal of Clinical Periodontology. 2017;44(8):766-776."
   - "Sanz M, et al. Efficacy of antimicrobial mouthrinses and toothpastes in controlling plaque and gingivitis. Journal of Clinical Periodontology. 2015;42(S16):S95-S105."
   - "Van Dyke TE, Dave S. Risk factors for periodontitis. Journal of the International Academy of Periodontology. 2005;7(1):3-7."
+last_reviewed: 2026-11-01
 ---
 You want healthy gums. So you brush harder, maybe more frequently, and hope that fixes the problem. But healthy gum maintenance is actually about gentle technique, daily consistency, and understanding what normal gums should feel and look like.
 

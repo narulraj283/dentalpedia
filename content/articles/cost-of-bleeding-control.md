@@ -21,6 +21,7 @@ references:
   - "Graft C, Obi D, Kuensting W. Perioperative hemorrhage management. Int J Oral Maxillofac Surg. 2011;40(8):863-874."
   - "Schwartz-Arad D, Chaushu G. Placement of implants into fresh extraction sites: 7-year follow-up clinical evaluation. J Periodontol. 1997;68(1):54-59."
   - "Palti A. Periosteal elevation during implant site preparation: Clinical evaluation of a new technique and related terminology. Int J Oral Maxillofac Implants. 2005;20(1):13-24."
+last_reviewed: 2026-11-01
 ---
 During mouth surgery, stopping bleeding keeps you safe and makes surgery go smoothly. Dentists use special materials and techniques to stop blood flow. This explains what affects cost and how bleeding control helps you. Good bleeding control is key for healing and preventing problems.
 

@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/10086849
   - title: "Taves DR. Dietary intake of fluoride ashed (total fluorine) vs unashed (inorganic fluoride) analysis of individual foods and Indian diets. J Dent Res. 1983;62(8):913-918."
     url: https://pubmed.ncbi.nlm.nih.gov/6576256
+last_reviewed: 2026-11-01
 ---
 ## Introduction
 

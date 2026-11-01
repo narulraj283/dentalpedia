@@ -15,6 +15,7 @@ references:
   - "Husseini A, Slot DE, Van der Weijden GA. The Efficacy of Oral Irrigation in Addition to a Toothbrush on Plaque and the Clinical Parameters of Periodontal Inflammation: A Systematic Review. Int J Dent Hyg. 2008;6(4):304-314."
   - "Goyal CR, Lyle DM, Qaqish JG, Schuller R. Evaluating the Plaque Removal Efficacy of a Water Flosser (Waterpik) Compared to String Floss in Interproximal and Subgingival Areas. J Dent Res. 2012;91(Spec Iss A):3732."
   - "Sanz M, Baudet A, Fuenmayor G, et al. Effect of Water Pressure on Biofilm Disruption. J Clin Periodontol. 2003;30(10):927-933."
+last_reviewed: 2026-11-01
 ---
 ## Do Water Flossers Actually Work?
 

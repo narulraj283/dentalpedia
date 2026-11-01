@@ -19,6 +19,7 @@ references:
   - "Kokich VO, Kokich VG, Kiyak HA. Perceptions of dental professionals and lay people to altered dental esthetics: asymmetric and symmetric situations. Am J Orthod Dentofacial Orthop. 2006;130(2):141-151."
   - "Tebbetts JB. The twenty-first-century esthetic dental paradigm. J Esthet Restor Dent. 2000;12(4):227-230."
   - "Burkhardt R, Joss A, Joss-Basler B, Lang NP. Esthetics and its relationship to periodontal health. Periodontol 2000. 2016;77(1):173-183."
+last_reviewed: 2026-11-01
 ---
 ## What Are Black Triangles?
 

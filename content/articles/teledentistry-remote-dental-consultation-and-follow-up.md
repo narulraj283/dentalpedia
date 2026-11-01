@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/32847542
   - title: "Schiel HA, Garcia AA, Ito D. Teledentistry in Rural Access Programs of South Carolina. J Dent Res. 2015;94(3_suppl):112B."
     url: https://pubmed.ncbi.nlm.nih.gov/26503564
+last_reviewed: 2026-11-01
 ---
 ## Introduction
 

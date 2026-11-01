@@ -19,6 +19,7 @@ references:
   - "Chin M, Toth BA. Distraction osteogenesis in maxillofacial surgery using internal devices: Review of five cases. J Oral Maxillofac Surg. 1996;54(1):45-53."
   - "Cano J, Campo J, Liñares A, et al. Distraction osteogenesis in oral implantology. Med Oral Patol Oral Cir Bucal. 2012;17(1):e379-e387."
   - "Aronson J. Limb-lengthening, skeletal reconstruction, and bone transport distraction with internal devices. Clin Orthop Relat Res. 1994;301:111-122."
+last_reviewed: 2026-11-01
 ---
 ## What Is Bone Distraction and How Does It Work?
 

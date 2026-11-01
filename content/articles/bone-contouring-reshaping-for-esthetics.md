@@ -19,6 +19,7 @@ references:
   - "Iyer N, et al. Systematic review of bone contouring techniques: Esthetics and implant outcomes. Int J Oral Maxillofac Implants. 2016;31(6):1350-1370."
   - "Kois JC. Predictable implant placement: Five diagnostic keys. Compend Contin Educ Dent. 2004;25(8):568-578."
   - "Cohen B. Atlas of Cosmetic and Reconstructive Periodontal Surgery. 2nd ed. St. Louis: Mosby; 1994."
+last_reviewed: 2026-11-01
 ---
 ## How Bone Shape Affects Your Smile
 

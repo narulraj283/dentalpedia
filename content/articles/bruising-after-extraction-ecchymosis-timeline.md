@@ -21,6 +21,7 @@ references:
   - "Zaffe D, Carezzato D, Netti G, et al. Histomorphometric evaluation of extraction socket healing in humans. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2005;100(3):287-294."
   - "Schultze-Mosgau S, Schultze-Mosgau S, Nkenke E. Combination of intrusive and extrusive periodontal trauma in humans: a case report on tissue reaction. Dent Traumatol. 2000;16(5):293-299."
   - "Bourauel C, Vollmer D, Jäger A. Application of the finite element method to the initial tooth movement during intra-alveolar tooth splitting. J Biomech. 2000;33(8):975-984."
+last_reviewed: 2026-11-01
 ---
 ## Why Bruising Happens After Tooth Extraction
 

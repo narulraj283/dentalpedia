@@ -27,6 +27,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/28837369
   - title: "Tongue Cleaning and Oral Microbiota Clinical and Microbiological Aspects"
     url: https://pubmed.ncbi.nlm.nih.gov/20640358
+last_reviewed: 2026-11-01
 ---
 ## The Correct Brushing Technique
 

@@ -21,6 +21,7 @@ references:
   - "Robertson L, Kaur H, Covell D Jr, Zenebe S, Chung C. Effectiveness of clear aligner therapy for orthodontic treatment: a systematic review. Orthod Craniofac Res. 2020;23(2):133-142."
   - "Guseva JS. The effectiveness of clear aligners in orthodontic treatment. J Am Dent Assoc. 2015;146(8):619-621."
   - "Levin L, Sahrmann P, Wenzel A, Genderson T, Sergeyev B. Periodontal conditions in patients treated with clear aligners and fixed appliances: A systematic review. J Dent. 2018;77:1-6."
+last_reviewed: 2026-11-01
 ---
 ## The Market Landscape
 

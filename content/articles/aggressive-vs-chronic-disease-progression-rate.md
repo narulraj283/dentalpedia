@@ -21,6 +21,7 @@ references:
   - "Eke PI, et al. Recent trends in the prevalence of periodontitis in the United States. Journal of Dental Research. 2012;91(10):914-920."
   - "Page RC, et al. The pathogenesis of human periodontitis: an introduction. Periodontology 2000. 1997;14(1):9-11."
   - "Seymour GJ, et al. Disease mechanisms of periodontitis. Journal of Periodontology. 2016;87(7):791-801."
+last_reviewed: 2026-11-01
 ---
 ## The New Classification System
 

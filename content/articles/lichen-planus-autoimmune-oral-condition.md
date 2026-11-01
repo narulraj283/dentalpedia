@@ -31,6 +31,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/21955705
   - title: "Psychosocial factors and quality of life in patients with oral lichen planus"
     url: https://www.ncbi.nlm.nih.gov/pubmed/23234008
+last_reviewed: 2026-11-01
 ---
 ## What Is Oral Lichen Planus?
 

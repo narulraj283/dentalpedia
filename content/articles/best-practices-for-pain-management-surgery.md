@@ -33,6 +33,7 @@ slug: best-practices-for-pain-management-surgery
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 title: Comprehensive Pain Management Protocols in Oral
+last_reviewed: 2026-11-01
 ---
 ## How to Stay Comfortable After Dental Surgery
 

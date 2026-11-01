@@ -48,6 +48,7 @@ slug: pain-management-post-surgery-analgesia
 subcategory: General Overview
 subcategory_slug: overview-general
 title: Pain Management Post Surgery Analgesia
+last_reviewed: 2026-11-01
 ---
 ## Understanding Post-Surgical Pain
 

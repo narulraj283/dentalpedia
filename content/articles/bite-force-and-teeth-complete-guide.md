@@ -19,6 +19,7 @@ references:
   - "Fontijn-Tekamp FA, Slagter AP, Van Der Bilt A, Van 't Hof MA, Witter DJ, Kalk W, Jansma J. Biting and chewing in overdentures, full dentures, and natural dentitions. Journal of Dental Research. 2000;79(7):1519-1524."
   - "Ramfjord SP, Blankenship JR. Influence of destructive forceful habits on periodontium of intact teeth. Journal of Periodontology. 1970;41(9):528-535."
   - "Throckmorton GS. Oral and Pharyngeal Biomechanics. Seminars in Orthodontics. 1998;4(1):2-11."
+last_reviewed: 2026-11-01
 ---
 ## What Is Bite Force and Why It Matters
 

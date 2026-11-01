@@ -31,6 +31,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/7990020
   - title: "Jensen SS, Terheyden H. Bone augmentation procedures in localized defects in the alveolar ridge: clinical perspectives and evidence-based recommendations. Int J Oral Maxillofac Implants. 2012;27(Suppl):25-42."
     url: https://pubmed.ncbi.nlm.nih.gov/22905679
+last_reviewed: 2026-11-01
 ---
 ## How Your Mouth Heals After Tooth Extraction
 

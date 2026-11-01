@@ -37,6 +37,7 @@ slug: shortened-tooth-root-cosmetic-crown-lengthening
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 title: Shortened Tooth Root Cosmetic Crown Lengthening
+last_reviewed: 2026-11-01
 ---
 ## What is a Gummy Smile and Why It Matters
 

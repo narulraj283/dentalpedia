@@ -11,6 +11,7 @@ slug: tmj-surgery-meniscectomy-and-arthroscopy
 subcategory: TMJ & Sleep Overview
 subcategory_slug: overview-tmj-sleep
 title: 'TMJ Surgery Options: Meniscectomy, Arthroscopy'
+last_reviewed: 2026-11-01
 ---
 ## Introduction
 

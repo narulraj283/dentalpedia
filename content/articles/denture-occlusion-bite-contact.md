@@ -31,6 +31,7 @@ slug: denture-occlusion-bite-contact
 subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
 title: 'How Your Denture Bite Should Work: Balanced Contact'
+last_reviewed: 2026-11-01
 ---
 How your dentures bite together significantly affects their stability and how comfortable they feel. Proper bite contact (called occlusion) is one of the most important things your dentist adjusts during the fitting and delivery process.
 
